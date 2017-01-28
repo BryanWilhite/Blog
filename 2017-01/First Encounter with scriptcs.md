@@ -61,7 +61,7 @@ pubContext.GenerateChapters();
 
 ```
 
-**scriptcs or Rosyln cannot properly parse classes with private members on Linux.** A class as simple as the the following will not compile properly on Linux:
+**scriptcs or Rosyln cannot properly parse classes with private members on Linux.** A class as simple as the following will not ‘compile’ (or interpret) properly on Linux:
 
 ```c#
 public class Foo
@@ -73,7 +73,7 @@ public class Foo
 
 ```
 
-I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during ‘compile’ (or interpretation) time (which suggests to me that Rosyln is having trouble parsing something).
+I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during initialization/interpretation time (which suggests to me that Rosyln is having trouble parsing something).
 
 I saw the error go away when I did this:
 
