@@ -73,7 +73,7 @@ public class Foo
 
 ```
 
-I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during compile time (which suggests to me that Rosyln is having trouble parsing something).
+I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during ‘compile’ (or interpretation) time (which suggests to me that Rosyln is having trouble parsing something).
 
 I saw the error go away when I did this:
 
