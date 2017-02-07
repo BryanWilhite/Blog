@@ -1,7 +1,11 @@
+autofac
 epub
+elmah
 linq
 oebps
 rosyln
 scriptcs
 scriptcsnet
+swaggerfied
+swashbuckle
 xhtml
