@@ -142,3 +142,11 @@ public void Apply(Operation operation, SchemaRegistry schemaRegistry, ApiDescrip
     operation.responses.Add(new KeyValuePair<string, Response>("200", okResponse));
 }
 ```
+
+Now, for the question, “What is going on with that `topLevelTitle` variable in `SetAbbreviatedSchema()`?” This question refers to this (shown above):
+
+``` c#
+var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
+```
+
+This line is a hack to get around the current situation with Swagger/Swashbuckle where `Schema` definitions are considered duplicates when they have the same `Schema.title`.
