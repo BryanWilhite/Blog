@@ -1,9 +1,11 @@
 appdata
 autofac
+chocolatey
 epub
 elmah
 linq
 oebps
+rasx
 readline
 rosyln
 scriptcs
