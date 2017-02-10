@@ -1,11 +1,14 @@
+appdata
 autofac
 epub
 elmah
 linq
 oebps
+psreadline
 rosyln
 scriptcs
 scriptcsnet
 swaggerfied
 swashbuckle
+vimes
 xhtml
