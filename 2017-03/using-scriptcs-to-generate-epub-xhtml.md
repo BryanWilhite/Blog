@@ -1,0 +1,5 @@
+<h2>Using scriptcs to Generate EPUB XHTML</h2>
+
+I am embarrassed to admit that I was unaware that [EPUB](https://en.wikipedia.org/wiki/EPUB) is a highly successful application of [XHTML](https://en.wikipedia.org/wiki/XHTML) _outside_ of the Web browser. It has been a standard of the [IDPF](https://en.wikipedia.org/wiki/International_Digital_Publishing_Forum) for over a decade. My entry into the .NET Framework around 2003 was driven by [`XPathDocument`](https://msdn.microsoft.com/en-us/library/system.xml.xpath.xpathdocument(v=vs.110).aspx) which gave way to `XDocument` under [LINQ to XML](https://msdn.microsoft.com/en-us/library/mt693062.aspx) (around 2007). My document-centric approach to the .NET Framework (coupled with my [Desktop publishing](https://en.wikipedia.org/wiki/Desktop_publishing) background) makes me more than suited to develop a publishing pipeline for EPUB.
+
+For my design, there were two critical elements missing for this pipeline: (i) [markdown](https://code.visualstudio.com/Docs/languages/markdown) (in the Visual Studio Code environment) and (ii) [scriptcs](http://scriptcs.net).
