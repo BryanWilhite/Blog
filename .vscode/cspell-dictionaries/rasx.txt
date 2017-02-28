@@ -3,6 +3,7 @@ autofac
 chocolatey
 epub
 elmah
+idpf
 linq
 oebps
 rasx
@@ -10,6 +11,7 @@ readline
 rosyln
 scriptcs
 scriptcsnet
+songhay
 swaggerfied
 swashbuckle
 vimes
