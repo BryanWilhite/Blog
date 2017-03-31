@@ -1,6 +1,7 @@
 appdata
 autofac
 chocolatey
+cors
 epub
 elmah
 idpf

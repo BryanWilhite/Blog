@@ -4,10 +4,12 @@ I need to record my personal satisfaction with ASP.NET Web API ‘readiness’ (
 
 * Using claims-based authentication to ‘spawn’ a generic/shared user without LDAP or AD
 * Sharing routes among services with an abstract `ApiController` class
+* Moving legacy databases to SQL Azure
 * Automated testing of API controllers with [OWIN](http://owin.org/)
+* Using the `EnableCors` attribute to support Cross-Origin Resource Sharing
 * Leveraging `JObject` with Web API
 * Extending `DefaultContractResolver` to handle circular references in data access models
-* Moving legacy databases to SQL Azure
+* Building a `JObject` Repository to back an API (with AutoFac)
 * `IHttpActionResult`, attribute-based routing and other ‘basics’
 * My use of ‘model context’ namespaces for data access.
 
