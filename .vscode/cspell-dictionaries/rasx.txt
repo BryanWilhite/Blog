@@ -4,8 +4,11 @@ chocolatey
 epub
 elmah
 idpf
+ldap
 linq
+namespaces
 oebps
+owin
 rasx
 readline
 rosyln
