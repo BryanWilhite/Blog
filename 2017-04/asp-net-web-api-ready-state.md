@@ -11,9 +11,9 @@ I need to record my personal satisfaction with ASP.NET Web API ‘readiness’ (
 * Extending `DefaultContractResolver` to handle circular references in data access models
 * Building a `JObject` Repository to back an API (with AutoFac)
 * `IHttpActionResult`, attribute-based routing and other ‘basics’
-* My use of ‘model context’ namespaces for data access.
+* My use of ‘business domain’ (`*.Foo.Models` => `*.Foo.ModelContext` => `*.Foo.Repository`) namespaces for data access.
 
-And now the punchline: All of these learnings have to migrated to ASP.NET Core.
+And now the punchline: All of these learnings have to migrated to ASP.NET Core. Before this great migration, I will need to write notes about each of these items to preserve my progress in these areas and prevent relearning-bottlenecks in future.
 
 <h3>Related Links</h3>
 
