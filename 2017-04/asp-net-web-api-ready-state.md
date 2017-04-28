@@ -1,4 +1,4 @@
-<h2>ASP.NET Web API Ready State</h2>
+<h2>ASP.NET Web API Ready State (4/2017)</h2>
 
 I need to record my personal satisfaction with ASP.NET Web API ‘readiness’ (as in battle-ready state), after about four years of working toward this _feeling_. The trigger for this emotional outburst came with understanding how [claims-based security](https://msdn.microsoft.com/en-us/library/ff359101.aspx) can be used with ASP/NET Web API. Now I can make a little list of highlights for this ready state:
 
