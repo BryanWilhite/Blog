@@ -1,6 +1,6 @@
 <h2>WPF Prism: Migrating from MEF to Unity</h2>
 
-The Songhay System made historical, Desktop, investments in [Glenn Block’s MEF](https://www.hanselminutes.com/148/mef-managed-extensibility-framework-with-glenn-block) that must be converted over to Prism. This move is primarily under the influence of [Brian Lagunas](https://github.com/brianlagunas), his work on the open source manifestation of Prism. Lagunas made a simple, technical statement that I cannot ignore: [MEF is not an IoC container](http://stackoverflow.com/questions/216565/why-exactly-isnt-mef-a-di-ioc-container). Additionally, when you examine [the code samples for Prism 6.x](https://github.com/PrismLibrary/Prism-Samples-Wpf) we can see that MEF does not exist in the present of Prism (even though there is a ‘polite’ [NuGet package for MEF under Prism 6](https://www.nuget.org/packages/Prism.Mef/)). It must also be mentioned that the only MEF supporter I can see today is [Piotr Włodek](https://github.com/pwlodek). He is a powerhouse behind [MEFContrib](https://github.com/pwlodek/MefContrib) but I am not seeing .NET Core or .NET Standard teams _at Microsoft_ packing up MEF for a NuGet cross-platform future.
+The Songhay System made historical, Desktop, investments in [Glenn Block’s MEF](https://www.hanselminutes.com/148/mef-managed-extensibility-framework-with-glenn-block) that must be converted over to Prism. This move is primarily under the influence of [Brian Lagunas](https://github.com/brianlagunas), his work on the open source manifestation of Prism. Lagunas made a simple, technical statement that I cannot ignore: [MEF is not an IoC container](http://stackoverflow.com/questions/216565/why-exactly-isnt-mef-a-di-ioc-container). Additionally, when you examine [the code samples for Prism 6.x](https://github.com/PrismLibrary/Prism-Samples-Wpf) we can see that MEF does not exist in the present of Prism (even though there is a ‘polite’ [NuGet package for MEF under Prism 6](https://www.nuget.org/packages/Prism.Mef/)). It must also be mentioned that the only prominent MEF supporter I can see today is [Piotr Włodek](https://github.com/pwlodek). He is a powerhouse behind [MEFContrib](https://github.com/pwlodek/MefContrib) but I am not seeing .NET Core or .NET Standard teams _at Microsoft_ packing up MEF _in NuGet_ for a cross-platform future.
 
 <h3>Migrating from `BiggestBox` to `StudioFloor`</h3>
 
@@ -28,8 +28,70 @@ With Unity in play, there is a need to register a view for navigation in `IModul
 
 ``` C#
 
-    this._container.RegisterTypeForNavigation<FooView>();
+this._container.RegisterTypeForNavigation<FooView>();
 
 ```
 
-<h3>Migration Step 3: Use `RegisterInstance()` in View-First, Shared-View-Model Scenarios</h3>
+<h3>Migration Step 3: Use Prism XAML Declarations for View-First Patterns</h3>
+
+This is this Prism XAML declarations for a View-first scenario:
+
+``` XAML
+
+<UserControl x:Class="MyApp.Views.FooView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:prism="http://prismlibrary.com/"
+    prism:ViewModelLocator.AutoWireViewModel="True">
+
+```
+
+My experience informs me that there is no special Prism code needed in the View and the View Model to get this scenario working. This is where Unity has a clear, conventions-based advantage over MEF.
+
+Now, there was a time when I preferred the C#-equivalent of this XAML declaration (stated in the constructor of the View):
+
+``` C#
+
+ViewModelLocator.SetAutoWireViewModel(this, true);
+
+```
+
+BTW: Brian Lagunas has written [a code sample to show how to change the default conventions](https://github.com/PrismLibrary/Prism-Samples-Wpf/blob/master/9-ChangeConvention/ViewModelLocator/Bootstrapper.cs) around `ViewModelLocator`.
+
+<h3>Migration Step 4: Use the `GetInstance()` Anti-Pattern for View-Model-First Scenarios</h3>
+
+Like an animal, [I have written `GetInstance()` extension methods](https://github.com/BryanWilhite/Songhay.Mvvm/blob/master/Songhay.Mvvm/Extensions/IViewExtensions.cs) intended to be used to a View that needs to find its View Model in the IoC container Microsoft calls `ServiceLocator.Current`. So, when the View Model (say `IFooViewModel`) is instanced first I make this statement in the constructor of the View:
+
+``` C#
+
+this.GetInstance<IFooViewModel>();
+
+```
+
+Sometimes several View models are grouped in the IoC container under one interface (say `IEditorViewModel`). I can now use `nameof` to get the right View-Model instance for the right View.
+
+
+``` C#
+
+this.GetInstance<IEditorViewModel>($"{nameof(FooView)}Model");
+
+```
+
+Or, to reduce performance for the sake of copy-and-paste, I have done this:
+
+
+``` C#
+
+this.GetInstance<IEditorViewModel>($"{this.GetType().Name}Model");
+
+```
+
+And yes, my `GetInstance()` extension methods are based on `ServiceLocator.Current.GetInstance()` which has been considered for years [an anti-pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/). It has also been considered for years [_not_ an anti-pattern](http://blog.gauffin.org/2012/09/service-locator-is-not-an-anti-pattern/).
+
+My only concerns are these:
+
+* Injecting something like `IUnityContainer` into the constructor of a WPF View to avoid using `ServiceLocator.Current.GetInstance()` should break the Visual Studio design-time experience which has been dependent on a parameter-less constructor in every View.
+
+* My real-world experience with [strangulation](http://agilefromthegroundup.blogspot.com/2011/03/strangulation-pattern-of-choice-for.html) of some rather horrifying WPF applications absolutely requires the use of this anti-pattern when I use Prism to run legacy crap next to the new crap.
