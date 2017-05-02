@@ -8,7 +8,14 @@ You can see the results of this migration in [my `Songhay.StudioFloor` GitHub re
 
 <h3>Migration Step 0: Switch to .NET 4.6.1 for .NET Standard 1.4</h3>
 
-My first step of migration has nothing to do with MEF. The .NET Standard initiative is relatively new compared to my MEF-era WPF work. The aggressively optimistic assumption here is that PCL will be replaced _entirely_ by .NET Standard. By staring at a chart via Immo Landwerth I saved [in a previous Blog post](http://songhayblog.azurewebsites.net/entry/songhay-studio-net-standard-with-songhay-standard-core), I can see that I need to start with .NET Standard 1.4 and look forward to .NET Standard 2.0. Version 1.4 supports the latest version of the Universal Windows Platform (UWP) and the UWP support is still a goal here in the Songhay System. This goal ‘forces’ the Songhay System to move from .NET 4.5.2 to 4.6.1.
+My first step of migration has nothing to do with MEF. The .NET Standard initiative is relatively new compared to my MEF-era WPF work. The aggressively optimistic assumption here is that PCL will be replaced _entirely_ by .NET Standard.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/BryanWilhite">@BryanWilhite</a> Everywhere ideally</p>&mdash; Miguel de Icaza (@migueldeicaza) <a href="https://twitter.com/migueldeicaza/status/853754791972962304">April 16, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+By staring at a chart via [Immo Landwerth](https://twitter.com/terrajobst) I saved [in a previous Blog post](http://songhayblog.azurewebsites.net/entry/songhay-studio-net-standard-with-songhay-standard-core), I can see that I need to start with .NET Standard 1.4 and look forward to .NET Standard 2.0. Version 1.4 supports the latest version of the Universal Windows Platform (UWP) and the UWP support is still a goal here in the Songhay System. This goal ‘forces’ the Songhay System to move from .NET 4.5.2 to 4.6.1.
 
 <h3>Migration Step 1: Replace MEF `[Export]` Attributes for Non-Views with Unity Statements</h3>
 
