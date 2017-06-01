@@ -4,6 +4,7 @@ chocolatey
 cors
 epub
 elmah
+gitref
 idpf
 ldap
 linq
