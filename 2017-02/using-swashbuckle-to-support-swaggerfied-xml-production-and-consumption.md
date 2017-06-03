@@ -32,7 +32,9 @@ public IHttpActionResult ConsumeXml([FromBody]XElement xmlInput)
 
 ```
 
-When I mention that `ToResponseDocument()` in the method body above is just an some custom extension method that I wrote, we can disregard the method body. Swashbuckle is pretty much doing that as well. In order to get Swashbuckle to tell Swagger to consume/produce XML _exclusively_, we need to add custom method attributes and respective classes implementing `IOperationFilter` [in Swashbuckle.Core](https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swagger/IOperationFilter.cs) mediated by entries in `SwaggerConfig.cs`. This is what our controller method looks like with these custom attributes:
+When I mention that `ToResponseDocument()` in the method body above is just an some custom extension method that I wrote, we can disregard the method body. Swashbuckle is pretty much doing that as well. In order to get Swashbuckle to tell Swagger to consume/produce XML _exclusively_, we need to add my custom method attribute, `SwaggerContentType`, and my class implementing `IOperationFilter` ([in Swashbuckle.Core](https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swagger/IOperationFilter.cs)), `SwaggerContentTypeOperationFilter`, mediated by entries in `SwaggerConfig.cs`.
+
+We can see what our controller method looks like with `SwaggerContentType` declaring Swagger production and consumption:
 
 ``` c#
 /// <summary>
@@ -47,8 +49,15 @@ When I mention that `ToResponseDocument()` in the method body above is just an s
 /// </remarks>
 [HttpPost]
 [Route("xml-endpoint")]
-[ConsumptionContentType(mimeType: "application/xml", Exclusive = true)]
-[ProductionContentType(mimeType: "application/xml", Exclusive = true)]
+[SwaggerContentType(mimeType: MimeTypes.ApplicationXml,
+    IsExclusive = true,
+    IsConsumption = false,
+    Tag = nameof(MyController.ConsumeXml))]
+[SwaggerContentType(mimeType: MimeTypes.ApplicationXml,
+    IsExclusive = true,
+    IsConsumption = true,
+    MethodParameterName = "xmlInput",
+    Tag = nameof(MyController.ConsumeXml))]
 public IHttpActionResult ConsumeXml([FromBody]XElement xmlInput)
 {
     return this.Ok<XElement>(xmlInput.ToResponseDocument());
@@ -64,9 +73,9 @@ With these attributes (and their backing `IOperationFilter` classes), we can now
 
 </div>
 
-To make this happen, we need to pull our custom attributes by querying [`ApiDescription`](https://msdn.microsoft.com/en-us/library/system.web.http.description.apidescription(v=vs.118).aspx) so we can use attribute data to edit an instance of Swashbuckle’s `Operation` class (which is on line 99 of `SwaggerDocument.cs` class [in the current master](https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swagger/SwaggerDocument.cs#L99)) used to generate standard Swagger. My `*OperationFilter` classes handle this work. [My GitHub Gist](https://gist.github.com/BryanWilhite/1a0e8c14a5002995aa5eb7984bfa5cd0) shows these classes along with their respective custom attributes.
+To make this happen, `SwaggerContentTypeOperationFilter` pulls our custom attributes by LINQ-querying [`ApiDescription`].(https://msdn.microsoft.com/en-us/library/system.web.http.description.apidescription(v=vs.118).aspx) We can use this custom attribute data to edit an instance of Swashbuckle’s `Operation` class (which is on line 99 of `SwaggerDocument.cs` class [in the current master](https://github.com/domaindrivendev/Swashbuckle/blob/master/Swashbuckle.Core/Swagger/SwaggerDocument.cs#L99)). My GitHub Gist shows [`SwaggerContentTypeOperationFilter`](https://gist.github.com/BryanWilhite/1a0e8c14a5002995aa5eb7984bfa5cd0#file-swaggercontenttypeoperationfilter-cs) _applying_ these changes, handling Swagger consumption _and_ production.
 
-Once all of these classes are in place and the method attributes are adorning, we can add these lines to that `GlobalConfiguration.Configuration.EnableSwagger` lambda expression in `SwaggerConfig.cs` jam-packed with comments:
+Once all of these classes are in place and the method attributes are adorning, we can add this mediating line to that `GlobalConfiguration.Configuration.EnableSwagger` lambda expression in `SwaggerConfig.cs` jam-packed with comments:
 
 ``` C#
 // Similar to Schema filters, Swashbuckle also supports Operation and Document filters:
@@ -77,10 +86,7 @@ Once all of these classes are in place and the method attributes are adorning, w
 //c.OperationFilter<AddDefaultResponse>();
 //
 // Set filter to apply Custom Content Types to operations
-c.OperationFilter<ConsumptionContentTypeOperationFilter>();
-c.OperationFilter<ProductionContentTypeOperationFilter>();
+c.OperationFilter<SwaggerContentTypeOperationFilter>();
 ```
 
-So we can see that Swashbuckle Configuration loads the `*OperationFilter` classes which query for the custom attributes that modify how Swashbuckle will generate Swagger. It really, really looks like this pattern is going to change in Swashbuckle 6.x which is currently in beta as of this writing.
-
-I also notice that all of this work has no control over the “Example Value” XML shown in the Swagger UI. I think this is controlled by [the Swagger Definitions Object](http://swagger.io/specification/#definitionsObject). Assuming that a newer version of Swashbuckle will _not_ get this working out of the box _for XML_, I will have to come back to this later.
+I notice that all of this work has no control over the “Example Value” XML shown in the Swagger UI. I think this is controlled by [the Swagger Definitions Object](http://swagger.io/specification/#definitionsObject). Assuming that a newer version of Swashbuckle will _not_ get this working out of the box _for XML_, I will have to come back to this later.
