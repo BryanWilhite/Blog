@@ -101,45 +101,37 @@ public static Parameter WitNullSchemaReference(this Parameter parameter)
 }
 ```
 
-We can now return to the `IOperationFilter` classes from [my previous post](http://songhayblog.azurewebsites.net/entry/using-swashbuckle-to-support-swaggerfied-xml-production-and-consumption) and get `Apply()` methods like this for `consumes`:
+We can now return to the implementation of `IOperationFilter`, `SwaggerContentTypeOperationFilter`, from [my previous post](http://songhayblog.azurewebsites.net/entry/using-swashbuckle-to-support-swaggerfied-xml-production-and-consumption) with its `ApplyConsumption()` method:
 
 ``` c#
-public void Apply(Operation operation, SchemaRegistry schemaRegistry, ApiDescription apiDescription)
+static void ApplyConsumption(SwaggerContentTypeAttribute swaggerAttribute, Parameter swaggerParameter)
 {
-    var consumptionAttribute = apiDescription.GetControllerAndActionAttributes<ConsumptionContentTypeAttribute>().FirstOrDefault();
-
-    if (consumptionAttribute == null) return;
-    if (operation.consumes == null) return;
-
-    if (consumptionAttribute.Exclusive) operation.consumes.Clear();
-    operation.consumes.Add(consumptionAttribute.MimeType);
-
-    var swaggerParameter = operation.parameters.FirstOrDefault(i => i.name == consumptionAttribute.MethodParameterName);
-    if (swaggerParameter != null)
-        swaggerParameter
-          .WitNullSchemaReference()
-          .WithAbbreviatedSchema();
+    switch (swaggerAttribute.Tag)
+    {
+        case "ConsumeXml":
+            swaggerParameter.WitNullSchemaReference().WithAbbreviatedSchema();
+            break;
+    }
 }
 ```
 
-and this for `produces`:
+and its `ApplyProduction()` method:
 
 ``` c#
-public void Apply(Operation operation, SchemaRegistry schemaRegistry, ApiDescription apiDescription)
+static void ApplyProduction(SwaggerContentTypeAttribute swaggerAttribute, Operation operation)
 {
-    var productionAttribute = apiDescription.GetControllerAndActionAttributes<ProductionContentTypeAttribute>().FirstOrDefault();
+    Response okResponse = null;
 
-    if (productionAttribute == null) return;
+    switch (swaggerAttribute.Tag)
+    {
+        case "ConsumeXml":
+            okResponse = new Response()
+                .WithOkDescription()
+                .WithAbbreviatedSchema();
+            break;
+    }
 
-    if (productionAttribute.Exclusive) operation.produces.Clear();
-    operation.produces.Add(productionAttribute.MimeType);
-
-    operation.responses.Clear();
-
-    var okResponse = new Response { description = "OK" };
-    okResponse.WithAbbreviatedSchema();
-
-    operation.responses.Add(new KeyValuePair<string, Response>("200", okResponse));
+    if (okResponse != null) operation.responses.Add(okResponse.To200Pair());
 }
 ```
 
