@@ -11,6 +11,7 @@ linq
 namespaces
 oebps
 owin
+pandoc
 rasx
 readline
 rosyln
