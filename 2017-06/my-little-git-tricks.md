@@ -1,5 +1,7 @@
 # my little git tricks
 
+The title of this post is trying to tell you that I am _not_ a git expert. These are my cross-platform notes for the subset of git I’ve needed to use so far:
+
 **I added a new `Develop` branch in Visual Studio and the remote cannot see it.** From the command line push upstream with the `-u` switch:
 
 ```bash
@@ -28,7 +30,7 @@ git push
 
 ```
 
-For detail, see [the StackOverflow answer](https://stackoverflow.com/a/29048781/22944).
+For detail, see [the StackOverflow answer](https://stackoverflow.com/a/29048781/22944). These commands also arise in the context of responding to a pull request
 
 **I added a Develop branch on the remote web client but my local repository cannot see it.** I need to `fetch` the remote repository:
 
