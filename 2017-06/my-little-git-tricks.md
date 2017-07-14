@@ -30,7 +30,7 @@ git push
 
 ```
 
-For detail, see [the StackOverflow answer](https://stackoverflow.com/a/29048781/22944). These commands also arise in the context of responding to a pull request.
+For detail, see [the StackOverflow answer](https://stackoverflow.com/a/29048781/22944). These commands also arise in the context of responding to a pull request. [Recall that](https://stackoverflow.com/questions/7200614/how-to-merge-remote-master-to-local-branch) `git pull` is basically the same as `git fetch; git merge origin/master`.
 
 **I added a Develop branch on the remote web client but my local repository cannot see it.** I need to `fetch` the remote repository:
 
@@ -49,5 +49,14 @@ git branch -a
 ```bash
 
 git rm -r --cached ~/foo
+
+```
+
+**I need to know the status of the remote server.** When `git status` returns, “Your branch is up-to-date,” but you are not sure this is accurate, I should try:
+
+```bash
+
+git remote update
+git status
 
 ```
