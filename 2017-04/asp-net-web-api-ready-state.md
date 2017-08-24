@@ -9,9 +9,9 @@ I need to record my personal satisfaction with ASP.NET Web API ‘readiness’ (
 * Using the `EnableCors` attribute to support Cross-Origin Resource Sharing
 * Leveraging `JObject` with Web API
 * Extending `DefaultContractResolver` to handle circular references in data access models
-* Building a `JObject` Repository to back an API (with AutoFac)
+* Building a `JObject` Repository to back an API (with [Autofac](https://autofac.org/))
 * `IHttpActionResult`, attribute-based routing and other ‘basics’
-* My use of ‘business domain’ (`*.Foo.Models` => `*.Foo.ModelContext` => `*.Foo.Repository`) namespaces for data access.
+* My use of ‘business domain’ (`*.Foo.Models` => `*.Foo.ModelContext` and/or `*.Foo.Models` => `*.Foo.Repository`) namespaces for data access (with Autofac).
 
 And now the punchline: All of these learnings have to migrated to ASP.NET Core. Before this great migration, I will need to write notes about each of these items to preserve my progress in these areas and prevent relearning-bottlenecks in future.
 

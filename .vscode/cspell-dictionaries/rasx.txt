@@ -2,6 +2,7 @@ appdata
 autofac
 chocolatey
 cors
+coyier
 epub
 elmah
 gitref
@@ -12,13 +13,16 @@ namespaces
 oebps
 owin
 pandoc
+polyline
 rasx
 readline
+rect
 repo
 rosyln
 scriptcs
 scriptcsnet
 songhay
+soueidan
 swaggerfied
 swashbuckle
 vimes
