@@ -1,4 +1,4 @@
-# my current web-app technology road map
+# My Current, Aurelia-Inspired, Web-App Technology Road Map
 
 This is Q4 2017. It has taken me this long to `formally` explore the Web-app landscape. My personal desire for formality and relatively deep reflection has left [my company web site](http://songhaysystem.com) and this Blog stuck in Angular 1.x and outside of ASP.NET Core. From a “time-to-market” point of view this has been a colossal “failure” for 2017. My career as a software developer has been centered around building UI/UX and from my point of view I have little to show that this centering ever existed—let alone raged like a fire for the last 20 years.
 
@@ -33,3 +33,7 @@ I see the need for full-blown Visual Studio for all of my XAML applications and 
 ## the functional-language bias looming in the background
 
 My self-education work in the `dotnet-fable-minimal` [folder](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-fable-minimal), the `dotnet-giraffe-template` [folder](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-giraffe-template) and the `elm-minimal` [folder](https://github.com/BryanWilhite/nodejs/tree/master/elm-minimal) indicate my desire to transition some (perhaps most) of my C# investments to F#. The main reasoning for this is to formally control complexity.
+
+## Q4 2018
+
+I actually will consider it failure: finding myself in Q4 2018 having moved not very far from my current location, still presenting Angular 1.x to the Web. The preparation has been quite substantial and the professional introspection quite deep. I am optimistic that, barring tragedy, my next moves on the Web will be quite satisfying.
