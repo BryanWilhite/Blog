@@ -1,5 +1,9 @@
 # The Three Things I Have Done about Failing in Job Interviews
 
+<!-- cSpell:disable -->
+<a href="https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1848000693" target="_blank"><img alt="The Algorithm Design Manual" src="https://images-na.ssl-images-amazon.com/images/I/515GcxK1FFL.jpg" style="float:right;margin:16px;" /></a>
+<!-- cSpell:enable -->
+
 My developer experience is spanning over two decades. “Somehow,” I have managed to feed myself and (most) of my children by being a software developer. I put _somehow_ in quotes because that is likely quoting one of the words people have said who have “passed” on me, over the last few years, effectively stating “objectively” that I have _failed_ the job interview.
 
 I deliberately do not put the word _failed_ in quotes because I agree with them: I have failed. Where we are likely to disagree are in the details of the failure. The devil is in the details. But before I rant into that, let me go over the three constructive and progressive things I have done in response this failure (in order of appearance):
@@ -22,6 +26,10 @@ Being rejected by a company over this disagreement is actually holistically heal
 
 ## Using the Knowledge of Data Structures and Algorithms As a Weapon During the Interview
 
+<!-- cSpell:disable -->
+<a href="https://www.amazon.com/C-Depth-3rd-Jon-Skeet/dp/161729134X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161729134X" target="_blank"><img alt="C# in Depth, 3rd Edition" src="https://images-na.ssl-images-amazon.com/images/I/41prHleW6NL.jpg" style="float:right;margin:16px;" /></a>
+<!-- cSpell:enable -->
+
 What I _do_ intend to do is learn more about algorithms and data structures. On the surface (amd most of the corporate stuff is superficial), it appears that I am responding to my failures by learning more about a technical subject so that I can “succeed” at future interviews. This is not true.
 
 I am studying algorithms because I am at a level of experience (and relative financial “comfort”) where I can take the time to learn about these rather esoteric subjects. These are subjects of my interest—and I am more than certain that should I master these subjects the interviewers who previously rejected me would _still_ find a way to reject me. This is because I am convinced they used these esoteric subjects as a way to get rid of me.
@@ -41,6 +49,10 @@ Anyway, let’s get back to preferring performance on command. The most flatteri
 So the two previous paragraphs allow me to say that the “hot girl” approach fused with the criminal-justice-system approach easily openly offend me _during_ the interview. I will learn no “skill” that will conceal my disgust which is another way of saying I am not a homeowner here in Southern California. I have no mortgage to pay that will “encourage” me to think twice.
 
 ## The (Technical) Interview Style I Prefer
+
+<!-- cSpell:disable -->
+<a href="https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0735667454" target="_blank"><img alt="CLR via C# (4th Edition) (Developer Reference)" src="https://images-na.ssl-images-amazon.com/images/I/41zZ5aN3ypL.jpg" style="float:right;margin:16px;" /></a>
+<!-- cSpell:enable -->
 
 An interviewer is representing the culture of the people that I will be working with directly. To inform me that this is not the case, is to inform me about the toxic situation of the company culture. An interviewer has taken at least five minutes to view my resume and will ask me questions based on that “intimate” knowledge. My resume is full of claims that must be verified by me. That is my _honorable_ responsibility. To suggest that one is to “busy” to take time out for this intimacy is, again, informing me about the toxic situation of the company culture.
 
