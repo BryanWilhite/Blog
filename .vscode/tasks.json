@@ -2,23 +2,23 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "command": "pandoc",
             "label": "Pandoc: convert to HTML",
-            "isBackground": false,
-            "type": "shell",
+            "command": "pandoc",
             "args": [
                 "${fileBasename}",
                 "-f",
                 "markdown",
                 "-t",
                 "html",
-                "--standalone",
                 "-o",
                 "${fileBasenameNoExtension}.html"
             ],
+            "isBackground": false,
             "options": {
-                "cwd": "${workspaceRoot}"
-            }
+                "cwd": "${fileDirname}"
+            },
+            "type": "shell",
+            "problemMatcher": []
         }
     ]
 }
