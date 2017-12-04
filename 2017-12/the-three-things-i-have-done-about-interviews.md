@@ -50,15 +50,15 @@ Anyway, let’s get back to preferring performance on command. The most flatteri
 
 ## The (Technical) Interview Style I Prefer
 
-<!-- cSpell:disable -->
-<a href="https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321125215" target="_blank"><img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL.jpg" style="float:right;margin:16px;" /></a>
-<!-- cSpell:enable -->
-
 An interviewer is representing the culture of the “team” in which I would be embedded. To inform me that this is not the case, is to inform me about the toxic situation of the company culture. An interviewer has taken at least five minutes to view my resume and will ask me questions based on that “intimate” knowledge. My resume is full of claims that must be verified by me. That is my _honorable_ responsibility. To suggest that one is too “busy” to take time out for this “intimacy” is, again, informing me about the toxic situation of the company culture.
 
 The technical interviewer is supposed to demonstrate the supremacy of their knowledge compared to mine by working from my comfort zone out towards wherever they want to go. When I conduct interviews, _I_ strive to do this. An interviewer is _lazy_ when she asks me generic questions designed for “everyone” and then has the nerve to suggest with tone of voice (or through the hearsay of a recruiter) that _I_ am lazy or stupid because I fail to understand their generic, cookie-cutter quizzes. Is the lazy interviewer testing my ability to listen to arbitrary instructions under pressure or is she testing my technical ability as an experienced developer who almost never works under such rote-memorization drama? (The best lazy compromise, by the way, is the take-home test.)
 
 ## My Last Failed Interview
+
+<!-- cSpell:disable -->
+<a href="https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321125215" target="_blank"><img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL.jpg" style="float:right;margin:16px;" /></a>
+<!-- cSpell:enable -->
 
 It is not really an irony to me: my last interview failure had _nothing_ to do with someone trying to get rid of me (as far I know). The interviewer asked me a question that is directly from the experience stated on my resume. I simply could not remember the answer to the question. Minutes after the interview I looked up the answer and within seconds understood.
 
