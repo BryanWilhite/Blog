@@ -19,6 +19,24 @@
             },
             "type": "shell",
             "problemMatcher": []
+        },
+        {
+            "label": "Python-Markdown: convert to HTML",
+            "command": "python",
+            "args": [
+                "-m",
+                "markdown",
+                "-f",
+                "${fileBasenameNoExtension}.html",
+                "-v",
+                "${fileBasename}",
+            ],
+            "isBackground": false,
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "type": "shell",
+            "problemMatcher": []
         }
     ]
 }
