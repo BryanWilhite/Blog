@@ -3,7 +3,6 @@
     "cSpell.words": [
         "appdata",
         "autofac",
-        "chocolatey",
         "cors",
         "coyier",
         "epub",
@@ -17,19 +16,16 @@
         "owin",
         "pandoc",
         "polyline",
-        "rasx",
         "readline",
         "rect",
         "repo",
         "rosyln",
         "scriptcs",
         "scriptcsnet",
-        "songhay",
         "soueidan",
         "swaggerfied",
         "swashbuckle",
-        "vimes",
-        "xhtml"
+        "vimes"
     ],
     "emmet.excludeLanguages": [],
     "markdownlint.config": {
