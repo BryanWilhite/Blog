@@ -5,8 +5,8 @@
         "autofac",
         "cors",
         "coyier",
-        "epub",
         "elmah",
+        "epub",
         "gitref",
         "idpf",
         "ldap",
@@ -25,7 +25,8 @@
         "soueidan",
         "swaggerfied",
         "swashbuckle",
-        "vimes"
+        "vimes",
+        "wwwroot"
     ],
     "emmet.excludeLanguages": [],
     "markdownlint.config": {
