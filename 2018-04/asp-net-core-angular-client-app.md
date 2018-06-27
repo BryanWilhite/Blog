@@ -1,4 +1,4 @@
-# ASP.NET Core Angular Client App Q2 2018
+## ASP.NET Core Angular Client App Q2 2018
 
 The intention here is to examine how `dotnet new` templates “wire up” a Node.js-based Angular project with a Visual Studio project. This wiring appears to be handled by `JavaScriptServices` [[GitHub](https://github.com/aspnet/javascriptservices)] via the .NET Foundation.
 
@@ -12,7 +12,7 @@ The assumption here is that any another `Spa` package from Microsoft is out of d
 
 The `dotnet new angular -o my-new-app` command generates an ASP.NET Core project that for the first time respects the existence of the [Angular CLI](https://docs.microsoft.com/en-us/aspnet/core/spa/angular?view=aspnetcore-2.1&tabs=visual-studio#run-ng-commands) and improves the relationship between the Visual Studio project and Node.js.
 
-## how the Visual Studio project is customized for Angular
+### how the Visual Studio project is customized for Angular
 
 A Visual Studio project—specifically the `*.csproj` file—is made up of a bunch of `PropertyGroup` and `ItemGroup` elements, punctuated with optional `Target` elements.
 
@@ -38,7 +38,7 @@ Finally, two `Target` elements are declared:
 * `<Target Name="DebugEnsureNodeEnv"…`
 * `<Target Name="PublishRunWebpack"…`
 
-## the `ClientApp` under the `SpaRoot`
+### the `ClientApp` under the `SpaRoot`
 
 The XML declarations in the `*.csproj` file make several references to the `SpaRoot` (single-page application root). The `SpaRoot` declaration refers to a folder called `ClientApp`:
 
