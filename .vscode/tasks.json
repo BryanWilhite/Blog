@@ -6,9 +6,9 @@
             "command": "pandoc",
             "args": [
                 "${fileBasename}",
-                "-f",
-                "markdown",
-                "-t",
+                "--from",
+                "markdown+backtick_code_blocks",
+                "--to",
                 "html",
                 "-o",
                 "${fileBasenameNoExtension}.html"
