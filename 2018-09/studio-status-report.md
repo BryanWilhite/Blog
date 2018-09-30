@@ -1,4 +1,4 @@
-## studio status report: 2018-08
+## studio status report: 2018-09
 
 This report is a _extremely_ late as this writing occurs on the _last_ day of the month.
 
