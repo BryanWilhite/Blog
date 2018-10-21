@@ -4,6 +4,7 @@
         "Flickr",
         "Greenshot",
         "Imgur",
+        "Mathematica",
         "VSTS",
         "appdata",
         "autofac",
@@ -14,6 +15,7 @@
         "epub",
         "gitref",
         "idpf",
+        "jupyter",
         "ldap",
         "linq",
         "namespaces",
@@ -30,6 +32,7 @@
         "soueidan",
         "swaggerfied",
         "swashbuckle",
+        "unmanaged",
         "vimes",
         "wwwroot"
     ],
