@@ -1,8 +1,8 @@
+## jupyter central
+
 <!-- cSpell:disable -->
 <a href="https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1848000693" target="_blank"><img alt="The Algorithm Design Manual" src="https://images-na.ssl-images-amazon.com/images/I/515GcxK1FFL.jpg" style="float:right;margin:16px;" /></a>
 <!-- cSpell:enable -->
-
-## jupyter central
 
 I am sure there are many reasons why `Span<T>` (and `Memory<T>`) was [introduced](https://channel9.msdn.com/Events/Connect/2017/T125) to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and the ease of handling gigantic chunks of in-memory data in Python in particular.
 
