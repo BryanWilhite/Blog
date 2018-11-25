@@ -1,14 +1,18 @@
 ## remembering the CLI and the multi-tasking OS
 
-I have literally paid the price for forgetting about the wonders of a [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) Operating System and how the [Common Language Infrastructure](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) (CLI) takes advantage of such a thing for my benefit. And when I mean “literally paid” I am talking about the intricacies of the job interview. I have failed to take the time to sit down, draw a picture and wax poetic about the whole reason why the execution of my code is possible, leaving extremely busy hiring managers to assume that I care little about such a wondrous thing.
+<!-- cSpell:disable -->
+<img alt="alt" src="https://gvpydw.dm.files.1drv.com/y4m0QbX_3OZ3bIXFZdVDRIVVWxA4VU6sg3vH7Fgsm-efThCNwPzmp25WvF7krIEXsFvh3-q9-4s3exZtn5BNQ4JN3BK1Ia1EebYh3j5I_27kUw5gxMq5v7xcWhioRsv2pt4gvnsQvt_DhC2pGIwCuGWTpWTHpc5h1jD1gNtIA6e0zuf__XFl_JnxbM05zlq5jWJRhBQ1o8mQpIojD253uGOcQ?width=371&height=660&cropmode=none" style="float:right;margin:16px;" width="371" height="660" />
+<!-- cSpell:enable -->
+
+I have literally paid the price for forgetting about the wonders of a [multitasking](https://en.wikipedia.org/wiki/Computer_multitasking) Operating System and how the [Common Language Infrastructure](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) (CLI) takes advantage of such a thing for my benefit. And when I mean “literally paid” I am talking about the intricacies of the job interview. For at least one job opportunity, I have failed to take the time to sit down, draw a picture and wax poetic about the whole reason why the execution of my code is possible, leaving extremely busy hiring managers to assume that I care little about such a wondrous thing.
 
 First, according to the academic custom, I must empty the universe of almost everything and begin with a single statement:
 
-### thread scheduling
-
 >A multitasking Operating System can _schedule_ a CLI Task with its Thread.
 
-[Scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) is fundamental to computation itself. It crosses the boundary between abstract logic and real computing resources under the control of a multitasking [Operating System](https://en.wikipedia.org/wiki/Operating_system) (OS).
+### thread scheduling
+
+[Scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) is fundamental to computation itself. It crosses the boundary between abstract logic and real computing resources under the control of a multitasking [Operating System](https://en.wikipedia.org/wiki/Operating_system) (OS). Scheduling is not just about time; it is about the time when computing resources will be available.
 
 Both the _Task_ and the _Thread_ (coincidentally?) exist in the abstract logic of the computer [programming language(s) of the CLI](https://en.wikipedia.org/wiki/List_of_CLI_languages) and in the OS. The confusion may start when we must see that:
 
