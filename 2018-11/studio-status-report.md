@@ -4,8 +4,8 @@
 
 It would awesome to celebrate without reservation that my Songhay Dashboard will now update itself via an Azure Web Job. This is great news and the first tangible evidence of a _system_ for the Songhay System. However, as soon as I got this working, [the most bizarre, edge-case-worthy PowerShell error](https://github.com/BryanWilhite/Songhay.Dashboard/issues/43) popped up to meet my accomplishment. More to come on this as two Blog-entry issues have been proposed:
 
-* https://github.com/BryanWilhite/Blog/issues/4
-* https://github.com/BryanWilhite/Blog/issues/5
+* <https://github.com/BryanWilhite/Blog/issues/4>
+* <https://github.com/BryanWilhite/Blog/issues/5>
 
 ### Azure DevOps is cool but leaves me wanting
 
