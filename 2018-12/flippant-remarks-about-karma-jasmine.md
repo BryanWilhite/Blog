@@ -4,9 +4,11 @@ The details below try to explain these fundamentals:
 
 * use `NO_ERRORS_SCHEMA`
 * initialize properties used in component-binding HTML to prevent `[object ErrorEvent] thrown`
+* call `overrideComponent` to null or mock services for the component spec
 * consider using inline mocks with `useValue` for providers
 * consider using the “Elvis operator” in component-binding HTML
-* be ready to use `HttpClientTestingModule`, `HttpTestingController` and/or `RouterTestingModule`.
+* be ready to use `HttpClientTestingModule`, `HttpTestingController` and/or `RouterTestingModule`
+* comment out `fixture.detectChanges()` to narrow down troubleshooting to binding or initialization issues
 
 One, [small introduction to Karma-Jasmine](https://github.com/BryanWilhite/nodejs/tree/master/karma-and-jasmine-minimal) outside of Angular reminds us [Karma](https://karma-runner.github.io/latest/index.html) is the “test runner” (from the Angular team) and [Jasmine](https://jasmine.github.io/) is a behavior driven development framework. [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development) is beyond the scope of these remarks apart from the consideration that we might make when use the word _specification_ instead of _test_.
 
@@ -146,8 +148,10 @@ describe(MyComponent.name, () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ MyComponent ],
-      providers: [ { provide: FooService, useValue: null } ],
       schemas: [ NO_ERRORS_SCHEMA ]
+    })
+    .overrideComponent(MyComponent, {
+      set: { providers: [ { provide: FooService, useValue: null } ] }
     })
     .compileComponents();
   }));
@@ -186,8 +190,10 @@ describe(MyComponent.name, () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ MyComponent ],
-      providers: [ { provide: FooService, useValue: fooService } ],
       schemas: [ NO_ERRORS_SCHEMA ]
+    })
+    .overrideComponent(MyComponent, {
+      set: { providers: [ { provide: FooService, useValue: fooService } ] }
     })
     .compileComponents();
   }));
@@ -228,8 +234,10 @@ describe(MyComponent.name, () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ MyComponent ],
-      providers: [ { provide: FooService, useValue: fooService } ],
       schemas: [ NO_ERRORS_SCHEMA ]
+    })
+    .overrideComponent(MyComponent, {
+      set: { providers: [ { provide: FooService, useValue: fooService } ] }
     })
     .compileComponents();
   }));
@@ -305,6 +313,17 @@ When a test for a service is generated (with `ng generate service` [[docs](https
 it('should be created', inject([MyService], (service: MyService) => {
   expect(service).toBeTruthy();
 }));
+```
+
+The other difference is that  you cannot use `overrideComponent` for a service spec; set `providers` in `configureTestingModule`:
+
+```typescript
+  beforeEach(async(() => {
+    TestBed.configureTestingModule({
+      imports: [HttpClientTestingModule, RouterTestingModule],
+      providers: [ { provide: FooService, useValue: null } ]
+    });
+  }));
 ```
 
 ### the `NullInjectorError: No provider for HttpClient!` error
