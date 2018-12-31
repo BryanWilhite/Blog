@@ -1,6 +1,12 @@
 ## flippant remarks about Karma-Jasmine in Angular
 
-The details below try to explain these main pointers:
+The details below try to explain these fundamentals:
+
+* use `NO_ERRORS_SCHEMA`
+* initialize properties used in component-binding HTML to prevent `[object ErrorEvent] thrown`
+* consider using inline mocks with `useValue` for providers
+* consider using the “Elvis operator” in component-binding HTML
+* be ready to use `HttpClientTestingModule`, `HttpTestingController` and/or `RouterTestingModule`.
 
 One, [small introduction to Karma-Jasmine](https://github.com/BryanWilhite/nodejs/tree/master/karma-and-jasmine-minimal) outside of Angular reminds us [Karma](https://karma-runner.github.io/latest/index.html) is the “test runner” (from the Angular team) and [Jasmine](https://jasmine.github.io/) is a behavior driven development framework. [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development) is beyond the scope of these remarks apart from the consideration that we might make when use the word _specification_ instead of _test_.
 
@@ -251,7 +257,7 @@ describe(MyComponent.name, () => {
 
 In typescript, `fooService` will be of type `any`. So, when we see the `calls` object (or “namespace”) hanging off it, we might need to go to [the Jasmine documentation](https://jasmine.github.io/api/2.8/Spy_calls.html) to see what is going on.
 
-### use of the “Elvis operator” in the HTML
+### use of the “Elvis operator” in component-binding HTML
 
 Had our HTML been like this:
 
