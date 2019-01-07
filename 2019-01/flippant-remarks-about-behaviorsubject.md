@@ -1,6 +1,6 @@
 ## flippant remarks about BehaviorSubject
 
-It _feels_ like `BehaviorSubject` was built to make _observable store services_ possible. In “[State management in Angular with observable store services](https://jurebajt.com/state-management-in-angular-with-observable-store-services/),” Jure Bajt writes:
+It _feels_ like `BehaviorSubject` was built to make _observable store services_ possible. `BehaviorSubject` is at the heart of the possibility of never needing a large/complex package like [Redux](https://redux.js.org/)—_ever_. In “[State management in Angular with observable store services](https://jurebajt.com/state-management-in-angular-with-observable-store-services/),” Jure Bajt writes:
 
 >…we used the ideas from Redux to create a state management solution that leverages Angular’s (and RxJS’s) features to do its job…
 
