@@ -4,7 +4,7 @@
 
 Do `rxjs` observables invoke for every subscriber? The answer to this question (at work) looks like it’s _yes_ which means `HttpClient.post()` will invoke `post()` for every subscriber. This default behavior is _not_ what I would expect and the `shared()` method [[docs](https://github.com/ReactiveX/rxjs/blob/01a09789a0a9484c368b7bd6ed37f94d25490a00/doc/operators.md#multicasting-operators)] is supposed to meet my expectations. A [StackBlitz example](https://stackblitz.com/edit/rxjs-observable-share?file=app%2Fapp.component.ts) out there is not really helping me at the moment.
 
-[Angular observable stores with `BehaviorSubject` as the equivalent of WPF event aggregation; low-end replacement for Redux]
+I have yet to release my flippant remarks on `BehaviorSubject` which is the core of the observable store service (which is kind of like the Angular answer to WPF event aggregation?). This is kind of a big deal for me as this topic addresses the bigger topic of Redux as an intermediate step towards robust, full-featured state management.
 
 ### NPM packaging research still underway
 
