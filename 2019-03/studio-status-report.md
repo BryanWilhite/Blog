@@ -2,7 +2,13 @@
 
 ### excited about Songhay System being on NPM
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/wilhite/33569352448/in/dateposted-public/" title="Songhay System on npm"><img src="https://farm8.staticflickr.com/7821/33569352448_26e910c124_c.jpg" width="800" height="528" alt="Songhay System on npm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div style="text-align:center">
+
+<!-- cSpell:disable -->
+<a href="https://www.flickr.com/photos/wilhite/33569352448/in/dateposted-public/" target="_blank"><img alt="Songhay System on npm" src="https://farm8.staticflickr.com/7821/33569352448_26e910c124_c.jpg" /></a>
+<!-- cSpell:enable -->
+
+</div>
 
 The 20-month siege to obtain the fundamental ability to share/reuse code in Javascript framework developed by one of the wealthiest companies in the world is finally over. Now the Songhay studio can steam ahead with view toward bigger business. The first step is getting this shared/reusable Javascript on [npm](https://www.npmjs.com/~rasx)!
 
