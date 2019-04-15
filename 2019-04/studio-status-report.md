@@ -10,7 +10,7 @@ Another huge slap (that apparently has been over a decade in the making), is the
 
 I developed the `DisplayItemUtility` [[GitHub](https://github.com/BryanWilhite/songhay-core/blob/master/src/utilities/display-item.utility.ts)] to establish what should have super obvious to me at least 10 years ago. My company name is Songhay System—not _systems_—because here we see _one_ concept that can be implemented in a _diverse_ array of technologies. Once the `DisplayItemUtility` shows up in C#, it will be the realization of this ideal. (The `DisplayItemModel` and `MenuDisplayItemModel`, by the way, are already here: [in C#](https://github.com/BryanWilhite/SonghayCore/tree/master/SonghayCore/Models) and [in TypeScript](https://github.com/BryanWilhite/songhay-core/tree/master/src/models)).
 
-## sketching out a development schedule (revision 1)
+### sketching out a development schedule (revision 1)
 
 Today the studio development schedule looks like this:
 
@@ -21,7 +21,5 @@ Today the studio development schedule looks like this:
 * introduce splash pages to the Day Path blog (an SEO emergency—_for years_)
 * modernize the kinté hits page into a progressive web app
 * use the learnings of previous work to upgrade and re-release the kinté space
-
-I assume that this work can be completed in 2019. No more studio emergencies going on—_for years_.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
