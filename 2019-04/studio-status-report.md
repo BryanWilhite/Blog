@@ -2,13 +2,13 @@
 
 ### getting this Index App into `songhay-ng-workspace`
 
-This month saw the archiving of `angular.io-index-app` [[GitHub](https://github.com/BryanWilhite/angular.io-index-app)] because it [is being moved](https://github.com/BryanWilhite/songhay-ng-workspace/issues/11) to `songhay-ng-workspace`. This was quite a forehead slapping moment and should be reflected in this month’s version of ‘sketching out a development schedule’ (below).
+This month saw the archiving of `angular.io-index-app` [[GitHub](https://github.com/BryanWilhite/angular.io-index-app)] because it [is being moved](https://github.com/BryanWilhite/songhay-ng-workspace/issues/11) to `songhay-ng-workspace`. This was quite a forehead slapping moment and should be reflected in this month’s version of ‘sketching out a development schedule (revision 1)’ (below).
 
 ### making `MenuDisplayItemModel` grouping and sorting framework agnostic
 
 Another huge slap (that apparently has been over a decade in the making), is the studio-realization that `MenuDisplayItemModel` grouping and sorting can be done in pure Typescript without regard to Angular, Vue, React, etc.
 
-I developed the `DisplayItemUtility` [[GitHub](https://github.com/BryanWilhite/songhay-core/blob/master/src/utilities/display-item.utility.ts)] to establish what should have super obvious to me at least 10 years ago. My company name is Songhay System—not _systems_—because there we see _one_ concept that can be implemented in a diverse array of technologies. Once the `DisplayItemUtility` shows up in C#, it will be the realization of this ideal. (The `DisplayItemModel` and `MenuDisplayItemModel` by the way are already here, [in C#](https://github.com/BryanWilhite/SonghayCore/tree/master/SonghayCore/Models) and [in TypeScript](https://github.com/BryanWilhite/songhay-core/tree/master/src/models)).
+I developed the `DisplayItemUtility` [[GitHub](https://github.com/BryanWilhite/songhay-core/blob/master/src/utilities/display-item.utility.ts)] to establish what should have super obvious to me at least 10 years ago. My company name is Songhay System—not _systems_—because here we see _one_ concept that can be implemented in a _diverse_ array of technologies. Once the `DisplayItemUtility` shows up in C#, it will be the realization of this ideal. (The `DisplayItemModel` and `MenuDisplayItemModel`, by the way, are already here: [in C#](https://github.com/BryanWilhite/SonghayCore/tree/master/SonghayCore/Models) and [in TypeScript](https://github.com/BryanWilhite/songhay-core/tree/master/src/models)).
 
 ## sketching out a development schedule (revision 1)
 
