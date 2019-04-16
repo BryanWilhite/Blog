@@ -14,12 +14,14 @@ I developed the `DisplayItemUtility` [[GitHub](https://github.com/BryanWilhite/s
 
 Today the studio development schedule looks like this:
 
-* finish modernizing `@songhay/player-video-you-tube` and `@songhay/index` into a ready state
+* finish modernizing `@songhay/player-video-you-tube` and `@songhay/index` into a ready state [[#11](https://github.com/BryanWilhite/songhay-ng-workspace/issues/11)]
+* introduce splash page(s) to the Day Path blog (an SEO emergency—_for years_) and convert to HTTPs by default
 * use the learnings from existing npm packages to build `@songhay/player-audio-???`
 * convert the kinté space blog to Hexo (this has been an emergency _for years_)
 * set up automated social-media posting with Azure logic apps (and a queue of some kind?)
-* introduce splash pages to the Day Path blog (an SEO emergency—_for years_)
 * modernize the kinté hits page into a progressive web app
 * use the learnings of previous work to upgrade and re-release the kinté space
+
+The Day Path Blog bullet was moved up because many of the later bullets will not be trackable via public GitHub issues.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
