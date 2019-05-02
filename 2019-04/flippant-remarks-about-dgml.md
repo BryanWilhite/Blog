@@ -19,3 +19,6 @@ Some recommended videos:
 - “[Visual Studio ALM Rangers Architecture Tooling Guidance—Overview of the Guidance](https://channel9.msdn.com/Blogs/Visual-Studio-ALM-Rangers/ABEExtensionOverview?term=Visual%20Studio%20Architecture%20Tooling%20Guidance&lang-en=true)” (2011)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTEzMDc1NzVdfQ==
+-->
