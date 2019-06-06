@@ -8,6 +8,18 @@ I have started using GitHub projects to batch issues together to mark a NuGet re
 
 The feeling around doing this work is that of optimistic relief that [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) has never been more stable and it should be far easier to maintain going forward. This should prevent me from falling into a costly rabbit hole while trying to dig pits of success. Too much of my time _on this planet_ has been spent on building infrastructure instead of publications and presentations for _people_.
 
+### WebJobs _and_ Azure durable functions
+
+Month 5 was about understanding that the main reason why one would continue to use WebJobs instead of dropping everything and running to [Azure Durable Functions](https://mikhail.io/2018/12/making-sense-of-azure-durable-functions/) (for its _orchestration_ feature), is the need for a local file system. I have assigned myself to [a GitHub issue](https://github.com/BryanWilhite/Songhay.Feeds/issues/14) that will explore this matter further.
+
+The plan is to move the YouTube player WebJob to Azure durable functions (because it should _not_ depend on a local file system) but the steps toward this goal start with [yet another issue](https://github.com/BryanWilhite/Songhay.HelloWorlds.Activities/issues/1) I have self assigned.
+
+More Azure function links:
+
+- <https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices>
+- <https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code>
+- <https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/> [2.0 does not support full framework]
+
 ### the `songhay-ng-workspace` is considered awesome
 
 [`songhay-ng-workspace`](https://github.com/BryanWilhite/songhay-ng-workspace) is the _best_ UI/UX work this studio has to offer. There is quite a long way to go but this repo makes a strong statement around core data access with the Observable Data Store, the Index experience and introduces the YouTube portion of our b-roll player.
@@ -22,7 +34,7 @@ The feeling around doing this work is that of optimistic relief that [`SonghayCo
 
 Success with 11ty will place this technology at the center of Songhay Publications: the static web site will be the go-to publication format of this studio. kintespace.com will deliberately be a patchwork mosaic of static websites (tracked by gen-web-based analytics).
 
-### proposing Microsoft Sway as a Presentation solution for kintespace.com
+### proposing Microsoft Sway as a publication solution for kintespace.com
 
 Yes, the 11ty-based static web site is the go-to publication format but Microsoft Sway might do well as a replacement for the PDF-based presentations of visual artists (on kintespace.com).
 
