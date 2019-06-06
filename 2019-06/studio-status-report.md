@@ -4,7 +4,7 @@ I missed last month 😒🤷‍️😁
 
 ### month-4 was all about upgrading `SonghayCore` 🐰🕳
 
-I have started using GitHub projects to batch issues together to mark a release. My first project, [version 3.1.3 release](https://github.com/BryanWilhite/SonghayCore/projects/1), records the miserable but compelling details around moving [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) into [the .NET Core multi-targeting space](https://github.com/BryanWilhite/SonghayCore/issues/20#issuecomment-489815352).
+I have started using GitHub projects to batch issues together to mark a NuGet release. My first project, [version 3.1.3 release](https://github.com/BryanWilhite/SonghayCore/projects/1), records the miserable but compelling details around moving [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) into [the .NET Core multi-targeting space](https://github.com/BryanWilhite/SonghayCore/issues/20#issuecomment-489815352).
 
 The feeling around doing this work is that of optimistic relief that [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) has never been more stable and it should be far easier to maintain going forward. This should prevent me from falling into a costly rabbit hole while trying to dig pits of success. Too much of my time _on this planet_ has been spent on building infrastructure instead of publications and presentations for _people_.
 
@@ -62,7 +62,7 @@ Without this line, a file of 0-bytes will be saved by callers of this API.
 
 ### the wonderful return of Daz3D to regular studio work
 
-Month 5 saw the return of [Daz3D](https://www.daz3d.com/) to my studio work. The manga-publication production pipeline is revived which is almost the whole point of my existence. Using my kintespace account on InstaGram, I reminded myself that I have touched Daz since 2003! Here are some points:
+Month 5 saw the return of [Daz3D](https://www.daz3d.com/) to my studio work. The manga-publication production pipeline is revived which is almost the whole point of my existence. Using my kintespace account on InstaGram, I reminded myself that I have not touched Daz since 2003! Here are some points:
 
 - My developer-honed journal-writing skills really help here (not my thing that much in 2003)
 - Daz technology has improved: [DForm](http://docs.daz3d.com/doku.php/artzone/pub/software/dform/start) and [Puppeteer](http://docs.daz3d.com/doku.php/artzone/pub/software/puppeteer/start) did not exist in 2003
@@ -70,7 +70,7 @@ Month 5 saw the return of [Daz3D](https://www.daz3d.com/) to my studio work. The
 - Daz has been helped tremendously by YouTube folks like [WP Guru](https://www.youtube.com/user/wphosting) and [esha](https://www.youtube.com/channel/UCuk28jyQ5x2MZl0_k2-gXJg)—which helps me tremendously.
 - the gulf between Daz and Blender is almost gone—definitely not the case in 2003.
 
-Most importantly, I have matured tremendously when it comes to production. After being beaten to death by photorealistic CGI for a decade, I am no longer fascinated by replicating reality. I now see that tweening and animating can inform and produce stills meant for a Manga publication.
+Most importantly, I have matured tremendously when it comes to this kind of production. After being beaten to death by multi-hundred-million-dollar, photorealistic CGI for a decade, I am no longer fascinated by replicating reality. I now see that tweening and animating can inform and produce _stills_ meant for a Manga publication. So stills an animation is not necessarily an either-or thing—it is a both-and thing.
 
 And, by the way, OneNote really, really helps here because it is the best at handing a bunch of screenshots.🤷‍
 
