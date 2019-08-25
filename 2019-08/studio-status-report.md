@@ -1,6 +1,10 @@
 ## studio status report: 2019-08
 
-### month-8 is about SSD and/or motherboard failure, 11ty and Daz3D AppHangTransient errors
+### month-7 was about moving the kinté space Blog into an 11ty pipeline
+
+_11ty pipeline for kintespace.com Blog._ I am almost certain that end-of-month-8 or early month 9 will see the re-launch of the kintespace.com Blog _without_ WordPress! Success here will make _the rasx() context_ a standalone Songhay Publication on an 11ty production pipeline. This implies that I finally see the way to use 11ty to write to a sibling folder or a folder of another parent—this means every presentation/publication can have its own repo👍 This implies I can make _some_ presentations/publications public on GitHub and use them as a guide for any sophisticated, 3<sup>rd</sup>-party contributors in future💪💡
+
+### month-8 is about SSD and/or motherboard failure and Daz3D AppHangTransient errors
 
 _SSD and/or motherboard failure._ My internal hardware journal is packed full of a miserable adventure that all started with me falsely accusing myself of letting studio hardware age over five years. It turns out that the eldest piece, a Western Digital Black (Scorpio?) 320 GB 2.5" drive from 2011, did _not_ fail. Either my Samsung EVO SSD from 2017 dropped into a read-only-mode coma or my Asus M5A97 motherboard from 2015 independently decided there was no operating system volume. This drama left me with a few takeaways:
 
@@ -16,8 +20,6 @@ _Daz3D AppHangTransient errors._ After serious suffering with the hardware woes 
 - my old-ass Radeon R9 270X is not really working properly on the new MSI AMD X470 motherboard
 
 Until this issue is resolved, I can fall back to my Sager laptop (and an HDMI cable) to work with Daz3D there.😬😒
-
-_11ty pipeline for kintespace.com Blog._ I am almost certain that end-of-month-8 or early month 9 will see the re-launch of the kintespace.com Blog _without_ WordPress! Success here will make _the rasx() context_ a standalone Songhay Publication on an 11ty production pipeline. This implies that I finally see the way to use 11ty to write to a sibling folder or a folder of another parent—this means every presentation/publication can have its own repo👍 This implies I can make _some_ presentations/publications public on GitHub and use them as a guide for any sophisticated, 3<sup>rd</sup>-party contributors in future💪💡
 
 ### sketching out a development schedule (revision 2)
 
