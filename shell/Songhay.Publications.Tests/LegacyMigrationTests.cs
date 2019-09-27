@@ -41,6 +41,11 @@ namespace Songhay.Publications.Tests
                 var year = a.First();
                 var month = a.Last();
 
+                bool ContainsOrStartsWith(string input, string search)
+                {
+                    return input.Contains(search) || input.StartsWith(search);
+                }
+
                 string GetTitleOrSlug(FileInfo info)
                 {
                     var titleLength = 53; // where did this number come from? 🤷‍
@@ -61,7 +66,7 @@ namespace Songhay.Publications.Tests
                     this._testOutputHelper.WriteLine($"looking for `{titleOrSlug}` in index...");
 
                     // search index by title
-                    var entry = jAIndex.FirstOrDefault(k => k["title"].Value<string>().StartsWith(titleOrSlug));
+                    var entry = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["title"].Value<string>(), titleOrSlug));
                     if (entry != null)
                     {
                         this._testOutputHelper.WriteLine($"found {entry["slug"]}");
@@ -69,7 +74,7 @@ namespace Songhay.Publications.Tests
                     }
 
                     // search index by slug
-                    entry = jAIndex.FirstOrDefault(k => k["slug"].Value<string>().StartsWith(titleOrSlug));
+                    entry = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["slug"].Value<string>(), titleOrSlug));
                     if (entry != null)
                     {
                         this._testOutputHelper.WriteLine($"found {entry["slug"]}");
