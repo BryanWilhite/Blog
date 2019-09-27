@@ -1,12 +1,10 @@
 using System;
 using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
 using Newtonsoft.Json.Linq;
 using Songhay.Extensions;
 using Songhay.Publications.Extensions;
 using Songhay.Publications.Models;
-using Songhay.Tests;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -30,10 +28,10 @@ namespace Songhay.Publications.Tests
             Assert.True(Directory.Exists(jsonRoot));
 
             var shellRootInfo = new DirectoryInfo(shellRoot);
-            var jsonRootInfo = new DirectoryInfo(jsonRoot);
-            var presentationEntryRootInfo = jsonRootInfo.Parent
+            var presentationEntryRootInfo = shellRootInfo.Parent
                 .GetDirectories("presentation").First()
                 .GetDirectories("entry").First();
+            var jsonRootInfo = new DirectoryInfo(jsonRoot);
 
             var jAIndex = JArray.Parse(File.ReadAllText(jsonRootInfo.GetFiles().First(i => i.Name == indexName).FullName));
 
@@ -74,7 +72,9 @@ namespace Songhay.Publications.Tests
                         e.Content = File.ReadAllText(legacy.FullName);
                     });
 
-                    var slug = $"{year}-{month}-{entry.FrontMatter["slug"]}".Replace($"-{year}-{month}", string.Empty);
+                    var date = entry.FrontMatter["inceptDate"].Value<DateTime>();
+
+                    var slug = $"{year}-{month}-{date.Day:00}-{entry.FrontMatter["slug"]}".Replace($"-{year}-{month}", string.Empty);
                     entry.FrontMatter["slug"] = slug;
                     var path = Path.Combine(presentationEntryRootInfo.FullName, year, $"{slug}.md");
                     File.WriteAllText(path, entry.ToFinalEdit());
