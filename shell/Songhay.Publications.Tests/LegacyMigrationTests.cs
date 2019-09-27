@@ -31,6 +31,9 @@ namespace Songhay.Publications.Tests
 
             var shellRootInfo = new DirectoryInfo(shellRoot);
             var jsonRootInfo = new DirectoryInfo(jsonRoot);
+            var presentationEntryRootInfo = jsonRootInfo.Parent
+                .GetDirectories("presentation").First()
+                .GetDirectories("entry").First();
 
             var jAIndex = JArray.Parse(File.ReadAllText(jsonRootInfo.GetFiles().First(i => i.Name == indexName).FullName));
 
@@ -40,6 +43,9 @@ namespace Songhay.Publications.Tests
                 var a = i.Name.Split('-');
                 var year = a.First();
                 var month = a.Last();
+
+                if (!presentationEntryRootInfo.GetDirectories(year).Any())
+                    Directory.CreateDirectory(Path.Combine(presentationEntryRootInfo.FullName, year));
 
                 bool ContainsOrStartsWith(string input, string search)
                 {
@@ -60,24 +66,40 @@ namespace Songhay.Publications.Tests
                     return titleOrSlug;
                 }
 
+                void WriteEntry(JToken frontMatter, FileInfo legacy)
+                {
+                    var entry = new MarkdownEntry().WithEdit(e =>
+                    {
+                        e.FrontMatter = frontMatter as JObject;
+                        e.Content = File.ReadAllText(legacy.FullName);
+                    });
+
+                    var slug = $"{year}-{month}-{entry.FrontMatter["slug"]}".Replace($"-{year}-{month}", string.Empty);
+                    entry.FrontMatter["slug"] = slug;
+                    var path = Path.Combine(presentationEntryRootInfo.FullName, year, $"{slug}.md");
+                    File.WriteAllText(path, entry.ToFinalEdit());
+                }
+
                 i.GetFiles("*.md").ForEachInEnumerable(j =>
                 {
                     var titleOrSlug = GetTitleOrSlug(j);
                     this._testOutputHelper.WriteLine($"looking for `{titleOrSlug}` in index...");
 
                     // search index by title
-                    var entry = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["title"].Value<string>(), titleOrSlug));
-                    if (entry != null)
+                    var indexItem = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["title"].Value<string>(), titleOrSlug));
+                    if (indexItem != null)
                     {
-                        this._testOutputHelper.WriteLine($"found {entry["slug"]}");
+                        this._testOutputHelper.WriteLine($"found {indexItem["slug"]}");
+                        WriteEntry(indexItem, j);
                         return;
                     }
 
                     // search index by slug
-                    entry = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["slug"].Value<string>(), titleOrSlug));
-                    if (entry != null)
+                    indexItem = jAIndex.FirstOrDefault(k => ContainsOrStartsWith(k["slug"].Value<string>(), titleOrSlug));
+                    if (indexItem != null)
                     {
-                        this._testOutputHelper.WriteLine($"found {entry["slug"]}");
+                        this._testOutputHelper.WriteLine($"found {indexItem["slug"]}");
+                        WriteEntry(indexItem, j);
                         return;
                     }
 
