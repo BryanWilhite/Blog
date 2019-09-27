@@ -1,0 +1,4 @@
+{
+    "layout": "layouts/entry.html",
+    "permalink": "entry/{{documentShortName}}/index.html"
+}

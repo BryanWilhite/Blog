@@ -42,6 +42,13 @@
     "emmet.excludeLanguages": [],
     "markdownlint.config": {
         "MD002": false, //first header should be a top-level header
+        "MD003": false,
+        "MD013": false,
+        "MD024": false,
+        "MD026": false,
+        "MD029": false,
+        "MD033": false,
+        "MD035": false,
         "MD036": false, //emphasis used instead of header
         "MD041": false //first line in file should be a top-level header
     }

@@ -2,6 +2,30 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "dotnet: build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/shell/Songhay.Publications.Tests/Songhay.Publications.Tests.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "dotnet: test [Songhay.Publications.Tests, filtered by selected text]",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "test",
+                "${workspaceFolder}/shell/Songhay.Publications.Tests/Songhay.Publications.Tests.csproj",
+                "--filter:${selectedText}",
+                "--logger:trx",
+                "--results-directory:${workspaceFolder}/shell/TestResults",
+                "--verbosity:normal"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
             "label": "Pandoc: convert to HTML",
             "command": "pandoc",
             "args": [
@@ -21,21 +45,42 @@
             "problemMatcher": []
         },
         {
-            "label": "Python-Markdown: convert to HTML",
-            "command": "python",
-            "args": [
-                "-m",
-                "markdown",
-                "-f",
-                "${fileBasenameNoExtension}.html",
-                "-v",
-                "${fileBasename}",
-            ],
-            "isBackground": false,
-            "options": {
-                "cwd": "${fileDirname}"
-            },
+            "label": "presentation: blog: markdownlint",
+            "type": "npm",
+            "script": "markdownlint",
+            "path": "presentation/",
+            "problemMatcher": []
+        },
+        {
+            "label": "presentation: blog: npm build",
+            "type": "npm",
+            "script": "build",
+            "path": "presentation/",
+            "problemMatcher": [
+                "$tsc"
+            ]
+        },
+        {
+            "label": "test [clean test output folder]",
             "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}/shell/TestResults"
+            },
+            "linux": {
+                "command": "rm",
+                "args": [
+                    "--verbose",
+                    "*.trx"
+                ]
+            },
+            "windows": {
+                "command": "Remove-Item",
+                "args": [
+                    "-Path",
+                    "*.trx",
+                    "-Verbose"
+                ]
+            },
             "problemMatcher": []
         }
     ]

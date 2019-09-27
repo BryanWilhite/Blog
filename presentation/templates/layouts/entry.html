@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta name="description" content="{{ settings.description }}" />
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <base href="{{ settings.uri }}" />
+
+        <link rel="canonical" href="{{ settings.uri }}" />
+        <link rel="alternate" type="application/atom+xml" title="{{ settings.siteName }}" href="{{ settings.feed.path }}" />
+        <link rel="SHORTCUT ICON" href="{{ settings.uriRoot }}images/kinte.ico" />
+        <link href="{{ settings.uriCloudRoot }}shared-styles-webfonts/zocial-flat.css" rel="stylesheet" />
+        <link href="{{ settings.uriCloudRoot }}shared-styles-bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="{{ settings.uriRoot }}styles/styles.min.css" rel="stylesheet" />
+
+        <title>{% if title %}{{ title }} - {% endif %}{{ settings.siteName }}</title>
+    </head>
+
+    <body>
+        {{ content }}
+        <footer>
+            <div class="col-sm-8">
+                {%- if modificationDate %}
+                <p>
+                    Last Reviewed:
+                    {{ modificationDate }}
+                </p>
+                {% endif -%}
+                <p>
+                    Another stone tribal move by <a class="welcome" href="{{ settings.uriCompany }}">Songhay System</a>
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <a href="http://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
+                    <span class="zocial twitter icon"></span>
+                </a>
+                <a href="{{ settings.feed.uri }}" target="_blank" title="Atom feed">
+                    <span class="zocial rss icon"></span>
+                </a>
+            </div>
+        </footer>
+    </body>
+
+</html>

@@ -1,0 +1,17 @@
+{
+    "name": "day-path-blog",
+    "repository": {
+        "type": "git"
+    },
+    "version": "0.0.1",
+    "scripts": {
+        "build": "npx eleventy",
+        "markdownlint": "npx markdownlint --output markdownlint-output.txt entry/**/*.md",
+        "start": "npx eleventy --serve"
+    },
+    "devDependencies": {
+        "@11ty/eleventy": "^0.8.3",
+        "markdownlint-cli": "^0.18.0"
+    },
+    "dependencies": {}
+}

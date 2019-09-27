@@ -1,0 +1,20 @@
+{
+    "author": {
+        "name": "Bryan Wilhite",
+        "twitter": "BryanWilhite"
+    },
+    "description": "",
+    "descriptionRoot": "",
+    "feed": {
+        "subtitle": "",
+        "filename": "feed.xml",
+        "path": "/entry/feed.xml",
+        "uri": "http://songhayblog.azurewebsites.net/entry/feed.xml",
+        "id": "http://songhayblog.azurewebsites.net/"
+    },
+    "siteName": "the rasx() context",
+    "uri": "http://songhayblog.azurewebsites.net/",
+    "uriCloudRoot": "http://songhay.blob.core.windows.net/",
+    "uriCompany": "http://songhaysystem.com/",
+    "uriRoot": "http://songhayblog.azurewebsites.net/"
+}

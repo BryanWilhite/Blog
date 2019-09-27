@@ -1,0 +1,29 @@
+---
+eleventyExcludeFromCollections: true
+layout: no.html
+permalink: entry/feed.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ settings.siteName }}</title>
+    <subtitle>{{ settings.feed.subtitle }}</subtitle>
+    <link href="{{ settings.feed.uri }}" rel="self" />
+    <link href="{{ settings.uri }}" />
+    <id>{{ settings.feed.id }}</id>
+    <author>
+        <name>{{ settings.author.name }}</name>
+    </author>
+    {% assign lastSevenEntries = collections.entries | blogHead: 7 -%}
+    {%- for entry in lastSevenEntries %}
+    <entry>
+        <id>{{ settings.feed.id }}{{ entry.url | remove_first: "/" }}</id>
+        <title>{{ entry.data.title | escape_once }}</title>
+        <link href="{{ entry.url }}" />
+        <updated>{{ entry.data.date }}</updated>
+        <content type="html">
+            {{ entry.templateContent | strip_html | remove: entry.data.title | strip | truncatewords: 42 }}
+        </content>
+    </entry>
+    {%- endfor %}
+</feed>
