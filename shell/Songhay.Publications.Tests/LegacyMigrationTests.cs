@@ -1,11 +1,14 @@
-using System.Xml.Linq;
 using System;
 using System.IO;
 using System.Linq;
+using System.Xml.Linq;
+using Html2Markdown;
+using Html2MarkdownHacks;
 using Newtonsoft.Json.Linq;
 using Songhay.Extensions;
 using Songhay.Publications.Extensions;
 using Songhay.Publications.Models;
+using Songhay.Xml;
 using Xunit;
 using Xunit.Abstractions;
 
@@ -13,6 +16,26 @@ namespace Songhay.Publications.Tests
 {
     public class LegacyMigrationTests
     {
+        public static JObject ConvertToCamelCase(JObject jObject)
+        {
+            var jProperties = jObject.Properties();
+            return new JObject(jProperties.Select(i =>
+            {
+                var propertyName = string.Concat(i.Name.Substring(0, 1).ToLower(), i.Name.Substring(1));
+                return new JProperty(propertyName, i.Value);
+            }));
+        }
+
+        public static string GetExtract(string content)
+        {
+            content = HtmlUtility.ConvertToXml(content);
+            content = content.Replace("&nbsp;", string.Empty); // TODO: this should be in HtmlUtility.ConvertToXml().
+            var rootElement = XElement.Parse(string.Format("<root>{0}</root>", content));
+            content = XObjectUtility.JoinFlattenedXTextNodes(rootElement);
+            var limit = 255;
+            return (content.Length > limit) ? string.Format("{0}...", content.Trim().Substring(0, limit - 1)) : content;
+        }
+
         public LegacyMigrationTests(ITestOutputHelper helper)
         {
             this._testOutputHelper = helper;
@@ -156,6 +179,29 @@ namespace Songhay.Publications.Tests
                 else
                 {
                     this._testOutputHelper.WriteLine($"writing `{slug}`...");
+
+                    var html = legacyEntry.GetValue<string>("Content");
+                    Func<IReplacerIdentifier, bool> filter =
+                        replacer =>
+                        (replacer.HtmlGroup != HtmlGroups.InlineEntities) &&
+                        (replacer.HtmlElement != HtmlElements.blockquote) &&
+                        (replacer.HtmlElement != HtmlElements.img);
+                    var scheme = new SonghayMarkdownScheme(filter);
+                    var converter = new Converter(scheme);
+                    var markdown = converter.Convert(html);
+
+                    var entry = new MarkdownEntry().WithEdit(e =>
+                    {
+                        legacyEntry["Content"] = GetExtract(legacyEntry.GetValue<string>("Content"));
+                        e.FrontMatter = ConvertToCamelCase(legacyEntry);
+                        e.Content = markdown;
+                    });
+
+                    var path = Path.Combine(
+                        presentationEntryRootInfo.GetDirectories(inceptDate.Year.ToString()).First().FullName,
+                        $"{inceptDate:yyyy-MM-dd}-{slug}.md"
+                    );
+                    File.WriteAllText(path, entry.ToFinalEdit());
                 }
             });
         }

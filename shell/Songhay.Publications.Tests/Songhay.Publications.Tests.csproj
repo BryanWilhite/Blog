@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Html2Markdown" Version="3.2.1.341" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.1.1" />
     <PackageReference Include="Songhay.Publications" Version="1.0.0" />
     <PackageReference Include="SonghayCore.xUnit" Version="3.0.6" />
