@@ -1,3 +1,4 @@
+using System.Xml.Linq;
 using System;
 using System.IO;
 using System.Linq;
@@ -43,7 +44,7 @@ namespace Songhay.Publications.Tests
                 var month = a.Last();
 
                 if (!presentationEntryRootInfo.GetDirectories(year).Any())
-                    Directory.CreateDirectory(Path.Combine(presentationEntryRootInfo.FullName, year));
+                    presentationEntryRootInfo.CreateSubdirectory(year);
 
                 bool ContainsOrStartsWith(string input, string search)
                 {
@@ -105,6 +106,57 @@ namespace Songhay.Publications.Tests
 
                     this._testOutputHelper.WriteLine($"WARNING: {titleOrSlug} not found!");
                 });
+            });
+        }
+
+        [Theory]
+        [InlineData("../../../../../shell",
+            "../../../../../../azure-storage-accounts/songhay/songhayblog-azurewebsites-net/BlogEntry",
+            "../../../json", "index.json")]
+        public void ShouldMigrateLegacyFromAzS(string shellRoot, string azsRoot, string jsonRoot, string indexName)
+        {
+            shellRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, shellRoot);
+            Assert.True(Directory.Exists(shellRoot));
+
+            azsRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, azsRoot);
+            Assert.True(Directory.Exists(azsRoot));
+
+            jsonRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
+            Assert.True(Directory.Exists(jsonRoot));
+
+            var shellRootInfo = new DirectoryInfo(shellRoot);
+            var azsRootInfo = new DirectoryInfo(azsRoot);
+            var presentationEntryRootInfo = shellRootInfo.Parent
+                .GetDirectories("presentation").First()
+                .GetDirectories("entry").First();
+            var jsonRootInfo = new DirectoryInfo(jsonRoot);
+
+            var jAIndex = JArray.Parse(File.ReadAllText(jsonRootInfo.GetFiles().First(i => i.Name == indexName).FullName));
+
+            azsRootInfo.GetFiles().ForEachInEnumerable(i =>
+            {
+                this._testOutputHelper.WriteLine(i.Name);
+
+                var legacyEntry = JObject.Parse(File.ReadAllText(i.FullName));
+
+                var slug = legacyEntry.GetValue<string>("Slug");
+                var inceptDate = legacyEntry.GetValue<DateTime>("InceptDate");
+
+                if (!presentationEntryRootInfo.GetDirectories(inceptDate.Year.ToString()).Any())
+                {
+                    presentationEntryRootInfo.CreateSubdirectory(inceptDate.Year.ToString());
+                }
+
+                if (presentationEntryRootInfo
+                    .GetDirectories(inceptDate.Year.ToString()).First()
+                    .GetDirectories($"*{slug}.md").Any())
+                {
+                    this._testOutputHelper.WriteLine($"`{slug}` already exists");
+                }
+                else
+                {
+                    this._testOutputHelper.WriteLine($"writing `{slug}`...");
+                }
             });
         }
 
