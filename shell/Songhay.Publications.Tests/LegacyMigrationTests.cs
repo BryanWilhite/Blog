@@ -179,29 +179,36 @@ namespace Songhay.Publications.Tests
                 else
                 {
                     this._testOutputHelper.WriteLine($"writing `{slug}`...");
-
-                    var html = legacyEntry.GetValue<string>("Content");
-                    Func<IReplacerIdentifier, bool> filter =
-                        replacer =>
-                        (replacer.HtmlGroup != HtmlGroups.InlineEntities) &&
-                        (replacer.HtmlElement != HtmlElements.blockquote) &&
-                        (replacer.HtmlElement != HtmlElements.img);
-                    var scheme = new SonghayMarkdownScheme(filter);
-                    var converter = new Converter(scheme);
-                    var markdown = converter.Convert(html);
-
-                    var entry = new MarkdownEntry().WithEdit(e =>
+                    try
                     {
-                        legacyEntry["Content"] = GetExtract(legacyEntry.GetValue<string>("Content"));
-                        e.FrontMatter = ConvertToCamelCase(legacyEntry);
-                        e.Content = markdown;
-                    });
+                        var html = legacyEntry.GetValue<string>("Content");
+                        Func<IReplacerIdentifier, bool> filter =
+                            replacer =>
+                            (replacer.HtmlGroup != HtmlGroups.InlineEntities) &&
+                            (replacer.HtmlElement != HtmlElements.blockquote) &&
+                            (replacer.HtmlElement != HtmlElements.img);
+                        var scheme = new SonghayMarkdownScheme(filter);
+                        var converter = new Converter(scheme);
+                        var markdown = converter.Convert(html);
 
-                    var path = Path.Combine(
-                        presentationEntryRootInfo.GetDirectories(inceptDate.Year.ToString()).First().FullName,
-                        $"{inceptDate:yyyy-MM-dd}-{slug}.md"
-                    );
-                    File.WriteAllText(path, entry.ToFinalEdit());
+                        var entry = new MarkdownEntry().WithEdit(e =>
+                        {
+                            legacyEntry["Content"] = GetExtract(legacyEntry.GetValue<string>("Content"));
+                            e.FrontMatter = ConvertToCamelCase(legacyEntry);
+                            e.Content = markdown;
+                        });
+
+                        var path = Path.Combine(
+                            presentationEntryRootInfo.GetDirectories(inceptDate.Year.ToString()).First().FullName,
+                            $"{inceptDate:yyyy-MM-dd}-{slug}.md"
+                        );
+                        File.WriteAllText(path, entry.ToFinalEdit());
+                    }
+                    catch (Exception ex)
+                    {
+                        this._testOutputHelper.WriteLine($"EXCEPTION: {ex.Message}");
+                        this._testOutputHelper.WriteLine(ex.StackTrace);
+                    }
                 }
             });
         }
