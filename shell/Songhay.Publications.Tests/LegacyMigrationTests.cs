@@ -31,7 +31,7 @@ namespace Songhay.Publications.Tests
             content = HtmlUtility.ConvertToXml(content);
             content = content.Replace("&nbsp;", string.Empty); // TODO: this should be in HtmlUtility.ConvertToXml().
             var rootElement = XElement.Parse(string.Format("<root>{0}</root>", content));
-            content = XObjectUtility.JoinFlattenedXTextNodes(rootElement);
+            content = XObjectUtility.JoinFlattenedXTextNodes(rootElement, includeRootElement: false, joinDelimiter: " ");
             var limit = 255;
             return (content.Length > limit) ? string.Format("{0}...", content.Trim().Substring(0, limit - 1)) : content;
         }
