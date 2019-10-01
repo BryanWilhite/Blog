@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Hiring! Want to join our Mono/CoreCLR/Android/iOS team?[xamarin.com] [xamarin.com]  and [xamarin.com] \r\n      Great Programmers Write Debuggable Code [henrikwarne.com] \r\n      Best Practices in Asynchronous Programming [from 2013] [msdn.microsoft.com] \r\n...",
+  "content": "Hiring! Want to join our Mono/CoreCLR/Android/iOS team?[xamarin.com] [xamarin.com]  and [xamarin.com]        Great Programmers Write Debuggable Code [henrikwarne.com]        Best Practices in Asynchronous Programming [from 2013] [msdn.microsoft.com]     ...",
   "inceptDate": "2015-05-15T00:00:00",
   "isPublished": true,
   "itemCategory": null,

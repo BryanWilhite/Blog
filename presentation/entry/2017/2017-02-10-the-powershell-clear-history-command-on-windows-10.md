@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "The PowerShell Clear-History command seems to have no effect. According to Vimes on StackOverflow, this command works:\r\nRemove-Item (Get-PSReadlineOption).HistorySavePath\r\nI see that HistorySavePath leads here:\r\n%APPDATA%\\Microsoft\\Windows\\PowerShell\\PSR...",
+  "content": "The PowerShell Clear-History command seems to have no effect. According to Vimes on StackOverflow, this command works: Remove-Item (Get-PSReadlineOption).HistorySavePath I see that HistorySavePath leads here: %APPDATA%\\Microsoft\\Windows\\PowerShell\\PSRead...",
   "inceptDate": "2017-02-10T15:26:08.6682218-08:00",
   "isPublished": true,
   "itemCategory": null,

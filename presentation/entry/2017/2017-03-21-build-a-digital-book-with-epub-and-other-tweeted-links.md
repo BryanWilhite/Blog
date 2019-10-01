@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Build a digital book with EPUB [ibm.com]#ibm “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [github.com] ”\r\n       ePub Boilerplate [github.com] “pack mimefile to epub (mimetype MUST be first fi...",
+  "content": "Build a digital book with EPUB [ibm.com]#ibm “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [github.com] ”        ePub Boilerplate [github.com] “pack mimefile to epub (mimetype MUST be first fil...",
   "inceptDate": "2017-03-21T14:10:28.8063661-07:00",
   "isPublished": true,
   "itemCategory": null,

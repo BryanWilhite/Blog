@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Top 5 tips for running external commands in Powershell http://t.co/HQ3yZZc7eI Get-ItemProperty makes sense to me when explained in the context of Registry entries https://t.co/ipann95rAm Applies To: Windows PowerShell 2.0, 3.0, 4.0, 5.0 #about_Functions_...",
+  "content": "Top 5 tips for running external commands in Powershell http://t.co/HQ3yZZc7eI   Get-ItemProperty makes sense to me when explained in the context of Registry entries https://t.co/ipann95rAm   Applies To: Windows PowerShell 2.0, 3.0, 4.0, 5.0 #about_Functi...",
   "inceptDate": "2015-06-21T00:00:00",
   "isPublished": true,
   "itemCategory": null,

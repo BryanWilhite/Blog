@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Managing State in Angular using Akita: [blog.ng-book.com] Do you still think that NgZone (zone.js) is required for change detection in Angular? [bit.ly] Just published audioworklet-polyfill 1.1.0.\r\n            Now this cool bitcrusher demo works in Firef...",
+  "content": "Managing State in Angular using Akita: [blog.ng-book.com] Do you still think that NgZone (zone.js) is required for change detection in Angular? [bit.ly] Just published audioworklet-polyfill 1.1.0.             Now this cool bitcrusher demo works in Firefo...",
   "inceptDate": "2018-12-28T12:27:43.1839839-08:00",
   "isPublished": true,
   "itemCategory": null,

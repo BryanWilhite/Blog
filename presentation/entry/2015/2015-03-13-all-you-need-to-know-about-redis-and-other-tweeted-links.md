@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "All you need to know about Redis | Ugo Lattanzi's tech world [tostring.it] \r\n      Securing Your Logins With [asp.net]  MVC [blog.asteropesystems.com] \r\n      Fixing Memory Leaks in AngularJS and other JavaScript Applications - CodeProject [codeproject.c...",
+  "content": "All you need to know about Redis | Ugo Lattanzi's tech world [tostring.it]        Securing Your Logins With [asp.net]  MVC [blog.asteropesystems.com]        Fixing Memory Leaks in AngularJS and other JavaScript Applications - CodeProject [codeproject.com...",
   "inceptDate": "2015-03-13T00:00:00",
   "isPublished": true,
   "itemCategory": null,

@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "An automated build system can depend on a ClickOnce-configured *.csproj file—often it expects to see one ClickOnce project by convention. When it fails to see this convention there might be an error like this:\r\n08:30:46,569 INFO  - C:\\Windows\\Microsoft.N...",
+  "content": "An automated build system can depend on a ClickOnce-configured *.csproj file—often it expects to see one ClickOnce project by convention. When it fails to see this convention there might be an error like this:  08:30:46,569 INFO  - C:\\Windows\\Microsoft.N...",
   "inceptDate": "2014-10-29T00:00:00",
   "isPublished": true,
   "slug": "songhay-studio-how-to-disable-click-once-for-a-secondary-exe-project",

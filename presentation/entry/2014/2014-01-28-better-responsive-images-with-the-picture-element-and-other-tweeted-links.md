@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Better Responsive Images With the picture Element | Nettuts+ http://t.co/SUKPf0MPLA via @nettutsEver thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: http://t.co/s5uM7OtEQY by @markodugonjicReally @dell? No way...",
+  "content": "Better Responsive Images With the picture Element | Nettuts+ http://t.co/SUKPf0MPLA via @nettuts  Ever thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: http://t.co/s5uM7OtEQY by @markodugonjic  Really @dell? No...",
   "inceptDate": "2014-01-28T00:00:00",
   "isPublished": true,
   "slug": "better-responsive-images-with-the-picture-element-and-other-tweeted-links",

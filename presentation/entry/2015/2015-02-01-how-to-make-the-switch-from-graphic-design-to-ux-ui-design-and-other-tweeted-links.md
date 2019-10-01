@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "How to make the switch from Graphic Design to UX/UI Design - [writing.enchant.co] \r\n      This Year's 8 Smartest UI Design Ideas: [wired.com] \r\n      Excellent! From @themadray \"Building Products With Soul\" [medium.com] \r\n      Is Infinite Scrolling Righ...",
+  "content": "How to make the switch from Graphic Design to UX/UI Design - [writing.enchant.co]        This Year's 8 Smartest UI Design Ideas: [wired.com]        Excellent! From @themadray \"Building Products With Soul\" [medium.com]        Is Infinite Scrolling Right f...",
   "inceptDate": "2015-02-01T00:00:00",
   "isPublished": true,
   "itemCategory": null,

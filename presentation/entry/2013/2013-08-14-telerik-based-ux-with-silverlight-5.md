@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": " [ 404-ish: not found :( ]\r\n",
+  "content": "   [ 404-ish: not found :( ]  ",
   "inceptDate": "2013-08-14T00:00:00",
   "isPublished": true,
   "slug": "telerik-based-ux-with-silverlight-5",

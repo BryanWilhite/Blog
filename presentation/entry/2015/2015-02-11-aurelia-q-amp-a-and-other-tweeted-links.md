@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Aurelia Q&amp;A [eisenbergeffect.bluespire.com] \r\n      he left the #AngularJS team to build #Aurelia, @EisenbergEffect =&gt; @DotNetRocksShow[dotnetrocks.com] \r\n      Smooth Scrolling without jQuery - [coderwall.com] \r\n      Ways and Advantages of Migra...",
+  "content": "Aurelia Q&amp;A [eisenbergeffect.bluespire.com]        he left the #AngularJS team to build #Aurelia, @EisenbergEffect =&gt; @DotNetRocksShow[dotnetrocks.com]        Smooth Scrolling without jQuery - [coderwall.com]        Ways and Advantages of Migratin...",
   "inceptDate": "2015-02-11T00:00:00",
   "isPublished": true,
   "itemCategory": null,

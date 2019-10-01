@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Using AngularJS for Data Visualisations [css-tricks.com] \r\n      New AngularJS Releases 1.4.0-beta.5 and 1.3.14 [angularjs.blogspot.com] \r\n      Magnificent.js : jQuery Responsive Zoom Image plugin [jqueryrain.com] \r\n      11 Things About JavaScript Func...",
+  "content": "Using AngularJS for Data Visualisations [css-tricks.com]        New AngularJS Releases 1.4.0-beta.5 and 1.3.14 [angularjs.blogspot.com]        Magnificent.js : jQuery Responsive Zoom Image plugin [jqueryrain.com]        11 Things About JavaScript Functio...",
   "inceptDate": "2015-02-27T00:00:00",
   "isPublished": true,
   "itemCategory": null,

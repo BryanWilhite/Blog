@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Suggestions for Structuring a Large Aurelia Application [blog.ashleygrant.com] [much out of date except for “Source Code Structure”]\r\n       HTML Templates via JavaScript Template Literals [css-tricks.com] [npm lit-html]\r\n       Safari is the new IE [fab...",
+  "content": "Suggestions for Structuring a Large Aurelia Application [blog.ashleygrant.com] [much out of date except for “Source Code Structure”]        HTML Templates via JavaScript Template Literals [css-tricks.com] [npm lit-html]        Safari is the new IE [fabio...",
   "inceptDate": "2018-01-16T12:31:17.9018966-08:00",
   "isPublished": true,
   "itemCategory": null,

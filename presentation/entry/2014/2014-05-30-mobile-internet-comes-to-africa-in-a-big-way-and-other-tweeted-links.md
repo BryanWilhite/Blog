@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Mobile Internet Comes To Africa In A Big Way http://t.co/nljszWWNsp on @nprnews radioSwagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers https://t.co/QbYx6hnE3xjsAction: a tiny event delegation library http://t.co/...",
+  "content": "Mobile Internet Comes To Africa In A Big Way http://t.co/nljszWWNsp on @nprnews radio  Swagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers https://t.co/QbYx6hnE3x  jsAction: a tiny event delegation library http://t...",
   "inceptDate": "2014-05-30T00:00:00",
   "isPublished": true,
   "slug": "mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",

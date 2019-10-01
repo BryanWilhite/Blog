@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O#DDDIn case you missed it the Domain-Driven Design Fundamentals course that @ardalis &amp; I created is now on @pluralsight! http://t.co/fQWsAPX4bXnot enjoying the docs on RichEditBox h...",
+  "content": "Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis &amp; I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...",
   "inceptDate": "2014-06-27T00:00:00",
   "isPublished": true,
   "slug": "greg-young-on-ddd-and-other-tweeted-links",

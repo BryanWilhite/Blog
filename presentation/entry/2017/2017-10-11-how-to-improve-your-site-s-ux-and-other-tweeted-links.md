@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "How to improve your site’s UX [hotjar.com] JavaScript and Search Engines: What You Should Keep in Mind [noupe.com] Adding colour to historical photos [davidairey.com] Lay down some audio tracks with Qtractor [opensource.com] [open source]\r\n       Inkscap...",
+  "content": "How to improve your site’s UX [hotjar.com] JavaScript and Search Engines: What You Should Keep in Mind [noupe.com] Adding colour to historical photos [davidairey.com] Lay down some audio tracks with Qtractor [opensource.com] [open source]        Inkscape...",
   "inceptDate": "2017-10-11T14:18:06.0009795-07:00",
   "isPublished": true,
   "itemCategory": null,

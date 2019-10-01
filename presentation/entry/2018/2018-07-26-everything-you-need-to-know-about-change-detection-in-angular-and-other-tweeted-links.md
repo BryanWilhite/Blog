@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "“Everything you need to know about change detection in Angular” by\r\n      @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de…\r\n      [twit...",
+  "content": "“Everything you need to know about change detection in Angular” by       @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de…       [twitte...",
   "inceptDate": "2018-07-26T10:30:26.5620234-07:00",
   "isPublished": true,
   "itemCategory": null,

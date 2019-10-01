@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "When you have the bandwidth just delete everything in your \\bower_components folder and run bower install. Why resort to this? The output of my reinstall displayed this warning:\r\nPlease note that,\r\n    angular-embed-codepen#1.1.1 depends on angular#~1.2....",
+  "content": "When you have the bandwidth just delete everything in your \\bower_components folder and run bower install. Why resort to this? The output of my reinstall displayed this warning: Please note that,     angular-embed-codepen#1.1.1 depends on angular#~1.2.21...",
   "inceptDate": "2015-08-19T20:10:10.1876572-07:00",
   "isPublished": true,
   "itemCategory": null,

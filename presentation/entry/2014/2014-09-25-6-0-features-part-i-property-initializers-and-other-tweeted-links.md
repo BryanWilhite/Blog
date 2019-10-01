@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "C# 6.0 Features Part I : Property Initializers http://t.co/oN9IrRVj4qC# 6.0 Features Part II : Primary Constructors http://t.co/3Al2okv7NZC# 6.0 Features Part 3: Declaration Expressions http://t.co/RGyMQLzplDMicrosoft's next version of Office includes a ...",
+  "content": "C# 6.0 Features Part I : Property Initializers http://t.co/oN9IrRVj4q  C# 6.0 Features Part II : Primary Constructors http://t.co/3Al2okv7NZ  C# 6.0 Features Part 3: Declaration Expressions http://t.co/RGyMQLzplD  Microsoft's next version of Office inclu...",
   "inceptDate": "2014-09-25T00:00:00",
   "isPublished": true,
   "slug": "6-0-features-part-i-property-initializers-and-other-tweeted-links",

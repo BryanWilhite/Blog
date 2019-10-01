@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt;  http://t.co/jD8UHWpe6yCaching: the Good, the Bad and the Hype https://t.co/LwPqKJRUDVIt's live! ✏ Understanding #SVG Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preserveAs...",
+  "content": "What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt;  http://t.co/jD8UHWpe6y  Caching: the Good, the Bad and the Hype https://t.co/LwPqKJRUDV  It's live! ✏ Understanding #SVG Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preser...",
   "inceptDate": "2014-07-19T00:00:00",
   "isPublished": true,
   "slug": "what-s-new-in-reactiveui-6-0-and-other-tweeted-links",

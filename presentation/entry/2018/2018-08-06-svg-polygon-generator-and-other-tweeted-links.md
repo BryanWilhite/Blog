@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "SVG Polygon Generator\r\n      [codepen.io] Design—and designers—seem perpetually threatened by democratization. -\r\n      [subtraction.com] -\r\n      [twitter.com] \"...among the eight most important qualities of Google’s top employees, STEM expertise comes ...",
+  "content": "SVG Polygon Generator       [codepen.io] Design—and designers—seem perpetually threatened by democratization. -       [subtraction.com] -       [twitter.com] \"...among the eight most important qualities of Google’s top employees, STEM expertise comes in ...",
   "inceptDate": "2018-08-06T14:06:48.6328056-07:00",
   "isPublished": true,
   "itemCategory": null,

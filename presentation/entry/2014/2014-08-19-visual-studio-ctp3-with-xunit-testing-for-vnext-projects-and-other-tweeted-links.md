@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Visual Studio CTP3! with xunit testing for vnext projects http://t.co/qcBPBzKqvK /cc @bradwilsonto me it's a server-side rendition of Silverlight =&gt; Introducing http://t.co/du79BQulzh vNext - http://t.co/suZ2SxJkrN@shanselman@BryanWilhite I thought yo...",
+  "content": "Visual Studio CTP3! with xunit testing for vnext projects http://t.co/qcBPBzKqvK /cc @bradwilson  to me it's a server-side rendition of Silverlight =&gt; Introducing http://t.co/du79BQulzh vNext - http://t.co/suZ2SxJkrN @shanselman  @BryanWilhite I thoug...",
   "inceptDate": "2014-08-19T00:00:00",
   "isPublished": true,
   "slug": "visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",

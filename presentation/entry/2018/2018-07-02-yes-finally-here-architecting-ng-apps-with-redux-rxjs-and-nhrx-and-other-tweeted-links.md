@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx by @chris_noring forward by @josepheames[twitter.com] There's been a lot of confusion and misinformation about Redux going around lately.\r\n\r\nI just posted \"Redux - Not Dea… [twitter.com]...",
+  "content": "Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx by @chris_noring forward by @josepheames[twitter.com] There's been a lot of confusion and misinformation about Redux going around lately.  I just posted \"Redux - Not Dea… [twitter.com] D...",
   "inceptDate": "2018-07-02T09:31:16.6886695-07:00",
   "isPublished": true,
   "itemCategory": null,

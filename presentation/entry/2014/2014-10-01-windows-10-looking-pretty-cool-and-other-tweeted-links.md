@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Windows 10 looking pretty cool, can’t wait to try it out! #Windows10http://t.co/T2mkliicavNetflix API : Retiring the Netflix Public API http://t.co/pyHUyoqw0sFamo.us Demo Day: Episode 1 » Famo.us Blog http://t.co/60BTQrmA8FGuerilla Research Tactics and T...",
+  "content": "Windows 10 looking pretty cool, can’t wait to try it out! #Windows10 http://t.co/T2mkliicav  Netflix API : Retiring the Netflix Public API http://t.co/pyHUyoqw0s  Famo.us Demo Day: Episode 1 » Famo.us Blog http://t.co/60BTQrmA8F  Guerilla Research Tactic...",
   "inceptDate": "2014-10-01T00:00:00",
   "isPublished": true,
   "slug": "windows-10-looking-pretty-cool-and-other-tweeted-links",

@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "How to make responsiveness super simple with CSS Variables A quick tutorial on how to create responsive websites i…\r\n      [twitter.com] The 3.0 releases of our aXe\r\n      #a11y extensions are out! You can now test inside of Shadow DOM and with some new ...",
+  "content": "How to make responsiveness super simple with CSS Variables A quick tutorial on how to create responsive websites i…       [twitter.com] The 3.0 releases of our aXe       #a11y extensions are out! You can now test inside of Shadow DOM and with some new ru...",
   "inceptDate": "2018-08-08T10:41:02.1578353-07:00",
   "isPublished": true,
   "itemCategory": null,

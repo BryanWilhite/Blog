@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure @shanselmanhttp://t.co/4jFYf1vlMILeaving Angular http://t.co/pbEQIRgbr0Microsoft Open Sources .NET – The History Behind the Announcement | Software Developmen...",
+  "content": "Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...",
   "inceptDate": "2014-11-21T00:00:00",
   "isPublished": true,
   "slug": "introducing-visual-studio-community-2013-and-other-tweeted-links",

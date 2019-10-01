@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "There are at least 🖐 five services that can process your static &lt;form&gt; for you: ①\r\n      [pageclip.co]\r\n\r\n      ②…\r\n      [twitter.com] A Practical Guide to Angular Elements:\r\n      [nitayneeman.com] People keep asking me about CSS Grid \"best prac...",
+  "content": "There are at least 🖐 five services that can process your static &lt;form&gt; for you: ①       [pageclip.co]        ②…       [twitter.com] A Practical Guide to Angular Elements:       [nitayneeman.com] People keep asking me about CSS Grid \"best practices...",
   "inceptDate": "2018-08-01T08:48:27.0879352-07:00",
   "isPublished": true,
   "itemCategory": null,

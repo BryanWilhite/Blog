@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Mad props to Microsoft for their PWA push! [developer.microsoft.com] Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for @Ionicframework users (:\r\n    \r\n      The Power of Flex-Grow [hackerno...",
+  "content": "Mad props to Microsoft for their PWA push! [developer.microsoft.com] Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for @Ionicframework users (:            The Power of Flex-Grow [hackernoon...",
   "inceptDate": "2018-10-15T23:19:25.7182945-07:00",
   "isPublished": true,
   "itemCategory": null,

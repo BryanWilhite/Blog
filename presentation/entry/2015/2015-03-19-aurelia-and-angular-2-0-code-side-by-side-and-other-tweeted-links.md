@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Aurelia &amp; Angular 2.0 Code Side by Side [eisenbergeffect.bluespire.com] \r\n      How to get started with CSS Shapes | Webdesigner Depot [webdesignerdepot.com] \r\n      Asynchronous Validations in AngularJS - Jaco Pretorius [jacopretorius.net] \r\n      A...",
+  "content": "Aurelia &amp; Angular 2.0 Code Side by Side [eisenbergeffect.bluespire.com]        How to get started with CSS Shapes | Webdesigner Depot [webdesignerdepot.com]        Asynchronous Validations in AngularJS - Jaco Pretorius [jacopretorius.net]        Angu...",
   "inceptDate": "2015-03-19T00:00:00",
   "isPublished": true,
   "itemCategory": null,

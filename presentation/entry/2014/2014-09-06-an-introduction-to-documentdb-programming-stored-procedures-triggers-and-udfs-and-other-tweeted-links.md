@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs http://t.co/PYV4nixHAwYou Can’t Fix the UX Without Fixing Everything http://t.co/lwr9XRjtVU#Product#StartupA lovely new podcast about responsive design, titled, humm, Respon...",
+  "content": "An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs http://t.co/PYV4nixHAw  You Can’t Fix the UX Without Fixing Everything http://t.co/lwr9XRjtVU #Product #Startup  A lovely new podcast about responsive design, titled, humm, ...",
   "inceptDate": "2014-09-06T00:00:00",
   "isPublished": true,
   "slug": "an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",

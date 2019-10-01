@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Update Web.config to this form:\r\n&lt;appSettings&gt;\r\n    &lt;add key=\"defaultTraceSourceName\" value=\"my-source\" /&gt;\r\n&lt;/appSettings&gt;\r\n&lt;system.diagnostics&gt;\r\n    &lt;sources&gt;\r\n        &lt;source name=\"my-source\"&gt;\r\n            &lt;listen...",
+  "content": "Update Web.config to this form: &lt;appSettings&gt;     &lt;add key=\"defaultTraceSourceName\" value=\"my-source\" /&gt; &lt;/appSettings&gt; &lt;system.diagnostics&gt;     &lt;sources&gt;         &lt;source name=\"my-source\"&gt;             &lt;listeners&gt;...",
   "inceptDate": "2016-05-18T22:05:52.4286047-07:00",
   "isPublished": true,
   "itemCategory": null,

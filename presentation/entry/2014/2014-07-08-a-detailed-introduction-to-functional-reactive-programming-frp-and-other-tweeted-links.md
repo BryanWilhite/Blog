@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "A detailed introduction to Functional Reactive Programming (FRP). https://t.co/VO1oJllae3 written by @andrestaltzWatch the Keynote Address for the 2014 Release of Creative Cloud - YouTube https://t.co/XN8uAd4GqOApple and Google move computing forward in ...",
+  "content": "A detailed introduction to Functional Reactive Programming (FRP). https://t.co/VO1oJllae3 written by @andrestaltz  Watch the Keynote Address for the 2014 Release of Creative Cloud - YouTube https://t.co/XN8uAd4GqO  Apple and Google move computing forward...",
   "inceptDate": "2014-07-08T00:00:00",
   "isPublished": true,
   "slug": "a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",

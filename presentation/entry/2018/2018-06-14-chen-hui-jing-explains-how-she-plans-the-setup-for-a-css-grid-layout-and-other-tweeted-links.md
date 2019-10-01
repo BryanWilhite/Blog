@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "How I design with CSS grid\r\n\r\n          Chen Hui Jing explains how she plans the setup for a CSS grid layout. There's a CodePen… [twitter.com] Handlebars in #UI Design: A new kind of element which has risen in UI design [uxdesign.cc] I would like to know...",
+  "content": "How I design with CSS grid            Chen Hui Jing explains how she plans the setup for a CSS grid layout. There's a CodePen… [twitter.com] Handlebars in #UI Design: A new kind of element which has risen in UI design [uxdesign.cc] I would like to know i...",
   "inceptDate": "2018-06-14T13:15:16.4824531-07:00",
   "isPublished": true,
   "itemCategory": null,

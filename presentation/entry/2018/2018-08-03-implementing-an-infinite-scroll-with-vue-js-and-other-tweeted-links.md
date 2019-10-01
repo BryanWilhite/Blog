@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Implementing an Infinite Scroll with Vue.js:\r\n      [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom\r\n      [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How\r\n      #CSS works: Parsing &amp; painting CSS i...",
+  "content": "Implementing an Infinite Scroll with Vue.js:       [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom       [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How       #CSS works: Parsing &amp; painting CSS in t...",
   "inceptDate": "2018-08-03T17:30:25.8024424-07:00",
   "isPublished": true,
   "itemCategory": null,

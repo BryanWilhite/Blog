@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs http://t.co/D8OCmZUQJZ great bridge between LINQ and PS: \"PowerShell One-Liners: Collections, Hashtables, Arrays and Strings\" https://t.co/laO2Pr...",
+  "content": "Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs http://t.co/D8OCmZUQJZ   great bridge between LINQ and PS: \"PowerShell One-Liners: Collections, Hashtables, Arrays and Strings\" https://t.co/laO2...",
   "inceptDate": "2015-06-06T00:00:00",
   "isPublished": true,
   "itemCategory": null,

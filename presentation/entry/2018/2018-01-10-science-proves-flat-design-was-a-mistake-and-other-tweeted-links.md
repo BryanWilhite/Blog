@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Science proves Flat Design was a mistake [mspoweruser.com] » @nazsharif Hisham's Blog - Razor Pages Conventions [hishambinateya.com] [PageConventionCollection]\r\n       Stockio: Free Photos, Videos, Icons, Illustrations, and Fonts For Your Projects [noupe...",
+  "content": "Science proves Flat Design was a mistake [mspoweruser.com] » @nazsharif Hisham's Blog - Razor Pages Conventions [hishambinateya.com] [PageConventionCollection]        Stockio: Free Photos, Videos, Icons, Illustrations, and Fonts For Your Projects [noupe....",
   "inceptDate": "2018-01-10T14:24:23.9882702-08:00",
   "isPublished": true,
   "itemCategory": null,

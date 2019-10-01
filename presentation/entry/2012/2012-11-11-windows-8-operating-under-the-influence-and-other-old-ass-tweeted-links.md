@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Windows 8: Operating Under the Influence http://t.co/s44SvQlcWatch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter &amp; @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2Five Reasons why Windows 8 will be dead on arrival ...",
+  "content": "Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter &amp; @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...",
   "inceptDate": "2012-11-11T00:00:00",
   "isPublished": true,
   "slug": "windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",

@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Windows 8.1 Review - http://t.co/Mbq7uKahABMark your calendars for Windows 8.1! http://t.co/kxbLef2ehwFor those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: http://t.co/qKKwexPg2tWindows 8.1 En...",
+  "content": "Windows 8.1 Review - http://t.co/Mbq7uKahAB  Mark your calendars for Windows 8.1! http://t.co/kxbLef2ehw  For those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: http://t.co/qKKwexPg2t  Windows ...",
   "inceptDate": "2013-09-14T00:00:00",
   "isPublished": true,
   "slug": "windows-8-1-review-and-other-tweeted-links",

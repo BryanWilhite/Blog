@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Upgrading to Angular v6: Step by Step [loiane.com]#angular\r\n      8 Free #JavaScript Image Cropping Scripts &amp; Plugins [webdesignerdepot.com]\r\n      “Version 6 of Angular Now Available” by @stephenfluin[blog.angular.io]\r\n      Using Lektor with Travis...",
+  "content": "Upgrading to Angular v6: Step by Step [loiane.com]#angular       8 Free #JavaScript Image Cropping Scripts &amp; Plugins [webdesignerdepot.com]       “Version 6 of Angular Now Available” by @stephenfluin[blog.angular.io]       Using Lektor with Travis-CI...",
   "inceptDate": "2018-10-21T19:27:32.4025304-07:00",
   "isPublished": true,
   "itemCategory": null,

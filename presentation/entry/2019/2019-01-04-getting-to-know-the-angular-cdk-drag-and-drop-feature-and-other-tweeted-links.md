@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Getting to Know the Angular CDK Drag and Drop Feature. By @NetanelBasal[bit.ly] Easier scrollytelling with position sticky [pudding.cool] Just how many kinds of boxes are there in CSS? @fantasai@tabatkins@meyerweb\r\n content-box\r\n            padding-box\r\n...",
+  "content": "Getting to Know the Angular CDK Drag and Drop Feature. By @NetanelBasal[bit.ly] Easier scrollytelling with position sticky [pudding.cool] Just how many kinds of boxes are there in CSS? @fantasai@tabatkins@meyerweb  content-box             padding-box    ...",
   "inceptDate": "2019-01-04T12:53:40.5486068-08:00",
   "isPublished": true,
   "itemCategory": null,

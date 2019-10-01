@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "The Difference and Relation Between\r\n    #UI and\r\n    #UX Design (In 30 Seconds)\r\n    [apple.news] As of a week ago, Ruby Sass was officially deprecated. Read about what that means for the project and for you here:\r\n    [sass.logdown.com] Flexbox and Gri...",
+  "content": "The Difference and Relation Between     #UI and     #UX Design (In 30 Seconds)     [apple.news] As of a week ago, Ruby Sass was officially deprecated. Read about what that means for the project and for you here:     [sass.logdown.com] Flexbox and Grids, ...",
   "inceptDate": "2018-07-12T15:14:57.6090406-07:00",
   "isPublished": true,
   "itemCategory": null,

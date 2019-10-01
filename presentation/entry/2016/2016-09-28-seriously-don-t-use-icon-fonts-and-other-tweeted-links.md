@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Seriously, Don’t Use Icon Fonts [cloudfour.com]@tylersticka[programmingfonts.org] The most complete resource for the best monospace fonts.\r\n       Improving your creative process: The end of stock photography as we know it [blogs.adobe.com] Top 6 Reasons...",
+  "content": "Seriously, Don’t Use Icon Fonts [cloudfour.com]@tylersticka[programmingfonts.org] The most complete resource for the best monospace fonts.        Improving your creative process: The end of stock photography as we know it [blogs.adobe.com] Top 6 Reasons ...",
   "inceptDate": "2016-09-28T16:26:24.4231697-07:00",
   "isPublished": true,
   "itemCategory": null,

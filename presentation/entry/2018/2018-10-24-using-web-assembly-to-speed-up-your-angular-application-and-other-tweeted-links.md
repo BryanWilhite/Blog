@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Using Web Assembly to speed up your Angular Application [malcoded.com]#angular#javascript via @malcoded\r\n      Why another state management framework for Angular? by @amcdnl#ngxs#ngrx#angular[medium.com][twitter.com]#RxJS 6.2.0 published - Finally added ...",
+  "content": "Using Web Assembly to speed up your Angular Application [malcoded.com]#angular#javascript via @malcoded       Why another state management framework for Angular? by @amcdnl#ngxs#ngrx#angular[medium.com][twitter.com]#RxJS 6.2.0 published - Finally added `...",
   "inceptDate": "2018-10-24T22:23:25.0070595-07:00",
   "isPublished": true,
   "itemCategory": null,

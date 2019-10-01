@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "A nice for reference, just to know what all those M, L, C and A commands stand for in SVG path strings. [roadtolarissa.com] \r\n      SVG Circular Menu @SaraSoueidan[sarasoueidan.com] \r\n      First Impressions using React Native [jlongster.com] \r\n      Int...",
+  "content": "A nice for reference, just to know what all those M, L, C and A commands stand for in SVG path strings. [roadtolarissa.com]        SVG Circular Menu @SaraSoueidan[sarasoueidan.com]        First Impressions using React Native [jlongster.com]        Introd...",
   "inceptDate": "2015-03-06T00:00:00",
   "isPublished": true,
   "itemCategory": null,

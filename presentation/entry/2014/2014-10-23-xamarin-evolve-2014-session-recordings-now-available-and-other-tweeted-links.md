@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog http://t.co/IQhG0ISfxvCreating Micro Screencasts, Hosted For Free http://t.co/l4YQAnRX7t#TDNCareer planning: What is your path? - Ayende @ Rahien http://t.co/mfGsYXVIO8Career planning: W...",
+  "content": "Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog http://t.co/IQhG0ISfxv  Creating Micro Screencasts, Hosted For Free http://t.co/l4YQAnRX7t #TDN  Career planning: What is your path? - Ayende @ Rahien http://t.co/mfGsYXVIO8  Career plan...",
   "inceptDate": "2014-10-23T00:00:00",
   "isPublished": true,
   "slug": "xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",

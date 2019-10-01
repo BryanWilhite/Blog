@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Why All The Lambdas? http://t.co/2WLIVpFJNice dash of responsive design by @37signals. Details matter. http://t.co/d6UZBXTaA fantastic article by @yaili on how we, designers and developer, can become better communicators - http://t.co/e7fWXFVrMathematica...",
+  "content": "Why All The Lambdas? http://t.co/2WLIVpFJ   Nice dash of responsive design by @37signals. Details matter. http://t.co/d6UZBXTa   A fantastic article by @yaili on how we, designers and developer, can become better communicators - http://t.co/e7fWXFVr   Ma...",
   "inceptDate": "2012-12-04T00:00:00",
   "isPublished": true,
   "slug": "why-all-the-lambdas-and-other-tweeted-links",

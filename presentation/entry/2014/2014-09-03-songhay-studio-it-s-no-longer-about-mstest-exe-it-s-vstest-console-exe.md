@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Yes, I feel like I’m the only one in the world (outside of Redmond) using the default testing tools shipping with Visual Studio. So it should be no surprise to not even notice that MSTEST.EXE is no longer recommended—this is the new deal:\r\n\"%ProgramFiles...",
+  "content": "Yes, I feel like I’m the only one in the world (outside of Redmond) using the default testing tools shipping with Visual Studio. So it should be no surprise to not even notice that MSTEST.EXE is no longer recommended—this is the new deal: \"%ProgramFiles(...",
   "inceptDate": "2014-09-03T00:00:00",
   "isPublished": true,
   "itemCategory": null,

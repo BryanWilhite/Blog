@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "James Fallows: A Problem Google Has Created for Itself. http://t.co/Dvr9PB2CnLMost IT Admins Have Considered Quitting Due To Stress http://t.co/9kNWtBaxDnAdobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHallhttp://t.co/8fIJEbPQ...",
+  "content": "James Fallows: A Problem Google Has Created for Itself. http://t.co/Dvr9PB2CnL  Most IT Admins Have Considered Quitting Due To Stress http://t.co/9kNWtBaxDn  Adobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHall http://t.co/8fI...",
   "inceptDate": "2013-04-01T00:00:00",
   "isPublished": true,
   "slug": "a-problem-google-has-created-for-itself-and-other-tweeted-links",

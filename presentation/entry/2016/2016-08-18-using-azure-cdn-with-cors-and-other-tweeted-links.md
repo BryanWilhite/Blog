@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Using Azure CDN with CORS [azure.microsoft.com]@camsoper thx!\r\n     Pre-load assets on an Azure CDN endpoint [azure.microsoft.com]@camsoper single-origin scenario:“The CDN will cache the first response and subsequent requests will use the same header.” [...",
+  "content": "Using Azure CDN with CORS [azure.microsoft.com]@camsoper thx!      Pre-load assets on an Azure CDN endpoint [azure.microsoft.com]@camsoper single-origin scenario:“The CDN will cache the first response and subsequent requests will use the same header.” [a...",
   "inceptDate": "2016-08-18T16:29:53.3272212-07:00",
   "isPublished": true,
   "itemCategory": null,

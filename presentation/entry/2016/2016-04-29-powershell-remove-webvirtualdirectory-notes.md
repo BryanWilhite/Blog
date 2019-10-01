@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "The Remove-WebVirtualDirectory cmdlet of the WebAdministration module seems to be designed to remove a ‘sub-virtual directory’ of an application by default. Consider the following:\r\n$site = Get-Website | Where-Object -Property ID -Value 1 -EQ\r\n$app =\r\n@{...",
+  "content": "The Remove-WebVirtualDirectory cmdlet of the WebAdministration module seems to be designed to remove a ‘sub-virtual directory’ of an application by default. Consider the following: $site = Get-Website | Where-Object -Property ID -Value 1 -EQ $app = @{   ...",
   "inceptDate": "2016-04-29T21:46:34.0093623-07:00",
   "isPublished": true,
   "itemCategory": null,

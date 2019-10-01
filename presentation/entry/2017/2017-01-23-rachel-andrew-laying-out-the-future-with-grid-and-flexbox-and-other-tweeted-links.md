@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Rachel Andrew: Laying Out The Future With Grid And Flexbox - [cssconf.asia] 2016 - YouTube [youtube.com]@rachelandrew CSSconf EU 2014 | @rachelandrew: CSS Grid Layout [youtube.com] [display: grid]\r\n       Databinding SVG with Aurelia [humbletoolsmith.com...",
+  "content": "Rachel Andrew: Laying Out The Future With Grid And Flexbox - [cssconf.asia] 2016 - YouTube [youtube.com]@rachelandrew CSSconf EU 2014 | @rachelandrew: CSS Grid Layout [youtube.com] [display: grid]        Databinding SVG with Aurelia [humbletoolsmith.com]...",
   "inceptDate": "2017-01-23T15:50:48.3551184-08:00",
   "isPublished": true,
   "itemCategory": null,

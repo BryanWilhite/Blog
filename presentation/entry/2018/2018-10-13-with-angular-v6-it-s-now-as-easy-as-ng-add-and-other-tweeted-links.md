@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "With Angular v6 it's now as easy as `ng add @angular/pwa`. 🌟🌞⚡ [twitter.com]\r\n      What's new in #Angular Release 6.0.0 🇬🇧. My article at @JAXenter shows:\r\n\r\n      🌴Treeshakable Providers\r\n      ⚡️Angular Elements (\"Web Components\")\r\n      📺Outloo...",
+  "content": "With Angular v6 it's now as easy as `ng add @angular/pwa`. 🌟🌞⚡ [twitter.com]       What's new in #Angular Release 6.0.0 🇬🇧. My article at @JAXenter shows:        🌴Treeshakable Providers       ⚡️Angular Elements (\"Web Components\")       📺Outlook to ...",
   "inceptDate": "2018-10-13T16:15:46.3102066-07:00",
   "isPublished": true,
   "itemCategory": null,

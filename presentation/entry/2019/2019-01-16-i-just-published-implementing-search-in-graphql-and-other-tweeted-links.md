@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "I just published \"Implementing Search in GraphQL\" showing how to implement text-based searches that are both case-insensitive &amp; full field!\r\n\r\n            This is a 2 part series, the next will be advanced search using Elasticsearch for things like g...",
+  "content": "I just published \"Implementing Search in GraphQL\" showing how to implement text-based searches that are both case-insensitive &amp; full field!              This is a 2 part series, the next will be advanced search using Elasticsearch for things like geo...",
   "inceptDate": "2019-01-16T20:26:24.3440385-08:00",
   "isPublished": true,
   "itemCategory": null,

@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "npm install -g typescript\r\n    @rc\r\n\r\n    ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback:\r\n    [msft.social] 🎊 Great code-through by\r\n    @andrewheiss\r\n    \"Exploring Minard’s 1812 plot w/ ggplot2\"\r\n    [buff.ly]#rstats…\r\n    [twitter.c...",
+  "content": "npm install -g typescript     @rc      ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback:     [msft.social] 🎊 Great code-through by     @andrewheiss     \"Exploring Minard’s 1812 plot w/ ggplot2\"     [buff.ly]#rstats…     [twitter.com] When...",
   "inceptDate": "2018-07-03T10:27:38.3801772-07:00",
   "isPublished": true,
   "itemCategory": null,

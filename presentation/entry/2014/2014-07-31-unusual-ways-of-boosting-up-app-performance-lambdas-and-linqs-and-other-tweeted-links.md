@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Unusual Ways of Boosting Up App Performance. Lambdas and LINQs | JetBrains .NET Tools Blog http://t.co/PERTVCbj5Q via @jetbrainsLearn the Basics of Color Theory to Know What Looks Good http://t.co/A5Spp8okmWJohnny Rodgers : encodeURI() vs. encodeURICompo...",
+  "content": "Unusual Ways of Boosting Up App Performance. Lambdas and LINQs | JetBrains .NET Tools Blog http://t.co/PERTVCbj5Q via @jetbrains  Learn the Basics of Color Theory to Know What Looks Good http://t.co/A5Spp8okmW  Johnny Rodgers : encodeURI() vs. encodeURIC...",
   "inceptDate": "2014-07-31T00:00:00",
   "isPublished": true,
   "slug": "unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs-and-other-tweeted-links",

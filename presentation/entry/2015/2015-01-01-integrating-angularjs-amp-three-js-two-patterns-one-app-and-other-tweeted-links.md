@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Integrating AngularJS &amp; Three.js - Two Patterns, One App http://t.co/D7nEwuPSgDPlanning Angular 1.4 http://t.co/WNrDHXzrFhDive into Flexbox, by @_gsmithhttp://t.co/rTvAqKBZss#bocouphttp://t.co/rwcFExLe7m: a new site to find font deals and free fonts ...",
+  "content": "Integrating AngularJS &amp; Three.js - Two Patterns, One App http://t.co/D7nEwuPSgD  Planning Angular 1.4 http://t.co/WNrDHXzrFh  Dive into Flexbox, by @_gsmith http://t.co/rTvAqKBZss #bocoup  http://t.co/rwcFExLe7m: a new site to find font deals and fre...",
   "inceptDate": "2015-01-01T00:00:00",
   "isPublished": true,
   "slug": "integrating-angularjs-amp-three-js-two-patterns-one-app-and-other-tweeted-links",

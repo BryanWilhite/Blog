@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "mastery =&gt; Scripting with Mono's Embedded API (Channel 9) [channel9.msdn.com]  via @sh4na\r\n      GoingNative 36: Cross-Platform Mobile Development in VS2015 | C9::GoingNative [channel9.msdn.com] \r\n      Node.js Tools for Visual Studio [visualstudio.co...",
+  "content": "mastery =&gt; Scripting with Mono's Embedded API (Channel 9) [channel9.msdn.com]  via @sh4na       GoingNative 36: Cross-Platform Mobile Development in VS2015 | C9::GoingNative [channel9.msdn.com]        Node.js Tools for Visual Studio [visualstudio.com]...",
   "inceptDate": "2015-04-07T00:00:00",
   "isPublished": true,
   "itemCategory": null,

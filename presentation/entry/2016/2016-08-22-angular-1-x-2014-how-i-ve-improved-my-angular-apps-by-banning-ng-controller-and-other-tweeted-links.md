@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller [teropa.info] “we will discuss the importance of RxJs in Angular2” [blog.falafel.com] There are two different types of directives in Angular2. They are\r\n\r\n        •Structural Di...",
+  "content": "Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller [teropa.info] “we will discuss the importance of RxJs in Angular2” [blog.falafel.com] There are two different types of directives in Angular2. They are          •Structural Dire...",
   "inceptDate": "2016-08-22T18:20:29.8298434-07:00",
   "isPublished": true,
   "itemCategory": null,

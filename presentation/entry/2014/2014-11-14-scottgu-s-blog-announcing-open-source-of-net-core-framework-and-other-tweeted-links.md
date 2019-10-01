@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ http://t.co/8ZBU3eP1E3Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register http://t.co/hr3udmAIIVOpening up Visual S...",
+  "content": "ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ http://t.co/8ZBU3eP1E3  Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register http://t.co/hr3udmAIIV  Opening up Visu...",
   "inceptDate": "2014-11-14T00:00:00",
   "isPublished": true,
   "slug": "scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",

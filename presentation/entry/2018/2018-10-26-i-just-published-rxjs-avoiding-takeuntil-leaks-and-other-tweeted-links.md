@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "I just published “RxJS: Avoiding takeUntil Leaks” [medium.com]\r\n      I was looking for a color picker component made for @angular, thanks god [ngx.tools] is here to help me find one 😅\r\n\r\n      [ngx.tools][twitter.com]\r\n      10 essential #typescript ti...",
+  "content": "I just published “RxJS: Avoiding takeUntil Leaks” [medium.com]       I was looking for a color picker component made for @angular, thanks god [ngx.tools] is here to help me find one 😅        [ngx.tools][twitter.com]       10 essential #typescript tips a...",
   "inceptDate": "2018-10-26T20:54:01.5758606-07:00",
   "isPublished": true,
   "itemCategory": null,

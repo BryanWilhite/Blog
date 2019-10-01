@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "How to correctly use #BootstrapJS and #AngularJS together [scotch.io] #JavaScript\r\n      Two-factor authentication support using Google Authenticator by Ivan Yakimov [codeproject.com] [asp.net]  MVC 5.2.3, Web Pages 3.2.3 and Web API 5.2.3 Release [blogs...",
+  "content": "How to correctly use #BootstrapJS and #AngularJS together [scotch.io] #JavaScript       Two-factor authentication support using Google Authenticator by Ivan Yakimov [codeproject.com] [asp.net]  MVC 5.2.3, Web Pages 3.2.3 and Web API 5.2.3 Release [blogs....",
   "inceptDate": "2015-02-16T00:00:00",
   "isPublished": true,
   "itemCategory": null,

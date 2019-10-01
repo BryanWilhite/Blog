@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Python is the fastest growing language due to a feature you've never heard of [jeffknupp.com] Steve's Machine Learning Blog: Excellent YouTube Channel for Machine Learning Videos [anlytcs.com] Deep Learning For Biology\r\n          Image Source : @nature J...",
+  "content": "Python is the fastest growing language due to a feature you've never heard of [jeffknupp.com] Steve's Machine Learning Blog: Excellent YouTube Channel for Machine Learning Videos [anlytcs.com] Deep Learning For Biology           Image Source : @nature Je...",
   "inceptDate": "2018-03-12T18:16:54.4705751-07:00",
   "isPublished": true,
   "itemCategory": null,

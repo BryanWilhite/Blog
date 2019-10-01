@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Is jQuery Still Relevant? [developer.telerik.com]@BryanWilhite@sitepointdotcom hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it?\r\n       Some Tips for Minimising the Pain of HTML Input Forms [simple-talk.com]#Bootstrap@Manuf...",
+  "content": "Is jQuery Still Relevant? [developer.telerik.com]@BryanWilhite@sitepointdotcom hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it?        Some Tips for Minimising the Pain of HTML Input Forms [simple-talk.com]#Bootstrap@Manufe...",
   "inceptDate": "2016-10-19T15:27:10.5100866-07:00",
   "isPublished": true,
   "itemCategory": null,

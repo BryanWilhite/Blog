@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "JavaScript is like leaded gasoline; toxic, bad for everyone, but readily available and with few alternatives. Like in the 60’s - people will go to great lengths to justify it. [twitter.com] JavaScript\r\n\r\n      &gt; \"\" == []\r\n      true\r\n\r\n      wat\r\n\r\n  ...",
+  "content": "JavaScript is like leaded gasoline; toxic, bad for everyone, but readily available and with few alternatives. Like in the 60’s - people will go to great lengths to justify it. [twitter.com] JavaScript        &gt; \"\" == []       true        wat        Has...",
   "inceptDate": "2018-11-27T12:41:54.8618149-08:00",
   "isPublished": true,
   "itemCategory": null,

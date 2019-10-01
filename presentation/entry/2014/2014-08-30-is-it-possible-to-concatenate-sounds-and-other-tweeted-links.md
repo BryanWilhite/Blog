@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Is it possible to concatenate sounds? - Mathematica Stack Exchange http://t.co/z3AucFDEJTdials are so old school. new #digital interfaces are changing the future of #musichttp://t.co/RlBdCcLFE2@WeAreROLIhttp://t.co/UzSmX6vl9BSony started as an electronic...",
+  "content": "Is it possible to concatenate sounds? - Mathematica Stack Exchange http://t.co/z3AucFDEJT  dials are so old school. new #digital interfaces are changing the future of #music http://t.co/RlBdCcLFE2 @WeAreROLI http://t.co/UzSmX6vl9B  Sony started as an ele...",
   "inceptDate": "2014-08-30T00:00:00",
   "isPublished": true,
   "slug": "is-it-possible-to-concatenate-sounds-and-other-tweeted-links",

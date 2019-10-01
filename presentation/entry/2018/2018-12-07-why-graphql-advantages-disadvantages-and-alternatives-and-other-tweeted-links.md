@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Why GraphQL: Advantages, Disadvantages and Alternatives - [robinwieruch.de] Created an Example: Dynamic Dashboard with @Angular Elements and Web Components: 📦 Dynamically adding Custom Elements\r\n            🚂 Lazy Loading Custom Elements ➡️ Loading ext...",
+  "content": "Why GraphQL: Advantages, Disadvantages and Alternatives - [robinwieruch.de] Created an Example: Dynamic Dashboard with @Angular Elements and Web Components: 📦 Dynamically adding Custom Elements             🚂 Lazy Loading Custom Elements ➡️ Loading exte...",
   "inceptDate": "2018-12-07T13:54:09.2945047-08:00",
   "isPublished": true,
   "itemCategory": null,

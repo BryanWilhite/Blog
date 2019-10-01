@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Bill Flora - The Microsoft Design Language from CreativeMornings/Seattle on Vimeo.\r\n    I’ve just seen Bill Flora on Seattle’s Creative Mornings talking about the origins of arguably one the most revolutionary user experience design systems in the histor...",
+  "content": "Bill Flora - The Microsoft Design Language from CreativeMornings/Seattle on Vimeo.     I’ve just seen Bill Flora on Seattle’s Creative Mornings talking about the origins of arguably one the most revolutionary user experience design systems in the history...",
   "inceptDate": "2013-03-21T17:00:00-07:00",
   "isPublished": true,
   "itemCategory": null,

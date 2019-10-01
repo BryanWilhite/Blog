@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Getting Started with Shader Effects in WPF - CodeProject http://t.co/dgZedcllL3Windows Presentation Foundation Pixel Shader Effects Library http://t.co/LxHCF8yF2Hlatest Shazzam blog post: http://t.co/vIe3DUmtQO\"draw graphical paths with a gradient brush ...",
+  "content": "Getting Started with Shader Effects in WPF - CodeProject http://t.co/dgZedcllL3  Windows Presentation Foundation Pixel Shader Effects Library http://t.co/LxHCF8yF2H  latest Shazzam blog post: http://t.co/vIe3DUmtQO  \"draw graphical paths with a gradient ...",
   "inceptDate": "2014-12-10T00:00:00",
   "isPublished": true,
   "slug": "getting-started-with-shader-effects-in-wpf-and-other-links",

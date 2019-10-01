@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Introducing Visual Studio Code [johnpapa.net]  via @John_Papa\r\n      Introducing Visual Studio Code for Windows, Mac, and Linux @shanselman[hanselman.com] \r\n      GitHub Extension for Visual Studio 2015 is out, I can finally talk about it! *cheers* #gith...",
+  "content": "Introducing Visual Studio Code [johnpapa.net]  via @John_Papa       Introducing Visual Studio Code for Windows, Mac, and Linux @shanselman[hanselman.com]        GitHub Extension for Visual Studio 2015 is out, I can finally talk about it! *cheers* #github...",
   "inceptDate": "2015-04-30T00:00:00",
   "isPublished": true,
   "itemCategory": null,

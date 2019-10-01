@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Finally we have a legitimate #opensource replacement for Flash. https://t.co/3Muw6IMeSOYouTube has announced that it has started to implement the Data API v2 retirement plan http://t.co/f6T2jHwPeDMaking your API behave like the big boys https://t.co/1n3S...",
+  "content": "Finally we have a legitimate #opensource replacement for Flash. https://t.co/3Muw6IMeSO   YouTube has announced that it has started to implement the Data API v2 retirement plan http://t.co/f6T2jHwPeD   Making your API behave like the big boys https://t.c...",
   "inceptDate": "2015-04-28T00:00:00",
   "isPublished": true,
   "slug": "finally-we-have-a-legitimate-opensource-replacement-for-flash-and-other-tweeted-links",

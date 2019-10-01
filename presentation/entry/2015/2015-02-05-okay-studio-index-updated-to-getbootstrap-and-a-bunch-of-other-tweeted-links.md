@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "okay! studio index updated to @GetBootstrap[wordwalkingstick.com]  ..got the dust of my shingle\r\n    \r\n      Avoiding the Perfect Design | DaedTech [daedtech.com] \r\n      A good designer finds an elegant way to put everything you need on a page. A great ...",
+  "content": "okay! studio index updated to @GetBootstrap[wordwalkingstick.com]  ..got the dust of my shingle            Avoiding the Perfect Design | DaedTech [daedtech.com]        A good designer finds an elegant way to put everything you need on a page. A great des...",
   "inceptDate": "2015-02-05T00:00:00",
   "isPublished": true,
   "itemCategory": null,

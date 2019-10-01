@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Glide.js: A Dependency-Free ES6 Slider and Carousel -\r\n      [glidejs.com] (\"Designed to slide. No less, no more\" says the creator.) A Responsive Accessible Table\r\n      [adrianroselli.com] Since their “redesign”\r\n      @HSBC_UK online banking is now bar...",
+  "content": "Glide.js: A Dependency-Free ES6 Slider and Carousel -       [glidejs.com] (\"Designed to slide. No less, no more\" says the creator.) A Responsive Accessible Table       [adrianroselli.com] Since their “redesign”       @HSBC_UK online banking is now barely...",
   "inceptDate": "2018-08-07T09:59:20.4159584-07:00",
   "isPublished": true,
   "itemCategory": null,

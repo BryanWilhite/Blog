@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Analyzing the Hamburger Menu in Web Design\r\n      [speckyboy.com] Information Architecture. The Most Important Part of Design You’re Probably Overlooking.\r\n      [blog.prototypr.io] Getting Started with\r\n      #CSS Counters\r\n      [scotch.io] 24 Ways to ...",
+  "content": "Analyzing the Hamburger Menu in Web Design       [speckyboy.com] Information Architecture. The Most Important Part of Design You’re Probably Overlooking.       [blog.prototypr.io] Getting Started with       #CSS Counters       [scotch.io] 24 Ways to Look...",
   "inceptDate": "2018-07-23T09:03:29.3753002-07:00",
   "isPublished": true,
   "itemCategory": null,

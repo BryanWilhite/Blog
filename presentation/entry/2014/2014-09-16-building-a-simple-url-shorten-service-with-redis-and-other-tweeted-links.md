@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Building a simple URL shorten service with Redis by HenryCharles1997 http://t.co/eag3J3v6FhFascinating talk by typography professor @gerryleonidas about (international!!) typefaces for screens. #smashingconfhttp://t.co/q9PzIi8yst7 jQuery plugins for bett...",
+  "content": "Building a simple URL shorten service with Redis by HenryCharles1997 http://t.co/eag3J3v6Fh  Fascinating talk by typography professor @gerryleonidas about (international!!) typefaces for screens. #smashingconf http://t.co/q9PzIi8yst  7 jQuery plugins for...",
   "inceptDate": "2014-09-16T00:00:00",
   "isPublished": true,
   "slug": "building-a-simple-url-shorten-service-with-redis-and-other-tweeted-links",

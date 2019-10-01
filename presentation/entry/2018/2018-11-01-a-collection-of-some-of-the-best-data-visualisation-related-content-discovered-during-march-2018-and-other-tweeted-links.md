@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "NEW POST: A collection of some of the best data visualisation related content discovered during March 2018 [visualisingdata.com][twitter.com]\r\n      ICYMI, 📊short-course &amp;📽s!\r\n      \"Data Visualization Pitfalls to Avoid\" 👩‍💻 @tamaramunzner[buff.l...",
+  "content": "NEW POST: A collection of some of the best data visualisation related content discovered during March 2018 [visualisingdata.com][twitter.com]       ICYMI, 📊short-course &amp;📽s!       \"Data Visualization Pitfalls to Avoid\" 👩‍💻 @tamaramunzner[buff.ly]...",
   "inceptDate": "2018-11-01T22:03:56.741227-07:00",
   "isPublished": true,
   "itemCategory": null,

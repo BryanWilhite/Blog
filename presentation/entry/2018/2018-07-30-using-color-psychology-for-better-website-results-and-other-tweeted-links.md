@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Using Color Psychology for Better Website Results\r\n      [speckyboy.com] Creating smooth sequential animations with Sass\r\n      [glennmccomb.com]#webdevelopment “How we designed page previews for Wikipedia — and what could be done with them in the future...",
+  "content": "Using Color Psychology for Better Website Results       [speckyboy.com] Creating smooth sequential animations with Sass       [glennmccomb.com]#webdevelopment “How we designed page previews for Wikipedia — and what could be done with them in the future” ...",
   "inceptDate": "2018-07-30T16:30:53.7858662-07:00",
   "isPublished": true,
   "itemCategory": null,

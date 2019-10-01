@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Getting started with Grunt, SASS and Task Runner Explorer - Visual Studio [iambacon.co.uk] \r\n      Prepare Yourself For [asp.net]  5 - Part 2 (NuGet, Npm, Bower) [binaryintellect.net] \r\n      Your First Angular Project in Visual Studio [angularfirst.com]...",
+  "content": "Getting started with Grunt, SASS and Task Runner Explorer - Visual Studio [iambacon.co.uk]        Prepare Yourself For [asp.net]  5 - Part 2 (NuGet, Npm, Bower) [binaryintellect.net]        Your First Angular Project in Visual Studio [angularfirst.com]  ...",
   "inceptDate": "2015-04-11T00:00:00",
   "isPublished": true,
   "itemCategory": null,

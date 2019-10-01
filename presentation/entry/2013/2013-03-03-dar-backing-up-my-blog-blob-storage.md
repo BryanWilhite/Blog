@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Cheers! As of today, this Blog we are reading is backed up with the following cmd shell command:\r\ndar2_azure_download songhayblog-azurewebsites-net\r\nThe command dar2_azure_download uses this Data Activity Runner (DAR) command:\r\n…\\Songhay.v2\\DataAccessRun...",
+  "content": "Cheers! As of today, this Blog we are reading is backed up with the following cmd shell command: dar2_azure_download songhayblog-azurewebsites-net The command dar2_azure_download uses this Data Activity Runner (DAR) command: …\\Songhay.v2\\DataAccessRunner...",
   "inceptDate": "2013-03-03T16:00:00-08:00",
   "isPublished": true,
   "itemCategory": null,

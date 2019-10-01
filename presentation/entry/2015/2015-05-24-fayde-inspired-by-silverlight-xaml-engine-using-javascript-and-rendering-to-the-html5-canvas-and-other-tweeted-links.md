@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Fayde: Inspired by Silverlight; XAML engine using Javascript and rendering to the HTML5 Canvas. [github.com] \r\n      ECMAScript 5: \"I try to use native array methods instead of their Underscore.js equivalents whenever possible.\" [treyhunner.com] \r\n      ...",
+  "content": "Fayde: Inspired by Silverlight; XAML engine using Javascript and rendering to the HTML5 Canvas. [github.com]        ECMAScript 5: \"I try to use native array methods instead of their Underscore.js equivalents whenever possible.\" [treyhunner.com]        Wa...",
   "inceptDate": "2015-05-24T00:00:00",
   "isPublished": true,
   "itemCategory": null,

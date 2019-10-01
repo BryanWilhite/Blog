@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Blackmagic's Powerful (&amp; Free) Compositing Software Is Coming to Mac Very Soon http://t.co/dwk4R3o0a2Introduction to HTML5 video http://t.co/B2A8xeZk2F via @DaveVoylesVisual Studio: Add subtitles to your HTML5 video: https://t.co/bmGeKSaRwGHow Azure ...",
+  "content": "Blackmagic's Powerful (&amp; Free) Compositing Software Is Coming to Mac Very Soon http://t.co/dwk4R3o0a2   Introduction to HTML5 video http://t.co/B2A8xeZk2F via @DaveVoyles   Visual Studio: Add subtitles to your HTML5 video: https://t.co/bmGeKSaRwG   H...",
   "inceptDate": "2015-04-16T00:00:00",
   "isPublished": true,
   "slug": "blackmagic-s-powerful-and-free-compositing-software-is-coming-to-mac-very-soon-and-other-tweeted-links",

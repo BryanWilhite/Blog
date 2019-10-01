@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Gestalt Theory for\r\n      #UX#Design: Principle of Proximity\r\n      [tubikstudio.com] Tabbed Interfaces\r\n      [inclusive-components.design] Simple Icon Generator\r\n      [prefinem.com]#UI ⚛️ Preact, a fast 3KB React alternative with the same API, has jus...",
+  "content": "Gestalt Theory for       #UX#Design: Principle of Proximity       [tubikstudio.com] Tabbed Interfaces       [inclusive-components.design] Simple Icon Generator       [prefinem.com]#UI ⚛️ Preact, a fast 3KB React alternative with the same API, has just ha...",
   "inceptDate": "2018-07-25T10:39:00.5700449-07:00",
   "isPublished": true,
   "itemCategory": null,

@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "In the “long forgotten,” “dead,” Silverlight projects I work with every day these days. I establish a pattern featuring a huge “main” View Model I call ClientViewModel. This monstrosity is a partial class of files like these:\r\nClientViewModel._.cs\r\nClien...",
+  "content": "In the “long forgotten,” “dead,” Silverlight projects I work with every day these days. I establish a pattern featuring a huge “main” View Model I call ClientViewModel. This monstrosity is a partial class of files like these:  ClientViewModel._.cs  Clien...",
   "inceptDate": "2013-03-24T17:00:00-07:00",
   "isPublished": true,
   "slug": "seriously-needing-async-and-await-in-silverlight-5",

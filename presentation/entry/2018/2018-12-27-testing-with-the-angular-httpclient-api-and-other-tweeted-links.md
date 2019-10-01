@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "“Testing with the Angular HttpClient API” by @cironunesdev[medium.com] a very nice read, recommended for people building and designing HTTP APIs\r\n\r\n            Developing Restful APIs: A Comprehensive Set of Guidelines by Zalando [opensource.zalando.com]...",
+  "content": "“Testing with the Angular HttpClient API” by @cironunesdev[medium.com] a very nice read, recommended for people building and designing HTTP APIs              Developing Restful APIs: A Comprehensive Set of Guidelines by Zalando [opensource.zalando.com] W...",
   "inceptDate": "2018-12-27T16:35:08.0885845-08:00",
   "isPublished": true,
   "itemCategory": null,

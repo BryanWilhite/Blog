@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Downplaying Empty States in Design [shakuro.com] New CSS Features That Are Changing Web Design\r\n\r\n            Zell Liew takes a closer look at new CSS features such as CSS Grid. The article has code examples so you can see how it was achieved. [smashingm...",
+  "content": "Downplaying Empty States in Design [shakuro.com] New CSS Features That Are Changing Web Design              Zell Liew takes a closer look at new CSS features such as CSS Grid. The article has code examples so you can see how it was achieved. [smashingmag...",
   "inceptDate": "2018-11-17T23:00:40.6472326-08:00",
   "isPublished": true,
   "itemCategory": null,

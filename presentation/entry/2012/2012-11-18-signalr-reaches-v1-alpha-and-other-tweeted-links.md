@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "#SignalR reaches v1 (alpha) http://t.co/4UsJ4af4My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: http://t.co/rLgiGvHYMicrosoft's cloud buzzword of 2011: Hybrid: http://zd.net/g1HUDEAmazon's new Cloud Drive rains on every...",
+  "content": "#SignalR reaches v1 (alpha) http://t.co/4UsJ4af4   My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: http://t.co/rLgiGvHY   Microsoft's cloud buzzword of 2011: Hybrid: http://zd.net/g1HUDE   Amazon's new Cloud Drive rains...",
   "inceptDate": "2012-11-18T00:00:00",
   "isPublished": true,
   "slug": "signalr-reaches-v1-alpha-and-other-tweeted-links",

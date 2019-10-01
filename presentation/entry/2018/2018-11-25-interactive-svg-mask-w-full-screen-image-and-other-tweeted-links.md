@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Interactive SVG mask w/full screen image\r\n\r\n            Pretty fantastic SVG mask demo done by Craig Roblewsk. [codepen.io] I feel like we as front end developers should be doing more static websites and server-side templating. Front end frameworks are m...",
+  "content": "Interactive SVG mask w/full screen image              Pretty fantastic SVG mask demo done by Craig Roblewsk. [codepen.io] I feel like we as front end developers should be doing more static websites and server-side templating. Front end frameworks are mar...",
   "inceptDate": "2018-11-25T12:28:36.3772313-08:00",
   "isPublished": true,
   "itemCategory": null,

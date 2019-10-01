@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Introduction to Basics of Angular 1.4 newRouter - CodeProject [codeproject.com] \r\n      Horror: Migrating Angular-UI-Router to Angular New Router http://t.co/9gFcF2OZO9[asp.net]  5 angularJS application using angular-ui-router | Software Engineering [dam...",
+  "content": "Introduction to Basics of Angular 1.4 newRouter - CodeProject [codeproject.com]        Horror: Migrating Angular-UI-Router to Angular New Router http://t.co/9gFcF2OZO9[asp.net]  5 angularJS application using angular-ui-router | Software Engineering [dami...",
   "inceptDate": "2015-03-30T00:00:00",
   "isPublished": true,
   "itemCategory": null,

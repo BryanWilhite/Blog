@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "How to recreate Medium’s article layout with CSS Grid\r\n\r\n        Per Harald Borgen explains how to recreate the famous Medium… [twitter.com] Flexbox confusion that I see is usually one of two things.\r\n\r\n        1. Confusion over how Box Alignment works i...",
+  "content": "How to recreate Medium’s article layout with CSS Grid          Per Harald Borgen explains how to recreate the famous Medium… [twitter.com] Flexbox confusion that I see is usually one of two things.          1. Confusion over how Box Alignment works in Fl...",
   "inceptDate": "2018-01-30T16:32:01.5310416-08:00",
   "isPublished": true,
   "itemCategory": null,

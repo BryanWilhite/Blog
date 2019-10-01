@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Azure PowerShell 101 - Managing Azure Storage from the Command-Line | Azure Friday http://t.co/E3BL7dRGTm Easily Create a PowerShell Hash Table http://t.co/azIkA2Xr7s PowerShell arrays http://t.co/SneXUB6vGi \"In PowerShell 3, we finally have ordered hash...",
+  "content": "Azure PowerShell 101 - Managing Azure Storage from the Command-Line | Azure Friday http://t.co/E3BL7dRGTm   Easily Create a PowerShell Hash Table http://t.co/azIkA2Xr7s   PowerShell arrays http://t.co/SneXUB6vGi   \"In PowerShell 3, we finally have ordere...",
   "inceptDate": "2015-06-02T00:00:00",
   "isPublished": true,
   "slug": "azure-powershell-101-managing-azure-storage-from-the-command-line-shanselman-and-other-tweeted-links",

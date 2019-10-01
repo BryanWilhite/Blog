@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "10 Awesome Features of Visual Studio Code - http://t.co/t4Fj7Sj0la New Blog Post: Office 2016 - An era comes to an end. https://t.co/HmWdiKNShV Angular 1.4.0 - jaracimrman-existence http://t.co/nmPGGTlsjP Angular 2 Template Syntax http://t.co/1RIVfsU2m5 ...",
+  "content": "10 Awesome Features of Visual Studio Code - http://t.co/t4Fj7Sj0la   New Blog Post: Office 2016 - An era comes to an end. https://t.co/HmWdiKNShV   Angular 1.4.0 - jaracimrman-existence http://t.co/nmPGGTlsjP   Angular 2 Template Syntax http://t.co/1RIVf...",
   "inceptDate": "2015-05-28T00:00:00",
   "isPublished": true,
   "slug": "10-awesome-features-of-visual-studio-code-and-other-tweeted-links",

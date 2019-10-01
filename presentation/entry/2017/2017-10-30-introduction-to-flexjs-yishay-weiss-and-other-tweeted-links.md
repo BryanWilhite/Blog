@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Introduction to FlexJS - Yishay Weiss [youtube.com] [remember Adobe Flex?]\r\n       CSS Animations vs Web Animations API [css-tricks.com] Things I Think Are Cool: Custom XAML Markup Extensions [codemilltech.com] Continuous Testing of TypeScript Code | Dam...",
+  "content": "Introduction to FlexJS - Yishay Weiss [youtube.com] [remember Adobe Flex?]        CSS Animations vs Web Animations API [css-tricks.com] Things I Think Are Cool: Custom XAML Markup Extensions [codemilltech.com] Continuous Testing of TypeScript Code | Dami...",
   "inceptDate": "2017-10-30T14:51:22.5632447-07:00",
   "isPublished": true,
   "itemCategory": null,

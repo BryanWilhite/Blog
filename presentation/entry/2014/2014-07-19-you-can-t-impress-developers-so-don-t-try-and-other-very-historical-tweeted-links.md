@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "You can't impress developers. So don't try. http://t.co/D3QF9vl9LxAzure Is the Future of Microsoft http://t.co/chh8lf6FOLMicrosoft reportedly paying developers $100,000 or more to build apps http://t.co/OXQiPnTX3UWindows 8 Theme Transitions - http://t.co...",
+  "content": "You can't impress developers. So don't try. http://t.co/D3QF9vl9Lx  Azure Is the Future of Microsoft http://t.co/chh8lf6FOL  Microsoft reportedly paying developers $100,000 or more to build apps http://t.co/OXQiPnTX3U  Windows 8 Theme Transitions - http:...",
   "inceptDate": "2014-07-19T00:00:00",
   "isPublished": true,
   "slug": "you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",

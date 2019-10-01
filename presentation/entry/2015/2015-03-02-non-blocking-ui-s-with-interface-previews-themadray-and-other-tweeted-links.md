@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Non-blocking UI's with interface previews [callumhart.com] \r\n      Our Favorite Typefaces of 2013 | Typeface Reviews | Typographica [typographica.org] \r\n      What's the percent of unused JS on your webpage? [github.com] [twitter.com] \r\n      AngularJS -...",
+  "content": "Non-blocking UI's with interface previews [callumhart.com]        Our Favorite Typefaces of 2013 | Typeface Reviews | Typographica [typographica.org]        What's the percent of unused JS on your webpage? [github.com] [twitter.com]        AngularJS - Be...",
   "inceptDate": "2015-03-02T00:00:00",
   "isPublished": true,
   "itemCategory": null,

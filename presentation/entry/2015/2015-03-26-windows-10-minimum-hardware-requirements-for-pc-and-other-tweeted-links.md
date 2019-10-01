@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Windows 10 Minimum Hardware Requirements for PC: Thanks to the documentation that Microsoft provided this week... [thurrott.com] \r\n      Convert #JSON Object from #AngularJS to a Class Instance in #WebApi[rightrelevance.com] \r\n      Prism grows up - .NET...",
+  "content": "Windows 10 Minimum Hardware Requirements for PC: Thanks to the documentation that Microsoft provided this week... [thurrott.com]        Convert #JSON Object from #AngularJS to a Class Instance in #WebApi[rightrelevance.com]        Prism grows up - .NET B...",
   "inceptDate": "2015-03-26T00:00:00",
   "isPublished": true,
   "itemCategory": null,

@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "“If you're not already using modules then you should become familiar with the CommonJS format.” [jbrantly.com] .@AppInsights, can I move these ai.0.15.0-build58334.*.js files to any folder I want?\r\n     “use Application Insights with any web pages - you ...",
+  "content": "“If you're not already using modules then you should become familiar with the CommonJS format.” [jbrantly.com] .@AppInsights, can I move these ai.0.15.0-build58334.*.js files to any folder I want?      “use Application Insights with any web pages - you j...",
   "inceptDate": "2016-08-04T18:24:35.4247405-07:00",
   "isPublished": true,
   "itemCategory": null,

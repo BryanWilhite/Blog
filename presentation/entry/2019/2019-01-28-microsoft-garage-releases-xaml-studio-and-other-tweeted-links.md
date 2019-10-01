@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Microsoft Garage releases XAML Studio, a new tool to help you\r\n            rapidly prototype UWP XAML [bit.ly] 🚀🌛 Announcing Apollo Elements: GraphQL + Web Components 👩‍🚀 👨‍🚀 With\r\n            support for 🔥 LitElement 👾 Hybrids 🔬 Gluon 🧱 Polyme...",
+  "content": "Microsoft Garage releases XAML Studio, a new tool to help you             rapidly prototype UWP XAML [bit.ly] 🚀🌛 Announcing Apollo Elements: GraphQL + Web Components 👩‍🚀 👨‍🚀 With             support for 🔥 LitElement 👾 Hybrids 🔬 Gluon 🧱 Polymer ...",
   "inceptDate": "2019-01-28T14:39:20.2546513-08:00",
   "isPublished": true,
   "itemCategory": null,

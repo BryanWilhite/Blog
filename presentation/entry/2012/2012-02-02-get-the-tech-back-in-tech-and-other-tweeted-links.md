@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "@davewiner Dave Winer ☮Scripting News: Get the tech back in tech.  @smashingmag Smashing Magazine A nice overview: Tools for the next generation of Web applications - http://bit.ly/z8VVRi@smashingmag Smashing Magazine A very useful reference table: The S...",
+  "content": "@davewiner Dave Winer ☮  Scripting News: Get the tech back in tech.   &#160;@smashingmag Smashing Magazine   A nice overview: Tools for the next generation of Web applications - http://bit.ly/z8VVRi  @smashingmag Smashing Magazine   A very useful referen...",
   "inceptDate": "2012-02-02T00:00:00",
   "isPublished": true,
   "slug": "get-the-tech-back-in-tech-and-other-tweeted-links",

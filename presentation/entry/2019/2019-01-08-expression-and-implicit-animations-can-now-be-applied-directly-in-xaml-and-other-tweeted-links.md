@@ -1,7 +1,7 @@
 ---json
 {
   "author": null,
-  "content": "Expression and implicit animations can now be applied directly in XAML!!  Check out @pag3rd talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML\r\n        #XAML developers are used to BooleanInverseConverters. But...",
+  "content": "Expression and implicit animations can now be applied directly in XAML!!  Check out @pag3rd talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML         #XAML developers are used to BooleanInverseConverters. But ...",
   "inceptDate": "2019-01-08T09:56:47.546106-08:00",
   "isPublished": true,
   "itemCategory": null,

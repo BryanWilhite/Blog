@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Introduction - Material design - Google design guidelines http://t.co/hXqcfSsahD@romafiedSublime Text for Front End Developers http://t.co/dQ6EZDSMjS +@wesbos@chriscoyierDevoxx 2014 Interviews: Intro to Polymer - YouTube https://t.co/RoJmKR8nxgWeb Develo...",
+  "content": "Introduction - Material design - Google design guidelines http://t.co/hXqcfSsahD @romafied  Sublime Text for Front End Developers http://t.co/dQ6EZDSMjS +@wesbos @chriscoyier  Devoxx 2014 Interviews: Intro to Polymer - YouTube https://t.co/RoJmKR8nxg  We...",
   "inceptDate": "2014-11-28T00:00:00",
   "isPublished": true,
   "slug": "introduction-material-design-google-design-guidelines-and-other-tweeted-links",

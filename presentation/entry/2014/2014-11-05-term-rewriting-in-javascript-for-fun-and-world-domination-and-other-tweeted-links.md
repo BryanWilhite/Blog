@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Term-Rewriting in JavaScript for Fun and World Domination - YouTube https://t.co/8uixcSgrDP (@shanselman, @davidfowl) =&gt; @lorentzframeHave the Angular Team lost their marbles? http://t.co/JPJpjXj91vWill Google Fonts Ever Be Shut Down? → http://t.co/kS...",
+  "content": "Term-Rewriting in JavaScript for Fun and World Domination - YouTube https://t.co/8uixcSgrDP (@shanselman, @davidfowl) =&gt; @lorentzframe  Have the Angular Team lost their marbles? http://t.co/JPJpjXj91v  Will Google Fonts Ever Be Shut Down? → http://t.c...",
   "inceptDate": "2014-11-05T00:00:00",
   "isPublished": true,
   "slug": "term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",

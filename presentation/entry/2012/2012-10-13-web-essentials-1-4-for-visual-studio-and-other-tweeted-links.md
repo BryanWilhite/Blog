@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen#webdevhttp://t.co/fmmmTufbhttp://t.co/5HlsV0UU is now available for your #WindowsAzure web sites. get started now for free! http://t.co/gAkwi8mTH...",
+  "content": "Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen #webdev http://t.co/fmmmTufb   http://t.co/5HlsV0UU is now available for your #WindowsAzure web sites. get started now for free! http://t.co/gAkw...",
   "inceptDate": "2012-10-13T00:00:00",
   "isPublished": true,
   "slug": "web-essentials-1-4-for-visual-studio-and-other-tweeted-links",

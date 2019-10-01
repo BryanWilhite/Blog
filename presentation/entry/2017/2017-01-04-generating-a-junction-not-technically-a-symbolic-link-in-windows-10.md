@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "Rarely, I ran into the 260-character limit on Windows paths. According to Microsoft’s summer of 2016, I will never run into this limit again. For the other billion non-Windows-10, Windows machines, I may need this:Set-Location C:\\\r\n$junction = \"my-juncti...",
+  "content": "Rarely, I ran into the 260-character limit on Windows paths. According to Microsoft’s summer of 2016, I will never run into this limit again. For the other billion non-Windows-10, Windows machines, I may need this:Set-Location C:\\ $junction = \"my-junctio...",
   "inceptDate": "2017-01-04T15:28:55.5666047-08:00",
   "isPublished": true,
   "itemCategory": null,

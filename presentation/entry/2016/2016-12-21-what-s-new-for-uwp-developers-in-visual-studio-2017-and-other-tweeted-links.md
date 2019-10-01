@@ -1,7 +1,7 @@
 ---json
 {
   "author": "@BryanWilhite",
-  "content": "What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]\r\n       ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… ...",
+  "content": "What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]        ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [...",
   "inceptDate": "2016-12-21T19:37:18.4373752-08:00",
   "isPublished": true,
   "itemCategory": null,

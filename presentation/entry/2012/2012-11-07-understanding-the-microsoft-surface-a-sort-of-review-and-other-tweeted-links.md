@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "RT @halberenson: Understanding the Microsoft Surface (a sort of Review) http://t.co/nsC5HLB4See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN http://t.co/7yUrlUlwRIP Microsoft ClearType Inventor Bill Hill, ...",
+  "content": "RT @halberenson: Understanding the Microsoft Surface (a sort of Review) http://t.co/nsC5HLB4  See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN http://t.co/7yUrlUlw  RIP Microsoft ClearType Inventor Bill Hi...",
   "inceptDate": "2012-11-07T00:00:00",
   "isPublished": true,
   "slug": "understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",

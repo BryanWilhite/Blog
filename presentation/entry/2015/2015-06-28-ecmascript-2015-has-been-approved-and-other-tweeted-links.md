@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "ECMAScript 2015 Has Been Approved http://t.co/I4myfEd7x4 Top 10 web designing mistakes that turn off your users http://t.co/nvH3PGSWes Google Chart Tools Directive Module for Angular JS https://t.co/bEHpL6f6p3 Answer:Combating AngularJS executing control...",
+  "content": "ECMAScript 2015 Has Been Approved http://t.co/I4myfEd7x4   Top 10 web designing mistakes that turn off your users http://t.co/nvH3PGSWes   Google Chart Tools Directive Module for Angular JS https://t.co/bEHpL6f6p3   Answer:Combating AngularJS executing c...",
   "inceptDate": "2015-06-28T00:00:00",
   "isPublished": true,
   "itemCategory": null,

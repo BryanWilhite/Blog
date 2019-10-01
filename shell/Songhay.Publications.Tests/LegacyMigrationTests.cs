@@ -1,6 +1,8 @@
 using System;
+using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using Html2Markdown;
 using Html2MarkdownHacks;
@@ -28,12 +30,15 @@ namespace Songhay.Publications.Tests
 
         public static string GetExtract(string content)
         {
-            content = HtmlUtility.ConvertToXml(content);
+
+            content = Regex.Replace(content, @"<[^>]*>", string.Empty); // see https://stackoverflow.com/a/787951/22944
             content = content.Replace("&nbsp;", string.Empty); // TODO: this should be in HtmlUtility.ConvertToXml().
-            var rootElement = XElement.Parse(string.Format("<root>{0}</root>", content));
-            content = XObjectUtility.JoinFlattenedXTextNodes(rootElement, includeRootElement: false, joinDelimiter: " ");
+
             var limit = 255;
-            return (content.Length > limit) ? string.Format("{0}...", content.Trim().Substring(0, limit - 1)) : content;
+            content = (content.Length > limit) ? string.Format("{0}...", content.Trim().Substring(0, limit - 1)) : content;
+            content = Regex.Replace(content, @"[\r\n]", " "); // replace line breaks with space
+
+            return content;
         }
 
         public LegacyMigrationTests(ITestOutputHelper helper)

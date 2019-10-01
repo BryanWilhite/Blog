@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "ScottGu's Blog - Announcing the new Azure App Service [weblogs.asp.net] \r\n      Announcing Azure App Service | Microsoft Azure Blog [azure.microsoft.com] \r\n      Introducing the Azure API Apps Tools for Visual Studio 2013 - The Visual Studio Blog [blogs....",
+  "content": "ScottGu's Blog - Announcing the new Azure App Service [weblogs.asp.net]        Announcing Azure App Service | Microsoft Azure Blog [azure.microsoft.com]        Introducing the Azure API Apps Tools for Visual Studio 2013 - The Visual Studio Blog [blogs.ms...",
   "inceptDate": "2015-03-29T00:00:00",
   "isPublished": true,
   "itemCategory": null,

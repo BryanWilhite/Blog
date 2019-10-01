@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Netflix will switch from Silverlight to HTML5, explains what it's waiting for first http://t.co/cmMBb7lwaeAdvanced Animations in WPF by Azim Zahir http://t.co/NmZCw4okKgEvery CG artist should watch this video on 'OpenSubDiv': http://t.co/8SfBn7tm0F Gets ...",
+  "content": "Netflix will switch from Silverlight to HTML5, explains what it's waiting for first http://t.co/cmMBb7lwae  Advanced Animations in WPF by Azim Zahir http://t.co/NmZCw4okKg  Every CG artist should watch this video on 'OpenSubDiv': http://t.co/8SfBn7tm0F G...",
   "inceptDate": "2013-04-27T00:00:00",
   "isPublished": true,
   "slug": "netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",

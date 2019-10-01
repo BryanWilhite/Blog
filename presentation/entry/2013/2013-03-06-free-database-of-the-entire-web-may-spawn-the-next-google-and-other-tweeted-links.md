@@ -1,7 +1,7 @@
 ---json
 {
   "author": "Bryan Wilhite",
-  "content": "Free Database of the Entire Web May Spawn the Next Google http://t.co/Hqg9buXl via @TechReviewjQuery 2.0 Beta 2 is looking really exciting: http://t.co/Ei5pWVVcIc so small with the new build options!Windows 8 Tip: Boot Directly to the Desktop with Skip M...",
+  "content": "Free Database of the Entire Web May Spawn the Next Google http://t.co/Hqg9buXl via @TechReview  jQuery 2.0 Beta 2 is looking really exciting: http://t.co/Ei5pWVVcIc so small with the new build options!  Windows 8 Tip: Boot Directly to the Desktop with Sk...",
   "inceptDate": "2013-03-06T00:00:00",
   "isPublished": true,
   "slug": "free-database-of-the-entire-web-may-spawn-the-next-google-and-other-tweeted-links",
