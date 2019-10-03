@@ -1,22 +1,28 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I’ve been deprioritizing a look into XAML-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation:There is Validation for System.Windows.Cont...",
-  "inceptDate": "2015-03-09T18:00:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "songhay-studio-finally-some-flippant-remarks-about-xaml-validation",
+  "documentId": 0,
+  "title": "Songhay Studio: finally, some flippant remarks about XAML Validation",
+  "documentShortName": "2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation",
+  "fileName": "index.html",
+  "path": "./entry/2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation",
+  "date": "2015-03-10T01:00:00.000Z",
+  "modificationDate": "2015-03-10T01:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Songhay Studio: finally, some flippant remarks about XAML Validation"
+  "clientId": "2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation",
+  "tag": "{\r\n  \"extract\": \"I’ve been deprioritizing a look into XAML-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation:There is Validation for System.Windows.Cont...\"\r\n}"
 }
 ---
 
+## Songhay Studio: finally, some flippant remarks about XAML Validation
+
 I’ve been deprioritizing a look into <acronym title="Extensible Application Markup Language">XAML</acronym>-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation:
 
-*   There is Validation for `System.Windows.Controls`.
-*   There is Validation for `System.ComponentModel.DataAnnotations` via `INotifyDataErrorInfo`.
+* There is Validation for `System.Windows.Controls`.
+* There is Validation for `System.ComponentModel.DataAnnotations` via `INotifyDataErrorInfo`.
 
 There are probably more categories of XAML-based Validation but I flippantly consider those ‘legacy’ alternatives. My other wild assertion is that Windows-controls Validation is mutually exclusive to Component-Model Validation. For example, as of this writing, the `Validation.ClearInvalid()` or `Validation.AddErrorHandler()` methods for Windows have no effect on Component-Model errors.
 
@@ -26,7 +32,6 @@ I have prepared a [basic, Component-Model Validation sample](https://wpfbiggestb
 [<img alt="Songhay BiggestBox on the Desktop - Basic Validation Sample" src="https://farm9.staticflickr.com/8734/16741944126_2e865d2c29_z_d.jpg">](https://wpfbiggestbox.codeplex.com/SourceControl/latest#Songhay.BiggestBox.Desktop.Modules.Validation/Views/BasicValidationView.xaml "Songhay BiggestBox on the Desktop - Basic Validation Sample")
 
 I also have a LINQPad exploration of Windows-controls Validation as a GitHub Gist:
-
 
 <iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/32afb5672824160d56de">
 </iframe>

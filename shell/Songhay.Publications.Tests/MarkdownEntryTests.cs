@@ -125,7 +125,7 @@ namespace Songhay.Publications.Tests
                 .ForEachInEnumerable(ShouldEditOneBlogEntry);
         }
 
-        [Theory, InlineData("../../../../../presentation/entry/2012/2012-01-31-aspnet-blog-engines-and-squarespace.md")]
+        [Theory, InlineData("../../../../../presentation/entry/2015/2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation.md")]
         public void ShouldEditBlogEntry(string entryPath)
         {
             // arrange
