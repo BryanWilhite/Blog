@@ -17,8 +17,7 @@ The Microsoft OData v4 world is built on top of these NuGet packages: [Microsoft
 
 I have turned to [a LINQPad file (as a GitHub gist)](https://gist.github.com/BryanWilhite/25046e8d35341ea88e23) to summarize my introduction to OData v4:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/25046e8d35341ea88e23">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/25046e8d35341ea88e23.js"></script>
 
 ### Using OWIN Self-Hosting to test Web API
 

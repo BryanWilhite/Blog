@@ -170,8 +170,7 @@ The Indexer is what ‘fills’ the Index, starting the “crawl” of the Azure
 
 My `HttpWebRequest` stuff here is not “confusing” it is more likely to be considered “old” (compared to the async-only `HttpClient`)—but experience informs me that this “old” stuff is backwards compatible. So I have made investments in a few extension methods around `HttpWebRequest` :
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/b04945418a6635e754e3">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/b04945418a6635e754e3.js"></script>
 
 ### Related Links
 

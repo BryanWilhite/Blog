@@ -59,8 +59,7 @@ Some programmers like to brag about so few lines of code—and then we like to g
 
 These data are loaded into that big one-liner. I’ve the [GitHub Gist](https://gist.github.com/BryanWilhite/d72a8cf8cfd07c0e3c91) of `TestContext.ShouldTestRoutes()`:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/d72a8cf8cfd07c0e3c91">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/d72a8cf8cfd07c0e3c91.js"></script>
 
 My Gist would not be possible without Anthony Steele’s [MvcRouteTester.Mvc5.2](https://www.nuget.org/packages/MvcRouteTester.Mvc5.2/). It was a bit of an ordeal to realize that I needed this package because there are *four different versions* of MVC Route Tester. Anthony himself [is quite irritated by this](https://twitter.com/AnthonySteele/status/612189239900549120) as he as to compile multiple versions of MVC Route Tester for *every* major version of ASP.NET MVC:
 <blockquote>
@@ -78,18 +77,15 @@ Before we show [the Gist of this extension method](https://gist.github.com/Bryan
 
 [I’ve written another extension method](https://gist.github.com/BryanWilhite/1baba5e63d57c608da83), `ShouldGetNuGetPackageFile()`, calling on `NuGet.Core`:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/1baba5e63d57c608da83">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/1baba5e63d57c608da83.js"></script>
 
 This extension method would not be possible without `DefaultPackagePathResolver` in the `NuGet.Core` [package](https://www.nuget.org/packages/NuGet.Core/). It digs into the NuGet packages and finds the path to Hexter’s executable. This path fills the `pathToWebConfigTransformRunnerExe` argument in [the Gist](https://gist.github.com/BryanWilhite/c6126bfd6e37b676981f) of the `ShouldTransformWebConfig()` extension method:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/c6126bfd6e37b676981f">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/c6126bfd6e37b676981f.js"></script>
 
 I understand how one can be overcome by my use of extension methods. In my extension method `ShouldTransformWebConfig()`, we have—wow—another interesting extension method, `StartProcessAndWaitForExit()` which actually runs Hexter’s executable. I should have written this years ago! [Here’s the gist](https://gist.github.com/BryanWilhite/d63e5d36f1e14dac867a.js) for `StartProcessAndWaitForExit()`:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/d63e5d36f1e14dac867a">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/d63e5d36f1e14dac867a.js"></script>
 
 After `WebConfigTransformRunner` runs, its output is tested with the contents of the `xPaths` argument. This type of argument makes the testing, again, data driven. Inside that collapsed region, `test properties`, my other, *other* extension method, `ShouldLoadListOfStrings()` (a simple wrapper for `File.ReadAllLines(path)`), loads simple text file, `ShouldTransformWebConfigXPaths.txt`, data-driving this test with these old-school XPath statements:
 

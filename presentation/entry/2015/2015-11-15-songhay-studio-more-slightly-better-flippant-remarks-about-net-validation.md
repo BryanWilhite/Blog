@@ -17,8 +17,7 @@ My previous breakthrough [note about validation](http://songhayblog.azurewebsite
 
 Here’s my big, respectful, swaggering, flippant remark about .NET validation: a `ValidationContext` is needed to pass to `Validator.TryValidate*()` methods to yield `IEnumerable&lt;ValidationResult&gt;`. This flippant remark reveals intent. I attempted to express this intent in my new `ValidationContextExtensions` class:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/45b731536dbdd3938cde">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/45b731536dbdd3938cde.js"></script>
 
 The `ToValidationResults()` extension methods (that yield `IEnumerable&lt;ValidationResult&gt;`) should—I repeat *should*—work with `INotifyDataErrorInfo.GetErrors()` (which works fine with `IEnumerable&lt;string&gt;`). Once I get a bit of time to verify this, it will confirm that my new `ValidationContextExtensions` class is the final piece of my Validation puzzle that works with .NET Data Annotations on the server side as well as the Client side.
 

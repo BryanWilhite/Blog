@@ -19,8 +19,7 @@ My recent work with [the redesign/upgrade of kintespace.com](http://codepen.io/r
 
 ‘Dirt-simple’ caching is a system that loads data once and stores the data until the system restarted. I am sure there is a more academic name for this design—nevertheless, this is what ‘dirt-simple’ caching looks like as an Angular service:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/22c7416b5bba10873546">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/22c7416b5bba10873546.js"></script>
 
 What we see in the gist is an Angular service with three methods: `cacheData()`, `getDataFromCache()`, and `loadIndex()`. This service is from an Angular app displays Index data so `loadIndex()` is called every time the App is loaded—and every time the Index partial View is requested.
 
@@ -95,8 +94,7 @@ The import discovery for me here is `ngClass`. I feel like I should have learned
 
 [This gist](https://gist.github.com/BryanWilhite/0b0484102980acf5ccb2) sketches out how a repeated set of headers, associated with `ngView` routes, changes CSS classes based on the route: 
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/0b0484102980acf5ccb2">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/0b0484102980acf5ccb2.js"></script>
 
 The use of `$parent` in the partial implies that the partial is loaded in `ngView` and `ClientVM` is the Client View Model of the `$parent` scope ‘above’ the controller of the `ngView`. (See “Using a Client View Model to provide binding for a Directive outside of `ngView` scope” above.)
 

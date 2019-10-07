@@ -33,5 +33,4 @@ I have prepared a [basic, Component-Model Validation sample](https://wpfbiggestb
 
 I also have a LINQPad exploration of Windows-controls Validation as a GitHub Gist:
 
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/32afb5672824160d56de">
-</iframe>
+<script src="https://gist.github.com/BryanWilhite/32afb5672824160d56de.js"></script>

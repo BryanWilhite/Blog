@@ -17,10 +17,6 @@ Developers that pattern after Prism can find themselves generating “modules”
 
 To work around this situation, select **Edit Project File** and change `OutputType` to `WinExe` (from `Library`). You may also need to add a `&lt;ProjectTypeGuids&gt;` element shown below:
 
-
-<iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/1dfd94aa4dd80de3decd">
-</iframe>
-
-
+<script src="https://gist.github.com/BryanWilhite/1dfd94aa4dd80de3decd.js"></script>
 
 Surely this issue is fixed in Visual Studio 2013? Right?
