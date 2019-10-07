@@ -17,7 +17,6 @@ I’ve invested the time. I’m walking away with [a Code Pen](http://codepen.io
 
 As usual, my layout is simple:
 
-
 &lt;body data-ng-app="rxApp"&gt;
     &lt;div data-ng-controller="clientController"&gt;
         &lt;rx-header&gt;&lt;/rx-header&gt;
@@ -25,13 +24,17 @@ As usual, my layout is simple:
         &lt;rx-footer&gt;&lt;/rx-footer&gt;
     &lt;/div&gt;
 &lt;/body&gt;
-    
 
 So it’s quite clear that `rx-header` and `rx-footer` are the Angular directives I’ll be building and certainly reusing. The big breakthrough with this simplicity is my use of a container-level controller, `clientController`, that observes (and automatically becomes the `$parent` of) any controllers loaded under `ng-view`.
 
 I’ve run some experiments with this strategy and saved them:
 
-See the Pen [Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive](http://codepen.io/rasx/pen/gpjaoZ/) by Bryan Wilhite ([@rasx](http://codepen.io/rasx)) on [CodePen](http://codepen.io).
+<!-- cSpell:disable -->
+<iframe height="265" style="width: 100%;" scrolling="no" title="Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive" src="https://codepen.io/rasx/embed/gpjaoZ?height=265&theme-id=0&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/rasx/pen/gpjaoZ'>Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive</a> by Bryan Wilhite
+  (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<!-- cSpell:enable -->
 
 ### Related Links
 

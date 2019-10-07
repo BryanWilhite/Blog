@@ -18,7 +18,12 @@ I’m seeing two designs: the *Inline Header Index* and the *Block Header Index*
 
 My Code Pen for the *Block Header Index* stays true to the original blackboard sketch:
 
-See the Pen [index: block headers](http://codepen.io/rasx/pen/RNWaad/) by Bryan Wilhite ([@rasx](http://codepen.io/rasx)) on [CodePen](http://codepen.io).
+<!-- cSpell:disable -->
+<iframe height="265" style="width: 100%;" scrolling="no" title="index: block headers" src="https://codepen.io/rasx/embed/RNWaad?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/rasx/pen/RNWaad'>index: block headers</a> by Bryan Wilhite
+  (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<!-- cSpell:enable -->
 
 There is not much to write home about here. The code and markup should speak for itself.
 
@@ -26,7 +31,12 @@ There is not much to write home about here. The code and markup should speak for
 
 My Code Pen for the *Inline Header Index* strays very far from the original blackboard sketch:
 
-See the Pen [index: inline headers](http://codepen.io/rasx/pen/zxqxMv/) by Bryan Wilhite ([@rasx](http://codepen.io/rasx)) on [CodePen](http://codepen.io).
+<!-- cSpell:disable -->
+<iframe height="265" style="width: 100%;" scrolling="no" title="index: inline headers" src="https://codepen.io/rasx/embed/zxqxMv?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/rasx/pen/zxqxMv'>index: inline headers</a> by Bryan Wilhite
+  (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<!-- cSpell:enable -->
 
 The differing began with my failure to understand that `inline` displays do not scroll and cannot overflow. Perhaps what I am writing here can be easier understood when we see this block overflow from the Netflix user experience:
 [<img alt="Netflix Block Overflow" src="https://farm9.staticflickr.com/8574/15511519364_3680c606f4_z_d.jpg" style="display:block;margin:16px;margin-left:auto;margin-right:auto">](https://www.flickr.com/photos/wilhite/15511519364/ "Netflix Block Overflow")

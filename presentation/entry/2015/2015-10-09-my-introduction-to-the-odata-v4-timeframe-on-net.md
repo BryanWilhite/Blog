@@ -17,34 +17,31 @@ The Microsoft OData v4 world is built on top of these NuGet packages: [Microsoft
 
 I have turned to [a LINQPad file (as a GitHub gist)](https://gist.github.com/BryanWilhite/25046e8d35341ea88e23) to summarize my introduction to OData v4:
 
-
 <iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/25046e8d35341ea88e23">
 </iframe>
-
-
 
 ### Using OWIN Self-Hosting to test Web API
 
 The `Microsoft.Owin.SelfHost` (with `Microsoft.Owin`, `Microsoft.AspNet.WebApi.Owin`, and `Owin`) Nuget Package gives us an in-memory, tiny server. This means server code can be tested from a .NET web server that is completely independent of IIS or IIS Express. When I attempt to show this new technology to .NET veterans, oftentimes this technology is so radically different (and just too simple) that it’s hard to understand what’s being said! It may be better to show rather than tell. The gist above shows just how simple the standard [OWIN](http://owin.org/) implementation is to use:
 
-
-var baseAddress = "http://localhost:9000/"; 
-var client = new HttpClient(); 
+```c#
+var baseAddress = "http://localhost:9000/";
+var client = new HttpClient();
 try
 {
-    using (WebApp.Start&lt;Startup&gt;(url: baseAddress)) 
+    using (WebApp.Start<Startup>(url: baseAddress))
     {
         HttpResponseMessage response;
-        
-        Action&lt;string&gt; callOwin = path =&gt;
+
+        Action<string> callOwin = path =>
         {
-            response = client.GetAsync(baseAddress + path).Result; 
-            response.Dump(); 
-            response.Content.ReadAsStringAsync().Result.Dump(); 
+            response = client.GetAsync(baseAddress + path).Result;
+            response.Dump();
+            response.Content.ReadAsStringAsync().Result.Dump();
         };
-        callOwin("api/$metadata"); 
-        callOwin("api/Product?$count=true"); 
-        callOwin("api/Product(2)"); 
+        callOwin("api/$metadata");
+        callOwin("api/Product?$count=true");
+        callOwin("api/Product(2)");
         callOwin("api/Product?$filter=Category+eq+'Bakery'+and+indexof(Name,'Tortillas')+ne+-1");
     }
 }
@@ -52,20 +49,20 @@ finally
 {
     client.Dispose();
 }
-    
+```
 
 ### OData EDM model building/routing
 
 The single call `WebApp.Start&lt;Startup&gt;()` our way into OWIN. The class definition `Startup` has one, conventional method, `Configuration()`, that handles `HttpConfiguration` just like the conventional ASP.NET MVC `*Config` static classes in the `App_Start` folder. Our OData concerns for [EDM model](http://chriswoodruff.com/2011/12/04/31-days-of-odata-day-3-odata-entity-data-model/) building and routing are handled in this `Startup.Configuration()` method:
 
-
+```c#
 var builder = new ODataConventionModelBuilder();
 builder
-    .EntitySet&lt;Product&gt;("Product")
-    .EntityType.DerivesFrom&lt;IProduct&gt;();
+    .EntitySet<Product>("Product")
+    .EntityType.DerivesFrom<IProduct>();
 var model = builder.GetEdmModel();
 config.MapODataServiceRoute("odata", "api", model);
-    
+```
 
 The EDM model building (with the `builder` variable) uses `EntityType.DerivesFrom&lt;&gt;()` to tell OData that the interface `IProduct` is implemented by `Product`. The assumption here is that OData clients should work with interface types rather than server model classes for the sake of simplicity and security through obscurity. Without this builder, the standard OData `./$metadata` call would return almost nothing or not work at all.
 

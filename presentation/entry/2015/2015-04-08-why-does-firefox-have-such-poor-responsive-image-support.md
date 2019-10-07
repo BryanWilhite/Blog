@@ -19,6 +19,11 @@ Based on my research of a less than an hour, there are three ways to approach re
 *   Use the `picture` element (but Chris warns, “…if you go down the `&lt;picture&gt;` with explicit sources, the browser **has to do exactly what you say** and not make choices for itself”).
 *   Use a polyfill (Chris recommends [Picturefill](http://scottjehl.github.io/picturefill/)—with a caveat: “[To Picturefill, or not to Picturefill](http://www.filamentgroup.com/lab/to-picturefill.html)”).
 
-So, yeah, my information is from last year. However, the `srcset` page from [today’s caniuse.com](http://caniuse.com/) is still telling a bleak story of corporate-sponsored “innovation.” Try out `srcset` with my Code Pen:
+So, yeah, my information is from last year. However, the `srcset` page from [today’s caniuse.com](https://caniuse.com/#feat=srcset) is still telling a bleak story of corporate-sponsored “innovation.” Try out `srcset` with my Code Pen:
 
-See the Pen [img srcset with Picturefill](http://codepen.io/rasx/pen/Ggbgxw/) by Bryan Wilhite ([@rasx](http://codepen.io/rasx)) on [CodePen](http://codepen.io).
+<!-- cSpell:disable -->
+<iframe height="265" style="width: 100%;" scrolling="no" title="img srcset with Picturefill" src="https://codepen.io/rasx/embed/Ggbgxw?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/rasx/pen/Ggbgxw'>img srcset with Picturefill</a> by Bryan Wilhite
+  (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+<!-- cSpell:enable -->

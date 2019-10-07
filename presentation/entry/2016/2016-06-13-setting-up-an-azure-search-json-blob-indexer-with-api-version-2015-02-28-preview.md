@@ -30,7 +30,7 @@ As of today, it is not possible to use the Azure Portal to generate an `azureblo
 
 I am not a Test-Driven Development type of guy but I do have opinions and I like to be as clean and neat as possible. All of these quirks drive me to mention the need to `DELETE` the things I `POST` to Azure for the need to undo any mistake I might make. So here is my “confusing” way to `DELETE`:
 
-
+```c#
 [TestCategory("Integration")]
 [TestMethod]
 [TestProperty("apiBase", "https://my-azure.search.windows.net")]
@@ -59,27 +59,27 @@ public void ShouldDeleteAzureSearchServiceComponent()
     this.TestContext.WriteLine("HttpStatusCode: {0}", code);
     Assert.IsTrue(code == HttpStatusCode.NoContent, "The expected status code is not here.");
 }
-    
+```
 
 For details on where apiKey comes from, see “[Query your Azure Search index using the REST API](https://azure.microsoft.com/en-us/documentation/articles/search-query-rest-api/)” by Ashish Makadia. So without the .NET ceremony a `DELETE` looks like this:
 
-
+```plaintext
 https://my-azure.search.windows.net/{componentName}/{itemName}?api-version=2015-02-28-Preview
-    
+```
 
 …where `componentName` represents our three ‘components’, `datasources`, `indexers` and `indexes`, and `itemName` is your name of the ‘component.’
 
 When we change this line:
 
-
+```c#
 request.Method = "DELETE";
-    
+```
 
 …to this:
 
-
+```c#
 request.Method = "GET";
-    
+```
 
 Our `DELETE` changes to a `GET`—so the URI above can be used for `GET` operations to verify that our `POST `operations are working. I am sure, by the way, that `PUT` is supported here but I did not want to bother Eugene about this (see “[Azure Search Service REST](https://msdn.microsoft.com/library/azure/dn798935.aspx)”—this might be of help).
 
@@ -90,7 +90,7 @@ We have already seen that `DELETE` and `GET` operations can be shared. It should
 
 So, the important piece is not shown above is the JSON in the `POST`:
 
-
+```json
 {
     "name": "songhayblog-datasource",
     "type": "azureblob",
@@ -100,7 +100,7 @@ So, the important piece is not shown above is the JSON in the `POST`:
         "query": "BlogEntry"
     }
 }
-    
+```
 
 For details on where `connectionString` comes from, see “[Windows Azure—Configuring Storage Accounts](https://msblogs.wordpress.com/tag/connection-string-to-azure-storage-account/)” by Biju Paulose. The rest of these JSON properties are covered by Eugene in “[Indexing Documents in Azure Blob Storage with Azure Search](https://azure.microsoft.com/en-us/documentation/articles/search-howto-indexing-azure-blob-storage/).”
 
@@ -111,7 +111,7 @@ The response from the Azure Search API looks like this:
 
 This is the JSON payload for generating a new Index:
 
-
+```json
 {
     "name": "songhayblog-index",
     "fields": [
@@ -133,11 +133,11 @@ This is the JSON payload for generating a new Index:
         }
     ]
 }
-    
+```
 
 The `fields` of this Index refer to the JSON shape that represents the `BlogEntry` object that defines the Blog entries for the Blog you are reading now:
 
-
+```json
 {
   "Author": "Bryan Wilhite",
   "Content": "&lt;p&gt;I would like to thank &lt;a href=\"https://twitter.com/chaosrealm4\"&gt;Microsoft’s Eugene Shvets&lt;/a&gt; for helping me [XHTML truncated]",
@@ -150,13 +150,13 @@ The `fields` of this Index refer to the JSON shape that represents the `BlogEntr
   "Tag": null,
   "Title": "Setting up an @Azure Search JSON blob Indexer with api-version=2015-02-28-Preview"
 }
-    
+```
 
 ### POST of a new Azure-Blob Indexer
 
 The Indexer is what ‘fills’ the Index, starting the “crawl” of the Azure Blob Container. In the `POST` JSON payload, we see it targeting the index named above, using a schedule interval I copied from Eugene:
 
-
+```json
 {
     "name": "songhayblog-indexer",
     "dataSourceName": "songhayblog-datasource",
@@ -164,17 +164,14 @@ The Indexer is what ‘fills’ the Index, starting the “crawl” of the Azure
     "targetIndexName": "songhayblog-index",
     "schedule": { "interval": "PT2H" }
 }
-    
+```
 
 ### In case you care about this HttpWebRequest stuff…
 
 My `HttpWebRequest` stuff here is not “confusing” it is more likely to be considered “old” (compared to the async-only `HttpClient`)—but experience informs me that this “old” stuff is backwards compatible. So I have made investments in a few extension methods around `HttpWebRequest` :
 
-
 <iframe class="rx-inline-frame" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';" height="100%" width="100%" frameborder="0" border="0" scrolling="no" src="./Inline/GitHubGist/b04945418a6635e754e3">
 </iframe>
-
-
 
 ### Related Links
 
