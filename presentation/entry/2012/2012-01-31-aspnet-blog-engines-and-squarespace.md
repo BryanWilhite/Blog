@@ -5,8 +5,8 @@
   "documentShortName": "2012-01-31-aspnet-blog-engines-and-squarespace",
   "fileName": "index.html",
   "path": "./entry/2012-01-31-asp-net-blog-engines-and-squarespace-com",
-  "date": "2012-02-01T07:19:00.000Z",
-  "modificationDate": "2012-02-01T07:19:00.000Z",
+  "date": "2012-02-01T07:19:00Z",
+  "modificationDate": "2012-02-01T07:19:00Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
@@ -28,3 +28,5 @@ Hi wired world. This is my first entry for this new blog—so it makes a bit of 
 * I know that SquareSpace.com is based on Java but I tried it anyway and I had only one problem most SquareSpace.com supporters would care about: when I clicked on a “sub-style” the CSS files seemed to break and my site got stuck with unformatted content (the new style only showed up after moving to another menu item and moving back). Based on the promotional aesthetic of SquareSpace.com, I expected it to be *vastly* superior to the crap I’ve been dealing with since 1998—and when I mean *vast* I mean like alien-from-outer-space-with-superior-technology *vast*. I’m finding that the SquareSpace.com folks are rather ordinary people.
 * There’s AtomSite: “AtomSite is built with extensible web standards that unleash your social website and blog…” This system runs on <acronym title="Extensible Hypertext Markup Language">XHTML</acronym>—and the latest entry in the AtomSite.net blog is from 4/2010. There is an <acronym title="Extensible Markup Language">XML</acronym> version of HTML 5—so I’m sure there’s something going on there in the future.
 * Like AtomSite, BlogEngine.NET does not require a database (I prefer this for the feeling of lightness and ease of maintenance). I installed this twice—once through my Host control panel and then again through FTP (because my host did not have an up-to-date version of BlogEngine.NET). BlogEngine.NET installed without any problems (my only challenge had to do with enabling write access to a folder because data is persisted in XML files).
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

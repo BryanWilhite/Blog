@@ -125,7 +125,7 @@ namespace Songhay.Publications.Tests
                 .ForEachInEnumerable(ShouldEditOneBlogEntry);
         }
 
-        [Theory, InlineData("../../../../../presentation/entry/2015/2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation.md")]
+        [Theory, InlineData("../../../../../presentation/entry/2012/2012-01-31-aspnet-blog-engines-and-squarespace.md")]
         public void ShouldEditBlogEntry(string entryPath)
         {
             // arrange
@@ -219,6 +219,12 @@ namespace Songhay.Publications.Tests
                     {
                         var paragraphs = i.ToParagraphs();
                         this._testOutputHelper.WriteLine($"# of paragraphs: {paragraphs.Count()}");
+
+                        var signature = "@[BryanWilhite](https://twitter.com/BryanWilhite)";
+                        if(!paragraphs.Last().Contains(signature))
+                        {
+                            paragraphs = paragraphs.Append(signature).ToArray();
+                        }
 
                         i.Content = paragraphs
                             .Aggregate(
