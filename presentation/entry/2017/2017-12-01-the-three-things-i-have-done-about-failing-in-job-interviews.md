@@ -25,7 +25,7 @@ I deliberately do not put the word *failed* in quotes because I agree with them:
 
 Notice that I am not studying anything about the *acting* performance of the interview. No concern for interviewing “technique,” hacks or tricks. This is because I assume (based on experience) that I learned how to *behave* in an interview situation just a few years after leaving college. Any behavior from me regarded as “incorrect” by third parties are not my (primary) concern. (Yes, I do tend to talk “too much” during an interview which makes the suspicious assume that I am stalling to prevent the next question from being asked or the current question from being answered. This habit of mine is a violation of *basic* interview technique.) It is an indicator of incompatibility based on “cultural fit” issues that experience has shown me are often anti-developer (or anti-*professional*-developer). All we have to do is search for “[largest data breach in history](https://www.bing.com/search?q=largest+data+breach+in+history&qs=n&form=QBLH&sp=-1&pq=largest+data+breach+in+history&sc=2-30&sk=&cvid=20B8AC26C6B64D5F96EB0CC87BF10EB0)” and find the companies listed as a “victim” of a breach and then investigate their “culture.”
 
-### An Idealistic Disagreement over the Meaning of *Professional*
+## An Idealistic Disagreement over the Meaning of *Professional*
 
 One primary way I fail at job interviews is over the disagreement over the meaning of *professional*. I regard my definition as pure and ultra-conservative:
 <blockquote>
@@ -37,7 +37,7 @@ In the “real” world, on the street level, a “professional” is someone wh
 
 Being rejected by a company over this disagreement is actually holistically healthier for me over the long term but just as financially deadly. I have no intent to get around this issue. Welcome to my world of low net worth.
 
-### Using the Knowledge of Data Structures and Algorithms As a Weapon During the Interview
+## Using the Knowledge of Data Structures and Algorithms As a Weapon During the Interview
 
 [<img alt="C# in Depth, 3rd Edition" src="https://images-na.ssl-images-amazon.com/images/I/41prHleW6NL.jpg" style="float:right;margin:16px;">](https://www.amazon.com/C-Depth-3rd-Jon-Skeet/dp/161729134X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161729134X)
 
@@ -49,7 +49,7 @@ Yes, there are some low-hanging-fruit reasons based on American tradition why an
 
 This simply means that interviewers who majored in computer science in college prefer other computer scientists. A physics guy like me is simply not welcome to that kind of party. Nevertheless, I have finally found the time to study some computer science stuff and that is underway. Physics people are notorious for thinking they can learn anything. Just ask a biographer of [Watson and Crick](http://www.history.com/this-day-in-history/watson-and-crick-discover-chemical-structure-of-dna).
 
-### The Cultural Values around Performing on Command
+## The Cultural Values around Performing on Command
 
 In recent years, I have conducted job interviews myself. I currently see two general approaches to the interview: one approach values performance on command and the other does not. The performance-on-command approach often has the subtext of suspicion of fraud and the weeding out of impostors. This is a law-enforcement or criminal-justice-system approach to interviewing that often openly offends me *during* the interview. Imagine meeting a person that pre-judged you as a rapist that keeps starving corpses tied up in the basement and then you “prove” to them that they are wrong about such wildly erroneous prejudgment. This resolution of a misunderstanding sounds like a happy ending until one realizes the underlying “philosophy” undergirding such wild, savage misunderstanding. Actual experience informs me that people who are wildly wrong about you are wrong about other things as well—and wild misunderstandings are likely to happen again.
 
@@ -57,13 +57,13 @@ In recent years, I have conducted job interviews myself. I currently see two gen
 
 Anyway, let’s get back to preferring performance on command. The most flattering commentary I am willing to write on the Internet (on my technical Blog) about IT cultures that value performance on command is under what I entitle, The “Hot Girl” Approach to Interviewing. The stereotypical, self-described “hot girl” does not actually *interview* potential candidates. The ‘pure’ definition of *interview* does not apply here. The “hot girl” essentially finds all people replaceable and interchangeable. People are so cheap there is no need to learn anything about them. On the contrary, we people have to learn about the “hot girl.” This “hot girl” approach works pretty well for hiring beginners, trying to find their first (or second) IT job, as these people are actually (relatively) replaceable. These replaceable people are less than five years graduated out of some kind institution where they were on the low end of some kind of hierarchical command and control structure which means they are trained to perform tasks that has little or nothing to do with their personal interests (at the moment). It is understandable that inexperienced people should be literally *disrespected*: little or zero time should be spent asking them questions based on *looking* at their experience. Here, my purist use of the word *disrespect* is intended to call attention to how one *does not look* at another. When I was a developer with less than *10 years* of experience, I was willing to endure this disrespect. I tolerated being asked canned questions that demanded canned answers. (Even complex algorithm-related questions are still canned, adversarial questions.)
 
-### The (Technical) Interview Style I Prefer
+## The (Technical) Interview Style I Prefer
 
 An interviewer is representing the culture of the “team” in which I would be embedded. To inform me that this is not the case, is to inform me about the toxic situation of the company culture. An interviewer has taken at least five minutes to view my resume and will ask me questions based on that “intimate” knowledge. My resume is full of claims that must be verified by me. That is my *honorable* responsibility. To suggest that one is too “busy” to take time out for this “intimacy” is, again, informing me about the toxic situation of the company culture.
 
 The technical interviewer is supposed to demonstrate the supremacy of their knowledge compared to mine by working from my comfort zone out towards wherever they want to go. When I conduct interviews, *I* strive to do this. An interviewer is *lazy* when she asks me generic questions designed for “everyone” and then has the nerve to suggest with tone of voice (or through the hearsay of a recruiter) that *I* am lazy or stupid because I fail to understand their generic, cookie-cutter quizzes. Is the lazy interviewer testing my ability to listen to arbitrary instructions under pressure or is she testing my technical ability as an experienced developer who almost never works under such rote-memorization drama? (The best lazy compromise, by the way, is the take-home test.)
 
-### My Last Failed Interview
+## My Last Failed Interview
 
 [<img alt="Domain-Driven Design: Tackling Complexity in the Heart of Software" src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL.jpg" style="float:right;margin:16px;">](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321125215)
 
@@ -71,7 +71,7 @@ It is not really an irony to me: my last interview failure had *nothing* to do w
 
 Yes, the question was from a technology that I have not worked with daily in over two years but I could have prepared and refreshed before the interview. I did not prepare for the interview because I did not know that the company was looking for this technology from two years ago. I did not know this because the company is large and has many open positions requiring different technologies. In, say, a three-month period I applied for more than one position at this one company using different recruiters. It was too easy for me to get interviews confused and be poorly prepared. (The only easy way out of this is to have the privilege of being a developer that specializes in one technology. Being prepared for interviews is far more easier. I have *never* had this privilege.)
 
-### Related Links
+## Related Links
 
 *   “[A 2015 meeting with JPL when I started using LINQ in interviews…](http://songhayblog.azurewebsites.net/entry/a-2015-meeting-with-jpl-when-i-started-using-linq-in-interviews)”
 *   “[Google Interview CUMSUM Challenge](http://songhayblog.azurewebsites.net/entry/google-interview-cumsum-challenge)”

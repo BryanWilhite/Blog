@@ -17,7 +17,7 @@
 
 The move into the Windows 8 timeframe is a historical event for Microsoft. It is a decades-later collective/corporate response to a Steve Jobs comment about IBM: “IBM has no taste.” In spite of the best efforts of luminaries like [Alan Cooper](http://en.wikipedia.org/wiki/Alan_Cooper), Microsoft turned into IBM for a good-long-IE6-while, wrapped in blue and gun-metal grey. With the help of Swiss design culture (“metro”), embracing and extending the Steve-Jobs love for typography, Microsoft officially and professionally has taste.
 
-### The Sager Notebook with Windows 8 Installed
+## The Sager Notebook with Windows 8 Installed
 
 Since I am relatively late to tell my Windows 8 upgrade story, I have had plenty of time to hear what the pundits had to say. I have no problem living without the Start button. This is because I have used Windows-key shortcuts since keyboards were built with the Windows key. When I need to see the Desktop, it’s `Windows-D`. When I need to shutdown it’s the old classic: `Alt-F4` (with the Desktop in focus).
 
@@ -28,13 +28,13 @@ As I suggested in “[Sager NP6165 Unboxing](http://songhayblog.azurewebsites.ne
 What is also seriously missing in my Windows 8 experience is robust Bluetooth support. I often have to delete my device and re-add it to get expected results.
 [<img alt="My New Windows 8 Start Menu" src="http://farm8.staticflickr.com/7320/8735621847_5ce568607b.jpg">](http://www.flickr.com/photos/wilhite/8735621847/ "My New Windows 8 Start Menu")
 
-### Windows Phone 8 Has Some Noticeable Regressions
+## Windows Phone 8 Has Some Noticeable Regressions
 
 I would not go back to Windows Phone 7. Features like Internet Connection Sharing (which came out in [the 7.5 timeframe](http://www.winrumors.com/windows-phone-7-5-internet-tethering-feature-only-available-on-new-devices/)), resizable live tiles and the ability to group People are just a few of the reasons not to think about the past. But memories of better experiences flutter about when I run into issues around the audio-related features of Windows Phone 8.
 
 First of all on my Nokia Lumia 920 the entire audio subsystem will crash ‘softly’ in a few ways. At times the volume control will have no effect on the currently playing media. A new file has to be selected for the latest volume settings to be recognized. Sometimes a reboot of the phone helps this issue. When I unplug an analog jack the audio will stop playing but will occasionally spit out a sample of sound through the phone speakers. This can be disturbing in a quiet setting. Rarely but frequently enough I will click on a play button in a List View and get a message about Windows Phone not being able to play this type of file; but when I select the file from the list, show it individually and press play it plays. With my Samsung Focus on Windows 7 I *never* had these kind of problems (by the way: I upgraded to my Nokia Lumia because the physical volume control stopped working on my Focus).
 
-### The Microsoft Office of the Windows 8.0 Timeframe with the new SkyDrive
+## The Microsoft Office of the Windows 8.0 Timeframe with the new SkyDrive
 
 I am embarrassed to admit that at the beginning of this year I lost about *four months* of personal data (while, sadly, upgrading to Windows 8). Most of it were Office Documents and Visual Studio Projects. This stupid-asinine event “inspired me” to embrace SkyDrive (and Team Foundation Service) with typical, American, evangelical violence.
 
@@ -48,7 +48,7 @@ The other bump to the head came when SkyDrive would complain that “An Office D
 
 The final abrasion comes with SkyDrive “processing changes” endlessly. This is a super-edge case so I understand how the Office Team would elect not to care about this issue. You see, kids, I use Office 2013 and SkyDrive from a virtual machine (gasp!)… It would not be wise to, say, suspend my VMware Windows 8 guest while SkyDrive is “processing changes”—so I would like to stop this crap before I hit Ctrl-J. So the solution (workaround) to this “issue” is to close Microsoft Word 2013 before I suspend the virtual machine. 1990s sad. I assume that Word is, again, locking the Office document, preventing SkyDrive from doing its work. All I know is that when I close Word the spinning in System Tray under the SkyDrive notification icon stops. In fact, it’s happening right now as I write this paragraph. So let me just close Word here so 21<sup>st</sup>–century technological progress can surge forward…
 
-### Windows 8 and VMWare Workstation
+## Windows 8 and VMWare Workstation
 
 [<img alt="Building Windows 8 Apps with JavaScript" src="http://ecx.images-amazon.com/images/I/416ZIbKiJML._SL160_.jpg" style="float:left;margin:16px;">](http://www.amazon.com/Building-Windows-8-Apps-JavaScript/dp/0321861280%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321861280 "Building Windows 8 Apps with JavaScript")
 
@@ -56,7 +56,7 @@ I was very pleased to find Windows 8 working quite well as a Guest and a Host fo
 
 The other problem I cannot fix: from time to time the Guest display will drop down to 800×600. All of my Guest-resizing tricks while the VM is hot do not work. I usually end up rebooting the Guest to fix the problem or, worse, reinstalling VMware Tools (which ends with a Guest reboot).
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

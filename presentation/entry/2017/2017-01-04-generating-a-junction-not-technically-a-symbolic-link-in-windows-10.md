@@ -29,7 +29,7 @@ Get-ChildItem -Path $junction
 
 I will note that I attempted to use the `mklink /d` switch (on a pre-summer-of-2016 version of Windows 10) for a directory Symbolic Link but this failed silently.
 
-### Relevant Links
+## Relevant Links
 
 *   [Mklink](https://technet.microsoft.com/en-us/library/cc753194.aspx) [TechNet]
 *   “[Creating a Symbolic Link using PowerShell](http://learn-powershell.net/2013/07/16/creating-a-symbolic-link-using-powershell/)”

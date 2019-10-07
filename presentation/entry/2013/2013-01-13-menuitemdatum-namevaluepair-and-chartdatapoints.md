@@ -28,11 +28,11 @@ A `ClientMetadata` object passed over “the wire” hydrates the `ClientViewMod
 *   One set of data defines chart data for multiple charts.
 *   Multiple items from multiple database entities can be “shredded” into attributes as name-value pairs.
 
-### What is a Menu Item Datum?
+## What is a Menu Item Datum?
 
 We must remember that in English (and Latin) the word *data* denotes plural and *datum*, singular. So my intention is to define the *datum* referring to data of the domain (usually entities). `MenuItemDatum` is a lightweight ‘pointer’ to an Entity. When the <acronym title="User Interface">UI</acronym> displays a list box of Departments, the `MenuItemDatum` is used to ‘point’ to its respective Department Entity on the server. It is too expensive to send the entire Entity to the Client just for a stupid list box—the `MenuItemDatum` is here to represent a small ‘reference’ to the real stuff on the Server.
 
-### Why convert a NameValuePair into a Dictionary? It’s a XAML thing…
+## Why convert a NameValuePair into a Dictionary? It’s a XAML thing…
 
 To me, this XAML binding is very unusual but very useful: `Text = "{Binding FieldNames[MyCustomFieldName]}"`. This binding declares that there is a property within `DataContext` called `FieldNames` with a key called `MyCustomFieldName`. This `FieldNames` property is a `Dictionary&lt;string, string&gt;`.
 

@@ -39,7 +39,7 @@ So: for a .NET developer like me who make apps that don’t matter I recommend i
 
 I make it look so easy after all of my unknowns are known. But I can assure you it was a ridiculously comical nightmare to get to this level of simplicity—and it is all for an app that does not really matter (because it is designed for one Twitter account—*my* account).
 
-### Twitter Documentation ‘Misleading’
+## Twitter Documentation ‘Misleading’
 
 The Twitter REST API documentation should introduce itself to newbies by prioritizing “[Authentication &amp; Authorization](https://dev.twitter.com/docs/auth).” The opinion here is that it is ‘misleading’ to visually position this subject below or next to other REST API subjects. It should be made clear that, in the 1.1 API world, you can do *nothing* unless you get authentication and authorization working. The academic subtlety of a statement like “Be sure and read about [Authentication &amp; Authorization](https://dev.twitter.com/docs/auth)” does not suggest that it is a prerequisite instead of an optional detail.
 
@@ -51,7 +51,7 @@ This cURL statement is altered from the one provided by Twitter as it is retriev
 
 This cURL command represents a request for a Twitter app that ‘does not matter’—it represents what Twitter calls an “[application-only auth](https://dev.twitter.com/docs/auth/application-only-auth)” request opposed to an “[OAuth signed](https://dev.twitter.com/docs/auth/obtaining-access-tokens)” request. But this classification feels ‘misleading’ to me because both requests use OAuth—right? No?
 
-### “Authorizers” in LinqToTwitter
+## “Authorizers” in LinqToTwitter
 
 Most of the ‘comical’ misery with Twitter comes in generating the Authorization header. You can literally see this by measuring how much our cURL command above is dominated by authorization data. In the world of `LinqToTwitter`, the ‘seed’ that generates the header is the *authorizer*.
 
@@ -75,7 +75,7 @@ It took me months to find that the authorizer for my limited needs is the `Singl
 
 The `OpenAuthorizationData` instance is of a little housekeeping class I use to clearly define my keys and secrets.
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

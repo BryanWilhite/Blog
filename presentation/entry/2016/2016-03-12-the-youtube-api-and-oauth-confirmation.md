@@ -19,7 +19,7 @@ The Playlist Item data needs to be refreshed with an Azure Web Job. This could b
 
 Experimenting with this little button allows me to choose how I should approach Google APIs: when I get a 403 error, I know I need to use the full [OAuth C# stack](https://www.nuget.org/packages/Google.Apis.Auth/); when I don’t, I can use my Server API Key and an old-fashioned `HttpWebRequest`. This old-fashioned `HttpWebRequest` stuff is perfect for an Azure Web Job. And the OAuth heavy-lifting can be an infrequent or one-time thing on my Desktop with Visual Studio.
 
-### Calling the YouTube API to Get Channel Playlist Item Data
+## Calling the YouTube API to Get Channel Playlist Item Data
 
 I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:
 
@@ -54,7 +54,7 @@ public void ShouldGetPlaylistItems()
 
 The methods `DownloadToString()` and `EscapeInterpolation()` are my personal crap and can be disregarded (I haven’t had a chance to consider “upgrading” to `HttpClient`). The point is all of this work is being done with plain old .NET (no NuGet packages from Google).
 
-### Calling the YouTube API to get a list of Channel IDs from my Subscriptions
+## Calling the YouTube API to get a list of Channel IDs from my Subscriptions
 
 None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):
 

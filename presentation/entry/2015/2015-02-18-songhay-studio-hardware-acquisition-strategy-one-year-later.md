@@ -26,12 +26,12 @@ This error started while running a “modern” (“metro”) Windows app. This 
 
 <span style="text-decoration:line-through;">I suspect that the AMD Radeon drivers are </span><span style="text-decoration:line-through;">*seriously*</span><span style="text-decoration:line-through;"> incompatible with “modern” Windows 8</span>—which may explain why so many serious PC enthusiasts hate any version Windows after Windows 7. I ran Windows Update a few times thinking that Microsoft has a ‘better,’ more stable video driver than the manufacturer. This thinking is probably behind the times…
 
-### Update: 1:43 PM
+## Update: 1:43 PM
 
 I suspect that the issue is related to simple overheating. First of all the system rebooted in error within 30 minutes in the Windows Desktop (while streaming video was playing)—which throws out my “metro” theory. Secondly, the system ran without rebooting for at least an hour in the Windows Desktop (while streaming video was playing) while under-clocked and **Enable manual fan control** was enabled and turned up (to very noisy levels) in [AMD OverDrive](http://www.amd.com/en-us/markets/game/downloads/overdrive).
 
 So the message I’m hearing now is <span style="text-decoration:line-through;">my default cooling (here in California) is not “good” enough—or the default XFX settings for AMD OverDrive are too aggressive</span>.
 
-### Update: 8:28 PM
+## Update: 8:28 PM
 
 I returned the [XFX Double D R9 290X 1000MHz 4GB DDR5 DP HDMI 2XDVI Graphics Card](http://www.amazon.com/XFX-Double-1000MHz-Graphics-R9290XEDFD/dp/B00HHIPN5A%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HHIPN5A). I guess that my motherboard simply cannot handle it or (very unlikely) my power supply cannot handle it. I’ve remembered that I’m an Amazon Prime dude so I can order another experimental card (from a year ago) [Sapphire Radeon R9 270X 2GB GDDR5 DVI-I/DVI-D/HDMI/DP Dual-X with Boost and OC Version PCI-Express Graphics Card 11217-01-20G](http://www.amazon.com/Sapphire-Version-PCI-Express-Graphics-11217-01-20G/dp/B00B3WTWXU%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B3WTWXU) and get it by the end of the week.

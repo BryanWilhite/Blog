@@ -25,11 +25,11 @@ On the other hand, Chris Fulstow introduces me to some solutions that I may find
 
 BTW: NBlog supports [DISQUS](http://disqus.com/). I don’t have is enabled for my Blog right now.
 
-### Stuff I might take out of my copy of NBlog
+## Stuff I might take out of my copy of NBlog
 
 I will definitely take [Quartz.net](http://quartznet.sourceforge.net/) support out of NBlog (which implies that I won’t need [SharpBox](http://sharpbox.codeplex.com/)). I actually use Quartz.net and don’t see it as “core” functionality. The [AntiXSS](http://wpl.codeplex.com/) support from Microsoft for NBlog is known to be [nothing short of a minor failure](http://eksith.wordpress.com/2012/02/13/antixss-4-2-breaks-everything/) for Microsoft. I noticed that it was mangling my <acronym title="Extensible Hypertext Markup Language">XHTML</acronym> output. I’m curious as why Chris chose Google’s [Prettify](http://code.google.com/p/google-code-prettify/) over other JavaScript syntax-highlighting solutions.
 
-### Awesome Azure Blog Storage Support for NBlog
+## Awesome Azure Blog Storage Support for NBlog
 
 What is totally awesome about NBlog is its support for Windows Azure Blob Storage. “[Running NBlog on Windows Azure](http://blog.spontaneouspublicity.com/running-nblog-on-windows-azure)” from Spontaneous Publicity is a short, straight-forward note about how to set it up. This message is key:
 <blockquote>
@@ -41,13 +41,13 @@ It is because NBlog is so perfectly devoted to the [Repository Pattern](http://b
 
 It must be mentioned that BlogEngine.NET supports Windows Azure but almost all of the documentation around this assume that we mean to use SQL Azure, which is an extravagant expense as far as I’m concerned.
 
-### JSON-encoding snarky-ness
+## JSON-encoding snarky-ness
 
 When I uploaded `Config.json` to Azure Blob Storage, I got Json.NET exceptions complaining about “line 1, position 1.” The fix for me was saving the JSON file in what Notepad++ calls “ANSI as UTF-8” (this format is obtained in Notepad++ via the **Encoding &gt; Encode in UTF without BOM** command). Evidently Json.NET was having BOM (Byte Order Mark) problems. I also noticed that `Config.json` was formatted with UNIX line endings—a side-effect of using GitHub.com without Phil Haack—so the BOM madness might be related to Git “goodness.”
 
 To my typographic horror by the way, I noticed that the default, NBlog entry files were JSON in the ancient ANSI format! This explains why I had no BOM madness with these.
 
-### NBlog is pro-MarkDown
+## NBlog is pro-MarkDown
 
 By default NBlog assumes that you are going to write posts in MarkDown. This is the correct assumption because this engine is designed for programmers—and the typical programmer does not require the advanced typographic features of HTML that MarkDown does not support.
 
@@ -57,7 +57,7 @@ I had to change NBlog to use MarkDown *or* HTML—not both. [Research tells me](
 I think this is a symptom of Markdown’s being designed for blog posts. You can paste in big chunks of foreign HTML verbatim without having to double-check them, but it’s pretty much impossible to write whole pages in Markdown. Again Gruber’s not interested; dunno about Fortin.
 </blockquote>
 
-### A brief list of changes I made to NBlog:
+## A brief list of changes I made to NBlog:
 
 For my benefit (because I’m not forking on GitHub.com right about now), here are my changes:
 

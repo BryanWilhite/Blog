@@ -13,7 +13,7 @@
 }
 ---
 
-## “AngularJS: Views vs. Directives” and other Tweeted Links…
+# “AngularJS: Views vs. Directives” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AngularJS: Views vs. Directives [is not ngView a Directive?] [[jan.varwig.org] ](http://jan.varwig.org/archive/angularjs-views-vs-directives)
 

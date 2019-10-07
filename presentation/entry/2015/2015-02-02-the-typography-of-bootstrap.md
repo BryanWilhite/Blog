@@ -142,7 +142,7 @@ So, for `font-size:100%;`, we have a relationship between em values (`Xem`) and 
 8em
 </td></tr></table>
 
-### Bootstrap encourages the use of font classes for sizing
+## Bootstrap encourages the use of font classes for sizing
 
 The table above looks great and it suggests a clean, crisp relationship between ems and points. But I have found that fuzzy type and weird line-height problems (that can cause unwanted drop shadows in boxes with border radius) when I explicitly set small font sizes (below 1em). Moreover, setting these values can get in the way of the responsive intentions baked into the Bootstrap framework. The assumption here is that [Bootstrap would rather have us use classes](http://getbootstrap.com/css/) like `.small` or `.h4` to specify font size:
 <blockquote>

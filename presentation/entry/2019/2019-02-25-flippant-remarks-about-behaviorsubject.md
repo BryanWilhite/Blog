@@ -47,7 +47,7 @@ To avoid the overhead of managing Bajt’s offering as a package, [this](https:/
             }
         }
 
-### no, really: what about Redux and ngrx?
+## no, really: what about Redux and ngrx?
 
 Jure Bajt addresses those that recommend [Redux](https://redux.js.org/):
 <blockquote>
@@ -61,7 +61,7 @@ Basjt addresses users of `ngrx` [[home](https://ngrx.io/)]:
 I used ngrx in the past and I think it is a really good library for state management. But it also takes longer to learn it, because of all the features it supports. …one may not need a full blown state management library to manage state even in larger applications… I believe less complexity comes from the fact that observable store services heavily depend on Angular features (dependency injection, async pipes etc.) to do a lot of heavy lifting (e.g. cleaning-up unused state when components are destroyed, creating new instances of stores when needed etc.)…
 </blockquote>
 
-### resources
+## resources
 
 *   “[On The Subject Of Subjects (in RxJS)](https://medium.com/@benlesh/on-the-subject-of-subjects-in-rxjs-2b08b7198b93)” by Ben Lesh
 *   “[RxJSRxJS Observables versus Subjects](https://coryrylan.com/blog/rxjs-observables-versus-subjects)” by Cory Rylan

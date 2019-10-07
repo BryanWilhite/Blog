@@ -27,7 +27,7 @@ Meh. Blow a party whistle. And I am *far* from “done,” by the way. I now und
 
 It is clear—abundantly clear—that I am not converting from Angular JS to Angular in a vacuum. I am converting multiple production pipelines over to a new paradigm as well as converting from Angular JS to Angular. This is the downside of being a developer with legacy load, struggling to stay out of technical debt.
 
-### many, many Git repositories
+## many, many Git repositories
 
 I will attempt to list the Git repositories I built for this mega-conversion in the proper chronological order to explain (even to myself) what the hell I was doing. Each of these repositories contain their own histories, detailing more of my joy and pain—and pain. It may help to mention that I have been using Team Foundation Services to host a few huge Team Foundation Server (TFS) solutions that I have been building up for over a decade. Most of these GitHub repositories draw from these TFS solutions:
 

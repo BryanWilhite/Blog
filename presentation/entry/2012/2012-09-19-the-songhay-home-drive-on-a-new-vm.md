@@ -51,7 +51,7 @@ ICACLS \myRootShareFolder\myCustomWebRoot ^
     /t /l /q
 
 
-### Related Links
+## Related Links
 
 *   “[Icacls: The New and Improved Cacls?](http://www.windowsitpro.com/article/permissions/icacls-the-new-and-improved-cacls-)”
 *   “[.net 4.0: ASP.NET MVC on IIS 7.5—Stack Overflow](http://stackoverflow.com/questions/2374957/asp-net-mvc-on-iis-7-5)” —this is the 32-bit command: `%windir%\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis.exe -ir`.

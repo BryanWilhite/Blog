@@ -19,7 +19,7 @@ For my design, there were two critical elements missing for this pipeline: (i) [
 
 My chosen technology to apply the XML-processing power of the .NET Framework in an open-source, cross-platform-ish way, is scriptcs. (Currently the scriptcs story on Linux is not quite there as we wait for .NET Standard and .NET Core develop.) [Glenn Block](https://github.com/glennblock) of .NET MEF fame is the main dude behind scriptcs. You can listen to Glenn talk about “The Future of ScriptCS” in [show #1110 of .NET Rocks!](https://www.dotnetrocks.com/?show=1110). One of the key takeaways from this show is seeing scriptcs as an application of [Roslyn](https://en.wikipedia.org/wiki/.NET_Compiler_Platform).
 
-### My Generate-EPUB `*.csx` script
+## My Generate-EPUB `*.csx` script
 
 My EPUB pipeline starts with an EPUB “seed” based on the handmade set of files from [Eric Muss-Barnes](http://www.ericmuss-barnes.com/). His video, “[How to Make an eBook EPUB File](https://www.youtube.com/watch?v=EiUMb7bgYeQ),” was an instrumental *technical* introduction to EPUB, in full view of the real-world publishing market. Since this introduction, I do see [a GitHub repository](https://github.com/IDPF/epub3-samples), from the IDPF, full of EPUB samples. I will explore these samples and look for ways to build upon the Muss-Barnes base.
 

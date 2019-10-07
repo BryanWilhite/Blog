@@ -17,7 +17,7 @@ Here are some design goals:
 *   Prefer third-party, server-based solutions that come from the Java world. This is me trying to be totally political/psychological as most authority figures are willing to green-light an “unknown” like Log4Net because it’s “just a port” from Log4J.
 *   Bias for ‘smart defaults’ instead of complex customizations. Complex/intimate customizations tend to cause complex/intimate problems during deployment/maintenance—so I prefer to stay in defaults to allow others (who cannot really care as much) move my code around without worrying about brittle parts falling off.
 
-### We need ELMAH because we are not perfect.
+## We need ELMAH because we are not perfect.
 
 Should someone ever ask me, “What is the one NuGet package you cannot develop on a .NET web server without? ...,” my answer is ELMAH. It took me a while to come around—years after [Scott Hanselman’s famous 2009 article](http://www.hanselman.com/blog/ELMAHErrorLoggingModulesAndHandlersForASPNETAndMVCToo.aspx). The most import thing that ELMAH gives is professional handling of *unhandled* exceptions *by default*. ELMAH is the way developers can show genuine affection to “operations” (the people who maintain/support applications after they are developed). It is a way to communicate that developers actually care what happens to their work once it goes into the wild.
 
@@ -106,7 +106,7 @@ Wade Wenger’s NuGet package is awesome! Supporting research below…
 Novel… haven’t had the time to try this…
 </td></tr></table>
 
-### Once you commit to Quartz.net then just use Log4Net.
+## Once you commit to Quartz.net then just use Log4Net.
 
 [Log4Net](https://nuget.org/packages/log4net) is one of those solutions from the Java world. This is your ELMAH-like coverage, outside of HTTP context. You get Log4Net by default when you choose another Java-world veteran, [Quartz.net](https://nuget.org/packages/Quartz). I was mistakenly led into using Quartz.net from a Web application domain/pool. But [this quote](http://groups.google.com/group/quartznet/browse_thread/thread/da953a9e5820fca7) shows the error of my way:
 <blockquote>
@@ -122,7 +122,7 @@ The main concern is to the application pool handling prior to IIS 7.5. Without c
 
 I need Quartz.net when I need to run “back-end” jobs, automatically—according to a schedule—, instead of manually at the command line. Quartz.net suddenly becomes important and necessary when we realize that a job we might run from SQL Server Agent (like an [SSIS](http://msdn.microsoft.com/en-us/library/ms141026.aspx) package) is not unit-testable and over time very difficult to maintain. Switching to Quartz.net allows us to schedule jobs made of testable .NET code. Quartz.net (or another competitive solution) gets my technical plans out of the 2005/2008 timeframe.
 
-### Use a strongly-typed wrapper for ConfigurationManager.AppSettings values.
+## Use a strongly-typed wrapper for ConfigurationManager.AppSettings values.
 
 There is a way to get strongly-typed objects directly from `web.config` (see “[How to: Create Custom Configuration Sections Using IConfigurationSectionHandler](http://msdn.microsoft.com/en-us/library/ms228056.aspx)”) but the technique recommended here *feels* faster and easier to understand: in the `MyApp.Models` namespace/project, I define an `ApplicationSettings` class with a constructor like this:
 
@@ -143,7 +143,7 @@ There is a way to get strongly-typed objects directly from `web.config` (see “
 
 Remember that `ConfigurationManager.AppSettings` is not just for Web applications.
 
-### ASP.NET MVC: Use an MVC4 project because it’s NuGet-centric…
+## ASP.NET MVC: Use an MVC4 project because it’s NuGet-centric…
 
 At the beginning of this year in “[ASP.NET MVC 4 Beta Released!](http://weblogs.asp.net/jgalloway/archive/2012/02/16/asp-net-4-beta-released.aspx),” Jon Galloway was celebrating:
 <blockquote>
@@ -169,7 +169,7 @@ Horrible but not impossible. I prefer “Option 2: Put .aspx in all your route e
 “The cause of the problem is that the identity (e.g. NETWORK SERVICE) of the IIS application pool used to run the web application, needs read access to the application’s `web.config` file to be able to launch the ASP.NET worker process.”
 </td></tr></table>
 
-### ASP.NET MVC: Use HttpContext.Current.IsDebuggingEnabled…
+## ASP.NET MVC: Use HttpContext.Current.IsDebuggingEnabled…
 
 “[Automatically minify and combine JavaScript in Visual Studio](http://encosia.com/automatically-minify-and-combine-javascript-in-visual-studio/)” by Dave Ward introduced me to the importance of `HttpContext.Current.IsDebuggingEnabled`:
 <blockquote>
@@ -179,7 +179,7 @@ When the web.config’s compilation mode is set to debug, the `*.debug.js` versi
 
 I use this approach in my conventional MVC `/Shared/_Layout.cshtml` (see it [on pastebin.com](http://pastebin.com/wmX1XLLz)).
 
-### ASP.NET MVC: Avoid Using the Models Folder
+## ASP.NET MVC: Avoid Using the Models Folder
 
 I have yet to find a self-propelled reason why I need a `/Models` folder in a Web Project. This means you will never find a `MyAwesomeApp.Web.Models` namespace (so far). My respect for unit testing and code reuse compels me to have:
 
@@ -188,7 +188,7 @@ I have yet to find a self-propelled reason why I need a `/Models` folder in a We
 
 The concept of a Model Context is definitely not a Rocky Lhotka thing. He might use a term like “Business Rules Context”—so my work here is not backed by the recognized experts. I should have covered this in “[RIA Services and EF Entities](http://songhayblog.azurewebsites.net/entry/show/ria-services-and-ef-entities)” or “[Silverlight, Entity Framework and RIA Services Recipe](http://songhayblog.azurewebsites.net/entry/show/silverlight-entity-framework-and-ria-services-recipe)” but I didn’t. More on this later (I think)…
 
-### While looking for a replacement to RIA Services, use RIA Services…
+## While looking for a replacement to RIA Services, use RIA Services…
 
 My limited research shows me two possible alternatives to RIA Services: i) some rendition of Rocky Lhotka’s CSLA or ii) some future version of or NuGet package for ASP.NET Web API. Since Rocky is awesome [he addressed this issue](http://forums.lhotka.net/forums/p/8394/39951.aspx) about two years ago:
 <blockquote>

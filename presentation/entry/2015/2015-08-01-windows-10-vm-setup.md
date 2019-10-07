@@ -17,11 +17,11 @@ In under three days, my Microsoft-based, virtual development environment has mov
 
 A generic VMware **Windows 10 Enterprise x64** image was built. A copy was moved into `\VMware\songhay11v` along with a copy of `SonghayHomeDrive.vmdk`. I eventually activated Windows manually by entering my MSDN reserved product code (`SLUI.EXE`).
 
-### Wrestling with OneDrive
+## Wrestling with OneDrive
 
 I tried and failed to move the default OneDrive folder to `\dataRoot\OneDrive`. I confused the moving of the “My Documents” folder to OneDrive. It is an error to use the OneDrive root as a standard “My Documents” folder. OneDrive attempted a sync operation when it was not pointing at the correct location on my `SonghayHomeDrive` volume. The Recent docs list in the cloud emptied and for a second I thought I lost everything!
 
-### Changes to the shares layout
+## Changes to the shares layout
 
 This is a sketch of the new layout:
 
@@ -40,7 +40,7 @@ Added `sourceRoot\songhay-system` for what is currently under TFS (which is just
 The `\util` folder is almost empty (and many, many binaries were removed from `\sourceRoot\samples`) as many of these things were superseded by Chocolatey running under OneGet.
 [<img alt="OneGet Experimental Build Splash" src="https://farm1.staticflickr.com/541/20155687415_1d9c8dcdba_m_d.jpg">](https://www.flickr.com/photos/wilhite/20155687415/in/dateposted-public/ "OneGet Experimental Build Splash")
 
-### Getting the “experimental” OneGet installer
+## Getting the “experimental” OneGet installer
 
 The version of OneGet shipping with Windows 10 does not support Chocolatey. So I’ve taken the risk and downloaded [the “experimental” build](https://github.com/OneGet/oneget) from GitHub. After the “experiment” is installed, there are some instructions to follow to get OneGet running. The only accurate instructions I’ve seen for the latest build are [displayed in a dialog](https://www.flickr.com/photos/wilhite/20155687415/in/dateposted-public/) just before the `*.exe` installs. Here are the instructions in my own words: in an administrator-level session of PowerShell enter:
 
@@ -51,7 +51,7 @@ Import-Module oneget-edge
 Set-ExecutionPolicy RemoteSigned
     
 
-### Got Chocolatey?
+## Got Chocolatey?
 
 There are [several packages for Sublime Text 2/3](https://chocolatey.org/packages?q=sublime) but I’ll need to get back to this to make a detail-based decision on which ones to take.
 <table class="WordWalkingStickTable"><tr><td>
@@ -150,7 +150,7 @@ NAnt
 [NAnt—A .NET Build Tool 0.92.1](https://chocolatey.org/packages/NAnt) [ `nant` ] 
 </td></tr></table>
 
-### ‘Unmanaged’ Utilities
+## ‘Unmanaged’ Utilities
 
 Here’s a short list of applications that I had to install (or consider installing) by hand:
 

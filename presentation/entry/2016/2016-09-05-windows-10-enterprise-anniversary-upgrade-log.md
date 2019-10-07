@@ -13,7 +13,7 @@
 }
 ---
 
-### Manual Install
+## Manual Install
 
 *   SQL Server 2016 with R Standalone Server
 *   Office 365
@@ -21,7 +21,7 @@
 *   Microsoft SQL Server Management Studio
 *   Microsoft Visual Studio Team Foundation Server 2015 Power Tools (there is a Chocolatey package for this, `tfs2015powertools`, but it does not install PowerShell SnapIn, `Microsoft.TeamFoundation.PowerShell` by default)
 
-### PowerShell Package Manager Install
+## PowerShell Package Manager Install
 
 The PowerShell script:
 
@@ -66,7 +66,7 @@ After the `git` (Git for Windows) package is installed, the Git Bash icon will n
 
 I did notice that `Install-Package` supports a `-Destination` parameter for *some* providers (not Chocolatey). I would have been great to have this support to avoid installing packages on the C: drive by default.
 
-### Linux Subsystem Install
+## Linux Subsystem Install
 
 The [installation of the Linux subsystem](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) is standard.
 

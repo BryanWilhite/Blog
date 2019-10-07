@@ -16,7 +16,7 @@
 The `TransitioningContentControl`, developed by [Ruurd Boeke](https://twitter.com/), is one of the few Silverlight controls striving for what I am calling “data-driven animation.” You can load content from a database—let’s say an Observable Collection of data—, display one item from this Collection in the `TransitioningContentControl` and then *transition* to the next item in the Collection—to be displayed in the `TransitioningContentControl`. This transition is, by default, a story-board animation. Awe… some!
 [<img alt="TransitioningContentControl with UserControl Collection Sample" src="http://farm6.staticflickr.com/5034/7065171509_b2503321d3.jpg">](http://wordwalkingstick.com/silverlightbiggestbox/ "TransitioningContentControl with UserControl Collection Sample")
 
-### Workflow…
+## Workflow…
 
 *   Compose a “[previz](http://en.wikipedia.org/wiki/Previsualization)” storyboard in a separate file (I open a XAML-only file in Expression Blend among my “packed XAML” samples in my [Silverlight BiggestBox](http://wordwalkingstick.com/silverlightbiggestbox/)).
 *   Edit a copy of the `TransitioningContentControl` style in the actual layout.
@@ -26,13 +26,13 @@ The `TransitioningContentControl`, developed by [Ruurd Boeke](https://twitter.co
 
 Composing the “[previz](http://en.wikipedia.org/wiki/Previsualization)” storyboard is the first time in my Microsoft developer life that a business need demands the use of storyboard composition (within the Expression Blend 4 timeframe of course).
 
-### Now some critiques…
+## Now some critiques…
 
 *   You should not *need* to use a style to customize the transition animation. This should not be the only way of customizing the transition.
 *   Silverlight, animation-based behaviors, like the `FluidMoveBehavior` should be pluggable/Blendable into the control.
 *   No MSDN documentation (still considered “experimental”?).
 
-### Beyond the Transitioning Content Control?
+## Beyond the Transitioning Content Control?
 
 Expression Blend Architect Kenny Young suggested years ago that Behaviors allow developers to avoid resorting to building storyboards by hand for relatively simple animations. Animating the event when an item is added/removed to/from a `ListBox` should be considered a ‘simple’ animation. A Behavior should handle this.
 
@@ -43,7 +43,7 @@ So I tried for several days to avoid using this control by trying several techni
 *   The `FluidMoveBehavior` can be configured to animate `Self` or `Children`. I have been unable to get the expected results from `FluidMoveBehavior` in ‘self-mode’… There is an old sample marked “[Download AppliesTo: Self Example](http://www.kirupa.com/blend_silverlight/fluidmove_pg4.htm)” by Microsoft’s Kirupa Chinnathambi that shows `Self` working for Silverlight 3—however, when I upgrade the sample to Silverlight 4 it *stops* working! By the way, where the hell is Kenny Young?
 *   One workaround that *should* deal with this `FluidMoveBehavior` in ‘self-mode’ issue involves using an `ItemsControl` that is meant to only hold *one* item. Then `ItemsControl.ItemsPanel` can hold this behavior in its template. I tried this without success (but was probably confused with drowsy, late-night frustration).
 
-### Related Links
+## Related Links
 
 *   “[Animated Visual State Transitions with the Transitioning Content Control](http://jesseliberty.com/2009/04/29/animated-visual-state-transitions-with-the-transitioning-content-control/) [Jesse Liberty]”
 *   “[Using the FluidMove Behavior—Page 4](http://www.kirupa.com/blend_silverlight/fluidmove_pg4.htm)”

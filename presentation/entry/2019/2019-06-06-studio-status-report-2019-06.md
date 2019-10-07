@@ -15,13 +15,13 @@
 
 I missed last month 😒🤷‍️😁
 
-### month-4 was all about upgrading `SonghayCore` 🐰🕳
+## month-4 was all about upgrading `SonghayCore` 🐰🕳
 
 I have started using GitHub projects to batch issues together to mark a NuGet release. My first project, [version 3.1.3 release](https://github.com/BryanWilhite/SonghayCore/projects/1), records the miserable but compelling details around moving [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) into [the .NET Core multi-targeting space](https://github.com/BryanWilhite/SonghayCore/issues/20#issuecomment-489815352).
 
 The feeling around doing this work is that of optimistic relief that [`SonghayCore`](https://github.com/BryanWilhite/SonghayCore) has never been more stable and it should be far easier to maintain going forward. This should prevent me from falling into a costly rabbit hole while trying to dig pits of success. Too much of my time *on this planet* has been spent on building infrastructure instead of publications and presentations for *people*.
 
-### WebJobs *and* Azure durable functions
+## WebJobs *and* Azure durable functions
 
 Month 5 was about understanding that the main reason why one would continue to use WebJobs instead of dropping everything and running to [Azure Durable Functions](https://mikhail.io/2018/12/making-sense-of-azure-durable-functions/) (for its *orchestration* feature), is the need for a local file system. I have assigned myself to [a GitHub issue](https://github.com/BryanWilhite/Songhay.Feeds/issues/14) that will explore this matter further.
 
@@ -33,11 +33,11 @@ More Azure function links:
 *   [https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code)
 *   [https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/](https://azure.microsoft.com/en-us/blog/introducing-azure-functions-2-0/) [2.0 does not support full framework]
 
-### the `songhay-ng-workspace` is considered awesome
+## the `songhay-ng-workspace` is considered awesome
 
 [`songhay-ng-workspace`](https://github.com/BryanWilhite/songhay-ng-workspace) is the *best* UI/UX work this studio has to offer. There is quite a long way to go but this repo makes a strong statement around core data access with the Observable Data Store, the Index experience and introduces the YouTube portion of our b-roll player.
 
-### `the-funky-knowledge-base` is the first 11ty experiment
+## `the-funky-knowledge-base` is the first 11ty experiment
 
 [`the-funky-knowledge-base`](https://github.com/BryanWilhite/the-funky-knowledge-base) should find its final home on GitHub. It will be converted from JSON static files to markdown. It is likely that it will replace most of my use Microsoft OneNote. Some OneNote issues:
 
@@ -47,13 +47,13 @@ More Azure function links:
 
 Success with 11ty will place this technology at the center of Songhay Publications: the static web site will be the go-to publication format of this studio. kintespace.com will deliberately be a patchwork mosaic of static websites (tracked by gen-web-based analytics).
 
-### proposing Microsoft Sway as a publication solution for kintespace.com
+## proposing Microsoft Sway as a publication solution for kintespace.com
 
 Yes, the 11ty-based static web site is the go-to publication format but Microsoft Sway might do well as a replacement for the PDF-based presentations of visual artists (on kintespace.com).
 
 My renewed interest in Sway was announced [in a month-5 tweet](https://twitter.com/BryanWilhite/status/1123661538437390336).
 
-### how to download an MP3 file from Azure BLOB Storage with ASP.NET Core 2.2
+## how to download an MP3 file from Azure BLOB Storage with ASP.NET Core 2.2
 
 <div class="sourceCode">
 
@@ -80,7 +80,7 @@ The most important line here is:
 
 Without this line, a file of 0-bytes will be saved by callers of this API.
 
-### the wonderful return of Daz3D to regular studio work
+## the wonderful return of Daz3D to regular studio work
 
 Month 5 saw the return of [Daz3D](https://www.daz3d.com/) to my studio work. The manga-publication production pipeline is revived which is almost the whole point of my existence. Using my kintespace account on InstaGram, I reminded myself that I have not touched Daz since 2003! Here are some points:
 
@@ -94,7 +94,7 @@ Most importantly, I have matured tremendously when it comes to this kind of prod
 
 And, by the way, OneNote really, really helps here because it is the best at handing a bunch of screenshots.🤷‍
 
-### sketching out a development schedule (revision 1)
+## sketching out a development schedule (revision 1)
 
 Today the studio development schedule looks like this:
 

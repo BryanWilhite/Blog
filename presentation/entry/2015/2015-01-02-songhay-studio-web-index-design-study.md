@@ -14,7 +14,7 @@ I’ve been using my [CodePen.io site](http://codepen.io/rasx/) to study the nex
 
 I’m seeing two designs: the *Inline Header Index* and the *Block Header Index*. The uppercase letters in the sketch represent the groupings and the lowercase letters represent the tiles that are in each group. My design borrows heavily from the current Netflix layout, the tiles of the Windows 8.x Start Menu and the ubiquitous Windows File Explorer.
 
-### The Block Header Index
+## The Block Header Index
 
 My Code Pen for the *Block Header Index* stays true to the original blackboard sketch:
 
@@ -27,7 +27,7 @@ My Code Pen for the *Block Header Index* stays true to the original blackboard s
 
 There is not much to write home about here. The code and markup should speak for itself.
 
-### The Inline Header Index
+## The Inline Header Index
 
 My Code Pen for the *Inline Header Index* strays very far from the original blackboard sketch:
 
@@ -50,7 +50,7 @@ The yellow boxes represent groups, inline blocks, that overflow horizontally. I 
 
 Apart from the majority of visitors deep-linking directly from Google, Twitter and Pinterest, kintespace.com already has a reputation for being confusing (when trying to find content from the “home” page). I assume (today) that my *Inline Header Index* design would be an improvement. So I am declaring here that I prefer this yellow-block design with the “crazy” scrollbars.
 
-### What’s wrong with the current index designs?
+## What’s wrong with the current index designs?
 
 All of my web designs are works in progress. I have never been able to declare any of my web sites “finished.” That being said, it must also be said that kintespace.com in particular has been suffering from severe neglect. This site is *still* based on the hub and spokes paradigm of the 1990s. My design update (scheduled for 2015) is an Angular JS app that indexes, searches and presents content—so *hub and spokes* will be replaced by HTML5 *app*. This “app” should address these issues:
 

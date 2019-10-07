@@ -15,7 +15,7 @@ I can find two other HTML-5, responsive, “Gallery” designs out there. [One i
 
 Nevertheless, I should be pleased at the relative improvement over my earlier work. I was walking around a shopping mall in Century City today—going from the Apple Store to the Sony Store—testing my work on iPad and Android tablets and the design responded well with only one naked failure: the character I am using for an “up arrow” (▲) shows up as a box on a Sony Android tablet.
 
-### Setting a large “view port”…
+## Setting a large “view port”…
 
 Overriding my preference for using `device-width`, this `meta` element is in play:
 
@@ -25,7 +25,7 @@ Instead of making the MegaFunk.com menu responsive, a minimum width of `528px` i
 
 What I don’t like my design’s response to the iPad is the lack of centering as it feels like it’s drifting out of view…
 
-### Translating the View Model concept to JavaScript
+## Translating the View Model concept to JavaScript
 
 I have already fallen deeply in love with [Knockout.js](http://knockoutjs.com/) back in the summer of 2011, so I am aware of its Silverlight-like, <acronym title="Model">MVVM</acronym> design possibilities (what gets us super-close is the relatively new [breeze.js](http://www.breezejs.com/)*plus* Knockout). What I failed to do with Knockout was formally establish when *not* to use it—*and* prepare my Javascript/jQuery to be “progressively enhanced” with Knockout just in case it’s needed later.
 
@@ -33,7 +33,7 @@ My deliberate use of the View Model concept is this formal preparation. My JavaS
 
 Once these View Model objects are adorned with Knockout observables, then we are in what we Silverlight folks called a “two-way binding” world…
 
-### The ‘Ready’ function with jQuery
+## The ‘Ready’ function with jQuery
 
 A very powerful concept (for me at the moment) that allows me to break blocks of jQuery into smaller logical groups is the *ready* concept. Back in the old <acronym title="Asynchronous JavaScript and XML">AJAX</acronym> days, I used the *format* concept. But with the advent of jQuery, we’re setting events, animations and visual formatting. So I’ve rolled these tasks up (per visual) into *ready* functions.
 
@@ -51,7 +51,7 @@ In the case of my gallery, I use `readyMegaGallery``()`. This is called inside o
 
 We can see that this *ready* concept is in line with `jQuery.ready`.
 
-### New jQuery tricks (for me)…
+## New jQuery tricks (for me)…
 
 I mistakenly thought that `jQuery.next()` would select the next sibling matching its selector without regard for its contiguity. I was wrong: what we must use is `jQuery.nextAll('.MyClass:first')` where the class, `.MyClass`, in the selector may indicate contiguous sibling or not.
 

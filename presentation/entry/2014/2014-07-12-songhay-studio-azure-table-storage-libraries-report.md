@@ -47,7 +47,7 @@ Note how the new way (Windows Azure SDK v2.x) is removing any LINQ-related, misl
 
 And then there is the <acronym title="Representational State Transfer">REST</acronym>-based [way](http://msdn.microsoft.com/en-us/library/azure/dd894031.aspx), considered by many the *only* way. But the snag (for me) is getting past how authentication is done for REST-based operations. There seems to be buzz about “Shared Key” and “Shared Key Lite”—stuff I’ve no time to grasp today…
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

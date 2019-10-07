@@ -26,7 +26,7 @@ I ran it through [the Ting BYOD form](https://ting.com/byod) and found success.
 
 *Success* here is rather pathetic. With this phone, I have successfully found a lone mountain cabin in the woods to hole up in. I should have acted on this sooner as I have been paying AT&amp;T $160+ per month for two locked devices (a Lumina 1520 and 2520—the 2520 with an AT&amp;T data plan was a way to control my youngest children in the car). Now that my youngest children have their own iPhones there is no (emotional) need to stay shackled to the AT&amp;T Tree of Woe. 
 
-### My “excuse” for staying with Windows Phone…
+## My “excuse” for staying with Windows Phone…
 
 In spite of clear signals of Microsoft stepping away from its previous mobile strategies, I stay with Windows 10 because of my chosen profession. I am *still* under the impression that I can build for Windows 10 first and then use Xamarin/Microsoft products to build for the other platforms. So, when I discover that, say, Strava is *not* on Windows 10 mobile, I still swagger and look forward to building the app myself. I am trying to approach mobile like how a C programmer approaches Linux: when something is missing, *build* it. Along with Strava being non-present, the ‘native’ Microsoft podcast app is also in need of replacement (I have tried [PODCASTS!](https://www.microsoft.com/en-us/store/apps/podcasts/9wzdncrfhmwj) and am underwhelmed with its Windows-8-ness and choppy UX).
 
@@ -37,11 +37,11 @@ I eventually visited the Microsoft Store to explain my situation—and, to my su
 
 However, the spontaneous micro-SD-card ejection behavior started again. This time I could see that the ejection occurred when Windows 10 was handling the audio of phone call and playing (Groove) music or a podcast (in the PODCASTS! or the native Microsoft app).
 
-### Is the problem Windows 10 or the Acer hardware—or both?
+## Is the problem Windows 10 or the Acer hardware—or both?
 
 After upgrading the phone to the Windows “Anniversary” update there has been little improvement. My developer instinct is telling me what no obedient Microsoft employee would recognize publicly (while the problem cannot be solved): no one tested the “Anniversary” release on the Acer M330. The new update is actually hiding/cropping/truncating critical UI elements. For example, I am unable to read a SMS text before I send it. Almost all apps with a bottom strip of buttons is cropped. The keyboard touch is miscalibrated: you have to press 16 pixels or more above the intended key. This is quite an embarrassing time for Windows 10 mobile.
 
-### Related Links
+## Related Links
 
 *   “[Should you buy a premium Windows phone in 2016?](http://mspoweruser.com/buy-premium-windows-phone-2016/)”
 *   “[Windows 10 Mobile is still on less than 12% of Windows Phones](http://mspoweruser.com/windows-10-mobile-still-less-12-windows-phones/)”

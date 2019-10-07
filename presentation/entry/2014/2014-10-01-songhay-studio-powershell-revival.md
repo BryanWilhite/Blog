@@ -17,7 +17,7 @@
 
 Here’s what I have of late:
 
-### How to Display Free Memory:
+## How to Display Free Memory:
 
 
 (Get-WMIObject Win32_OperatingSystem)|Get-Member|Out-Host –Paging
@@ -29,7 +29,7 @@ Here’s what I have of late:
 ("{0}/{1}" –f (Get-WMIObject Win32_OperatingSystem).FreePhysicalMemory.ToString("#,###,000"), (Get-WMIObject Win32_OperatingSystem).TotalVisibleMemorySize.ToString("#,###,000"))
     
 
-### Package Manager Console Moves
+## Package Manager Console Moves
 
 
 PM&gt; Get-Package -Updates | Out-GridView

@@ -17,18 +17,18 @@ The Songhay System made historical, Desktop, investments in [Glenn Block’s MEF
 
 [<img src="https://farm3.staticflickr.com/2848/34415141695_8456bc59ef_m_d.jpg" style="float:right;margin:16px;">](https://www.flickr.com/photos/wilhite/34415141695/in/dateposted-public/) (**Sidebar:** the [System.Composition 1.0.31 package](https://www.nuget.org/packages/System.Composition/) from Microsoft *is* MEF in a NuGet package. However, crack open this package and you will find it kind of empty. [My screenshot shows](https://www.flickr.com/photos/wilhite/34415141695/in/dateposted-public/) that this package calls out to GAC dependencies which is an automation convenience but shows no sign of movement toward .NET Standard.) 
 
-### Migrating from `BiggestBox` to `StudioFloor`
+## Migrating from `BiggestBox` to `StudioFloor`
 
 You can see the results of this migration in [my `Songhay.StudioFloor` GitHub repo](https://github.com/BryanWilhite/Songhay.StudioFloor). This `StudioFloor` project is renamed from the `BiggestBox` project I had on CodePlex for several years.
 
-### Migration Step 0: Switch to .NET 4.6.1 for .NET Standard 1.4
+## Migration Step 0: Switch to .NET 4.6.1 for .NET Standard 1.4
 
 My first step of migration has nothing to do with MEF. The .NET Standard initiative is relatively new compared to my MEF-era WPF work. The aggressively optimistic assumption here is that PCL will be replaced *entirely* by .NET Standard.
 <div style="text-align:center">[<img alt="Miguel de Icaza on .NET Standard 2.0" src="https://farm5.staticflickr.com/4185/33571835814_7cb660074d_o_d.png">](https://twitter.com/migueldeicaza/status/853754791972962304)</div>
 
 By staring at a chart via [Immo Landwerth](https://twitter.com/terrajobst) I saved [in a previous Blog post](http://songhayblog.azurewebsites.net/entry/songhay-studio-net-standard-with-songhay-standard-core), I can see that I need to start with .NET Standard 1.4 and look forward to .NET Standard 2.0. Version 1.4 supports the latest version of the Universal Windows Platform (UWP) and the UWP support is still a goal here in the Songhay System. This goal ‘forces’ the Songhay System to move from .NET 4.5.2 to 4.6.1.
 
-### Migration Step 1: Replace MEF `[Export]` Attributes for Non-Views with Unity Statements
+## Migration Step 1: Replace MEF `[Export]` Attributes for Non-Views with Unity Statements
 
 The equivalent of the MEF `[Export(IFoo)]` declaration for type `Foo` is this statement:
 
@@ -38,7 +38,7 @@ this._container.RegisterType&lt;IFoo, Foo&gt;(new ContainerControlledLifetimeMan
 
 It is important to use `ContainerControlledLifetimeManager` to match the static-ish nature of the `[Export]` attributes. This step applies to non-views, primarily Prism services and View-Model-first View models.
 
-### Migration Step 2: Replace MEF `[Export]` Attributes for Navigation Views with Prism Statement
+## Migration Step 2: Replace MEF `[Export]` Attributes for Navigation Views with Prism Statement
 
 With Unity in play, there is a need to register a view for navigation in `IModule.Initialize()`:
 
@@ -46,7 +46,7 @@ With Unity in play, there is a need to register a view for navigation in `IModul
 this._container.RegisterTypeForNavigation&lt;FooView&gt;();
 </code>
 
-### Migration Step 3: Use Prism XAML Declarations for View-First Patterns
+## Migration Step 3: Use Prism XAML Declarations for View-First Patterns
 
 This is this Prism XAML declarations for a View-first scenario:
 
@@ -70,7 +70,7 @@ ViewModelLocator.SetAutoWireViewModel(this, true);
 
 BTW: Brian Lagunas has written [a code sample to show how to change the default conventions](https://github.com/PrismLibrary/Prism-Samples-Wpf/blob/master/9-ChangeConvention/ViewModelLocator/Bootstrapper.cs) around `ViewModelLocator`.
 
-### Migration Step 4: Use the `GetInstance()` Anti-Pattern for View-Model-First Scenarios
+## Migration Step 4: Use the `GetInstance()` Anti-Pattern for View-Model-First Scenarios
 
 Like an animal, [I have written `GetInstance()` extension methods](https://github.com/BryanWilhite/Songhay.Mvvm/blob/master/Songhay.Mvvm/Extensions/IViewExtensions.cs) intended to be used to a View that needs to find its View Model in the IoC container Microsoft calls `ServiceLocator.Current`. So, when the View Model (say `IFooViewModel`) is instanced first I make this statement in the constructor of the View:
 

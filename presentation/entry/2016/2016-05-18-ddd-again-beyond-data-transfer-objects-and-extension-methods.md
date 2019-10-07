@@ -17,7 +17,7 @@ The overwhelming majority of my .NET classes are Data Transfer Objects (DTOs), p
 
 I have no informal approach toward stateful business rules. This is actually great because I have been aware for a few years about formal approaches—I just did not know it until now. In the world of Domain Driven Design, an “anemic object” is one that quacks like a DTO but it actually contains stateful business rules. I used to assume that an “anemic object” *is* a DTO—which could be true to hard-core DDD folks.
 
-### Related Links
+## Related Links
 
 *   “[Getters/Setters. Evil. Period.](http://www.yegor256.com/2014/09/16/getters-and-setters-are-evil.html)”
 *   “[Doing it wrong: getters and setters](http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/)”

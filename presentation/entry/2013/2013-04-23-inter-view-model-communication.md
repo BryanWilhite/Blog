@@ -13,7 +13,7 @@ Previously, I saw only one way View Models exchange data: through [Light Messagi
 
 The `ObjectExtensions` class that I was previously using for a certain category of MVVM Light Messaging has its members completely replaced with `ServiceLocator` routines ([see pastebin.com code listing](http://pastebin.com/adWHcVZr)). In spite of the dangers of using static classes in certain automated testing scenarios, I currently prefer to use extension methods, handling `ServiceLocator` routines. This preference confines references to `Microsoft.Practices.*` in one area of the code base.
 
-### Related Links
+## Related Links
 
 *   “[The Common Service Locator from Microsoft Patterns &amp; Practices](http://www.fatagnus.com/the-common-service-locator-from-microsoft-patterns-practices/)”
 *   “[MVVM with Prism 101 – Part 5b: ServiceLocator vs Dependency Injection](http://www.developmentalmadness.com/archive/2009/11/02/mvvm-with-prism-101-ndash-part-5b-servicelocator-vs-depdency.aspx)”

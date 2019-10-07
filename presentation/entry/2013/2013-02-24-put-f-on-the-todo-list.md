@@ -69,7 +69,7 @@ And this works! This success led me look into stuff like “[Understanding Tuple
 
 So what does this have to do with F#? Well, just like the [Chewbacca Defense](http://en.wikipedia.org/wiki/Chewbacca_defense), it turns out that it’s nothing… it has nothing to do with this case—because the tuples that ship from Microsoft are not currently supported by Entity Framework’s `SqlQuery&lt;T&gt;()`. This means that I can’t start using tuples as general-purpose data-transfer objects (with `SqlQuery&lt;T&gt;()`). This use of tuples would have encouraged me to use F# because tuple syntax in F# is so much simpler (but the implementation of EF in F# [looks weird](http://blogs.msdn.com/b/visualstudio/archive/2011/04/04/f-code-first-development-with-entity-framework-4-1.aspx) to me)… This crazy jaunt *did* help me see that I should use a bunch of generic projection classes.
 
-### F# and the Linked List
+## F# and the Linked List
 
 I get this weird feeling that I’m going to need to take Linked Lists seriously. A stackoverlflow.com question like “[When should I use a List vs a LinkedList](http://stackoverflow.com/questions/169973/when-should-i-use-a-list-vs-a-linkedlist)[?]” is just the tip of the iceberg. In “[Why I Love F#: Lists—The Basics](http://diditwith.net/2008/03/03/WhyILoveFListsTheBasics.aspx)” Dustin Campbell reveals what’s deep at the core of F#: the *immutable* linked list:
 <blockquote>

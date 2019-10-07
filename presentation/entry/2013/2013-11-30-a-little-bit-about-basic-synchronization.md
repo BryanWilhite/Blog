@@ -141,7 +141,7 @@ This pattern (I have discovered recently) can cause false positives to be logged
 
 This may be overkill someday but today I’m calling it educational.
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

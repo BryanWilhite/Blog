@@ -17,7 +17,7 @@ Node modules and bower components (with gulp) are the building blocks of buildin
 
 Getting node on Windows is way, *way* easier than I assumed (or saw a few years ago). We just go [nodejs.org](https://nodejs.org/), download a binary and execute and installer. The installer will give us shortcuts for the Node console and **Node.js command prompt**. I’ve not been using the command prompt because of what comes with the Windows version of Git. Yes, we’ll need to install Git (because bower has a relationship with it—where do you think all those packages are stored?). The story for Git is just like Node’s—we start with [http://git-scm.com/](http://git-scm.com/) to get our installer. After Git is installed, look for the **Git Bash** shortcut. I’ve been working in the Git Bash shell for my work with node modules and bower components.
 
-### The System Image
+## The System Image
 
 Here’s a rough sketch of my basic node/bower layout:
 
@@ -50,7 +50,7 @@ npm install -g gulp
 
 (I really don’t think I need the `-g` option because my `\Projects` folder should be only place bower and gulp will work.) This completes the ground floor of the node modules I’ll need to get started.
 
-### The Bower Basics
+## The Bower Basics
 
 Instead of doing the cool `bower install &lt;package&gt;` thing, let’s setup `bower.json` up front (as listed in the `\Projects` folder above):
 
@@ -81,7 +81,7 @@ Now all I have to do is run `bower install` (from the `\Projects` folder) and my
 
 It’s not perfect (why those “`invalid-meta`” lines?) but it’s a start.
 
-### The Importance of .tfignore
+## The Importance of .tfignore
 
 In the same manner that Git folks have `.gitignore`, Microsoft’s TFS (finally!) has `.tfignore`. I have had at least two, useless, soul-sucking arguments with self-described “senior” Microsoft developers who resisted using NuGet packages because there was no `.tfignore`. Now there is and I can get some soul back! Here’s my `.tfignore` file:
 
@@ -105,7 +105,7 @@ According to [a stackoverflow.com article](http://stackoverflow.com/questions/24
 &lt;/configuration&gt;
     
 
-### Related Links
+## Related Links
 
 *   “[Introducing Gulp, Grunt, Bower, and npm support for Visual Studio](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx)” by Scott Hanselman
 *   “[Getting started with Grunt, SASS and Task Runner Explorer](http://www.iambacon.co.uk/blog/getting-started-with-grunt-sass-and-task-runner-explorer-visual-studio)” by Colin Bacon

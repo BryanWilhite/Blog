@@ -25,7 +25,7 @@ First thing: MVVM as we now know it, encourages the use of what DDD folk call â€
 
 Based on Google/Bing searches over the last 12 months, I assume that I am one of the few people in the world who took the time to write about this problem publically (electronically). I look forward to being awaken from my delusions of grandeur when someone out there is kind enough to come forward and talk about their solution to this problem. Does [Reactive UI have something](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2011/10/10/reactive-extensions-for-net-talk-from-ddd-north.aspx) for MVVM anemia out of the box?
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

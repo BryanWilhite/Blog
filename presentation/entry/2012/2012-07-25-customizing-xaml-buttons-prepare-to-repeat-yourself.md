@@ -30,7 +30,7 @@ What’s long-term educational about this unpleasantness is using this experienc
 *   `ControlTemplate` lives to fill the `Control.Template` property.
 *   `ContentControl` represents a “single piece” of visualized data—a metaphorical ‘picture’ for the `ContentPresenter` picture frame.
 
-### Related Resources
+## Related Resources
 
 *   “[Applying VisualStateManager to both ControlTemplate and Content](http://stackoverflow.com/questions/10408788/applying-visualstatemanager-to-both-controltemplate-and-content/11642968)”
 *   “[Button Styles and Templates](http://msdn.microsoft.com/en-us/library/cc278069(v=vs.95).aspx)”

@@ -9,7 +9,7 @@
 }
 ---
 
-### Layer 1: the Frame
+## Layer 1: the Frame
 
 At the core of my stinky onion is the `Frame` control, hosted in a `UserControl`. I prefer to have one `Frame` per application, which implies that the `UserControl` is my conventional `Client` control (Microsoft culture has called this `Main` or `Home`—in the ASP.NET MVC space). Anyway, because I call my default visual “Client”, the navigation frame is called `ClientFrame`:
 
@@ -34,7 +34,7 @@ This declaration comes with several implications:
 
 It is my intent that all of these keys should be stored in `NavigationBookmarkData` (see below).
 
-### Layer 2: Frame Eventing in Code Behind
+## Layer 2: Frame Eventing in Code Behind
 
 My [PasteBin.com code sample](http://pastebin.com/rGsCYRsS) shows (almost) all of the eventing required for a navigation `Frame`. The table below summarizes:
 <table class="WordWalkingStickTable"><tr><td>
@@ -61,11 +61,11 @@ Because I use MVVM Light, I have written an Extension Method, `Page.SendLightNav
 The conventional error “window” is used here.
 </td></tr></table>
 
-### Layer 3: NavigationBookmarkData
+## Layer 3: NavigationBookmarkData
 
 Back in 2012, in “[Silverlight Page Navigating with MVVM Light Messaging and Songhay NavigationBookmarkData](http://songhayblog.azurewebsites.net/entry/show/silverlight-page-navigating-with-mvvm-light-messaging-with-lightnavigationmessage-navigatingcanceleventargs-and-songhay-navigationbookmarkdata),” I went into detail about this class definition. [Another PasteBin.com sample](http://pastebin.com/9YN1cwEL) for this class is available.
 
-### Layer 4: Handling NavigatingCancelEventArgs
+## Layer 4: Handling NavigatingCancelEventArgs
 
 It’s the `NavigationBookmarkData` that can be used to determine whether a Navigation should or should not be cancelled. My `ClientViewModel` has concerns for Messaging and Navigating. Messaging logic supports the `LightNavigationMessage&lt;NavigatingCancelEventArgs&gt;` sent by Client `UserControl`. Navigating logic handles this ‘light-navigation’ message by evaluating it with the `NavigationBookmarkData`. A rough sketch of the handler illustrates:
 
@@ -87,7 +87,7 @@ When we have `"category1"` and an ID we can then call the RIA service (in `DoRia
 
 However, when it is clear that the “bookmark” (or the navigation target location) set in context is unknown (`if(navigationBookmarks.IsBookmarkUnknown())`), then the navigation is cancelled.
 
-### Layer 5: Actually Doing the Navigation
+## Layer 5: Actually Doing the Navigation
 
 MVVM Commanding is what starts the funky Navigation going through each layer of our onion. The commanding eventually reaches logic that looks like this:
 
@@ -102,7 +102,7 @@ So Layer 1 uses what comes in the box with the .NET Framework and Layer 5, with 
 
 The “death” of Silverlight in general strongly suggests that `HtmlPage.Window.NavigateToBookmark()` is dead (while the `Frame` lives on) in particular.
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

@@ -19,7 +19,7 @@ I have turned to [a LINQPad file (as a GitHub gist)](https://gist.github.com/Bry
 
 <script src="https://gist.github.com/BryanWilhite/25046e8d35341ea88e23.js"></script>
 
-### Using OWIN Self-Hosting to test Web API
+## Using OWIN Self-Hosting to test Web API
 
 The `Microsoft.Owin.SelfHost` (with `Microsoft.Owin`, `Microsoft.AspNet.WebApi.Owin`, and `Owin`) Nuget Package gives us an in-memory, tiny server. This means server code can be tested from a .NET web server that is completely independent of IIS or IIS Express. When I attempt to show this new technology to .NET veterans, oftentimes this technology is so radically different (and just too simple) that it’s hard to understand what’s being said! It may be better to show rather than tell. The gist above shows just how simple the standard [OWIN](http://owin.org/) implementation is to use:
 
@@ -50,7 +50,7 @@ finally
 }
 ```
 
-### OData EDM model building/routing
+## OData EDM model building/routing
 
 The single call `WebApp.Start&lt;Startup&gt;()` our way into OWIN. The class definition `Startup` has one, conventional method, `Configuration()`, that handles `HttpConfiguration` just like the conventional ASP.NET MVC `*Config` static classes in the `App_Start` folder. Our OData concerns for [EDM model](http://chriswoodruff.com/2011/12/04/31-days-of-odata-day-3-odata-entity-data-model/) building and routing are handled in this `Startup.Configuration()` method:
 
@@ -67,15 +67,15 @@ The EDM model building (with the `builder` variable) uses `EntityType.DerivesFro
 
 The `MapODataServiceRoute()` extension method (of `HttpConfiguration`) makes a standard OData call, like `./api/Product?$count=true`, possible by way of the route prefix `"api"` specified in the second argument of this extension method.
 
-### The importance of MetadataController
+## The importance of MetadataController
 
 The `ControllerResolver` in our gist above is used in OWIN `Startup.Configuration()` to ultimately inject `ProductController` into `HttpConfiguration`. In my production ASP.NET MVC Web API application, AutoFac would handle this auto-magically. Notice also that `ControllerResolver` is ‘manually’ loading `MetadataController`. Without `MetadataController`, the `./$metadata` call would fail (it should be a 404 error).
 
-### Extending from ODataController
+## Extending from ODataController
 
 The `ProductController` extends from `ODataController`. One of the not-so-subtle implications with extending from `ODataController` is the intent to emit only types defined in the `$metadata` output. So, the use of `ODataController`, means the controller is confined to emitting Entity Data models.
 
-### Related Links
+## Related Links
 
 *   “[Paging with ASP.NET Web API OData](http://blogs.msdn.com/b/youssefm/archive/2013/02/19/paging-with-asp-net-web-api-odata.aspx)”
 *   “[Supporting OData $inlinecount &amp; json verbose with Web API OData](http://janvanderhaegen.com/2015/04/30/supporting-odata-inlinecount-json-verbose-with-web-api-odata/)”

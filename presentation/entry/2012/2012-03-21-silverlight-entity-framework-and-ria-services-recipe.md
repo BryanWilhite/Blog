@@ -25,7 +25,7 @@ Here’s a short list for database-first `DbContext` with [RIA Services](http://
 
 Yes, my stuff is database-first but my recipe here is based on “[RIA Services EF Code First Support](http://jeffhandley.com/archive/2011/06/30/RIAServicesCodeFirst.aspx)” by Jeff Handley.
 
-### Now, some details…
+## Now, some details…
 
 **Define and generate the database.** Define a new data source: in my case it’s a SQL Server database. Generate a SQL Server 2008 Database Project. Because I am weird, I run the **Import Database Objects and Settings…** command against an empty database. This gives me a `Schema Objects\Schemas\dbo\Tables` folder where I write `*.table.sql` scripts. My intention is to have a data-source level project that is most flexible for the data source. Based on my current level of experience however, I expect to define my tables and users and then let Entity Framework handle the rest.
 

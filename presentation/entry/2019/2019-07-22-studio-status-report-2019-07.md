@@ -13,7 +13,7 @@
 }
 ---
 
-### month-6 was about switching to Hyper-V, being 134% behind and 11ty
+## month-6 was about switching to Hyper-V, being 134% behind and 11ty
 
 My studio notes on setting up Ubuntu on Hyper-V boil down to this:
 
@@ -43,7 +43,7 @@ That last bullet point is huge: `Songhay.Publications` and `GenericWeb` can shed
 
 I have updated my sketchy TODO list below to assert that `Songhay.Blog`*can* make the switch to an 11ty-based pipeline *and* use Angular as a supplement to the static site (a different take on “progressive enhancement”).
 
-### sketching out a development schedule (revision 2)
+## sketching out a development schedule (revision 2)
 
 Today the studio development schedule looks like this:
 

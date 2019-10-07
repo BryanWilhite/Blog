@@ -35,7 +35,7 @@ The first Unity thing I did was turn `/home/myUbuntuUser` into a share with the 
 
 The Ubuntu Software Center installed: Chromium, Firefox, Thunderbird, Blender, Gimp, Inkscape and Audacity. From the command line I ran `thunderbird /profilemanager` and `firefox /profilemanager` to “create” a profile with the existing ones copied over to my conventional data root folder.
 
-### Server “Mirror” Setup
+## Server “Mirror” Setup
 
 To mirror the A2 Hosting server, I start with these commands:
 
@@ -56,13 +56,13 @@ sudo service apache2 restart
 
 I do notice that I am not editing `apache2.conf` and `000-default.conf` with vim and that it is not installed by default. Instead, I am using `gedit`. The purpose for editing `apache2.conf` is to whitelist my home web root directory; and editing `000-default.conf` is to direct port 80 to my home web root directory away from the default `/var/www/html/`.
 
-### No VMWare Tools for 64-bit Ubuntu 14.04?
+## No VMWare Tools for 64-bit Ubuntu 14.04?
 
 The typical VMWare Workstation indicators for VMWare Tools are simply not present for the 64-bit Ubuntu 14.04 VM. The **VM &gt; Reinstall VMWare Tools…** menu item is disabled and there are no VMWare pop-up offers to install it in the first place.
 
 However, I do notice that I am able to cut and paste between VMWare Host and Guest. The Guest Desktop is properly resized as well. Moreover, the Unity Desktop can browse the network and find Host network shares. All of these features suggest to me that perhaps VMWare Tools are no longer needed for 64-bit Ubuntu.
 
-### Mounting the Host with CIFS
+## Mounting the Host with CIFS
 
 I am told that the [Common Internet File System](https://technet.microsoft.com/en-us/library/cc939973.aspx) (CIFS) is the improvement over the Server Message Block (SMB) protocol. So I need to use this to mount (under `/mnt`) host shares, following “Mounting Windows Share on Ubuntu 14.04”:
 
@@ -73,7 +73,7 @@ sudo mount //Windows10/foo -t cifs -o uid=1000,gid=1000,username=winUser /mnt/fo
 
 I notice that I need to `sudo mkdir /mnt/foo` first. (Also the user `winUser` is a “classic” **Computer Management** generated user).
 
-### Mounting the Guest from my Windows 10 VM
+## Mounting the Guest from my Windows 10 VM
 
 “[How to Share Folders in Ubuntu &amp; Access them from Windows 7](http://www.digitalcitizen.life/how-access-ubuntu-shared-folders-windows-7)” is a decent introduction to mounting Ubuntu from Windows. I found these shell commands necessary:
 

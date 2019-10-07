@@ -31,7 +31,7 @@ Unless you’re in need of interactivity or external styling, `&lt;img&gt;` is t
 
 The CSS in this sample is confined to styling the `&lt;img&gt;` container. The ‘styling’ of the SVG is done in the most primitive way: the use of `fill`, `stroke` and `stroke-width` attributes directly on `path`.
 
-### “simple shapes” and `&lt;path&gt;`
+## “simple shapes” and `&lt;path&gt;`
 
 Sara Soueidan, her number one tip in “[Tips for Creating and Exporting Better SVGs for the Web](http://www.sarasoueidan.com/blog/svg-tips-for-designers/)” is this:
 <blockquote>
@@ -41,7 +41,7 @@ Create Simple Shapes Using Simple Shape Elements, Not `&lt;path&gt;`s.
 
 Even though the `&lt;path&gt;` element does ‘everything,’ this tip reminds us why we have: `&lt;line&gt;`, `&lt;circle&gt;`, `&lt;rect&gt;`, `&lt;ellipse&gt;`, `&lt;polygon&gt;` and `&lt;polyline&gt;`.
 
-### resources
+## resources
 
 *   “[SVG `&lt;path&gt;`](https://www.w3schools.com/graphics/svg_path.asp)”
 *   “[Better SVG Fallback and Art Direction with The `&lt;picture&gt;` Element](https://www.sarasoueidan.com/blog/svg-picture/)”

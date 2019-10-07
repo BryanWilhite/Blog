@@ -13,7 +13,7 @@ One very important detail that the classic “[Silverlight Business Application]
 
 One unexpected takeaway from these notes is the assertion that we cannot have NTLM authentication without setting up ‘default’ ASP.NET profiles. The *defacto* default ASP.NET profile is represented by `AspNetSqlProfileProvider`. This implies that a SQL Server database is *required* to use NTLM—which seems very strange, encouraging us to look forward to finding out that the above assertion is incorrect.
 
-### Setting up NTLM Authentication
+## Setting up NTLM Authentication
 
 In conventional Silverlight `App` constructor, state:
 
@@ -72,7 +72,7 @@ In the `system.web` node of `web.config`, declare:
 
 …where the Data Source contains tables setup by the `aspnet_regsql.exe` tool, covered in “[Installing ASP.NET Membership services database in SQL Server Express 2008](http://weblogs.asp.net/sukumarraju/archive/2009/10/02/installing-asp-net-membership-services-database-in-sql-server-expreess.aspx).” (An attempt to avoid doing all of this work with the `AspNetSqlProfileProvider`, might lead one to use the `System.Web.Security.WindowsTokenRoleProvider`, I found ne success here.)
 
-### Setting up WCF over NTLM
+## Setting up WCF over NTLM
 
 Visual studio will automatically generate `ServiceReferences.ClientConfig` during the **Add Service Reference…** process. In the `configuration\system.serviceModel` node of this document we might have this declaration:
 
@@ -111,13 +111,13 @@ Visual studio will automatically generate a `system.serviceModel` node in `web.c
         &lt;/basicHttpBinding&gt;
     &lt;/bindings&gt;
 
-### Setting up “Classic” NTLM Authentication on IIS 7.x
+## Setting up “Classic” NTLM Authentication on IIS 7.x
 
 *   Select **Authentication** from the Features View of Internet Information Services (IIS) Manager.
 *   Disable **Anonymous Authentication** (and all other forms of authentication).
 *   Enable **Windows Authentication** and select **Providers…** In the **Providers** dialog, move NTLM to the top of **Enabled Providers**.
 
-### Related Links
+## Related Links
 
 *   “[Walkthrough: Using the Silverlight Business Application Template](http://msdn.microsoft.com/en-us/library/ee707360(v=vs.91).aspx)”
 *   “[Installing ASP.NET Membership services database in SQL Server Express 2008—Sukumar Raju’s Blog](http://weblogs.asp.net/sukumarraju/archive/2009/10/02/installing-asp-net-membership-services-database-in-sql-server-expreess.aspx)”

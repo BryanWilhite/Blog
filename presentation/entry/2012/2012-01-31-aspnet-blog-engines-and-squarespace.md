@@ -17,7 +17,7 @@
 }
 ---
 
-## ASP.NET Blog Engines (and SquareSpace.com)
+# ASP.NET Blog Engines (and SquareSpace.com)
 
 Hi wired world. This is my first entry for this new blog—so it makes a bit of sense to write about the ASP.NET-based Blog engines with which I experimented (to start this blog):
 

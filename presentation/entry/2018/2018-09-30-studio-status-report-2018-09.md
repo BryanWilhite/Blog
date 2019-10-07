@@ -15,7 +15,7 @@
 
 This report is a *extremely* late as this writing occurs on the *last* day of the month.
 
-### the work on the new SonghaySystem.com continues
+## the work on the new SonghaySystem.com continues
 
 The prime suspect for the lateness of this report is the work represented by `Songhay.Dashboard`[issue #16](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16). This single issue got out of control, exploding to 44 comments (all made by me), spanning over 28 days. This issue essentially contains the start of the modern Angular version of the `Songhay.Player` client (the b-roll player), its curated YouTube Channel experience.
 
@@ -32,7 +32,7 @@ In order to make this experience possible these learnings were discovered (in is
 *   the importance of `ChangeDetectionStrategy.OnPush` for improving performance [[ref](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16#issuecomment-424426156)]
 *   using the CSS `transform` property to scale SVG icons [[ref](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16#issuecomment-424499360)]
 
-### major changes to Angular core `AppDataService`
+## major changes to Angular core `AppDataService`
 
 Currently `AppDataService` [[GitHub](https://github.com/BryanWilhite/Songhay.Dashboard/blob/6e8b3f943fa837f1e6d8ae95b6839a080f9cbdc8/Songhay.Dashboard/ClientApp/src/app/songhay/core/services/songhay-app-data.service.ts)] is thrown down next to the Dashboard App source for two mutually exclusive reasons:
 

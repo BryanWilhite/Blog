@@ -79,7 +79,7 @@ Ubuntu Bash Shell on Windows 10 Studio Workstation
 This is physical hardware.
 </td></tr></table>
 
-### Six bash environments to maintain, four of them critical…
+## Six bash environments to maintain, four of them critical…
 
 The table is telling me immediately that the physical-hardware Bash shell environments are currently rarely used. This implies that I have to be some kind of Linux nerd to have two ‘extra’ environments to maintain. Or I am in need of cattle-herding tool that can help me maintain Ubuntu six times over.
 

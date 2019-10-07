@@ -18,7 +18,7 @@ With this guidance, a possible acquisition sequence would work like this:
 *   [Ergotron LX Desk Mount LCD Arm](http://www.amazon.com/LX-Desk-Mount-LCD-Arm/dp/B00358RIRC%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00358RIRC) (this would be the second arm)
 *   LG—27" IPS LED HD Monitor (9.3lbs) from [Best Buy](http://www.bestbuy.com/site/lg-27-ips-led-hd-monitor-black/7814005.p?id=1219294099929&skuId=7814005) (this would be a second wagon-top monitor, based on the assumption that shipping costs will not be competitive)
 
-### Whisper-Quiet Fan Experiment
+## Whisper-Quiet Fan Experiment
 
 The fan for my CPU cooler is (probably) the loudest thing on the [wagon](https://www.flickr.com/photos/wilhite/7557315706/). Replacing this with something quieter should help. I should have the time to play around with this after the items above are in place—or I may just get into this first (it would be cheaper).
 

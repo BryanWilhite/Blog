@@ -27,7 +27,7 @@ Clicking on the second `checkbox`, would give us something almost useless: `foo 
 
 Apart from the confusion mentioned, it looks like Angular JS 1.x has no support for checkbox arrays (groups)—which has had server-side support for decades. It would not surprise me to find that none of the client-side frameworks has support for it out of the box.
 
-### Related Links
+## Related Links
 
 *   `ng-true-value` and `ng-false-value` for Angular check boxes [[docs.angularjs.org](https://docs.angularjs.org/api/ng/input/input[checkbox])]
         

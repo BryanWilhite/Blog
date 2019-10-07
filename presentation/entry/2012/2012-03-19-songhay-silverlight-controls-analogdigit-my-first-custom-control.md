@@ -26,7 +26,7 @@
 
 As always the source code for this stuff is [at CodePlex.com](http://slbiggestbox.codeplex.com/SourceControl/BrowseLatest).
 
-### Related Links
+## Related Links
 
 *   “[How to get the Nth digit of an integer with bit-wise operations?](http://stackoverflow.com/questions/203854/how-to-get-the-nth-digit-of-an-integer-with-bit-wise-operations)”
 *   “[Silverlight 3: Template Binding vs. Relative Binding](http://blogs.msdn.com/b/marlat/archive/2009/05/13/silverlight-3-template-binding-vs-relative-binding.aspx)”

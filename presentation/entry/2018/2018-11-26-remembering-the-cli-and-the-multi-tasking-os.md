@@ -23,7 +23,7 @@ First, according to the academic custom, I must empty the universe of almost eve
 A multitasking Operating System can *schedule* a CLI Task with its Thread.
 </blockquote>
 
-### thread scheduling
+## thread scheduling
 
 [Scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) is fundamental to computation itself. It crosses the boundary between abstract logic and real computing resources under the control of a multitasking [Operating System](https://en.wikipedia.org/wiki/Operating_system) (OS). Scheduling is not just about time; it is about the time when computing resources will be available.
 
@@ -32,7 +32,7 @@ Both the *Task* and the *Thread* (coincidentally?) exist in the abstract logic o
 *   in the OS, the Task or [Process](https://en.wikipedia.org/wiki/Process_(computing)) is an *entire* computer program, composed of one or more [threads](https://en.wikipedia.org/wiki/Thread_(computing))
 *   in the CLI, the [Task](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netstandard-2.0) is a grouping of [statements and/or expressions](https://en.wikipedia.org/wiki/Statement_(computer_science)), running on a [Thread](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?redirectedfrom=MSDN&view=netstandard-2.0) (usually asynchronously)
 
-### threads of the AppDomain
+## threads of the AppDomain
 
 <blockquote>
 
@@ -43,7 +43,7 @@ One leading benefit of the CLI insinuating itself between OS processes and threa
 
 Another benefit, is the single [execution model](https://en.wikipedia.org/wiki/Execution_model) implemented in the [Common Language Runtime](https://en.wikipedia.org/wiki/Common_Language_Runtime) (CLR), featuring its [Just-in-Time (JIT) compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation). The CLR can be thought of as one throat to choke when it comes to security issues around the successful isolation of the `AppDomain`.
 
-### threads of the thread pool
+## threads of the thread pool
 
 Most threads for most programmers come from a [thread pool](https://en.wikipedia.org/wiki/Thread_pool) which is a [task queue](https://en.wikipedia.org/wiki/Task_queue) related to the all-important scheduling mentioned above. Windows programmers who are familiar with [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017?&OCID=AID739534_SEM_RNDRbyuB) or [Internet Information Server](https://www.iis.net/) (IIS) will have been introduced to the thread pool concept. According to Joe Duffy, in *[Concurrent Programming on Windows](https://www.amazon.com/Concurrent-Programming-Windows-Joe-Duffy/dp/032143482X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=032143482X)*:
 <blockquote>
@@ -53,11 +53,11 @@ Both Windows and the CLR offer different variants of the thread pool idea that a
 
 On the [client side](https://en.wikipedia.org/wiki/Client-side), Windows Windows Presentation Foundation (WPF) is [designed with two default threads](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/threading-model), one for handling rendering and another for “managing the UI”—this latter thread borrows from the tradition of the [event loop](https://en.wikipedia.org/wiki/Event_loop), leading developers down into the often slippery slope of [event driven programming](https://en.wikipedia.org/wiki/Event-driven_programming) for the [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI).
 
-### thread safety
+## thread safety
 
 [Thread safety](https://en.wikipedia.org/wiki/Thread_safety) is about preventing [race conditions](https://en.wikipedia.org/wiki/Race_condition#Computing) and [deadlocks](https://en.wikipedia.org/wiki/Deadlock). Chapter 11 of Joe Duffy’s book, “Concurrency Hazards,” groups race conditions and deadlocks under “correctness hazards” and “liveness hazards,” respectively.
 
-### thread memory allocation and the Garbage Collector
+## thread memory allocation and the Garbage Collector
 
 Chapter three of Duffy’s book, “Threads,” states:
 <blockquote>
@@ -72,7 +72,7 @@ There are two leading disadvantages to the use of the GC:
 1.  several times more memory is required (as much as five times, according to [Matthew Hertz and Emery D. Berger (2005)](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)#cite_note-5))
 2.  noticeable delays when generations reach millions
 
-### type safety
+## type safety
 
 Before threads can be scheduled at runtime, the compile time of the Common Language Infrastructure ensures [type safety](https://en.wikipedia.org/wiki/Type_safety), starting with the [Common Type System](https://en.wikipedia.org/wiki/Common_Type_System) (CTS) and leading into well-typed rules of [covariance and contravariance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)).
 

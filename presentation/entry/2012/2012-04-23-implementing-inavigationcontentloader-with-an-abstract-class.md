@@ -31,7 +31,7 @@ This effectively implies that you *must* define `UriMapper` in <acronym title="E
 
 It turns out that I need to implement `INavigationContentLoader` because it has no dependency on `UriMapper` (and its associated conventions) and because it is friendly to my <acronym title="Managed Exensibility Framework">MEF</acronym>-based composition. By wildly misinterpreting the work of David Poll (and, perhaps, the life’s work of Jeffrey Richter), I actually find it useful to implement an interface with an abstract class. I call it `NavigationContentLoader`. My reasons for doing this is because the `CancelLoad()` and `EndLoad()` members of `INavigationContentLoader` can have a default implementation (copied directly from David Poll). I mark methods `BeginLoad()` and `CanLoad()` abstract—declaring the intent that these members *must* be implemented. This intent becomes content in `BiggestBoxNavigationContentLoader`.
 
-### Concerns of BiggestBoxNavigationContentLoader…
+## Concerns of BiggestBoxNavigationContentLoader…
 
 The `INavigationContentLoader` interface brings us the concept of the “current URI,” the current [fragment identifier](http://en.wikipedia.org/wiki/Fragment_identifier) representing a resource in the Silverlight application and the “target URI,” the next fragment identifier. It follows that the `BiggestBoxNavigationContentLoader` is concerned with:
 
@@ -39,7 +39,7 @@ The `INavigationContentLoader` interface brings us the concept of the “current
 *   Parsing the “target URI” to map to type names of pages—and to extract parameters (user-control or packed-XAML sample names).
 *   ‘Caching’ “target URI” parameter (user-control or packed-XAML sample name) to be inspected by the current page during the `OnNavigatedTo()` call (when the page finds a name it can use then the page loads a sample into a child window).
 
-### Supporting Deep Linking in a MEF-Composed Silverlight Application
+## Supporting Deep Linking in a MEF-Composed Silverlight Application
 
 This ‘caching’ behavior is very important because of the need to support “[deep linking](http://en.wikipedia.org/wiki/Deep_linking)” into the Silverlight application. This support is challenging because a deep link can indicate a resource in the Silverlight application that is not currently available because of the asynchrony of <acronym title="Managed Exensibility Framework">MEF</acronym> Composition. It follows that such an indicator has to be ‘cached’ until the application is composed.
 

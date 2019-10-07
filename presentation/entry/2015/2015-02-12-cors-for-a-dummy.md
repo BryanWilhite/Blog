@@ -14,7 +14,7 @@ I’ve asked this StackOverflow.com question: “[Is it possible to verify CORS 
 *   .NET Security should prevent spoofing/mocking requests: the `Origin` header has to match a live server actually at the origin.
 *   You should be able to use `OPTIONS` http requests to obtain response headers that provide information—like CORS information.
 
-### Related Links
+## Related Links
 
 *   “[An Introduction to Content Security Policy](http://www.html5rocks.com/en/tutorials/security/content-security-policy/)”
 *   “[Wei Lu: HTTP Headers—The Simplest Security—JSConf.Asia 2014](https://www.youtube.com/watch?v=rWZXn_Krg38&feature=youtube_gdata_player)”

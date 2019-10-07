@@ -37,7 +37,7 @@ Then I move `history_bak_tmp.txt` over `history_bak.txt`. I can then cherry-pick
 
 I have this “weird” expectation that my history file will settle down into about a dozen commands used routinely. Any spike in command usage means something abnormal has happened—prompting the need to clear the bash history again.
 
-### Related Links
+## Related Links
 
 *   “[how to clear bash history and what to watch out for](http://www.giannistsakiris.com/2007/09/13/how-to-clear-bash-history-and-what-to-watch-out-for/)”
 *   “[How to clear bash history completely?](http://askubuntu.com/questions/191999/how-to-clear-bash-history-completely/331655)”

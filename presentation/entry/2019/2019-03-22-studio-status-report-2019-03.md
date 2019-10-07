@@ -13,7 +13,7 @@
 }
 ---
 
-### excited about Songhay System being on NPM
+## excited about Songhay System being on NPM
 
 <div style="text-align:center">
 
@@ -36,7 +36,7 @@ Today the studio development schedule looks like this:
 
 I assume that this work can be completed in 2019. No more studio emergencies going on—*for years*.
 
-### the GiHub credentials drama solved?
+## the GiHub credentials drama solved?
 
 Long story short: reinstalling [Microsoft Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest) appears to have fixed the problem.
 

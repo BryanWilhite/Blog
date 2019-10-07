@@ -172,7 +172,7 @@ chocolatey-uninstall.extension 1.1.0
 mm-choco.extension 0.0.3
     
 
-### Related Links
+## Related Links
 
 *   [Commands Reference](https://chocolatey.org/docs/commands-reference)
 *   [PowerShellGet and PackageManagement in PowerShell Gallery and GitHub](https://blogs.msdn.microsoft.com/powershell/2016/09/29/powershellget-and-packagemanagement-in-powershell-gallery-and-github/)

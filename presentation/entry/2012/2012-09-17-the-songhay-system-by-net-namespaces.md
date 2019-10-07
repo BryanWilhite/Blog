@@ -11,7 +11,7 @@
 
 Eventually the following should be generated with automation:
 
-### Songhay Core
+## Songhay Core
 
 General-purpose libraries of the Songhay System:
 <table class="WordWalkingStickTable"><tr><td>
@@ -76,7 +76,7 @@ General-purpose library for MVVM in <acronym title="Windows Presentation Foundat
 General-purpose .NET Framework library of the Songhay System (supporting .NET 3.0 and above).
 </td></tr></table>
 
-### Songhay Data Access
+## Songhay Data Access
 
 Features the GenericWeb schema…
 <table class="WordWalkingStickTable"><tr><td>
@@ -129,7 +129,7 @@ General-purpose libraries for Office Word 2010.
 General-purpose libraries for Open XML.
 </td></tr></table>
 
-### Songhay Data Input Tools
+## Songhay Data Input Tools
 
 <table class="WordWalkingStickTable"><tr><td>
 
@@ -169,7 +169,7 @@ Domain Service and Silverlight host of GenericWeb editor.
 Specialized editor and Domain Service host of the `WebKinteSpace` GenericWeb database.
 </td></tr></table>
 
-### Songhay Presentation Applications
+## Songhay Presentation Applications
 
 <table class="WordWalkingStickTable"><tr><td>
 

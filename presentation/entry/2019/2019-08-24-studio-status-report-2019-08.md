@@ -13,11 +13,11 @@
 }
 ---
 
-### month-7 was about moving the kinté space Blog into an 11ty pipeline
+## month-7 was about moving the kinté space Blog into an 11ty pipeline
 
 *11ty pipeline for kintespace.com Blog.* I am almost certain that end-of-month-8 or early month 9 will see the re-launch of the kintespace.com Blog *without* WordPress! Success here will make *the rasx() context* a standalone Songhay Publication on an 11ty production pipeline. This implies that I finally see the way to use 11ty to write to a sibling folder or a folder of another parent—this means every presentation/publication can have its own repo👍 This implies I can make *some* presentations/publications public on GitHub and use them as a guide for any sophisticated, 3<sup>rd</sup>-party contributors in future💪💡
 
-### month-8 is about SSD and/or motherboard failure and Daz3D AppHangTransient errors
+## month-8 is about SSD and/or motherboard failure and Daz3D AppHangTransient errors
 
 *SSD and/or motherboard failure.* My internal hardware journal is packed full of a miserable adventure that all started with me falsely accusing myself of letting studio hardware age over five years. It turns out that the eldest piece, a Western Digital Black (Scorpio?) 320 GB 2.5" drive from 2011, did *not* fail. Either my Samsung EVO SSD from 2017 dropped into a read-only-mode coma or my Asus M5A97 motherboard from 2015 independently decided there was no operating system volume. This drama left me with a few takeaways:
 
@@ -34,7 +34,7 @@
 
 Until this issue is resolved, I can fall back to my Sager laptop (and an HDMI cable) to work with Daz3D there.😬😒
 
-### sketching out a development schedule (revision 2)
+## sketching out a development schedule (revision 2)
 
 Today the studio development schedule looks like this:
 

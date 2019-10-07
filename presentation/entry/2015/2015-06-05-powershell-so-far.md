@@ -15,7 +15,7 @@
 
 I’ve finally had the opportunity to work with PowerShell full time around Internet Information Services configuration on Windows Server 2012. I would like to roll up a few PowerShell highlights glimmering over the last few weeks. I’ve been playing with PowerShell for over ten years but now I can refresh my resume with new, sustained experience (under the influence of my extensive C# development).
 
-### Before considering modules, look into “dot-sourcing”…
+## Before considering modules, look into “dot-sourcing”…
 
 This is what the cool PowerShell kids call “dot-sourcing”:
 
@@ -26,22 +26,22 @@ This is what the cool PowerShell kids call “dot-sourcing”:
 
 The Scripting Guy [makes it plain](http://blogs.technet.com/b/heyscriptingguy/archive/2009/12/23/hey-scripting-guy-december-23-2009.aspx), “use the dot sourcing operator to run the script so that the functions from the script are part of the calling scope. To dot source the script, you use the dot source operator (a period) followed by the path to the script containing the functions you wish to include in your current scope.”
 
-### Use $null, $true, $false…
+## Use $null, $true, $false…
 
 As a C# guy this trips me up quite a bit. These [*automatic variables*](https://technet.microsoft.com/en-us/library/hh847768.aspx), `$null`, `$true`, `$false`, are just the tip of the PowerShell iceberg.
 
-### No ternary operations…
+## No ternary operations…
 
 [Alexander Taran](http://alex-taran.blogspot.com/2014/07/ternary-operation-powershell.html) and I were looking for the same thing. It’s not there.
 
-### No need to .Trim() PowerShell “here” strings…
+## No need to .Trim() PowerShell “here” strings…
 
 The `.Length` property below will return *0*:
 
     @"
     "@.Length
 
-### Arrays do not sort with piping without .GetEnumerator()
+## Arrays do not sort with piping without .GetEnumerator()
 
 The importance of `.GetEnumerator()` in PowerShell can be quite disconcerting to a C# person like me. I simply to do not use `.GetEnumerator()` explicitly in C# because I’m a LINQ guy with little need to implement `IEnumerable`.
 
@@ -62,7 +62,7 @@ The piping to `sort` in `foreach` is possible only because of the rather non-obv
 …in the preceding command the hash table is sent as a single object; thus there’s nothing for the Sort-Object cmdlet to sort. If we want to sort a hash table by Name we need to use the `GetEnumerator `method, which effectively sends each entry in the hash table across the pipeline as a separate object…
 </blockquote>
 
-### Generate PowerShell Objects from ordered hash tables to sort object properties…
+## Generate PowerShell Objects from ordered hash tables to sort object properties…
 
 PowerShell allows us to make objects on the fly (kind of like anonymous objects in C#) which can be piped into a CSV file for Excel. The `-Property` argument of `New-Object` takes `IDictionary` which is another way of saying *hash table*. Unless the hash table is ordered, `New-Object` will generate the properties in “random” order. In the following example (which might not be the best way), I am generating an ordered hash table from a regular hash table and passing it to `New-Object`:
 
@@ -70,7 +70,7 @@ PowerShell allows us to make objects on the fly (kind of like anonymous objects 
     foreach($i in $hash.Keys.GetEnumerator() | sort) { $orderedHash.Add($i, $hash[$i]) }
     $o = New-Object -Property $orderedHash -TypeName psobject
 
-### Do not use ConvertTo-Csv to write a CSV file, use Export-Csv instead…
+## Do not use ConvertTo-Csv to write a CSV file, use Export-Csv instead…
 
 In “[Use PowerShell to Create CSV File to Open in Excel](http://blogs.technet.com/b/heyscriptingguy/archive/2014/02/04/use-powershell-to-create-csv-file-to-open-in-excel.aspx),” the Scripting Guy shows me how to send the contents of `$o` above to Excel:
 
@@ -78,7 +78,7 @@ In “[Use PowerShell to Create CSV File to Open in Excel](http://blogs.technet.
 
 I’ve noticed that Excel (2010) only supports encodings that are UTF8 or ASCII.
 
-### Treat a PowerShell array like a C# List&lt;T&gt; by using +=…
+## Treat a PowerShell array like a C# List&lt;T&gt; by using +=…
 
 The following function I wrote for IIS inventory reporting demonstrates how we *append* to a PowerShell array (`$paths`):
 
@@ -97,13 +97,13 @@ The following function I wrote for IIS inventory reporting demonstrates how we *
 
 A C# person would likely use `List&lt;string&gt;.Add()` and might have trouble finding the PowerShell equivalent.
 
-### String-interpolate object properties with $()…
+## String-interpolate object properties with $()…
 
 The function above demonstrates how the `$()` syntax is used inside of a string to reach object properties and make object method calls:` "IIS:\Sites\$($site.Name)\$($i.path.Substring(1))"`.
 
 For those familiar with the Razor syntax of ASP.NET MVC, we see that `$()` is similar to `@()` for string interpolation.
 
-### Test-Path works on more than just ‘traditional’ drives…
+## Test-Path works on more than just ‘traditional’ drives…
 
 The following is PowerShell-awesome to me:
 
@@ -116,7 +116,7 @@ The following is PowerShell-awesome to me:
 
 This test, `if (Test-Path "IIS:\Sites\$Site\$AppName")`, checks to see whether an IIS web app exists or not!
 
-### Pipe a stream of hash tables with @{} and ForEach-Object…
+## Pipe a stream of hash tables with @{} and ForEach-Object…
 
 It is easy for me to confuse a hash table with a PowerShell object because this:
 
@@ -183,13 +183,13 @@ For my personal benefit, I must point out that this:
 
 …do the same thing. But the former is more efficient (and easier to read) than the latter. (By the way, I am almost certain that Jeffrey Snover (or someone else) pointed this out publically years ago in writing or in person but I failed to understand its importance. Moreover, I am under the impression that there is a *fundamental* relationship between hash tables and PowerShell objects.)
 
-### Generate an empty text file with PowerShell…
+## Generate an empty text file with PowerShell…
 
 Do this:
 
     "" | Set-Content "default.html" -Encoding UTF8
 
-### Don’t forget about Select-Xml and XPath queries when reading XML files…
+## Don’t forget about Select-Xml and XPath queries when reading XML files…
 
 In the example below, I use `Select-Xml` with an XPath query to read a `web.config` file:
 

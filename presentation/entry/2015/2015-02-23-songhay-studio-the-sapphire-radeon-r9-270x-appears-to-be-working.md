@@ -13,7 +13,7 @@ The [work from 2/18](http://songhayblog.azurewebsites.net/Entry/Show/songhay-stu
 
 So how far did I ‘roll back’? The 290X has 4GB of DDR5 memory; the 270X has 2GB GDDR5—and I am sure that the 270X has no “…award-winning GCN Architecture for unrivalled performance and efficiency.” According a few YouTube videos, the 270X can handle anything 1080P can throw at it—but the cool kids these days are gaming for 4K and beyond.
 
-### The Cooler Master Hyper 212 EVO is too tall for my HTPC case…
+## The Cooler Master Hyper 212 EVO is too tall for my HTPC case…
 
 [<img alt="Amazon.com product" src="http://ecx.images-amazon.com/images/I/4180q2yqPeL.jpg" style="float:right;margin:16px;">](http://www.amazon.com/exec/obidos/ASIN/B0080ATR2Y/thekintespacec00A/ "Buy this product at Amazon.com!")
 

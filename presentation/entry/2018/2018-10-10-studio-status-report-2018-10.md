@@ -13,7 +13,7 @@
 }
 ---
 
-### the new SonghaySystem.com released
+## the new SonghaySystem.com released
 
 [SonghaySystem.com](http://SonghaySystem.com) is released. [I tweeted about it](https://twitter.com/BryanWilhite/status/1049413752955629568) to capture the moment—which was a moment of exhaustion. I would love to say that this release captured all of the Angular-related topics I plan to study but I can’t. These major questions remain:
 
@@ -21,7 +21,7 @@
 *   do Angular 6.x projects replace or compete with nrwl workspaces?
 *   will my Angular builds actually need Apollo and GraphQL (on ASP.NET Core) or will converting my Promises patterns to `async`-`await` patterns do just fine?
 
-### the job market and comp-sci theories
+## the job market and comp-sci theories
 
 I have been looking for a new .NET job for *at least* two years. The previous sentence implies a lot of things so [check me out on LinkedIn](https://www.linkedin.com/in/wilhite/) to get timings right: I resigned from my previous post two weeks before my final day, 8/31/2018.
 

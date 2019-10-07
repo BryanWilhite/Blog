@@ -21,7 +21,7 @@ The [SonghayCore project](https://github.com/BryanWilhite/SonghayCore) is now re
 
 Take a peek today at [my GitHub repository activity](https://github.com/BryanWilhite?tab=repositories) and you will see two projects with a warm heartbeat: [nodejs](https://github.com/BryanWilhite/nodejs) and [dotnet-core](https://github.com/BryanWilhite/dotnet-core). These repositories expose my self-education investments in Node.js and .NET Core (featuring ASP.NET Core). This work has provided me with an opinionated approach to how I plan to do my non-XAML-related UI/UX work.
 
-### my commitment to Aurelia and angular.io
+## my commitment to Aurelia and angular.io
 
 My work on [nodejs](https://github.com/BryanWilhite/nodejs) should betray a commitment to [Aurelia](https://github.com/BryanWilhite/nodejs/tree/master/aurelia-official) and [angular.io](https://github.com/BryanWilhite/nodejs/tree/master/angular.io-official). The gumbo of technologies that make up Aurelia are then broken into subtopics of study:
 
@@ -33,20 +33,20 @@ My work on [nodejs](https://github.com/BryanWilhite/nodejs) should betray a comm
 
 **Gulp.** Yes, Aurelia is dependent on [Gulp](https://gulpjs.com/) as well. This encourages me to continue my investment in this technology. My `gulp-and-css-handling`[folder](https://github.com/BryanWilhite/nodejs/tree/master/gulp-and-css-handling) reinforces this intent.
 
-### my commitment to ASP.NET Core and Hugo
+## my commitment to ASP.NET Core and Hugo
 
 [Hugo](https://gohugo.io/) is retro-revolution back to static-file web sites. It can be used with [Netlify](https://www.netlify.com/) to replace the venerable WordPress. The intention here is to investigate Hugo with view to use this technology as the primary way to present content on the Web. My `md-hugo`[folder](https://github.com/BryanWilhite/nodejs/tree/master/md-hugo) is the first step in this direction.
 
 The SEO story for ASP.NET Core supporting Aurelia or Angular is stellar. My `dotnet-spa-services`[folder](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-spa-services) was nothing short of a revelation to me, going a long way toward preventing non-Google Web crawlers from ignoring [SPA](https://en.wikipedia.org/wiki/Single-page_application) content. This SPA-oriented approach to ASP.NET Core is the *second* reason why the investment in ASP.NET Core will be deep. The first is the REST-service story in the time-frame of .NET Standard 2.0.
 
-### my reduced use of Visual Studio and increased use of Visual Studio Code
+## my reduced use of Visual Studio and increased use of Visual Studio Code
 
 I see the need for full-blown Visual Studio for all of my XAML applications and most of my REST-based services. Everything else will be in cross-platform, shell-oriented workflows under Visual Studio Code. Moreover, the REST solutions will be compatible with Visual Studio and Code.
 
-### the functional-language bias looming in the background
+## the functional-language bias looming in the background
 
 My self-education work in the `dotnet-fable-minimal`[folder](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-fable-minimal), the `dotnet-giraffe-template`[folder](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-giraffe-template) and the `elm-minimal`[folder](https://github.com/BryanWilhite/nodejs/tree/master/elm-minimal) indicate my desire to transition some (perhaps most) of my C# investments to F#. The main reasoning for this is to formally control complexity.
 
-### Q4 2018
+## Q4 2018
 
 I actually will consider it failure: finding myself in Q4 2018 having moved not very far from my current location, still presenting Angular 1.x to the Web. The preparation has been quite substantial and the professional introspection quite deep. I am optimistic that, barring tragedy, my next moves on the Web will be quite satisfying.

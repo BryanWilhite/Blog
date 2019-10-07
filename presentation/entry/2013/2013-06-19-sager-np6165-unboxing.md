@@ -16,20 +16,20 @@
 Four years ago I wrote a five-part series about my first Sager notebook: “[Sager NP7680 Unboxing](http://kintespace.com/rasxlog/?p=1477),” “[Sager NP7680 Unboxing: the Box](http://kintespace.com/rasxlog/?p=1525),” “[Sager NP7680 Unboxing: The Packing Tape](http://kintespace.com/rasxlog/?p=1563),” “[Sager NP7680 Unboxing: Special Keys and the Fingerprint Reader](http://kintespace.com/rasxlog/?p=1601)” and “[Sager NP7680 Unboxing: Explicit SPDIF Support!](http://kintespace.com/rasxlog/?p=1673)” I guess I was five times more interested in blogging five years ago as I see only *one* Blog post about my new Sager NP6165 (or Clevo W150ER)!
 [<img alt="Sager NP6165 Unboxing" src="http://farm8.staticflickr.com/7452/8759650188_aa12459c58.jpg">](http://www.flickr.com/photos/wilhite/8759650188/ "Sager NP6165 Unboxing")
 
-### First, the old Sager…
+## First, the old Sager…
 
 My old Sager aged very well. Those ‘stiff keys’ I complained about the help to “ruggedize” the NP7680. There were only two issues (becoming a problem at the very end):
 
 *   My old Sager’s CMOS battery died so the machine can’t keep the current date and time when powered off overnight. Replacing the battery is major surgery: it’s located under the keyboard and appears to be taped down. I could not figure out how to open the chassis to see exactly what was going on…
 *   My old Sager’s fan vent on the left side began to crumble. The integrity of the plastic grille began to fail under *years* of hot air blasting through. My new Sager has a different fan-cooling theory based on short bursts instead of a constant push. I think this cooling strategy will save the plastic from becoming brittle.
 
-### New Chiclet Keyboard
+## New Chiclet Keyboard
 
 [<img alt="Sager NP6165 Unboxing" src="http://farm6.staticflickr.com/5461/8759649938_1e74033011.jpg">](http://www.flickr.com/photos/wilhite/8759649938/ "Sager NP6165 Unboxing")
 
 The [Chiclet keyboard](http://en.wikipedia.org/wiki/Chiclet_keyboard) design is now no longer a premium feature I suppose; this much, much better design has finally trickled down to my lowly price point. It’s a loud and clear answer to my one and only persistent complaint about my old Sager. I do, however, have to get used to the new layout—especially the way the numeric/navigation keys are arranged on the right side. Overall this is an improvement.
 
-### Windows-8-Ready Touchpad
+## Windows-8-Ready Touchpad
 
 [<img alt="Sager NP6165 Unboxing" src="http://farm4.staticflickr.com/3706/8759650052_923d8121cc.jpg">](http://www.flickr.com/photos/wilhite/8759650052/ "Sager NP6165 Unboxing")
 
@@ -37,7 +37,7 @@ The Sager NP6165 touchpad supports Windows 8 pinches and swipes. It is, of cours
 
 The touchpad fingerprint reader is not working correctly. I assume that it’s a software problem because my old Sager had no problems with this whatsoever. Perhaps Windows 8.1 will fix this…
 
-### Specs
+## Specs
 
 <table class="WordWalkingStickTable"><tr><td>
 
@@ -131,7 +131,7 @@ Additional Battery Pack
 BAT-6165, NP6165 Smart Li-ION Battery Pack (6 Cell, 62.16Wh) [$95.00]
 </td></tr></table>
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

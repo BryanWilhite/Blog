@@ -28,7 +28,7 @@ I need to record my personal satisfaction with ASP.NET Web API ‘readiness’ (
 
 And now the punchline: All of these learnings have to migrated to ASP.NET Core. Before this great migration, I will need to write notes about each of these items to preserve my progress in these areas and prevent relearning-bottlenecks in future.
 
-### Related Links
+## Related Links
 
 *   “[An Introduction to Claims](https://msdn.microsoft.com/en-us/library/ff359101.aspx)”
 *   “[Raffaele Rialdi on Security in ASP.NET Core](https://channel9.msdn.com/Blogs/Technology-and-Friends/tf426)”

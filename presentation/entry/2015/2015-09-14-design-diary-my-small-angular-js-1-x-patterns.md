@@ -15,7 +15,7 @@
 
 My recent work with [the redesign/upgrade of kintespace.com](http://codepen.io/rasx/pen/dPoPbV) leaves me with a few Angular JS patterns that must be memorialized here, literally for my own (mental) health.
 
-### Using a data Service with dirt-simple caching based on $q
+## Using a data Service with dirt-simple caching based on $q
 
 ‘Dirt-simple’ caching is a system that loads data once and stores the data until the system restarted. I am sure there is a more academic name for this design—nevertheless, this is what ‘dirt-simple’ caching looks like as an Angular service:
 
@@ -32,7 +32,7 @@ return cachedResponse? $q.when(cachedResponse) : $http.get(uri).then(…);
 
 That last line—that ternary operation featuring `$q.when()` ([from Angular JS](https://docs.angularjs.org/api/ng/service/$q)) makes things dirt simple.
 
-### Using ngView *and* custom directives
+## Using ngView *and* custom directives
 
 I started using `ngView` to *avoid* delving into building my own directives. In “[My Angular JS 1.x single-page layout](http://songhayblog.azurewebsites.net/),” I am making myself familiar with the need to use *very* simple custom directives—typically header and footer directives, wrapping `ngView`—to give me a little headroom in layout expressiveness. Here’s an example of a header Directive:
 
@@ -46,7 +46,7 @@ var doHeaderDirective = function () {
 };
 ```
 
-### Using a Client View Model to provide binding for a Directive outside of ngView scope
+## Using a Client View Model to provide binding for a Directive outside of ngView scope
 
 The header Directive shown above, has its scope option set to `false` (which means it will inherit its Controller scope). But when the header is loaded outside of `ngView` what controller is associated with it? To answer this question, I’ve developed this pattern using `ngController`:
 
@@ -64,7 +64,7 @@ The header Directive shown above, has its scope option set to `false` (which mea
 
 I can define View Model inside of `clientController` that can be used for data binding, etc. *outside* of `ngView`. This may be obvious to many Angular folks but I can see how a beginner can fall in the trap of thinking one should use `ngView` *or* `ngController` instead of *both* of them.
 
-### Using Angular UI pagination with Underscore-JS sorting
+## Using Angular UI pagination with Underscore-JS sorting
 
 My little [gist about paging and sorting](https://gist.github.com/BryanWilhite/5a634fd6ce237d6d0107) shows key fragments of the design, featuring a Pagination Service driven by a Controller that uses [Underscore JS](http://underscorejs.org/) to sort the data before passing it to this service. We of course *see* the pagination through the markup in the partial, [documented on GitHub](http://angular-ui.github.io/bootstrap/).
 
@@ -88,7 +88,7 @@ $scope.clientVM.dataService.loadData("index-" + indexMetaId).then(function (resp
 });
 ```
 
-### Using ngClass, $parent, $first and the Client View Model with ngRepeat
+## Using ngClass, $parent, $first and the Client View Model with ngRepeat
 
 The import discovery for me here is `ngClass`. I feel like I should have learned about `ngClass` before I started building Angular JS sites—this is a super-easy way to associate CSS class names with Controller logic (it is effectively the equivalent of `.addClass()`, `.hasClass()`, `.removeClass()`, `.toggleClass()` in jQuery).
 
@@ -100,7 +100,7 @@ The use of `$parent` in the partial implies that the partial is loaded in `ngVie
 
 The use of `$first` in the markup is passed to the `isFirst` parameter of `clientVM.isIndexSubsetHeaderSelected()`. It is used to make a default selection for initial load.
 
-### Using a custom function for a filter with nqRepeat
+## Using a custom function for a filter with nqRepeat
 
 This declaration refers to a function, `vm.filterGroups()`:
 

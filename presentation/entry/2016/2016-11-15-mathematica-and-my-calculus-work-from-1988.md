@@ -32,7 +32,7 @@ To conclude question #23, I am going to use years of software development experi
 
 I do not expect the 1988 version of me to *ever* figure out what I’ve done here. I am very curious to know whether the teachers of the 21<sup>st</sup> century would embrace this approach.
 
-### My take on “teaching kids how to code”…
+## My take on “teaching kids how to code”…
 
 There is no one, right way to teach any subject. In the case of “coding,” this course is meant to be a general-purpose skill applied to a myriad of disciplines. You could teach coding from a web-browser, model trains or robotics point of view—any point of view that is within the realm of what Stephen Wolfram calls “[computational thinking](http://blog.stephenwolfram.com/2016/09/how-to-teach-computational-thinking/).”
 

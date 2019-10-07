@@ -22,7 +22,7 @@ Yes, I feel like I’m the only one in the world (outside of Redmond) using the 
 Also there is an “enable code coverage” option I have not tried out yet:
 [<img alt="vstest.console.exe EnableCodeCoverage" src="https://farm6.staticflickr.com/5580/15056654695_9b65db23d8_o_d.png">](https://www.flickr.com/photos/wilhite/15056654695/ "vstest.console.exe EnableCodeCoverage")
 
-### Related Links
+## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 

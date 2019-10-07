@@ -11,7 +11,7 @@
 
 I had to learn one very, very important thing about the software development business: green-field skills are far less valuable than brown-field skills. In the green field there are a *finite* number of ways to build a software solution “correctly” (according to widely accepted patterns and practices). However, in the brown field, there are an *infinite* number of ways of build incorrectly—it follows that brown-field skills center upon the ability to quickly see into the infinite and develop a strategy to undo what was incorrectly done *and still* add new enhancements to the solution. I do *not* have this talent. The best I can do is write down a few scraps dragged out of the bottomless pit gaping in the shadows of <acronym title="Extensible Application Markup Language">XAML</acronym>-based, <acronym title="Model">MVVM</acronym> design.
 
-### The Fat-Getter in View Model Properties
+## The Fat-Getter in View Model Properties
 
 *Do* trust the XAML binding subsystem to display the *pre-calculated contents* of your encapsulated fields. *Do not* unintentionally expect the XAML binding subsystem to call a long-running operation in your code.
 
@@ -29,7 +29,7 @@ By convention, the MVVM pattern expects us to bind to the public properties of a
 
 When we bind to `MyNumericProperty` in XAML, a call to `MyLongRunningOperation()` will execute every time the binding subsystem decides to read from `MyNumericProperty`. This sort business going on in a grid with hundreds of rows can bring an application to its knees!
 
-### Calls to RaisePropertyChanged()Leaking out of Setters
+## Calls to RaisePropertyChanged()Leaking out of Setters
 
 In our terrifying code sample above we can see that `MyNumericProperty` has a fat getter and essentially no setter. When a programmer new to (or unconcerned with) MVVM runs into this corner, he can get out of this mess by calling `RaisePropertyChanged("MyNumericProperty")` throughout the View Model, outside of the definition of the Property. In my opinion, this effectively makes the mess worse: *Do not* unintentionally expect the XAML binding subsystem to call a long-running operation in your code.
 
@@ -60,13 +60,13 @@ These lines are placed in the following View Model locations:
 
 Knowing where (and when) to update data is both a science and an art. It is quite tragic when anti-patterns prevent such glorious exploration.
 
-### No Discipline around Using a Base View Model Class
+## No Discipline around Using a Base View Model Class
 
 [<img alt="Amazon.com product" src="http://ecx.images-amazon.com/images/I/41ZkmDaQ%2BbL.jpg" style="float:right;margin:16px;">](http://www.amazon.com/exec/obidos/ASIN/B0038KX9FW/thekintespacec00A/ "Buy this product at Amazon.com!")
 
 Notice how I fully-qualified the <acronym title="Object Oriented Programming">OOP</acronym> inheritance of members `base.RaisePropertyChanged` and `base.PropertyChanged`. This denotes that there is a base View Model class used by all domain-specific View Models in the application. This also strongly suggests that this base View Model in concerned with implementing `INotifyPropertyChanged`. What I am writing here seems obvious to any student of MVVM, learning from the classic 2009 <acronym title="Microsoft Developer Network">MSDN</acronym>[article](http://msdn.microsoft.com/en-us/magazine/dd419663.aspx) by Josh Smith. But, for those who are new to (or unconcerned with) MVVM, this use of a single base class explicitly concerned with MVVM may seem strange. We get such a base class for free in frameworks like [MVVM Light](http://www.galasoft.ch/mvvm/) and [Prism](http://msdn.microsoft.com/en-us/library/ff648465.aspx).
 
-### No Discipline around Centralizing/Grouping View Model Logic into Extension Methods
+## No Discipline around Centralizing/Grouping View Model Logic into Extension Methods
 
 One advantage of using a base View Model is the development of an entry point through which the [Open/closed Principle](http://en.wikipedia.org/wiki/Open/closed_principle)—coupled with the [DRY principle](http://en.wikipedia.org/wiki/Don't_repeat_yourself)—can be intentionally expressed. When a programmer becomes a master of deadlines often the DRY principle is sacrificed and we see the same code repeated again and again across View Models through the magic of copy-and-paste (sadly, working with XAML views kind of encourages this). Using extension methods for a base View Model discourages such a violent thrust into the realm of difficult to maintain code.
 
@@ -76,11 +76,11 @@ In addition to using extension methods for a base View Model, here are some othe
 *   Extension methods for `Client.Entity` and `ComplexObject` (RIA services).
 *   Extension methods for `object` is a catch-all for domain-specific procedures.
 
-### Overuse of Event Aggregation and/or Messaging
+## Overuse of Event Aggregation and/or Messaging
 
 My very short 4/2013 article “[Inter-View-Model Communication](http://songhayblog.azurewebsites.net/Entry/Show/inter-view-model-communication)” was a self-critique about my overuse of MVVM Light messaging (which leads to some alternative extension methods exploiting `Microsoft.Practices.ServiceLocation.ServiceLocator`). In the world of Prism, I suspect the overuse of event aggregation when I see ‘too many’ event “payload” data types. This is of course a matter of opinion and, as Steve Jobs said, “Taste.”
 
-### Failing to Design View Model Classes to be Partial Classes
+## Failing to Design View Model Classes to be Partial Classes
 
 The ‘failure’ to design View Model classes to be partial classes is also a matter of taste. Whenever I work with an MVVM-based project I intend to confine my View Models to these concerns:
 
@@ -93,17 +93,17 @@ The ‘failure’ to design View Model classes to be partial classes is also a m
 
 For the sake of maintainability, each of these concerns can become a partial class of the View Model. When I see a View Model class definition file exceeding 500 lines of code, I see an opportunity to reorganize the class into its concerns and use partial classes.
 
-### Eagerly Disregarding Design-Time Concerns
+## Eagerly Disregarding Design-Time Concerns
 
 Sadly, it is very, *very* easy to find seasoned XAML developers that proudly don’t give a damn about the design-time presentation of their work in Visual Studio. Two comments around this pop out to me, “We don’t use Expression Blend…” and “I write my XAML by hand so I don’t need to see a visual layout.” The first comment is admission of poverty and limited vision (usually wrapped in airs of frugal humility). The second comment is saying, “I press Ctrl-F5 and wait at least three seconds to see the visual design of my XAML—sometimes I do this over 100 times a day. That’s only five minutes of lost productivity *for me*.”
 
 What that last comment reveals is a lack of concern for others working with the XAML apart from the original developer of the XAML. No matter how experienced a second (or third) developer is with writing XAML by hand, it will be difficult to quickly *see* what needs to be modified in any XAML layout of reasonable complexity.
 
-### Code Is Not Testable
+## Code Is Not Testable
 
 One of the foundational reasons to use MVVM is to have testable code. No “clean separation” between the Model and the View Model is one surefire way to make UI code not testable. There is no MVVM-specific technique that guarantees testable code. Having testable code is a general “design pattern” topic that is beyond the scope of my MVVM anti-patterns. Whenever I see a XAML project that has no unit tests whatsoever, I cringe and wait for the inevitable pig-farm slop to fall on me! In the very least there should be data access/manipulation tests…
 
-### Related Resources
+## Related Resources
 
 <table class="WordWalkingStickTable"><tr><td>
 

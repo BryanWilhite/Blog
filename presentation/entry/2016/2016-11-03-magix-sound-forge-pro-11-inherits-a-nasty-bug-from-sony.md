@@ -31,7 +31,7 @@ Clicking **No, launch the troubleshooter** should invoke the Program Compatibili
 
 Click the **Test the program…** button to run Sound Forge without elevated privileges.
 
-### Related Links
+## Related Links
 
 *   MAGIX Support: “[My program will not start](https://support2.magix.com/customer/en/faq/my-program-will-not-start-2)”
 *   “[Sony have sold ACID, Sound Forge, more to MAGIX](http://cdm.link/2016/06/sony-just-sold-acid-sound-forge-magix/)”

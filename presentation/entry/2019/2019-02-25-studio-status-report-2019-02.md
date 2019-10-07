@@ -13,7 +13,7 @@
 }
 ---
 
-### One “pure” NPM package and two Angular packages
+## One “pure” NPM package and two Angular packages
 
 After another miserable, 20-day siege, these are the repositories I have committed to that develop Javascript code reuse in the Songhay Studio:
 
@@ -32,7 +32,7 @@ The bottom line: “pure” NPM packages worked out kind-of-OK while Angular pac
 
 This misery has [led me to understand](https://github.com/BryanWilhite/songhay-ng-workspace/issues/4#issuecomment-465367238) why `nrwl` would still be a thing in the Angular 6.x time-frame.
 
-### the GiHub credentials drama
+## the GiHub credentials drama
 
 The ‘git on Windows is not working with GitHub credentials’ error (mentioned [last month](http://songhayblog.azurewebsites.net/blog/entry/studio-status-report-2019-01)) is peculiar to one machine. I set up a new Windows 10 VM recently and *do not* have this issue. This leads me to wonder how to completely clean/reset the Windows 10 credentials stack.
 

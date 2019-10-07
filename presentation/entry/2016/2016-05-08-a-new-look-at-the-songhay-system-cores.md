@@ -53,11 +53,11 @@ This is already released on CodePlex and is quite stable. I would move it to Git
 These are models for the GenericWeb which is stable (I worked very hard on this last year and maybe the year before that—but is always open for reorganization). My long-time relationship with Entity Framework is here.
 </td></tr></table>
 
-### Songhay DAR Activities will work as Azure Web Jobs?
+## Songhay DAR Activities will work as Azure Web Jobs?
 
 I am almost certain that DAR Activities—with little re-factoring—can work as Azure Web Jobs. I’ll need to investigate and experiment. Doing this allows me to back out of Azure Web Jobs in case of vendor ‘betrayal.’ This would prove (only to me) that the Songhay System ‘core’ is designed to be flexible in the cloud and on the Desktop.
 
-### Songhay Data Services
+## Songhay Data Services
 
 So DAR (eventually) feeds Songhay Data Services—built on ASP.NET Web API hosted on Azure (“App Services”). The ‘core’ of these data services is almost identical to the DAR core except for the following:
 <table class="WordWalkingStickTable"><tr><td>

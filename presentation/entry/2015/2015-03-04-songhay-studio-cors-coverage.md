@@ -15,19 +15,19 @@ There are three areas where Cross-origin resource sharing ([CORS](http://en.wiki
 2.  Web API
 3.  Apache `.htaccess`
 
-### Azure Blob Storage
+## Azure Blob Storage
 
 Currently I am calling `CloudBlobClient.SetServiceProperties()` to allow selected origins from a typical integration test. I suppose that can be a Web Job from [Songhay Index](http://songhayindex.azurewebsites.net/) but it’s not really a pressing issue.
 
 CORS for blob storage is currently needed to expose a very small Web font collection (which is quite exciting for me since I’ve been a font lover since before the meme “desktop publishing” was spoken is cutting-edge seriousness).
 
-### Web API
+## Web API
 
 The NuGet [package](http://www.nuget.org/packages/Microsoft.AspNet.WebApi.Cors/) `Microsoft.AspNet.WebApi.Cors` allows me to declare the `EnableCors` attribute on my `ApiController` to allow selected origins. My [Songhay Index](http://songhayindex.azurewebsites.net/) Web API controllers stand in front of the content in Azure Blob Storage.
 
 CORS for Web API is currently needed to expose JSON blobs (specifically, `DisplayItemModel` indices) for Web-based clients.
 
-### Apache .htaccess
+## Apache .htaccess
 
 I had the choice of configuring CORS in the `httpd.config` file(s) (I use XAMPP on Ubuntu) or simply with `.htaccess`. I went with `.htaccess` like this:
 

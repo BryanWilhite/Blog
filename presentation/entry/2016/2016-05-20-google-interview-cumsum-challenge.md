@@ -81,7 +81,7 @@ As soon as [Google owns a programming language that has LINQ-like syntax](http:/
 
 It may be of interest to mention that I would likely not be able to solve this problem again in another interview. I tend to fail to memorize solutions to problems that I have already written down. Programmers in the real world are experts at looking stuff up—even the stuff we’ve written down in the past. The luxury of memorizing even 5% of what we have learned comes from socializing with—and even dearly *befriending*—others who truly love to hear about these little adventures. Some of us do not have this luxury—and we literally pay for it in terms of velocity of career growth.
 
-### Related Links
+## Related Links
 
 *   [The Go Programming Language](https://golang.org/)
 *   `go-linq`: “[.NET's Language Integrated Query (LINQ) library for Go](http://ahmetalpbalkan.github.io/go-linq/)”

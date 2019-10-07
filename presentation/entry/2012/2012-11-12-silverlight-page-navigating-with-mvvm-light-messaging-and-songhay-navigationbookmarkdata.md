@@ -68,11 +68,11 @@ Search Key
 A key for the conventional application Search: `"Search"`
 </td></tr></table>
 
-### Using NavigationBookmarkData
+## Using NavigationBookmarkData
 
 All Navigation commands are ‘tested’ by `NavigationBookmarkData` to determine whether the Navigation location exists. Passing `NavigationBookmarkData` tests means that a Bookmark is found and a call to `HtmlPage.Window.NavigateToBookmark(bookmark)` can be made. In my early designs, I would have considered a call to `NavigateToBookmark` as ‘indirect’—why can’t I touch the Navigation Frame directly? Calling out to the `HtmlPage.Window` is indeed the start of round trip from the internals of the Silverlight application out to the hosting Web browser and then back to the Silverlight application. Why do this? I do this because this design makes “deep linking” in Silverlight possible. This design has only one way to handle Navigation commands: through changing the “hash tag” of the browser location—classic, Web 2.0, single-page-app navigation.
 
-### Navigation Frame Eventing
+## Navigation Frame Eventing
 
 My Generic Web Editor Navigation Frame handles the `Frame.Navigating` event by sending an MVVM Light message of type `LightNavigationMessage&lt;NavigatingCancelEventArgs&gt;`. This event is fired by typing in a hash location in the browser or by an internal Navigation command. My conventional `LightNavigationMessage&lt;T&gt;` checks the location to determine whether it is “well formed”; when it is well-formed then the location is parsed. The message is received in the Client View Model like this:
 
@@ -96,11 +96,11 @@ The `HandleClientNavigating()` routine uses `LightNavigationMessage&lt;Navigatin
 
 The `UriMapper` has a conventional relationship with the `NavigationBookmarkData` Bookmark keys thought the declaration of the `{key}` placeholder above. It follows that the same key is used to display a page and invoke an application command thought this loose convention.
 
-### Yes, it can get more complicated…
+## Yes, it can get more complicated…
 
 In the spring of 2012, I was working on the [Silverlight BiggestBox](http://slbiggestbox.azurewebsites.net/), my personal teaching/practice tool for Silverlight. Because of <acronym title="Managed Exensibility Framework">MEF</acronym> (and inexperience) I developed a more complication Navigation strategy. I touched upon this in “[Implementing INavigationContentLoader with an abstract class…](http://songhayblog.azurewebsites.net/entry/show/implementing-inavigationcontentloader-with-an-abstract-class)” I would like to take some the ideas shared here and revisit the BiggestBox.
 
-### Related Resources
+## Related Resources
 
 <table class="WordWalkingStickTable"><tr><td>
 

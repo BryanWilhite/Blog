@@ -17,7 +17,7 @@
 }
 ---
 
-## Songhay Studio: finally, some flippant remarks about XAML Validation
+# Songhay Studio: finally, some flippant remarks about XAML Validation
 
 I’ve been deprioritizing a look into <acronym title="Extensible Application Markup Language">XAML</acronym>-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation:
 

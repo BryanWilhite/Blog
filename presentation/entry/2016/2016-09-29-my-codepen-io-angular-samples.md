@@ -15,7 +15,7 @@
 
 Organizing in the studio! This handmade rollup of my CodePen.io pens must be done (but I am sure CodePen.io will have a reporting feature—besides [that public-Pen RSS feed](https://blog.codepen.io/documentation/api/rss-feeds/)—that will do this for me one day). For this document, I have categorized my pens into ‘generic’ and ‘hand-synched’—the former represents the original codepen.io and the latter is my pushing the envelope, trying to use codepen.io like a cross between Visual Studio Online and Expression Blend. I do understand the pro version of codepen.io gives me storage for asset hosting and may consider this in future (especially when there’s some kind of Visual Studio plugin out there integrating with codepen.io).
 
-### Generic Angular pens:
+## Generic Angular pens:
 
 <table class="WordWalkingStickTable"><tr><td>
 
@@ -145,7 +145,7 @@ odetocode.com: Using ngOptions In AngularJS
 [http://codepen.io/rasx/pen/VYYZEa](http://codepen.io/rasx/pen/VYYZEa)
 </td></tr></table>
 
-### Hand-synched Angular pens:
+## Hand-synched Angular pens:
 
 <table class="WordWalkingStickTable"><tr><td>
 
