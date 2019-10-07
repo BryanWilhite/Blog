@@ -161,13 +161,19 @@ namespace Songhay.Publications.Tests
 
             var finalEdit = entryInfo
                 .ToMarkdownEntry()
-                .WithEdit(i => // frontmatter
+                .WithEdit(i => // frontmatter and h1
                     {
                         var content = i.Content;
 
+                        var inceptDate = i.FrontMatter.GetValue<DateTime>("inceptDate", throwException: false);
+                        if(inceptDate == default(DateTime))
+                        {
+                            this._testOutputHelper.WriteLine($"WARNING {nameof(inceptDate)} is not found. Skipping edit.");
+                            return;
+                        }
+
                         // convert to standard frontmatter:
                         var title = i.FrontMatter.GetValue<string>("title");
-                        var inceptDate = i.FrontMatter.GetValue<DateTime>("inceptDate");
                         var path = "./entry/";
                         var tag = JObject.FromObject(new { extract = i.FrontMatter.GetValue<string>("content") }).ToString();
                         i.WithNew11tyFrontMatter(title, inceptDate, path, tag);
@@ -176,7 +182,7 @@ namespace Songhay.Publications.Tests
                         i.FrontMatter["clientId"] = clientId;
                         i.FrontMatter["documentShortName"] = clientId;
 
-                        i.Content = string.Concat(i.Content, content);
+                        i.Content = (new Regex(@"[\r\n]\# ")).IsMatch(content) ? content : string.Concat(i.Content, content);
                     })
                 .WithEdit(i => // content line breaks
                     {
