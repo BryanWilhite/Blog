@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Introducing: Elasticsearch with Azure File storage [azure.microsoft.com] The Azure API Management Publishing Tool announced [visualstudiogallery.msdn.microsoft.com]#AzureAppService#Azure#AzureAPIM “The service locator pattern..appears in applications tha...",
-  "inceptDate": "2016-04-18T16:17:11.1495388-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-azure-api-management-publishing-tool-announced-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The Azure API Management Publishing Tool announced” and other Tweeted Links…",
+  "documentShortName": "2016-04-18-the-azure-api-management-publishing-tool-announced-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-04-18-the-azure-api-management-publishing-tool-announced-and-other-tweeted-links",
+  "date": "2016-04-18T23:17:11.149Z",
+  "modificationDate": "2016-04-18T23:17:11.149Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The Azure API Management Publishing Tool announced” and other Tweeted Links…"
+  "clientId": "2016-04-18-the-azure-api-management-publishing-tool-announced-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introducing: Elasticsearch with Azure File storage [azure.microsoft.com] The Azure API Management Publishing Tool announced [visualstudiogallery.msdn.microsoft.com]#AzureAppService#Azure#AzureAPIM “The service locator pattern..appears in applications tha...\"\r\n}"
 }
 ---
+
+# “The Azure API Management Publishing Tool announced” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing: Elasticsearch with Azure File storage [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/introducing-elasticsearch-with-azure-file-storage/)
 
@@ -84,3 +90,5 @@
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/UxCF5N4CtZ "Julie Lerman [julielerman]") when github is treated as a replacement for stackoverflow which is treated as a replacement for doing the most basic learning on the topic
 
 [<img alt="Rich Rogers [RichRogersHDS]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RichRogersHDS.jpg">](https://t.co/0hMHqujClN "Rich Rogers [RichRogersHDS]") Programmers force their brains to do things brains were never meant to do, &amp; every one of them is slowly going mad. [[stilldrinking.org]](http://www.stilldrinking.org/programming-sucks)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "\"The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog\" [affiliate-program.amazon.com] CSS Keyframe Animation with Delay Between Iterations [css-tricks.com] Just.js: A library of dependency-free utilities that do just do one ...",
-  "inceptDate": "2016-09-06T16:21:12.5493278-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-mp3-clips-widget-lets-you-play-song-samples-from-amazon-s-drm-free-mp3-catalog-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog” and other Tweeted Links…",
+  "documentShortName": "2016-09-06-the-mp3-clips-widget-lets-you-play-song-samples-from-amazon-s-drm-free-mp3-catalog-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-06-the-mp3-clips-widget-lets-you-play-song-samples-from-amazon-s-drm-free-mp3-catalog-and-other-tweeted-links",
+  "date": "2016-09-06T23:21:12.549Z",
+  "modificationDate": "2016-09-06T23:21:12.549Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog” and other Tweeted Links…"
+  "clientId": "2016-09-06-the-mp3-clips-widget-lets-you-play-song-samples-from-amazon-s-drm-free-mp3-catalog-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"\\\"The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog\\\" [affiliate-program.amazon.com] CSS Keyframe Animation with Delay Between Iterations [css-tricks.com] Just.js: A library of dependency-free utilities that do just do one ...\"\r\n}"
 }
 ---
+
+# “The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "The MP3 Clips widget lets you play song samples from Amazon’s DRM-free MP3 catalog" [[affiliate-program.amazon.com]](https://affiliate-program.amazon.com/promotion/digital)
 
@@ -39,7 +45,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Your license to use React.js can be revoked if you compete with Facebook [[react-etc.net]](http://react-etc.net/entry/your-license-to-use-react-js-can-be-revoked-if-you-compete-with-facebook)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@nick_craver](http://twitter.com/nick_craver) does dapper.sqlbuilder interpolate dynamic params with SQL params? What are dynamic params args used for? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@nick_craver](http://twitter.com/nick_craver) does dapper.sqlbuilder interpolate dynamic params with SQL params? What are dynamic params args used for?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Search implements two Lucene-based query languages: Simple Query Parser and the Lucene Query Parser. [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/azure/dn798920.aspx)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") stream processing with Apache Kafka [[youtube.com]](https://www.youtube.com/watch?v=Z9UrIm2Nc7s)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@thenewcircle](http://twitter.com/thenewcircle)[[youtu.be]](http://youtu.be/uiJycy6dFSQ?a) Scala Collections: Why Not? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@thenewcircle](http://twitter.com/thenewcircle)[[youtu.be]](http://youtu.be/uiJycy6dFSQ?a) Scala Collections: Why Not?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Orleans handles the complexity of building distributed systems” [[dotnet.github.io]](http://dotnet.github.io/orleans/)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Core Roadmap [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2016/07/15/net-core-roadmap/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/0oDporwhToQ?a) GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/0oDporwhToQ?a) GOTO 2016 • Seven Secrets of Maintainable Codebases • Adam Tornhill
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lenovo announces its new Windows 10 Mobile device, the SoftBank 503LV [[mspoweruser.com]](http://mspoweruser.com/lenovo-announces-new-windows-10-mobile-device-softbank-503lv/)
 
@@ -67,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why am I in a data breach for a site I never signed up to? [[troyhunt.com]](https://www.troyhunt.com/why-am-i-in-a-data-breach-for-a-site-i-never-signed-up-for/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtu.be]](http://youtu.be/lasuWEAfEZw?a) Amazing Custom Computer Builds @ PDXLAN 28 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtu.be]](http://youtu.be/lasuWEAfEZw?a) Amazing Custom Computer Builds @ PDXLAN 28
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft releases Monty Python Mojis on Skype [[mspoweruser.com]](http://mspoweruser.com/microsoft-releases-monty-python-mojis-skype/)
 
@@ -82,3 +88,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ARM founder says Softbank deal is 'sad day' for UK tech [[bbc.com]](http://www.bbc.com/news/business-36827769)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") also streaming on [@netflix](http://twitter.com/netflix): The Secret Rules of Modern Living: Algorithms [[amazon.com]](http://www.amazon.com/Secret-Rules-Modern-Living-Algorithms/dp/B015FU2JIK%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB015FU2JIK)[[twitter.com]](http://twitter.com/BryanWilhite/status/754564372823891970/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,29 +1,35 @@
 ---json
 {
-  "author": null,
-  "content": "Meh. Blow a party whistle. And I am far from “done,” by the way. I now understand why Scott Hanselman would stay with ASP.NET Web Forms and no SPA-action for his Blog. I have been dealing with this ‘challenge’ actively since the summer of 2017. These are...",
-  "inceptDate": "2018-06-29T16:41:58.8623951-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "i-finally-finally-finally-converted-my-blog-to-angular-modern",
+  "documentId": 0,
+  "title": "I finally, finally, finally converted my Blog to Angular modern…",
+  "documentShortName": "2018-06-29-i-finally-finally-finally-converted-my-blog-to-angular-modern",
+  "fileName": "index.html",
+  "path": "./entry/2018-06-29-i-finally-finally-finally-converted-my-blog-to-angular-modern",
+  "date": "2018-06-29T23:41:58.862Z",
+  "modificationDate": "2018-06-29T23:41:58.862Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "I finally, finally, finally converted my Blog to Angular modern…"
+  "clientId": "2018-06-29-i-finally-finally-finally-converted-my-blog-to-angular-modern",
+  "tag": "{\r\n  \"extract\": \"Meh. Blow a party whistle. And I am far from “done,” by the way. I now understand why Scott Hanselman would stay with ASP.NET Web Forms and no SPA-action for his Blog. I have been dealing with this ‘challenge’ actively since the summer of 2017. These are...\"\r\n}"
 }
 ---
 
+# I finally, finally, finally converted my Blog to Angular modern…
+
 Meh. Blow a party whistle. And I am *far* from “done,” by the way. I now understand why [Scott Hanselman](https://www.hanselman.com/blog/) would stay with ASP.NET Web Forms and no SPA-action for his Blog. I have been dealing with this ‘challenge’ *actively* since the summer of 2017. These are challenges I set up for myself (not really understanding that each of these challenges had at least three challenges wrapped inside):
 
-*   maintain a private-sector day job (compared to a government or academic job)
-*   convert from Visual Studio web-building workflows to Visual Studio Code workflows
-*   convert my .NET 4.x investments to .NET Core in general and .NET Standard 2.0 in particular
-*   maintain a private-sector day job
-*   migrate from a few huge Team Foundation Server solutions to many, many Git repositories
-*   migrate to a Node.js based development culture
-*   migrate from Angular JS to Angular
-*   maintain a private-sector day job
-*   establish a Visual Studio Team Services CI/CD pipeline for multiple Git repositories
+* maintain a private-sector day job (compared to a government or academic job)
+* convert from Visual Studio web-building workflows to Visual Studio Code workflows
+* convert my .NET 4.x investments to .NET Core in general and .NET Standard 2.0 in particular
+* maintain a private-sector day job
+* migrate from a few huge Team Foundation Server solutions to many, many Git repositories
+* migrate to a Node.js based development culture
+* migrate from Angular JS to Angular
+* maintain a private-sector day job
+* establish a Visual Studio Team Services CI/CD pipeline for multiple Git repositories
 
 It is clear—abundantly clear—that I am not converting from Angular JS to Angular in a vacuum. I am converting multiple production pipelines over to a new paradigm as well as converting from Angular JS to Angular. This is the downside of being a developer with legacy load, struggling to stay out of technical debt.
 
@@ -52,3 +58,5 @@ Since I am clearly not as bright as Scott Hanselman, I have been laboring under 
 Going forward my plan is to continue posting Tweeted Links—like [my latest one](http://songhayblog.azurewebsites.net/blog/entry/the-2018-front-end-performance-checklist-and-other-tweeted-links) as of this writing—and Blog posts detailing how I am finishing this Blog site. Writing about what I am doing motivates me to work—even when no one is reading about what I am writing. I understand this weird thing about myself so it has been quite uncomfortable to endure about three years without a technical blogging platform. I welcome myself back. I hope Bing search bots will index this thing correctly.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

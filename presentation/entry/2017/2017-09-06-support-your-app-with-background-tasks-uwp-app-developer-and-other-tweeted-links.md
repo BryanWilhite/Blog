@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Support your app with background tasks - UWP app developer | Microsoft Docs [docs.microsoft.com] Guidelines for background tasks - UWP app developer | Microsoft Docs [docs.microsoft.com] Microsoft/Windows-universal-samples: API samples for the Universal ...",
-  "inceptDate": "2017-09-06T15:17:50.9844247-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "support-your-app-with-background-tasks-uwp-app-developer-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Support your app with background tasks—UWP app developer” and other Tweeted Links…",
+  "documentShortName": "2017-09-06-support-your-app-with-background-tasks-uwp-app-developer-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-09-06-support-your-app-with-background-tasks-uwp-app-developer-and-other-tweeted-links",
+  "date": "2017-09-06T22:17:50.984Z",
+  "modificationDate": "2017-09-06T22:17:50.984Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Support your app with background tasks—UWP app developer” and other Tweeted Links…"
+  "clientId": "2017-09-06-support-your-app-with-background-tasks-uwp-app-developer-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Support your app with background tasks - UWP app developer | Microsoft Docs [docs.microsoft.com] Guidelines for background tasks - UWP app developer | Microsoft Docs [docs.microsoft.com] Microsoft/Windows-universal-samples: API samples for the Universal ...\"\r\n}"
 }
 ---
+
+# “Support your app with background tasks—UWP app developer” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Support your app with background tasks - UWP app developer | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/windows/uwp/launch-resume/support-your-app-with-background-tasks)
 
@@ -21,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Glimpse the Future of Xamarin Forms 3.0 | Xamarin Blog [[blog.xamarin.com]](https://blog.xamarin.com/glimpse-future-xamarin-forms-3-0/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zhN0kkrHzaw?a) Aurelia Amsterdam meetup [#4](http://twitter.com/search?q=%234): The Aurelia-CLI inside out by Jeroen Vinke 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zhN0kkrHzaw?a) Aurelia Amsterdam meetup [#4](http://twitter.com/search?q=%234): The Aurelia-CLI inside out by Jeroen Vinke
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@YouTube](http://twitter.com/YouTube) au foo will run \tasks\foo.js [[twitter.com]](https://twitter.com/BryanWilhite/status/903357361187840000/photo/1)
 
@@ -45,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") JSON Feed, a Format Similar to RSS and Atom but in JSON [[jsonfeed.org]](https://jsonfeed.org/) « [@davewiner](http://twitter.com/davewiner)
 
-[<img alt="Dave Winer [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj "Dave Winer [davewiner]")[@BryanWilhite](http://twitter.com/BryanWilhite) RSS is incomparable. :-) 
+[<img alt="Dave Winer [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj "Dave Winer [davewiner]")[@BryanWilhite](http://twitter.com/BryanWilhite) RSS is incomparable. :-)
 
 [<img alt="Dave Winer [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj "Dave Winer [davewiner]")[@BryanWilhite](http://twitter.com/BryanWilhite)[[scripting.com]](http://scripting.com/2017/06/05.html#a080612)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Can I delete AMD folder located at C drive?? | Community [[community.amd.com]](https://community.amd.com/thread/190274)[[twitter.com]](https://twitter.com/BryanWilhite/status/903293977918570497/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Omni Group Automation [[omni-automation.com]](http://omni-automation.com/) « Sal Soghoian 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Omni Group Automation [[omni-automation.com]](http://omni-automation.com/) « Sal Soghoian
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hunting vulnerable NuGets in .NET Core – Fra Blank [[blogg.blank.no]](https://blogg.blank.no/hunting-for-vulnerable-nugets-in-net-core-3c37f30e467a)
 
@@ -104,3 +110,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft to Deliver Microsoft Cloud from Datacenters in Africa [[blogs.microsoft.com]](https://blogs.microsoft.com/blog/2017/05/18/microsoft-deliver-microsoft-cloud-datacenters-africa/) » [@digitalafrican](http://twitter.com/digitalafrican)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Suggestions and Tips for attending your first tech conference - Scott Hanselman [[hanselman.com]](https://www.hanselman.com/blog/SuggestionsAndTipsForAttendingYourFirstTechConference.aspx)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

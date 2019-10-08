@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "In response to “Electron is flash for the desktop” [rempel.world] dotnet new [aurelia] and dotnet new react - @shanselman[hanselman.com] « @stevesanderson:… [twitter.com] UXperts Weigh In: Designs We Love, April Edition | Creative Cloud blog by Adobe [bl...",
-  "inceptDate": "2017-07-27T17:06:44.3035085-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "in-response-to-electron-is-flash-for-the-desktop-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“In response to ‘Electron is flash for the desktop’” and other Tweeted Links…",
+  "documentShortName": "2017-07-27-in-response-to-electron-is-flash-for-the-desktop-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-07-27-in-response-to-electron-is-flash-for-the-desktop-and-other-tweeted-links",
+  "date": "2017-07-28T00:06:44.303Z",
+  "modificationDate": "2017-07-28T00:06:44.303Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“In response to ‘Electron is flash for the desktop’” and other Tweeted Links…"
+  "clientId": "2017-07-27-in-response-to-electron-is-flash-for-the-desktop-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"In response to “Electron is flash for the desktop” [rempel.world] dotnet new [aurelia] and dotnet new react - @shanselman[hanselman.com] « @stevesanderson:… [twitter.com] UXperts Weigh In: Designs We Love, April Edition | Creative Cloud blog by Adobe [bl...\"\r\n}"
 }
 ---
+
+# “In response to ‘Electron is flash for the desktop’” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") In response to “Electron is flash for the desktop” [[rempel.world]](https://rempel.world/posts/electron.html)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why I Stopped Attending Programming Meet-ups — Bureau of Programming [[python.sh]](https://python.sh/2017/4/why-i-stopped-attending-programming-meetups) » [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I’m Giving Away MILLIONS of FREE Microsoft eBooks again, including..Eric Ligman [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

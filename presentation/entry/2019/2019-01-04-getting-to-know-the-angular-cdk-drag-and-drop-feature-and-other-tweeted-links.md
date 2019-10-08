@@ -1,23 +1,29 @@
 ---json
 {
-  "author": null,
-  "content": "Getting to Know the Angular CDK Drag and Drop Feature. By @NetanelBasal[bit.ly] Easier scrollytelling with position sticky [pudding.cool] Just how many kinds of boxes are there in CSS? @fantasai@tabatkins@meyerweb  content-box             padding-box    ...",
-  "inceptDate": "2019-01-04T12:53:40.5486068-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "getting-to-know-the-angular-cdk-drag-and-drop-feature-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Getting to Know the Angular CDK Drag and Drop Feature” and other tweeted links…",
+  "documentShortName": "2019-01-04-getting-to-know-the-angular-cdk-drag-and-drop-feature-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-04-getting-to-know-the-angular-cdk-drag-and-drop-feature-and-other-tweeted-links",
+  "date": "2019-01-04T20:53:40.548Z",
+  "modificationDate": "2019-01-04T20:53:40.548Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Getting to Know the Angular CDK Drag and Drop Feature” and other tweeted links…"
+  "clientId": "2019-01-04-getting-to-know-the-angular-cdk-drag-and-drop-feature-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Getting to Know the Angular CDK Drag and Drop Feature. By @NetanelBasal[bit.ly] Easier scrollytelling with position sticky [pudding.cool] Just how many kinds of boxes are there in CSS? @fantasai@tabatkins@meyerweb  content-box             padding-box    ...\"\r\n}"
 }
 ---
+
+# “Getting to Know the Angular CDK Drag and Drop Feature” and other tweeted links…
 
 [<img alt="NG Tutorial 🔥 [NG_Tutorial]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NG_Tutorial.jpg">](https://twitter.com/NG_Tutorial) Getting to Know the Angular CDK Drag and Drop Feature. By [@NetanelBasal](http://twitter.com/@NetanelBasal)[[bit.ly]](http://bit.ly/2N7nML8)
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) Easier scrollytelling with position sticky [[pudding.cool]](https://pudding.cool/process/scrollytelling-sticky/)
 
-[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Just how many kinds of boxes are there in CSS? [@fantasai](http://twitter.com/@fantasai)[@tabatkins](http://twitter.com/@tabatkins)[@meyerweb](http://twitter.com/@meyerweb) content-box padding-box border-box margin-box line-box marker-box fill-box stroke-box view-box geometry-box (?) What's missing? 
+[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Just how many kinds of boxes are there in CSS? [@fantasai](http://twitter.com/@fantasai)[@tabatkins](http://twitter.com/@tabatkins)[@meyerweb](http://twitter.com/@meyerweb) content-box padding-box border-box margin-box line-box marker-box fill-box stroke-box view-box geometry-box (?) What's missing?
 
 [<img alt="Derek McKenzie [PhysicsFootnote]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/PhysicsFootnote.jpg">](https://twitter.com/PhysicsFootnote) Another awesomely simple circular motion demo, this time showing that when the centripetal force is removed the object follows a tangent to the circle. Src: YouTube/ISLE Physics [[twitter.com]](https://twitter.com/PhysicsFootnote/status/1038262980419280896/photo/1)
 
@@ -41,17 +47,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) there are three AnimationPlayer issues outstanding at Google that should address my whining: [[github.com]](https://github.com/angular/angular/search?q=AnimationPlayer&type=Issues)[[twitter.com]](https://twitter.com/BryanWilhite/status/1038679913220399104/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Meligy](http://twitter.com/@Meligy) Did your React projects have tests or was it plain-ol F12 stuff? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Meligy](http://twitter.com/@Meligy) Did your React projects have tests or was it plain-ol F12 stuff?
 
-[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) Of course they did have tests :) 
+[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) Of course they did have tests :)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Meligy](http://twitter.com/@Meligy) just checking to see how minimal React projects on your plate are willing to go🤠 ---what was the test tool? ---was there a React CLI in play? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Meligy](http://twitter.com/@Meligy) just checking to see how minimal React projects on your plate are willing to go🤠 ---what was the test tool? ---was there a React CLI in play?
 
-[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) Jest for testing. Not React CLI. Actually I wasn't very impressed with project boilerplate but I had no enough reason to change what they had already 
+[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) Jest for testing. Not React CLI. Actually I wasn't very impressed with project boilerplate but I had no enough reason to change what they had already
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Meligy](http://twitter.com/@Meligy) cool. I will use this mix when I start to mess around with React in my nodejs repo: [[github.com]](https://github.com/BryanWilhite/nodejs)
 
-[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B) I used Angular 2-4 for over a year, helped a big customer teams use it &amp; build several production apps. Devs were happy with framework &amp; CLI. I contributed to CLI too Then joined big React project for months, &amp; now Angular choices feel too much &amp; overengineered Maybe practice… 
+[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B) I used Angular 2-4 for over a year, helped a big customer teams use it &amp; build several production apps. Devs were happy with framework &amp; CLI. I contributed to CLI too Then joined big React project for months, &amp; now Angular choices feel too much &amp; overengineered Maybe practice…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) here is what i have (my responsive [@angular](http://twitter.com/@angular) sliding animation): [[github.com]](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16)[[twitter.com]](https://twitter.com/BryanWilhite/status/1044034245696483330/photo/1)
 
@@ -75,20 +81,22 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@shotcutapp](http://twitter.com/@shotcutapp), glad to see FOSS for video is still going strong! [[[twit.tv]](https://twit.tv/shows/floss-weekly/episodes/493)] =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/1039669535538786304/photo/1)
 
-[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx) Today I learned that TensorFlow users are called “TensorFlowers” 🌺 
+[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx) Today I learned that TensorFlow users are called “TensorFlowers” 🌺
 
 [<img alt="Codecide [codecidedotnet]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codecidedotnet.jpg">](https://t.co/v7FfqHztOS) Developers are worth more to tech companies than cash [#remotework](http://twitter.com/search?q='%23remotework)[#marketing](http://twitter.com/search?q='%23marketing) via [[boingboing.net]](http://boingboing.net) ☛ [[amp.gs]](http://amp.gs/yU28)[[twitter.com]](https://twitter.com/codecidedotnet/status/1039051613246238720/photo/1)
 
 [<img alt="Bloomberg Technology [technology]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/technology.jpg">](https://t.co/g5FcHER6Jd) Google’s cloud-computing star is leaving her post after controversy over AI tech and a Pentagon deal [[bloom.bg]](https://bloom.bg/2CI0EyS)
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft details for the first time how it classifies Windows security bugs: [[zdnet.com]](https://www.zdnet.com/article/microsoft-details-for-the-first-time-how-it-classifies-windows-security-bugs/) (by ZDNet's [@campuscodi](http://twitter.com/@campuscodi)) 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft details for the first time how it classifies Windows security bugs: [[zdnet.com]](https://www.zdnet.com/article/microsoft-details-for-the-first-time-how-it-classifies-windows-security-bugs/) (by ZDNet's [@campuscodi](http://twitter.com/@campuscodi))
 
 [<img alt="bria [bria_sullivan]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bria_sullivan.jpg">](https://t.co/4ESF232CBr) I was the only Black person in all of my classes for all 4 years of college. The words "master" and "slave" were used so liberally and every time made me feel like shit. None of my hundreds of classmates or professors cared. [[twitter.com]](https://twitter.com/sethvargo/status/1037832137905524737)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@bria_sullivan](http://twitter.com/@bria_sullivan) It is never “useless poetry” to always see imperative programming for what it is: *imperial* programming, based on a false Greco ideal of perfection and central control that goes a long way toward making overclocked chips overheat. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@bria_sullivan](http://twitter.com/@bria_sullivan) It is never “useless poetry” to always see imperative programming for what it is: *imperial* programming, based on a false Greco ideal of perfection and central control that goes a long way toward making overclocked chips overheat.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@bria_sullivan](http://twitter.com/@bria_sullivan) BTW I did a five-year sentence at UCSB as the only Black physics major. Most white folks of all skin colors looked away in silence and most Black folks were too busy to care. Remember that old novel _Invisible Man_? Ellison? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@bria_sullivan](http://twitter.com/@bria_sullivan) BTW I did a five-year sentence at UCSB as the only Black physics major. Most white folks of all skin colors looked away in silence and most Black folks were too busy to care. Remember that old novel _Invisible Man_? Ellison?
 
-[<img alt="Sam Livingston-Gray [geeksam]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/geeksam.jpg">](https://t.co/5FM3ueGYKm) “Master/slave” isn’t even a good metaphor, unless I’m missing the historical example where slaves lived a life identical to their master’s with sub-second delays just in case one of them suddenly needed to step in and replace the master if he died... 
+[<img alt="Sam Livingston-Gray [geeksam]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/geeksam.jpg">](https://t.co/5FM3ueGYKm) “Master/slave” isn’t even a good metaphor, unless I’m missing the historical example where slaves lived a life identical to their master’s with sub-second delays just in case one of them suddenly needed to step in and replace the master if he died...
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@shanselman](http://twitter.com/@shanselman) is respecting the Bill Gates maxim to use DATA to characterize a population of systems: [[hanselminutes.com]](https://hanselminutes.com/648/accelerate-the-state-of-dev-ops-with-dr-nicole-forsgren)[@nicolefv](http://twitter.com/@nicolefv) blows me away with this fact: IT moves fast _successfully_ by making *small* testable changes =&gt; [@bizmonger](http://twitter.com/@bizmonger)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

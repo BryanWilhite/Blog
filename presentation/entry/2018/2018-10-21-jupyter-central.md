@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "I am sure there are many reasons why Span&lt;T&gt; (and Memory&lt;T&gt;) was introduced to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and t...",
-  "inceptDate": "2018-10-21T11:17:34.4018196-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "jupyter-central",
+  "documentId": 0,
+  "title": "jupyter central",
+  "documentShortName": "2018-10-21-jupyter-central",
+  "fileName": "index.html",
+  "path": "./entry/2018-10-21-jupyter-central",
+  "date": "2018-10-21T18:17:34.401Z",
+  "modificationDate": "2018-10-21T18:17:34.401Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "jupyter central"
+  "clientId": "2018-10-21-jupyter-central",
+  "tag": "{\r\n  \"extract\": \"I am sure there are many reasons why Span&lt;T&gt; (and Memory&lt;T&gt;) was introduced to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and t...\"\r\n}"
 }
 ---
+
+# jupyter central
 
 [<img alt="The Algorithm Design Manual" src="https://images-na.ssl-images-amazon.com/images/I/515GcxK1FFL.jpg" style="float:right;margin:16px;">](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1848000693)
 
@@ -43,12 +49,12 @@ And it must be said that there is a Udemy course in Python by Holczer Balazs, hi
 
 When I quit the Sedgewick course, I was very interested in visualizing [*percolation*](https://introcs.cs.princeton.edu/java/assignments/percolation.html) in a jupyter notebook. There are [a couple of repos on GitHub](https://github.com/topics/monte-carlo-simulation?l=jupyter+notebook) that look promising. Stumbling into examples of additional visualizations, I have this jumble so far:
 
-*   “[Making trees in the Jupyter notebook](http://chuckpr.github.io/blog/trees2.html)”
-*   “[Python Tree-plots](https://plot.ly/python/tree-plots/)”
-*   “[Creating and Visualizing Decision Trees with Python](https://medium.com/@rnbrown/creating-and-visualizing-decision-trees-with-python-f8e8fa394176)”
-*   “[The Programmable Tree Drawing Engine—A Python Environment for (phylogenetic) Tree Exploration](http://etetoolkit.org/docs/2.3/tutorial/tutorial_drawing.html)”
-*   “[Saving nltk drawn parse tree to image file](https://stackoverflow.com/questions/23429117/saving-nltk-drawn-parse-tree-to-image-file/24748479#24748479)”
-*   “[Windows 8 Drawing Binary Search Trees sample in C# for Visual Studio 2008](https://code.msdn.microsoft.com/windowsapps/Drawing-Binary-Search-Trees-4c49410f)” [to emphasize my apparent lack of focus]
+* “[Making trees in the Jupyter notebook](http://chuckpr.github.io/blog/trees2.html)”
+* “[Python Tree-plots](https://plot.ly/python/tree-plots/)”
+* “[Creating and Visualizing Decision Trees with Python](https://medium.com/@rnbrown/creating-and-visualizing-decision-trees-with-python-f8e8fa394176)”
+* “[The Programmable Tree Drawing Engine—A Python Environment for (phylogenetic) Tree Exploration](http://etetoolkit.org/docs/2.3/tutorial/tutorial_drawing.html)”
+* “[Saving nltk drawn parse tree to image file](https://stackoverflow.com/questions/23429117/saving-nltk-drawn-parse-tree-to-image-file/24748479#24748479)”
+* “[Windows 8 Drawing Binary Search Trees sample in C# for Visual Studio 2008](https://code.msdn.microsoft.com/windowsapps/Drawing-Binary-Search-Trees-4c49410f)” [to emphasize my apparent lack of focus]
 
 ## going forward
 

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Data Points - Dapper, Entity Framework and Hybrid Apps [msdn.microsoft.com] Six nifty ES6 tricks [2ality.com] “Desktop App Converter..can convert existing Windows desktop apps..to Universal Windows Platform (UWP) packages” [blogs.msdn.microsoft.com] “One...",
-  "inceptDate": "2016-07-26T13:57:24.8129821-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "dapper-entity-framework-and-hybrid-apps-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Dapper, Entity Framework and Hybrid Apps” and other Tweeted Links…",
+  "documentShortName": "2016-07-26-dapper-entity-framework-and-hybrid-apps-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-07-26-dapper-entity-framework-and-hybrid-apps-and-other-tweeted-links",
+  "date": "2016-07-26T20:57:24.812Z",
+  "modificationDate": "2016-07-26T20:57:24.812Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Dapper, Entity Framework and Hybrid Apps” and other Tweeted Links…"
+  "clientId": "2016-07-26-dapper-entity-framework-and-hybrid-apps-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Data Points - Dapper, Entity Framework and Hybrid Apps [msdn.microsoft.com] Six nifty ES6 tricks [2ality.com] “Desktop App Converter..can convert existing Windows desktop apps..to Universal Windows Platform (UWP) packages” [blogs.msdn.microsoft.com] “One...\"\r\n}"
 }
 ---
+
+# “Dapper, Entity Framework and Hybrid Apps” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data Points - Dapper, Entity Framework and Hybrid Apps [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/magazine/mt703432.aspx)
 
@@ -29,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “JSONScript allows you to send a script to the remote system that will be interpreted by the remote system.” [[json-script.com]](http://www.json-script.com/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. dillinger.io 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. dillinger.io
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “When we call module.provider(), we are actually calling the provider() method of the $provide service.” [[webdeveasy.com]](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") MIT, April 20 , 1996 on the occasion of the Rotafest [[alumni.media.mit.edu]](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A 5-step process for hiring tech talent [[opensource.com]](https://opensource.com/life/16/5/oscon-bitnami-erica-brescia)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

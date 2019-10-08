@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "I have been struggling off and on for decades with adjusting my lifestyle so I can go back and digitize/update my mathematics notes from college. I tried at least three times to get into this and failed. Finally, I can declare success. Here is problem #2...",
-  "inceptDate": "2016-11-15T22:42:00.3284484-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "mathematica-and-my-calculus-work-from-1988",
+  "documentId": 0,
+  "title": "Mathematica and My Calculus Work from 1988",
+  "documentShortName": "2016-11-15-mathematica-and-my-calculus-work-from-1988",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-15-mathematica-and-my-calculus-work-from-1988",
+  "date": "2016-11-16T06:42:00.328Z",
+  "modificationDate": "2016-11-16T06:42:00.328Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Mathematica and My Calculus Work from 1988"
+  "clientId": "2016-11-15-mathematica-and-my-calculus-work-from-1988",
+  "tag": "{\r\n  \"extract\": \"I have been struggling off and on for decades with adjusting my lifestyle so I can go back and digitize/update my mathematics notes from college. I tried at least three times to get into this and failed. Finally, I can declare success. Here is problem #2...\"\r\n}"
 }
 ---
+
+# Mathematica and My Calculus Work from 1988
 
 I have been struggling off and on for decades with adjusting my lifestyle so I can go back and digitize/update my mathematics notes from college. I tried at least three times to get into this and failed. Finally, I can declare success. Here is problem #21 from chapter 1 section 1 (1.1) in [*Calculus with Analytical Geometry*](https://www.researchgate.net/publication/44500439_Calculus_with_analytic_geometry_Robert_Ellis_Denny_Gulick), 3rd. Edition, Robert Ellis &amp; Denny Gulick:
 [<img alt="Mathematica - UCSB Math 3 Series 01.01 (Fall 1988) #21" src="https://farm6.staticflickr.com/5817/31013417745_b807719762_o_d.png">](https://www.flickr.com/photos/wilhite/31013417745/in/dateposted-public/ "Mathematica - UCSB Math 3 Series 01.01 (Fall 1988) #21")
@@ -39,3 +45,5 @@ There is no one, right way to teach any subject. In the case of “coding,” th
 I see now from experience and ideological preference that teaching “kids” how to “code” would be done through teaching mathematics. It should be impossible to teach a child mathematics without using some kind of digital documentation system that records and replays the procedures they use to solve problems. I spent my youth keeping these procedures in the memory of my imagination and I have never found the “photographic memory” a power I should have. What I value is the ability to see a ‘thing’ (real or abstract) and immediately recognizing it such it can be described. This is remembering in real time by seeing this thing in front of you instead of conjuring it from absolutely nothing.
 
 The solution to a mathematical problem is a procedure written in two languages: the human readable language of the students and the math language compatible with the problem. The “learning to code” part of the solution are the tests that verify that a step in the procedure is correct.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

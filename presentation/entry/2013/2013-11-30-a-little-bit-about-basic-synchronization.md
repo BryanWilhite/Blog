@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Would you be willing to commute 100 miles a day for four months just to learn a little bit about threads? Clearly I must be willing—or maybe, as one sly fox told me, I must be “crazy.” In general, I am “crazy” about learning—mind-numbing labor while bein...",
-  "inceptDate": "2013-11-30T00:00:00",
-  "isPublished": true,
-  "slug": "a-little-bit-about-basic-synchronization",
-  "title": "A little bit about basic synchronization…"
+  "documentId": 0,
+  "title": "A little bit about basic synchronization…",
+  "documentShortName": "2013-11-30-a-little-bit-about-basic-synchronization",
+  "fileName": "index.html",
+  "path": "./entry/2013-11-30-a-little-bit-about-basic-synchronization",
+  "date": "2013-11-30T08:00:00.000Z",
+  "modificationDate": "2013-11-30T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-11-30-a-little-bit-about-basic-synchronization",
+  "tag": "{\r\n  \"extract\": \"Would you be willing to commute 100 miles a day for four months just to learn a little bit about threads? Clearly I must be willing—or maybe, as one sly fox told me, I must be “crazy.” In general, I am “crazy” about learning—mind-numbing labor while bein...\"\r\n}"
 }
 ---
+
+# A little bit about basic synchronization…
 
 Would you be willing to commute 100 miles a day for four months just to learn *a little bit* about threads? Clearly I must be willing—or maybe, as one sly fox told me, I must be “crazy.” In general, I am “crazy” about learning—mind-numbing labor while being self-held captive in a centrally-chilled glass barn is deadly to me. There are two kinds of publican labor in my limited-American experience: work that enhances your career growth and work that maintains income. My Herculean struggle with this 100-miles-per-day commute has revealed to me an issue that I have never before seen first-hand in the wild in over 20 years of IT work. This fact alone makes my “crazy” choices worth my while.
 
@@ -15,7 +25,7 @@ I’ve only *heard* about concurrency/threading issues from other (more experien
 
 It wasn’t until my crazy, miserable commuting began when I had the privilege of seeing diagnostic debug log entries like these:
 
-    INFO start Foo()
+INFO start Foo()
        …
     INFO end Foo()
     INFO start Foo()
@@ -29,7 +39,7 @@ It wasn’t until my crazy, miserable commuting began when I had the privilege o
 
 The method `Foo()` would look like this:
 
-    public void Foo()
+public void Foo()
     {
         this.LogStart();
         //do stuff…
@@ -38,7 +48,7 @@ The method `Foo()` would look like this:
 
 And the logging functions (I know I’m digressing, by the way) look like this:
 
-    [Conditional("DEBUG")]
+[Conditional("DEBUG")]
     void LogStart()
     {
         var methodName = new StackFrame(1).GetMethod().Name;
@@ -53,9 +63,9 @@ And the logging functions (I know I’m digressing, by the way) look like this:
 
 There are so many ways to make this logging code more [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) but remember I’m losing at up to four hours of my work days to sitting on a freeway with a bunch of giant trucks hurtling by. I have to wake up at 5am! I am not quite my best folks!
 
-Back to the main point: 
+Back to the main point:
 
-    INFO start Foo()
+INFO start Foo()
        …
     INFO end Foo()
     INFO start Foo()
@@ -71,7 +81,7 @@ Notice that we have two, successive `start Foo()` entries. We have more starts t
 
 Somehow two (or more) threads are competing for the same method. When I brought this up to this young guy with lots of C++ experience (his commute is about 40 minutes a day, by the way), he told me to do something like this:
 
-    public void Foo()
+public void Foo()
     {
         this.LogStart();
         lock(Locker)
@@ -83,16 +93,18 @@ Somehow two (or more) threads are competing for the same method. When I brought 
     static readonly object Locker = new object();
 
 The young C++ guy mumbled something about `lock` being shorthand for `Monitor.Enter`. When I Googled around with these terms I eventually found *the man*: Mr. LINQPad himself: [Joe Albahari](http://www.albahari.com/threading/). Joe puts it like [this](http://www.albahari.com/threading/part2.aspx):
+
 <blockquote>
 
 C#’s lock statement is in fact a syntactic shortcut for a call to the methods Monitor.Enter and Monitor.Exit, with a try/finally block.
+
 </blockquote>
 
 Remember `Monitor.Pulse()`? I do. I have finally seen *in real-world practice* the way into the world of threading. While I was being rejected by Lab49 I asked about any books that I would need to read to learn about threading. So, back in 2010, [I had the books](http://kintespace.com/rasxlog/?p=2204) but I did not have the emotional, visceral understanding of this technical subject until I started working as a consultant for PIMCO (and—what do one or two PIMCO WPF guys think of Lab49? ‘I know some folks over there. They’re a little budget-ey but Ok…’). Wow, what a crazy world we live in…
 
 Speaking of the “real world,” it turns out that the need to log locking surfaced. So, based on some input from a Java-, server-based guy, we have something like this:
 
-    public void Foo()
+public void Foo()
     {
         this.LogStart();
         if(!Monitor.TryEnter(Locker))
@@ -114,7 +126,7 @@ Speaking of the “real world,” it turns out that the need to log locking surf
 
 This pattern (I have discovered recently) can cause false positives to be logged (when we are looking for more starts than stops in our example above): should an exception occur after `this.LogStart()` but before `this.LogEnd()` a threading newbie like me will assume that multiple threads are competing instead of one thread failing. To avoid this daft oversight, this pattern should work:
 
-    public void Foo()
+public void Foo()
     {
         this.LogStart();
         if(!Monitor.TryEnter(Locker))
@@ -146,31 +158,43 @@ This may be overkill someday but today I’m calling it educational.
 <table class="WordWalkingStickTable"><tr><td>
 
 “[Why is lock much slower than Monitor.TryEnter?](http://stackoverflow.com/questions/2416793/why-is-lock-much-slower-than-monitor-tryenter)”
-</td><td>
+<
+/td><td>
 
 “…it’s important to point out that lock and Monitor.TryEnter are not functionally equivalent.”
-</td></tr><tr><td>
+<
+/td></tr><tr><td>
 
 “[Asynchrony in C# 5: Deep Dive by Joe Albahari](http://yow.eventer.com/yow-2011-1004/asynchrony-in-c-5-deep-dive-by-joe-albahari-1067)”
-</td><td>
+<
+/td><td>
 
 A streaming talk from YOW 2011.
-</td></tr><tr><td>
+<
+/td></tr><tr><td>
 
 “[Threading in C#—Part 4—Advanced Threading](http://www.albahari.com/threading/part4.aspx)”
-</td><td>
+<
+/td><td>
 
 “Here’s how to use Wait and Pulse…”
-</td></tr><tr><td>
+<
+/td></tr><tr><td>
 
 “[Synchronization in async C# methods](http://www.dzhang.com/blog/2012/08/29/synchronization-in-async-csharp-methods)”
-</td><td>
+<
+/td><td>
 
 “The following results in a compile-time error because you cannot use `await` inside a `lock` block…”
-</td></tr><tr><td>
+<
+/td></tr><tr><td>
 
 “[Threading in C#—Part 2 - Basic Synchronization](http://www.albahari.com/threading/part2.aspx)”
-</td><td>
+<
+/td><td>
 
 “Only one thread can lock the synchronizing object (in this case, `_locker`) at a time, and any contending threads are blocked until the lock is released. If more than one thread contends the lock, they are queued on a ‘ready queue’ and granted the lock on a first-come, first-served basis (a caveat is that nuances in the behavior of Windows and the CLR mean that the fairness of the queue can sometimes be violated). ...C#’s `lock` statement is in fact a syntactic shortcut for a call to the methods `Monitor.Enter` and `Monitor.Exit`, with a try/finally block.”
-</td></tr></table>
+<
+/td></tr></table>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

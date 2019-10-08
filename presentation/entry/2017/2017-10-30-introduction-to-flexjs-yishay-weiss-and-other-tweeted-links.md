@@ -1,19 +1,25 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Introduction to FlexJS - Yishay Weiss [youtube.com] [remember Adobe Flex?]        CSS Animations vs Web Animations API [css-tricks.com] Things I Think Are Cool: Custom XAML Markup Extensions [codemilltech.com] Continuous Testing of TypeScript Code | Dami...",
-  "inceptDate": "2017-10-30T14:51:22.5632447-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introduction-to-flexjs-yishay-weiss-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introduction to FlexJS—Yishay Weiss” and other Tweeted Links…",
+  "documentShortName": "2017-10-30-introduction-to-flexjs-yishay-weiss-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-30-introduction-to-flexjs-yishay-weiss-and-other-tweeted-links",
+  "date": "2017-10-30T21:51:22.563Z",
+  "modificationDate": "2017-10-30T21:51:22.563Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introduction to FlexJS—Yishay Weiss” and other Tweeted Links…"
+  "clientId": "2017-10-30-introduction-to-flexjs-yishay-weiss-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introduction to FlexJS - Yishay Weiss [youtube.com] [remember Adobe Flex?]        CSS Animations vs Web Animations API [css-tricks.com] Things I Think Are Cool: Custom XAML Markup Extensions [codemilltech.com] Continuous Testing of TypeScript Code | Dami...\"\r\n}"
 }
 ---
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to FlexJS - Yishay Weiss [[youtube.com]](https://www.youtube.com/watch?v=6wFr4x6xvnk) [remember Adobe Flex?] 
+# “Introduction to FlexJS—Yishay Weiss” and other Tweeted Links…
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to FlexJS - Yishay Weiss [[youtube.com]](https://www.youtube.com/watch?v=6wFr4x6xvnk) [remember Adobe Flex?]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS Animations vs Web Animations API [[css-tricks.com]](https://css-tricks.com/css-animations-vs-web-animations-api/)
 
@@ -23,15 +29,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@SaraSoueidan](http://twitter.com/SaraSoueidan): “Jekyll became unbearably slow…” [[sarasoueidan.com]](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/NSts93C9UeE?a) JAMstack Tutorial - Full site using Netlify &amp; Hugo 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/NSts93C9UeE?a) JAMstack Tutorial - Full site using Netlify &amp; Hugo
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/rB4Cl5LSe2c?a) Moving Smashing Away from WordPress 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/rB4Cl5LSe2c?a) Moving Smashing Away from WordPress
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/7q0KIrfzCvo?a) Netlify Platform Tutorial Review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/7q0KIrfzCvo?a) Netlify Platform Tutorial Review
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5 "Billy Hollis [billyhollis]") Bad [#UX](http://twitter.com/search?q=%23UX) - the updated Windows 10 Maps app has no pinch support for zooming. I'm dumbfounded how they could have overlooked that. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5 "Billy Hollis [billyhollis]") Bad [#UX](http://twitter.com/search?q=%23UX) - the updated Windows 10 Maps app has no pinch support for zooming. I'm dumbfounded how they could have overlooked that.
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]") Why Microsoft's 'commercial cloud' is more akin to Oracle, Salesforce than AWS: [[zdnet.com]](http://www.zdnet.com/article/microsoft-commercial-cloud-azure-vs-amazon-web-services-nice-storyline-but-misguided-comparison/) (by ZDNet's [@ldignan](http://twitter.com/ldignan)) 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]") Why Microsoft's 'commercial cloud' is more akin to Oracle, Salesforce than AWS: [[zdnet.com]](http://www.zdnet.com/article/microsoft-commercial-cloud-azure-vs-amazon-web-services-nice-storyline-but-misguided-comparison/) (by ZDNet's [@ldignan](http://twitter.com/ldignan))
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Show off your API with a little Swagger... [[geekswithblogs.net]](http://geekswithblogs.net/ballhaus/archive/2017/06/14/swaggerapi.aspx)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to grade programming assignments on GitHub [[github.com]](https://github.com/blog/2376-how-to-grade-programming-assignments-on-github)
 
 [<img alt="Jacqueline [JackieMJensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JackieMJensen.jpg">](https://t.co/DYdE13EVu5 "Jacqueline [JackieMJensen]") Remember the $86 million license plate scanner that an Australian developer replicated in just 57 lines of code? [[buff.ly]](https://buff.ly/2yO9dVM)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

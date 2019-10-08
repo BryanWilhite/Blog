@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "AngularJS directive for syntax highlighting with highlight.js. [github.com] Answer:Why does Sass cache folder get created [stackoverflow.com] “Electron is a software development platform created by Github…” [wired.com] “Save Time and Keystrokes with Emme...",
-  "inceptDate": "2016-10-03T15:03:14.1527738-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angularjs-directive-for-syntax-highlighting-with-highlight-js-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“AngularJS directive for syntax highlighting with highlight.js” and other Tweeted Links…",
+  "documentShortName": "2016-10-03-angularjs-directive-for-syntax-highlighting-with-highlight-js-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-03-angularjs-directive-for-syntax-highlighting-with-highlight-js-and-other-tweeted-links",
+  "date": "2016-10-03T22:03:14.152Z",
+  "modificationDate": "2016-10-03T22:03:14.152Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“AngularJS directive for syntax highlighting with highlight.js” and other Tweeted Links…"
+  "clientId": "2016-10-03-angularjs-directive-for-syntax-highlighting-with-highlight-js-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"AngularJS directive for syntax highlighting with highlight.js. [github.com] Answer:Why does Sass cache folder get created [stackoverflow.com] “Electron is a software development platform created by Github…” [wired.com] “Save Time and Keystrokes with Emme...\"\r\n}"
 }
 ---
+
+# “AngularJS directive for syntax highlighting with highlight.js” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AngularJS directive for syntax highlighting with highlight.js. [[github.com]](https://github.com/pc035860/angular-highlightjs)
 
@@ -47,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") added free, private, git repo to TFS but took too long to find the 'welcome' page; Manage Repositories should take… [[twitter.com]](https://twitter.com/i/web/status/782463082207453184)
 
-[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Agreed, and we are working on changes that will address that and build on the new nav to do it. 
+[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Agreed, and we are working on changes that will address that and build on the new nav to do it.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Run Linux commands from cmd.exe prompt in Windows 10 [[winaero.com]](http://winaero.com/blog/run-linux-commands-from-cmd-exe-prompt-in-windows-10/)
 
@@ -84,3 +90,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A bushel of Microsoft execs leave the company [[mspoweruser.com]](https://mspoweruser.com/bushel-microsoft-execs-leave-company/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Two critical bugs and more malicious apps make for a bad week for Android [[arstechnica.com]](http://arstechnica.com/security/2016/09/two-critical-bugs-and-more-malicious-apps-make-for-a-bad-week-for-android/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

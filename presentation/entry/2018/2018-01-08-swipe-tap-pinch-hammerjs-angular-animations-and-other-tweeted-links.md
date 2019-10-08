@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Swipe, Tap, Pinch - HammerJS + Angular Animations - YouTube [youtube.com] Three Ways to Test Angular Components – Angular [vsavkin.com] Testing Components • Unit Testing • Angular 5 [codecraft.tv]@jawache Composite UIs for Microservices - Client Composit...",
-  "inceptDate": "2018-01-08T11:56:21.3846383-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "swipe-tap-pinch-hammerjs-angular-animations-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Swipe, Tap, Pinch - HammerJS + Angular Animations” and other Tweeted Links…",
+  "documentShortName": "2018-01-08-swipe-tap-pinch-hammerjs-angular-animations-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-01-08-swipe-tap-pinch-hammerjs-angular-animations-and-other-tweeted-links",
+  "date": "2018-01-08T19:56:21.384Z",
+  "modificationDate": "2018-01-08T19:56:21.384Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Swipe, Tap, Pinch - HammerJS + Angular Animations” and other Tweeted Links…"
+  "clientId": "2018-01-08-swipe-tap-pinch-hammerjs-angular-animations-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Swipe, Tap, Pinch - HammerJS + Angular Animations - YouTube [youtube.com] Three Ways to Test Angular Components – Angular [vsavkin.com] Testing Components • Unit Testing • Angular 5 [codecraft.tv]@jawache Composite UIs for Microservices - Client Composit...\"\r\n}"
 }
 ---
+
+# “Swipe, Tap, Pinch - HammerJS + Angular Animations” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Swipe, Tap, Pinch - HammerJS + Angular Animations - YouTube [[youtube.com]](https://www.youtube.com/watch?v=5Z2C0wy4bmg)
 
@@ -29,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Let’s talk about Javascript string encoding | Kevin Burke [[kev.inburke.com]](https://kev.inburke.com/kevin/node-js-string-encoding/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") nameof operator · TypeScript Cookbook [[schneidenbach.gitbooks.io]](https://schneidenbach.gitbooks.io/typescript-cookbook/nameof-operator.html) [“The TypeScript language doesn't include a nameof operator like in C#”] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") nameof operator · TypeScript Cookbook [[schneidenbach.gitbooks.io]](https://schneidenbach.gitbooks.io/typescript-cookbook/nameof-operator.html) [“The TypeScript language doesn't include a nameof operator like in C#”]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript 2.1: keyof and Lookup Types | Marius Schulz [[blog.mariusschulz.com]](https://blog.mariusschulz.com/2017/01/06/typescript-2-1-keyof-and-lookup-types)
 
@@ -92,3 +98,5 @@
 [<img alt="Frank A. Krueger [praeclarum]" src="https://songhay.blob.core.windows.net/shared-social-twitter/praeclarum.jpg">](http://t.co/x1L9wCpO59 "Frank A. Krueger [praeclarum]") After 2 years of trying, I had spent all my savings and retirement to pay rent while becoming an independent iOS de… [[twitter.com]](https://twitter.com/i/web/status/950081395862290432)
 
 [<img alt="Phil Hawksworth [philhawksworth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/philhawksworth.jpg">](https://t.co/NS5sHXO6oW "Phil Hawksworth [philhawksworth]") Brilliantly written and chillingly convincing. A pretty persuasive argument for site owners to sort out their CSPs… [[twitter.com]](https://twitter.com/i/web/status/949653576372178944)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

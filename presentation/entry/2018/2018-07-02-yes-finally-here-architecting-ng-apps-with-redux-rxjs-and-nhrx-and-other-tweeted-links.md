@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx by @chris_noring forward by @josepheames[twitter.com] There's been a lot of confusion and misinformation about Redux going around lately.  I just posted \"Redux - Not Dea… [twitter.com] D...",
-  "inceptDate": "2018-07-02T09:31:16.6886695-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "yes-finally-here-architecting-ng-apps-with-redux-rxjs-and-nhrx-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx” and other Tweeted links…",
+  "documentShortName": "2018-07-02-yes-finally-here-architecting-ng-apps-with-redux-rxjs-and-nhrx-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-02-yes-finally-here-architecting-ng-apps-with-redux-rxjs-and-nhrx-and-other-tweeted-links",
+  "date": "2018-07-02T16:31:16.688Z",
+  "modificationDate": "2018-07-02T16:31:16.688Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx” and other Tweeted links…"
+  "clientId": "2018-07-02-yes-finally-here-architecting-ng-apps-with-redux-rxjs-and-nhrx-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx by @chris_noring forward by @josepheames[twitter.com] There's been a lot of confusion and misinformation about Redux going around lately.  I just posted \\\"Redux - Not Dea… [twitter.com] D...\"\r\n}"
 }
 ---
+
+# “Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx” and other Tweeted links…
 
 [<img alt="Alex [Alex51482]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Alex51482.jpg">]( "Alex [Alex51482]") Yes!! Finally here! Architecting NG Apps with Redux, RxJS, and NhRx by [@chris_noring](http://twitter.com/chris_noring) forward by [@josepheames](http://twitter.com/josepheames)[[twitter.com]](https://twitter.com/Alex51482/status/979456779200409600/photo/1)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Undersea Network (Sign, Storage, Transmission) [[amazon.com]](https://www.amazon.com/Undersea-Network-Sign-Storage-Transmission/dp/0822357550?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0822357550) by [@n_str](http://twitter.com/n_str)[[twitter.com]](https://twitter.com/BryanWilhite/status/979558893188612096/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 1532 Falcon Heavy Geek Out [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1532) [[@richcampbell](http://twitter.com/richcampbell) schools me on toxic perchlorate dust that would h… [[twitter.com]](https://twitter.com/i/web/status/979561543477092352)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

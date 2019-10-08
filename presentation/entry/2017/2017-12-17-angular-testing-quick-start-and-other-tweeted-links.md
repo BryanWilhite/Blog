@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Angular Testing Quick Start [youtube.com] SEO and Angular: Prerender.io is not the cure [grobmeier.solutions] Proposal to bring Observables to browser DOM for composable repeated events and other goodness. Kudos to @BenLesh,… [twitter.com] Geometric Anim...",
-  "inceptDate": "2017-12-17T20:23:25.0789166-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angular-testing-quick-start-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Angular Testing Quick Start” and other Tweeted Links…",
+  "documentShortName": "2017-12-17-angular-testing-quick-start-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-17-angular-testing-quick-start-and-other-tweeted-links",
+  "date": "2017-12-18T04:23:25.078Z",
+  "modificationDate": "2017-12-18T04:23:25.078Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Angular Testing Quick Start” and other Tweeted Links…"
+  "clientId": "2017-12-17-angular-testing-quick-start-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Angular Testing Quick Start [youtube.com] SEO and Angular: Prerender.io is not the cure [grobmeier.solutions] Proposal to bring Observables to browser DOM for composable repeated events and other goodness. Kudos to @BenLesh,… [twitter.com] Geometric Anim...\"\r\n}"
 }
 ---
+
+# “Angular Testing Quick Start” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular Testing Quick Start [[youtube.com]](https://www.youtube.com/watch?v=BumgayeUC08)
 
@@ -55,7 +61,7 @@
 
 [<img alt="Dan Bader [dbader_org]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dbader_org.jpg">](https://t.co/MZwP2VGyfa "Dan Bader [dbader_org]") If Microsoft decides to support Python as a scripting language in Excel it would be great news. Basically turns Pyt… [[twitter.com]](https://twitter.com/i/web/status/941693121188032513)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/x6nJfUv7ta0?a) Scott Wlaschin: F# and Domain Driven Design 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/x6nJfUv7ta0?a) Scott Wlaschin: F# and Domain Driven Design
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#… [[twitter.com]](https://twitter.com/i/web/status/936771694802305025)
 
@@ -77,6 +83,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Chefs and Soldiers Make Good Product Managers [[firstround.com]](http://firstround.com/review/why-soldiers-and-chefs-make-the-best-product-managers/)
 
-[<img alt="Scott Nimrod [Bizmonger]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Bizmonger.jpg">](https://t.co/G8pgR1Zwwz "Scott Nimrod [Bizmonger]") I think I'm the most talented consistently unemployeyed software engineer ever! And that's how I want to be remembered... 
+[<img alt="Scott Nimrod [Bizmonger]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Bizmonger.jpg">](https://t.co/G8pgR1Zwwz "Scott Nimrod [Bizmonger]") I think I'm the most talented consistently unemployeyed software engineer ever! And that's how I want to be remembered...
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]") My boss is supportive and also evil. [[twitter.com]](https://twitter.com/shanselman/status/940310809896353792/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

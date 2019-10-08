@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Azure spending rate crisisThere are quite a bit of internal notes on this matter but the gist of it is this: moving around App services into resource groups caused two of these services to upgrade themselves to shared App Service plans. These two changes...",
-  "inceptDate": "2018-12-20T14:21:54.9997102-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2018-12",
+  "documentId": 0,
+  "title": "studio status report: 2018-12",
+  "documentShortName": "2018-12-20-studio-status-report-2018-12",
+  "fileName": "index.html",
+  "path": "./entry/2018-12-20-studio-status-report-2018-12",
+  "date": "2018-12-20T22:21:54.999Z",
+  "modificationDate": "2018-12-20T22:21:54.999Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2018-12"
+  "clientId": "2018-12-20-studio-status-report-2018-12",
+  "tag": "{\r\n  \"extract\": \"Azure spending rate crisisThere are quite a bit of internal notes on this matter but the gist of it is this: moving around App services into resource groups caused two of these services to upgrade themselves to shared App Service plans. These two changes...\"\r\n}"
 }
 ---
+
+# studio status report: 2018-12
 
 ## Azure spending rate crisis
 
@@ -32,3 +38,5 @@ The [last status report](http://songhayblog.azurewebsites.net/blog/entry/studio-
 ‘Azure DevOps is cool but leaves me wanting’ was also thrown out there and Microsoft’s Edward Thomson has not had the time to chime in on this one. What I expect to see is documentation from Microsoft, detailing how variables work with build-script YAML—and what would be awesome is some kind of online validator of this YAML.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

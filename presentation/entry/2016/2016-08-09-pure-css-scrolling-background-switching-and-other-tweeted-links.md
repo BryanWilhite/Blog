@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Pure CSS scrolling background switching [codepen.io] via @CodePen AOS: CSS-Driven “On Scroll” Animation Library [css-tricks.com] Fixed and Scroll Backgrounds [codepen.io] via @CodePen Parallax scrolling [codepen.io] via @CodePen Continuous scrolling back...",
-  "inceptDate": "2016-08-09T18:04:59.6173853-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "pure-css-scrolling-background-switching-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Pure CSS scrolling background switching” and other Tweeted Links…",
+  "documentShortName": "2016-08-09-pure-css-scrolling-background-switching-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-09-pure-css-scrolling-background-switching-and-other-tweeted-links",
+  "date": "2016-08-10T01:04:59.617Z",
+  "modificationDate": "2016-08-10T01:04:59.617Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Pure CSS scrolling background switching” and other Tweeted Links…"
+  "clientId": "2016-08-09-pure-css-scrolling-background-switching-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Pure CSS scrolling background switching [codepen.io] via @CodePen AOS: CSS-Driven “On Scroll” Animation Library [css-tricks.com] Fixed and Scroll Backgrounds [codepen.io] via @CodePen Parallax scrolling [codepen.io] via @CodePen Continuous scrolling back...\"\r\n}"
 }
 ---
+
+# “Pure CSS scrolling background switching” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Pure CSS scrolling background switching [[codepen.io]](http://codepen.io/JTParrett/pen/FfIph) via [@CodePen](http://twitter.com/CodePen)
 
@@ -81,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Despite the String class being a managed C# source file, large parts of it are implemented in un-managed code” [[mattwarren.org]](http://mattwarren.org/2016/05/31/Strings-and-the-CLR-a-Special-Relationship/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bleroy](http://twitter.com/bleroy)[[youtu.be]](http://youtu.be/5MnfrL7gfEs?a) On .NET 6/2/2016 - Lucian Wischik 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bleroy](http://twitter.com/bleroy)[[youtu.be]](http://youtu.be/5MnfrL7gfEs?a) On .NET 6/2/2016 - Lucian Wischik
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “RankBrain..strategy is what experts in the field call a back propagation technique, rebranded as ‘deep learning.’” [[techcrunch.com]](http://techcrunch.com/2016/06/04/artificial-intelligence-is-changing-seo-faster-than-you-think/)
 
@@ -97,10 +103,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Kalzumeus Podcast Episode 12: Salary Negotiation with Josh Doody [[kalzumeus.com]](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@appbuilders_ch](http://twitter.com/appbuilders_ch)[[youtu.be]](http://youtu.be/GQx_beRMHVg?a) Adrian Kosmaczewski - Being A Developer After 40 (App Builders 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@appbuilders_ch](http://twitter.com/appbuilders_ch)[[youtu.be]](http://youtu.be/GQx_beRMHVg?a) Adrian Kosmaczewski - Being A Developer After 40 (App Builders
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “In the past six years I have maybe done 50 hours of real work.” [[payscale.com]](http://www.payscale.com/career-news/2016/05/programmer-fired-after-6-years-realizes-he-doesnt-know-how-to-code)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How Pantone Is Still Turning Color Into Money [[bloomberg.com]](http://www.bloomberg.com/news/articles/2015-08-26/how-pantone-is-still-turning-color-into-money)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Acer Liquid M330 - Unlocked [[microsoftstore.com]](http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.335427600) via [@MicrosoftStore](http://twitter.com/MicrosoftStore)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

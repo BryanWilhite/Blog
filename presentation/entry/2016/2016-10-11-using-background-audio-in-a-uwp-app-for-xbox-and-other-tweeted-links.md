@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Using Background Audio in a UWP App for Xbox [channel9.msdn.com] Import SVG from Inkscape into Blender [blendernation.com] Azure Media OCR Simplified Output [azure.microsoft.com] Why Film Might be the Most Important New Tool in a Designer's Toolbox [core...",
-  "inceptDate": "2016-10-11T18:08:24.0256764-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-background-audio-in-a-uwp-app-for-xbox-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Background Audio in a UWP App for Xbox” and other Tweeted Links…",
+  "documentShortName": "2016-10-11-using-background-audio-in-a-uwp-app-for-xbox-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-11-using-background-audio-in-a-uwp-app-for-xbox-and-other-tweeted-links",
+  "date": "2016-10-12T01:08:24.025Z",
+  "modificationDate": "2016-10-12T01:08:24.025Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Background Audio in a UWP App for Xbox” and other Tweeted Links…"
+  "clientId": "2016-10-11-using-background-audio-in-a-uwp-app-for-xbox-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Using Background Audio in a UWP App for Xbox [channel9.msdn.com] Import SVG from Inkscape into Blender [blendernation.com] Azure Media OCR Simplified Output [azure.microsoft.com] Why Film Might be the Most Important New Tool in a Designer's Toolbox [core...\"\r\n}"
 }
 ---
+
+# “Using Background Audio in a UWP App for Xbox” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Background Audio in a UWP App for Xbox [[channel9.msdn.com]](https://channel9.msdn.com/Blogs/One-Dev-Minute/Using-Background-Audio-in-a-UWP-App-for-Xbox)
 
@@ -21,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Film Might be the Most Important New Tool in a Designer's Toolbox [[core77.com]](http://www.core77.com/posts/56577/Why-Film-Might-be-the-Most-Important-New-Tool-in-a-Designers-Toolbox)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@terrylwhite](http://twitter.com/terrylwhite)[[youtu.be]](http://youtu.be/8LtY7qWWyAY?a) How to Get Started with Adobe After Effects CC - 10 Things 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@terrylwhite](http://twitter.com/terrylwhite)[[youtu.be]](http://youtu.be/8LtY7qWWyAY?a) How to Get Started with Adobe After Effects CC - 10 Things
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Build an Amazing Markdown Editor Using Visual Studio Code and Pandoc [[thisdavej.com]](http://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@shanselman](http://twitter.com/shanselman) have you experimented with uCareSystem Core in your Windows 10 bash shell? ..turn pets into cattle?[[ostechnix.com]](http://www.ostechnix.com/ucaresystem-core-basic-maintenance-tool-ubuntu/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/PwZl0xYemF0?a) The next evolution of Continuum for Windows 10 Mobile 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/PwZl0xYemF0?a) The next evolution of Continuum for Windows 10 Mobile
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An Experience Report of Moving a Complicated Codebase to the CoreCLR [[jeremydmiller.com]](https://jeremydmiller.com/2016/09/28/an-experience-report-of-moving-a-complicated-codebase-to-the-coreclr/)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Botnet of &gt;145k cameras reportedly deliver Internet’s biggest DDoS ever [[arstechnica.com]](http://arstechnica.com/security/2016/09/botnet-of-145k-cameras-reportedly-deliver-internets-biggest-ddos-ever/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Lumia Phones are not supported in Canada, US, and Australia” [[mspoweruser.com]](https://mspoweruser.com/lumia-devices-still-supported-us-canada-australia/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "How to Use Responsive Images [blog.ycombinator.com] Mini.css – Minimal, responsive, style-agnostic CSS framework [minicss.org] Conditionally adding entries inside Array and object literals [2ality.com] Making SEO and UX Work Together [blogs.adobe.com] Re...",
-  "inceptDate": "2017-08-02T10:57:04.1817442-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "how-to-use-responsive-images-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“How to Use Responsive Images” and other Tweeted Links…",
+  "documentShortName": "2017-08-02-how-to-use-responsive-images-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-08-02-how-to-use-responsive-images-and-other-tweeted-links",
+  "date": "2017-08-02T17:57:04.181Z",
+  "modificationDate": "2017-08-02T17:57:04.181Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“How to Use Responsive Images” and other Tweeted Links…"
+  "clientId": "2017-08-02-how-to-use-responsive-images-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"How to Use Responsive Images [blog.ycombinator.com] Mini.css – Minimal, responsive, style-agnostic CSS framework [minicss.org] Conditionally adding entries inside Array and object literals [2ality.com] Making SEO and UX Work Together [blogs.adobe.com] Re...\"\r\n}"
 }
 ---
+
+# “How to Use Responsive Images” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Use Responsive Images [[blog.ycombinator.com]](https://blog.ycombinator.com/how-to-use-responsive-images/)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# TestStack.White For Beginners - C# Tutorials | Dream.In.Code [[dreamincode.net]](http://www.dreamincode.net/forums/topic/322108-c%23-teststackwhite-for-beginners/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Use UI Automation To Test Your Code [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/dd286726.aspx?f=255&MSPPError=-2147217396) [requires Visual Studio Enterprise] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Use UI Automation To Test Your Code [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/dd286726.aspx?f=255&MSPPError=-2147217396) [requires Visual Studio Enterprise]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10’s live tiles are vestigial, it’s time for them to go [[mspoweruser.com]](https://mspoweruser.com/windows-10s-live-tiles-vestigial-time-go/)
 
@@ -43,17 +49,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") question about EF theory: EF allows us to define keys but does not verify uniqueness by default, right? « [@julielerman](http://twitter.com/julielerman), [@RowanMiller10](http://twitter.com/RowanMiller10)
 
-[<img alt="Rowan Miller [RowanMiller10]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RowanMiller10.jpg">]( "Rowan Miller [RowanMiller10]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@julielerman](http://twitter.com/julielerman) It will verify for data loaded into a single context. Relies on database for verification against other data. 
+[<img alt="Rowan Miller [RowanMiller10]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RowanMiller10.jpg">]( "Rowan Miller [RowanMiller10]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@julielerman](http://twitter.com/julielerman) It will verify for data loaded into a single context. Relies on database for verification against other data.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10)[@julielerman](http://twitter.com/julielerman) makes performance-related sense :) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10)[@julielerman](http://twitter.com/julielerman) makes performance-related sense :)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10) two instances of MyDbContext pointing at different DBs running in queries parallel causes tbl/vw-not-found error(s) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10) two instances of MyDbContext pointing at different DBs running in queries parallel causes tbl/vw-not-found error(s)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10) error(s) go away when ctx classes are defined per DB based on MyDbContext; looks like EF associates… [[twitter.com]](https://twitter.com/i/web/status/893184923632140288)
 
-[<img alt="Rowan Miller [RowanMiller10]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RowanMiller10.jpg">]( "Rowan Miller [RowanMiller10]")[@BryanWilhite](http://twitter.com/BryanWilhite) Model is cached per context type. So you prob need to construct externally and pass in. CC [@ajcvickers](http://twitter.com/ajcvickers)[@divega](http://twitter.com/divega) to confirm 
+[<img alt="Rowan Miller [RowanMiller10]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RowanMiller10.jpg">]( "Rowan Miller [RowanMiller10]")[@BryanWilhite](http://twitter.com/BryanWilhite) Model is cached per context type. So you prob need to construct externally and pass in. CC [@ajcvickers](http://twitter.com/ajcvickers)[@divega](http://twitter.com/divega) to confirm
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers)[@divega](http://twitter.com/divega) okay, but what does “construct externally” mean? ctor? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers)[@divega](http://twitter.com/divega) okay, but what does “construct externally” mean? ctor?
 
 [<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) It means create the model, set it on DbCotextOptions you pass on the DbCon… [[twitter.com]](https://twitter.com/i/web/status/893320584448299008)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) i think it is a race-condition issue: run multiple integration tests that use th… [[twitter.com]](https://twitter.com/i/web/status/893338942400937984)
 
-[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) But a race condition in the test or in product code? 
+[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) But a race condition in the test or in product code?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) the test code: multiple instances of the same DbContext-based class querying dif… [[twitter.com]](https://twitter.com/i/web/status/893496389891637248)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) I appreciate your investigation but the error is exclusively related to EF schem… [[twitter.com]](https://twitter.com/i/web/status/893860551964540928)
 
-[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) I have only tried to guess. If you want anyone to actually investigate, you know what to do :) 
+[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) I have only tried to guess. If you want anyone to actually investigate, you know what to do :)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@RowanMiller10](http://twitter.com/RowanMiller10)[@ajcvickers](http://twitter.com/ajcvickers) With a smile you are framing this issue like it is “my” problem instead of regar… [[twitter.com]](https://twitter.com/i/web/status/894945546481410049)
 
@@ -91,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SQL is 43 years old – Here’s why we still use it today [[blog.sqlizer.io]](http://blog.sqlizer.io/posts/sql-43/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zKUFSKRjTIo?a) Keynote: Model-Based Machine Learning 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zKUFSKRjTIo?a) Keynote: Model-Based Machine Learning
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Show HN: Shortern URIs using Huffman Coding, not a database [[urizip-dot-populace-soho.appspot.com]](https://urizip-dot-populace-soho.appspot.com/)
 
@@ -150,3 +156,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple has damaged the perceived value of software [[mattgemmell.com]](http://mattgemmell.com/damage/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zqhK8dA7iO8?a) Five Years of Curiosity on Mars (public talk)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

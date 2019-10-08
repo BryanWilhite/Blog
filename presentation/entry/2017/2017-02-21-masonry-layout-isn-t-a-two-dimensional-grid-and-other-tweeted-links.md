@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "[masonry] layout isn’t a two dimensional grid. [rachelandrew.co.uk]@rachelandrew “simplest possible map hovers would involve just dumping this SVG” [mediatemple.net]@chriscoyier Let's Look at 50+ Interesting CSS Properties &amp; Values | CSS-Tricks [css-...",
-  "inceptDate": "2017-02-21T18:33:31.4662979-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "masonry-layout-isn-t-a-two-dimensional-grid-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“[masonry] layout isn’t a two dimensional grid.” and other Tweeted Links…",
+  "documentShortName": "2017-02-21-masonry-layout-isn-t-a-two-dimensional-grid-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-02-21-masonry-layout-isn-t-a-two-dimensional-grid-and-other-tweeted-links",
+  "date": "2017-02-22T02:33:31.466Z",
+  "modificationDate": "2017-02-22T02:33:31.466Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“[masonry] layout isn’t a two dimensional grid.” and other Tweeted Links…"
+  "clientId": "2017-02-21-masonry-layout-isn-t-a-two-dimensional-grid-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"[masonry] layout isn’t a two dimensional grid. [rachelandrew.co.uk]@rachelandrew “simplest possible map hovers would involve just dumping this SVG” [mediatemple.net]@chriscoyier Let's Look at 50+ Interesting CSS Properties &amp; Values | CSS-Tricks [css-...\"\r\n}"
 }
 ---
+
+# “[masonry] layout isn’t a two dimensional grid.” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") [masonry] layout isn’t a two dimensional grid. [[rachelandrew.co.uk]](https://www.rachelandrew.co.uk/archives/2017/01/18/css-grid-one-layout-method-not-the-only-layout-method/)[@rachelandrew](http://twitter.com/rachelandrew)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Sayed Ibrahim Hashimi - MSBuild Web packaging fixing the long path issue [[sedodream.com]](http://sedodream.com/2013/01/13/WebPackagingFixingTheLongPathIssue.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I Came, I Saw, I Learned...: Digital Publishing: Controlling Page Breaks in an ePub [[iconlogic.blogs.com]](http://iconlogic.blogs.com/weblog/2013/04/digital-publishing-controlling-page-breaks-in-an-epub.html) [page-break-before: always;] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I Came, I Saw, I Learned...: Digital Publishing: Controlling Page Breaks in an ePub [[iconlogic.blogs.com]](http://iconlogic.blogs.com/weblog/2013/04/digital-publishing-controlling-page-breaks-in-an-epub.html) [page-break-before: always;]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Paul Chiusano: If Haskell is so great, why hasn't it taken over the world? And the curious case of Go. [[pchiusano.github.io]](https://pchiusano.github.io/2017-01-20/why-not-haskell.html)
 
@@ -73,14 +79,16 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The lost art of 3D rendering without shaders [[machinethink.net]](http://machinethink.net/blog/3d-rendering-without-shaders/) » [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Companies hiring Remote Developers [[stackoverflow.com]](https://stackoverflow.com/jobs/companies?r=true) [only 188 out of 14,000+ [@StackOverflow](http://twitter.com/StackOverflow) companies offer remote :( ] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Companies hiring Remote Developers [[stackoverflow.com]](https://stackoverflow.com/jobs/companies?r=true) [only 188 out of 14,000+ [@StackOverflow](http://twitter.com/StackOverflow) companies offer remote :( ]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") [i'm no longer seeing this at stackoverflow careers =&gt;] The Joel Test: 12 Steps to Better Code – Joel on Software [[joelonsoftware.com]](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") +[@iAyori](http://twitter.com/iAyori), [@khemenutwilhite](http://twitter.com/khemenutwilhite)[[twitter.com]](https://twitter.com/GeeksOfColor/status/817185529515151361)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@tribalinstincts](http://twitter.com/tribalinstincts)[[youtu.be]](http://youtu.be/ABCGqYzMDyw?a) Barnacules' SWEAT killed my Vive! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@tribalinstincts](http://twitter.com/tribalinstincts)[[youtu.be]](http://youtu.be/ABCGqYzMDyw?a) Barnacules' SWEAT killed my Vive!
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/z8tTxGGjnZc?a) Windows 10 on an original Microsoft Surface 'Coffee Table' 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/z8tTxGGjnZc?a) Windows 10 on an original Microsoft Surface 'Coffee Table'
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “why Microsoft and Apple stumbled when they lost their tech CEOs” [[m.signalvnoise.com]](https://m.signalvnoise.com/this-is-why-we-have-working-managers-at-basecamp-and-why-microsoft-and-apple-stumbled-when-they-ac8e1ebd444c#.ez73zaas2)[@basecamp](http://twitter.com/basecamp)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

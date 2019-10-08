@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller [teropa.info] “we will discuss the importance of RxJs in Angular2” [blog.falafel.com] There are two different types of directives in Angular2. They are          •Structural Dire...",
-  "inceptDate": "2016-08-22T18:20:29.8298434-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angular-1-x-2014-how-i-ve-improved-my-angular-apps-by-banning-ng-controller-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller” and other Tweeted Links…",
+  "documentShortName": "2016-08-22-angular-1-x-2014-how-i-ve-improved-my-angular-apps-by-banning-ng-controller-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-22-angular-1-x-2014-how-i-ve-improved-my-angular-apps-by-banning-ng-controller-and-other-tweeted-links",
+  "date": "2016-08-23T01:20:29.829Z",
+  "modificationDate": "2016-08-23T01:20:29.829Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller” and other Tweeted Links…"
+  "clientId": "2016-08-22-angular-1-x-2014-how-i-ve-improved-my-angular-apps-by-banning-ng-controller-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller [teropa.info] “we will discuss the importance of RxJs in Angular2” [blog.falafel.com] There are two different types of directives in Angular2. They are          •Structural Dire...\"\r\n}"
 }
 ---
+
+# “Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 1.x 2014: How I've Improved My Angular Apps by Banning ng-controller [[teropa.info]](http://teropa.info/blog/2014/10/24/how-ive-improved-my-angular-apps-by-banning-ng-controller.html)
 
@@ -35,9 +41,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for at least four months I've been freakonomically wasting money on unused [@Azure](http://twitter.com/Azure) Redis service [[twitter.com]](http://twitter.com/BryanWilhite/status/746063567011491840/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft: Nearly One In Three Azure Virtual Machines Now Are Running Linux [[linux.slashdot.org]](https://linux.slashdot.org/story/16/06/21/1754243/microsoft-nearly-one-in-three-azure-virtual-machines-now-are-running-linux)
 
@@ -83,9 +89,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Unicode 9.0 is now official with 72 new emoji [[windowscentral.com]](http://www.windowscentral.com/unicode-90-now-official-72-new-emoji)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters [[unicodepowersymbol.com]](http://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-)½-new-unicode-characters/ 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters [[unicodepowersymbol.com]](http://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-)½-new-unicode-characters/
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@pshorg](http://twitter.com/pshorg)[[youtu.be]](http://youtu.be/5aW-dQGaYfM?a) Windows PowerShell Gotcha - Bloody Awful Punctuation 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@pshorg](http://twitter.com/pshorg)[[youtu.be]](http://youtu.be/5aW-dQGaYfM?a) Windows PowerShell Gotcha - Bloody Awful Punctuation
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Stack overflow command line client. Search and browse stack overflow without leaving the terminal” [[github.com]](https://github.com/gautamkrishnar/socli)
 
@@ -104,3 +110,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Thousands of credit cards, addresses, and security codes exposed by Acer online store [[theverge.com]](http://www.theverge.com/2016/6/20/11975464/acer-online-store-credit-card-address-information-security-code)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Don’t let anyone overpay you” [[m.signalvnoise.com]](https://m.signalvnoise.com/bigger-prices-bigger-problems-72820249456f)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

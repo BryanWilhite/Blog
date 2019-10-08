@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "The JavaScript phenomenon is a mass psychosis – Richard Kenneth Eng – Medium [medium.com] Discipline or Tool? The Study of Design Psychology in UX [blogs.adobe.com] The Unnecessary Fragmentation of Design Jobs [m.signalvnoise.com] The State of CSS [shawn...",
-  "inceptDate": "2017-06-09T14:28:54.9784266-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-javascript-phenomenon-is-a-mass-psychosis-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The JavaScript phenomenon is a mass psychosis” and other Tweeted Links…",
+  "documentShortName": "2017-06-09-the-javascript-phenomenon-is-a-mass-psychosis-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-06-09-the-javascript-phenomenon-is-a-mass-psychosis-and-other-tweeted-links",
+  "date": "2017-06-09T21:28:54.978Z",
+  "modificationDate": "2017-06-09T21:28:54.978Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The JavaScript phenomenon is a mass psychosis” and other Tweeted Links…"
+  "clientId": "2017-06-09-the-javascript-phenomenon-is-a-mass-psychosis-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The JavaScript phenomenon is a mass psychosis – Richard Kenneth Eng – Medium [medium.com] Discipline or Tool? The Study of Design Psychology in UX [blogs.adobe.com] The Unnecessary Fragmentation of Design Jobs [m.signalvnoise.com] The State of CSS [shawn...\"\r\n}"
 }
 ---
+
+# “The JavaScript phenomenon is a mass psychosis” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The JavaScript phenomenon is a mass psychosis – Richard Kenneth Eng – Medium [[medium.com]](https://medium.com/@richardeng/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359)
 
@@ -45,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hadoop Has Failed Us, Tech Experts Say [[datanami.com]](https://www.datanami.com/2017/03/13/hadoop-failed-us-tech-experts-say/) » [@maryjofoley](http://twitter.com/maryjofoley)
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes. Saw that. But there may still be Hadoopish hope [[zdnet.com]](http://www.zdnet.com/article/artificial-intelligence-on-hadoop/) :) 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes. Saw that. But there may still be Hadoopish hope [[zdnet.com]](http://www.zdnet.com/article/artificial-intelligence-on-hadoop/) :)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An Introduction to Stock Market Data Analysis with R (Part 1) [[ntguardian.wordpress.com]](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1/)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Surviving the New MacBook Pro | Brad Frost [[bradfrost.com]](http://bradfrost.com/blog/post/surviving-the-new-macbook-pro/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/YNxtMtlrm6U?a) First Look at CShell on a Windows phone (Exclusive) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/YNxtMtlrm6U?a) First Look at CShell on a Windows phone (Exclusive)
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") "The best thing about having a Surface Book covered in bamboo is that when it overheats it smells really good." --… [[twitter.com]](https://twitter.com/i/web/status/872219685202255872)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lawyer's perception of open source licenses [[writing.kemitchell.com]](https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html#)
 
 [<img alt="Rob Majteles [treehcapital]" src="https://songhay.blob.core.windows.net/shared-social-twitter/treehcapital.jpg">](https://t.co/dUUniJna21 "Rob Majteles [treehcapital]") Terrific interview with [@bradfordcross](http://twitter.com/bradfordcross)[[architecht.io]](https://architecht.io/bradford-cross-on-fintech-automation-bot-overload-and-how-to-build-an-ai-startup-dd8abdffbfb8)[[twitter.com]](https://twitter.com/treehcapital/status/871754055663484928/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

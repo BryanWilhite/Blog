@@ -1,23 +1,29 @@
 ---json
 {
-  "author": null,
-  "content": "14 Flat #Design#UI Packs for Your Next Project [spyrestudios.com] Nx 6.2 is now available, which includes updates to the #NgRx schematics and a shared karma config as well as additional bug fixes. Check out the blog post by @FrozenPandaz for more details...",
-  "inceptDate": "2018-12-21T09:19:07.0176035-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "14-flat-design-packs-for-your-next-project-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“14 Flat #Design Packs for Your Next Project” and other tweeted links…",
+  "documentShortName": "2018-12-21-14-flat-design-packs-for-your-next-project-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-12-21-14-flat-design-packs-for-your-next-project-and-other-tweeted-links",
+  "date": "2018-12-21T17:19:07.017Z",
+  "modificationDate": "2018-12-21T17:19:07.017Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“14 Flat #Design Packs for Your Next Project” and other tweeted links…"
+  "clientId": "2018-12-21-14-flat-design-packs-for-your-next-project-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"14 Flat #Design#UI Packs for Your Next Project [spyrestudios.com] Nx 6.2 is now available, which includes updates to the #NgRx schematics and a shared karma config as well as additional bug fixes. Check out the blog post by @FrozenPandaz for more details...\"\r\n}"
 }
 ---
+
+# “14 Flat #Design Packs for Your Next Project” and other tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) 14 Flat [#Design](http://twitter.com/search?q='%23Design)[#UI](http://twitter.com/search?q='%23UI) Packs for Your Next Project [[spyrestudios.com]](http://spyrestudios.com/14-flat-design-ui-packs-next-project/)
 
 [<img alt="Nrwl [nrwl_io]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/nrwl_io.jpg">](https://t.co/Yc4V2hMtIQ) Nx 6.2 is now available, which includes updates to the [#NgRx](http://twitter.com/search?q='%23NgRx) schematics and a shared karma config as well as additional bug fixes. Check out the blog post by [@FrozenPandaz](http://twitter.com/@FrozenPandaz) for more details on this release! [[buff.ly]](https://buff.ly/2OJnzM2)
 
-[<img alt="Max Lynch [maxlynch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maxlynch.jpg">](https://t.co/k7QgF8dAG5) Frontend twitter seems largely oblivious to Angular’s very real popularity and the reasons behind its success 
+[<img alt="Max Lynch [maxlynch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maxlynch.jpg">](https://t.co/k7QgF8dAG5) Frontend twitter seems largely oblivious to Angular’s very real popularity and the reasons behind its success
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Angular Console — The UI for the Angular CLI” by [@victorsavkin](http://twitter.com/@victorsavkin)[[blog.nrwl.io]](https://blog.nrwl.io/angular-console-the-ui-for-the-angular-cli-a5d0924240b7)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Process-level parameters in [@VSTS](http://twitter.com/@VSTS) are not that useful/intuitive by default [[[stackoverflow.com]](https://stackoverflow.com/questions/43362079/visual-studio-team-services-edit-link-settings)] [[twitter.com]](https://twitter.com/BryanWilhite/status/1028066403092324352/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/Lb-Pnytoi-8?a) How to NOT get a 30K Firebase Bill 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/Lb-Pnytoi-8?a) How to NOT get a 30K Firebase Bill
 
 [<img alt="Stuart Lang [stuartblang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/stuartblang.jpg">](https://t.co/cpzom3Rj3W) So happy to have Span&lt;T&gt; in F# 4.5, it's looking great! [#fsharp](http://twitter.com/search?q='%23fsharp)[[twitter.com]](https://twitter.com/stuartblang/status/1026527200277946369/photo/1)
 
@@ -59,7 +65,7 @@
 
 [<img alt="Scott Guthrie [scottgu]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/scottgu.jpg">](http://t.co/rkquDCVhAW) You can now reduce your costs up to 80% with Azure SQL Databases when you combine the new Reserved Instance capability with hybrid use benefits: [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/announcing-general-availability-of-azure-sql-database-reserved-capacity/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[nuget.org]](http://NuGet.org) starts repo-signing packages [[blog.nuget.org]](https://blog.nuget.org/20180810/Introducing-Repository-Signatures.html) “A repository signature is a code signing signature produced with an X.509 certificate. This signature is uniquely associated with a repository using custom metadata.” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[nuget.org]](http://NuGet.org) starts repo-signing packages [[blog.nuget.org]](https://blog.nuget.org/20180810/Introducing-Repository-Signatures.html) “A repository signature is a code signing signature produced with an X.509 certificate. This signature is uniquely associated with a repository using custom metadata.”
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[krypt.co]](http://www.krypt.co): Let's make authentication easy &amp; secure [[twitter.com]](https://twitter.com/BryanWilhite/status/1026559319653855232/photo/1)
 
@@ -85,18 +91,20 @@
 
 [<img alt="TicToc by Bloomberg [tictoc]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tictoc.jpg">](https://t.co/O0sSpXABY4) ⚡️ Tokyo Medical University apologises after admitting it purposely gave female applicants lower grades in order to keep women out [[twitter.com]](https://twitter.com/i/moments/1026763106968629248)
 
-[<img alt="Mekka Okereke [mekkaokereke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mekkaokereke.jpeg">](https://t.co/IJCmbOZQJX) Hey underrepresented folks in technical roles! Performance review season is upon us. I want to take a few moments to remind you about some practical tips that can help you be evaluated more fairly in this and future seasons. 
+[<img alt="Mekka Okereke [mekkaokereke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mekkaokereke.jpeg">](https://t.co/IJCmbOZQJX) Hey underrepresented folks in technical roles! Performance review season is upon us. I want to take a few moments to remind you about some practical tips that can help you be evaluated more fairly in this and future seasons.
 
-[<img alt="Emily Nakashima [eanakashima]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/eanakashima.jpg">](https://twitter.com/eanakashima) Percentage-based pay raises are a great way of perpetuating existing pay inequities — people who ended up with a lower salary due to bias or a nontraditional background are penalized forever. Having salary bands (and actually using them) is so much better. 🌈 
+[<img alt="Emily Nakashima [eanakashima]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/eanakashima.jpg">](https://twitter.com/eanakashima) Percentage-based pay raises are a great way of perpetuating existing pay inequities — people who ended up with a lower salary due to bias or a nontraditional background are penalized forever. Having salary bands (and actually using them) is so much better. 🌈
 
-[<img alt="James Grenning [jwgrenning]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jwgrenning.jpeg">](http://t.co/WNnTcZi6aG) It's too bad that companies focus so much on Agile management and not Agile engineering. Being successful at iteration is highly dependent on incremental engineering skills, like TDD. You need both, though the management gets a lot easier when supported by iterative engineering. 
+[<img alt="James Grenning [jwgrenning]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jwgrenning.jpeg">](http://t.co/WNnTcZi6aG) It's too bad that companies focus so much on Agile management and not Agile engineering. Being successful at iteration is highly dependent on incremental engineering skills, like TDD. You need both, though the management gets a lot easier when supported by iterative engineering.
 
 [<img alt="Mark Anthony Neal [NewBlackMan]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NewBlackMan.jpg">](https://t.co/JN6Hu0tKeH) “Good Writing is Not Written, It’s Assembled” by [@SarahCyWrites](http://twitter.com/@SarahCyWrites)[[writingcooperative.com]](https://writingcooperative.com/good-writing-is-not-written-its-assembled-3e77f950cd11)
 
-[<img alt="Safia Abdalla [captainsafia]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/captainsafia.jpg">](https://t.co/V0GnfJrMdF) I wanna tweet out a DNS joke but it might take y’all 24 hours to get it. 
+[<img alt="Safia Abdalla [captainsafia]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/captainsafia.jpg">](https://t.co/V0GnfJrMdF) I wanna tweet out a DNS joke but it might take y’all 24 hours to get it.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Make Your Daughter Practice Math. She’ll Thank You Later. [[nyti.ms]](https://nyti.ms/2OLVKCO)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@StackOverflow](http://twitter.com/@StackOverflow) has a Code of Conduct👍🏿 [[stackoverflow.com]](http://stackoverflow.com/conduct)[[twitter.com]](https://twitter.com/BryanWilhite/status/1027225836577992705/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Tesla’s chief vehicle engineer returns to Apple [[theverge.com]](https://www.theverge.com/2018/8/10/17673712/doug-field-apple-tesla-project-titan?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) via [@Verge](http://twitter.com/@Verge)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

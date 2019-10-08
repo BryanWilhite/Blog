@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "The title of this post is trying to tell you that I am not a git expert. These are my cross-platform notes for the subset of git I’ve needed to use so far:I added a new Develop branch in Visual Studio and the remote cannot see it. From the command line p...",
-  "inceptDate": "2017-06-12T14:23:14.5663248-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "my-little-git-tricks",
+  "documentId": 0,
+  "title": "my little git tricks",
+  "documentShortName": "2017-06-12-my-little-git-tricks",
+  "fileName": "index.html",
+  "path": "./entry/2017-06-12-my-little-git-tricks",
+  "date": "2017-06-12T21:23:14.566Z",
+  "modificationDate": "2017-06-12T21:23:14.566Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "my little git tricks"
+  "clientId": "2017-06-12-my-little-git-tricks",
+  "tag": "{\r\n  \"extract\": \"The title of this post is trying to tell you that I am not a git expert. These are my cross-platform notes for the subset of git I’ve needed to use so far:I added a new Develop branch in Visual Studio and the remote cannot see it. From the command line p...\"\r\n}"
 }
 ---
+
+# my little git tricks
 
 The title of this post is trying to tell you that I am *not* a git expert. These are my cross-platform notes for the subset of git I’ve needed to use so far:
 
@@ -19,7 +25,8 @@ The title of this post is trying to tell you that I am *not* a git expert. These
 
 <code class="lang-bash">
 git push -u origin Develop
-</code>
+<
+/code>
 
 For detail, see [the StackOverflow post](https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too). And recall that the `-u` or `--set-upstream` sets the origin for the argument-less `git pull` command—which means that you should only use the `-u` option only once.
 
@@ -37,7 +44,8 @@ git status
 git commit -m "merging with Develop branch"
 
 git push
-</code>
+<
+/code>
 
 For detail, see [the StackOverflow answer](https://stackoverflow.com/a/29048781/22944). These commands also arise in the context of responding to a pull request. [Recall that](https://stackoverflow.com/questions/7200614/how-to-merge-remote-master-to-local-branch)`git pull` is basically the same as `git fetch; git merge origin/master`.
 
@@ -49,17 +57,22 @@ git ls-remote origin
 git fetch
 
 git branch -a
-</code>
+<
+/code>
 
 **I forgot to git-ignore folder `foo` and I need to delete it from the remote repository.** This is done with `git rm`:
 
 <code class="lang-bash">
 git rm -r --cached ~/foo
-</code>
+<
+/code>
 
 **I need to know the status of the remote server.** When `git status` returns, “Your branch is up-to-date,” but you are not sure this is accurate, I should try:
 
 <code class="lang-bash">
 git remote update
 git status
-</code>
+<
+/code>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "C# 6.0 Features Part I : Property Initializers http://t.co/oN9IrRVj4q  C# 6.0 Features Part II : Primary Constructors http://t.co/3Al2okv7NZ  C# 6.0 Features Part 3: Declaration Expressions http://t.co/RGyMQLzplD  Microsoft's next version of Office inclu...",
-  "inceptDate": "2014-09-25T00:00:00",
-  "isPublished": true,
-  "slug": "6-0-features-part-i-property-initializers-and-other-tweeted-links",
-  "title": "“6.0 Features Part I: Property Initializers” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“6.0 Features Part I: Property Initializers” and other Tweeted Links…",
+  "documentShortName": "2014-09-25-6-0-features-part-i-property-initializers-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-09-25-6-0-features-part-i-property-initializers-and-other-tweeted-links",
+  "date": "2014-09-25T07:00:00.000Z",
+  "modificationDate": "2014-09-25T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-09-25-6-0-features-part-i-property-initializers-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"C# 6.0 Features Part I : Property Initializers http://t.co/oN9IrRVj4q  C# 6.0 Features Part II : Primary Constructors http://t.co/3Al2okv7NZ  C# 6.0 Features Part 3: Declaration Expressions http://t.co/RGyMQLzplD  Microsoft's next version of Office inclu...\"\r\n}"
 }
 ---
+
+# “6.0 Features Part I: Property Initializers” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>C# 6.0 Features Part I : Property Initializers [http://t.co/oN9IrRVj4q](http://t.co/oN9IrRVj4q)</span>
 
@@ -56,3 +66,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Adobe Illustrator and touch computing « Adobe Illustrator blog [http://t.co/HYaKiFZg28](http://t.co/HYaKiFZg28)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Is IQueryable poisoning your interfaces? - The Activity Designer - Site Home - MSDN Blogs [http://t.co/mR4tPuYpdj](http://t.co/mR4tPuYpdj)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

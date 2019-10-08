@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Flexbox  - The Animated Tutorial [medium.com] Everything You Need To Know About Alignment In #Flexbox[smashingmagazine.com]#Layouts Carousels on #Mobile Devices [nngroup.com] Toggle-Switch Guidelines [nngroup.com]#InteractionDesign CSS-only double-click ...",
-  "inceptDate": "2019-01-02T10:50:31.1853908-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "flexbox-the-animated-tutorial-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Flexbox  - The Animated Tutorial” and other tweeted links…",
+  "documentShortName": "2019-01-02-flexbox-the-animated-tutorial-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-02-flexbox-the-animated-tutorial-and-other-tweeted-links",
+  "date": "2019-01-02T18:50:31.185Z",
+  "modificationDate": "2019-01-02T18:50:31.185Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Flexbox  - The Animated Tutorial” and other tweeted links…"
+  "clientId": "2019-01-02-flexbox-the-animated-tutorial-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Flexbox  - The Animated Tutorial [medium.com] Everything You Need To Know About Alignment In #Flexbox[smashingmagazine.com]#Layouts Carousels on #Mobile Devices [nngroup.com] Toggle-Switch Guidelines [nngroup.com]#InteractionDesign CSS-only double-click ...\"\r\n}"
 }
 ---
+
+# “Flexbox  - The Animated Tutorial” and other tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) Flexbox - The Animated Tutorial [[medium.com]](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2)
 
@@ -31,13 +37,13 @@
 
 [<img alt="Rachel Andrew [rachelandrew]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/rachelandrew.jpg">](https://t.co/bnYdfVIAqQ) Watch the video of my talk at Frontend Conf Zurich, on this [@benotist](http://twitter.com/@benotist) page which also includes all the resources and code for the talk. [[noti.st]](https://noti.st/rachelandrew/vXGvXa/unlocking-the-power-of-css-grid-layout)
 
-[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Firefox 62: tomorrow. We are shipping support for CSS Shapes (`shape-outside` and `shape-margin`) along with a Developer Tools for editing your shape (which also works with `clip-path`). Also shipping support for Variable Fonts. And in [@FirefoxNightly](http://twitter.com/@FirefoxNightly) have a new Font Editor. 
+[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Firefox 62: tomorrow. We are shipping support for CSS Shapes (`shape-outside` and `shape-margin`) along with a Developer Tools for editing your shape (which also works with `clip-path`). Also shipping support for Variable Fonts. And in [@FirefoxNightly](http://twitter.com/@FirefoxNightly) have a new Font Editor.
 
 [<img alt="NG Tutorial 🔥 [NG_Tutorial]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NG_Tutorial.jpg">](https://twitter.com/NG_Tutorial) What is `forwardRef` in Angular and why we need it. By [@maxim_koretskyi](http://twitter.com/@maxim_koretskyi)[[bit.ly]](http://bit.ly/2tCEAxr)
 
-[<img alt="Thomas Watson [wa7son]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/wa7son.jpeg">](https://t.co/GM6rJooKHb) Dear npm community ❤️ I want to drop support for Node.js 4 as much as the next person, but when I do, rest assured that I'll do so in a major release. Sneaking it into a patch release is not cool 😢 
+[<img alt="Thomas Watson [wa7son]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/wa7son.jpeg">](https://t.co/GM6rJooKHb) Dear npm community ❤️ I want to drop support for Node.js 4 as much as the next person, but when I do, rest assured that I'll do so in a major release. Sneaking it into a patch release is not cool 😢
 
-[<img alt="thisispointless [thisispointless]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/thisispointless.jpg">](https://twitter.com/thisispointless) I have now seen the stupidest thing yet on my stupid, stupid, [#Android](http://twitter.com/search?q='%23Android) phone. I set an alarm for 7:00AM. Because that's when I want to wake up. The phone "helpfully" sounds the notification tone at 6:00AM: "You've got an alarm coming up at 7:00AM". 
+[<img alt="thisispointless [thisispointless]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/thisispointless.jpg">](https://twitter.com/thisispointless) I have now seen the stupidest thing yet on my stupid, stupid, [#Android](http://twitter.com/search?q='%23Android) phone. I set an alarm for 7:00AM. Because that's when I want to wake up. The phone "helpfully" sounds the notification tone at 6:00AM: "You've got an alarm coming up at 7:00AM".
 
 [<img alt="Raphael Berger [MacRaph]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/MacRaph.jpg">](https://twitter.com/MacRaph) Introducing Skype call recording—now you can capture, save and share special moments [[dlvr.it]](http://dlvr.it/QjD7Xx)[[twitter.com]](https://twitter.com/MacRaph/status/1037388224040038400/photo/1)
 
@@ -55,15 +61,15 @@
 
 [<img alt="Eric Simons [ericsimons40]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ericsimons40.jpg">](https://t.co/QRFc8C2PwO)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@stackblitz](http://twitter.com/@stackblitz)[@angular](http://twitter.com/@angular) Nope not just you, looks like [@unpkg](http://twitter.com/@unpkg) is having issues. 6.3.2 is a valid version but it says it doesn't exist 🤔 cc/ [@mjackson](http://twitter.com/@mjackson)
 
-[<img alt="UNPKG [unpkg]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/unpkg.jpg">](https://t.co/qIGsh2Pazq)[@ericsimons40](http://twitter.com/@ericsimons40)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@stackblitz](http://twitter.com/@stackblitz)[@angular](http://twitter.com/@angular)[@mjackson](http://twitter.com/@mjackson) Fixed! Sorry for the inconvenience. 
+[<img alt="UNPKG [unpkg]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/unpkg.jpg">](https://t.co/qIGsh2Pazq)[@ericsimons40](http://twitter.com/@ericsimons40)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@stackblitz](http://twitter.com/@stackblitz)[@angular](http://twitter.com/@angular)[@mjackson](http://twitter.com/@mjackson) Fixed! Sorry for the inconvenience.
 
 [<img alt="EricWenger [EricWenger]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/EricWenger.jpg">](https://t.co/iUB5r3wVUv) .[@Microsoft](http://twitter.com/@Microsoft) shifts cloud strategy for German towards [@Azure](http://twitter.com/@Azure) services geolocated in the EU--including forthcoming options in Germany--and away from "data trustee" model announced in 2015. [[news.microsoft.com]](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs)
 
 [<img alt="André Staltz [andrestaltz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/andrestaltz.jpg">](https://t.co/oeLidqKxmX) Google search takes 3x more memory than DuckDuckGo and Google Maps takes 10x more memory than OpenStreet Maps. Is it the tracking or just bad programming? [[twitter.com]](https://twitter.com/dominictarr/status/1037107791385645059)
 
-[<img alt="@rem [rem]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/rem.jpeg">](https://t.co/JVwPgAdoD4) Being a bit lazy here, but anyone know if there's a graphql backend **mock** server that can run from a JSON file (possibly with support to write to JSON file)? Wanted for dev whilst "real" backend is built out. 
+[<img alt="@rem [rem]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/rem.jpeg">](https://t.co/JVwPgAdoD4) Being a bit lazy here, but anyone know if there's a graphql backend **mock** server that can run from a JSON file (possibly with support to write to JSON file)? Wanted for dev whilst "real" backend is built out.
 
-[<img alt="Adam Zionts [_Zionts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/_Zionts.jpg">](https://twitter.com/_Zionts)[@rem](http://twitter.com/@rem) Pretty sure this is built directly and automagically into any Apollo Server :) 
+[<img alt="Adam Zionts [_Zionts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/_Zionts.jpg">](https://twitter.com/_Zionts)[@rem](http://twitter.com/@rem) Pretty sure this is built directly and automagically into any Apollo Server :)
 
 [<img alt="Jaikanth Kumaran [Jaikantkumaran]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Jaikantkumaran.jpg">](https://t.co/PWNNultwvA)[@rem](http://twitter.com/@rem) I had a similar use case with Prisma and ended up using [[github.com]](https://github.com/APIs-guru/graphql-faker)
 
@@ -75,15 +81,15 @@
 
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) if you don't build great moderation tooling, you won't get great moderation [[nolanlawson.com]](https://nolanlawson.com/2018/08/31/mastodon-and-the-challenges-of-abuse-in-a-federated-system/)
 
-[<img alt="Jacqueline Nolis [skyetetra]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/skyetetra.jpg">](https://t.co/8nJi2349l3) The most underrated algorithm in data science is “go talk to people who deal with the problem every day and learn from them.” Modeling customer churn? Talk to people working at the store Optimizing a website? Talk to users Looking at just tables of data is so limiting! 
+[<img alt="Jacqueline Nolis [skyetetra]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/skyetetra.jpg">](https://t.co/8nJi2349l3) The most underrated algorithm in data science is “go talk to people who deal with the problem every day and learn from them.” Modeling customer churn? Talk to people working at the store Optimizing a website? Talk to users Looking at just tables of data is so limiting!
 
-[<img alt="S. Vaughan-Nichols [sjvn]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sjvn.jpg">](http://t.co/tnTVooPuIt) Linus Torvalds talks frankly about Intel security bugs [[zd.net]](https://zd.net/2N7PW8J) via [@ZDNet](http://twitter.com/@ZDNet) &amp; [@sjvn](http://twitter.com/@sjvn) ​There was no love lost between the [#Linux](http://twitter.com/search?q='%23Linux) developers and [#Intel](http://twitter.com/search?q='%23Intel) when the [#Spectre](http://twitter.com/search?q='%23Spectre)[#security](http://twitter.com/search?q='%23security) holes first popped up. 
+[<img alt="S. Vaughan-Nichols [sjvn]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sjvn.jpg">](http://t.co/tnTVooPuIt) Linus Torvalds talks frankly about Intel security bugs [[zd.net]](https://zd.net/2N7PW8J) via [@ZDNet](http://twitter.com/@ZDNet) &amp; [@sjvn](http://twitter.com/@sjvn) ​There was no love lost between the [#Linux](http://twitter.com/search?q='%23Linux) developers and [#Intel](http://twitter.com/search?q='%23Intel) when the [#Spectre](http://twitter.com/search?q='%23Spectre)[#security](http://twitter.com/search?q='%23security) holes first popped up.
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft shares a few specifics about Windows Server 2019 Essentials Edition. It is coming, as officials said, later this year alongside the other Win Server 2019 releases: [[cloudblogs.microsoft.com]](https://cloudblogs.microsoft.com/windowsserver/2018/09/05/windows-server-2019-essentials-update/)
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/shanselman.jpg">](https://t.co/KWE5X1k0pH) I’ve had a Synology Server in our closet for 8 years. It just emailed me that disk 3 of 4 failed. I hot swapped in a new disk. One of the best tech purchases I’ve made. Highly recommended. Don’t trust just the cloud. Backup your life &amp; photos local. [[amzn.to]](http://amzn.to/2fzrr4q)
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/shanselman.jpg">](https://t.co/KWE5X1k0pH) So Windows 10 has "Game Mode" to optimize when playing and streaming. It has "Presentation Mode" when you're using PowerPoint and projecting. I propose Developer Mode. I want Indexing off, Virus checking off, max filesystem speed, optimized caches, etc. IDE/Text editor priority. 
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/shanselman.jpg">](https://t.co/KWE5X1k0pH) So Windows 10 has "Game Mode" to optimize when playing and streaming. It has "Presentation Mode" when you're using PowerPoint and projecting. I propose Developer Mode. I want Indexing off, Virus checking off, max filesystem speed, optimized caches, etc. IDE/Text editor priority.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@KinteSpace](http://twitter.com/@KinteSpace) Assessing the Impact of Bias in Artificial Intelligence [Timnit Gebru [@timnitGebru](http://twitter.com/@timnitGebru)] [[youtube.com]](https://www.youtube.com/watch?v=WP9oOxWQDc4)
 
@@ -93,7 +99,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Latest Memo: Most people will be disappointed by the second edition” The Second Edition of "Refactoring" ➙ [[martinfowler.com]](https://martinfowler.com/articles/refactoring-2nd-ed.html)[@martinfowler](http://twitter.com/@martinfowler)
 
-[<img alt="Emma Wedekind ✨ [EmmaWedekind]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/EmmaWedekind.jpg">](https://t.co/Vcf3yPuPpv) Open Position: Entry-Level Front-End Dev Must have: - 6 yrs experience - Fluent in React, Haskell and COBOL - 15 Github commits each day - 12 references 6 month contract with no potential for hire $8/hr 🤔 Am I the only one who finds job postings as unrealistic as this? 
+[<img alt="Emma Wedekind ✨ [EmmaWedekind]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/EmmaWedekind.jpg">](https://t.co/Vcf3yPuPpv) Open Position: Entry-Level Front-End Dev Must have: - 6 yrs experience - Fluent in React, Haskell and COBOL - 15 Github commits each day - 12 references 6 month contract with no potential for hire $8/hr 🤔 Am I the only one who finds job postings as unrealistic as this?
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq) The skills programmers need now are drastically different from what they were in the 1990s. They need less mathematics and algorithms, and more ‘sociotech’ skills: navigating relationships between people and communities [[cacm.acm.org]](https://cacm.acm.org/magazines/2018/7/229044-we-are-done-with-hacking/fulltext)
 
@@ -104,3 +110,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Valley of Genius: The Uncensored History of Silicon Valley (As Told by the Hackers, Founders, and Freaks Who Made It Boom) [[amazon.com]](https://www.amazon.com/Valley-Genius-Uncensored-History-Founders-ebook/dp/B0769XXGXX?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0769XXGXX) by [@adamcfisher](http://twitter.com/@adamcfisher)[[twitter.com]](https://twitter.com/BryanWilhite/status/1034973571326464000/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Triangulation 356: Adam Fisher, Valley of Genius [[youtube.com]](https://www.youtube.com/watch?v=xTqe2ACcwVQ)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

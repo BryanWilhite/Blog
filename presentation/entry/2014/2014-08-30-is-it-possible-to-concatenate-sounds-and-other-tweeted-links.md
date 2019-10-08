@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Is it possible to concatenate sounds? - Mathematica Stack Exchange http://t.co/z3AucFDEJT  dials are so old school. new #digital interfaces are changing the future of #music http://t.co/RlBdCcLFE2 @WeAreROLI http://t.co/UzSmX6vl9B  Sony started as an ele...",
-  "inceptDate": "2014-08-30T00:00:00",
-  "isPublished": true,
-  "slug": "is-it-possible-to-concatenate-sounds-and-other-tweeted-links",
-  "title": "“Is it possible to concatenate sounds?” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Is it possible to concatenate sounds?” and other Tweeted Links…",
+  "documentShortName": "2014-08-30-is-it-possible-to-concatenate-sounds-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-08-30-is-it-possible-to-concatenate-sounds-and-other-tweeted-links",
+  "date": "2014-08-30T07:00:00.000Z",
+  "modificationDate": "2014-08-30T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-08-30-is-it-possible-to-concatenate-sounds-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Is it possible to concatenate sounds? - Mathematica Stack Exchange http://t.co/z3AucFDEJT  dials are so old school. new #digital interfaces are changing the future of #music http://t.co/RlBdCcLFE2 @WeAreROLI http://t.co/UzSmX6vl9B  Sony started as an ele...\"\r\n}"
 }
 ---
+
+# “Is it possible to concatenate sounds?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Is it possible to concatenate sounds? - Mathematica Stack Exchange [http://t.co/z3AucFDEJT](http://t.co/z3AucFDEJT)</span>
 
@@ -54,3 +64,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>BigO operations to measure algorithm efficiency ... removing a LinkedListNode causes the list to automatically select Next/Previous?</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>AngularUI for AngularJS [http://t.co/0SHgu3NrK4](http://t.co/0SHgu3NrK4) [#angularjs](http://search.twitter.com/search?q=%23angularjs)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Windows 8.1 Review - http://t.co/Mbq7uKahAB  Mark your calendars for Windows 8.1! http://t.co/kxbLef2ehw  For those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: http://t.co/qKKwexPg2t  Windows ...",
-  "inceptDate": "2013-09-14T00:00:00",
-  "isPublished": true,
-  "slug": "windows-8-1-review-and-other-tweeted-links",
-  "title": "“Windows 8.1 Review” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Windows 8.1 Review” and other Tweeted Links…",
+  "documentShortName": "2013-09-14-windows-8-1-review-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-09-14-windows-8-1-review-and-other-tweeted-links",
+  "date": "2013-09-14T07:00:00.000Z",
+  "modificationDate": "2013-09-14T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-09-14-windows-8-1-review-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Windows 8.1 Review - http://t.co/Mbq7uKahAB  Mark your calendars for Windows 8.1! http://t.co/kxbLef2ehw  For those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: http://t.co/qKKwexPg2t  Windows ...\"\r\n}"
 }
 ---
+
+# “Windows 8.1 Review” and other Tweeted Links…
 
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://t.co/Vkop5du5sA "Paul Thurrott [thurrott]") <span>Windows 8.1 Review - [http://t.co/Mbq7uKahAB](http://t.co/Mbq7uKahAB)</span>
 
@@ -74,3 +84,5 @@
 [<img alt="CSSconf.eu [CSSconfeu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CSSconfeu.png">](http://t.co/6vSkQsxcgd "CSSconf.eu [CSSconfeu]") <span>Announcing Nicole Sullivan ([@stubbornella](http://twitter.com/stubbornella)) as keynote speaker and Jed Schmidt ([@jedschmidt](http://twitter.com/jedschmidt)) as host of CSSconf.eu: [http://t.co/dV69wYrQuk](http://t.co/dV69wYrQuk)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>i know it's a from a year ago but [@sh4na](http://twitter.com/sh4na) never told me about it :{ ..Andreia Gaita - Inside Mono for Android [http://t.co/fJ3YfizWjI](http://t.co/fJ3YfizWjI)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

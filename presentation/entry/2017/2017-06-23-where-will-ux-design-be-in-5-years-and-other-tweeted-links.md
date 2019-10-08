@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Where will UX Design be in 5 years? [trydesignlab.com] 7 deadly text-related sins in presentations [blog.niftio.com] Opinionated Comparison of React, Angular2, and Aurelia · stickfigure/blog Wiki [github.com] Issue #1522 from Microsoft/BashOnWindows [git...",
-  "inceptDate": "2017-06-23T16:50:32.9357117-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "where-will-ux-design-be-in-5-years-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Where will UX Design be in 5 years?” and other Tweeted Links…",
+  "documentShortName": "2017-06-23-where-will-ux-design-be-in-5-years-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-06-23-where-will-ux-design-be-in-5-years-and-other-tweeted-links",
+  "date": "2017-06-23T23:50:32.935Z",
+  "modificationDate": "2017-06-23T23:50:32.935Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Where will UX Design be in 5 years?” and other Tweeted Links…"
+  "clientId": "2017-06-23-where-will-ux-design-be-in-5-years-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Where will UX Design be in 5 years? [trydesignlab.com] 7 deadly text-related sins in presentations [blog.niftio.com] Opinionated Comparison of React, Angular2, and Aurelia · stickfigure/blog Wiki [github.com] Issue #1522 from Microsoft/BashOnWindows [git...\"\r\n}"
 }
 ---
+
+# “Where will UX Design be in 5 years?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Where will UX Design be in 5 years? [[trydesignlab.com]](http://trydesignlab.com/blog/where-ux-design-5-years-predictions/)
 
@@ -55,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A beginner’s guide to Mastodon, the hot new open-source Twitter clone [[theverge.com]](http://www.theverge.com/2017/4/7/15183128/mastodon-open-source-twitter-clone-how-to-use)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project Nami - WordPress without LIMITs [[projectnami.org]](http://projectnami.org/) [WP on SQL Server] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project Nami - WordPress without LIMITs [[projectnami.org]](http://projectnami.org/) [WP on SQL Server]
 
 [<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]") Setting Up [#DotnetCore](http://twitter.com/search?q=%23DotnetCore) Dev Environment with Dotnet CLI and Visual Studio Code [[youtu.be]](http://youtu.be/ZSEzm2AcjWA?a)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Security Researcher Says Samsung's Tizen OS Is The Worst Code He's Ever Seen [[tech.slashdot.org]](https://tech.slashdot.org/story/17/04/04/2041242/security-researcher-says-samsungs-tizen-os-is-the-worst-code-hes-ever-seen?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/z3X49SYvbo0?a) Adding 140 TERABYTES to the Studio with Linus! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/z3X49SYvbo0?a) Adding 140 TERABYTES to the Studio with Linus!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ubuntu abandons its phone efforts, will switch back to GNOME [[theverge.com]](http://www.theverge.com/circuitbreaker/2017/4/5/15198178/ubuntu-abandons-phone-moves-back-to-gnome)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Montana senator wants to tax every visiting cyclist [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/montana-senator-wants-tax-every-visiting-cyclist-323689)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Search for the Universe’s Missing Antimatter Remains Annoyingly Nebulous [[wired.com]](https://www.wired.com/2017/04/hunt-universes-missing-antimatter/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis &amp; I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...",
-  "inceptDate": "2014-06-27T00:00:00",
-  "isPublished": true,
-  "slug": "greg-young-on-ddd-and-other-tweeted-links",
-  "title": "“Greg Young on DDD” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Greg Young on DDD” and other Tweeted Links…",
+  "documentShortName": "2014-06-27-greg-young-on-ddd-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-06-27-greg-young-on-ddd-and-other-tweeted-links",
+  "date": "2014-06-27T07:00:00.000Z",
+  "modificationDate": "2014-06-27T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-06-27-greg-young-on-ddd-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis &amp; I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...\"\r\n}"
 }
 ---
+
+# “Greg Young on DDD” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo [http://t.co/Q8PGaavi2O](http://t.co/Q8PGaavi2O) [#DDD](http://search.twitter.com/search?q=%23DDD)</span>
 
@@ -58,3 +68,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Is TDD Dead [http://t.co/sE2UXy0lNz](http://t.co/sE2UXy0lNz) [@martinfowler](http://twitter.com/martinfowler) [#video](http://search.twitter.com/search?q=%23video)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>'Narcissists' perform best in job interviews according to study - [http://t.co/AC1e7ohWLq](http://t.co/AC1e7ohWLq)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

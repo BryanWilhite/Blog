@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "What is GitHub Pages? [youtube.com] 6 Node.js Static Site Generators [sitepoint.com]@ciara3D 6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial) [hackernoon.com] opentype.js – JavaScript parser/writer for OpenType and TrueType fonts. [o...",
-  "inceptDate": "2017-04-06T16:34:19.2972501-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "what-is-github-pages-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“What is GitHub Pages?” and other Tweeted Links…",
+  "documentShortName": "2017-04-06-what-is-github-pages-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-04-06-what-is-github-pages-and-other-tweeted-links",
+  "date": "2017-04-06T23:34:19.297Z",
+  "modificationDate": "2017-04-06T23:34:19.297Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“What is GitHub Pages?” and other Tweeted Links…"
+  "clientId": "2017-04-06-what-is-github-pages-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"What is GitHub Pages? [youtube.com] 6 Node.js Static Site Generators [sitepoint.com]@ciara3D 6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial) [hackernoon.com] opentype.js – JavaScript parser/writer for OpenType and TrueType fonts. [o...\"\r\n}"
 }
 ---
+
+# “What is GitHub Pages?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What is GitHub Pages? [[youtube.com]](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
@@ -29,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core Snippets for Visual Studio Code - Shawn Wildermuth [[wildermuth.com]](https://wildermuth.com/2017/02/14/ASP-NET-Core-Snippets-for-Visual-Studio-Code)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding Middleware in [[asp.net]](http://ASP.NET) Core [[myview.rahulnivi.net]](http://myview.rahulnivi.net/understanding-middleware-asp-net-core/) [recommended by [@jongalloway](http://twitter.com/jongalloway)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding Middleware in [[asp.net]](http://ASP.NET) Core [[myview.rahulnivi.net]](http://myview.rahulnivi.net/understanding-middleware-asp-net-core/) [recommended by [@jongalloway](http://twitter.com/jongalloway)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to Koa.js - YouTube [[youtube.com]](https://www.youtube.com/watch?v=z6ihthEwXDk)
 
@@ -63,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Haskelly – Haskell extension for Visual Studio Code – Microsoft Faculty Connection [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/02/13/introducing-haskelly-extension-for-visual-studio-code/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What happened to my Thread.CurrentPrincipal [@davidpine7](http://twitter.com/davidpine7)[[davidpine.net]](http://davidpine.net/blog/principal-architecture-changes/) [recommended by [@jongalloway](http://twitter.com/jongalloway)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What happened to my Thread.CurrentPrincipal [@davidpine7](http://twitter.com/davidpine7)[[davidpine.net]](http://davidpine.net/blog/principal-architecture-changes/) [recommended by [@jongalloway](http://twitter.com/jongalloway)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Emojis from Microsoft Windows 10 Anniversary Update are displayed below.” [[emojipedia.org]](http://emojipedia.org/microsoft/) »… [[twitter.com]](https://twitter.com/i/web/status/848943678542536706)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Curated list of falsehoods programmers believe in. [[github.com]](https://github.com/kdeldycke/awesome-falsehood)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Profit is the ultimate flexibility because it buys you the ultimate luxury: time.” [[m.signalvnoise.com]](https://m.signalvnoise.com/why-we-choose-profit-e511efc4dcb9#.wq5h9xa0y)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

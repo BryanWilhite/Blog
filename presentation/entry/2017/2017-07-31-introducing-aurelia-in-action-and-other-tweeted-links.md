@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Introducing Aurelia in Action [blog.aurelia.io] An experienced Javascript developer’s account of learning React [medium.com] Using ImageSharp to resize images in [asp.net] Core - a comparison with CoreCompat.System.Drawing [andrewlock.net] OSS Spotlight:...",
-  "inceptDate": "2017-07-31T14:09:56.5099601-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introducing-aurelia-in-action-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introducing Aurelia in Action” and other Tweeted Links…",
+  "documentShortName": "2017-07-31-introducing-aurelia-in-action-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-07-31-introducing-aurelia-in-action-and-other-tweeted-links",
+  "date": "2017-07-31T21:09:56.509Z",
+  "modificationDate": "2017-07-31T21:09:56.509Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introducing Aurelia in Action” and other Tweeted Links…"
+  "clientId": "2017-07-31-introducing-aurelia-in-action-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introducing Aurelia in Action [blog.aurelia.io] An experienced Javascript developer’s account of learning React [medium.com] Using ImageSharp to resize images in [asp.net] Core - a comparison with CoreCompat.System.Drawing [andrewlock.net] OSS Spotlight:...\"\r\n}"
 }
 ---
+
+# “Introducing Aurelia in Action” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Aurelia in Action [[blog.aurelia.io]](http://blog.aurelia.io/2017/07/13/introducing-aurelia-in-action/)
 
@@ -104,3 +110,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Beyond Infinity: An Expedition to the Outer Limits of Mathematics [[amazon.com]](https://www.amazon.com/Beyond-Infinity-Expedition-Limits-Mathematics/dp/0465094813?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0465094813)[@DrEugeniaCheng](http://twitter.com/DrEugeniaCheng)[[twitter.com]](https://twitter.com/BryanWilhite/status/888357937420357632/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics [[amazon.com]](https://www.amazon.com/How-Bake-Pi-Exploration-Mathematics/dp/0465097677?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0465097677)[@DrEugeniaCheng](http://twitter.com/DrEugeniaCheng)[[twitter.com]](https://twitter.com/BryanWilhite/status/888433443964682240/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

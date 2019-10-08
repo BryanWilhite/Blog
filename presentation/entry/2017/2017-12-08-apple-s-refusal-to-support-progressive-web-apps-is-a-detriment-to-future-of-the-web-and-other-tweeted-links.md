@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "'Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web' [apple.slashdot.org] burned again: i thought using @angular/material with @angular 4.x would be a walk in the park along a garden path m… [twitter.com] “The complete gu...",
-  "inceptDate": "2017-12-08T12:31:23.547079-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "apple-s-refusal-to-support-progressive-web-apps-is-a-detriment-to-future-of-the-web-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web” and other Tweeted Links…",
+  "documentShortName": "2017-12-08-apple-s-refusal-to-support-progressive-web-apps-is-a-detriment-to-future-of-the-web-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-08-apple-s-refusal-to-support-progressive-web-apps-is-a-detriment-to-future-of-the-web-and-other-tweeted-links",
+  "date": "2017-12-08T20:31:23.547Z",
+  "modificationDate": "2017-12-08T20:31:23.547Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web” and other Tweeted Links…"
+  "clientId": "2017-12-08-apple-s-refusal-to-support-progressive-web-apps-is-a-detriment-to-future-of-the-web-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"'Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web' [apple.slashdot.org] burned again: i thought using @angular/material with @angular 4.x would be a walk in the park along a garden path m… [twitter.com] “The complete gu...\"\r\n}"
 }
 ---
+
+# “Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 'Apple's Refusal To Support Progressive Web Apps is a Detriment To Future of the Web' [[apple.slashdot.org]](https://apple.slashdot.org/story/17/07/27/185248/apples-refusal-to-support-progressive-web-apps-is-a-detriment-to-future-of-the-web?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -23,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Shoelace.css – A back to the basics CSS starter kit [[shoelace.style]](https://shoelace.style/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/2osMpXOe5fA?a) How to Build an Angular 5 Material App 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/2osMpXOe5fA?a) How to Build an Angular 5 Material App
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Peachpie - Open Source PHP Compiler to .NET and WordPress under [[asp.net]](http://ASP.NET) Core [[hanselman.com]](https://www.hanselman.com/blog/PeachpieOpenSourcePHPCompilerToNETAndWordPressUnderASPNETCore.aspx)
 
@@ -51,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core MVC - Custom Tag Helpers - CodingBlast [[codingblast.com]](https://codingblast.com/asp-net-core-mvc-custom-tag-helpers/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Encrypting connection strings in web.config - Simple Talk [[red-gate.com]](https://www.red-gate.com/simple-talk/dotnet/net-framework/encrypting-connection-strings-web-config/) [w/ pubxml; depends on aspnet_regiis] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Encrypting connection strings in web.config - Simple Talk [[red-gate.com]](https://www.red-gate.com/simple-talk/dotnet/net-framework/encrypting-connection-strings-web-config/) [w/ pubxml; depends on aspnet_regiis]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Training a neural network to play Hangman without a dictionary | Blog | Microsoft Azure [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/hangman/)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for the corporate socialite, process will always have the higher priority and "over" valuing content will be condem… [[twitter.com]](https://twitter.com/i/web/status/936126161997807616)
 
 [<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") I hate it when your car service dept says there is going to be a survey and then basically tells you that anything… [[twitter.com]](https://twitter.com/i/web/status/939192836913692672)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

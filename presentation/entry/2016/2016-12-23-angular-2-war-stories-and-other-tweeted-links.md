@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Angular 2 War Stories: use NG CLI; Bootstrap over Material; new NG 1.x work is technical debt [ow.ly] Angular 2: “the framework claims to be more stable than its dependency and the language it is built on” [ow.ly] Angular-CLI Meets Webpack – Medium [ow.l...",
-  "inceptDate": "2016-12-23T16:27:19.730341-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angular-2-war-stories-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Angular 2 War Stories” and other Tweeted Links…",
+  "documentShortName": "2016-12-23-angular-2-war-stories-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-12-23-angular-2-war-stories-and-other-tweeted-links",
+  "date": "2016-12-24T00:27:19.730Z",
+  "modificationDate": "2016-12-24T00:27:19.730Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Angular 2 War Stories” and other Tweeted Links…"
+  "clientId": "2016-12-23-angular-2-war-stories-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Angular 2 War Stories: use NG CLI; Bootstrap over Material; new NG 1.x work is technical debt [ow.ly] Angular 2: “the framework claims to be more stable than its dependency and the language it is built on” [ow.ly] Angular-CLI Meets Webpack – Medium [ow.l...\"\r\n}"
 }
 ---
+
+# “Angular 2 War Stories” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 2 War Stories: use NG CLI; Bootstrap over Material; new NG 1.x work is technical debt [[ow.ly]](http://ow.ly/E2Ph306Jh0Z)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") git: “When you file a pull request, all you’re doing is requesting that another developer …pulls a branch…” [[ow.ly]](http://ow.ly/yDBL306J5Xv)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Netflix Tech Blog: NetflixOSS: Announcing Hollow [[ow.ly]](http://ow.ly/l32G306PWdP) [a java thing] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Netflix Tech Blog: NetflixOSS: Announcing Hollow [[ow.ly]](http://ow.ly/l32G306PWdP) [a java thing]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Franc[e]sco's Gopherspace: /articles/modern_software_is_at_its_worst.txt [[ow.ly]](http://ow.ly/ilyi306DPjh)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started - Windows 10 IoT Core + Raspberry Pi 3 [[ow.ly]](http://ow.ly/gf2e306Ls2L)
 
-[<img alt="Allison Sheridan [podfeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/podfeet.jpg">](http://t.co/7BrIfzMZt7 "Allison Sheridan [podfeet]") Stop what you’re doing &amp; download Chit Chat Across the Pond [@BigChrisAshley](http://twitter.com/BigChrisAshley) is back to talk Microsoft! [[podfeet.com]](http://www.podfeet.com/blog/2016/12/ccatp-468/) SO fun! 
+[<img alt="Allison Sheridan [podfeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/podfeet.jpg">](http://t.co/7BrIfzMZt7 "Allison Sheridan [podfeet]") Stop what you’re doing &amp; download Chit Chat Across the Pond [@BigChrisAshley](http://twitter.com/BigChrisAshley) is back to talk Microsoft! [[podfeet.com]](http://www.podfeet.com/blog/2016/12/ccatp-468/) SO fun!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@bigChrisAshley](http://twitter.com/bigChrisAshley), I am sure that [@Bizmonger](http://twitter.com/Bizmonger) would like to chat with you; check out his channel: [[youtube.com]](https://www.youtube.com/user/Bizmonger)
 
@@ -95,10 +101,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft's annual shareholders meeting now available to watch on-demand - MSPoweruser [[ow.ly]](http://ow.ly/xcvl306L0DH)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@HIRED_UK](http://twitter.com/HIRED_UK)! ..can you guys help [@Bizmonger](http://twitter.com/Bizmonger) out with some advice about this: [[youtube.com]](https://www.youtube.com/watch?v=DeOJ7JU3yic&t=3s) ? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@HIRED_UK](http://twitter.com/HIRED_UK)! ..can you guys help [@Bizmonger](http://twitter.com/Bizmonger) out with some advice about this: [[youtube.com]](https://www.youtube.com/watch?v=DeOJ7JU3yic&t=3s) ?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Atomico - Great companies can come from anywhere [[ow.ly]](http://ow.ly/qYJe306NzKU)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I Work From Anywhere In The World — Wanderling [[ow.ly]](http://ow.ly/WywG306LI2n)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Man Who Invented VR Goggles 50 Years Too Soon - IEEE Spectrum [[ow.ly]](http://ow.ly/vnIZ306Joqd)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

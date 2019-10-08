@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "This is Q4 2017. It has taken me this long to formally explore the Web-app landscape. My personal desire for formality and relatively deep reflection has left my company web site and this Blog stuck in Angular 1.x and outside of ASP.NET Core. From a “tim...",
-  "inceptDate": "2017-10-12T13:09:37.595452-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "my-current-aurelia-inspired-web-app-technology-road-map",
+  "documentId": 0,
+  "title": "My Current, Aurelia-Inspired, Web-App Technology Road Map",
+  "documentShortName": "2017-10-12-my-current-aurelia-inspired-web-app-technology-road-map",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-12-my-current-aurelia-inspired-web-app-technology-road-map",
+  "date": "2017-10-12T20:09:37.595Z",
+  "modificationDate": "2017-10-12T20:09:37.595Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "My Current, Aurelia-Inspired, Web-App Technology Road Map"
+  "clientId": "2017-10-12-my-current-aurelia-inspired-web-app-technology-road-map",
+  "tag": "{\r\n  \"extract\": \"This is Q4 2017. It has taken me this long to formally explore the Web-app landscape. My personal desire for formality and relatively deep reflection has left my company web site and this Blog stuck in Angular 1.x and outside of ASP.NET Core. From a “tim...\"\r\n}"
 }
 ---
+
+# My Current, Aurelia-Inspired, Web-App Technology Road Map
 
 This is Q4 2017. It has taken me this long to *formally* explore the Web-app landscape. My personal desire for formality and relatively deep reflection has left [my company web site](http://songhaysystem.com) and this Blog stuck in Angular 1.x and outside of ASP.NET Core. From a “time-to-market” point of view this has been a colossal “failure” for 2017. My career as a software developer has been centered around building UI/UX and from my point of view I have little to show that this centering ever existed—let alone raged like a fire for the last 20 years.
 
@@ -50,3 +56,5 @@ My self-education work in the `dotnet-fable-minimal`[folder](https://github.com/
 ## Q4 2018
 
 I actually will consider it failure: finding myself in Q4 2018 having moved not very far from my current location, still presenting Angular 1.x to the Web. The preparation has been quite substantial and the professional introspection quite deep. I am optimistic that, barring tragedy, my next moves on the Web will be quite satisfying.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

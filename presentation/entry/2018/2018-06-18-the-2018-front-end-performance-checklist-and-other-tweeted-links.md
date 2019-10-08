@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "The 2018 front-end performance checklist: [bit.ly] — must read for every web developer. [twitter.com] New Aurelia Blog \"Server Side Rendering\" [aurelia.io] New flexbox guides on #MDN[hacks.mozilla.org]#CSS If you're a .NET developer that does web develop...",
-  "inceptDate": "2018-06-18T10:22:43.1651175-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-2018-front-end-performance-checklist-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The 2018 front-end performance checklist…” and other Tweeted Links…",
+  "documentShortName": "2018-06-18-the-2018-front-end-performance-checklist-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-06-18-the-2018-front-end-performance-checklist-and-other-tweeted-links",
+  "date": "2018-06-18T17:22:43.165Z",
+  "modificationDate": "2018-06-18T17:22:43.165Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The 2018 front-end performance checklist…” and other Tweeted Links…"
+  "clientId": "2018-06-18-the-2018-front-end-performance-checklist-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The 2018 front-end performance checklist: [bit.ly] — must read for every web developer. [twitter.com] New Aurelia Blog \\\"Server Side Rendering\\\" [aurelia.io] New flexbox guides on #MDN[hacks.mozilla.org]#CSS If you're a .NET developer that does web develop...\"\r\n}"
 }
 ---
+
+# “The 2018 front-end performance checklist…” and other Tweeted Links…
 
 [<img alt="Ilya Grigorik [igrigorik]" src="https://songhay.blob.core.windows.net/shared-social-twitter/igrigorik.jpeg">](http://t.co/ROw1Xfz3Vo "Ilya Grigorik [igrigorik]") The 2018 front-end performance checklist: [[bit.ly]](http://bit.ly/2ChV4SE) — must read for every web developer. [[twitter.com]](https://twitter.com/igrigorik/status/967961669593976832/photo/1)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[stackoverflow.com]](https://stackoverflow.com/questions/615202/c-sharp-graph-traversal)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0ALKGR0I5MA?a) Basic Sound Processing in Python | SciPy 2015 | Allen Downey 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0ALKGR0I5MA?a) Basic Sound Processing in Python | SciPy 2015 | Allen Downey
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Advanced Algorithms (COMPSCI 224), Lecture 1 [[youtu.be]](https://youtu.be/0JUN9aDxVmI)[@minilek](http://twitter.com/minilek)
 
@@ -87,7 +93,7 @@
 
 [<img alt="Emily Kager [EmilyKager]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EmilyKager.jpg">](https://t.co/jjw3I5vWwr "Emily Kager [EmilyKager]") My sister (freshman in college) texted me for Big-O proof help for her Algorithms class saying she's scared CS isn'… [[twitter.com]](https://twitter.com/i/web/status/967165799071809536)
 
-[<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") OH: As a MSFT employee [#MVPSummit](http://twitter.com/search?q=%23MVPSummit) is the perfect balance between meeting amazing people and being yelled at. 
+[<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") OH: As a MSFT employee [#MVPSummit](http://twitter.com/search?q=%23MVPSummit) is the perfect balance between meeting amazing people and being yelled at.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from [@leolaporte](http://twitter.com/leolaporte): Femtocell [[en.wikipedia.org]](https://en.wikipedia.org/wiki/Femtocell)
 
@@ -101,7 +107,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@terrajobst](http://twitter.com/terrajobst) And, yes, eventually there will be a "right" time to mention that almost everything cringe-worthy that… [[twitter.com]](https://twitter.com/i/web/status/971810366853234688)
 
-[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "The object-oriented version of spaghetti code is, of course, 'lasagna code'. Too many layers." - Roberto Waltman 
+[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "The object-oriented version of spaghetti code is, of course, 'lasagna code'. Too many layers." - Roberto Waltman
 
 [<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") My first personal computer. [[twitter.com]](https://twitter.com/jsnover/status/967858760134873094/photo/1)
 
@@ -110,3 +116,5 @@
 [<img alt="David McCandless [mccandelish]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mccandelish.jpg">](http://t.co/FZBi5Cxip6 "David McCandless [mccandelish]") One of the best (and funniest) accounts of a Vipassana medition retreat I've read: [[bit.ly]](http://bit.ly/2CINfBv)
 
 [<img alt="Dr. Yana Weinstein [doctorwhy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/doctorwhy.jpg">](https://t.co/kTA8WPW6jS "Dr. Yana Weinstein [doctorwhy]") Someone told me early on in my career: This isn’t some kind of magical higher calling. It’s just a job like any o… [[twitter.com]](https://twitter.com/i/web/status/1008043723010297856)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

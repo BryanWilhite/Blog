@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Windows 10 Anniversary Update, Desktop App Converter Preview – Starting from Source [mtaulty.com] Windows 10, UWP and Composition–Light and Shade [mtaulty.com] via @wordpressdotcom UWP - Enriching Your Apps (Channel 9) [channel9.msdn.com] via @shenchauha...",
-  "inceptDate": "2016-09-16T14:40:53.2638271-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "windows-10-anniversary-update-desktop-app-converter-preview-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Windows 10 Anniversary Update, Desktop App Converter Preview” and other Tweeted Links…",
+  "documentShortName": "2016-09-16-windows-10-anniversary-update-desktop-app-converter-preview-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-16-windows-10-anniversary-update-desktop-app-converter-preview-and-other-tweeted-links",
+  "date": "2016-09-16T21:40:53.263Z",
+  "modificationDate": "2016-09-16T21:40:53.263Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Windows 10 Anniversary Update, Desktop App Converter Preview” and other Tweeted Links…"
+  "clientId": "2016-09-16-windows-10-anniversary-update-desktop-app-converter-preview-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Windows 10 Anniversary Update, Desktop App Converter Preview – Starting from Source [mtaulty.com] Windows 10, UWP and Composition–Light and Shade [mtaulty.com] via @wordpressdotcom UWP - Enriching Your Apps (Channel 9) [channel9.msdn.com] via @shenchauha...\"\r\n}"
 }
 ---
+
+# “Windows 10 Anniversary Update, Desktop App Converter Preview” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Anniversary Update, Desktop App Converter Preview – Starting from Source [[mtaulty.com]](https://mtaulty.com/2016/08/12/windows-10-anniversary-update-desktop-app-converter-preview-starting-from-source/)
 
@@ -59,15 +65,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i touched the .bashrc file and now I am getting "input/output" errors -will probably have to uninstall and reinstall to fix [@shanselman](http://twitter.com/shanselman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman): this worked: sudo cp /etc/skel/.bashrc ~/ 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman): this worked: sudo cp /etc/skel/.bashrc ~/
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) lxss allowed the file to be copied in spite of permissions [[[askubuntu.com]](http://askubuntu.com/questions/404424/how-do-i-restore-bashrc-to-its-default)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) lxss allowed the file to be copied in spite of permissions [[[askubuntu.com]](http://askubuntu.com/questions/404424/how-do-i-restore-bashrc-to-its-default)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") %UserProfile%\AppData\Local\lxss\home is permission-denied from the Win10 bash shell; use Explorer to see home drive [[twitter.com]](http://twitter.com/BryanWilhite/status/763587424228212737/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 'ey [@iambacon](http://twitter.com/iambacon): have you tried to install/use npm/bower in Win10 bash exclusively? [@shanselman](http://twitter.com/shanselman)? [@mkristensen](http://twitter.com/mkristensen)? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 'ey [@iambacon](http://twitter.com/iambacon): have you tried to install/use npm/bower in Win10 bash exclusively? [@shanselman](http://twitter.com/shanselman)? [@mkristensen](http://twitter.com/mkristensen)?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VMware](http://twitter.com/VMware) Workstation beats my hard drive to death and freezes ("not responding") as it deals with hosting Windows 10 4GB allocated/16GB RAM. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VMware](http://twitter.com/VMware) Workstation beats my hard drive to death and freezes ("not responding") as it deals with hosting Windows 10 4GB allocated/16GB RAM.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create a Self-Signed Certificate Using PowerShell [[petri.com]](https://www.petri.com/create-self-signed-certificate-using-powershell)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Every major cable TV company lost subscribers last quarter [[arstechnica.com]](http://arstechnica.com/information-technology/2016/08/every-major-cable-tv-company-lost-subscribers-last-quarter/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Time Warner Cable still inflexible... just checking... [[twitter.com]](http://twitter.com/BryanWilhite/status/765426214546706432/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

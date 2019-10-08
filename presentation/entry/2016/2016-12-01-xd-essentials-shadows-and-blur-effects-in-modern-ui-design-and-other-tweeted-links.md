@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "XD Essentials: Shadows and Blur Effects in Modern UI Design | Creative Cloud blog by Adobe [ow.ly] Exploring Repeat Grid In Adobe XD – Smashing Magazine [ow.ly] 5 Typography Secrets to Transform Your Designs [ow.ly] How ‘Minority Report’ Trapped Us In A ...",
-  "inceptDate": "2016-12-01T15:46:10.8867852-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "xd-essentials-shadows-and-blur-effects-in-modern-ui-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“XD Essentials: Shadows and Blur Effects in Modern UI Design” and other Tweeted Links…",
+  "documentShortName": "2016-12-01-xd-essentials-shadows-and-blur-effects-in-modern-ui-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-12-01-xd-essentials-shadows-and-blur-effects-in-modern-ui-design-and-other-tweeted-links",
+  "date": "2016-12-01T23:46:10.886Z",
+  "modificationDate": "2016-12-01T23:46:10.886Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“XD Essentials: Shadows and Blur Effects in Modern UI Design” and other Tweeted Links…"
+  "clientId": "2016-12-01-xd-essentials-shadows-and-blur-effects-in-modern-ui-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"XD Essentials: Shadows and Blur Effects in Modern UI Design | Creative Cloud blog by Adobe [ow.ly] Exploring Repeat Grid In Adobe XD – Smashing Magazine [ow.ly] 5 Typography Secrets to Transform Your Designs [ow.ly] How ‘Minority Report’ Trapped Us In A ...\"\r\n}"
 }
 ---
+
+# “XD Essentials: Shadows and Blur Effects in Modern UI Design” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") XD Essentials: Shadows and Blur Effects in Modern UI Design | Creative Cloud blog by Adobe [[ow.ly]](http://ow.ly/aKXz306eLh6)
 
@@ -59,11 +65,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Another fancy term for what most of us do all the time: “Static program analysis” [[ow.ly]](http://ow.ly/1dLA306hANz) « [@Bizmonger](http://twitter.com/Bizmonger)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Bizmonger](http://twitter.com/Bizmonger) DDD people call the classic OOP object "anemic" ---does F# address the "anemic" object problem? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Bizmonger](http://twitter.com/Bizmonger) DDD people call the classic OOP object "anemic" ---does F# address the "anemic" object problem?
 
-[<img alt="Mark Seemann [ploeh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ploeh.jpeg">](http://t.co/WDKjpymVlP "Mark Seemann [ploeh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) It does, but mostly because 'anemic' is a critique against lack of OOD, and FP, obviously, isn't OOD. 
+[<img alt="Mark Seemann [ploeh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ploeh.jpeg">](http://t.co/WDKjpymVlP "Mark Seemann [ploeh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) It does, but mostly because 'anemic' is a critique against lack of OOD, and FP, obviously, isn't OOD.
 
-[<img alt="Mark Seemann [ploeh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ploeh.jpeg">](http://t.co/WDKjpymVlP "Mark Seemann [ploeh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) So the answer is bordering on tautological, I'm afraid... 
+[<img alt="Mark Seemann [ploeh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ploeh.jpeg">](http://t.co/WDKjpymVlP "Mark Seemann [ploeh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) So the answer is bordering on tautological, I'm afraid...
 
 [<img alt="Mark Seemann [ploeh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ploeh.jpeg">](http://t.co/WDKjpymVlP "Mark Seemann [ploeh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) I do briefly touch on the subject here, though: [[vimeo.com]](https://vimeo.com/180287057)
 
@@ -81,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Surface Studio: Review [@Devindra](http://twitter.com/Devindra)[[ow.ly]](http://ow.ly/Ploy306hxCP)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/8K6xWITOxso?a) Surface Dial Unboxing &amp; Review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/8K6xWITOxso?a) Surface Dial Unboxing &amp; Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HP rumoured to be working on consumer Windows Phone for February 2017 - MSPoweruser [[ow.ly]](http://ow.ly/Fa80306kceZ)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft says it will tie executive bonuses to diversity hiring goals - The Verge [[ow.ly]](http://ow.ly/Ei0r306kcDu)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Troy Hunt: 8 million GitHub profiles were leaked from GeekedIn's MongoDB - here's how to see yours [[ow.ly]](http://ow.ly/7QQp306kc7Q)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

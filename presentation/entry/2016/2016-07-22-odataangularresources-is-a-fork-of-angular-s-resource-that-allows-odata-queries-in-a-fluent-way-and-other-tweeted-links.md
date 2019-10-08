@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way. [github.com] Pure CSS loading animations with Loaders.css [webdtweets.com] Flexbox Patterns: Ready-To-Use Building Blocks for Your Design [noupe.com] “Liv...",
-  "inceptDate": "2016-07-22T16:33:02.2055657-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "odataangularresources-is-a-fork-of-angular-s-resource-that-allows-odata-queries-in-a-fluent-way-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way” and other Tweeted Links…",
+  "documentShortName": "2016-07-22-odataangularresources-is-a-fork-of-angular-s-resource-that-allows-odata-queries-in-a-fluent-way-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-07-22-odataangularresources-is-a-fork-of-angular-s-resource-that-allows-odata-queries-in-a-fluent-way-and-other-tweeted-links",
+  "date": "2016-07-22T23:33:02.205Z",
+  "modificationDate": "2016-07-22T23:33:02.205Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way” and other Tweeted Links…"
+  "clientId": "2016-07-22-odataangularresources-is-a-fork-of-angular-s-resource-that-allows-odata-queries-in-a-fluent-way-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way. [github.com] Pure CSS loading animations with Loaders.css [webdtweets.com] Flexbox Patterns: Ready-To-Use Building Blocks for Your Design [noupe.com] “Liv...\"\r\n}"
 }
 ---
+
+# “ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ODataAngularResources is a fork of Angular's $resource that allows.. OData queries in a fluent way. [[github.com]](https://github.com/devnixs/ODataAngularResources)
 
@@ -25,7 +31,7 @@
 
 [<img alt="Antoine Plu [AntoinePlu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AntoinePlu.jpg">](https://t.co/5War9ASvj4 "Antoine Plu [AntoinePlu]") Stop the overuse of overflow menus By [@dburka](http://twitter.com/dburka)[[buff.ly]](http://buff.ly/2a0WFtv)
 
-[<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpg">](http://t.co/afPzPB8x56 "Shawn Wildermuth [ShawnWildermuth]")[#Angular2](http://twitter.com/search?q=%23Angular2) has a surprisingly large amount of ceremony and seems focused on monolithic apps. Need to think more about it 
+[<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpg">](http://t.co/afPzPB8x56 "Shawn Wildermuth [ShawnWildermuth]")[#Angular2](http://twitter.com/search?q=%23Angular2) has a surprisingly large amount of ceremony and seems focused on monolithic apps. Need to think more about it
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linux Is the Largest Software Development Project On the Planet: Greg K-H [[linux.slashdot.org]](https://linux.slashdot.org/story/16/05/12/184256/linux-is-the-largest-software-development-project-on-the-planet-greg-k-h?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -41,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Regular expressions you can read: A new visual syntax (and UI) [[medium.com]](https://medium.com/@savolai/regular-expressions-you-can-read-a-new-visual-syntax-526c3cf45df1)
 
-[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") sysadmins are much crankier than programmers, but they evolved a superior sense of humor to compensate! 
+[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") sysadmins are much crankier than programmers, but they evolved a superior sense of humor to compensate!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Check out Flurl! Fluent URL builder and testable HTTP for .NET [[tmenier.github.io]](http://tmenier.github.io/Flurl/) via [@FlurlHttp](http://twitter.com/FlurlHttp)
 
@@ -75,8 +81,10 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") on Kindle: Continuous Delivery: Reliable Software Releases through Build, Test, Deployment [[amazon.com]](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB003YMNVC0)[[twitter.com]](http://twitter.com/BryanWilhite/status/732709831157538816/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") let me just say before anything happens that the ideal Google dev *respects* advertising "culture" and has masterful C++ or Java heritage 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") let me just say before anything happens that the ideal Google dev *respects* advertising "culture" and has masterful C++ or Java heritage
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yes, i understand that ex-Microsoft devs are Google employees but i assume that these are C++ people---not .NET-heritage folks 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yes, i understand that ex-Microsoft devs are Google employees but i assume that these are C++ people---not .NET-heritage folks
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How "Old" Technology Still Runs The World [[iafrikan.com]](http://www.iafrikan.com/2016/05/15/how-old-technology-still-runs-the-world/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

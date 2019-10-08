@@ -1,27 +1,33 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Build a digital book with EPUB [ibm.com]#ibm “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [github.com] ”        ePub Boilerplate [github.com] “pack mimefile to epub (mimetype MUST be first fil...",
-  "inceptDate": "2017-03-21T14:10:28.8063661-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "build-a-digital-book-with-epub-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Build a digital book with EPUB” and other Tweeted Links…",
+  "documentShortName": "2017-03-21-build-a-digital-book-with-epub-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-03-21-build-a-digital-book-with-epub-and-other-tweeted-links",
+  "date": "2017-03-21T21:10:28.806Z",
+  "modificationDate": "2017-03-21T21:10:28.806Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Build a digital book with EPUB” and other Tweeted Links…"
+  "clientId": "2017-03-21-build-a-digital-book-with-epub-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Build a digital book with EPUB [ibm.com]#ibm “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [github.com] ”        ePub Boilerplate [github.com] “pack mimefile to epub (mimetype MUST be first fil...\"\r\n}"
 }
 ---
 
+# “Build a digital book with EPUB” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Build a digital book with EPUB [[ibm.com]](http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/?platform=hootsuite)[#ibm](http://twitter.com/search?q=%23ibm)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [[github.com]](https://github.com/mattharrison/epub-css-starter-kit?platform=hootsuite) ” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Creating epubs that work in multiple readers can be painful…Here's a css file to help alleviate the pain. [[github.com]](https://github.com/mattharrison/epub-css-starter-kit?platform=hootsuite) ”
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ePub Boilerplate [[github.com]](https://github.com/javierarce/epub-boilerplate?platform=hootsuite)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “pack mimefile to epub (mimetype MUST be first file in archive and it MUST NOT be compressed!)” [[github.com]](https://github.com/ikrukov/epub?platform=hootsuite)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating an ebook with pandoc [[pandoc.org]](http://pandoc.org/epub.html?platform=hootsuite) [not seeing how folders are processed] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating an ebook with pandoc [[pandoc.org]](http://pandoc.org/epub.html?platform=hootsuite) [not seeing how folders are processed]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") when you don’t have well-formed XHTML and you like jQuery syntax then try Fizzler by [@raboof](http://twitter.com/raboof) ([#morelinq](http://twitter.com/search?q=%23morelinq)) [[github.com]](https://github.com/atifaziz/Fizzler?platform=hootsuite)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I know [@mkristensen](http://twitter.com/mkristensen) is super-busy (etc., etc.) but the UX of Web Essentials is in need -someone needs to have a cof… [[twitter.com]](https://twitter.com/i/web/status/840310656960151552)
 
-[<img alt="Mads Kristensen [mkristensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mkristensen.jpeg">](http://t.co/uzMyatLQEv "Mads Kristensen [mkristensen]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@wasbuxton](http://twitter.com/wasbuxton) I know, I know. Haven't gotten around to fixing it, but will soon - hopefully 
+[<img alt="Mads Kristensen [mkristensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mkristensen.jpeg">](http://t.co/uzMyatLQEv "Mads Kristensen [mkristensen]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@wasbuxton](http://twitter.com/wasbuxton) I know, I know. Haven't gotten around to fixing it, but will soon - hopefully
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ventusky - Wind, Rain and Temperature Maps [[ventusky.com]](https://www.ventusky.com/) » [@khemenutwilhite](http://twitter.com/khemenutwilhite), [@tmrDevelops](http://twitter.com/tmrDevelops)
 
@@ -61,19 +67,19 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Supporting Linux on the desktop became a burden for independent developers.” [[tirania.org]](http://tirania.org/blog/archive/2012/Aug-29.html) « [@migueldeicaza](http://twitter.com/migueldeicaza)
 
-[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](http://t.co/Y2zRB337dJ "Miguel de Icaza [migueldeicaza]")[@BryanWilhite](http://twitter.com/BryanWilhite) flatpak is about to change that 
+[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](http://t.co/Y2zRB337dJ "Miguel de Icaza [migueldeicaza]")[@BryanWilhite](http://twitter.com/BryanWilhite) flatpak is about to change that
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@migueldeicaza](http://twitter.com/migueldeicaza) » Alexander Larsson: [[youtube.com]](https://www.youtube.com/watch?v=G1OFcNQ5Fw8)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TFS Power Tools for 2015 on the same box as VS2017 no longer works in the Explorer « [@tfsbuck](http://twitter.com/tfsbuck)[[twitter.com]](https://twitter.com/BryanWilhite/status/841801363445043201/photo/1)
 
-[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Do you have VS 2015 installed? You'll need some edition of VS 2015 for the power tools to work. 
+[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Do you have VS 2015 installed? You'll need some edition of VS 2015 for the power tools to work.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck) yep VS2015 and VS2017 on same box -would a 2017 install break the connection of TFSPT to the server in Explorer? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck) yep VS2015 and VS2017 on same box -would a 2017 install break the connection of TFSPT to the server in Explorer?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck) can I reconnect to the TFS server from the command line? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck) can I reconnect to the TFS server from the command line?
 
-[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hmm. Would you send me an email with whatever details you have? buckh-microsoft-com I'll probably need a Fiddler trace. 
+[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hmm. Would you send me an email with whatever details you have? buckh-microsoft-com I'll probably need a Fiddler trace.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck) running tf workspace /login:myUserName (from the VS2017 command prompt) seems to have resolved the issue [[visualstudio.com]](https://www.visualstudio.com/en-us/docs/tfvc/workspace-command)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google got it wrong. The open-office trend is destroying the workplace. - The Washington Post [[washingtonpost.com]](https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/?utm_term=.fc9aba1a5c15)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Satan’s Daughter approached me about working on a startup with her.” [[thoughtandactionblog.com]](https://thoughtandactionblog.com/2017/02/03/satans-daughter/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

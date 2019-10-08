@@ -1,19 +1,25 @@
 ---json
 {
-  "author": null,
-  "content": "Expression and implicit animations can now be applied directly in XAML!!  Check out @pag3rd talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML         #XAML developers are used to BooleanInverseConverters. But ...",
-  "inceptDate": "2019-01-08T09:56:47.546106-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "expression-and-implicit-animations-can-now-be-applied-directly-in-xaml-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Expression and implicit animations can now be applied directly in XAML” and other tweeted links…",
+  "documentShortName": "2019-01-08-expression-and-implicit-animations-can-now-be-applied-directly-in-xaml-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-08-expression-and-implicit-animations-can-now-be-applied-directly-in-xaml-and-other-tweeted-links",
+  "date": "2019-01-08T17:56:47.546Z",
+  "modificationDate": "2019-01-08T17:56:47.546Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Expression and implicit animations can now be applied directly in XAML” and other tweeted links…"
+  "clientId": "2019-01-08-expression-and-implicit-animations-can-now-be-applied-directly-in-xaml-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Expression and implicit animations can now be applied directly in XAML!!  Check out @pag3rd talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML         #XAML developers are used to BooleanInverseConverters. But ...\"\r\n}"
 }
 ---
 
-[<img alt="Windows UI [WindowsUI]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WindowsUI.jpg">](https://t.co/Ay5Yrsnd50) Expression and implicit animations can now be applied directly in XAML!! Check out [@pag3rd](http://twitter.com/@pag3rd) talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML 
+# “Expression and implicit animations can now be applied directly in XAML” and other tweeted links…
+
+[<img alt="Windows UI [WindowsUI]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WindowsUI.jpg">](https://t.co/Ay5Yrsnd50) Expression and implicit animations can now be applied directly in XAML!! Check out [@pag3rd](http://twitter.com/@pag3rd) talking about what's new in XAML BRK2423 What's New for Windows UX Developers: Fluent and XAML
 
 [<img alt="Thomas Cl. Huber [thomasclaudiush]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/thomasclaudiush.jpg">](http://t.co/3TEjFIisRc)[#XAML](http://twitter.com/search?q='%23XAML) developers are used to BooleanInverseConverters. But what if x:Bind would support that conversion with a C# style syntax? Would make your XAML code shorter and from my point of view more readable. If you think so too, vote for it: [[wpdev.uservoice.com]](https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/35028187-allow-c-style-boolean-conversion-with-x-bind)[#uwp](http://twitter.com/search?q='%23uwp)[#xbind](http://twitter.com/search?q='%23xbind)[#windev](http://twitter.com/search?q='%23windev)[[twitter.com]](https://twitter.com/thomasclaudiush/status/1025677073057284097/photo/1)
 
@@ -29,7 +35,7 @@
 
 [<img alt="Dustin Moris Gorski [dustinmoris]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dustinmoris.jpg">](https://t.co/B2DjnbI0Bg) Just released Giraffe 3.0.0! Huge perf improvements for the GiraffeViewEngine &amp; JSON endpoints, routes support Short GUIDs &amp; Short IDs (YouTube IDs), 1st class support for [[asp.net]](http://ASP.NET) Core's response caching (incl. VaryByQueryKey) and more! [[github.com]](https://github.com/giraffe-fsharp/Giraffe/releases/tag/v3.0.0)
 
-[<img alt="Dan Abramov [dan_abramov]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dan_abramov.jpg">](https://t.co/W27BzAGyLJ) ComponentConf should be a thing. JS umbrella is too generic and I want to zoom in a little bit. But React/Vue/Angular/Ember communities are too isolated and often don’t realize they talk about the same problems. Need a common space. 
+[<img alt="Dan Abramov [dan_abramov]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dan_abramov.jpg">](https://t.co/W27BzAGyLJ) ComponentConf should be a thing. JS umbrella is too generic and I want to zoom in a little bit. But React/Vue/Angular/Ember communities are too isolated and often don’t realize they talk about the same problems. Need a common space.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Support proposed ES Next "|&gt;" pipeline operator [#17718](http://twitter.com/search?q='%2317718)[[github.com]](https://github.com/Microsoft/TypeScript/issues/17718)
 
@@ -57,15 +63,15 @@
 
 [<img alt="Tablets News ™ [worldtabletnews]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/worldtabletnews.png">](https://twitter.com/worldtabletnews) Microsoft Unintentionally Details the Failure of the Windows Store [[twitter.com]](https://twitter.com/worldtabletnews/status/1042136282959413248/photo/1)
 
-[<img alt="David Kean [davkean]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davkean.jpg">](http://t.co/UEWWGkuNlk) Go back and change all your null checks because of [[rimdev.io]](https://rimdev.io/how-to-check-for-nulls-in-c-sharp/)? No. Theoritically (but not likely in practice) someone could overload == and violate normal semantics, but that would be a bug. You fix bugs at the source, not change 17 years of usage for them. 
+[<img alt="David Kean [davkean]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davkean.jpg">](http://t.co/UEWWGkuNlk) Go back and change all your null checks because of [[rimdev.io]](https://rimdev.io/how-to-check-for-nulls-in-c-sharp/)? No. Theoritically (but not likely in practice) someone could overload == and violate normal semantics, but that would be a bug. You fix bugs at the source, not change 17 years of usage for them.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@DonovanBrown](http://twitter.com/@DonovanBrown) for us longtime VSTS users, this is super-important: Converting VSTS build definitions to YAML [[simonvane.com]](https://simonvane.com/2018/07/14/converting-vsts-build-definitions-to-yaml/) 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@DonovanBrown](http://twitter.com/@DonovanBrown) for us longtime VSTS users, this is super-important: Converting VSTS build definitions to YAML [[simonvane.com]](https://simonvane.com/2018/07/14/converting-vsts-build-definitions-to-yaml/) 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) The Bloomberg Terminal's success in the 1980s birthed an empire. Today, that empire is under siege from competitors, government regulations, and the changing nature of finance itself. [[cbinsights.com]](https://www.cbinsights.com/research/report/bloomberg-terminal-disruption/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Webserver for downloading youtube videos. Ready for docker. [[github.com]](http://github.com/Algram/ytdl-webserver)[[twitter.com]](https://twitter.com/BryanWilhite/status/1044327306095808512/photo/1)
 
-[<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL) Most software today is too large to be developed by a single person, and open source, especially Linux, has proven this time and time again. Thus, software engineering is both, a technological challenge as well as a social challenge. Excellence requires excelling at both. 
+[<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL) Most software today is too large to be developed by a single person, and open source, especially Linux, has proven this time and time again. Thus, software engineering is both, a technological challenge as well as a social challenge. Excellence requires excelling at both.
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq) A primary cause of software complexity is that vendors uncritically adopt almost any feature that users want. People seem to misinterpret complexity as sophistication. The incomprehensible should cause suspicion rather than admiration. —Niklaus Wirth [[lvguowei.me]](https://www.lvguowei.me/post/a-plea-for-lean-software/)[[twitter.com]](https://twitter.com/bitfield/status/1043786307233898497/photo/1)
 
@@ -93,12 +99,14 @@
 
 [<img alt="Hacker News [newsycombinator]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/newsycombinator.png">](http://t.co/gliZLgXpD1) Tech Giants Spend $80B to Make Sure No One Else Can Compete [[bloomberg.com]](https://www.bloomberg.com/news/articles/2018-09-24/tech-companies-spend-80-billion-building-a-competitive-edge)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) it’s happened to me upwards of three times: an org has a Ballmer-era investment in MSFT tools and code and there is a perceived “promise” to move forward into modern MSFT but what actually happens involves Java and/or nothing at all 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) it’s happened to me upwards of three times: an org has a Ballmer-era investment in MSFT tools and code and there is a perceived “promise” to move forward into modern MSFT but what actually happens involves Java and/or nothing at all
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) whether these anti-MSFT moves required “leadership” deceiving me or not, my disappointment and sometimes outright depression for this repeating situation is openly visible: there are no “professional ways” to conceal my reaction 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) whether these anti-MSFT moves required “leadership” deceiving me or not, my disappointment and sometimes outright depression for this repeating situation is openly visible: there are no “professional ways” to conceal my reaction
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) when “leadership” in such MSFT-invested-but-anti-MSFT orgs claim they use the “best” tool for the job what is really being said is that they would have used “free” tools had the org recognized them before investing in MSFT 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) when “leadership” in such MSFT-invested-but-anti-MSFT orgs claim they use the “best” tool for the job what is really being said is that they would have used “free” tools had the org recognized them before investing in MSFT
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) so the org is wrong for being willfully ignorant of modern MSFT and I am wrong for trying to stay employed by the org in spite of overwhelming evidence of strategic disfunction (my reasons for staying become sane when we consider things like feeding small children without travel) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) so the org is wrong for being willfully ignorant of modern MSFT and I am wrong for trying to stay employed by the org in spite of overwhelming evidence of strategic disfunction (my reasons for staying become sane when we consider things like feeding small children without travel)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) so the more functional and viable issue here is my relationship to corporate travel rather than my historical relationship with dysfunctional, self-hating, MSFT-based orgs; SoCal (specifically West Los Angeles) is not a hotbed of MSFT-based, fullstack love
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

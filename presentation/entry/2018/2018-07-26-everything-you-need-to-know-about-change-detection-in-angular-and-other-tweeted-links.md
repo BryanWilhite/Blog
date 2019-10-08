@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "“Everything you need to know about change detection in Angular” by       @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de…       [twitte...",
-  "inceptDate": "2018-07-26T10:30:26.5620234-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "everything-you-need-to-know-about-change-detection-in-angular-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Everything you need to know about change detection in Angular” and other Tweeted links…",
+  "documentShortName": "2018-07-26-everything-you-need-to-know-about-change-detection-in-angular-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-26-everything-you-need-to-know-about-change-detection-in-angular-and-other-tweeted-links",
+  "date": "2018-07-26T17:30:26.562Z",
+  "modificationDate": "2018-07-26T17:30:26.562Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Everything you need to know about change detection in Angular” and other Tweeted links…"
+  "clientId": "2018-07-26-everything-you-need-to-know-about-change-detection-in-angular-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“Everything you need to know about change detection in Angular” by       @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de…       [twitte...\"\r\n}"
 }
 ---
+
+# “Everything you need to know about change detection in Angular” and other Tweeted links…
 
 [<img alt="Wei Wang [wxwcase]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wxwcase.jpg">]( "Wei Wang [wxwcase]") “Everything you need to know about change detection in Angular” by [@maxim_koretskyi](http://twitter.com/maxim_koretskyi)[[blog.angularindepth.com]](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") It became clear to me that most managers were already information overloaded and categorized my behavior under micr… [[twitter.com]](https://twitter.com/i/web/status/988123391424057344)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The next stage of my management relationship has been what it must be like when a personal trainer is hired to help… [[twitter.com]](https://twitter.com/i/web/status/988126757441093632)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

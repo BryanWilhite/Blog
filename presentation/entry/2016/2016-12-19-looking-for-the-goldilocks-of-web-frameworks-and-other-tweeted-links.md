@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Looking for the Goldilocks of Web Frameworks - Shawn Wildermuth [ow.ly] ngMigrate Helps You Move from AngularJS 1.x to Angular 2 [ow.ly] Top 10 Angular 2 Tutorial Videos | AngularJS 4U [ow.ly]@robzelt@John_Papa@DanWahlin@devinrader@ambroselittle Silverli...",
-  "inceptDate": "2016-12-19T22:11:35.7302803-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "looking-for-the-goldilocks-of-web-frameworks-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Looking for the Goldilocks of Web Frameworks” and other Tweeted Links…",
+  "documentShortName": "2016-12-19-looking-for-the-goldilocks-of-web-frameworks-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-12-19-looking-for-the-goldilocks-of-web-frameworks-and-other-tweeted-links",
+  "date": "2016-12-20T06:11:35.730Z",
+  "modificationDate": "2016-12-20T06:11:35.730Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Looking for the Goldilocks of Web Frameworks” and other Tweeted Links…"
+  "clientId": "2016-12-19-looking-for-the-goldilocks-of-web-frameworks-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Looking for the Goldilocks of Web Frameworks - Shawn Wildermuth [ow.ly] ngMigrate Helps You Move from AngularJS 1.x to Angular 2 [ow.ly] Top 10 Angular 2 Tutorial Videos | AngularJS 4U [ow.ly]@robzelt@John_Papa@DanWahlin@devinrader@ambroselittle Silverli...\"\r\n}"
 }
 ---
+
+# “Looking for the Goldilocks of Web Frameworks” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Looking for the Goldilocks of Web Frameworks - Shawn Wildermuth [[ow.ly]](http://ow.ly/PldF306oiFe)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top 10 Angular 2 Tutorial Videos | AngularJS 4U [[ow.ly]](http://ow.ly/bybZ306mH0f)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@robzelt](http://twitter.com/robzelt)[@John_Papa](http://twitter.com/John_Papa)[@DanWahlin](http://twitter.com/DanWahlin)[@devinrader](http://twitter.com/devinrader)[@ambroselittle](http://twitter.com/ambroselittle) Silverlight lives. It just transformed into WinRT and then UWP. See Canvas.Zindex. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@robzelt](http://twitter.com/robzelt)[@John_Papa](http://twitter.com/John_Papa)[@DanWahlin](http://twitter.com/DanWahlin)[@devinrader](http://twitter.com/devinrader)[@ambroselittle](http://twitter.com/ambroselittle) Silverlight lives. It just transformed into WinRT and then UWP. See Canvas.Zindex.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Become a UX Designer - 5 Steps to Jump-starting Your UX Career [[ow.ly]](http://ow.ly/j98v306qHrm)
 
@@ -96,3 +102,5 @@
 [<img alt="Sian Morson [xianamoy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/xianamoy.jpg">](https://t.co/kptZSKAnC3 "Sian Morson [xianamoy]") .[@MoniqueWoodard](http://twitter.com/MoniqueWoodard) speaks on building a network of people who don't look like you. [#DDNWOC](http://twitter.com/search?q=%23DDNWOC)[#womenintech](http://twitter.com/search?q=%23womenintech)[[twitter.com]](https://twitter.com/xianamoy/status/806611107435581440/photo/1)
 
 [<img alt="Mike Street [MrMikeStreet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MrMikeStreet.jpg">](http://t.co/hvRhabQ8LD "Mike Street [MrMikeStreet]") Why Jobs in Tech for African American's Should Matter to Everyone w/ [@Anjuan](http://twitter.com/Anjuan)[[smartbrownvoices.com]](http://smartbrownvoices.com/podcast/jobs-tech-african-american-matter-everyone-w-anjuan/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

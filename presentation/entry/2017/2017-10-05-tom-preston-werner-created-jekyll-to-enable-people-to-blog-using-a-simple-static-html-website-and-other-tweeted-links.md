@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "“Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website [from Github]” [smashingmagazine.com] Svgi, the SVG inspection tool [angelmmiguel.github.io] 10 ways the GIMP image editor changed my life [opensource.com] The...",
-  "inceptDate": "2017-10-05T14:16:31.74343-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "tom-preston-werner-created-jekyll-to-enable-people-to-blog-using-a-simple-static-html-website-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website” and other Tweeted Links…",
+  "documentShortName": "2017-10-05-tom-preston-werner-created-jekyll-to-enable-people-to-blog-using-a-simple-static-html-website-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-05-tom-preston-werner-created-jekyll-to-enable-people-to-blog-using-a-simple-static-html-website-and-other-tweeted-links",
+  "date": "2017-10-05T21:16:31.743Z",
+  "modificationDate": "2017-10-05T21:16:31.743Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website” and other Tweeted Links…"
+  "clientId": "2017-10-05-tom-preston-werner-created-jekyll-to-enable-people-to-blog-using-a-simple-static-html-website-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website [from Github]” [smashingmagazine.com] Svgi, the SVG inspection tool [angelmmiguel.github.io] 10 ways the GIMP image editor changed my life [opensource.com] The...\"\r\n}"
 }
 ---
+
+# “Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Tom Preston-Werner created Jekyll to enable people to blog using a simple static HTML website [from Github]” [[smashingmagazine.com]](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with Aurelia and TypeScript [[blog.aurelia.io]](http://blog.aurelia.io/2015/05/06/getting-started-with-aurelia-and-typescript/)[@cmichaelgraham](http://twitter.com/cmichaelgraham)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") gulp-clean-css [[npmjs.com]](https://www.npmjs.com/package/gulp-clean-css) [replaces deprecated gulp-minify-css] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") gulp-clean-css [[npmjs.com]](https://www.npmjs.com/package/gulp-clean-css) [replaces deprecated gulp-minify-css]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Fast and Convenient Development Server with lite-server ― Scotch [[scotch.io]](https://scotch.io/bar-talk/a-fast-and-convenient-development-server-with-lite-server) « [@John_Papa](http://twitter.com/John_Papa)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Keep your [[asp.net]](http://ASP.NET) Core application's secrets safe during development - [[jonhilton.net]](http://jonhilton.net)[[jonhilton.net]](https://jonhilton.net/2017/06/07/keep-your-asp-dot-net-application-secrets-safe/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Foreca - Weather API [[corporate.foreca.com]](http://corporate.foreca.com/en/products-services/data/weather-api) [used by Bing] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Foreca - Weather API [[corporate.foreca.com]](http://corporate.foreca.com/en/products-services/data/weather-api) [used by Bing]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don't Code Tired | Architecting Azure Functions: Function Timeouts and Work Fan-Out with Queues [[dontcodetired.com]](http://dontcodetired.com/blog/post/Architecting-Azure-Functions-Function-Timeouts-and-Work-Fan-Out-with-Queues)
 
@@ -71,17 +77,17 @@
 
 [<img alt="Visual Studio Code [code]" src="https://songhay.blob.core.windows.net/shared-social-twitter/code.jpg">](http://t.co/MKVKzC9vu1 "Visual Studio Code [code]")[@BryanWilhite](http://twitter.com/BryanWilhite) Try this setting... "search.exclude": { "**/node_modules": true, "**/bower_components": tr… [[twitter.com]](https://twitter.com/i/web/status/911288458718584833)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@code](http://twitter.com/code) Very cool😁 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@code](http://twitter.com/code) Very cool😁
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Performance Improvements in .NET Core | .NET Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# Scripting in the .NET Core world [@filip_woj](http://twitter.com/filip_woj)[[youtube.com]](https://www.youtube.com/watch?v=Tr5o3bPjaxM)[@NDC_Conferences](http://twitter.com/NDC_Conferences)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016: The shining new C# Scripting API- Guilherme Ferreira [[gsferreira.com]](http://gsferreira.com/archive/2016/02/the-shining-new-csharp-scripting-api/) [Install-Package Microsoft.CodeAnalysis.CSharp.Scripting] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016: The shining new C# Scripting API- Guilherme Ferreira [[gsferreira.com]](http://gsferreira.com/archive/2016/02/the-shining-new-csharp-scripting-api/) [Install-Package Microsoft.CodeAnalysis.CSharp.Scripting]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Porting a .NET Framework library to .NET Core - CodeProject [[codeproject.com]](https://www.codeproject.com/Articles/1190475/Porting-a-NET-Framework-library-to-NET-Core)
 
-[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") .NET Standard 2.0 support in Newtonsoft.Json: [[github.com]](https://github.com/JamesNK/Newtonsoft.Json/commit/ab3315f1d5e57c70203c904be79d8e951bf09794) Pretty easy. 95% of changes are to ensure the right tests run. 
+[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") .NET Standard 2.0 support in Newtonsoft.Json: [[github.com]](https://github.com/JamesNK/Newtonsoft.Json/commit/ab3315f1d5e57c70203c904be79d8e951bf09794) Pretty easy. 95% of changes are to ensure the right tests run.
 
 [<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoS05R "Donovan Brown [DonovanBrown]") I just got asked if I had a good story for [#Java](http://twitter.com/search?q=%23Java) &amp; [@VSTS](http://twitter.com/VSTS). Of course! [#AnyLanguage](http://twitter.com/search?q=%23AnyLanguage)[#AnyPlatform](http://twitter.com/search?q=%23AnyPlatform) Here is great exampl… [[twitter.com]](https://twitter.com/i/web/status/916026021937319936)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top 20 Recommended Microsoft Build 2017 Sessions for C# Developers - Morning Dew [[alvinashcraft.com]](https://www.alvinashcraft.com/2017/06/07/top-20-recommended-microsoft-build-2017-sessions-for-c-developers/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Wall Street Journal's Google Traffic Drops 44% After Pulling Out of First Click Free [[news.slashdot.org]](https://news.slashdot.org/story/17/06/05/2315228/wall-street-journals-google-traffic-drops-44-after-pulling-out-of-first-click-free?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

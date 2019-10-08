@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "PowerShell on Linux and Open Source [channel9.msdn.com] PowerShell is Microsoft’s latest open source release, coming to Linux, OS X [arstechnica.com] PowerShell is open sourced and is available on Linux @jsnover[azure.microsoft.com] Microsoft Delivers An...",
-  "inceptDate": "2016-09-20T15:01:51.3756741-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "powershell-on-linux-and-open-source-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“PowerShell on Linux and Open Source” and other Tweeted Links…",
+  "documentShortName": "2016-09-20-powershell-on-linux-and-open-source-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-20-powershell-on-linux-and-open-source-and-other-tweeted-links",
+  "date": "2016-09-20T22:01:51.375Z",
+  "modificationDate": "2016-09-20T22:01:51.375Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“PowerShell on Linux and Open Source” and other Tweeted Links…"
+  "clientId": "2016-09-20-powershell-on-linux-and-open-source-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"PowerShell on Linux and Open Source [channel9.msdn.com] PowerShell is Microsoft’s latest open source release, coming to Linux, OS X [arstechnica.com] PowerShell is open sourced and is available on Linux @jsnover[azure.microsoft.com] Microsoft Delivers An...\"\r\n}"
 }
 ---
+
+# “PowerShell on Linux and Open Source” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") PowerShell on Linux and Open Source [[channel9.msdn.com]](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source)
 
@@ -75,11 +81,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@billyhollis](http://twitter.com/billyhollis) my 2015 notes on XAML validation would need an update for UWP right? ...did I miss anything? [[songhayblog.azurewebsites.net]](http://songhayblog.azurewebsites.net/#/entry/songhay-studio-finally-some-flippant-remarks-about-xaml-validation)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes, much of that validation stuff is missing in UWP right now. I don't know details - we have our own validation framework. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes, much of that validation stuff is missing in UWP right now. I don't know details - we have our own validation framework.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@billyhollis](http://twitter.com/billyhollis) i haven't started UWP work yet so i consider myself warned :) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@billyhollis](http://twitter.com/billyhollis) i haven't started UWP work yet so i consider myself warned :)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@BryanWilhite](http://twitter.com/BryanWilhite) I've been keeping a list of differences (from WPF) that I find as do [#UWP](http://twitter.com/search?q=%23UWP) development. Guess I should post it somewhere. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]")[@BryanWilhite](http://twitter.com/BryanWilhite) I've been keeping a list of differences (from WPF) that I find as do [#UWP](http://twitter.com/search?q=%23UWP) development. Guess I should post it somewhere.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@billyhollis](http://twitter.com/billyhollis) that would be great! I have added your Blog to my [#feedly](http://twitter.com/search?q=%23feedly): [[nextver.com]](http://nextver.com/site/blog/)
 
@@ -87,13 +93,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Facing Reality: Windows on Mobile is a Niche Market [[winsupersite.com]](http://winsupersite.com/windows-phone/facing-reality-windows-mobile-niche-market)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/mxqfIPWJwBg?a) HP Elite X3 Review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/mxqfIPWJwBg?a) HP Elite X3 Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") China’s CUBE WP10 7 inch Windows 10 Mobile handset now on sale for less than 300 Euro [[mspoweruser.com]](http://mspoweruser.com/chinas-cube-7-inch-wp10-windows-10-mobile-handset-now-on-sale-for-less-than-300-euro/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mathematicians Are Overselling the Idea That "Math Is Everywhere" [[blogs.scientificamerican.com]](http://blogs.scientificamerican.com/guest-blog/mathematicians-are-overselling-the-idea-that-math-is-everywhere/?WT.mc_id=SA_FB_MATH_BLOG)
 
-[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") It is unfortunate how the "performance doesn't matter" attitude is so endemic among Ruby and ex-Ruby programmers. 
+[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") It is unfortunate how the "performance doesn't matter" attitude is so endemic among Ruby and ex-Ruby programmers.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") People Ignore Software Security Warnings Up To 90% of the Time, Says Study [[news.slashdot.org]](https://news.slashdot.org/story/16/08/17/2157254/people-ignore-software-security-warnings-up-to-90-of-the-time-says-study?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Low-income students can soon get federal aid to attend coding schools [[techcrunch.com]](https://techcrunch.com/2016/08/18/low-income-students-will-soon-be-able-to-get-federal-aid-to-attend-coding-bootcamps/)[@iayori](http://twitter.com/iayori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") my first NuGet package (yes, very late to the party) [[nuget.org]](https://www.nuget.org/packages/SonghayCore/)[[twitter.com]](https://twitter.com/BryanWilhite/status/768946970891124736/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

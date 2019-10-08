@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "I eagerly look forward to an upgrade to MAGIX Sound Forge Pro assuming that they will fix a longstanding bug around this “Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog:This dialog shows after you have successfully installed an...",
-  "inceptDate": "2016-11-03T19:53:58.4903261-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony",
+  "documentId": 0,
+  "title": "MAGIX Sound Forge Pro 11 inherits a nasty bug from Sony",
+  "documentShortName": "2016-11-03-magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-03-magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony",
+  "date": "2016-11-04T02:53:58.490Z",
+  "modificationDate": "2016-11-04T02:53:58.490Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "MAGIX Sound Forge Pro 11 inherits a nasty bug from Sony"
+  "clientId": "2016-11-03-magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony",
+  "tag": "{\r\n  \"extract\": \"I eagerly look forward to an upgrade to MAGIX Sound Forge Pro assuming that they will fix a longstanding bug around this “Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog:This dialog shows after you have successfully installed an...\"\r\n}"
 }
 ---
+
+# MAGIX Sound Forge Pro 11 inherits a nasty bug from Sony
 
 I eagerly look forward to an upgrade to [MAGIX Sound Forge Pro](http://www.magix-audio.com/us/sound-forge/) assuming that they will fix a longstanding bug around this “Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog:
 [<img alt="“Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog" src="https://farm6.staticflickr.com/5476/30503921021_a3741768d5_o_d.png">](https://www.flickr.com/photos/wilhite/30503921021/in/dateposted-public/ "“Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog")
@@ -33,5 +39,7 @@ Click the **Test the program…** button to run Sound Forge without elevated pri
 
 ## Related Links
 
-*   MAGIX Support: “[My program will not start](https://support2.magix.com/customer/en/faq/my-program-will-not-start-2)”
-*   “[Sony have sold ACID, Sound Forge, more to MAGIX](http://cdm.link/2016/06/sony-just-sold-acid-sound-forge-magix/)”
+* MAGIX Support: “[My program will not start](https://support2.magix.com/customer/en/faq/my-program-will-not-start-2)”
+* “[Sony have sold ACID, Sound Forge, more to MAGIX](http://cdm.link/2016/06/sony-just-sold-acid-sound-forge-magix/)”
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

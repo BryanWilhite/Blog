@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Practical SVG @ChrisCoyier[alistapart.com] \"Atomic\" is a browser-based timeline animation tool. [css-tricks.com] Using Semantic UI with [asp.net] Core [khalidabuhakmeh.com] Don’t Be Cliche! 10 Ways to Use Stock Photography in Web Design in 2016 [blogs.ad...",
-  "inceptDate": "2016-09-14T12:59:12.2664115-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "practical-svg-chriscoyier-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Practical SVG @ChrisCoyier” and other Tweeted Links…",
+  "documentShortName": "2016-09-14-practical-svg-chriscoyier-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-14-practical-svg-chriscoyier-and-other-tweeted-links",
+  "date": "2016-09-14T19:59:12.266Z",
+  "modificationDate": "2016-09-14T19:59:12.266Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Practical SVG @ChrisCoyier” and other Tweeted Links…"
+  "clientId": "2016-09-14-practical-svg-chriscoyier-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Practical SVG @ChrisCoyier[alistapart.com] \\\"Atomic\\\" is a browser-based timeline animation tool. [css-tricks.com] Using Semantic UI with [asp.net] Core [khalidabuhakmeh.com] Don’t Be Cliche! 10 Ways to Use Stock Photography in Web Design in 2016 [blogs.ad...\"\r\n}"
 }
 ---
+
+# “Practical SVG @ChrisCoyier” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Practical SVG [@ChrisCoyier](http://twitter.com/ChrisCoyier)[[alistapart.com]](http://alistapart.com/article/practical-svg)
 
@@ -23,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Two tools for quick and easy web application load testing during development [@shanselman](http://twitter.com/shanselman)[[hanselman.com]](http://www.hanselman.com/blog/TwoToolsForQuickAndEasyWebApplicationLoadTestingDuringDevelopment.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 'ey [@iambacon](http://twitter.com/iambacon): have you tried to install/use npm/bower in Win10 bash exclusively? [@shanselman](http://twitter.com/shanselman)? [@mkristensen](http://twitter.com/mkristensen)? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 'ey [@iambacon](http://twitter.com/iambacon): have you tried to install/use npm/bower in Win10 bash exclusively? [@shanselman](http://twitter.com/shanselman)? [@mkristensen](http://twitter.com/mkristensen)?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UWP - Enriching Your Apps (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Build/Build-Tour-2016-Toronto/UWP-Enriching-Your-App) via [@shenchauhan](http://twitter.com/shenchauhan)
 
@@ -43,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Leveraging NVIDIA GPUs in [@Azure](http://twitter.com/Azure) (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Shows/Azure-Friday/Leveraging-NVIDIA-GPUs-in-Azure) via [@ch9](http://twitter.com/ch9)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") lesson learned: don't install SQL Server Management Studio before [@VisualStudio](http://twitter.com/VisualStudio): the installation location will be locked to C: drive 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") lesson learned: don't install SQL Server Management Studio before [@VisualStudio](http://twitter.com/VisualStudio): the installation location will be locked to C: drive
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Change the location of your OneDrive folder [[support.microsoft.com]](https://support.microsoft.com/en-us/instantanswers/346c0dc9-68fb-4189-9674-8011c670c3de/change-the-location-of-your-onedrive-folder)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "WinImage is a fully-fledged disk-imaging suite for easy creation, reading and editing of many image formats..." [[winimage.com]](http://www.winimage.com/winimage.htm)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VMware](http://twitter.com/VMware) Workstation beats my hard drive to death and freezes ("not responding") as it deals with hosting Windows 10 4GB allocated/16GB RAM. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VMware](http://twitter.com/VMware) Workstation beats my hard drive to death and freezes ("not responding") as it deals with hosting Windows 10 4GB allocated/16GB RAM.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Supported Ubuntu virtual machines on Hyper-V [[technet.microsoft.com]](https://technet.microsoft.com/en-us/windows-server-docs/compute/hyper-v/supported-ubuntu-virtual-machines-on-hyper-v)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Correctly Light a 3d Model [[youtu.be]](https://youtu.be/7o0PauhFQyo) via [@andrewpprice](http://twitter.com/andrewpprice)
 
-[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpeg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]") I'm not sure what's more frustrating on [#StackOverflow](http://twitter.com/search?q=%23StackOverflow): an OP who won't ask a good question, or an answerer who refuses to read the question 
+[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpeg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]") I'm not sure what's more frustrating on [#StackOverflow](http://twitter.com/search?q=%23StackOverflow): an OP who won't ask a good question, or an answerer who refuses to read the question
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") Kuhustle connects you with Africas best tech talent from a vetted pool of experts [@iAyori](http://twitter.com/iAyori)[[kuhustle.com]](https://www.kuhustle.com/)
 
@@ -99,8 +105,10 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") we need [@maryjofoley](http://twitter.com/maryjofoley) to get the numbers to compare Apple watch to the entire Windows mobile business =&gt; [@thurrott](http://twitter.com/thurrott), [@bdsams](http://twitter.com/bdsams)
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) think that's above my abilities. MS is doing pretty well on hiding its mobile/device numbers right now 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) think that's above my abilities. MS is doing pretty well on hiding its mobile/device numbers right now
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@maryjofoley](http://twitter.com/maryjofoley) okay- can we look forward to HP Elite numbers? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@maryjofoley](http://twitter.com/maryjofoley) okay- can we look forward to HP Elite numbers?
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) if HP shares them, definitely. guess we'll have to see on that
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

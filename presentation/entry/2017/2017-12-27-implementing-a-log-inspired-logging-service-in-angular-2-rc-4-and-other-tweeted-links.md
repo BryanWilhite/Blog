@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Implementing A $log-Inspired Logging Service In Angular 2 RC 4 [bennadel.com] A simple logging service for Angular 4 [robferguson.org] Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins [css-tricks.com] Ask HN: Why is there no way to prev...",
-  "inceptDate": "2017-12-27T17:08:50.5821938-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "implementing-a-log-inspired-logging-service-in-angular-2-rc-4-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Implementing A $log-Inspired Logging Service In Angular 2 RC 4” and other Tweeted Links…",
+  "documentShortName": "2017-12-27-implementing-a-log-inspired-logging-service-in-angular-2-rc-4-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-27-implementing-a-log-inspired-logging-service-in-angular-2-rc-4-and-other-tweeted-links",
+  "date": "2017-12-28T01:08:50.582Z",
+  "modificationDate": "2017-12-28T01:08:50.582Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Implementing A $log-Inspired Logging Service In Angular 2 RC 4” and other Tweeted Links…"
+  "clientId": "2017-12-27-implementing-a-log-inspired-logging-service-in-angular-2-rc-4-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Implementing A $log-Inspired Logging Service In Angular 2 RC 4 [bennadel.com] A simple logging service for Angular 4 [robferguson.org] Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins [css-tricks.com] Ask HN: Why is there no way to prev...\"\r\n}"
 }
 ---
+
+# “Implementing A $log-Inspired Logging Service In Angular 2 RC 4” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Implementing A $log-Inspired Logging Service In Angular 2 RC 4 [[bennadel.com]](https://www.bennadel.com/blog/3129-implementing-a-log-inspired-logging-service-in-angular-2-rc-4.htm)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Meligy](http://twitter.com/Meligy)[@SomeJulie](http://twitter.com/SomeJulie)[@AmyOh89](http://twitter.com/AmyOh89)[@jessitron](http://twitter.com/jessitron) see also: [[angular.io]](https://angular.io/guide/testing#componentfixture-debugelement-and-querybycss)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Custom type converters · AutoMapper/AutoMapper Wiki [[github.com]](https://github.com/AutoMapper/AutoMapper/wiki/Custom-type-converters) [ConvertUsing()] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Custom type converters · AutoMapper/AutoMapper Wiki [[github.com]](https://github.com/AutoMapper/AutoMapper/wiki/Custom-type-converters) [ConvertUsing()]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 5 AutoMapper tips and tricks - Developer Handbook - YouTube [[youtube.com]](https://www.youtube.com/watch?v=JVc5udgEaLY)
 
@@ -104,3 +110,5 @@
 [<img alt="Doug Laney [Doug_Laney]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Doug_Laney.jpg">](https://t.co/YjE9LTDI8m "Doug Laney [Doug_Laney]") A machine learning algorithm walked into a bar. The bartender asked, "What would you like to drink?" The algorithm… [[twitter.com]](https://twitter.com/i/web/status/943180448062111744)
 
 [<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") “Falling in love with code means falling in love with problem solving and being a part of a forever ongoing conversation.” - Kathryn Barrett
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

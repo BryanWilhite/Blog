@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Science proves Flat Design was a mistake [mspoweruser.com] » @nazsharif Hisham's Blog - Razor Pages Conventions [hishambinateya.com] [PageConventionCollection]        Stockio: Free Photos, Videos, Icons, Illustrations, and Fonts For Your Projects [noupe....",
-  "inceptDate": "2018-01-10T14:24:23.9882702-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "science-proves-flat-design-was-a-mistake-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Science proves Flat Design was a mistake” and other Tweeted Links…",
+  "documentShortName": "2018-01-10-science-proves-flat-design-was-a-mistake-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-01-10-science-proves-flat-design-was-a-mistake-and-other-tweeted-links",
+  "date": "2018-01-10T22:24:23.988Z",
+  "modificationDate": "2018-01-10T22:24:23.988Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Science proves Flat Design was a mistake” and other Tweeted Links…"
+  "clientId": "2018-01-10-science-proves-flat-design-was-a-mistake-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Science proves Flat Design was a mistake [mspoweruser.com] » @nazsharif Hisham's Blog - Razor Pages Conventions [hishambinateya.com] [PageConventionCollection]        Stockio: Free Photos, Videos, Icons, Illustrations, and Fonts For Your Projects [noupe....\"\r\n}"
 }
 ---
 
+# “Science proves Flat Design was a mistake” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Science proves Flat Design was a mistake [[mspoweruser.com]](https://mspoweruser.com/science-proves-flat-design-mistake/) » [@nazsharif](http://twitter.com/nazsharif)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hisham's Blog - Razor Pages Conventions [[hishambinateya.com]](http://www.hishambinateya.com/razor-pages-conventions) [PageConventionCollection] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hisham's Blog - Razor Pages Conventions [[hishambinateya.com]](http://www.hishambinateya.com/razor-pages-conventions) [PageConventionCollection]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Stockio: Free Photos, Videos, Icons, Illustrations, and Fonts For Your Projects [[noupe.com]](https://www.noupe.com/essentials/stockio-free-photos-videos-icons-illustrations-fonts.html)
 
@@ -55,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Database connection string when swapping between App Servers slots – benjamin perkins [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/benjaminperkins/2017/09/04/database-connection-string-when-swapping-between-app-servers-slots/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A programmer's cleaning guide for messy sensor data [[opensource.com]](https://opensource.com/article/17/9/messy-sensor-data) [Pandas and Python] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A programmer's cleaning guide for messy sensor data [[opensource.com]](https://opensource.com/article/17/9/messy-sensor-data) [Pandas and Python]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Serilog — simple .NET logging with fully-structured events [[serilog.net]](https://serilog.net/)[[twitter.com]](https://twitter.com/BryanWilhite/status/950321242069970944/photo/1)
 
@@ -71,15 +77,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The New Screen Savers 61: [[@leolaporte](http://twitter.com/leolaporte) =&gt; FreeNas distro, Synology or Drobo] [[youtube.com]](https://www.youtube.com/watch?v=90ZQWZu9Dq8)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EXOGEAR Exomount Touch CD Mount Review [[youtube.com]](https://www.youtube.com/watch?v=GMgLAXyQlno) [recommended by [@reneritchie](http://twitter.com/reneritchie)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EXOGEAR Exomount Touch CD Mount Review [[youtube.com]](https://www.youtube.com/watch?v=GMgLAXyQlno) [recommended by [@reneritchie](http://twitter.com/reneritchie)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Products – Purism [[puri.sm]](https://puri.sm/products/) [The Librem phone] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Products – Purism [[puri.sm]](https://puri.sm/products/) [The Librem phone]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logitech launches its first updated trackball mouse in nearly a decade | iMore [[imore.com]](https://www.imore.com/logitech-launches-its-first-updated-trackball-mouse-nearly-decade)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") PureOS [[pureos.net]](https://pureos.net/)
 
-[<img alt="Rešad Začina [ResadZa]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ResadZa.jpg">](https://t.co/VYWIhsbrdY "Rešad Začina [ResadZa]") What we learned from analyzing 225 million hours of work time - [[blog.rescuetime.com]](http://blog.rescuetime.com/225-million-hours-productivity/)[#productivity](http://twitter.com/search?q=%23productivity)[#trackingtime](http://twitter.com/search?q=%23trackingtime)[#work](http://twitter.com/search?q=%23work) 📊 
+[<img alt="Rešad Začina [ResadZa]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ResadZa.jpg">](https://t.co/VYWIhsbrdY "Rešad Začina [ResadZa]") What we learned from analyzing 225 million hours of work time - [[blog.rescuetime.com]](http://blog.rescuetime.com/225-million-hours-productivity/)[#productivity](http://twitter.com/search?q=%23productivity)[#trackingtime](http://twitter.com/search?q=%23trackingtime)[#work](http://twitter.com/search?q=%23work) 📊
 
 [<img alt="Trammell Hudson ⚙ [qrs]" src="https://songhay.blob.core.windows.net/shared-social-twitter/qrs.jpeg">](https://t.co/5lfj6WYDYm "Trammell Hudson ⚙ [qrs]") Speculative execution considered harmful in 1995: "Prefetching may fetch otherwise inaccesible instructions in Virt… [[twitter.com]](https://twitter.com/i/web/status/950462488348446721)
 
@@ -102,3 +108,5 @@
 [<img alt="Stig Ørskov [orskov]" src="https://songhay.blob.core.windows.net/shared-social-twitter/orskov.jpg">]( "Stig Ørskov [orskov]") LED bulbs contributed to a reduction of 570 million tons of carbon dioxide emissions in 2017—equivalent to closing… [[twitter.com]](https://twitter.com/i/web/status/950605408200282118)
 
 [<img alt="Rob Eisenberg [EisenbergEffect]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EisenbergEffect.jpg">](https://t.co/VNokeFBcFy "Rob Eisenberg [EisenbergEffect]") If your first instinct when you encounter a deficiency in an OSS project is to tear it down rather than build it up… [[twitter.com]](https://twitter.com/i/web/status/950746528569638912)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

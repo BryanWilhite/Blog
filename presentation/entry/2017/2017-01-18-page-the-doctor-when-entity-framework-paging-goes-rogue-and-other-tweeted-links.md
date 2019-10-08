@@ -1,23 +1,29 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Page the Doctor! When Entity Framework Paging Goes Rogue! [ow.ly] « @julielerman PostSharp Blog | [Webinar Recording] Applying Object Composition to Build Rich Domain Models [ow.ly] I liked a @YouTube video [youtu.be] A Friendly Introduction to Machine L...",
-  "inceptDate": "2017-01-18T14:31:02.2435861-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "page-the-doctor-when-entity-framework-paging-goes-rogue-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Page the Doctor! When Entity Framework Paging Goes Rogue!” and other Tweeted Links…",
+  "documentShortName": "2017-01-18-page-the-doctor-when-entity-framework-paging-goes-rogue-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-18-page-the-doctor-when-entity-framework-paging-goes-rogue-and-other-tweeted-links",
+  "date": "2017-01-18T22:31:02.243Z",
+  "modificationDate": "2017-01-18T22:31:02.243Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Page the Doctor! When Entity Framework Paging Goes Rogue!” and other Tweeted Links…"
+  "clientId": "2017-01-18-page-the-doctor-when-entity-framework-paging-goes-rogue-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Page the Doctor! When Entity Framework Paging Goes Rogue! [ow.ly] « @julielerman PostSharp Blog | [Webinar Recording] Applying Object Composition to Build Rich Domain Models [ow.ly] I liked a @YouTube video [youtu.be] A Friendly Introduction to Machine L...\"\r\n}"
 }
 ---
+
+# “Page the Doctor! When Entity Framework Paging Goes Rogue!” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Page the Doctor! When Entity Framework Paging Goes Rogue! [[ow.ly]](http://ow.ly/HiIx307aupp) « [@julielerman](http://twitter.com/julielerman)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") PostSharp Blog | [Webinar Recording] Applying Object Composition to Build Rich Domain Models [[ow.ly]](http://ow.ly/BB2O307bwzC)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/IpGxLWOIZy4?a) A Friendly Introduction to Machine Learning 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/IpGxLWOIZy4?a) A Friendly Introduction to Machine Learning
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SQL Server on Linux: How? Introduction | SQL Server Blog [[ow.ly]](http://ow.ly/NVkC307jzjI)
 
@@ -67,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Differences Between Linux and Windows Hosting – [[rosehosting.com]](http://RoseHosting.com) Blog [[ow.ly]](http://ow.ly/KKLy307dTov)
 
-[<img alt="Tiffany Brown [webinista]" src="https://songhay.blob.core.windows.net/shared-social-twitter/webinista.jpg">]( "Tiffany Brown [webinista]") Having deep domain knowledge doesn't mean you're smart. Or that you understand how the world works. This may be a subtweet. 
+[<img alt="Tiffany Brown [webinista]" src="https://songhay.blob.core.windows.net/shared-social-twitter/webinista.jpg">]( "Tiffany Brown [webinista]") Having deep domain knowledge doesn't mean you're smart. Or that you understand how the world works. This may be a subtweet.
 
 [<img alt="Uche Ogbuji [uogbuji]" src="https://songhay.blob.core.windows.net/shared-social-twitter/uogbuji.jpeg">](http://t.co/RjfzWMDSVc "Uche Ogbuji [uogbuji]") So true! "[Before Medium, there was Posterous. People loved it until Twitter bought it…&amp;…killed it, because money.]" [[bit.ly]](http://bit.ly/2i7qPmg)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I Sold My Company to Twitter, Went to Facebook, and Screwed My Co-Founders [[ow.ly]](http://ow.ly/FwDq307jyMo) » [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") True cost of recruiting a developer [infographic] [[ow.ly]](http://ow.ly/54wR307jz5V)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

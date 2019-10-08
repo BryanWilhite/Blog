@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Putting People First: Tips and Advice from UX Pioneer Don Norman [blogs.adobe.com] A Five Minutes Guide to Better Typography [pierrickcalvez.com] Minimalistic Design With Large Impact: Functional Minimalism For Web Design [blogs.adobe.com] I liked a @You...",
-  "inceptDate": "2018-02-21T14:08:42.4151016-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "putting-people-first-tips-and-advice-from-ux-pioneer-don-norman-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Putting People First: Tips and Advice from UX Pioneer Don Norman” and other Tweeted Links…",
+  "documentShortName": "2018-02-21-putting-people-first-tips-and-advice-from-ux-pioneer-don-norman-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-21-putting-people-first-tips-and-advice-from-ux-pioneer-don-norman-and-other-tweeted-links",
+  "date": "2018-02-21T22:08:42.415Z",
+  "modificationDate": "2018-02-21T22:08:42.415Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Putting People First: Tips and Advice from UX Pioneer Don Norman” and other Tweeted Links…"
+  "clientId": "2018-02-21-putting-people-first-tips-and-advice-from-ux-pioneer-don-norman-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Putting People First: Tips and Advice from UX Pioneer Don Norman [blogs.adobe.com] A Five Minutes Guide to Better Typography [pierrickcalvez.com] Minimalistic Design With Large Impact: Functional Minimalism For Web Design [blogs.adobe.com] I liked a @You...\"\r\n}"
 }
 ---
+
+# “Putting People First: Tips and Advice from UX Pioneer Don Norman” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Putting People First: Tips and Advice from UX Pioneer Don Norman [[blogs.adobe.com]](https://blogs.adobe.com/creativecloud/putting-people-first-tips-and-advice-from-ux-pioneer-don-norman/)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Minimalistic Design With Large Impact: Functional Minimalism For Web Design [[blogs.adobe.com]](https://blogs.adobe.com/creativecloud/functional-minimalism-for-web-design/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/TaAg6dQMEgU?a) Sex, Drugs and Infinite Scroll 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/TaAg6dQMEgU?a) Sex, Drugs and Infinite Scroll
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Semantic UI In 60 Minutes [[youtube.com]](https://www.youtube.com/watch?v=a9mUH1EWp40)
 
@@ -101,8 +107,10 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Volatile Markets: Here’s What You Should Know [[cs1.schwab.com]](https://cs1.schwab.com/track?type=click&enid=ZWFzPTYmbXNpZD0xJmF1aWQ9MTE3MjQ2MzI1Jm1haWxpbmdpZD01MDk2MiZtZXNzYWdlaWQ9MzczMyZkYXRhYmFzZWlkPTU3ODQmc2VyaWFsPTEwMDY3MTQ3NCZlbWFpbGlkPUJSWUFOLldJTEhJVEVAR01BSUwuQ09NJnVzZXJpZD1jYW1wbjAyOTg4MzM3MTE5OWJhY21hbnY1bGlhb2FhYXdmNXR1YWsmdGFyZ2V0aWQ9Jm1uPTI3MzE5MSZmbD0mbXZpZD0mZXh0cmE9JiYm&&&market_volatility&&&https://www.schwab.com/resource-center/insights/section/market-volatility)[@CharlesSchwab](http://twitter.com/CharlesSchwab)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0Jg-gkE0pEA?a) Quicken 2018 Review - Deluxe, Premier, Home, Business &amp; Rental Property 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0Jg-gkE0pEA?a) Quicken 2018 Review - Deluxe, Premier, Home, Business &amp; Rental Property
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 51 Percent of Financial Services Companies Believe Existing Tech is Holding Them Back - Slashdot [[tech.slashdot.org]](https://tech.slashdot.org/story/18/02/09/1932217/51-percent-of-financial-services-companies-believe-existing-tech-is-holding-them-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Use of open source software has been declining rapidly in the private sector” [[github.com]](https://github.com/GSA/modernization/issues/41)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

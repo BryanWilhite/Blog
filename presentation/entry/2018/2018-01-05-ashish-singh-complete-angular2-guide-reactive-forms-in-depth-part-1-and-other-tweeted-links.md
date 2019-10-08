@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1 [medium.com] Testing Angular components with @Input() – Aiko Klostermann – Medium [medium.com] to avoid breaking any RxJS dependency removed from your package the solution shown below ...",
-  "inceptDate": "2018-01-05T11:32:43.6382649-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "ashish-singh-complete-angular2-guide-reactive-forms-in-depth-part-1-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1” and other Tweeted Links…",
+  "documentShortName": "2018-01-05-ashish-singh-complete-angular2-guide-reactive-forms-in-depth-part-1-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-01-05-ashish-singh-complete-angular2-guide-reactive-forms-in-depth-part-1-and-other-tweeted-links",
+  "date": "2018-01-05T19:32:43.638Z",
+  "modificationDate": "2018-01-05T19:32:43.638Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1” and other Tweeted Links…"
+  "clientId": "2018-01-05-ashish-singh-complete-angular2-guide-reactive-forms-in-depth-part-1-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1 [medium.com] Testing Angular components with @Input() – Aiko Klostermann – Medium [medium.com] to avoid breaking any RxJS dependency removed from your package the solution shown below ...\"\r\n}"
 }
 ---
+
+# “Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ashish Singh: Complete Angular2 Guide: Reactive Forms in depth Part 1 [[medium.com]](https://medium.com/aviabird/complete-angular2-guide-reactive-forms-in-depth-part-1-21a8e2428904)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") to avoid breaking any RxJS dependency removed from your package the solution shown below is offered -this solution… [[twitter.com]](https://twitter.com/i/web/status/945462603119079424)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zk2bVBZhmcc?a) Introduction to Redux-Observable 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/zk2bVBZhmcc?a) Introduction to Redux-Observable
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why we moved from Angular 2 to Vue.js (and why we didn’t choose React) [[medium.com]](https://medium.com/@reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 
@@ -63,17 +69,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Once Flatten() (or its equivalent) gets into MoreLinq, I can consider marking my Core IEnumerable&lt;T&gt; extensions as… [[twitter.com]](https://twitter.com/i/web/status/946490471894806528)
 
-[<img alt="Atif Aziz [raboof]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raboof.jpeg">](http://t.co/5dCsrJ1CLR "Atif Aziz [raboof]")[@BryanWilhite](http://twitter.com/BryanWilhite) Feel free to chime in with your input on the design in the PR ([[goo.gl]](https://goo.gl/2gCvR9)), if you have any. 
+[<img alt="Atif Aziz [raboof]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raboof.jpeg">](http://t.co/5dCsrJ1CLR "Atif Aziz [raboof]")[@BryanWilhite](http://twitter.com/BryanWilhite) Feel free to chime in with your input on the design in the PR ([[goo.gl]](https://goo.gl/2gCvR9)), if you have any.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@raboof](http://twitter.com/raboof) well i did notice that you would rather use sets rather than recursion for Flatten() and my design uses recursion 😬🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@raboof](http://twitter.com/raboof) well i did notice that you would rather use sets rather than recursion for Flatten() and my design uses recursion 😬🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ok [@jonskeet](http://twitter.com/jonskeet) why do i assume you have an excellent bit of prose about MoreEnumerable.Consume&lt;T&gt;?… [[twitter.com]](https://twitter.com/i/web/status/946497730947321856)
 
 [<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]")[@BryanWilhite](http://twitter.com/BryanWilhite) I can't remember whether I originally wrote that, but it can be useful to make sure you consume a who… [[twitter.com]](https://twitter.com/i/web/status/946518445713166336)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@jonskeet](http://twitter.com/jonskeet) is this the in-memory equivalent of calling .ToArray() or .ToList() in LINQ-to-SQL to ensure that all in the set is evaluated? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@jonskeet](http://twitter.com/jonskeet) is this the in-memory equivalent of calling .ToArray() or .ToList() in LINQ-to-SQL to ensure that all in the set is evaluated?
 
-[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes, without having to actually build an array or list. 
+[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes, without having to actually build an array or list.
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq "John Arundel [bitfield]") “What is Kafka, actually? A platform that allows you to redundantly store absurd amounts of data, have a message bu… [[twitter.com]](https://twitter.com/i/web/status/948676133674942464)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") In Silicon Valley, Working 9 to 5 Is for Losers [[nytimes.com]](https://www.nytimes.com/2017/08/31/opinion/sunday/silicon-valley-work-life-balance-.html)
 
 [<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") We are stuck in 100 year old management systems designed for low skilled factory workers and static markets. Why aren't we questioning it?
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Glide.js: A Dependency-Free ES6 Slider and Carousel -       [glidejs.com] (\"Designed to slide. No less, no more\" says the creator.) A Responsive Accessible Table       [adrianroselli.com] Since their “redesign”       @HSBC_UK online banking is now barely...",
-  "inceptDate": "2018-08-07T09:59:20.4159584-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "glide-js-a-dependency-free-es6-slider-and-carousel-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Glide.js: A Dependency-Free ES6 Slider and Carousel” and other Tweeted links…",
+  "documentShortName": "2018-08-07-glide-js-a-dependency-free-es6-slider-and-carousel-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-07-glide-js-a-dependency-free-es6-slider-and-carousel-and-other-tweeted-links",
+  "date": "2018-08-07T16:59:20.415Z",
+  "modificationDate": "2018-08-07T16:59:20.415Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Glide.js: A Dependency-Free ES6 Slider and Carousel” and other Tweeted links…"
+  "clientId": "2018-08-07-glide-js-a-dependency-free-es6-slider-and-carousel-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Glide.js: A Dependency-Free ES6 Slider and Carousel -       [glidejs.com] (\\\"Designed to slide. No less, no more\\\" says the creator.) A Responsive Accessible Table       [adrianroselli.com] Since their “redesign”       @HSBC_UK online banking is now barely...\"\r\n}"
 }
 ---
+
+# “Glide.js: A Dependency-Free ES6 Slider and Carousel” and other Tweeted links…
 
 [<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JavaScriptDaily.jpg">]( "JavaScript Daily [JavaScriptDaily]") Glide.js: A Dependency-Free ES6 Slider and Carousel - [[glidejs.com]](https://glidejs.com/) ("Designed to slide. No less, no more" says the creator.)
 
@@ -88,3 +94,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I Find Six Figure Remote Software Developer Jobs | Full Bit [[fullbit.ca]](http://fullbit.ca/how-i-find-six-figure-remote-software-developer-jobs/) =&gt; [@bizmonger](http://twitter.com/bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Wall Street’s big banks are waging an all-out technological arms race [[bloomberg.com]](https://www.bloomberg.com/news/features/2018-04-05/wall-street-s-big-banks-are-waging-an-all-out-technological-arms) via [@markets](http://twitter.com/markets)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

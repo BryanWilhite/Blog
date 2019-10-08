@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Introduction to Prism for Xamarin.Forms - Canada's Technology Triangle .NET User Group (Kitche... [gettopical.com] via @brianlagunas Designing Efficient Web Forms: On Structure, Inputs, Labels And Actions [smashingmagazine.com] Breaking out with CSS Grid...",
-  "inceptDate": "2017-10-02T10:12:54.2908246-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introduction-to-prism-for-xamarin-forms-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introduction to Prism for Xamarin.Forms” and other Tweeted Links…",
+  "documentShortName": "2017-10-02-introduction-to-prism-for-xamarin-forms-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-02-introduction-to-prism-for-xamarin-forms-and-other-tweeted-links",
+  "date": "2017-10-02T17:12:54.290Z",
+  "modificationDate": "2017-10-02T17:12:54.290Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introduction to Prism for Xamarin.Forms” and other Tweeted Links…"
+  "clientId": "2017-10-02-introduction-to-prism-for-xamarin-forms-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introduction to Prism for Xamarin.Forms - Canada's Technology Triangle .NET User Group (Kitche... [gettopical.com] via @brianlagunas Designing Efficient Web Forms: On Structure, Inputs, Labels And Actions [smashingmagazine.com] Breaking out with CSS Grid...\"\r\n}"
 }
 ---
+
+# “Introduction to Prism for Xamarin.Forms” and other Tweeted Links…
 
 [<img alt="Xamarin Top News [XamarinTopNews]" src="https://songhay.blob.core.windows.net/shared-social-twitter/XamarinTopNews.jpg">](https://t.co/bEtZcO0Uo3 "Xamarin Top News [XamarinTopNews]") Introduction to Prism for Xamarin.Forms - Canada's Technology Triangle .NET User Group (Kitche... [[gettopical.com]](http://gettopical.com/xamarin/ebf2660136da1c9ee5ed0160ed4d63a?src=twitter) via [@brianlagunas](http://twitter.com/brianlagunas)
 
@@ -31,9 +37,9 @@
 
 [<img alt="Leon Welicki [lwelicki]" src="https://songhay.blob.core.windows.net/shared-social-twitter/lwelicki.png">](https://t.co/sJ8bYgl0vv "Leon Welicki [lwelicki]") Check out this new blog post "Get the most out of your Azure portal experience" and let me know what you think![[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/azure-portal-experience/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript 2.2: Mixin Classes | Marius Schulz [[blog.mariusschulz.com]](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes) [like extension methods in C#] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript 2.2: Mixin Classes | Marius Schulz [[blog.mariusschulz.com]](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes) [like extension methods in C#]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/iP0Vl-vU3XM?a) GOTO 2013 • JS Unit Testing Good Practices &amp; Horrible Mistakes • Roy Osherove 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/iP0Vl-vU3XM?a) GOTO 2013 • JS Unit Testing Good Practices &amp; Horrible Mistakes • Roy Osherove
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Eyes Above The Waves: WebAssembly: Mozilla Won [[robert.ocallahan.org]](http://robert.ocallahan.org/2017/06/webassembly-mozilla-won.html)
 
@@ -51,15 +57,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@tfsbuck](http://twitter.com/tfsbuck) getting authentication error ([[my.visualstudio.com]](http://my.visualstudio.com)) » [@VisualStudio](http://twitter.com/VisualStudio)[[twitter.com]](https://twitter.com/BryanWilhite/status/909889374325587968/photo/1)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Let us help, Bryan. Are you still having this issue? If so, have you tried accessing the portal from an InPrivate browser? 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Let us help, Bryan. Are you still having this issue? If so, have you tried accessing the portal from an InPrivate browser?
 
-[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@VisualStudio](http://twitter.com/VisualStudio) I think it was due to this incident. [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/vsoservice/?p=14945) Is it still happening for you? 
+[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@VisualStudio](http://twitter.com/VisualStudio) I think it was due to this incident. [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/vsoservice/?p=14945) Is it still happening for you?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck)[@VisualStudio](http://twitter.com/VisualStudio) looks like it is working now, thx 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tfsbuck](http://twitter.com/tfsbuck)[@VisualStudio](http://twitter.com/VisualStudio) looks like it is working now, thx
 
-[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@VisualStudio](http://twitter.com/VisualStudio) Glad to hear it. Sorry for the trouble. 
+[<img alt="Buck Hodges [tfsbuck]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tfsbuck.png">](https://t.co/wkyxtrI1VJ "Buck Hodges [tfsbuck]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@VisualStudio](http://twitter.com/VisualStudio) Glad to hear it. Sorry for the trouble.
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Announcing the long awaited version of SignalR for [#ASPNET](http://twitter.com/search?q=%23ASPNET) Core 2.0 - [[msft.social]](http://msft.social/MuIgIS) - try it out and let us know what you think! 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Announcing the long awaited version of SignalR for [#ASPNET](http://twitter.com/search?q=%23ASPNET) Core 2.0 - [[msft.social]](http://msft.social/MuIgIS) - try it out and let us know what you think!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Docker for .NET Developers (Part 1) - Steve Gordon's Blog [[stevejgordon.co.uk]](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") blogged: Solution-wide Nuget package handling in .NET SDK-based projects [[strathweb.com]](https://www.strathweb.com/2017/09/solution-wide-nuget-package-handling-in-net-sdk-based-projects/)
 
-[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") I'm surprised at the demand for serializing DataSets/DataTables with [[json.net]](http://Json.NET) in .NET Core 2. The people want it. 
+[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") I'm surprised at the demand for serializing DataSets/DataTables with [[json.net]](http://Json.NET) in .NET Core 2. The people want it.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to ARM Assembly Basics [[azeria-labs.com]](https://azeria-labs.com/writing-arm-assembly-part-1/) » [@terrajobst](http://twitter.com/terrajobst)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 5 questions that reveal if a company has a healthy workplace culture [[m.signalvnoise.com]](https://m.signalvnoise.com/5-questions-that-reveal-if-a-company-has-a-healthy-workplace-culture-491db31b2f28?source=rss----668e14b18fb1---4)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") talking about requirements in meetings without referring to a document (even a JIRA ticket) is a sign that our time is being wasted😑
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Ready for more details about #Angular new engine Ivy? I just published an article that dives deep into Ivy implementation and provides a comparison with the existing engine. Read it to find out if what you've learnt about Angular internals applies to Ivy...",
-  "inceptDate": "2018-10-23T21:41:48.3849706-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "ready-for-more-details-about-angular-new-engine-ivy-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Ready for more details about #Angular new engine Ivy?” and other Tweeted links…",
+  "documentShortName": "2018-10-23-ready-for-more-details-about-angular-new-engine-ivy-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-10-23-ready-for-more-details-about-angular-new-engine-ivy-and-other-tweeted-links",
+  "date": "2018-10-24T04:41:48.384Z",
+  "modificationDate": "2018-10-24T04:41:48.384Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Ready for more details about #Angular new engine Ivy?” and other Tweeted links…"
+  "clientId": "2018-10-23-ready-for-more-details-about-angular-new-engine-ivy-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Ready for more details about #Angular new engine Ivy? I just published an article that dives deep into Ivy implementation and provides a comparison with the existing engine. Read it to find out if what you've learnt about Angular internals applies to Ivy...\"\r\n}"
 }
 ---
+
+# “Ready for more details about #Angular new engine Ivy?” and other Tweeted links…
 
 [<img alt="Max, Wizard of the Web [maxim_koretskyi]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maxim_koretskyi.jpg">](https://t.co/ipLhHkzwKu) Ready for more details about [#Angular](http://twitter.com/search?q='%23Angular) new engine Ivy? I just published an article that dives deep into Ivy implementation and provides a comparison with the existing engine. Read it to find out if what you've learnt about Angular internals applies to Ivy [[blog.angularindepth.com]](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
 
@@ -27,9 +33,9 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) How to be a mediocre [#UI](http://twitter.com/search?q='%23UI)/[#UX](http://twitter.com/search?q='%23UX) Designer — [Case Study] [[uxdesign.cc]](https://uxdesign.cc/how-to-be-a-mediocre-ui-ux-designer-case-study-8bd80ec5755f)
 
-[<img alt="React Status ⚛ [reactdaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactdaily.jpg">](https://t.co/xdIqTOLlm4) How to Build a Real-Time Editable Datagrid: [[dev.to]](https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad) (.. using react-table and Hamoni Sync, a realtime state synchronization service.) 
+[<img alt="React Status ⚛ [reactdaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactdaily.jpg">](https://t.co/xdIqTOLlm4) How to Build a Real-Time Editable Datagrid: [[dev.to]](https://dev.to/pmbanugo/real-time-editable-datagrid-in-react-56ad) (.. using react-table and Hamoni Sync, a realtime state synchronization service.)
 
-[<img alt="André Staltz [andrestaltz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/andrestaltz.jpg">](https://t.co/oeLidqKxmX) I'm still amazed that [[gist.github.com]](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) , on reactive programming, is one of the most popular articles I ever wrote. Here's the key: I was an RxJS beginner, and that's how it reached other beginners well. 
+[<img alt="André Staltz [andrestaltz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/andrestaltz.jpg">](https://t.co/oeLidqKxmX) I'm still amazed that [[gist.github.com]](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) , on reactive programming, is one of the most popular articles I ever wrote. Here's the key: I was an RxJS beginner, and that's how it reached other beginners well.
 
 [<img alt="Don Syme [dsyme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dsyme.jpeg">](https://t.co/0enWD7OYV4) Calculator written using Elmish.XamarinForms (full Elmish, no XAML) Model = 20 lines, Update = 35 lines, View = 40 lines. [[github.com]](https://github.com/nosami/Elmish.Calculator)[[twitter.com]](https://twitter.com/dsyme/status/996720094683258880/photo/1)
 
@@ -41,7 +47,7 @@
 
 [<img alt="Den [DennisCode]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DennisCode.jpg">](https://t.co/uxtXFsQpHh) Your lifehack for the day - if you want to share specific lines from [@GitHub](http://twitter.com/@GitHub) files, click on a line number to highlight it. Hold SHIFT and click on another line number and it will highlight everything until that line. [[twitter.com]](https://twitter.com/DennisCode/status/997271974303809536/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) hey [@chriswilcox47](http://twitter.com/@chriswilcox47), congrats on your move to [@Google](http://twitter.com/@Google)! Will you still contribute to [[github.com]](http://github.com/Microsoft/AzureNotebooks/graphs/contributors)? Were there any plans for more kernels? Is there another online notebook offering with more kernels? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) hey [@chriswilcox47](http://twitter.com/@chriswilcox47), congrats on your move to [@Google](http://twitter.com/@Google)! Will you still contribute to [[github.com]](http://github.com/Microsoft/AzureNotebooks/graphs/contributors)? Were there any plans for more kernels? Is there another online notebook offering with more kernels?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) okay [@chriswilcox47](http://twitter.com/@chriswilcox47) you answer roadmap questions here: [[youtu.be]](https://youtu.be/NglZQAEnlQY?t=3145)
 
@@ -49,11 +55,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@Odytrice](http://twitter.com/@Odytrice)[@Azure](http://twitter.com/@Azure) In the meantime, check out [[notebooks.azure.com]](http://notebooks.azure.com) you will find [#fsharp](http://twitter.com/search?q='%23fsharp) firmly in place there, largely because an army of F# people was invited by the notebooks team to go hog wild all over the place👯 =&gt; [@AzureSupport](http://twitter.com/@AzureSupport)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@filip_woj](http://twitter.com/@filip_woj)[@shanselman](http://twitter.com/@shanselman)[@Azure](http://twitter.com/@Azure)[@csharpfritz](http://twitter.com/@csharpfritz)[@headinthebox](http://twitter.com/@headinthebox)[@lorentzframe](http://twitter.com/@lorentzframe) The Jupyter kernel for C# not running on [@Azure](http://twitter.com/@Azure) notebooks is based on scriptcs: [[github.com]](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) I would rather see dotnetscript there🧐 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@filip_woj](http://twitter.com/@filip_woj)[@shanselman](http://twitter.com/@shanselman)[@Azure](http://twitter.com/@Azure)[@csharpfritz](http://twitter.com/@csharpfritz)[@headinthebox](http://twitter.com/@headinthebox)[@lorentzframe](http://twitter.com/@lorentzframe) The Jupyter kernel for C# not running on [@Azure](http://twitter.com/@Azure) notebooks is based on scriptcs: [[github.com]](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) I would rather see dotnetscript there🧐
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2016: “A Primer on Using LaTeX in Jupyter Notebooks” [[data-blog.udacity.com]](http://data-blog.udacity.com/posts/2016/10/latex-primer/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@taraw](http://twitter.com/@taraw)[@coursera](http://twitter.com/@coursera) Does this (from 2017) still apply? “Jupyter Notebooks on AWS EC2 in 15 (mostly easy) steps” [[medium.com]](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6) [when you say yes that means you have to fly over and set this up for me 🤠] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@taraw](http://twitter.com/@taraw)[@coursera](http://twitter.com/@coursera) Does this (from 2017) still apply? “Jupyter Notebooks on AWS EC2 in 15 (mostly easy) steps” [[medium.com]](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6) [when you say yes that means you have to fly over and set this up for me 🤠]
 
 [<img alt="Jeremy Likness ⚡️ [jeremylikness]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jeremylikness.jpg">](https://t.co/IbLCTBQJ41) Great session taking a deep dive on [#Azure](http://twitter.com/search?q='%23Azure)[#CosmosDB](http://twitter.com/search?q='%23CosmosDB) at [#msbuild](http://twitter.com/search?q='%23msbuild). Some highlights: ✅ Partitioning at 16:45 ✅ Performance tuning at 43:42 ✅ Managing availability at 1:06:54 Check it out on [@ch9](http://twitter.com/@ch9)[[jlik.me]](https://jlik.me/dh7)[[twitter.com]](https://twitter.com/jeremylikness/status/996398827585368065/photo/1)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Stephen Owen 🦊Deploy [FoxDeploy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/FoxDeploy.jpg">](https://t.co/v2JkJtKMfa) What!? In [@code](http://twitter.com/@code), simply type '##' to autogenerate a PowerShell comment based help, even including params!?awesome tip Via [@EphingPosh](http://twitter.com/@EphingPosh)[@mmsmoa](http://twitter.com/@mmsmoa)[[twitter.com]](https://twitter.com/FoxDeploy/status/996488044059463680/photo/1)
 
-[<img alt="Ned Pyle [NerdPyle]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NerdPyle.jpg">](https://t.co/Ab46EopJjU) WIN + R Type your command CTRL + SHIFT+ ENTER Runs that command admin-elevated 😲 
+[<img alt="Ned Pyle [NerdPyle]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NerdPyle.jpg">](https://t.co/Ab46EopJjU) WIN + R Type your command CTRL + SHIFT+ ENTER Runs that command admin-elevated 😲
 
 [<img alt="Scott Wlaschin [ScottWlaschin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ScottWlaschin.jpg">](http://t.co/0un69DrFFd) On this day five years ago I launched "Railway Oriented Programming" into the world. I wasn't sure whether people would think it a silly analogy, but it seems to have caught on quite a bit. In fact, I may have created a monster :) [[twitter.com]](https://twitter.com/scottwlaschin/status/335396849953415168)
 
@@ -87,17 +93,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) From Set Theory to Type Theory [[golem.ph.utexas.edu]](https://golem.ph.utexas.edu/category/2013/01/from_set_theory_to_type_theory.html) 1.1 Type theory versus set theory [[planetmath.org]](http://planetmath.org/11typetheoryversussettheory) Type Theory, Set Theory and Domain Theory [[cs.cornell.edu]](http://www.cs.cornell.edu/info/Projects/NuPrl/Intro/TypeSetDomain/typesetd.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) crappy note to self: set theory is more for mathematicians taking out dependencies on classical studies of logic; type theory is for computer scientists, taking out zero dependencies 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) crappy note to self: set theory is more for mathematicians taking out dependencies on classical studies of logic; type theory is for computer scientists, taking out zero dependencies
 
 [<img alt="Quanta Magazine [QuantaMagazine]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/QuantaMagazine.jpg">](https://t.co/3tm9sLOEkF) Lately, the statistician Donald Richards has taken up a powerful new tool for finding hidden patterns in data. [[buff.ly]](https://buff.ly/2ILyOjm)
 
 [<img alt="Engadget [engadget]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/engadget.png">](https://t.co/sPqsSwBKtx) Microsoft's Surface Hub 2 is a bold attempt at changing how we work [[engt.co]](https://engt.co/2rJjKvH)
 
-[<img alt="Kelsey Hightower [kelseyhightower]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kelseyhightower.jpg">](https://t.co/34tXx3kx0x) Detectives would make the best software developers. Their ability to find missing documentation would serve them well. 
+[<img alt="Kelsey Hightower [kelseyhightower]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kelseyhightower.jpg">](https://t.co/34tXx3kx0x) Detectives would make the best software developers. Their ability to find missing documentation would serve them well.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@kelseyhightower](http://twitter.com/@kelseyhightower) Yup: in the Microsoft world it helped quite a lot to understand the motives of murderous .NET programmers, as many were C++ people angrily condescending to a “toy” language, coming from a “real” language with OOP Frankenstein-grafted on it👹👺 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@kelseyhightower](http://twitter.com/@kelseyhightower) Yup: in the Microsoft world it helped quite a lot to understand the motives of murderous .NET programmers, as many were C++ people angrily condescending to a “toy” language, coming from a “real” language with OOP Frankenstein-grafted on it👹👺
 
-[<img alt="Jeff Fritz 🔜 TwitchCon [csharpfritz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/csharpfritz.jpg">](https://t.co/b3mDItgW1b) Hey conference attendees: NOT COOL when you rate a session with the lowest ratings and then report "hated it because I couldn't attend this session" 
+[<img alt="Jeff Fritz 🔜 TwitchCon [csharpfritz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/csharpfritz.jpg">](https://t.co/b3mDItgW1b) Hey conference attendees: NOT COOL when you rate a session with the lowest ratings and then report "hated it because I couldn't attend this session"
 
 [<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/vpieters.png">](http://t.co/A4ZEwCEPEs) Doing One Thing a Day; or, a Calendar Plan That’s Actually Productive Nice article on productivity by [@elliotjaystocks](http://twitter.com/@elliotjaystocks), one half of Lagom magazine. [[medium.com]](https://medium.com/@elliotjaystocks/doing-one-thing-a-day-or-a-calendar-plan-thats-actually-productive-e9789151435f)
 
@@ -106,3 +112,5 @@
 [<img alt="Lynda [lyndachiwetelu]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lyndachiwetelu.jpg">](https://t.co/r4vLe46pkB) I just published “Working remotely from Lagos, Nigeria as a software developer.” [[medium.com]](https://medium.com/p/working-remotely-from-lagos-nigeria-as-a-software-developer-3edf8130b3e2)
 
 [<img alt="Janessa Lantz [janessalantz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/janessalantz.jpg">](null) Are we surprised that a key phrase in Uber's job description is "whatever it takes"? [[twitter.com]](https://twitter.com/janessalantz/status/996860109161680897/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

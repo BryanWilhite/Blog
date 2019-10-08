@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "In the same manner IT shops far removed from the cutting-edge startup keep old/unsupported technology, they also keep old-fashioned management practices. The practice that irked me the most over my two decades of careering is line-of-sight management. Th...",
-  "inceptDate": "2016-05-18T22:40:24.4649187-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "line-of-sight-it-management-is-it-really-dead",
+  "documentId": 0,
+  "title": "Line-of-sight IT management… is it really dead?",
+  "documentShortName": "2016-05-18-line-of-sight-it-management-is-it-really-dead",
+  "fileName": "index.html",
+  "path": "./entry/2016-05-18-line-of-sight-it-management-is-it-really-dead",
+  "date": "2016-05-19T05:40:24.464Z",
+  "modificationDate": "2016-05-19T05:40:24.464Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Line-of-sight IT management… is it really dead?"
+  "clientId": "2016-05-18-line-of-sight-it-management-is-it-really-dead",
+  "tag": "{\r\n  \"extract\": \"In the same manner IT shops far removed from the cutting-edge startup keep old/unsupported technology, they also keep old-fashioned management practices. The practice that irked me the most over my two decades of careering is line-of-sight management. Th...\"\r\n}"
 }
 ---
+
+# Line-of-sight IT management… is it really dead?
 
 In the same manner IT shops far removed from the cutting-edge startup keep old/unsupported technology, they also keep old-fashioned management practices. The practice that irked me the most over my two decades of careering is line-of-sight management. This practice comes straight out of the 19<sup>th</sup>-century—when the “cultural fit” of your organization includes this manacle then understand you are doing prison time in the mists of the past, trying to make America “great” again.
 
@@ -44,3 +50,5 @@ What’s even *more* evil is that manager who has a two-plus-hour commute and si
 So these last few, squalid paragraphs of mine strongly suggest (to me) that line-of-sight IT management will not die easily—especially in a culture with a 19<sup>th</sup>-century heritage like the United States. Simultaneously, I have found out through personal experience that companies that *do *encourage telecommuting are small, young and poor (often they can’t even pay you on time). And the suggestion is very strong that the *real* reason Google has its famous [20% Time](http://www.businessinsider.com/google-20-percent-time-policy-2015-4) is because of its fear of losing rock stars to their own startups.
 
 What I have learned (in the last year) is that companies are *forced* to be more flexible and reasonable with it’s IT employees’ physical location and sub-hour timeliness when the company plans to form teams across time zones for multiple projects. This is different from those ‘small, poor’ companies (with less than one project) I’ve worked for in the past—these are larger companies who formally/fiscally plan to operate *daily* (on multiple projects) with multi-time-zone teams *for years*. Such a company does not need a static/formal work-at-home/telecommuting policy. They will either kill their employees by sleep deprivation or get loose about where their people are and when they are doing it—as long as the project deliverables show up on schedule.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "2014: “Using Page Objects to Overcome Protractor's Shortcomings” | ThoughtWorks [thoughtworks.com] is the use of TestBed.createComponent under Karma some kind of anti-pattern because we should consider protractor (… [twitter.com]@Meligy@SomeJulie@AmyOh89...",
-  "inceptDate": "2017-12-06T11:27:57.0463698-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-page-objects-to-overcome-protractor-s-shortcomings-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Page Objects to Overcome Protractor’s Shortcomings” and other Tweeted Links…",
+  "documentShortName": "2017-12-06-using-page-objects-to-overcome-protractor-s-shortcomings-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-06-using-page-objects-to-overcome-protractor-s-shortcomings-and-other-tweeted-links",
+  "date": "2017-12-06T19:27:57.046Z",
+  "modificationDate": "2017-12-06T19:27:57.046Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Page Objects to Overcome Protractor’s Shortcomings” and other Tweeted Links…"
+  "clientId": "2017-12-06-using-page-objects-to-overcome-protractor-s-shortcomings-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"2014: “Using Page Objects to Overcome Protractor's Shortcomings” | ThoughtWorks [thoughtworks.com] is the use of TestBed.createComponent under Karma some kind of anti-pattern because we should consider protractor (… [twitter.com]@Meligy@SomeJulie@AmyOh89...\"\r\n}"
 }
 ---
+
+# “Using Page Objects to Overcome Protractor’s Shortcomings” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2014: “Using Page Objects to Overcome Protractor's Shortcomings” | ThoughtWorks [[thoughtworks.com]](https://www.thoughtworks.com/insights/blog/using-page-objects-overcome-protractors-shortcomings)
 
@@ -59,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 20 Linux commands every sysadmin should know [[opensource.com]](https://opensource.com/article/17/7/20-sysadmin-commands)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Application Architecture Guidance | .NET Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/) [e-books] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Application Architecture Guidance | .NET Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/) [e-books]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top 5 .NET Exceptions – TechNet UK Blog [[blogs.technet.microsoft.com]](https://blogs.technet.microsoft.com/uktechnet/2017/07/25/top-5-net-exceptions/)
 
@@ -75,7 +81,7 @@
 
 [<img alt="Digital Trends [DigitalTrends]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DigitalTrends.jpg">](https://t.co/wxxwesnWkd "Digital Trends [DigitalTrends]") Apple’s three Mac Minis released in 2011 now unsupported ‘vintage’ devices [[bit.ly]](http://bit.ly/2iThzp0)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/uI23RItDDDg?a) Microsoft Surface Book 2 Review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/uI23RItDDDg?a) Microsoft Surface Book 2 Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mysterious Mac Malware Has Infected Victims for Years [[motherboard.vice.com]](https://motherboard.vice.com/en_us/article/zmv79w/mysterious-mac-malware-has-infected-hundreds-of-victims-for-years) » [@megafunkmega](http://twitter.com/megafunkmega)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft’s Monopoly Hangover [[stratechery.com]](https://stratechery.com/2017/microsofts-monopoly-hangover/?utm_source=feedly&utm_medium=webfeeds)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Anonymized Engineering Compensation – A sheet full of salary data [[docs.google.com]](https://docs.google.com/spreadsheets/d/1JR4KrVH1dygniLiLFAMTvdSp5gGLVKKkOxBYiPQagvE)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

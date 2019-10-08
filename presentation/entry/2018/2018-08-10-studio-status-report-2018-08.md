@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Going forward from here my passive-voice intention is to keep track of myself monthly. My work habits have always included keeping a private journal. In the “early years,” one Microsoft Word document per year was enough. As my software-development surfac...",
-  "inceptDate": "2018-08-10T10:25:50.0396698-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2018-08",
+  "documentId": 0,
+  "title": "studio status report: 2018-08",
+  "documentShortName": "2018-08-10-studio-status-report-2018-08",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-10-studio-status-report-2018-08",
+  "date": "2018-08-10T17:25:50.039Z",
+  "modificationDate": "2018-08-10T17:25:50.039Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2018-08"
+  "clientId": "2018-08-10-studio-status-report-2018-08",
+  "tag": "{\r\n  \"extract\": \"Going forward from here my passive-voice intention is to keep track of myself monthly. My work habits have always included keeping a private journal. In the “early years,” one Microsoft Word document per year was enough. As my software-development surfac...\"\r\n}"
 }
 ---
+
+# studio status report: 2018-08
 
 Going forward from here my passive-voice intention is to keep track of myself monthly. My work habits have always included keeping a private journal. In the “early years,” one Microsoft Word document per year was enough. As my software-development surface area grew, Microsoft OneNote became my secondary journal tool. From Microsoft OneNote, Markdown and GitHub-based cultural habits sinks in. This journal file is part my latest journal tooling.
 
@@ -25,7 +31,7 @@ GitHub is [tracking the progress](https://github.com/BryanWilhite/Songhay.Dashbo
 
 After discovering that adding Node-based builds to an ASP.NET Core Solution skyrocketed to 11 minutes, I started turning off Continuous Integration (CI) on VSTS. Moreover, I finally see that `dotnet test` tasks can specify multiple test projects like this:
 
-        **/*Tests.csproj
+**/*Tests.csproj
     !**/Songhay.GenericWeb.Mvvm*/*.csproj
 
 This discovery allows me to remove all of those `IgnoreAttribute` declarations and target more precisely.
@@ -47,3 +53,5 @@ The guidance in “ [Share and save screenshots with Dropbox](https://www.dropbo
 What might be a great, simple, *central* solution to sharing screenshots involves throwing images (using the new [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)) on a BLOB container. All legacy screenshots can be moved there.
 
 @ [BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

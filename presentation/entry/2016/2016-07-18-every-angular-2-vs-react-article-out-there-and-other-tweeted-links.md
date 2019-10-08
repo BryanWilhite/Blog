@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Every “Angular 2 vs. React” article out there [medium.com] Everything You Need To Program Components In Angular 1.5 [odetocode.com] Enable Rich Social Sharing in Your AngularJS App [michaelbromley.co.uk] “this article is to make you stop calling your API...",
-  "inceptDate": "2016-07-18T17:21:28.9704426-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "every-angular-2-vs-react-article-out-there-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Every ‘Angular 2 vs. React’ article out there” and other Tweeted Links…",
+  "documentShortName": "2016-07-18-every-angular-2-vs-react-article-out-there-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-07-18-every-angular-2-vs-react-article-out-there-and-other-tweeted-links",
+  "date": "2016-07-19T00:21:28.970Z",
+  "modificationDate": "2016-07-19T00:21:28.970Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Every ‘Angular 2 vs. React’ article out there” and other Tweeted Links…"
+  "clientId": "2016-07-18-every-angular-2-vs-react-article-out-there-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Every “Angular 2 vs. React” article out there [medium.com] Everything You Need To Program Components In Angular 1.5 [odetocode.com] Enable Rich Social Sharing in Your AngularJS App [michaelbromley.co.uk] “this article is to make you stop calling your API...\"\r\n}"
 }
 ---
+
+# “Every ‘Angular 2 vs. React’ article out there” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Every “Angular 2 vs. React” article out there [[medium.com]](https://medium.com/@urigo/every-angular-2-vs-react-article-out-there-cfd4f557be9b)
 
@@ -47,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Realm is a database built from the ground up for the unique challenges of mobile app development” [[realm.io]](https://realm.io/news/introducing-realm-xamarin/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0aoeSsKarc8?a) State of Netty 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0aoeSsKarc8?a) State of Netty
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “overall average loading time of the jbb bundle is 30% to 35% faster.” [[wavesoft.github.io]](http://wavesoft.github.io/make-your-javascript-resources-loade-30-percent-faster)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Disney Infinity shuts down as Disney drops out of game publishing [[arstechnica.com]](http://arstechnica.com/gaming/2016/05/disney-infinity-shuts-down-as-disney-drops-out-of-game-publishing/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended by [@ColliderVideo](http://twitter.com/ColliderVideo) Jedi Council on Kindle: Bloodline (Star Wars) by Claudia Gray [[amazon.com]](http://www.amazon.com/Bloodline-Star-Wars-Claudia-Gray-ebook/dp/B00Z3G1VU4%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00Z3G1VU4)[[twitter.com]](http://twitter.com/BryanWilhite/status/728457100599271424/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

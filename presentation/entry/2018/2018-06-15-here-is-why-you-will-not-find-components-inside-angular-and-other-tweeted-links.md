@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Here is why you will not find components inside Angular. By @maxim_koretskyi[bit.ly] If you're fan of @shanselman, @DamianEdwards or just @dotnet or @aspnet make sure to check out our @YouTube channel… [twitter.com] If you are looking for a big icon coll...",
-  "inceptDate": "2018-06-15T16:36:38.5975202-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "here-is-why-you-will-not-find-components-inside-angular-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Here is why you will not find components inside Angular…” and other Tweeted Links…",
+  "documentShortName": "2018-06-15-here-is-why-you-will-not-find-components-inside-angular-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-06-15-here-is-why-you-will-not-find-components-inside-angular-and-other-tweeted-links",
+  "date": "2018-06-15T23:36:38.597Z",
+  "modificationDate": "2018-06-15T23:36:38.597Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Here is why you will not find components inside Angular…” and other Tweeted Links…"
+  "clientId": "2018-06-15-here-is-why-you-will-not-find-components-inside-angular-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Here is why you will not find components inside Angular. By @maxim_koretskyi[bit.ly] If you're fan of @shanselman, @DamianEdwards or just @dotnet or @aspnet make sure to check out our @YouTube channel… [twitter.com] If you are looking for a big icon coll...\"\r\n}"
 }
 ---
+
+# “Here is why you will not find components inside Angular…” and other Tweeted Links…
 
 [<img alt="NG Tutorial 🔥 [NG_Tutorial]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NG_Tutorial.jpg">]( "NG Tutorial 🔥 [NG_Tutorial]") Here is why you will not find components inside Angular. By [@maxim_koretskyi](http://twitter.com/maxim_koretskyi)[[bit.ly]](http://bit.ly/2uUUNNP)
 
@@ -85,7 +91,7 @@
 
 [<img alt="Scott Nimrod [Bizmonger]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Bizmonger.jpg">](https://t.co/G8pgR1Zwwz "Scott Nimrod [Bizmonger]") As an architect should you enforce coding conventions? Or do you not constrain your developers and provide them fre… [[twitter.com]](https://twitter.com/i/web/status/968478059253981184)
 
-[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "So much complexity in software comes from trying to make one thing do two things." – Ryan Singer 
+[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "So much complexity in software comes from trying to make one thing do two things." – Ryan Singer
 
 [<img alt="bletchley punk [alicegoldfuss]" src="https://songhay.blob.core.windows.net/shared-social-twitter/alicegoldfuss.jpg">](https://t.co/pX6qSpJiWT "bletchley punk [alicegoldfuss]") "Good programmers don't have a favorite language" psssst basically all programmers have a favorite language. The k… [[twitter.com]](https://twitter.com/i/web/status/969351729459294208)
 
@@ -105,6 +111,8 @@
 
 [<img alt="Changelog [changelog]" src="https://songhay.blob.core.windows.net/shared-social-twitter/changelog.jpg">](https://t.co/QMhJ1u913q "Changelog [changelog]") Somebody’s test suite was taking too long to run... [[twitter.com]](https://twitter.com/changelog/status/969227305355759619/video/1)
 
-[<img alt="Alien Skier Unfiltered [ClichedOut]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ClichedOut.jpg">](https://t.co/usP0gz8WoP "Alien Skier Unfiltered [ClichedOut]") the first rule of micromanager club is...here, i'll just show u 
+[<img alt="Alien Skier Unfiltered [ClichedOut]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ClichedOut.jpg">](https://t.co/usP0gz8WoP "Alien Skier Unfiltered [ClichedOut]") the first rule of micromanager club is...here, i'll just show u
 
 [<img alt="Massimo [Rainmaker1973]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Rainmaker1973.jpg">](https://t.co/p999QzDjSI "Massimo [Rainmaker1973]") The Galton board: 3000 steel balls fall through 12 levels of branching paths and end up matching a bell curve distr… [[twitter.com]](https://twitter.com/i/web/status/969116624937799680)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

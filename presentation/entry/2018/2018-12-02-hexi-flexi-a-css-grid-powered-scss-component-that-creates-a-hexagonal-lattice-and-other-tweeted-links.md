@@ -1,21 +1,27 @@
 ---json
 {
-  "author": null,
-  "content": "Hexi Flexi: A #CSS Grid powered SCSS component that creates a hexagonal lattice [vmcreative.github.io] Did I tell you yesterday my slides for my talk at @ampersandconf are up at [noti.st]? Well, they are. A video was recorded and will be posted sometime ...",
-  "inceptDate": "2018-12-02T19:50:43.2226157-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "hexi-flexi-a-css-grid-powered-scss-component-that-creates-a-hexagonal-lattice-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Hexi Flexi: A #CSS Grid powered SCSS component that creates a hexagonal lattice” and other tweeted links…",
+  "documentShortName": "2018-12-02-hexi-flexi-a-css-grid-powered-scss-component-that-creates-a-hexagonal-lattice-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-12-02-hexi-flexi-a-css-grid-powered-scss-component-that-creates-a-hexagonal-lattice-and-other-tweeted-links",
+  "date": "2018-12-03T03:50:43.222Z",
+  "modificationDate": "2018-12-03T03:50:43.222Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Hexi Flexi: A #CSS Grid powered SCSS component that creates a hexagonal lattice” and other tweeted links…"
+  "clientId": "2018-12-02-hexi-flexi-a-css-grid-powered-scss-component-that-creates-a-hexagonal-lattice-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Hexi Flexi: A #CSS Grid powered SCSS component that creates a hexagonal lattice [vmcreative.github.io] Did I tell you yesterday my slides for my talk at @ampersandconf are up at [noti.st]? Well, they are. A video was recorded and will be posted sometime ...\"\r\n}"
 }
 ---
 
+# “Hexi Flexi: A #CSS Grid powered SCSS component that creates a hexagonal lattice” and other tweeted links…
+
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/HhuiDe5OwM) Hexi Flexi: A [#CSS](http://twitter.com/search?q='%23CSS) Grid powered SCSS component that creates a hexagonal lattice [[vmcreative.github.io]](https://vmcreative.github.io/Hexi-Flexi-Grid/)
 
-[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Did I tell you yesterday my slides for my talk at [@ampersandconf](http://twitter.com/@ampersandconf) are up at [[noti.st]](https://noti.st/jensimmons/jKs8fq/groundbreaking-new-tools-for-web-typographers)? Well, they are. A video was recorded and will be posted sometime in the future. 
+[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Did I tell you yesterday my slides for my talk at [@ampersandconf](http://twitter.com/@ampersandconf) are up at [[noti.st]](https://noti.st/jensimmons/jKs8fq/groundbreaking-new-tools-for-web-typographers)? Well, they are. A video was recorded and will be posted sometime in the future.
 
 [<img alt="Kunal Chowdhury 📚 [kunal2383]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kunal2383.jpg">](https://t.co/w7sTJfjZs5) ICYM, Here's [[kunal-chowdhury.com]](https://www.kunal-chowdhury.com/2016/08/windows-10-edge-view-source.html) how to bring back the “View Source” and “Inspect Element” in Microsoft Edge. [#Windows](http://twitter.com/search?q='%23Windows)[#Windows10](http://twitter.com/search?q='%23Windows10)[#MicrosoftEdge](http://twitter.com/search?q='%23MicrosoftEdge)[#WindowsInsiders](http://twitter.com/search?q='%23WindowsInsiders)[#WIMVP](http://twitter.com/search?q='%23WIMVP)[#HowTo](http://twitter.com/search?q='%23HowTo)[[twitter.com]](https://twitter.com/kunal2383/status/1012766917873020928/photo/1)
 
@@ -25,7 +31,7 @@
 
 [<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT) 💥 cool gallery of ggplot-related pkgs: 📈 "All Your Figure Are Belong to Us" 👾 [@yutannihilat_en](http://twitter.com/@yutannihilat_en)[[buff.ly]](https://buff.ly/2lPSSHO)[#rstats](http://twitter.com/search?q='%23rstats)[#dataviz](http://twitter.com/search?q='%23dataviz)[[twitter.com]](https://twitter.com/dataandme/status/1014132167457329154/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “`::ng-deep` is also already marked deprecated, but there is no replacement available yet” [[stackoverflow.com]](https://stackoverflow.com/questions/36265026/angular-2-innerhtml-styling) [without this *deep* concept for styling on the component level, [@angular](http://twitter.com/@angular) will translate CSS with attribute selectors all the way down [[w3.org]](https://www.w3.org/TR/CSS2/selector.html#attribute-selectors)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “`::ng-deep` is also already marked deprecated, but there is no replacement available yet” [[stackoverflow.com]](https://stackoverflow.com/questions/36265026/angular-2-innerhtml-styling) [without this *deep* concept for styling on the component level, [@angular](http://twitter.com/@angular) will translate CSS with attribute selectors all the way down [[w3.org]](https://www.w3.org/TR/CSS2/selector.html#attribute-selectors)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) when using SASS with [@angular](http://twitter.com/@angular) components, i'm using: &amp; ::ngdeep [[twitter.com]](https://twitter.com/BryanWilhite/status/1014970071867772928/photo/1)
 
@@ -33,7 +39,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) CSS style not applying on dynamic injected html elements [#7845](http://twitter.com/search?q='%237845)[[github.com]](https://github.com/angular/angular/issues/7845)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/j51Fmn4JVwU?a) The Web That Never Was - Dylan Beattie 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/j51Fmn4JVwU?a) The Web That Never Was - Dylan Beattie
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Linux Security and How Web Browser Sandboxes Really Work - Patricia Aas [[youtube.com]](https://www.youtube.com/watch?v=jc7FpkyrOz0)
 
@@ -43,7 +49,7 @@
 
 [<img alt="blackwomenintech [BWiT_ALL]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BWiT_ALL.jpeg">](https://t.co/Z1JeN5MH6T) Hundreds of millions of emails are being scanned every day by the developers of email apps. [[wsj.com]](https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442) via [@WSJ](http://twitter.com/@WSJ)
 
-[<img alt="JavaScriptKicks [JavaScriptKicks]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptKicks.jpg">](http://t.co/leSeGQTKcF) Node js Elastic Search Tutorial Example From Scratch by KrunalDLathiya [[javascriptkicks.com]](https://javascriptkicks.com/r/44395?url=https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)[#javascript](http://twitter.com/search?q='%23javascript)[#nodejs](http://twitter.com/search?q='%23nodejs) via JavaScriptKicks 
+[<img alt="JavaScriptKicks [JavaScriptKicks]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptKicks.jpg">](http://t.co/leSeGQTKcF) Node js Elastic Search Tutorial Example From Scratch by KrunalDLathiya [[javascriptkicks.com]](https://javascriptkicks.com/r/44395?url=https://appdividend.com/2018/06/29/node-js-elastic-search-tutorial-example/)[#javascript](http://twitter.com/search?q='%23javascript)[#nodejs](http://twitter.com/search?q='%23nodejs) via JavaScriptKicks
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL) Totally agree with the post. XML had many flaws, but it works better for larger documents: * Closing tags establishes context * Native support for comments That's not to say XML is perfect but I find both JSON and YAML *much* worse. [[twitter.com]](https://twitter.com/Johnmont/status/1014159580820115456)
 
@@ -51,11 +57,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@dpiessens](http://twitter.com/@dpiessens)[@Azure](http://twitter.com/@Azure) let's imagine how many ways you will prompted to pay for AD functionality around this blade: [[portal.azure.com]](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/All+users) i think you are telling me that you got Azure Key Vault working by using roles only and not getting prompted to pay for anything [[twitter.com]](https://twitter.com/BryanWilhite/status/1013473766028992512/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Daniel Piessens openly admits that it's turtles all the way down with [@Azure](http://twitter.com/@Azure) Key Vault without the vital role of Azure AD (which is not free of charge) and i quite appreciate the honesty🐢🐢🐢💸 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Daniel Piessens openly admits that it's turtles all the way down with [@Azure](http://twitter.com/@Azure) Key Vault without the vital role of Azure AD (which is not free of charge) and i quite appreciate the honesty🐢🐢🐢💸
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@DotNetRocksShow](http://twitter.com/@DotNetRocksShow) 1558 Developer Security in Azure with Daniel Piessens [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1558)[@dpiessens](http://twitter.com/@dpiessens) &lt;= [@carlfranklin](http://twitter.com/@carlfranklin)[@richcampbell](http://twitter.com/@richcampbell)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/WycVOCbeKqQ?a) Let's Be Realistic: A Deep Dive into How Games Are Selling on Steam 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/WycVOCbeKqQ?a) Let's Be Realistic: A Deep Dive into How Games Are Selling on Steam
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “visual novel” genre does “quite well” on Steam [[youtu.be]](https://youtu.be/WycVOCbeKqQ?t=938) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)[@EdGreerDestroys](http://twitter.com/@EdGreerDestroys)[[twitter.com]](https://twitter.com/BryanWilhite/status/1014239060972302336/photo/1)
 
@@ -85,7 +91,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) my guess is that a new [@ubuntu](http://twitter.com/@ubuntu) kernel image is coming out and this never-seen-before issue will vanish [[twitter.com]](https://twitter.com/BryanWilhite/status/1013306276762169345/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/s3kgAfi1Xso?a) Audio Dev Interview, Ep6: How to Learn Audio Programming &amp; VST Development w/ Josh 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/s3kgAfi1Xso?a) Audio Dev Interview, Ep6: How to Learn Audio Programming &amp; VST Development w/ Josh
 
 [<img alt="Jon Jones [jonjones]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jonjones.jpg">](https://t.co/Gx7q2COm8p) Amazing. Fully functional LEGO Technic bridge girder. [[twitter.com]](https://twitter.com/jonjones/status/1014158238705565697/video/1)
 
@@ -95,14 +101,16 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Dude, Dell is going public again [[houstonchronicle.com]](https://www.houstonchronicle.com/news/texas/article/Dude-Dell-is-going-public-again-13042961.php?utm_campaign=twitter-premium&utm_source=CMS%20Sharing%20Button&utm_medium=social) via [@HoustonChron](http://twitter.com/@HoustonChron)
 
-[<img alt="Michael Eisen [mbeisen]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mbeisen.jpg">](https://t.co/8anfsCLfUE) the great disappointment of my professional career is the discovery that the structures of science careers reward people for violating the principles by which science is supposed to operate 
+[<img alt="Michael Eisen [mbeisen]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mbeisen.jpg">](https://t.co/8anfsCLfUE) the great disappointment of my professional career is the discovery that the structures of science careers reward people for violating the principles by which science is supposed to operate
 
 [<img alt="Teresa Mbagaya [TeresaMbagaya]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/TeresaMbagaya.jpg">](https://t.co/Xs56CyUgSr) Hosted a roundtable on [#scale](http://twitter.com/search?q='%23scale) and [#technology](http://twitter.com/search?q='%23technology) in [#education](http://twitter.com/search?q='%23education) in [#Africa](http://twitter.com/search?q='%23Africa). Incredible insights from: [@EnezaEducation](http://twitter.com/@EnezaEducation)[@Shortlisthires](http://twitter.com/@Shortlisthires)[@BridgeIntlAcads](http://twitter.com/@BridgeIntlAcads)[#Metis](http://twitter.com/search?q='%23Metis)[@MicrosoftEDU](http://twitter.com/@MicrosoftEDU)[@dignitasproject](http://twitter.com/@dignitasproject)[@EducateOrg](http://twitter.com/@EducateOrg)[@moringaschool](http://twitter.com/@moringaschool)[@onebillion](http://twitter.com/@onebillion)[#Arifu](http://twitter.com/search?q='%23Arifu) and [@eLimuKenya](http://twitter.com/@eLimuKenya)[[twitter.com]](https://twitter.com/TeresaMbagaya/status/1014819488641028097/photo/1)
 
-[<img alt="Sara Vieira [NikkitaFTW]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NikkitaFTW.jpg">](https://t.co/nCai9X80aV) You know what I think is dumbest thing ever? People who tell you you shouldn't compare your salary with your peers and that you should know how much you are worth. I don't know how much I'm worth, most people don't 👇 
+[<img alt="Sara Vieira [NikkitaFTW]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NikkitaFTW.jpg">](https://t.co/nCai9X80aV) You know what I think is dumbest thing ever? People who tell you you shouldn't compare your salary with your peers and that you should know how much you are worth. I don't know how much I'm worth, most people don't 👇
 
-[<img alt="Marie Chatfield [mariechatfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariechatfield.jpg">](https://t.co/QT0f4fJC6D) I think I figured out why coding interviews stress me out so much my natural mode of problem-solving is very exploratory &amp; experimental, testing ideas &amp; building up but interviews feel like you have to KNOW the right approach right away &amp; execute perfectly on the first try 
+[<img alt="Marie Chatfield [mariechatfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariechatfield.jpg">](https://t.co/QT0f4fJC6D) I think I figured out why coding interviews stress me out so much my natural mode of problem-solving is very exploratory &amp; experimental, testing ideas &amp; building up but interviews feel like you have to KNOW the right approach right away &amp; execute perfectly on the first try
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@mariechatfield](http://twitter.com/@mariechatfield) It’s a 19th-century test of “intelligence” dressed up in 21st-century skinny jeans. It’s a way for comp-sci majors to weed out non-comp-sci majors. It is more of a ritual of obedience than an exploration of another person. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@mariechatfield](http://twitter.com/@mariechatfield) It’s a 19th-century test of “intelligence” dressed up in 21st-century skinny jeans. It’s a way for comp-sci majors to weed out non-comp-sci majors. It is more of a ritual of obedience than an exploration of another person.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Patricia Aas: Reading other peoples code | Web Rebels 2018 [[youtube.com]](https://www.youtube.com/watch?v=Eb_sbkcDa_8)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

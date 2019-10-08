@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "James Fallows: A Problem Google Has Created for Itself. http://t.co/Dvr9PB2CnL  Most IT Admins Have Considered Quitting Due To Stress http://t.co/9kNWtBaxDn  Adobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHall http://t.co/8fI...",
-  "inceptDate": "2013-04-01T00:00:00",
-  "isPublished": true,
-  "slug": "a-problem-google-has-created-for-itself-and-other-tweeted-links",
-  "title": "“A Problem Google Has Created for Itself” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“A Problem Google Has Created for Itself” and other Tweeted Links…",
+  "documentShortName": "2013-04-01-a-problem-google-has-created-for-itself-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-04-01-a-problem-google-has-created-for-itself-and-other-tweeted-links",
+  "date": "2013-04-01T07:00:00.000Z",
+  "modificationDate": "2013-04-01T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-04-01-a-problem-google-has-created-for-itself-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"James Fallows: A Problem Google Has Created for Itself. http://t.co/Dvr9PB2CnL  Most IT Admins Have Considered Quitting Due To Stress http://t.co/9kNWtBaxDn  Adobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHall http://t.co/8fI...\"\r\n}"
 }
 ---
+
+# “A Problem Google Has Created for Itself” and other Tweeted Links…
 
 [<img alt="Dave Winer ☮ [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpeg">](http://smallpicture.com/ "Dave Winer ☮ [davewiner]") <span>James Fallows: A Problem Google Has Created for Itself. [http://t.co/Dvr9PB2CnL](http://t.co/Dvr9PB2CnL)</span>
 
@@ -34,3 +44,5 @@
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpeg">](http://wildermuth.com "Shawn Wildermuth [ShawnWildermuth]") <span>Microsoft blames overheating datacenter for 16-hour Outlook outage [http://t.co/YSebmCsrvw](http://t.co/YSebmCsrvw)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Why Ruby? [http://t.co/96AL786WEo](http://t.co/96AL786WEo)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

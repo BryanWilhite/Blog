@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Andy Farnell designing sound procedural / computational audio lecture part 1 [ow.ly] =&gt; @megafunkmega “The SOb project aims at developing sound models that are responsive to physical interactions” [ow.ly] Andy Farnell: Excerpt from Designing Sound Pra...",
-  "inceptDate": "2016-11-21T15:15:13.6568032-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "andy-farnell-designing-sound-procedural-computational-audio-lecture-part-1-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Andy Farnell designing sound procedural / computational audio lecture part 1” and other Tweeted Links…",
+  "documentShortName": "2016-11-21-andy-farnell-designing-sound-procedural-computational-audio-lecture-part-1-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-21-andy-farnell-designing-sound-procedural-computational-audio-lecture-part-1-and-other-tweeted-links",
+  "date": "2016-11-21T23:15:13.656Z",
+  "modificationDate": "2016-11-21T23:15:13.656Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Andy Farnell designing sound procedural / computational audio lecture part 1” and other Tweeted Links…"
+  "clientId": "2016-11-21-andy-farnell-designing-sound-procedural-computational-audio-lecture-part-1-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Andy Farnell designing sound procedural / computational audio lecture part 1 [ow.ly] =&gt; @megafunkmega “The SOb project aims at developing sound models that are responsive to physical interactions” [ow.ly] Andy Farnell: Excerpt from Designing Sound Pra...\"\r\n}"
 }
 ---
+
+# “Andy Farnell designing sound procedural / computational audio lecture part 1” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Andy Farnell designing sound procedural / computational audio lecture part 1 [[ow.ly]](http://ow.ly/S87R305RUrX) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I am sure that [@maryjofoley](http://twitter.com/maryjofoley) or [@thurrott](http://twitter.com/thurrott) is talking about [@Adobe](http://twitter.com/Adobe) demoing [@surface](http://twitter.com/surface) Studio with a UWP app [[ow.ly]](http://ow.ly/Mtll305UvE9)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Troy Hunt: Offshoring roulette: lessons from outsourcing to India, China and the Philippines [[ow.ly]](http://ow.ly/1r1s3063Mh1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

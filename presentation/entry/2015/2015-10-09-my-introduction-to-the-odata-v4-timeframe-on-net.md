@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The Microsoft OData v4 world is built on top of these NuGet packages: Microsoft.AspNet.OData, Microsoft.OData.Core and Microsoft.OData.Edm. It is far too easy to slip into an older implementation or worse to mix versions, causing the problems outlined in...",
-  "inceptDate": "2015-10-09T16:21:34.318892-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "my-introduction-to-the-odata-v4-timeframe-on-net",
+  "documentId": 0,
+  "title": "My introduction to the OData v4 timeframe on .NET",
+  "documentShortName": "2015-10-09-my-introduction-to-the-odata-v4-timeframe-on-net",
+  "fileName": "index.html",
+  "path": "./entry/2015-10-09-my-introduction-to-the-odata-v4-timeframe-on-net",
+  "date": "2015-10-09T23:21:34.318Z",
+  "modificationDate": "2015-10-09T23:21:34.318Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "My introduction to the OData v4 timeframe on .NET"
+  "clientId": "2015-10-09-my-introduction-to-the-odata-v4-timeframe-on-net",
+  "tag": "{\r\n  \"extract\": \"The Microsoft OData v4 world is built on top of these NuGet packages: Microsoft.AspNet.OData, Microsoft.OData.Core and Microsoft.OData.Edm. It is far too easy to slip into an older implementation or worse to mix versions, causing the problems outlined in...\"\r\n}"
 }
 ---
+
+# My introduction to the OData v4 timeframe on .NET
 
 The Microsoft OData v4 world is built on top of these NuGet packages: [Microsoft.AspNet.OData](https://www.nuget.org/packages/Microsoft.AspNet.OData/), [Microsoft.OData.Core](https://www.nuget.org/packages/Microsoft.OData.Core/) and [Microsoft.OData.Edm](https://www.nuget.org/packages/Microsoft.OData.Edm/). It is far too easy to slip into an older implementation or worse to mix versions, causing the problems outlined in “[ODataController returning HTTP 406 Not Available](http://stackoverflow.com/questions/29975653/odatacontroller-returning-http-406-not-available/29975654?stw=2).”
 
@@ -32,7 +38,7 @@ try
     {
         HttpResponseMessage response;
 
-        Action<string> callOwin = path =>
+Action<string> callOwin = path =>
         {
             response = client.GetAsync(baseAddress + path).Result;
             response.Dump();
@@ -77,18 +83,20 @@ The `ProductController` extends from `ODataController`. One of the not-so-subtle
 
 ## Related Links
 
-*   “[Paging with ASP.NET Web API OData](http://blogs.msdn.com/b/youssefm/archive/2013/02/19/paging-with-asp-net-web-api-odata.aspx)”
-*   “[Supporting OData $inlinecount &amp; json verbose with Web API OData](http://janvanderhaegen.com/2015/04/30/supporting-odata-inlinecount-json-verbose-with-web-api-odata/)”
-*   “[OData support in ASP.NET Web API](http://blogs.msdn.com/b/alexj/archive/2012/08/15/odata-support-in-asp-net-web-api.aspx)” [from 2012]
-*   “[Getting started with Web API and OData V4 Part 1](http://damienbod.com/2014/06/10/getting-started-with-web-api-and-odata-v4/)”
-*   “[An OData Journey in ASP.NET Web API Part 2 – Introducing Linq to Querystring](https://roysvork.wordpress.com/2013/04/09/an-odata-journey-in-asp-net-web-api-part-2-introducing-linq-to-querystring/)”
-*   “[I was using OData 4 (System.Web.OData) in my WebApiConfig and OData 3 (System.Web.Http.OData) in my controller. Turns out, they don](http://stackoverflow.com/questions/29975653/odatacontroller-returning-http-406-not-available/29975654?stw=2)”
-*   “[Create an OData v4 Endpoint Using ASP.NET Web API 2.2](http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint)”
-*   “[Web API OData V4 Lessons Learned](http://blogs.msdn.com/b/davidhardin/archive/2014/12/17/web-api-odata-v4-pitfalls-and-lessons-learned.aspx)”
-*   “[Turns out, OData implements one: System.Web.OData.MetadataController, which provides for the $metadata keyword.](http://stackoverflow.com/questions/25772485/metadata-with-webapi-odata-attribute-routing-not-working/25894806?stw=2)”
-*   “[Typeless Entity Object Support in WebApi](http://blogs.msdn.com/b/leohu/archive/2013/11/05/typeless-entity-object-support-in-webapi.aspx)”
-*   “[Does ASP.NET Web API + OData filter at the database level? Let](http://weblogs.asp.net/jongalloway/does-asp-net-web-api-odata-filter-at-the-database-level-let-s-ask-intellitrace)”
-*   “[Open Data Protocol by Example](https://msdn.microsoft.com/en-us/library/ff478141.aspx)”
-*   “[How to use OData Client Code Generator to generate client-side proxy class](http://blogs.msdn.com/b/odatateam/archive/2014/03/11/how-to-use-odata-client-code-generator-to-generate-client-side-proxy-class.aspx)”
-*   “[ASP.Net: Web API 2 + Help Pages + OData](http://jerther.blogspot.ca/2014/11/aspnet-web-api-2-help-pages-odata_28.html)”
-*   “[Parsing OData Paths, $select and $expand using the ODataUriParser](http://blogs.msdn.com/b/alexj/archive/2013/05/10/parsing-odata-paths-select-and-expand-using-the-odatauriparser.aspx)”
+* “[Paging with ASP.NET Web API OData](http://blogs.msdn.com/b/youssefm/archive/2013/02/19/paging-with-asp-net-web-api-odata.aspx)”
+* “[Supporting OData $inlinecount &amp; json verbose with Web API OData](http://janvanderhaegen.com/2015/04/30/supporting-odata-inlinecount-json-verbose-with-web-api-odata/)”
+* “[OData support in ASP.NET Web API](http://blogs.msdn.com/b/alexj/archive/2012/08/15/odata-support-in-asp-net-web-api.aspx)” [from 2012]
+* “[Getting started with Web API and OData V4 Part 1](http://damienbod.com/2014/06/10/getting-started-with-web-api-and-odata-v4/)”
+* “[An OData Journey in ASP.NET Web API Part 2 – Introducing Linq to Querystring](https://roysvork.wordpress.com/2013/04/09/an-odata-journey-in-asp-net-web-api-part-2-introducing-linq-to-querystring/)”
+* “[I was using OData 4 (System.Web.OData) in my WebApiConfig and OData 3 (System.Web.Http.OData) in my controller. Turns out, they don](http://stackoverflow.com/questions/29975653/odatacontroller-returning-http-406-not-available/29975654?stw=2)”
+* “[Create an OData v4 Endpoint Using ASP.NET Web API 2.2](http://www.asp.net/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-endpoint)”
+* “[Web API OData V4 Lessons Learned](http://blogs.msdn.com/b/davidhardin/archive/2014/12/17/web-api-odata-v4-pitfalls-and-lessons-learned.aspx)”
+* “[Turns out, OData implements one: System.Web.OData.MetadataController, which provides for the $metadata keyword.](http://stackoverflow.com/questions/25772485/metadata-with-webapi-odata-attribute-routing-not-working/25894806?stw=2)”
+* “[Typeless Entity Object Support in WebApi](http://blogs.msdn.com/b/leohu/archive/2013/11/05/typeless-entity-object-support-in-webapi.aspx)”
+* “[Does ASP.NET Web API + OData filter at the database level? Let](http://weblogs.asp.net/jongalloway/does-asp-net-web-api-odata-filter-at-the-database-level-let-s-ask-intellitrace)”
+* “[Open Data Protocol by Example](https://msdn.microsoft.com/en-us/library/ff478141.aspx)”
+* “[How to use OData Client Code Generator to generate client-side proxy class](http://blogs.msdn.com/b/odatateam/archive/2014/03/11/how-to-use-odata-client-code-generator-to-generate-client-side-proxy-class.aspx)”
+* “[ASP.Net: Web API 2 + Help Pages + OData](http://jerther.blogspot.ca/2014/11/aspnet-web-api-2-help-pages-odata_28.html)”
+* “[Parsing OData Paths, $select and $expand using the ODataUriParser](http://blogs.msdn.com/b/alexj/archive/2013/05/10/parsing-odata-paths-select-and-expand-using-the-odatauriparser.aspx)”
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

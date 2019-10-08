@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen #webdev http://t.co/fmmmTufb   http://t.co/5HlsV0UU is now available for your #WindowsAzure web sites. get started now for free! http://t.co/gAkw...",
-  "inceptDate": "2012-10-13T00:00:00",
-  "isPublished": true,
-  "slug": "web-essentials-1-4-for-visual-studio-and-other-tweeted-links",
-  "title": "“Web Essentials 1.4 for Visual Studio” and other twinks…"
+  "documentId": 0,
+  "title": "“Web Essentials 1.4 for Visual Studio” and other twinks…",
+  "documentShortName": "2012-10-13-web-essentials-1-4-for-visual-studio-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-10-13-web-essentials-1-4-for-visual-studio-and-other-twinks",
+  "date": "2012-10-13T07:00:00.000Z",
+  "modificationDate": "2012-10-13T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-10-13-web-essentials-1-4-for-visual-studio-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen #webdev http://t.co/fmmmTufb   http://t.co/5HlsV0UU is now available for your #WindowsAzure web sites. get started now for free! http://t.co/gAkw...\"\r\n}"
 }
 ---
+
+# “Web Essentials 1.4 for Visual Studio” and other twinks…
 
 [<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by [@mkristensen](http://twitter.com/mkristensen) [#webdev](http://search.twitter.com/search?q=%23webdev) [http://t.co/fmmmTufb](http://t.co/fmmmTufb)</span>
 
@@ -64,3 +74,5 @@
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://www.winsupersite.com "Paul Thurrott [thurrott]") <span>PC Makers Start Announcing Windows 8, RT PCs [http://t.co/SHONrA2u](http://t.co/SHONrA2u)</span>
 
 [<img alt="Jesse Liberty [JesseLiberty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JesseLiberty.png">](http://JesseLiberty.com "Jesse Liberty [JesseLiberty]") <span>Windows 8–Who Cares? [http://t.co/rUil7krB](http://t.co/rUil7krB)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

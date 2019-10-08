@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "React Native with Elm [elmseeds.thaterikperson.com] » @Bizmonger A beginner’s guide to JSON and Elm – Mario Martinez – Medium [medium.com] Introducing XAML Standard and .NET Standard 2.0 - Building Apps for WindowsBuilding Apps for Windows [blogs.windows...",
-  "inceptDate": "2017-09-11T09:25:35.6468072-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "react-native-with-elm-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“React Native with Elm” and other Tweeted Links…",
+  "documentShortName": "2017-09-11-react-native-with-elm-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-09-11-react-native-with-elm-and-other-tweeted-links",
+  "date": "2017-09-11T16:25:35.646Z",
+  "modificationDate": "2017-09-11T16:25:35.646Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“React Native with Elm” and other Tweeted Links…"
+  "clientId": "2017-09-11-react-native-with-elm-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"React Native with Elm [elmseeds.thaterikperson.com] » @Bizmonger A beginner’s guide to JSON and Elm – Mario Martinez – Medium [medium.com] Introducing XAML Standard and .NET Standard 2.0 - Building Apps for WindowsBuilding Apps for Windows [blogs.windows...\"\r\n}"
 }
 ---
+
+# “React Native with Elm” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") React Native with Elm [[elmseeds.thaterikperson.com]](https://elmseeds.thaterikperson.com/react-native-elm) » [@Bizmonger](http://twitter.com/Bizmonger)
 
@@ -23,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") POSTing JSON to an F# Web API [[blog.ploeh.dk]](http://blog.ploeh.dk/2015/03/19/posting-json-to-an-f-web-api/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript [[webpack.js.org]](https://webpack.js.org/guides/typescript/) [webpack in ts-loader] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript [[webpack.js.org]](https://webpack.js.org/guides/typescript/) [webpack in ts-loader]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AssemblyScript: A Subset of TypeScript That Compiles to WebAssembly [[assemblyscript.org]](http://assemblyscript.org/)
 
@@ -57,9 +63,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Considering When To Throw Errors, Why To Chain Them, And How To Report Them To Users [[bennadel.com]](https://www.bennadel.com/blog/3273-considering-when-to-throw-errors-why-to-chain-them-and-how-to-report-them-to-users.htm)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating a Symbolic Link using PowerShell | Learn Powershell | Achieve More [[learn-powershell.net]](https://learn-powershell.net/2013/07/16/creating-a-symbolic-link-using-powershell/) [uses System.Runtime.InteropServices] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating a Symbolic Link using PowerShell | Learn Powershell | Achieve More [[learn-powershell.net]](https://learn-powershell.net/2013/07/16/creating-a-symbolic-link-using-powershell/) [uses System.Runtime.InteropServices]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Group-Object [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.utility/group-object) [with -AsHashTable -AsString] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Group-Object [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/powershell/reference/5.1/microsoft.powershell.utility/group-object) [with -AsHashTable -AsString]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") git merge --no-ff --no-commit Develop [[stackoverflow.com]](https://stackoverflow.com/a/29048781/22944)
 
@@ -73,12 +79,14 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") BSOD caused by Windows 10 Store version of Kodi [[forum.kodi.tv]](http://forum.kodi.tv/showthread.php?tid=293164)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tour de France Live On Kodi [[youtube.com]](https://www.youtube.com/watch?v=6VxcrB-nars) [Pheonix has EuroSport live TV] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tour de France Live On Kodi [[youtube.com]](https://www.youtube.com/watch?v=6VxcrB-nars) [Pheonix has EuroSport live TV]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tech-Savvy Workers Increasingly Common in Non-IT Roles [[tech.slashdot.org]](https://tech.slashdot.org/story/17/05/22/1855216/tech-savvy-workers-increasingly-common-in-non-it-roles?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/TOgjWmMpqhc?a) The New Screen Savers 65: The World's Smallest Computer 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/TOgjWmMpqhc?a) The New Screen Savers 65: The World's Smallest Computer
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to use the Carista app to personalize your car and check for faults - YouTube [[youtube.com]](https://www.youtube.com/watch?v=AhZ_GiHraEM)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/_lYiVjk_xyw?a) Fix Your Washer Machine &amp; Save Tons of Money - [#DIYGasm](http://twitter.com/search?q=%23DIYGasm)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Nice step-by-step walkthrough by Nish on porting a Silverlight app to iOS: http://t.co/aTqRwgr4o9  “A time- and soul-sucking morass of polyfills and workarounds.” @lyzadanger http://t.co/O7ZbElnuvS  OK, 12:30AM, MVVM Light works on Xamarin.iOS just like ...",
-  "inceptDate": "2013-09-25T00:00:00",
-  "isPublished": true,
-  "slug": "porting-a-silverlight-app-to-ios-and-other-tweeted-links",
-  "title": "“…porting a Silverlight app to iOS” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“…porting a Silverlight app to iOS” and other Tweeted Links…",
+  "documentShortName": "2013-09-25-porting-a-silverlight-app-to-ios-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-09-25-porting-a-silverlight-app-to-ios-and-other-tweeted-links",
+  "date": "2013-09-25T07:00:00.000Z",
+  "modificationDate": "2013-09-25T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-09-25-porting-a-silverlight-app-to-ios-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Nice step-by-step walkthrough by Nish on porting a Silverlight app to iOS: http://t.co/aTqRwgr4o9  “A time- and soul-sucking morass of polyfills and workarounds.” @lyzadanger http://t.co/O7ZbElnuvS  OK, 12:30AM, MVVM Light works on Xamarin.iOS just like ...\"\r\n}"
 }
 ---
+
+# “…porting a Silverlight app to iOS” and other Tweeted Links…
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.jpg">](http://t.co/NrWutH4j9m "Miguel de Icaza [migueldeicaza]") <span>Nice step-by-step walkthrough by Nish on porting a Silverlight app to iOS: [http://t.co/aTqRwgr4o9](http://t.co/aTqRwgr4o9)</span>
 
@@ -26,3 +36,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>Got my Tweeted LinksBuilder back! [http://t.co/SPieIyIn3W](http://t.co/SPieIyIn3W)</span>
 
 [<img alt="Aaron Skonnard [skonnard]" src="https://songhay.blob.core.windows.net/shared-social-twitter/skonnard.jpeg">](http://t.co/NIdxnR5MLd "Aaron Skonnard [skonnard]") <span>Awesome post by my cofounder [@keithbrown42](http://twitter.com/keithbrown42) on immutability, which explains why Clojure is on the rise today [http://t.co/rfruX9MXV2](http://t.co/rfruX9MXV2)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

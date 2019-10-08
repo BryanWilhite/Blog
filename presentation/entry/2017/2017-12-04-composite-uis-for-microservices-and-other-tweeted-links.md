@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Composite UIs for Microservices - A Primer [jimmybogard.com] Designing the Perfect Slider [smashingmagazine.com] How the Web Became Unreadable (2016) [wired.com] The “Million Dollar Homepage” as a Decaying Digital Artifact [lil.law.harvard.edu] The Bigge...",
-  "inceptDate": "2017-12-04T16:30:33.1834404-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "composite-uis-for-microservices-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Composite UIs for Microservices” and other Tweeted Links…",
+  "documentShortName": "2017-12-04-composite-uis-for-microservices-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-04-composite-uis-for-microservices-and-other-tweeted-links",
+  "date": "2017-12-05T00:30:33.183Z",
+  "modificationDate": "2017-12-05T00:30:33.183Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Composite UIs for Microservices” and other Tweeted Links…"
+  "clientId": "2017-12-04-composite-uis-for-microservices-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Composite UIs for Microservices - A Primer [jimmybogard.com] Designing the Perfect Slider [smashingmagazine.com] How the Web Became Unreadable (2016) [wired.com] The “Million Dollar Homepage” as a Decaying Digital Artifact [lil.law.harvard.edu] The Bigge...\"\r\n}"
 }
 ---
+
+# “Composite UIs for Microservices” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Composite UIs for Microservices - A Primer [[jimmybogard.com]](https://jimmybogard.com/composite-uis-for-microservices-a-primer/)
 
@@ -41,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Entity Framework and Setting Primary Keys on Views | Girl From Out of This World [[girlfromoutofthisworld.com]](http://girlfromoutofthisworld.com/entity-framework-and-setting-primary-keys-on-views/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") entity framework - How do I include an unmapped field in a POCO class - Stack Overflow [[stackoverflow.com]](https://stackoverflow.com/questions/11702046/how-do-i-include-an-unmapped-field-in-a-poco-class) [NotMapped] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") entity framework - How do I include an unmapped field in a POCO class - Stack Overflow [[stackoverflow.com]](https://stackoverflow.com/questions/11702046/how-do-i-include-an-unmapped-field-in-a-poco-class) [NotMapped]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") plsql - Create an Oracle function that returns a table - Stack Overflow [[stackoverflow.com]](https://stackoverflow.com/questions/2829880/create-an-oracle-function-that-returns-a-table)
 
@@ -67,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 9 great mechanical keyboards for coders [[insights.hpe.com]](https://insights.hpe.com/articles/9-great-mechanical-keyboards-for-coders-1707.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/LJISrCj9I4g?a) Top 5 Wireless Headphones Review - The BEST Wireless Headphones for 2016 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/LJISrCj9I4g?a) Top 5 Wireless Headphones Review - The BEST Wireless Headphones for 2016
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Interactive Periodic Table of Elements Shows How the Elements Actually Get Used in Making Everyday Things [[openculture.com]](http://www.openculture.com/2017/07/interactive-periodic-table-of-elements-shows-how-the-elements-actually-get-used-in-making-everyday-things.html)
 
@@ -81,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Are Coding Bootcamps Going Out of Business? [[hackeducation.com]](http://hackeducation.com/2017/07/22/bootcamp-bust)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I've heard it said that a computer scientist is a mathematician who only knows how to prove things by induction. --Steven S. Skiena🤓 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I've heard it said that a computer scientist is a mathematician who only knows how to prove things by induction. --Steven S. Skiena🤓
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3 "David Fowler [davidfowl]") The world runs on janky software [#devdiscuss](http://twitter.com/search?q=%23devdiscuss)
 
@@ -90,3 +96,5 @@
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") Have you seen my latest video? [[twitter.com]](https://twitter.com/terrajobst/status/931213089046913024/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: What are your favorite physics sites, documentaries, books? [[news.ycombinator.com]](https://news.ycombinator.com/item?id=14830370)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

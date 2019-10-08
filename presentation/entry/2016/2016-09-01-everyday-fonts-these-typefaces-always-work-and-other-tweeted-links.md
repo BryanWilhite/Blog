@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Everyday Fonts: These Typefaces Always Work [noupe.com] Typewriter / Typeface: The Legacy of the Writing Machine in Type Design [typographica.org] Use `:root` for Flexible Type [codepen.io] via @CodePen CjsSS (Cascading Javascript Style Sheet) is LESS SA...",
-  "inceptDate": "2016-09-01T16:46:07.178127-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "everyday-fonts-these-typefaces-always-work-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Everyday Fonts: These Typefaces Always Work” and other Tweeted Links…",
+  "documentShortName": "2016-09-01-everyday-fonts-these-typefaces-always-work-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-01-everyday-fonts-these-typefaces-always-work-and-other-tweeted-links",
+  "date": "2016-09-01T23:46:07.178Z",
+  "modificationDate": "2016-09-01T23:46:07.178Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Everyday Fonts: These Typefaces Always Work” and other Tweeted Links…"
+  "clientId": "2016-09-01-everyday-fonts-these-typefaces-always-work-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Everyday Fonts: These Typefaces Always Work [noupe.com] Typewriter / Typeface: The Legacy of the Writing Machine in Type Design [typographica.org] Use `:root` for Flexible Type [codepen.io] via @CodePen CjsSS (Cascading Javascript Style Sheet) is LESS SA...\"\r\n}"
 }
 ---
+
+# “Everyday Fonts: These Typefaces Always Work” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Everyday Fonts: These Typefaces Always Work [[noupe.com]](http://www.noupe.com/essentials/everyday-fonts-typefaces-98400.html)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Live coding interviews test culture fit under the guise of testing competence.” [[zamiang.com]](https://www.zamiang.com/posts/post/2016/04/08/why-i-dont-do-live-coding-interviews/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Africa's tech giants such as Naspers, Africa Internet Group and Interswitch have deep links with the UK” [[iafrikan.com]](http://www.iafrikan.com/2016/07/14/what-brexit-means-for-afrikas-tech-giants/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

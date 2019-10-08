@@ -1,19 +1,25 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Using Azure CDN with CORS [azure.microsoft.com]@camsoper thx!      Pre-load assets on an Azure CDN endpoint [azure.microsoft.com]@camsoper single-origin scenario:“The CDN will cache the first response and subsequent requests will use the same header.” [a...",
-  "inceptDate": "2016-08-18T16:29:53.3272212-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-azure-cdn-with-cors-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Azure CDN with CORS” and other Tweeted Links…",
+  "documentShortName": "2016-08-18-using-azure-cdn-with-cors-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-18-using-azure-cdn-with-cors-and-other-tweeted-links",
+  "date": "2016-08-18T23:29:53.327Z",
+  "modificationDate": "2016-08-18T23:29:53.327Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Azure CDN with CORS” and other Tweeted Links…"
+  "clientId": "2016-08-18-using-azure-cdn-with-cors-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Using Azure CDN with CORS [azure.microsoft.com]@camsoper thx!      Pre-load assets on an Azure CDN endpoint [azure.microsoft.com]@camsoper single-origin scenario:“The CDN will cache the first response and subsequent requests will use the same header.” [a...\"\r\n}"
 }
 ---
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Azure CDN with CORS [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/cdn-cors/)[@camsoper](http://twitter.com/camsoper) thx! 
+# “Using Azure CDN with CORS” and other Tweeted Links…
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Azure CDN with CORS [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/cdn-cors/)[@camsoper](http://twitter.com/camsoper) thx!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Pre-load assets on an Azure CDN endpoint [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/cdn-preload-endpoint/)[@camsoper](http://twitter.com/camsoper)
 
@@ -57,11 +63,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding Just My Code [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/zainnab/2010/10/25/understanding-just-my-code/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Twitter app in Windows Phone 10 does not wrap text correctly on my tiny Acer M330. I can't see the ”t” in "not" above. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Twitter app in Windows Phone 10 does not wrap text correctly on my tiny Acer M330. I can't see the ”t” in "not" above.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The keyboard for Windows 10 on Phone has a virtual precision pointing stick [[windowscentral.com]](http://www.windowscentral.com/keyboard-windows-10-phone-has-virtual-precision-pointing-stick)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MrxZ5ojyG7Y?a) Windows 10 Mobile Keyboard Tips: Typing Faster, Richer &amp; doing more 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MrxZ5ojyG7Y?a) Windows 10 Mobile Keyboard Tips: Typing Faster, Richer &amp; doing more
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “the audio thread is reading from the data at the same time as it’s being edited by the main thread” [[atastypixel.com]](http://atastypixel.com/blog/four-common-mistakes-in-audio-development/)
 
@@ -95,6 +101,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows Device Recovery Tool gets updated, brings support for Acer devices [[mspoweruser.com]](http://mspoweruser.com/windows-device-recovery-tool-gets-updated-brings-support-for-acer-devices/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) what is the relationship between MSTEST and VSTEST? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) what is the relationship between MSTEST and VSTEST?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) could you take 5mins and peek at my TestContextExtensions.cs? [[gist.github.com]](https://gist.github.com/BryanWilhite/0d84b6fe156a690eff5231406fd00770) -obsolete stuff there? thx!
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

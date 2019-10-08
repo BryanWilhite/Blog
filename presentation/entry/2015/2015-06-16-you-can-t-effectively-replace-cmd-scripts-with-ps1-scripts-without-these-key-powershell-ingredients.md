@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I stopped experimenting with PowerShell years ago because I was ignorant of the following (or the following was not released around 2007–08):#1:The $PSScriptRoot automatic variable. Without this variable it is very difficult to make flexible, generic scr...",
-  "inceptDate": "2015-06-16T00:00:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "you-can-t-effectively-replace-cmd-scripts-with-ps1-scripts-without-these-key-powershell-ingredients",
+  "documentId": 0,
+  "title": "You can’t effectively replace *.cmd scripts with *.ps1 scripts without these key Powershell ingredients…",
+  "documentShortName": "2015-06-16-you-can-t-effectively-replace-cmd-scripts-with-ps1-scripts-without-these-key-powershell-ingredients",
+  "fileName": "index.html",
+  "path": "./entry/2015-06-16-you-can-t-effectively-replace-cmd-scripts-with-ps1-scripts-without-these-key-powershell-ingredients",
+  "date": "2015-06-16T07:00:00.000Z",
+  "modificationDate": "2015-06-16T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "You can’t effectively replace *.cmd scripts with *.ps1 scripts without these key Powershell ingredients…"
+  "clientId": "2015-06-16-you-can-t-effectively-replace-cmd-scripts-with-ps1-scripts-without-these-key-powershell-ingredients",
+  "tag": "{\r\n  \"extract\": \"I stopped experimenting with PowerShell years ago because I was ignorant of the following (or the following was not released around 2007–08): #1: The $PSScriptRoot automatic variable. Without this variable it is very difficult to make flexible, generic scr...\"\r\n}"
 }
 ---
+
+# You can’t effectively replace *.cmd scripts with *.ps1 scripts without these key Powershell ingredients…
 
 I stopped experimenting with PowerShell years ago because I was ignorant of the following (or the following was not released around 2007–08):
 
@@ -31,17 +37,21 @@ The line continuation character ```. Few know about the `*.cmd` file line contin
 
 Apparently undocumented `New-Object` constructor syntax. As of this writing, this form of `-TypeName` syntax is not documented (by MSDN—excluding some Blog or forum post):
 
-    $uri = New-Object System.Uri("./", [System.UriKind]::Relative)
+```powershell
+$uri = New-Object System.Uri("./", [System.UriKind]::Relative)
 
-    #or:
+#or:
 
-    $uri = New-Object -TypeName System.Uri("./", [System.UriKind]::Relative)
+$uri = New-Object -TypeName System.Uri("./", [System.UriKind]::Relative)
+```
 
 What is apparently encouraged is this syntax:
 
-    New-Object `
+```powershell
+New-Object `
         -TypeName System.Uri `
         -ArgumentList ("./", [System.UriKind]::Relative)
+```
 
 As a C# guy struggling to relate to PowerShell, I take the first form.
 
@@ -49,18 +59,22 @@ As a C# guy struggling to relate to PowerShell, I take the first form.
 
 The `&amp;` operator. Here is a function from [my IIS functions](https://gist.github.com/BryanWilhite/e54408801bc9bef3fc83) that uses PowerShell to call TAKEOWN and ICACLS:
 
-    function Restore-PermissionsForWebServerGroup($Path)
+```powershell
+function Restore-PermissionsForWebServerGroup($Path)
+{
+    if(-not(Test-Path $Path))
     {
-        if(-not(Test-Path $Path))
-        {
-            Write-Warning "Path $Path was not found. Unable to restore permissions."
-            return
-        }
-        &amp; TAKEOWN /f $Path /a
-        &amp; ICACLS $Path /reset /t
-        &amp; ICACLS $Path `
-            /grant IIS_IUSRS:(CI)(OI)(IO)(RX) `
-            /t /l /q
+        Write-Warning "Path $Path was not found. Unable to restore permissions."
+        return
     }
+    &amp; TAKEOWN /f $Path /a
+    &amp; ICACLS $Path /reset /t
+    &amp; ICACLS $Path `
+        /grant IIS_IUSRS:(CI)(OI)(IO)(RX) `
+        /t /l /q
+}
+```
 
 I really should have listed this as #1. This `&amp;` operator is the bridge to the CMD past on the way to a PowerShell future!
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

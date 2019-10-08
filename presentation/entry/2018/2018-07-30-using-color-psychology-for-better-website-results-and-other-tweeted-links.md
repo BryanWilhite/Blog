@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Using Color Psychology for Better Website Results       [speckyboy.com] Creating smooth sequential animations with Sass       [glennmccomb.com]#webdevelopment “How we designed page previews for Wikipedia — and what could be done with them in the future” ...",
-  "inceptDate": "2018-07-30T16:30:53.7858662-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-color-psychology-for-better-website-results-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Color Psychology for Better Website Results” and other Tweeted links…",
+  "documentShortName": "2018-07-30-using-color-psychology-for-better-website-results-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-30-using-color-psychology-for-better-website-results-and-other-tweeted-links",
+  "date": "2018-07-30T23:30:53.785Z",
+  "modificationDate": "2018-07-30T23:30:53.785Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Color Psychology for Better Website Results” and other Tweeted links…"
+  "clientId": "2018-07-30-using-color-psychology-for-better-website-results-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Using Color Psychology for Better Website Results       [speckyboy.com] Creating smooth sequential animations with Sass       [glennmccomb.com]#webdevelopment “How we designed page previews for Wikipedia — and what could be done with them in the future” ...\"\r\n}"
 }
 ---
+
+# “Using Color Psychology for Better Website Results” and other Tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") Using Color Psychology for Better Website Results [[speckyboy.com]](https://speckyboy.com/color-psychology-better-website-results/)
 
@@ -93,7 +99,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/CpCrkO1x-Qo?a) Tearing Into Tesla's Model 3 - AAH [#417](http://twitter.com/search?q=%23417) LIVE
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Sandy Munro [ [[leandesign.com]](http://leandesign.com/people-at-munro/sandy-munro/)] is the elder expert trying to reach out to the [@Tesla](http://twitter.com/Tesla) youth about what is *ob… [[twitter.com]](https://twitter.com/i/web/status/987403804248162304)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Sandy Munro [[[leandesign.com]](http://leandesign.com/people-at-munro/sandy-munro/)] is the elder expert trying to reach out to the [@Tesla](http://twitter.com/Tesla) youth about what is *ob… [[twitter.com]](https://twitter.com/i/web/status/987403804248162304)
 
 [<img alt="Colin Bull [colinbul]" src="https://songhay.blob.core.windows.net/shared-social-twitter/colinbul.jpeg">](https://t.co/wixaAMcojw "Colin Bull [colinbul]") I think I should just do my best to avoid meetings where people refer to jira as if it is a person.
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ‘I Fundamentally Believe That My Time at Reddit Made the World a Worse Place’ — former Reddit product head Dan McC… [[twitter.com]](https://twitter.com/i/web/status/987039587057844225)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft engineer facing ransomware-related money laundering and conspiracy charges - [[mspoweruser.com]](https://mspoweruser.com/microsoft-engineer-facing-ransomware-related-money-laundering-and-conspiracy-charges/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

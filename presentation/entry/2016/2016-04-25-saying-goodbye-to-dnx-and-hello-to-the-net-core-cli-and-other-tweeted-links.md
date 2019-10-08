@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI @DamianEdwards@davidfowl[vimeo.com] C# and F# code completion coming along nicely in my iPad IDE. [twitter.com] What I Use to Do What I Do: The UX Developer [winsupersite.com] The Elephant in the ...",
-  "inceptDate": "2016-04-25T16:06:30.3985258-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "saying-goodbye-to-dnx-and-hello-to-the-net-core-cli-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Saying ‘Goodbye’ to DNX and ‘Hello!’ to the .NET Core CLI” and other Tweeted Links…",
+  "documentShortName": "2016-04-25-saying-goodbye-to-dnx-and-hello-to-the-net-core-cli-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-04-25-saying-goodbye-to-dnx-and-hello-to-the-net-core-cli-and-other-tweeted-links",
+  "date": "2016-04-25T23:06:30.398Z",
+  "modificationDate": "2016-04-25T23:06:30.398Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Saying ‘Goodbye’ to DNX and ‘Hello!’ to the .NET Core CLI” and other Tweeted Links…"
+  "clientId": "2016-04-25-saying-goodbye-to-dnx-and-hello-to-the-net-core-cli-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI @DamianEdwards@davidfowl[vimeo.com] C# and F# code completion coming along nicely in my iPad IDE. [twitter.com] What I Use to Do What I Do: The UX Developer [winsupersite.com] The Elephant in the ...\"\r\n}"
 }
 ---
+
+# “Saying ‘Goodbye’ to DNX and ‘Hello!’ to the .NET Core CLI” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI [@DamianEdwards](http://twitter.com/DamianEdwards)[@davidfowl](http://twitter.com/davidfowl)[[vimeo.com]](https://vimeo.com/153212604)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Mike Hodnick mentioned Live Coding to me in the context of music and art” [@tmrdevelops](http://twitter.com/tmrdevelops)[[hanselman.com]](http://www.hanselman.com/blog/TheJoyOfLiveCodingCodePenREPLsTOPLAPAliveAndMore.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") KeePass web and desktop client [[github.com]](https://github.com/antelle/keeweb)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

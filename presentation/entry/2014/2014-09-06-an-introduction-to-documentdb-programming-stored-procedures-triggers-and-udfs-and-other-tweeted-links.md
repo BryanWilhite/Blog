@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs http://t.co/PYV4nixHAw  You Can’t Fix the UX Without Fixing Everything http://t.co/lwr9XRjtVU #Product #Startup  A lovely new podcast about responsive design, titled, humm, ...",
-  "inceptDate": "2014-09-06T00:00:00",
-  "isPublished": true,
-  "slug": "an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",
-  "title": "“An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs” and other Tweeted Links…",
+  "documentShortName": "2014-09-06-an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-09-06-an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",
+  "date": "2014-09-06T07:00:00.000Z",
+  "modificationDate": "2014-09-06T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-09-06-an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs http://t.co/PYV4nixHAw  You Can’t Fix the UX Without Fixing Everything http://t.co/lwr9XRjtVU #Product #Startup  A lovely new podcast about responsive design, titled, humm, ...\"\r\n}"
 }
 ---
+
+# “An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs” and other Tweeted Links…
 
 [<img alt="Microsoft Azure [Azure]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Azure.jpeg">](http://t.co/vFtkLITsAX "Microsoft Azure [Azure]") <span>An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs [http://t.co/PYV4nixHAw](http://t.co/PYV4nixHAw)</span>
 
@@ -48,3 +58,5 @@
 [<img alt="Barry Dorrans [blowdart]" src="https://songhay.blob.core.windows.net/shared-social-twitter/blowdart.jpg">](http://t.co/4FM5VuUDw3 "Barry Dorrans [blowdart]") <span>Some of your [http://t.co/MheZOLrKcJ](http://t.co/MheZOLrKcJ) "rock stars" hard at work [http://t.co/4EWujI3Yo5](http://t.co/4EWujI3Yo5)</span>
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") <span>you're face to interface with the man who sold the world [#zuck](http://search.twitter.com/search?q=%23zuck)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

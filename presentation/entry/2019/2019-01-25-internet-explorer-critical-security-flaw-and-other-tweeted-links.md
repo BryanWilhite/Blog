@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "If for whatever reason you are still using Internet Explorer (any version), STOP NOW. Critical security flaw enabling drive-by remote code execution is being actively exploited. Emergency patch is being pushed - but why not move to a better browser? [ars...",
-  "inceptDate": "2019-01-25T17:47:50.9569266-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "internet-explorer-critical-security-flaw-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Internet Explorer… Critical security flaw” and other tweeted links…",
+  "documentShortName": "2019-01-25-internet-explorer-critical-security-flaw-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-25-internet-explorer-critical-security-flaw-and-other-tweeted-links",
+  "date": "2019-01-26T01:47:50.956Z",
+  "modificationDate": "2019-01-26T01:47:50.956Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Internet Explorer… Critical security flaw” and other tweeted links…"
+  "clientId": "2019-01-25-internet-explorer-critical-security-flaw-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"If for whatever reason you are still using Internet Explorer (any version), STOP NOW. Critical security flaw enabling drive-by remote code execution is being actively exploited. Emergency patch is being pushed - but why not move to a better browser? [ars...\"\r\n}"
 }
 ---
+
+# “Internet Explorer… Critical security flaw” and other tweeted links…
 
 [<img alt="Badger InfoSec [badger_infosec]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/badger_infosec.jpg">](https://twitter.com/badger_infosec) If for whatever reason you are still using Internet Explorer (any version), STOP NOW. Critical security flaw enabling drive-by remote code execution is being actively exploited. Emergency patch is being pushed - but why not move to a better browser? [[arstechnica.com]](https://arstechnica.com/information-technology/2018/12/microsoft-issues-emergency-update-to-fix-critical-ie-flaw-under-active-exploit/)
 
@@ -27,7 +33,7 @@
 
 [<img alt="Jim Nitterauer [JNitterauer]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JNitterauer.jpg">](https://t.co/mDhKE4lvQh) Hard to compete when the platform is given away w/ O 365. So long Slack! Survey finds Microsoft Teams has already squashed it - MSPoweruser [[mspoweruser.com]](https://mspoweruser.com/so-long-slack-survey-finds-microsoft-teams-has-already-squashed-it/)
 
-[<img alt="Muhammad Rehan Saeed [RehanSaeedUK]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/RehanSaeedUK.png">](http://t.co/dlsvOoLiSd) Finally! You can now do dotnet test in a solution directory with [[asp.net]](http://ASP.NET) Core 2.1.500. All you have to do is add this to your test projects csproj file: &lt;IsTestProject&gt;true&lt;IsTestProject&gt; 
+[<img alt="Muhammad Rehan Saeed [RehanSaeedUK]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/RehanSaeedUK.png">](http://t.co/dlsvOoLiSd) Finally! You can now do dotnet test in a solution directory with [[asp.net]](http://ASP.NET) Core 2.1.500. All you have to do is add this to your test projects csproj file: &lt;IsTestProject&gt;true&lt;IsTestProject&gt;
 
 [<img alt="HelmSecure [HelmSecure]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/HelmSecure.jpg">](https://t.co/eFIEnRnslT) Helm: The personal email server that runs from the privacy of your own home. CEO and co-founder [@giri_sreenivas](http://twitter.com/@giri_sreenivas) talks Helm and the state of online privacy with [@cheddar](http://twitter.com/@cheddar) in NYC. [[bit.ly]](https://bit.ly/2UIkGxV)
 
@@ -39,15 +45,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i imagine there is one person at [@github](http://twitter.com/@github) working very hard to get TEX/LaTEX rendering working for the display of [@ProjectJupyter](http://twitter.com/@ProjectJupyter) notebooks; it has improved but needs a bit more work [[[github.com]](https://github.com/BryanWilhite/jupyter-central/blob/master/skiena-algorithm-design-manual/ch01/1.7.1-12.ipynb)] [[twitter.com]](https://twitter.com/BryanWilhite/status/1074389421296824320/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) according to the [@MSConnect](http://twitter.com/@MSConnect) announcement [ [[github.com]](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect)()-2018[#connect-notebooks-to-your-own-azure-compute](http://twitter.com/search?q='%23connect-notebooks-to-your-own-azure-compute) ] i think it is possible to run Java in [@ProjectJupyter](http://twitter.com/@ProjectJupyter) notebook? 🤔 [[azure.microsoft.com]](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)[[twitter.com]](https://twitter.com/BryanWilhite/status/1075881410181816320/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) according to the [@MSConnect](http://twitter.com/@MSConnect) announcement [[[github.com]](https://github.com/Microsoft/AzureNotebooks/wiki/Azure-Notebooks-at-Microsoft-Connect)()-2018[#connect-notebooks-to-your-own-azure-compute](http://twitter.com/search?q='%23connect-notebooks-to-your-own-azure-compute) ] i think it is possible to run Java in [@ProjectJupyter](http://twitter.com/@ProjectJupyter) notebook? 🤔 [[azure.microsoft.com]](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/)[[twitter.com]](https://twitter.com/BryanWilhite/status/1075881410181816320/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) perhaps [@lukehefson](http://twitter.com/@lukehefson) knows the hard worker stuck with parsing Jupyter notebooks for GitHub—great UX is almost there🧐🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) perhaps [@lukehefson](http://twitter.com/@lukehefson) knows the hard worker stuck with parsing Jupyter notebooks for GitHub—great UX is almost there🧐🤠
 
 [<img alt="Jason Boeshart [jboeshart]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jboeshart.jpg">](https://twitter.com/jboeshart) Azure PowerShell ‘Az’ Module version 1.0 went GA today, and all of our [@docsmsft](http://twitter.com/@docsmsft) Learn content has been updated along with it! [[azure.microsoft.com]](https://azure.microsoft.com/blog/azure-powershell-az-module-version-1/)
 
 [<img alt="Chris Bail [chris_bail]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/chris_bail.jpg">](https://t.co/V6BVB9xasx) 1/5 Interested in learning how to collect and analyze social media data using topic models, text networks, or word2vec? I'm pleased to announce I am releasing an open source version of my "Text as Data" class from Duke's Data Science program: [[cbail.github.io]](https://cbail.github.io/textasdata/Text_as_Data.html)[[twitter.com]](https://twitter.com/chris_bail/status/1073692629567713280/photo/1)
 
-[<img alt="the big cauchy/cosh(y) couch [fourierfiend]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/fourierfiend.jpg">](https://t.co/LFKYHQxBiB) If you have any experience using Mathematica, I recommend checking out [[notebookarchive.org]](https://www.notebookarchive.org/) : there are tons &amp; tons of structured notebooks with different kinds of narratives. Among being interesting topic explorations, it'll help you cultivate some notebook best practices too 
+[<img alt="the big cauchy/cosh(y) couch [fourierfiend]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/fourierfiend.jpg">](https://t.co/LFKYHQxBiB) If you have any experience using Mathematica, I recommend checking out [[notebookarchive.org]](https://www.notebookarchive.org/) : there are tons &amp; tons of structured notebooks with different kinds of narratives. Among being interesting topic explorations, it'll help you cultivate some notebook best practices too
 
 [<img alt="Soph - skills matter 🤖 [SophieAtSM]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/SophieAtSM.jpg">](https://t.co/mNIeKcjqD9) "I wanted [#Haskell](http://twitter.com/search?q='%23Haskell) to be seen as principled - and was surprised when it also turned out to be useful!" Fantastic friendly, funny - and insightful - conversation between Simon Peyton Jones and [@odersky](http://twitter.com/@odersky) here at [#scalaX](http://twitter.com/search?q='%23scalaX) 🔥 [#Scala](http://twitter.com/search?q='%23Scala)[#FunctionalProgramming](http://twitter.com/search?q='%23FunctionalProgramming)[[twitter.com]](https://twitter.com/SophieAtSM/status/1073586368524230656/photo/1)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) xUnit ITestOutputHelper [[stackoverflow.com]](https://stackoverflow.com/a/31055398/22944)[[twitter.com]](https://twitter.com/BryanWilhite/status/1075076783416913921/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Okay i get it: all the work (extension methods) i did around TestContext in MSTEST has to be translated into attributes for xUnit. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Okay i get it: all the work (extension methods) i did around TestContext in MSTEST has to be translated into attributes for xUnit.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@xunit](http://twitter.com/@xunit): “Creating the custom JsonFileDataAttribute” [[andrewlock.net]](https://andrewlock.net/creating-a-custom-xunit-theory-test-dataattribute-to-load-data-from-json-files/#creating-the-custom-jsonfiledataattribute)[[twitter.com]](https://twitter.com/BryanWilhite/status/1075515584773640192/photo/1)
 
@@ -71,7 +77,7 @@
 
 [<img alt="iMore [iMore]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/iMore.jpg">](https://t.co/OFCb6MPRgt) You've seen the terms, but what is the difference between USB-C and Thunderbolt? ⚡ [@jkeller87](http://twitter.com/@jkeller87) has the answers. [[imore.com]](https://www.imore.com/whats-difference-between-usb-c-and-thunderbolt?utm_source=im_tw&utm_medium=tw_card&utm_content=49887&utm_campaign=social)
 
-[<img alt="Liviu Constantinescu [LiviuC_PhD]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/LiviuC_PhD.jpg">](https://twitter.com/LiviuC_PhD) Dr Ian Levy from [@NCSC](http://twitter.com/@NCSC) at [#AISACyberCon18](http://twitter.com/search?q='%23AISACyberCon18): Security today is like being sick in a fairytale, and buying a magic amulet from a witch. Either you survive, and it worked, or you didn’t buy a big enough amulet. People keep buying bigger amulets, unsure of what really matters. 
+[<img alt="Liviu Constantinescu [LiviuC_PhD]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/LiviuC_PhD.jpg">](https://twitter.com/LiviuC_PhD) Dr Ian Levy from [@NCSC](http://twitter.com/@NCSC) at [#AISACyberCon18](http://twitter.com/search?q='%23AISACyberCon18): Security today is like being sick in a fairytale, and buying a magic amulet from a witch. Either you survive, and it worked, or you didn’t buy a big enough amulet. People keep buying bigger amulets, unsure of what really matters.
 
 [<img alt="Ant Pruitt [ant_pruitt]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ant_pruitt.jpg">](https://t.co/Etf8mxy9x4) Listening to "Valley of Genius (MP3): VoG 5: Alan Kay" with the [@Playapod](http://twitter.com/@Playapod) app. [[buff.ly]](https://buff.ly/2INjggn)
 
@@ -96,3 +102,5 @@
 [<img alt="Ronnie Wong [Ronnie_ITProTV]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Ronnie_ITProTV.jpg">](https://t.co/kapKSy7q0u) A posthumous thank you to the [#inventor](http://twitter.com/search?q='%23inventor) of First [#Word](http://twitter.com/search?q='%23Word)[#Processing](http://twitter.com/search?q='%23Processing) program. Though purpose built, changed business culture, then the world. Thank you, Evelyn Berezin. [[nytimes.com]](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html)
 
 [<img alt="Circuit Static [circuitstatic]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/circuitstatic.jpg">](https://t.co/3GKeVPbq9w) He's making a database He's sorting it twice SELECT * from contacts WHERE behavior = 'nice' SQL Clause is coming to town
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

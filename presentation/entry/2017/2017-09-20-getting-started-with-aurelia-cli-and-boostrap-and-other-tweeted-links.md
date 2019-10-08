@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Getting Started with Aurelia CLI and Boostrap - Matthew James Davis [davismj.me] .@matthewjames great job on your bootstrap-in-Aurelia story 👍🏿[davismj.me] Switching from React to Vue.js [vuejsdevelopers.com] karma-runner: By default all assets are ser...",
-  "inceptDate": "2017-09-20T15:24:50.725072-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "getting-started-with-aurelia-cli-and-boostrap-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Getting Started with Aurelia CLI and Boostrap” and other Tweeted Links…",
+  "documentShortName": "2017-09-20-getting-started-with-aurelia-cli-and-boostrap-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-09-20-getting-started-with-aurelia-cli-and-boostrap-and-other-tweeted-links",
+  "date": "2017-09-20T22:24:50.725Z",
+  "modificationDate": "2017-09-20T22:24:50.725Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Getting Started with Aurelia CLI and Boostrap” and other Tweeted Links…"
+  "clientId": "2017-09-20-getting-started-with-aurelia-cli-and-boostrap-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Getting Started with Aurelia CLI and Boostrap - Matthew James Davis [davismj.me] .@matthewjames great job on your bootstrap-in-Aurelia story 👍🏿[davismj.me] Switching from React to Vue.js [vuejsdevelopers.com] karma-runner: By default all assets are ser...\"\r\n}"
 }
 ---
+
+# “Getting Started with Aurelia CLI and Boostrap” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with Aurelia CLI and Boostrap - Matthew James Davis [[davismj.me]](http://davismj.me/blog/aurelia-cli-bootstrap/)
 
@@ -51,7 +57,7 @@
 
 [<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RickStrahl.jpg">](http://t.co/WpmgWuVQVK "Rick Strahl [RickStrahl]") I'm so sick of this crap. The .NET Core build tooling just randomly decided to not work any longer. No changes (in… [[twitter.com]](https://twitter.com/i/web/status/909737475056189441)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5 "Billy Hollis [billyhollis]") New record on abandoning Edge after a Windows 10 update: 2 minutes. It lags like my gigabit fiber is a dial up modem. Other browsers fine. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5 "Billy Hollis [billyhollis]") New record on abandoning Edge after a Windows 10 update: 2 minutes. It lags like my gigabit fiber is a dial up modem. Other browsers fine.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows is now built on Git, but Microsoft has found some bottlenecks [[theregister.co.uk]](https://www.theregister.co.uk/2017/05/25/windows_is_now_built_on_git/)
 
@@ -73,14 +79,16 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The rise of the QR code in China [[scmp.com]](http://www.scmp.com/news/china/society/article/2095576/rise-qr-code-and-how-it-has-forever-changed-chinas-social-habits)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/m__4JVtUTCk?a) iPhone X: Top 5 Questions Answered! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/m__4JVtUTCk?a) iPhone X: Top 5 Questions Answered!
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/eRArJo34i-I?a) Security Now 628: Equifax Fiasco 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/eRArJo34i-I?a) Security Now 628: Equifax Fiasco
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Every “real world” IT enterprise has units of work that *conceal* fundamental problems of architecture and documentation. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Every “real world” IT enterprise has units of work that *conceal* fundamental problems of architecture and documentation.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Trickle-down workaholism in startups [[m.signalvnoise.com]](https://m.signalvnoise.com/trickle-down-workaholism-in-startups-a90ceac76426)
 
 [<img alt="Rob Eisenberg [EisenbergEffect]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EisenbergEffect.jpg">](https://t.co/VNokeFBcFy "Rob Eisenberg [EisenbergEffect]") Woohoo! I’m stoked to be hiring 3 PMs to fill out my team, helping to build key Microsoft tech-audience sites like [[docs.microsoft.com]](http://docs.microsoft.com)
 
 [<img alt="Rob Eisenberg [EisenbergEffect]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EisenbergEffect.jpg">](https://t.co/VNokeFBcFy "Rob Eisenberg [EisenbergEffect]") Got passion for the Web &amp; shipping online UX? Join my team as a Web UX PM [[careers.microsoft.com]](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=320525&jlang=EN&pp=SS) or Web UX Sr. PM [[careers.microsoft.com]](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=320858&jlang=en&pp=ss)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "“If you're not already using modules then you should become familiar with the CommonJS format.” [jbrantly.com] .@AppInsights, can I move these ai.0.15.0-build58334.*.js files to any folder I want?      “use Application Insights with any web pages - you j...",
-  "inceptDate": "2016-08-04T18:24:35.4247405-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "if-you-re-not-already-using-modules-then-you-should-become-familiar-with-the-commonjs-format-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“If you're not already using modules then you should become familiar with the CommonJS format” and other Tweeted Links…",
+  "documentShortName": "2016-08-04-if-you-re-not-already-using-modules-then-you-should-become-familiar-with-the-commonjs-format-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-04-if-you-re-not-already-using-modules-then-you-should-become-familiar-with-the-commonjs-format-and-other-tweeted-links",
+  "date": "2016-08-05T01:24:35.424Z",
+  "modificationDate": "2016-08-05T01:24:35.424Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“If you're not already using modules then you should become familiar with the CommonJS format” and other Tweeted Links…"
+  "clientId": "2016-08-04-if-you-re-not-already-using-modules-then-you-should-become-familiar-with-the-commonjs-format-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“If you're not already using modules then you should become familiar with the CommonJS format.” [jbrantly.com] .@AppInsights, can I move these ai.0.15.0-build58334.*.js files to any folder I want?      “use Application Insights with any web pages - you j...\"\r\n}"
 }
 ---
 
+# “If you're not already using modules then you should become familiar with the CommonJS format” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “If you're not already using modules then you should become familiar with the CommonJS format.” [[jbrantly.com]](http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@AppInsights](http://twitter.com/AppInsights), can I move these ai.0.15.0-build58334.*.js files to any folder I want? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@AppInsights](http://twitter.com/AppInsights), can I move these ai.0.15.0-build58334.*.js files to any folder I want?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “use Application Insights with any web pages - you just add a short piece of JavaScript” [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/app-insights-javascript/)
 
@@ -33,17 +39,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “45% of mobile app users dislike their app experience, whereas 47% dislike their Web experience” [[blogs.adobe.com]](https://blogs.adobe.com/digitaleurope/mobile-marketing/10-interesting-mobile-app-usage-stats/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@chaosrealm4](http://twitter.com/chaosrealm4) how do we "discover" the latest version of the API? [currently i have indexes/{indexName}/docs/search?api-version=2015-02-28] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@chaosrealm4](http://twitter.com/chaosrealm4) how do we "discover" the latest version of the API? [currently i have indexes/{indexName}/docs/search?api-version=2015-02-28]
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Right now there's no way to do this programmatically. Our docs document the latest GA version. 1/2 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Right now there's no way to do this programmatically. Our docs document the latest GA version. 1/2
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) That's actually the latest GA version. We've been adding tons of non-breaking feature to it... 1/2 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) That's actually the latest GA version. We've been adding tons of non-breaking feature to it... 1/2
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) ... and even more features to 2015-02-28-Preview version. We'll prolly cut a new GA version in the next couple of months 2/2 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) ... and even more features to 2015-02-28-Preview version. We'll prolly cut a new GA version in the next couple of months 2/2
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Don't worry, we'll do a bunch of announcements when we release a new GA version, as many new features will ship 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Don't worry, we'll do a bunch of announcements when we release a new GA version, as many new features will ship
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@chaosrealm4](http://twitter.com/chaosrealm4) i am just concerned about getting stuck in an old version 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@chaosrealm4](http://twitter.com/chaosrealm4) i am just concerned about getting stuck in an old version
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Making it easier to port to .NET Core [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2016/05/27/making-it-easier-to-port-to-net-core/)
 
@@ -67,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") just fired up a new $5/month [@SQLAzure](http://twitter.com/SQLAzure) DB with an integration test [[twitter.com]](http://twitter.com/BryanWilhite/status/737381399158611968/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") just found out that [@SQLAzure](http://twitter.com/SQLAzure) is not supporting DbConnection.ChangeDatabase() "USE statement is not supported to switch between databases." 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") just found out that [@SQLAzure](http://twitter.com/SQLAzure) is not supporting DbConnection.ChangeDatabase() "USE statement is not supported to switch between databases."
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SQL statements not supported for SQL Azure [[sqlazuretutorials.com]](http://sqlazuretutorials.com/wordpress/sql-statements-not-supported-for-sql-azure/)
 
@@ -106,3 +112,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: Who is hiring? (June 2016) [[news.ycombinator.com]](https://news.ycombinator.com/item?id=11814828)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “most people who start their own businesses discover that they are the worst boss they ever had” [[cucumber.io]](https://cucumber.io/blog/2016/05/23/cucumber-ltd-story-so-far)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

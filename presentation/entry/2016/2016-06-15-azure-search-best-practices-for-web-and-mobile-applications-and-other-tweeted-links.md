@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Azure Search. Best practices for web and mobile applications (Channel 9) [channel9.msdn.com] via @ch9 Microsoft Cognitive Services: Give Your Apps a Human Side (Channel 9) [channel9.msdn.com] via @ch9 Use Azure Key Vault from a Web Application [azure.mic...",
-  "inceptDate": "2016-06-15T18:16:25.3547021-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "azure-search-best-practices-for-web-and-mobile-applications-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Azure Search. Best practices for web and mobile applications” and other Tweeted Links…",
+  "documentShortName": "2016-06-15-azure-search-best-practices-for-web-and-mobile-applications-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-15-azure-search-best-practices-for-web-and-mobile-applications-and-other-tweeted-links",
+  "date": "2016-06-16T01:16:25.354Z",
+  "modificationDate": "2016-06-16T01:16:25.354Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Azure Search. Best practices for web and mobile applications” and other Tweeted Links…"
+  "clientId": "2016-06-15-azure-search-best-practices-for-web-and-mobile-applications-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Azure Search. Best practices for web and mobile applications (Channel 9) [channel9.msdn.com] via @ch9 Microsoft Cognitive Services: Give Your Apps a Human Side (Channel 9) [channel9.msdn.com] via @ch9 Use Azure Key Vault from a Web Application [azure.mic...\"\r\n}"
 }
 ---
+
+# “Azure Search. Best practices for web and mobile applications” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Search. Best practices for web and mobile applications (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Microsoft-Azure/AzureCon-2015/ACON319) via [@ch9](http://twitter.com/ch9)
 
@@ -83,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “A composite format string consists of fixed text intermixed with indexed placeholders” [[blogs.msdn.com]](http://blogs.msdn.com/b/kingcean/archive/2016/04/06/string-format.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MTfW9gdnMug?a) Exploring C# 7 - Binary Literals 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MTfW9gdnMug?a) Exploring C# 7 - Binary Literals
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Elegant Code I Wish I Can Write In C# 7 [[codeproject.com]](http://www.codeproject.com/Articles/1091356/The-Elegant-Code-I-Wish-I-Can-Write-In-Csharp)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Some alternatives to coding tests that benefit both parties” [[developingandstuff.com]](http://www.developingandstuff.com/2015/05/why-i-wont-do-your-coding-test.html)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “It is literally a programming language for bacteria,” says Christopher Voigt [[news.mit.edu]](http://news.mit.edu/2016/programming-language-living-cells-bacteria-0331)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

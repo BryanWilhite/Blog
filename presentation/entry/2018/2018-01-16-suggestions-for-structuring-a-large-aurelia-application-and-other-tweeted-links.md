@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Suggestions for Structuring a Large Aurelia Application [blog.ashleygrant.com] [much out of date except for “Source Code Structure”]        HTML Templates via JavaScript Template Literals [css-tricks.com] [npm lit-html]        Safari is the new IE [fabio...",
-  "inceptDate": "2018-01-16T12:31:17.9018966-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "suggestions-for-structuring-a-large-aurelia-application-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Suggestions for Structuring a Large Aurelia Application” and other Tweeted Links…",
+  "documentShortName": "2018-01-16-suggestions-for-structuring-a-large-aurelia-application-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-01-16-suggestions-for-structuring-a-large-aurelia-application-and-other-tweeted-links",
+  "date": "2018-01-16T20:31:17.901Z",
+  "modificationDate": "2018-01-16T20:31:17.901Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Suggestions for Structuring a Large Aurelia Application” and other Tweeted Links…"
+  "clientId": "2018-01-16-suggestions-for-structuring-a-large-aurelia-application-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Suggestions for Structuring a Large Aurelia Application [blog.ashleygrant.com] [much out of date except for “Source Code Structure”]        HTML Templates via JavaScript Template Literals [css-tricks.com] [npm lit-html]        Safari is the new IE [fabio...\"\r\n}"
 }
 ---
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Suggestions for Structuring a Large Aurelia Application [[blog.ashleygrant.com]](https://blog.ashleygrant.com/2016/04/19/suggestions-for-structuring-a-large-aurelia-application/) [much out of date except for “Source Code Structure”] 
+# “Suggestions for Structuring a Large Aurelia Application” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HTML Templates via JavaScript Template Literals [[css-tricks.com]](https://css-tricks.com/html-templates-via-javascript-template-literals/) [npm lit-html] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Suggestions for Structuring a Large Aurelia Application [[blog.ashleygrant.com]](https://blog.ashleygrant.com/2016/04/19/suggestions-for-structuring-a-large-aurelia-application/) [much out of date except for “Source Code Structure”]
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HTML Templates via JavaScript Template Literals [[css-tricks.com]](https://css-tricks.com/html-templates-via-javascript-template-literals/) [npm lit-html]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Safari is the new IE [[fabiofranchino.com]](http://fabiofranchino.com/blog/css-height-parent-flex-safari-issue/)
 
@@ -33,13 +39,13 @@
 
 [<img alt="Mattias Blockchain [mattiasgeniar]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mattiasgeniar.png">](https://t.co/so1Yi82ZTB "Mattias Blockchain [mattiasgeniar]") If [@Github](http://twitter.com/Github) would have built the Hawaii text alert service. [[twitter.com]](https://twitter.com/mattiasgeniar/status/952929404925202432/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Calling an [[asp.net]](http://ASP.NET) WebAPI From Aurelia | Adrian Hall [[shellmonger.com]](https://shellmonger.com/2015/07/16/calling-an-asp-net-webapi-from-aurelia/) [aurelia-http-client —not fetch] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Calling an [[asp.net]](http://ASP.NET) WebAPI From Aurelia | Adrian Hall [[shellmonger.com]](https://shellmonger.com/2015/07/16/calling-an-asp-net-webapi-from-aurelia/) [aurelia-http-client —not fetch]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") express-htaccess-middleware [[npmjs.com]](https://www.npmjs.com/package/express-htaccess-middleware) “An express middleware that interprets .htaccess rewrite rules.” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") express-htaccess-middleware [[npmjs.com]](https://www.npmjs.com/package/express-htaccess-middleware) “An express middleware that interprets .htaccess rewrite rules.”
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Design Indaba | Chris Sheldrick | [@what3words](http://twitter.com/what3words)[[youtube.com]](https://www.youtube.com/watch?v=hKh7DcQnuTE)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") Amazon lost cloud market share to Microsoft in the fourth quarter: KeyBanc [[cnbc.com]](https://www.cnbc.com/2018/01/12/amazon-lost-cloud-market-share-to-microsoft-in-the-fourth-quarter-keybanc.html) Nice way to start the weekend. 
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") Amazon lost cloud market share to Microsoft in the fourth quarter: KeyBanc [[cnbc.com]](https://www.cnbc.com/2018/01/12/amazon-lost-cloud-market-share-to-microsoft-in-the-fourth-quarter-keybanc.html) Nice way to start the weekend.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft and Facebook makes it easier for AI models to hop from one AI framework to another [[mspoweruser.com]](https://mspoweruser.com/microsoft-joins-hands-facebook-standardize-ai-framework-ecosystem/)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") experimenting with [@typescriptlang](http://twitter.com/typescriptlang) enums and Map&lt;EnumK, EnumT&gt; to implement grouping with [#lodash](http://twitter.com/search?q=%23lodash)&lt;= [@Meligy](http://twitter.com/Meligy) [trying… [[twitter.com]](https://twitter.com/i/web/status/951282270362509313)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create a gulpfile and write gulp tasks using TypeScript [[medium.com]](https://medium.com/@pleerock/create-a-gulpfile-and-write-gulp-tasks-using-typescript-f08edebcac57) [npm install gulpclass --save-dev] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create a gulpfile and write gulp tasks using TypeScript [[medium.com]](https://medium.com/@pleerock/create-a-gulpfile-and-write-gulp-tasks-using-typescript-f08edebcac57) [npm install gulpclass --save-dev]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project Snowflake: Non-blocking Safe Manual Memory Management for .NET [[youtube.com]](https://www.youtube.com/watch?v=lv1FsOVhvjU)[@MSFTResearch](http://twitter.com/MSFTResearch)
 
@@ -80,3 +86,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The New Corporate Recruitment Pool: Workers In Dead-End Jobs [[news.slashdot.org]](https://news.slashdot.org/story/17/09/11/2146223/the-new-corporate-recruitment-pool-workers-in-dead-end-jobs?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") last week i told a manager that some mangers actually *like* their "underlings" to be running in circles behind the… [[twitter.com]](https://twitter.com/i/web/status/952775279423844357)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

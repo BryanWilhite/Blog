@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Mobile Internet Comes To Africa In A Big Way http://t.co/nljszWWNsp on @nprnews radio  Swagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers https://t.co/QbYx6hnE3x  jsAction: a tiny event delegation library http://t...",
-  "inceptDate": "2014-05-30T00:00:00",
-  "isPublished": true,
-  "slug": "mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",
-  "title": "“Mobile Internet Comes To Africa In A Big Way” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Mobile Internet Comes To Africa In A Big Way” and other Tweeted Links…",
+  "documentShortName": "2014-05-30-mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-05-30-mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",
+  "date": "2014-05-30T07:00:00.000Z",
+  "modificationDate": "2014-05-30T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-05-30-mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Mobile Internet Comes To Africa In A Big Way http://t.co/nljszWWNsp on @nprnews radio  Swagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers https://t.co/QbYx6hnE3x  jsAction: a tiny event delegation library http://t...\"\r\n}"
 }
 ---
+
+# “Mobile Internet Comes To Africa In A Big Way” and other Tweeted Links…
 
 [<img alt="Rebecca Enonchong [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "Rebecca Enonchong [africatechie]") <span>Mobile Internet Comes To Africa In A Big Way [http://t.co/nljszWWNsp](http://t.co/nljszWWNsp) on [@nprnews](http://twitter.com/nprnews) radio</span>
 
@@ -44,3 +54,5 @@
 [<img alt="Smashing Magazine [smashingmag]" src="https://songhay.blob.core.windows.net/shared-social-twitter/smashingmag.png">](http://t.co/GWd3gP4kCk "Smashing Magazine [smashingmag]") <span>A nice set of standards for developing flexible and sustainable HTML/CSS, by [@mdo](http://twitter.com/mdo). [http://t.co/jLsMKLLDQb](http://t.co/jLsMKLLDQb)</span>
 
 [<img alt="Rebecca Enonchong [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "Rebecca Enonchong [africatechie]") <span>Africa tech hubs – A tale of hope or hype?[http://t.co/oTSSnPvsXr](http://t.co/oTSSnPvsXr)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

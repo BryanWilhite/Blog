@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Does CSS Grid Replace Flexbox? [css-tricks.com] Book Release: SVG Animations [css-tricks.com] When Large Isn’t Large Enough: Designing With Hero Images [blogs.adobe.com] » @megafunkmega, @nazsharif Responsive Image Breakpoints Generator by Cloudinary [re...",
-  "inceptDate": "2017-06-16T14:20:24.7671002-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "does-css-grid-replace-flexbox-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Does CSS Grid Replace Flexbox?” and other Tweeted Links…",
+  "documentShortName": "2017-06-16-does-css-grid-replace-flexbox-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-06-16-does-css-grid-replace-flexbox-and-other-tweeted-links",
+  "date": "2017-06-16T21:20:24.767Z",
+  "modificationDate": "2017-06-16T21:20:24.767Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Does CSS Grid Replace Flexbox?” and other Tweeted Links…"
+  "clientId": "2017-06-16-does-css-grid-replace-flexbox-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Does CSS Grid Replace Flexbox? [css-tricks.com] Book Release: SVG Animations [css-tricks.com] When Large Isn’t Large Enough: Designing With Hero Images [blogs.adobe.com] » @megafunkmega, @nazsharif Responsive Image Breakpoints Generator by Cloudinary [re...\"\r\n}"
 }
 ---
+
+# “Does CSS Grid Replace Flexbox?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Does CSS Grid Replace Flexbox? [[css-tricks.com]](https://css-tricks.com/css-grid-replace-flexbox/)
 
@@ -27,7 +33,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@EisenbergEffect](http://twitter.com/EisenbergEffect)[@lambdacartel](http://twitter.com/lambdacartel) got a minor ENOTEMPTY error at the end of au new (similar to this issue:… [[twitter.com]](https://twitter.com/i/web/status/874415449043156992)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") There's A New New JavaScript Framework [[tech.slashdot.org]](https://tech.slashdot.org/story/17/04/01/0551220/theres-a-new-new-javascript-framework?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [mithril] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") There's A New New JavaScript Framework [[tech.slashdot.org]](https://tech.slashdot.org/story/17/04/01/0551220/theres-a-new-new-javascript-framework?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [mithril]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How “engagement” made the web a less engaging place [[theatlantic.com]](https://www.theatlantic.com/technology/archive/2017/03/how-the-like-button-ruined-the-internet/519795/)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") WordPress attacks: “note the attempt to concatenate the new URI to allow a POST operation” [[web-tech.ga-usa.com]](http://web-tech.ga-usa.com/2011/01/recent-wordpress-plugin-scans/index.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet Gallery | UriTemplate.Core 1.0.2 [[nuget.org]](https://www.nuget.org/packages/UriTemplate.Core/) [because MSFT does not have a package for its own UriTemplate] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet Gallery | UriTemplate.Core 1.0.2 [[nuget.org]](https://www.nuget.org/packages/UriTemplate.Core/) [because MSFT does not have a package for its own UriTemplate]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building a realtime server backend using the Orleans Actor system, Dotnet Core and Server-side… [[medium.com]](https://medium.com/@MaartenSikkema/using-dotnet-core-orleans-redux-and-websockets-to-build-a-scalable-realtime-back-end-cd0b65ec6b4d) » [@Odytrice](http://twitter.com/Odytrice)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing AudioSet: A Dataset for Audio Event Research [[research.googleblog.com]](https://research.googleblog.com/2017/03/announcing-audioset-dataset-for-audio.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Run a unit test as a 64-bit process [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/ee782531.aspx?f=255&MSPPError=-2147217396) [in response to OutOfMemoryException] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Run a unit test as a 64-bit process [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/ee782531.aspx?f=255&MSPPError=-2147217396) [in response to OutOfMemoryException]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# 7.0: Tuple literals | Gunnar Peipman - Programming Blog [[gunnarpeipman.com]](http://gunnarpeipman.com/2017/04/csharp-tuple-literals/)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Developer opportunities to code for good [[lxer.com]](http://lxer.com/module/newswire/ext_link.php?rid=240830)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Chinese authorities detain Apple employees suspected of selling customer data [[hongkongfp.com]](https://www.hongkongfp.com/2017/06/08/china-uncovers-massive-underground-network-apple-employees-selling-customers-personal-data/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

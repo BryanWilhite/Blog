@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Deploying Azure Functions with Kudu and PowerShell [markheath.net] Disappointing Azure Cloud Failures - Falafel Software Blog [blog.falafel.com] Penny Pinching in the Cloud: Running and Managing LOTS of Web Apps on a single Azure App Service @shanselman[...",
-  "inceptDate": "2017-04-25T17:59:14.993447-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "deploying-azure-functions-with-kudu-and-powershell-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Deploying Azure Functions with Kudu and PowerShell” and other Tweeted Links…",
+  "documentShortName": "2017-04-25-deploying-azure-functions-with-kudu-and-powershell-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-04-25-deploying-azure-functions-with-kudu-and-powershell-and-other-tweeted-links",
+  "date": "2017-04-26T00:59:14.993Z",
+  "modificationDate": "2017-04-26T00:59:14.993Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Deploying Azure Functions with Kudu and PowerShell” and other Tweeted Links…"
+  "clientId": "2017-04-25-deploying-azure-functions-with-kudu-and-powershell-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Deploying Azure Functions with Kudu and PowerShell [markheath.net] Disappointing Azure Cloud Failures - Falafel Software Blog [blog.falafel.com] Penny Pinching in the Cloud: Running and Managing LOTS of Web Apps on a single Azure App Service @shanselman[...\"\r\n}"
 }
 ---
+
+# “Deploying Azure Functions with Kudu and PowerShell” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Deploying Azure Functions with Kudu and PowerShell [[markheath.net]](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
 
@@ -39,17 +45,17 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]") Honored to have my first post on the Visual Studio blog: [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudio/2017/04/12/visual-studio-for-mac-to-the-cloud-and-beyond/)[[twitter.com]](https://twitter.com/migueldeicaza/status/852226860234809350/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@migueldeicaza](http://twitter.com/migueldeicaza) have I tricked myself into thinking that PCL will be replaced by .NET Standard (2.x) on the Xamarin platform? --soon? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@migueldeicaza](http://twitter.com/migueldeicaza) have I tricked myself into thinking that PCL will be replaced by .NET Standard (2.x) on the Xamarin platform? --soon?
 
-[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]")[@BryanWilhite](http://twitter.com/BryanWilhite) Everywhere ideally 
+[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]")[@BryanWilhite](http://twitter.com/BryanWilhite) Everywhere ideally
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") My WPF namespace is currently *.Foo.Desktop; for this UWP/Xamarin stuff, I’ll add *.Foo.AnyDevice -a “universal” namespace is 👾😵👽🍌 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") My WPF namespace is currently *.Foo.Desktop; for this UWP/Xamarin stuff, I’ll add *.Foo.AnyDevice -a “universal” namespace is 👾😵👽🍌
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@briannoyes](http://twitter.com/briannoyes) or [@brianlagunas](http://twitter.com/brianlagunas) does the new Prism event aggregator prevent race conditions on the UI thread? -reacti… [[twitter.com]](https://twitter.com/i/web/status/854148662527574016)
 
 [<img alt="Brian Lagunas [brianlagunas]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brianlagunas.jpeg">](http://t.co/47OvjaASiI "Brian Lagunas [brianlagunas]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@briannoyes](http://twitter.com/briannoyes) No. EA is fire and forget. It has nothing to do with managing the UI thread. Reactive ext… [[twitter.com]](https://twitter.com/i/web/status/854341988178513920)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@brianlagunas](http://twitter.com/brianlagunas)[@briannoyes](http://twitter.com/briannoyes) yes, for years I’ve noticed that Rx had to be added *in* through a NuGet but may not be needed in this case 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@brianlagunas](http://twitter.com/brianlagunas)[@briannoyes](http://twitter.com/briannoyes) yes, for years I’ve noticed that Rx had to be added *in* through a NuGet but may not be needed in this case
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UWP Community Toolkit Gets New Controls, Services and More in 1.3 | Coding4Fun Blog | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/coding4fun/blog/UWP-Community-Toolkit-Gets-New-Controls-Services-and-More-in-13)
 
@@ -102,3 +108,5 @@
 [<img alt="The Answer-Man [ebonstorm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ebonstorm.jpg">](https://t.co/oIor00Vbm9 "The Answer-Man [ebonstorm]") Douglas Coupland: 'The nine to five is barbaric' [[theguardian.com]](https://www.theguardian.com/small-business-network/2017/mar/30/douglas-coupland-the-nine-to-five-is-barbaric?CMP=share_btn_tw)
 
 [<img alt="Brian Greene [bgreene]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bgreene.jpeg">](http://t.co/juhw9U2Utm "Brian Greene [bgreene]") Happy 453rd birthday to William Shakespeare. His collective works: 5 MB. My inbox: 30,000 times larger, mostly unre… [[twitter.com]](https://twitter.com/i/web/status/856225982356873216)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

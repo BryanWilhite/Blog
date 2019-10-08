@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Huge number of announcement this morning at //Build.  Read all about them in my blog post: [azure.microsoft.com] Azure announces MySQL as a Service [docs.microsoft.com] 🤠awesome!: @Azure Cloud Shell (Preview) overview | Microsoft Docs [docs.microsoft.co...",
-  "inceptDate": "2017-05-23T13:57:50.3951347-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "huge-number-of-announcement-this-morning-at-build-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Huge number of announcement this morning at //Build” and other Tweeted Links…",
+  "documentShortName": "2017-05-23-huge-number-of-announcement-this-morning-at-build-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-23-huge-number-of-announcement-this-morning-at-build-and-other-tweeted-links",
+  "date": "2017-05-23T20:57:50.395Z",
+  "modificationDate": "2017-05-23T20:57:50.395Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Huge number of announcement this morning at //Build” and other Tweeted Links…"
+  "clientId": "2017-05-23-huge-number-of-announcement-this-morning-at-build-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Huge number of announcement this morning at //Build.  Read all about them in my blog post: [azure.microsoft.com] Azure announces MySQL as a Service [docs.microsoft.com] 🤠awesome!: @Azure Cloud Shell (Preview) overview | Microsoft Docs [docs.microsoft.co...\"\r\n}"
 }
 ---
+
+# “Huge number of announcement this morning at //Build” and other Tweeted Links…
 
 [<img alt="Scott Guthrie [scottgu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/scottgu.jpg">](http://t.co/rkquDCVhAW "Scott Guthrie [scottgu]") Huge number of announcement this morning at //Build. Read all about them in my blog post: [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/new-innovations-at-microsoft-build-2017-helping-developers-achieve-more/)
 
@@ -19,9 +25,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 🤠awesome!: [@Azure](http://twitter.com/Azure) Cloud Shell (Preview) overview | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)[[twitter.com]](https://twitter.com/BryanWilhite/status/862455589665873920/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Commandline Interface: Power of automation scripts in a truly cross-platform way | Build 2017 | Channel 9 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Commandline Interface: Power of automation scripts in a truly cross-platform way | Build 2017 | Channel 9
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure networking for developers | Build 2017 | Channel 9 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure networking for developers | Build 2017 | Channel 9
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Share code between Azure Functions to copy/paste | Zimmergren's thoughts on tech [[zimmergren.net]](https://zimmergren.net/reuse-your-c-script-csx-code-in-multiple-azure-functions-2/)
 
@@ -63,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@filip_woj](http://twitter.com/filip_woj) I tried to get project.json to see scriptcs packages with NuGet.config -fruitless/future-less endeavor? [[twitter.com]](https://twitter.com/BryanWilhite/status/864276373849784320/photo/1)
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite) probably, not sure anyone ever looked at that 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite) probably, not sure anyone ever looked at that
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing PowerShell for Visual Studio Code 1.0! | PowerShell Team Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/powershell/2017/05/10/announcing-powershell-for-visual-studio-code-1-0/)
 
@@ -95,16 +101,18 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Managing Windows Defender Using PowerShell – TheITBros [[theitbros.com]](http://theitbros.com/managing-windows-defender-using-powershell/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Connected intelligent things with Windows IoT Core and Azure IoT | Build 2017 | Channel 9 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Connected intelligent things with Windows IoT Core and Azure IoT | Build 2017 | Channel 9
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Around 3 million Americans still hanging on to their Windows Phones - MSPoweruser [[mspoweruser.com]](https://mspoweruser.com/around-3-million-americans-still-hanging-windows-phones/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") news to me (late to the party, again): Microsoft Lumia is over, baby 😬 [[twitter.com]](https://twitter.com/BryanWilhite/status/864237735069982720/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/UNNxfFZk5ao?a) LG G5 revisited. Still relevant in 2017????? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/UNNxfFZk5ao?a) LG G5 revisited. Still relevant in 2017?????
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why we will no longer use the phrase Zero Knowledge to describe our software [[spideroak.com]](https://spideroak.com/articles/why-we-will-no-longer-use-the-phrase-zero-knowledge-to-describe-our-software)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Programmers: Stop calling yourself “engineers” [[theatlantic.com]](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/) » [@tonetalks](http://twitter.com/tonetalks), [@BreakingBrown](http://twitter.com/BreakingBrown)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Time for an Update? The State of U.S. Government Websites [[blogs.adobe.com]](http://blogs.adobe.com/adobeingovernment/time-for-an-update-the-state-of-u-s-government-websites)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

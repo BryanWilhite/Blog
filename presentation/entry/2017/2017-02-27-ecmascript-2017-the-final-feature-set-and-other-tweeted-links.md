@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "ECMAScript 2017: the final feature set [2ality.com] Answer:How can I convert raw HTML to Markdown, server-side using .Net (C#)? [stackoverflow.com][reversemarkdown.net] is a Html to Markdown converter [github.com] Image Libraries for .NET Core [infoq.com...",
-  "inceptDate": "2017-02-27T15:16:10.3615469-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "ecmascript-2017-the-final-feature-set-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“ECMAScript 2017: the final feature set” and other Tweeted Links…",
+  "documentShortName": "2017-02-27-ecmascript-2017-the-final-feature-set-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-02-27-ecmascript-2017-the-final-feature-set-and-other-tweeted-links",
+  "date": "2017-02-27T23:16:10.361Z",
+  "modificationDate": "2017-02-27T23:16:10.361Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“ECMAScript 2017: the final feature set” and other Tweeted Links…"
+  "clientId": "2017-02-27-ecmascript-2017-the-final-feature-set-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"ECMAScript 2017: the final feature set [2ality.com] Answer:How can I convert raw HTML to Markdown, server-side using .Net (C#)? [stackoverflow.com][reversemarkdown.net] is a Html to Markdown converter [github.com] Image Libraries for .NET Core [infoq.com...\"\r\n}"
 }
 ---
+
+# “ECMAScript 2017: the final feature set” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ECMAScript 2017: the final feature set [[2ality.com]](http://www.2ality.com/2016/02/ecmascript-2017.html)
 
@@ -88,3 +94,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I cannot continue working on my add-ons anymore. I'm sorry, but it's time.” [[fasezero.com]](http://fasezero.com/lastnotice.html)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Public speaking with [@shanselman](http://twitter.com/shanselman), Kendra Havens, [@LadyNaggaga](http://twitter.com/LadyNaggaga), [@kuhlenhuth](http://twitter.com/kuhlenhuth), and [@DonovanBrown](http://twitter.com/DonovanBrown) | [@ch9](http://twitter.com/ch9)[[channel9.msdn.com]](https://channel9.msdn.com/Shows/On-NET/Public-speaking-with-Scott-Hanselman-Kendra-Havens-Maria-Naggaga-Nakanwagi-Kasey-Uhlenhuth-and-Donov)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

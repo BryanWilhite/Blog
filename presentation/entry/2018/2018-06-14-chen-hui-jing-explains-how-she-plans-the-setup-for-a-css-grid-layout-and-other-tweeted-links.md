@@ -1,29 +1,35 @@
 ---json
 {
-  "author": null,
-  "content": "How I design with CSS grid            Chen Hui Jing explains how she plans the setup for a CSS grid layout. There's a CodePen… [twitter.com] Handlebars in #UI Design: A new kind of element which has risen in UI design [uxdesign.cc] I would like to know i...",
-  "inceptDate": "2018-06-14T13:15:16.4824531-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "chen-hui-jing-explains-how-she-plans-the-setup-for-a-css-grid-layout-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Chen Hui Jing explains how she plans the setup for a CSS grid layout…” and other Tweeted Links…",
+  "documentShortName": "2018-06-14-chen-hui-jing-explains-how-she-plans-the-setup-for-a-css-grid-layout-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-06-14-chen-hui-jing-explains-how-she-plans-the-setup-for-a-css-grid-layout-and-other-tweeted-links",
+  "date": "2018-06-14T20:15:16.482Z",
+  "modificationDate": "2018-06-14T20:15:16.482Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Chen Hui Jing explains how she plans the setup for a CSS grid layout…” and other Tweeted Links…"
+  "clientId": "2018-06-14-chen-hui-jing-explains-how-she-plans-the-setup-for-a-css-grid-layout-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"How I design with CSS grid            Chen Hui Jing explains how she plans the setup for a CSS grid layout. There's a CodePen… [twitter.com] Handlebars in #UI Design: A new kind of element which has risen in UI design [uxdesign.cc] I would like to know i...\"\r\n}"
 }
 ---
+
+# “Chen Hui Jing explains how she plans the setup for a CSS grid layout…” and other Tweeted Links…
 
 [<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.png">](http://t.co/A4ZEwCEPEs "Veerle Pieters [vpieters]") How I design with CSS grid Chen Hui Jing explains how she plans the setup for a CSS grid layout. There's a CodePen… [[twitter.com]](https://twitter.com/i/web/status/970647654861549568)
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">](https://t.co/AqIi91NbiM "Jonathan Torke [JonathanTorke]") Handlebars in [#UI](http://twitter.com/search?q=%23UI) Design: A new kind of element which has risen in UI design [[uxdesign.cc]](https://uxdesign.cc/handlebars-in-ui-design-4b36af67733b)
 
-[<img alt="Rachel Andrew [rachelandrew]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rachelandrew.jpg">](https://t.co/bnYdfVIAqQ "Rachel Andrew [rachelandrew]") I would like to know if you have seen any good examples of print stylesheets recently (this is where you confess you print webpages). 
+[<img alt="Rachel Andrew [rachelandrew]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rachelandrew.jpg">](https://t.co/bnYdfVIAqQ "Rachel Andrew [rachelandrew]") I would like to know if you have seen any good examples of print stylesheets recently (this is where you confess you print webpages).
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[channel9.msdn.com]](https://channel9.msdn.com/events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES04?term=WebView)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project Jupyter | Home [[jupyter.org]](https://jupyter.org/) [like mathematica notebooks but with python] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project Jupyter | Home [[jupyter.org]](https://jupyter.org/) [like mathematica notebooks but with python]
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") so in Azure Blob Storage, you can assign a custom domain but you can't assign your own SSL certificate so it can only work over HTTP 😀 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") so in Azure Blob Storage, you can assign a custom domain but you can't assign your own SSL certificate so it can only work over HTTP 😀
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[#ifdef](http://twitter.com/search?q=%23ifdef) PROGRESSIVE_WEB_APPS | [#ifdef](http://twitter.com/search?q=%23ifdef) WINDOWS | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Shows/ifdefWINDOWS/ifdef-PROGRESSIVEWEBAPPS)
 
@@ -59,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[stackoverflow.com]](https://stackoverflow.com/a/35673921/22944)
 
-[<img alt="HackerSpace Tech [HackerSpaceTech]" src="https://songhay.blob.core.windows.net/shared-social-twitter/HackerSpaceTech.jpg">](https://t.co/TSC5nha5E8 "HackerSpace Tech [HackerSpaceTech]") RT arduino "Make your own Boston Dynamics-like, budget-friendly robotic dog: [[bit.ly]](http://bit.ly/2I4mTgQ)[[twitter.com]](https://twitter.com/arduino/status/970661768929382400/photo/1)" 
+[<img alt="HackerSpace Tech [HackerSpaceTech]" src="https://songhay.blob.core.windows.net/shared-social-twitter/HackerSpaceTech.jpg">](https://t.co/TSC5nha5E8 "HackerSpace Tech [HackerSpaceTech]") RT arduino "Make your own Boston Dynamics-like, budget-friendly robotic dog: [[bit.ly]](http://bit.ly/2I4mTgQ)[[twitter.com]](https://twitter.com/arduino/status/970661768929382400/photo/1)"
 
 [<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") Due to weight &amp; head tracking, 1st VR headset (Sutherland &amp; Sproull,1968) hung from ceiling by mechanical arm &amp; ref… [[twitter.com]](https://twitter.com/i/web/status/969803476262727680)
 
@@ -71,13 +77,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Broad Band: The Untold Story of the Women Who Made the Internet [[amazon.com]](https://www.amazon.com/Broad-Band-Untold-Story-Internet/dp/0735211752?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0735211752)[[twitter.com]](https://twitter.com/BryanWilhite/status/970762356350316544/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/nq5c4jGR2gM?a) Tesla: The real cost of being out of warranty 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/nq5c4jGR2gM?a) Tesla: The real cost of being out of warranty
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Doxie Go Plus - the smarter portable document scanner with rechargeable battery &amp; amazing software… [[twitter.com]](https://twitter.com/i/web/status/971559563962011649)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[youtube.com]](https://www.youtube.com/watch?v=h9d-Zp8ZW_M)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/gew_dmjwp8o?a) The smallest PC I've ever built... and its POWERFUL! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/gew_dmjwp8o?a) The smallest PC I've ever built... and its POWERFUL!
 
 [<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") Apparently 9 years ago today I was on MS campus for the first time, in between [#MVPSummit](http://twitter.com/search?q=%23MVPSummit) &amp; MIX. Means any day now… [[twitter.com]](https://twitter.com/i/web/status/970715931637792768)
 
@@ -99,8 +105,10 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@ScribblingOn](http://twitter.com/ScribblingOn) poor-management trick: manager tries to jump gun to keep developer “busy” by assigning task with spec… [[twitter.com]](https://twitter.com/i/web/status/1007312016493633536)
 
-[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") I do not half-ass things. I .. ass-cubed them. Maybe even ass-to-the-power-of-ass them. 
+[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") I do not half-ass things. I .. ass-cubed them. Maybe even ass-to-the-power-of-ass them.
 
 [<img alt="monkeyuser [ismonkeyuser]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ismonkeyuser.jpg">](https://t.co/MsZIZ8pA4W "monkeyuser [ismonkeyuser]") Focus ([[monkeyuser.com]](http://www.monkeyuser.com/2018/focus/)) [[twitter.com]](https://twitter.com/ismonkeyuser/status/970918015515746304/photo/1)
 
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/gBUhMHLXgK "Julie Lerman [julielerman]") So I finally met [@TechNoahlogy](http://twitter.com/TechNoahlogy) and OMG they're real! [[twitter.com]](https://twitter.com/julielerman/status/971273409341657088/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

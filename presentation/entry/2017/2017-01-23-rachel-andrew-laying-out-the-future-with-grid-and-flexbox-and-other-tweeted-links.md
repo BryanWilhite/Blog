@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Rachel Andrew: Laying Out The Future With Grid And Flexbox - [cssconf.asia] 2016 - YouTube [youtube.com]@rachelandrew CSSconf EU 2014 | @rachelandrew: CSS Grid Layout [youtube.com] [display: grid]        Databinding SVG with Aurelia [humbletoolsmith.com]...",
-  "inceptDate": "2017-01-23T15:50:48.3551184-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "rachel-andrew-laying-out-the-future-with-grid-and-flexbox-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Rachel Andrew: Laying Out The Future With Grid And Flexbox” and other Tweeted Links…",
+  "documentShortName": "2017-01-23-rachel-andrew-laying-out-the-future-with-grid-and-flexbox-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-23-rachel-andrew-laying-out-the-future-with-grid-and-flexbox-and-other-tweeted-links",
+  "date": "2017-01-23T23:50:48.355Z",
+  "modificationDate": "2017-01-23T23:50:48.355Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Rachel Andrew: Laying Out The Future With Grid And Flexbox” and other Tweeted Links…"
+  "clientId": "2017-01-23-rachel-andrew-laying-out-the-future-with-grid-and-flexbox-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Rachel Andrew: Laying Out The Future With Grid And Flexbox - [cssconf.asia] 2016 - YouTube [youtube.com]@rachelandrew CSSconf EU 2014 | @rachelandrew: CSS Grid Layout [youtube.com] [display: grid]        Databinding SVG with Aurelia [humbletoolsmith.com]...\"\r\n}"
 }
 ---
 
+# “Rachel Andrew: Laying Out The Future With Grid And Flexbox” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Rachel Andrew: Laying Out The Future With Grid And Flexbox - [[cssconf.asia]](http://CSSConf.Asia) 2016 - YouTube [[youtube.com]](https://www.youtube.com/watch?v=hj355PRbwSQ)[@rachelandrew](http://twitter.com/rachelandrew)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSSconf EU 2014 | [@rachelandrew](http://twitter.com/rachelandrew): CSS Grid Layout [[youtube.com]](https://www.youtube.com/watch?v=GRexIOtGhBU) [display: grid] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSSconf EU 2014 | [@rachelandrew](http://twitter.com/rachelandrew): CSS Grid Layout [[youtube.com]](https://www.youtube.com/watch?v=GRexIOtGhBU) [display: grid]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Databinding SVG with Aurelia [[humbletoolsmith.com]](http://humbletoolsmith.com/2017/01/01/Databinding-SVG-with-Aurelia/)
 
@@ -25,9 +31,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Awesome Angular2 Architecture Options and Opinions [[blog.dmbcllc.com]](http://blog.dmbcllc.com/awesome-angular2-architecture-options-and-opinions/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") meanwhile, back in Angular 1.x, I resorted to stating `scope.$root` inside a Directive to find my shared Decorator object 😑 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") meanwhile, back in Angular 1.x, I resorted to stating `scope.$root` inside a Directive to find my shared Decorator object 😑
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I now suspect that the Decorator concept is not friendly to the Directive-centric [@angularjs](http://twitter.com/angularjs) 1.x design -the Service replaces Decorator? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I now suspect that the Decorator concept is not friendly to the Directive-centric [@angularjs](http://twitter.com/angularjs) 1.x design -the Service replaces Decorator?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript String Enums | Angular First [[angularfirst.com]](http://angularfirst.com/typescript-string-enums/)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Formatting poetry for EPUB and Kindle — Blog — Ben Crowder [[bencrowder.net]](http://bencrowder.net/blog/2011/formatting-poetry-epub-kindle/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Kindle Direct Publishing: Get help with self-publishing your book to Amazon's Kindle Store [[kdp.amazon.com]](https://kdp.amazon.com/help?topicId=A1JPUWCSD6F59O) [no pre tags] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Kindle Direct Publishing: Get help with self-publishing your book to Amazon's Kindle Store [[kdp.amazon.com]](https://kdp.amazon.com/help?topicId=A1JPUWCSD6F59O) [no pre tags]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 19 Ingenious Design Books to Inspire You in 2017 | WIRED [[wired.com]](https://www.wired.com/2017/01/19-ingenious-design-books/)
 
@@ -65,10 +71,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Finding an Alternative to Mac OS X - [[bitcannon.net]](http://bitcannon.net)[[bitcannon.net]](http://bitcannon.net/post/finding-an-alternative-to-mac-os-x/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mkbhd](http://twitter.com/mkbhd)[[youtu.be]](http://youtu.be/qtXZlpJP-Ik?a) Dope Tech: The Best Drones! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mkbhd](http://twitter.com/mkbhd)[[youtu.be]](http://youtu.be/qtXZlpJP-Ik?a) Dope Tech: The Best Drones!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Working remotely, coworking spaces, and mental health - bitquabit [[bitquabit.com]](https://bitquabit.com/post/working-remotely-coworking-and-mental-health/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Imbalance of Culture Fit · An A List Apart Article [[alistapart.com]](http://alistapart.com/article/the-imbalance-of-culture-fit)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Oracle lays off 450 employees in Santa Clara [[mercurynews.com]](http://www.mercurynews.com/2017/01/20/oracle-lays-off-450-employees/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

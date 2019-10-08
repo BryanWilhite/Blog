@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Building Fluid Interfaces [medium.com] Who’s a UX writer? [invisionapp.com] How To Set an Apple Touch Icon for Any Site — All in the head: This week, Apple rolled out an update to the ... http://bit.ly/ms8Tui#ux Your CSS Layout Toolkit for 2019 [noti.st]...",
-  "inceptDate": "2019-01-15T12:17:04.4286564-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "building-fluid-interfaces-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Building Fluid Interfaces” and other tweeted links…",
+  "documentShortName": "2019-01-15-building-fluid-interfaces-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-15-building-fluid-interfaces-and-other-tweeted-links",
+  "date": "2019-01-15T20:17:04.428Z",
+  "modificationDate": "2019-01-15T20:17:04.428Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Building Fluid Interfaces” and other tweeted links…"
+  "clientId": "2019-01-15-building-fluid-interfaces-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Building Fluid Interfaces [medium.com] Who’s a UX writer? [invisionapp.com] How To Set an Apple Touch Icon for Any Site — All in the head: This week, Apple rolled out an update to the ... http://bit.ly/ms8Tui#ux Your CSS Layout Toolkit for 2019 [noti.st]...\"\r\n}"
 }
 ---
+
+# “Building Fluid Interfaces” and other tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) Building Fluid Interfaces [[medium.com]](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)
 
@@ -51,11 +57,11 @@
 
 [<img alt="OneNote Central [OneNoteC]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/OneNoteC.jpg">](https://t.co/Udn06tcMta)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@msonenote](http://twitter.com/@msonenote) Bryan, are you still experiencing this issue? You can DM me: [[twitter.com]](https://twitter.com/messages/compose?recipient_id=2582768738)
 
-[<img alt="OneNote Central [OneNoteC]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/OneNoteC.jpg">](https://t.co/Udn06tcMta)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@msonenote](http://twitter.com/@msonenote) Can you DM me now, Bryan? 
+[<img alt="OneNote Central [OneNoteC]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/OneNoteC.jpg">](https://t.co/Udn06tcMta)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@msonenote](http://twitter.com/@msonenote) Can you DM me now, Bryan?
 
 [<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU)[@BryanWilhite](http://twitter.com/@BryanWilhite) Hi, Bryan. Will you please DM us if you are still experiencing this? Thanks! [[twitter.com]](https://twitter.com/messages/compose?recipient_id=23735316)
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) f-strings can be nested until you run out of quoting characters: &gt;&gt;&gt; f"{f'{len(dir(list))}'*5}" '4646464646' [#Python](http://twitter.com/search?q='%23Python) tip: Just because you can, doesn't mean you should ;-) 
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) f-strings can be nested until you run out of quoting characters: &gt;&gt;&gt; f"{f'{len(dir(list))}'*5}" '4646464646' [#Python](http://twitter.com/search?q='%23Python) tip: Just because you can, doesn't mean you should ;-)
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3) Async tip don't [[task.run]](http://Task.Run) for long running work that blocks the thread. You'll be blocking a thread pool thread. Instead, use Task.Factory.StartNew with TaskCreationOptions.LongRunning or spawn a Thread and run that instead. [#dotnet](http://twitter.com/search?q='%23dotnet)[#dotnetcore](http://twitter.com/search?q='%23dotnetcore)[#aspnetcore](http://twitter.com/search?q='%23aspnetcore)
 
@@ -69,7 +75,7 @@
 
 [<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5) Coupled with rapid change, crushing complexity, and a severe shortage of devs who can cope with both, large scale software development is just as risky (or more) as any time I've seen in my career. I created this humorous diagram years ago, and it doesn't just apply to Microsoft: [[twitter.com]](https://twitter.com/billyhollis/status/1048240892346290176/photo/1)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) About to deliver 3 hours of PowerShell training. This NEVER gets old. Every time I talk about PS, I rediscover how wonderful it is. 
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) About to deliver 3 hours of PowerShell training. This NEVER gets old. Every time I talk about PS, I rediscover how wonderful it is.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) "Visual Studio Code can now convert your long chains of Promise.then()'s into async/await automagically" by [@bendhalpern](http://twitter.com/@bendhalpern)[#DEVcommunity](http://twitter.com/search?q='%23DEVcommunity)[[dev.to]](https://dev.to/ben/visual-studio-code-can-now-convert-your-long-chains-of-promisethens-into-asyncawait-automagically-1b1b)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “holy trinity” of computer science: * proof theory (logic) * type theory (programs) * category theory (algebra) —Robert Harper [[youtu.be]](https://youtu.be/ev7AYsLljxk?t=872)[[twitter.com]](https://twitter.com/BryanWilhite/status/1051379382814564352/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 6th HLF – Lecture: Leslie Lamport [[youtube.com]](https://www.youtube.com/watch?v=Fq5EQBFLEC8) [Heidelberg Laureate Forum] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 6th HLF – Lecture: Leslie Lamport [[youtube.com]](https://www.youtube.com/watch?v=Fq5EQBFLEC8) [Heidelberg Laureate Forum]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) VS Code local-user install cannot update: `error while deleting a directory` %LocalAppData% [#60697](http://twitter.com/search?q='%2360697)[[github.com]](https://github.com/Microsoft/vscode/issues/60697)
 
@@ -106,3 +112,5 @@
 [<img alt="JavaScript Facts [mentallion]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mentallion.jpg">](https://t.co/vFdXwCI32n) Netlify Raises $30 Million to Replace Web Servers with a Global 'Application Delivery Network' [#News](http://twitter.com/search?q='%23News)[[dlvr.it]](http://dlvr.it/QmxTJ3)[[twitter.com]](https://twitter.com/mentallion/status/1050130385684725760/photo/1)
 
 [<img alt="Laura Machan [recruiterscouch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/recruiterscouch.png">](https://t.co/Khfn6nzkpc) Will AI take over recruitment? No. Not ever. Amazon scraps secret AI recruiting tool that showed bias against women [[reut.rs]](https://reut.rs/2Od9fPr)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

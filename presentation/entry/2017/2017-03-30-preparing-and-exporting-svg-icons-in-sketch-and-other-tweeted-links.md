@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Preparing and Exporting SVG Icons in Sketch – Design + Sketch – Medium [medium.com] Angular vs React — the DEAL BREAKER [hackernoon.com] Introducing Visually Rich and Highly Informative Weather Answers | Bing Search Blog [blogs.bing.com] 25 Visualization...",
-  "inceptDate": "2017-03-30T17:21:22.3730644-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "preparing-and-exporting-svg-icons-in-sketch-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Preparing and Exporting SVG Icons in Sketch” and other Tweeted Links…",
+  "documentShortName": "2017-03-30-preparing-and-exporting-svg-icons-in-sketch-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-03-30-preparing-and-exporting-svg-icons-in-sketch-and-other-tweeted-links",
+  "date": "2017-03-31T00:21:22.373Z",
+  "modificationDate": "2017-03-31T00:21:22.373Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Preparing and Exporting SVG Icons in Sketch” and other Tweeted Links…"
+  "clientId": "2017-03-30-preparing-and-exporting-svg-icons-in-sketch-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Preparing and Exporting SVG Icons in Sketch – Design + Sketch – Medium [medium.com] Angular vs React — the DEAL BREAKER [hackernoon.com] Introducing Visually Rich and Highly Informative Weather Answers | Bing Search Blog [blogs.bing.com] 25 Visualization...\"\r\n}"
 }
 ---
+
+# “Preparing and Exporting SVG Icons in Sketch” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Preparing and Exporting SVG Icons in Sketch – Design + Sketch – Medium [[medium.com]](https://medium.com/sketch-app-sources/preparing-and-exporting-svg-icons-in-sketch-1a3d65b239bb#.kehzploij)
 
@@ -63,21 +69,21 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with Functional Programming in F# - CodeOpinion [[codeopinion.com]](http://codeopinion.com/getting-started-with-functional-programming-in-f/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yo, [@Odytrice](http://twitter.com/Odytrice) and [@Bizmonger](http://twitter.com/Bizmonger), I am going to comment about your video here so more people will see it: [[youtube.com]](https://www.youtube.com/watch?v=_5zmnc0JMcg) 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yo, [@Odytrice](http://twitter.com/Odytrice) and [@Bizmonger](http://twitter.com/Bizmonger), I am going to comment about your video here so more people will see it: [[youtube.com]](https://www.youtube.com/watch?v=_5zmnc0JMcg) 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) the comment about Task&lt;T&gt; being a monad is an awesome observation that leads me here: [[ruudvanasseldonk.com]](https://ruudvanasseldonk.com/2013/05/01/the-task-monad-in-csharp)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) Yeah that's a good post on the idea 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) Yeah that's a good post on the idea
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) « Brian Beckman on the Monad: [[channel9.msdn.com]](http://channel9.msdn.com/ShowPost.aspx?PostID=358968)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger)[@ch9](http://twitter.com/ch9) Had to watch this so many times to understand beyond Functors 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger)[@ch9](http://twitter.com/ch9) Had to watch this so many times to understand beyond Functors
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) both of you should regard C# as a historical artifact that Microsoft uses to relate to its aging customers (like me) 😑 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) both of you should regard C# as a historical artifact that Microsoft uses to relate to its aging customers (like me) 😑
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The City Of Munich Now Wants To Abandon Linux And Switch Back to Windows - Slashdot [[yro.slashdot.org]](https://yro.slashdot.org/story/17/02/11/1930217/the-city-of-munich-now-wants-to-abandon-linux-and-switch-back-to-windows?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Building Theories is Building Value • George Fairbanks [[youtube.com]](https://www.youtube.com/watch?v=Led34f3Pcq4) [“coding” vs. “programming”] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Building Theories is Building Value • George Fairbanks [[youtube.com]](https://www.youtube.com/watch?v=Led34f3Pcq4) [“coding” vs. “programming”]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Next Big Blue-Collar Job Is Coding | WIRED [[wired.com]](https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Essence of linear algebra preview [[youtube.com]](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Attacks On WordPress Sites Intensify As Hackers Deface Over 1.5 Million Pages - Slashdot [[it.slashdot.org]](https://it.slashdot.org/story/17/02/10/0110245/attacks-on-wordpress-sites-intensify-as-hackers-deface-over-15-million-pages?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Data pagination with WebAPI and AngularJS [davideguida.com] via @Mizrael82 Angular 2 CLI: Bootstrap Your Angular 2 App in a Breeze [barbarianmeetscoding.com] moment.js \"time from now\" display text [momentjs.com] angular-ui-bootstrap upgrade 1.3.3 to 2.0....",
-  "inceptDate": "2016-09-26T18:28:09.7322677-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "data-pagination-with-webapi-and-angularjs-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Data pagination with WebAPI and AngularJS” and other Tweeted Links…",
+  "documentShortName": "2016-09-26-data-pagination-with-webapi-and-angularjs-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-26-data-pagination-with-webapi-and-angularjs-and-other-tweeted-links",
+  "date": "2016-09-27T01:28:09.732Z",
+  "modificationDate": "2016-09-27T01:28:09.732Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Data pagination with WebAPI and AngularJS” and other Tweeted Links…"
+  "clientId": "2016-09-26-data-pagination-with-webapi-and-angularjs-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Data pagination with WebAPI and AngularJS [davideguida.com] via @Mizrael82 Angular 2 CLI: Bootstrap Your Angular 2 App in a Breeze [barbarianmeetscoding.com] moment.js \\\"time from now\\\" display text [momentjs.com] angular-ui-bootstrap upgrade 1.3.3 to 2.0....\"\r\n}"
 }
 ---
+
+# “Data pagination with WebAPI and AngularJS” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data pagination with WebAPI and AngularJS [[davideguida.com]](http://www.davideguida.com/data-pagination-with-webapi-and-angularjs/) via [@Mizrael82](http://twitter.com/Mizrael82)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “The war Microsoft should have won” by [@christianhern](http://twitter.com/christianhern)[[medium.com]](https://medium.com/@christianhern/the-war-microsoft-should-have-won-65d836aa2358#.qz3zw9s0i)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Joe Sutter, who guided creation of the Boeing 747, has died [[nytimes.com]](http://www.nytimes.com/2016/09/02/business/joe-sutter-dead.html)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

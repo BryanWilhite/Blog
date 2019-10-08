@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Downplaying Empty States in Design [shakuro.com] New CSS Features That Are Changing Web Design              Zell Liew takes a closer look at new CSS features such as CSS Grid. The article has code examples so you can see how it was achieved. [smashingmag...",
-  "inceptDate": "2018-11-17T23:00:40.6472326-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "downplaying-empty-states-in-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Downplaying Empty States in Design” and other tweeted links…",
+  "documentShortName": "2018-11-17-downplaying-empty-states-in-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-11-17-downplaying-empty-states-in-design-and-other-tweeted-links",
+  "date": "2018-11-18T07:00:40.647Z",
+  "modificationDate": "2018-11-18T07:00:40.647Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Downplaying Empty States in Design” and other tweeted links…"
+  "clientId": "2018-11-17-downplaying-empty-states-in-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Downplaying Empty States in Design [shakuro.com] New CSS Features That Are Changing Web Design              Zell Liew takes a closer look at new CSS features such as CSS Grid. The article has code examples so you can see how it was achieved. [smashingmag...\"\r\n}"
 }
 ---
+
+# “Downplaying Empty States in Design” and other tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) Downplaying Empty States in Design [[shakuro.com]](https://shakuro.com/blog/downplaying-empty-states-in-design)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) An extremely interesting discussion on the vagueness of Google Font's compliance to GDPR [[github.com]](https://github.com/google/fonts/issues/1495)
 
-[<img alt="Ben Sandofsky [sandofsky]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sandofsky.jpg">](https://t.co/dkm4Y9BqYx) There’s a rumor React Native was abandoned in the main Facebook app. Anyone heard similar/different? 
+[<img alt="Ben Sandofsky [sandofsky]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sandofsky.jpg">](https://t.co/dkm4Y9BqYx) There’s a rumor React Native was abandoned in the main Facebook app. Anyone heard similar/different?
 
 [<img alt="Mark Erikson [acemarke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/acemarke.jpg">](https://t.co/ZGhMzNeGtN) Reminder: when using React, NEVER use random values for keys in a list! Prefer unique IDs from the data itself if possible. Array indices _can_ be used if the data is simple and not being updated much. I wrote some further advice and examples here: [[reddit.com]](https://www.reddit.com/r/reactjs/comments/8o5oqe/beginners_thread_easy_question_june_2018/e05jfu8/?context=3)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Announcing Entity Framework Core 2.1 [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2018/05/30/announcing-entity-framework-core-2-1/)
 
-[<img alt="Tim Perry [pimterry]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/pimterry.jpg">](https://t.co/IVK3sdH90F) An `unknown` type is coming to [#typescript](http://twitter.com/search?q='%23typescript)! [[github.com]](https://github.com/Microsoft/TypeScript/pull/24439) I've been looking for this for ages. Any-typing things because you don't know what they are is a sneaky antipattern that I've seen catch a few TS beginners, but this gives a nice clear answer for those cases. 
+[<img alt="Tim Perry [pimterry]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/pimterry.jpg">](https://t.co/IVK3sdH90F) An `unknown` type is coming to [#typescript](http://twitter.com/search?q='%23typescript)! [[github.com]](https://github.com/Microsoft/TypeScript/pull/24439) I've been looking for this for ages. Any-typing things because you don't know what they are is a sneaky antipattern that I've seen catch a few TS beginners, but this gives a nice clear answer for those cases.
 
 [<img alt="Matt Bierner [mattbierner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mattbierner.jpg">](https://t.co/NnCC3iFhHa) Use the new "move to file" refactoring for [#javascript](http://twitter.com/search?q='%23javascript) and [#typescript](http://twitter.com/search?q='%23typescript) to quickly split classes and functions out into their own files Try it in the latest [@code](http://twitter.com/@code) insiders [[twitter.com]](https://twitter.com/mattbierner/status/1003703683123560448/photo/1)
 
@@ -75,7 +81,7 @@
 
 [<img alt="blackwomenintech [BWiT_ALL]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BWiT_ALL.jpeg">](https://t.co/Z1JeN5MH6T) Microsoft’s Newest Data Center Is a Giant Metal Can at the Bottom of the Sea [[gizmodo.com]](https://gizmodo.com/microsofts-newest-data-center-is-a-giant-metal-can-at-t-1826606291/amp)
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) ICYMI: Qualcomm announced Snapdragon 850, which will be in Windows 10 PCs by holiday 2018: [[zdnet.com]](https://www.zdnet.com/article/qualcomm-launches-snapdragon-850-platform-boosts-always-connected-windows-10-pcs/) (by ZDNet's [@SecurityCharlie](http://twitter.com/@SecurityCharlie)) 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) ICYMI: Qualcomm announced Snapdragon 850, which will be in Windows 10 PCs by holiday 2018: [[zdnet.com]](https://www.zdnet.com/article/qualcomm-launches-snapdragon-850-platform-boosts-always-connected-windows-10-pcs/) (by ZDNet's [@SecurityCharlie](http://twitter.com/@SecurityCharlie))
 
 [<img alt="Ton Roosendaal [tonroosendaal]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tonroosendaal.jpg">](http://t.co/qyUTJwDz4a) Apple has't been a good platform for 3D creatives for many years. It's not a real surprise they drop OpenGL support. We don't know yet how to solve this for Blender. But as you know, we're really good in keep supporting crippled old platforms! [#b3d](http://twitter.com/search?q='%23b3d)
 
@@ -85,24 +91,26 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Asus Precog is a stunning dual-screen foldable Windows PC - [[mspoweruser.com]](https://mspoweruser.com/asus-precog-is-a-stunning-dual-screen-foldable-windows-pc/)
 
-[<img alt="jordwalke [jordwalke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jordwalke.jpg">](https://t.co/puFYTCPJDz) Microsoft is investing in Git, VSCode, Electron, Github, Bash-on-Windows. Things that decentralize and help prevent lock-in. Apple is taking away the only universal cross platform graphics system (OpenGL), locking developers into Metal, and taking away our escape keys. 
+[<img alt="jordwalke [jordwalke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jordwalke.jpg">](https://t.co/puFYTCPJDz) Microsoft is investing in Git, VSCode, Electron, Github, Bash-on-Windows. Things that decentralize and help prevent lock-in. Apple is taking away the only universal cross platform graphics system (OpenGL), locking developers into Metal, and taking away our escape keys.
 
 [<img alt="zachguthrie [zachguthrie]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/zachguthrie.jpg">](https://t.co/cYjjYhkYJm) GitHub was also talking to Google about a deal, but went with Microsoft instead [[cnbc.com]](https://www.cnbc.com/2018/06/05/github-interest-from-google-and-others-revenue-about-300-million.html?__source=sharebar%7Ctwitter&par=sharebar)
 
-[<img alt="David Neal 🥓🥑 [reverentgeek]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reverentgeek.jpg">](https://t.co/rT8gMowJWW) Microsoft: We’re buying GitHub. Apple: Yeah, but have you tried animated poop emojis in augmented reality? 
+[<img alt="David Neal 🥓🥑 [reverentgeek]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reverentgeek.jpg">](https://t.co/rT8gMowJWW) Microsoft: We’re buying GitHub. Apple: Yeah, but have you tried animated poop emojis in augmented reality?
 
-[<img alt="Andreia Gaita 😋 [sh4na]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sh4na.jpg">](https://t.co/5r4AvlgghR) So I was at Xamarin then leave Xamarin and Microsoft buys Xamarin, I go to GitHub and Microsoft buys GitHub... I feel followed :P Seriously though, excited for this new future together! So many friends that I'll be working alongside of (again!)! 
+[<img alt="Andreia Gaita 😋 [sh4na]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sh4na.jpg">](https://t.co/5r4AvlgghR) So I was at Xamarin then leave Xamarin and Microsoft buys Xamarin, I go to GitHub and Microsoft buys GitHub... I feel followed :P Seriously though, excited for this new future together! So many friends that I'll be working alongside of (again!)!
 
-[<img alt="🖥️🏳️‍🌈unsafe fn bot() ➡️ impl CRJ Shitposting [KardOnIce]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/KardOnIce.jpg">](https://twitter.com/KardOnIce) Hot take: 1. Github is possibly the most important service in open source right now. 2. Microsoft has changed a lot to become friendly to open source. 3. Github was bleeding VC capital. 4. Microsoft, somehow, made Bing profitable. Ergo, I'm a fan. 
+[<img alt="🖥️🏳️‍🌈unsafe fn bot() ➡️ impl CRJ Shitposting [KardOnIce]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/KardOnIce.jpg">](https://twitter.com/KardOnIce) Hot take: 1. Github is possibly the most important service in open source right now. 2. Microsoft has changed a lot to become friendly to open source. 3. Github was bleeding VC capital. 4. Microsoft, somehow, made Bing profitable. Ergo, I'm a fan.
 
-[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) GitHub's annual revenue was reportedly $300m. If correct then GitHub’s annual revenue is the same as Fortnite’s *monthly* revenue. 🤔 
+[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) GitHub's annual revenue was reportedly $300m. If correct then GitHub’s annual revenue is the same as Fortnite’s *monthly* revenue. 🤔
 
 [<img alt="Mario Fusco 🇺🇳🇪🇺 [mariofusco]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariofusco.jpg">](https://t.co/IBdw5WLvHl) And they say: "I don't get why all developers have so unconventional sleep patterns" [[twitter.com]](https://twitter.com/mariofusco/status/1003684748139683840/photo/1)
 
 [<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5) Just flushed half an hour down the toilet trying to deal with an error at Microsoft's end while renewing an Xbox Live account. Support rep on chat wasted &gt;$100 of my time over a card I bought for $25, with no resolution. This is the sort of thing that makes people diss Microsoft. [[twitter.com]](https://twitter.com/billyhollis/status/1004513572716720128/photo/1)
 
-[<img alt="One more thing... [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) Saddened that users think tech makes them peons, not gods. And they complain about my generation. We wanted tech to set us free, not enslave us to Zucks business model 
+[<img alt="One more thing... [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) Saddened that users think tech makes them peons, not gods. And they complain about my generation. We wanted tech to set us free, not enslave us to Zucks business model
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) The Cost of Developers [[stratechery.com]](https://stratechery.com/2018/the-cost-of-developers/) via [@stratechery](http://twitter.com/@stratechery)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Comparing dates of commits, it looked like Rush [from Microsoft] kept copying changes from Lerna days after they were made. Rewritten using this weird event system they added.” [[threadreaderapp.com]](https://threadreaderapp.com/thread/1002696910266773505.html)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

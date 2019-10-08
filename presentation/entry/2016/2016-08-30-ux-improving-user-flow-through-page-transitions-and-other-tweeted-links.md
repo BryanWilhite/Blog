@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "UX: Improving User Flow Through Page Transitions [smashingmagazine.com] UX: Ten Requirements For Making Home Page Carousels Work For End Users (If Needed) [smashingmagazine.com] “UX Myths collects the most frequent user experience misconceptions and expl...",
-  "inceptDate": "2016-08-30T15:13:35.6711462-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "ux-improving-user-flow-through-page-transitions-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“UX: Improving User Flow Through Page Transitions” and other Tweeted Links…",
+  "documentShortName": "2016-08-30-ux-improving-user-flow-through-page-transitions-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-30-ux-improving-user-flow-through-page-transitions-and-other-tweeted-links",
+  "date": "2016-08-30T22:13:35.671Z",
+  "modificationDate": "2016-08-30T22:13:35.671Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“UX: Improving User Flow Through Page Transitions” and other Tweeted Links…"
+  "clientId": "2016-08-30-ux-improving-user-flow-through-page-transitions-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"UX: Improving User Flow Through Page Transitions [smashingmagazine.com] UX: Ten Requirements For Making Home Page Carousels Work For End Users (If Needed) [smashingmagazine.com] “UX Myths collects the most frequent user experience misconceptions and expl...\"\r\n}"
 }
 ---
+
+# “UX: Improving User Flow Through Page Transitions” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UX: Improving User Flow Through Page Transitions [[smashingmagazine.com]](https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/)
 
@@ -37,9 +43,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@chaosrealm4](http://twitter.com/chaosrealm4) you can now search for yourself with [@Azure](http://twitter.com/Azure) Search on my blog: [[songhayblog.azurewebsites.net]](http://songhayblog.azurewebsites.net/#/search/eugene) :) [@shanselman](http://twitter.com/shanselman)
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) Haha cool! ;) 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) Haha cool! ;)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") okay, i get it: IController and IHttpController are COMPLETELY unrelated -i see now why [[asp.net]](http://ASP.NET) Core would change this 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") okay, i get it: IController and IHttpController are COMPLETELY unrelated -i see now why [[asp.net]](http://ASP.NET) Core would change this
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") WordPress Maintenance Mode: Best Practices [[noupe.com]](http://www.noupe.com/wordpress/wordpress-maintenance-mode-98280.html)
 
@@ -106,3 +112,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Tech hiring is down 40% and nobody’s talking about it.” [@authenticjobs](http://twitter.com/authenticjobs)[[medium.com]](https://medium.com/@cameronmoll/tech-hiring-is-down-40-and-nobodys-talking-about-it-3d6f658d9faf)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Poll: More And More Tech Workers Say They Plan To Leave Their Jobs To Go Elsewhere In The Country [[sfist.com]](http://sfist.com/2016/07/07/turns_out_most_tech_workers_dont_th.php)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

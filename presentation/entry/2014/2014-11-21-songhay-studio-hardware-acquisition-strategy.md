@@ -1,22 +1,32 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "NASA-like redundancy should be the guiding principle behind how hardware is acquired. Ideally, a second barebones desktop (wagon-top) workstation should be buildable from hardware on hand.With this guidance, a possible acquisition sequence would work lik...",
-  "inceptDate": "2014-11-21T00:00:00",
-  "isPublished": true,
-  "slug": "songhay-studio-hardware-acquisition-strategy",
-  "title": "Songhay Studio: Hardware Acquisition Strategy"
+  "documentId": 0,
+  "title": "Songhay Studio: Hardware Acquisition Strategy",
+  "documentShortName": "2014-11-21-songhay-studio-hardware-acquisition-strategy",
+  "fileName": "index.html",
+  "path": "./entry/2014-11-21-songhay-studio-hardware-acquisition-strategy",
+  "date": "2014-11-21T08:00:00.000Z",
+  "modificationDate": "2014-11-21T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-11-21-songhay-studio-hardware-acquisition-strategy",
+  "tag": "{\r\n  \"extract\": \"NASA-like redundancy should be the guiding principle behind how hardware is acquired. Ideally, a second barebones desktop (wagon-top) workstation should be buildable from hardware on hand.With this guidance, a possible acquisition sequence would work lik...\"\r\n}"
 }
 ---
+
+# Songhay Studio: Hardware Acquisition Strategy
 
 NASA-like redundancy should be the guiding principle behind how hardware is acquired. Ideally, a second barebones desktop (wagon-top) workstation should be buildable from hardware on hand.
 [<img alt="Amazon.com product" src="http://ecx.images-amazon.com/images/I/41R99D3qsdL.jpg" style="float:right;margin:16px;">](http://www.amazon.com/exec/obidos/ASIN/B00B3WTWXU/thekintespacec00A/ "Buy this product at Amazon.com!")
 
 With this guidance, a possible acquisition sequence would work like this:
 
-*   [Sapphire Radeon R9 270X 2GB GDDR5 DVI-I/DVI-D/HDMI/DP Dual-X with Boost and OC Version PCI-Express Graphics Card 11217-01-20G](http://www.amazon.com/Sapphire-Version-PCI-Express-Graphics-11217-01-20G/dp/B00B3WTWXU%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B3WTWXU) (this would be a second card)
-*   [Ergotron LX Desk Mount LCD Arm](http://www.amazon.com/LX-Desk-Mount-LCD-Arm/dp/B00358RIRC%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00358RIRC) (this would be the second arm)
-*   LG—27" IPS LED HD Monitor (9.3lbs) from [Best Buy](http://www.bestbuy.com/site/lg-27-ips-led-hd-monitor-black/7814005.p?id=1219294099929&skuId=7814005) (this would be a second wagon-top monitor, based on the assumption that shipping costs will not be competitive)
+* [Sapphire Radeon R9 270X 2GB GDDR5 DVI-I/DVI-D/HDMI/DP Dual-X with Boost and OC Version PCI-Express Graphics Card 11217-01-20G](http://www.amazon.com/Sapphire-Version-PCI-Express-Graphics-11217-01-20G/dp/B00B3WTWXU%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B3WTWXU) (this would be a second card)
+* [Ergotron LX Desk Mount LCD Arm](http://www.amazon.com/LX-Desk-Mount-LCD-Arm/dp/B00358RIRC%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00358RIRC) (this would be the second arm)
+* LG—27" IPS LED HD Monitor (9.3lbs) from [Best Buy](http://www.bestbuy.com/site/lg-27-ips-led-hd-monitor-black/7814005.p?id=1219294099929&skuId=7814005) (this would be a second wagon-top monitor, based on the assumption that shipping costs will not be competitive)
 
 ## Whisper-Quiet Fan Experiment
 
@@ -32,3 +42,5 @@ My spacious Silverstone case can accommodate internal drives. This would do well
 ## Ergotron Neo-Flex Mobile MediaCenter and Beyond…
 
 My “[Songhay Studio: Ergotron Neo-Flex Mobile MediaCenter](http://songhayblog.azurewebsites.net/Entry/Show/songhay-studio-ergotron-neo-flex-mobile-mediacenter)” post points to the next and final *major* addition to my studio hardware. Any other major hardware acquisitions will be concerned with audio and video production. The steady-state condition with regard to studio hardware would be reinforcing the redundancy, ensuring that production lines are safe from large interruptions due to hardware failure.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Show HN: Colors – A data-driven collection of beautiful color palettes [klart.co] A font designed for coding: “Input Mono” (Clearer, bigger punctuations) [input.fontbureau.com] A significant update to the XAML Designer | The Visual Studio Blog [blogs.msd...",
-  "inceptDate": "2018-02-05T11:15:57.1575634-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "colors-a-data-driven-collection-of-beautiful-color-palettes-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Colors – A data-driven collection of beautiful color palettes” and other Tweeted Links…",
+  "documentShortName": "2018-02-05-colors-a-data-driven-collection-of-beautiful-color-palettes-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-05-colors-a-data-driven-collection-of-beautiful-color-palettes-and-other-tweeted-links",
+  "date": "2018-02-05T19:15:57.157Z",
+  "modificationDate": "2018-02-05T19:15:57.157Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Colors – A data-driven collection of beautiful color palettes” and other Tweeted Links…"
+  "clientId": "2018-02-05-colors-a-data-driven-collection-of-beautiful-color-palettes-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Show HN: Colors – A data-driven collection of beautiful color palettes [klart.co] A font designed for coding: “Input Mono” (Clearer, bigger punctuations) [input.fontbureau.com] A significant update to the XAML Designer | The Visual Studio Blog [blogs.msd...\"\r\n}"
 }
 ---
+
+# “Colors – A data-driven collection of beautiful color palettes” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Show HN: Colors – A data-driven collection of beautiful color palettes [[klart.co]](https://klart.co/colors)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple Park employees revolt over having to work in open-plan offices [[dezeen.com]](https://www.dezeen.com/2017/08/10/apple-park-campus-employees-rebel-over-open-plan-offices-architecture-news/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") In an 8-Hour Day, the Average Worker Is Productive for 2 Hours and 53 Minutes [[inc.com]](https://www.inc.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Getting Started with [asp.net] Core and Entity Framework 6 [fb.me] Increase Cloud Application Responsiveness With @Azure Queues and WebJobs [geekswithblogs.net] We just shipped June with lots of new stuff! Rel Notes: [code.visualstudio.com]. Download: [c...",
-  "inceptDate": "2016-07-13T15:34:26.4945132-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "getting-started-with-asp-net-core-and-entity-framework-6-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Getting Started with ASP.NET Core and Entity Framework 6” and other Tweeted Links…",
+  "documentShortName": "2016-07-13-getting-started-with-asp-net-core-and-entity-framework-6-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-07-13-getting-started-with-asp-net-core-and-entity-framework-6-and-other-tweeted-links",
+  "date": "2016-07-13T22:34:26.494Z",
+  "modificationDate": "2016-07-13T22:34:26.494Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Getting Started with ASP.NET Core and Entity Framework 6” and other Tweeted Links…"
+  "clientId": "2016-07-13-getting-started-with-asp-net-core-and-entity-framework-6-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Getting Started with [asp.net] Core and Entity Framework 6 [fb.me] Increase Cloud Application Responsiveness With @Azure Queues and WebJobs [geekswithblogs.net] We just shipped June with lots of new stuff! Rel Notes: [code.visualstudio.com]. Download: [c...\"\r\n}"
 }
 ---
+
+# “Getting Started with ASP.NET Core and Entity Framework 6” and other Tweeted Links…
 
 [<img alt="The ASP.NET Team [aspnet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/aspnet.png">](http://t.co/26wueUGo2K "The ASP.NET Team [aspnet]") Getting Started with [[asp.net]](http://ASP.NET) Core and Entity Framework 6 [[fb.me]](http://fb.me/5xXoc2mqU)
 
@@ -19,15 +25,15 @@
 
 [<img alt="Visual Studio Code [code]" src="https://songhay.blob.core.windows.net/shared-social-twitter/code.png">](http://t.co/MKVKzC9vu1 "Visual Studio Code [code]") We just shipped June with lots of new stuff! Rel Notes: [[code.visualstudio.com]](https://code.visualstudio.com/Updates). Download: [[code.visualstudio.com]](https://code.visualstudio.com/Download)[[twitter.com]](http://twitter.com/code/status/751181199372984320/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft launches [[docs.microsoft.com]](http://docs.microsoft.com), a new technical documentation portal [[mspoweruser.com]](http://mspoweruser.com/microsoft-launches-docs-microsoft-com-a-new-technical-documentation-portal/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Stack Overflow: How We Do Deployment [[nickcraver.com]](http://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/2zYxWEZ0gYg?a) Why Scaling Agile Doesn't Work • Jez Humble 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/2zYxWEZ0gYg?a) Why Scaling Agile Doesn't Work • Jez Humble
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") This is why most mobile development projects fail [[clean-swift.com]](http://clean-swift.com/mobile-development-projects-fail/)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Arithmetic Overflow and Underflow in .NET - Some Nitty Gritties [[codeproject.com]](http://www.codeproject.com/Articles/1097872/Arithmetic-Overflow-and-Underflow-in-Net-Some-knit)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) what is the relationship between MSTEST and VSTEST? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) what is the relationship between MSTEST and VSTEST?
 
 [<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite) MSTest Fx-[[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/ms243147(v=vs.90).aspx) mstest.exe runner-[[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/ms182489.aspx) vstest extensible engine-[[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/jj155796.aspx)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I thought I’d play with the new MediaPlayer in Windows 10 Anniversary Update” [@mtaulty](http://twitter.com/mtaulty)[[mtaulty.com]](https://mtaulty.com/2016/06/23/windows-10-anniversary-update-fun-with-composition-and-video/)
 
-[<img alt="Mike Taulty [mtaulty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mtaulty.jpg">](http://t.co/Bad6W5NR5H "Mike Taulty [mtaulty]")[@BryanWilhite](http://twitter.com/BryanWilhite) I did :-) 
+[<img alt="Mike Taulty [mtaulty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mtaulty.jpg">](http://t.co/Bad6W5NR5H "Mike Taulty [mtaulty]")[@BryanWilhite](http://twitter.com/BryanWilhite) I did :-)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Target="_blank" - the most underestimated vulnerability ever [@tmrdevelops](http://twitter.com/tmrdevelops)[[jitbit.com]](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
 
@@ -80,3 +86,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Delightful Bits Of Vintage Graphic Design Inspiration [@tmrdevelops](http://twitter.com/tmrdevelops)[[smashingmagazine.com]](https://www.smashingmagazine.com/2016/05/delightful-bits-of-vintage-graphic-design-inspiration/)
 
 [<img alt="Stuart Butler [trebortrauts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/trebortrauts.jpg">]( "Stuart Butler [trebortrauts]") Lovely art history of computers [[theguardian.com]](https://www.theguardian.com/technology/2016/may/29/early-computers-design-apple-docubyte-photography) thought you may enjoy [@wasbuxton](http://twitter.com/wasbuxton) !
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

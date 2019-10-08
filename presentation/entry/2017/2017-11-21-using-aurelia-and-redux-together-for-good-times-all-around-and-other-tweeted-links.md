@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Using Aurelia and Redux together for good times all around [zen.id.au] Using Redux in Angular 4 [to prevent event spaghetti] @moshhamedani[youtube.com] Why Angular 2/4 Is Too Little, Too Late – Chris Cordle – Medium [medium.com] Read Me · Redux [redux.js...",
-  "inceptDate": "2017-11-21T13:20:07.8426049-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-aurelia-and-redux-together-for-good-times-all-around-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Aurelia and Redux together for good times all around” and other twinks…",
+  "documentShortName": "2017-11-21-using-aurelia-and-redux-together-for-good-times-all-around-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-21-using-aurelia-and-redux-together-for-good-times-all-around-and-other-twinks",
+  "date": "2017-11-21T21:20:07.842Z",
+  "modificationDate": "2017-11-21T21:20:07.842Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Aurelia and Redux together for good times all around” and other twinks…"
+  "clientId": "2017-11-21-using-aurelia-and-redux-together-for-good-times-all-around-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Using Aurelia and Redux together for good times all around [zen.id.au] Using Redux in Angular 4 [to prevent event spaghetti] @moshhamedani[youtube.com] Why Angular 2/4 Is Too Little, Too Late – Chris Cordle – Medium [medium.com] Read Me · Redux [redux.js...\"\r\n}"
 }
 ---
+
+# “Using Aurelia and Redux together for good times all around” and other twinks…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Aurelia and Redux together for good times all around [[zen.id.au]](https://zen.id.au/using-aurelia-and-redux-together-for-good-times-all-around/)
 
@@ -45,9 +51,9 @@
 
 [<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](http://t.co/u0gR38Ls9c "Damian Edwards [DamianEdwards]")[@BryanWilhite](http://twitter.com/BryanWilhite) .NET Core uses EventSource &amp; DiagnosticSource which are X-plat friendly. NetFx supports them too btw. [@terrajobst](http://twitter.com/terrajobst)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) Thx for the heads up. I now understand why other .NET Core folks are into TextWriterTraceListener(Console.Out)🧐 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) Thx for the heads up. I now understand why other .NET Core folks are into TextWriterTraceListener(Console.Out)🧐
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) Also we have Microsoft.Extensions.Logging.TraceSource: [[github.com]](https://github.com/BryanWilhite/dotnet-core/blob/master/dotnet-console-textwritertracelistener/Songhay.ListenerOne.Shell/Songhay.ListenerOne.Shell.csproj) 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) Also we have Microsoft.Extensions.Logging.TraceSource: [[github.com]](https://github.com/BryanWilhite/dotnet-core/blob/master/dotnet-console-textwritertracelistener/Songhay.ListenerOne.Shell/Songhay.ListenerOne.Shell.csproj) 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) okay i have written you guys (and the whole planet) a love letter for a TraceSource-base… [[twitter.com]](https://twitter.com/i/web/status/922533793713373184)
 
@@ -93,6 +99,8 @@
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3 "David Fowler [davidfowl]") Technical debt always catches up with you... [[twitter.com]](https://twitter.com/davidfowl/status/932545703087194113/photo/1)
 
-[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler 
+[<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Congrats to [#WolframInnovator](http://twitter.com/search?q=%23WolframInnovator) Dr. Massimo Fazio for his work using [#WolfLang](http://twitter.com/search?q=%23WolfLang) algorithms for [#OCT](http://twitter.com/search?q=%23OCT) measurement.… [[twitter.com]](https://twitter.com/i/web/status/932992262182719488)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

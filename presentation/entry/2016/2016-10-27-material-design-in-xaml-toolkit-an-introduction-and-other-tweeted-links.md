@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Material Design In XAML Toolkit An Introduction - YouTube [ow.ly]@James_Willock RT @James_Willock: Just referencing #MaterialDesign in XAML isn't going to give you a great looking app. Study..:  [material.google.com] Microsoft’s Channel 9 to get a new de...",
-  "inceptDate": "2016-10-27T12:51:00.837282-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Material Design In XAML Toolkit An Introduction” and other Tweeted Links…",
+  "documentShortName": "2016-10-27-material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-27-material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links",
+  "date": "2016-10-27T19:51:00.837Z",
+  "modificationDate": "2016-10-27T19:51:00.837Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Material Design In XAML Toolkit An Introduction” and other Tweeted Links…"
+  "clientId": "2016-10-27-material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Material Design In XAML Toolkit An Introduction - YouTube [ow.ly]@James_Willock RT @James_Willock: Just referencing #MaterialDesign in XAML isn't going to give you a great looking app. Study..:  [material.google.com] Microsoft’s Channel 9 to get a new de...\"\r\n}"
 }
 ---
+
+# “Material Design In XAML Toolkit An Introduction” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Material Design In XAML Toolkit An Introduction - YouTube [[ow.ly]](http://ow.ly/Fbjj305m7AJ)[@James_Willock](http://twitter.com/James_Willock)
 
@@ -65,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft releases R Tools 0.5 for [@VisualStudio](http://twitter.com/VisualStudio)[[ow.ly]](http://ow.ly/HI2X305nlCl)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Ik2KQ53LAMc?a) The Lost Discipline of Developing Analytics 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Ik2KQ53LAMc?a) The Lost Discipline of Developing Analytics
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Denormalization for Performance: Don't Blame the Relational Model [[ow.ly]](http://ow.ly/BmFH305nFe0)
 
@@ -75,9 +81,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") why is there no Update-Package command for the [@chocolateynuget](http://twitter.com/chocolateynuget) provider? [[twitter.com]](https://twitter.com/BryanWilhite/status/790495658834821120/photo/1)
 
-[<img alt="Rob Reynolds [ferventcoder]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ferventcoder.jpg">](http://t.co/7hNbqgPyIH "Rob Reynolds [ferventcoder]")[@BryanWilhite](http://twitter.com/BryanWilhite) b/c provider is not official yet (2yo prototype / security issues / issues in general). For now you may want to use choco.exe 
+[<img alt="Rob Reynolds [ferventcoder]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ferventcoder.jpg">](http://t.co/7hNbqgPyIH "Rob Reynolds [ferventcoder]")[@BryanWilhite](http://twitter.com/BryanWilhite) b/c provider is not official yet (2yo prototype / security issues / issues in general). For now you may want to use choco.exe
 
-[<img alt="Rob Reynolds [ferventcoder]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ferventcoder.jpg">](http://t.co/7hNbqgPyIH "Rob Reynolds [ferventcoder]")[@BryanWilhite](http://twitter.com/BryanWilhite) was created by MS awhile back as a very limited prototype. 
+[<img alt="Rob Reynolds [ferventcoder]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ferventcoder.jpg">](http://t.co/7hNbqgPyIH "Rob Reynolds [ferventcoder]")[@BryanWilhite](http://twitter.com/BryanWilhite) was created by MS awhile back as a very limited prototype.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Image from Gifrocket - Create Gif from video, for Mac OS X [[ow.ly]](http://ow.ly/1xuo305m2kr) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/790537207434113024/photo/1)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The wealthy commute later, get to take more direct routes [[ow.ly]](http://ow.ly/prpX305nlmZ)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The e-waste mountains – in pictures [[ow.ly]](http://ow.ly/ftve305nFfV)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

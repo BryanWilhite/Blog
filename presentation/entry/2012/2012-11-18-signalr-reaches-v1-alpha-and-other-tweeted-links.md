@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "#SignalR reaches v1 (alpha) http://t.co/4UsJ4af4   My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: http://t.co/rLgiGvHY   Microsoft's cloud buzzword of 2011: Hybrid: http://zd.net/g1HUDE   Amazon's new Cloud Drive rains...",
-  "inceptDate": "2012-11-18T00:00:00",
-  "isPublished": true,
-  "slug": "signalr-reaches-v1-alpha-and-other-tweeted-links",
-  "title": "“#SignalR reaches v1 (alpha)” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“#SignalR reaches v1 (alpha)” and other Tweeted Links…",
+  "documentShortName": "2012-11-18-signalr-reaches-v1-alpha-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-11-18-signalr-reaches-v1-alpha-and-other-tweeted-links",
+  "date": "2012-11-18T08:00:00.000Z",
+  "modificationDate": "2012-11-18T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-11-18-signalr-reaches-v1-alpha-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"#SignalR reaches v1 (alpha) http://t.co/4UsJ4af4   My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: http://t.co/rLgiGvHY   Microsoft's cloud buzzword of 2011: Hybrid: http://zd.net/g1HUDE   Amazon's new Cloud Drive rains...\"\r\n}"
 }
 ---
+
+# “#SignalR reaches v1 (alpha)” and other Tweeted Links…
 
 [<img alt="John Papa [John_Papa]" src="https://songhay.blob.core.windows.net/shared-social-twitter/John_Papa.png">](http://johnpapa.net "John Papa [John_Papa]") <span>[#SignalR](http://search.twitter.com/search?q=%23SignalR) reaches v1 (alpha) [http://t.co/4UsJ4af4](http://t.co/4UsJ4af4)</span>
 
@@ -54,3 +64,5 @@
 [<img alt="Brendan Dawes [brendandawes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brendandawes.jpeg">](http://www.brendandawes.com/ "Brendan Dawes [brendandawes]") <span>New on Flickr: Modular desk tidy system complete [http://bit.ly/id95OS](http://bit.ly/id95OS)</span>
 
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://www.winsupersite.com "Paul Thurrott [thurrott]") <span>What I Use: November 2012 [http://t.co/9Jb7wk9e](http://t.co/9Jb7wk9e)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

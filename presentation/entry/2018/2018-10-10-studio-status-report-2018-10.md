@@ -1,25 +1,31 @@
 ---json
 {
-  "author": null,
-  "content": "the new SonghaySystem.com releasedSonghaySystem.com is released. I tweeted about it to capture the moment—which was a moment of exhaustion. I would love to say that this release captured all of the Angular-related topics I plan to study but I can’t. Thes...",
-  "inceptDate": "2018-10-10T17:02:11.8819675-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2018-10",
+  "documentId": 0,
+  "title": "studio status report: 2018-10",
+  "documentShortName": "2018-10-10-studio-status-report-2018-10",
+  "fileName": "index.html",
+  "path": "./entry/2018-10-10-studio-status-report-2018-10",
+  "date": "2018-10-11T00:02:11.881Z",
+  "modificationDate": "2018-10-11T00:02:11.881Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2018-10"
+  "clientId": "2018-10-10-studio-status-report-2018-10",
+  "tag": "{\r\n  \"extract\": \"the new SonghaySystem.com releasedSonghaySystem.com is released. I tweeted about it to capture the moment—which was a moment of exhaustion. I would love to say that this release captured all of the Angular-related topics I plan to study but I can’t. Thes...\"\r\n}"
 }
 ---
+
+# studio status report: 2018-10
 
 ## the new SonghaySystem.com released
 
 [SonghaySystem.com](http://SonghaySystem.com) is released. [I tweeted about it](https://twitter.com/BryanWilhite/status/1049413752955629568) to capture the moment—which was a moment of exhaustion. I would love to say that this release captured all of the Angular-related topics I plan to study but I can’t. These major questions remain:
 
-*   is it possible to set up an Angular module as a local (folder-based) NPM module?
-*   do Angular 6.x projects replace or compete with nrwl workspaces?
-*   will my Angular builds actually need Apollo and GraphQL (on ASP.NET Core) or will converting my Promises patterns to `async`-`await` patterns do just fine?
+* is it possible to set up an Angular module as a local (folder-based) NPM module?
+* do Angular 6.x projects replace or compete with nrwl workspaces?
+* will my Angular builds actually need Apollo and GraphQL (on ASP.NET Core) or will converting my Promises patterns to `async`-`await` patterns do just fine?
 
 ## the job market and comp-sci theories
 
@@ -27,9 +33,9 @@ I have been looking for a new .NET job for *at least* two years. The previous se
 
 Continually, I am asked the question, “What are you looking for in your next position?” Here is my answer in descending order of importance:
 
-*   the organization actively invests in Microsoft: no Ballmer-era products like ASP.NET Web Forms that treat .NET 4.0 (and Visual Studio 2013) as “new” technology
-*   the organization uses automated testing in Visual Studio solutions under source control
-*   the organization has *some* kind of agile practice
+* the organization actively invests in Microsoft: no Ballmer-era products like ASP.NET Web Forms that treat .NET 4.0 (and Visual Studio 2013) as “new” technology
+* the organization uses automated testing in Visual Studio solutions under source control
+* the organization has *some* kind of agile practice
 
 These requirements of mine are the bare minimum, quite impoverished actually. I must confess that I have not worked with a team meeting these requirements. On the flip side, the requirements placed on *me* as a candidate often involve computer-science-based questions. [I have complained about this](http://songhayblog.azurewebsites.net/blog/entry/the-three-things-i-have-done-about-failing-in-job-interviews) previously but over the last month I have come to a constructive, more refined understanding.
 
@@ -37,10 +43,10 @@ The social-media phenomenon has caused many fashion trends; one leading trend in
 
 Another interview-related technical subject is multi-threading. It was my error to regard multi-threading as an edge-case of .NET leading down into C++ (this is my WPF-influenced point of view). It is better for my career path to view multi-threading in the context of the history of ASP.NET. These articles help:
 
-*   “[ASP.NET Multithreading Web Requests](https://stackoverflow.com/questions/23912456/asp-net-multithreading-web-requests)”
-*   “[Practical multithreading in ASP.NET](https://www.codeproject.com/Articles/1067678/Practical-multithreading-in-ASP-NET)”
-*   “[The Magic of using Asynchronous Methods in ASP.NET 4.5 plus an important gotcha](https://www.hanselman.com/blog/TheMagicOfUsingAsynchronousMethodsInASPNET45PlusAnImportantGotcha.aspx)”
-*   “[Using Asynchronous Methods in ASP.NET 4.5](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/performance-and-caching/using-asynchronous-methods-in-aspnet-45)”
+* “[ASP.NET Multithreading Web Requests](https://stackoverflow.com/questions/23912456/asp-net-multithreading-web-requests)”
+* “[Practical multithreading in ASP.NET](https://www.codeproject.com/Articles/1067678/Practical-multithreading-in-ASP-NET)”
+* “[The Magic of using Asynchronous Methods in ASP.NET 4.5 plus an important gotcha](https://www.hanselman.com/blog/TheMagicOfUsingAsynchronousMethodsInASPNET45PlusAnImportantGotcha.aspx)”
+* “[Using Asynchronous Methods in ASP.NET 4.5](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/performance-and-caching/using-asynchronous-methods-in-aspnet-45)”
 
 The most important point here is that the subject of multi-threading in ASP.NET is supposed to lead to the subject of `async`-`await` patterns in ASP.NET MVC. Ballmer-era ASP.NET multithreading uses Web Forms stuff like `Page_Load` with `RegisterAsyncTask(new PageAsyncTask(MyDelegateSignatureAsync))` (replaced by `HttpTaskAsyncHandler` in .NET &gt;=4.5; also, .NET 4.5.2 introduced `HostingEnvironment.QueueBackgroundWorkItem` [[docs](https://docs.microsoft.com/en-us/dotnet/api/system.web.hosting.hostingenvironment.queuebackgroundworkitem?view=netframework-4.7)] for fire-and-forget scenarios which is less risky than the use of `async`-`void`).
 
@@ -49,3 +55,5 @@ It must be said that the subject of “[micro-services](https://en.wikipedia.org
 And, for healthy interview prep, it is always useful to read, “[Fundamentals of Garbage Collection](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals),” at least once every six months. (Garbage collection algorithms depend on [the heap data structure](https://en.wikipedia.org/wiki/Heap_(data_structure)) which is a specialized tree structure, leading back to Graph Theory via [Dijkstra’s algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).)
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

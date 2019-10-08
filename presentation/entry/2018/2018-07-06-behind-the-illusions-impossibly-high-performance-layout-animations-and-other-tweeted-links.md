@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Behind the Illusions - Impossibly High-Performance Layout Animations https://t.co/D8hPKmAXG7 Easy navigation between #aspnetcore Razor Page cshtml &amp; associated Page Model C# file via F7 keypress is now live i… https://t.co/YDtc01FpU3 Web Assembly... ...",
-  "inceptDate": "2018-07-06T10:24:16.6882562-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Behind the Illusions—Impossibly High-Performance Layout Animations” and other Tweeted links…",
+  "documentShortName": "2018-07-06-behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-06-behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
+  "date": "2018-07-06T17:24:16.688Z",
+  "modificationDate": "2018-07-06T17:24:16.688Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Behind the Illusions—Impossibly High-Performance Layout Animations” and other Tweeted links…"
+  "clientId": "2018-07-06-behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Behind the Illusions - Impossibly High-Performance Layout Animations https://t.co/D8hPKmAXG7 Easy navigation between #aspnetcore Razor Page cshtml &amp; associated Page Model C# file via F7 keypress is now live i… https://t.co/YDtc01FpU3 Web Assembly... ...\"\r\n}"
 }
 ---
+
+# “Behind the Illusions—Impossibly High-Performance Layout Animations” and other Tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">](https://t.co/AqIi91NbiM "Jonathan Torke [JonathanTorke]") Behind the Illusions - Impossibly High-Performance Layout Animations [https://t.co/D8hPKmAXG7](https://t.co/D8hPKmAXG7)
 
@@ -110,3 +116,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Help raise your words per minute with the only software that's wild at heart and weird on the top, David Lynch Tea… [https://t.co/HVWiczmgkg](https://t.co/HVWiczmgkg)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) What few to none of the demographic on this this thread will experience are kids from your own 'hood no… [https://t.co/1M7k3D4TYN](https://t.co/1M7k3D4TYN)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

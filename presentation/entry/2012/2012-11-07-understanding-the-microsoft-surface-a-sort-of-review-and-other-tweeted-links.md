@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "RT @halberenson: Understanding the Microsoft Surface (a sort of Review) http://t.co/nsC5HLB4  See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN http://t.co/7yUrlUlw  RIP Microsoft ClearType Inventor Bill Hi...",
-  "inceptDate": "2012-11-07T00:00:00",
-  "isPublished": true,
-  "slug": "understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",
-  "title": "“Understanding the Microsoft Surface (a sort of Review)” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Understanding the Microsoft Surface (a sort of Review)” and other Tweeted Links…",
+  "documentShortName": "2012-11-07-understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-11-07-understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",
+  "date": "2012-11-07T08:00:00.000Z",
+  "modificationDate": "2012-11-07T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-11-07-understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"RT @halberenson: Understanding the Microsoft Surface (a sort of Review) http://t.co/nsC5HLB4  See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN http://t.co/7yUrlUlw  RIP Microsoft ClearType Inventor Bill Hi...\"\r\n}"
 }
 ---
+
+# “Understanding the Microsoft Surface (a sort of Review)” and other Tweeted Links…
 
 [<img alt="Tim Heuer [timheuer]" src="https://songhay.blob.core.windows.net/shared-social-twitter/timheuer.jpg">](http://timheuer.com/blog/ "Tim Heuer [timheuer]") <span>RT [@halberenson](http://twitter.com/halberenson): Understanding the Microsoft Surface (a sort of Review) [http://t.co/nsC5HLB4](http://t.co/nsC5HLB4)</span>
 
@@ -104,3 +114,5 @@
 [<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.jpg">](http://veerle.duoh.com "Veerle Pieters [vpieters]") <span>Long read about Productive Web Design With… Adobe Illustrator? Many valuable points in it. Up to you to decide… [http://t.co/6wbS9uUO](http://t.co/6wbS9uUO)</span>
 
 [<img alt="Mark Berry [markab]" src="https://songhay.blob.core.windows.net/shared-social-twitter/markab.png">]( "Mark Berry [markab]") <span>I can't state this enough: Programmers don't burn out on hard work, they burn out on change-with-the-wind directives and not 'shipping'.</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

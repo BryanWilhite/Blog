@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "This machine is set up with 14.04 LTS 64-bit on a single 32GB virtual drive. I do not see the need to split into separate disks because of my impatience and my feeling that my Linux ambitions are scaled down a bit.These are the initial command line thing...",
-  "inceptDate": "2016-07-25T21:39:41.1574474-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "migration-to-ubuntu-14-04-64-bit",
+  "documentId": 0,
+  "title": "Migration to Ubuntu 14.04 64-bit",
+  "documentShortName": "2016-07-25-migration-to-ubuntu-14-04-64-bit",
+  "fileName": "index.html",
+  "path": "./entry/2016-07-25-migration-to-ubuntu-14-04-64-bit",
+  "date": "2016-07-26T04:39:41.157Z",
+  "modificationDate": "2016-07-26T04:39:41.157Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Migration to Ubuntu 14.04 64-bit"
+  "clientId": "2016-07-25-migration-to-ubuntu-14-04-64-bit",
+  "tag": "{\r\n  \"extract\": \"This machine is set up with 14.04 LTS 64-bit on a single 32GB virtual drive. I do not see the need to split into separate disks because of my impatience and my feeling that my Linux ambitions are scaled down a bit.These are the initial command line thing...\"\r\n}"
 }
 ---
+
+# Migration to Ubuntu 14.04 64-bit
 
 This machine is set up with 14.04 LTS 64-bit on a single 32GB virtual drive. I do not see the need to split into separate disks because of my impatience and my feeling that my Linux ambitions are scaled down a bit.
 
@@ -83,3 +89,5 @@ sudo apt-get install libpam-smbpass
 ```
 
 It is important to not enable anonymous access to your share—say, `/foo`. So in Windows it will be found at [\\UBUNTU\foo](file://ubuntu/foo) after filling in the credentials.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "After researching this, I understand why there are no articles entitled “Unit Testing with WebConfigTransformRunner.” This NuGet package contains an *.exe: it is not meant to be referenced in Visual Studio as a Class library. To make this matter even mor...",
-  "inceptDate": "2015-06-22T00:00:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "unit-testing-with-mvcroutetester-mvc5-2-webconfigtransformrunner-and-nuget-core",
+  "documentId": 0,
+  "title": "Unit Testing with MvcRouteTester.Mvc5.2, WebConfigTransformRunner and Nuget.Core",
+  "documentShortName": "2015-06-22-unit-testing-with-mvcroutetester-mvc5-2-webconfigtransformrunner-and-nuget-core",
+  "fileName": "index.html",
+  "path": "./entry/2015-06-22-unit-testing-with-mvcroutetester-mvc5-2-webconfigtransformrunner-and-nuget-core",
+  "date": "2015-06-22T07:00:00.000Z",
+  "modificationDate": "2015-06-22T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Unit Testing with MvcRouteTester.Mvc5.2, WebConfigTransformRunner and Nuget.Core"
+  "clientId": "2015-06-22-unit-testing-with-mvcroutetester-mvc5-2-webconfigtransformrunner-and-nuget-core",
+  "tag": "{\r\n  \"extract\": \"After researching this, I understand why there are no articles entitled “Unit Testing with WebConfigTransformRunner.” This NuGet package contains an *.exe: it is not meant to be referenced in Visual Studio as a Class library. To make this matter even mor...\"\r\n}"
 }
 ---
+
+# Unit Testing with MvcRouteTester.Mvc5.2, WebConfigTransformRunner and Nuget.Core
 
 After researching this, I understand why there are no articles entitled “Unit Testing with `WebConfigTransformRunner`.” This [NuGet package](https://github.com/erichexter/WebConfigTransformRunner) contains an `*.exe`: it is not meant to be referenced in Visual Studio as a Class library. To make this matter even more challenging, Phil Haack and his crew have very little documentation on `NuGet.Core`—and getting Anthony Steele’s MVC Route Tester in play was no walk in park either.
 
@@ -62,9 +68,11 @@ These data are loaded into that big one-liner. I’ve the [GitHub Gist](https://
 <script src="https://gist.github.com/BryanWilhite/d72a8cf8cfd07c0e3c91.js"></script>
 
 My Gist would not be possible without Anthony Steele’s [MvcRouteTester.Mvc5.2](https://www.nuget.org/packages/MvcRouteTester.Mvc5.2/). It was a bit of an ordeal to realize that I needed this package because there are *four different versions* of MVC Route Tester. Anthony himself [is quite irritated by this](https://twitter.com/AnthonySteele/status/612189239900549120) as he as to compile multiple versions of MVC Route Tester for *every* major version of ASP.NET MVC:
+
 <blockquote>
 
 The whole thing of needing a new build for each MVC version is a pain. We are in need of a very different approach...
+
 </blockquote>
 
 ### Testing with WebConfigTransformRunner and Nuget.Core
@@ -133,3 +141,5 @@ public static string ShouldGetProjectsFolder(this TestContext context, Type type
 ```
 
 I am embarrassed to admit that it took me *years* to really trim the cognitive load to write something as straight-forward as `ShouldGetProjectsFolder()`. It will be reused in all of my automated tests that depend on static files—I prefer this approach over the ceremony around [Deployment Item](https://msdn.microsoft.com/en-us/library/ms182475.aspx) setup.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

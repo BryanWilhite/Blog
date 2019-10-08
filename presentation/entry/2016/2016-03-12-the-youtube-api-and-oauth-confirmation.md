@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I need to use the YouTube API to get the Playlist Item data associated with the subscribed Channels under my Google account. I can then take that Playlist Item data and stick it under a Songhay System API for read access without incurring YouTube quota c...",
-  "inceptDate": "2016-03-12T23:07:44.515829-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-youtube-api-and-oauth-confirmation",
+  "documentId": 0,
+  "title": "The YouTube API and OAuth Confirmation",
+  "documentShortName": "2016-03-12-the-youtube-api-and-oauth-confirmation",
+  "fileName": "index.html",
+  "path": "./entry/2016-03-12-the-youtube-api-and-oauth-confirmation",
+  "date": "2016-03-13T07:07:44.515Z",
+  "modificationDate": "2016-03-13T07:07:44.515Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "The YouTube API and OAuth Confirmation"
+  "clientId": "2016-03-12-the-youtube-api-and-oauth-confirmation",
+  "tag": "{\r\n  \"extract\": \"I need to use the YouTube API to get the Playlist Item data associated with the subscribed Channels under my Google account. I can then take that Playlist Item data and stick it under a Songhay System API for read access without incurring YouTube quota c...\"\r\n}"
 }
 ---
+
+# The YouTube API and OAuth Confirmation
 
 I need to use the YouTube API to get the Playlist Item data associated with the subscribed Channels under my Google account. I can then take that Playlist Item data and stick it under a Songhay System API for read access without incurring YouTube quota costs.
 
@@ -21,18 +27,9 @@ Experimenting with this little button allows me to choose how I should approach 
 
 ## Calling the YouTube API to Get Channel Playlist Item Data
 
-I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:
+I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:var playlistId = jA[0]["contentDetails"]["relatedPlaylists"]["uploads"].Value&lt;string&gt;();It does not matter what `jA[0]` is apart from being the first element in a JSON.NET `JArray`.
 
-
-var playlistId = jA[0]["contentDetails"]["relatedPlaylists"]["uploads"].Value&lt;string&gt;();
-    
-
-It does not matter what `jA[0]` is apart from being the first element in a JSON.NET `JArray`.
-
-Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:
-
-
-[TestMethod]
+Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:[TestMethod]
 [TestProperty("channelPlaylistId", "UUp4cuWZKxR5ZNbcWrP1DozA")
 [TestProperty("googleServerApiKey", "XXXXXXXXX")]
 [TestProperty("uriBase", "https://www.googleapis.com/youtube/v3")]
@@ -49,17 +46,11 @@ public void ShouldGetPlaylistItems()
     this.TestContext.WriteLine("URI: {0}", uri);
     var responseString = (WebRequest.Create(uri) as HttpWebRequest).DownloadToString();
     this.TestContext.WriteLine(responseString.EscapeInterpolation());
-}
-    
-
-The methods `DownloadToString()` and `EscapeInterpolation()` are my personal crap and can be disregarded (I haven’t had a chance to consider “upgrading” to `HttpClient`). The point is all of this work is being done with plain old .NET (no NuGet packages from Google).
+}The methods `DownloadToString()` and `EscapeInterpolation()` are my personal crap and can be disregarded (I haven’t had a chance to consider “upgrading” to `HttpClient`). The point is all of this work is being done with plain old .NET (no NuGet packages from Google).
 
 ## Calling the YouTube API to get a list of Channel IDs from my Subscriptions
 
-None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):
-
-
-[TestMethod]
+None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):[TestMethod]
 [TestProperty("googleClientMetadataFile", "GoogleClientMetadata.json")]
 [TestProperty("googleSubscriptionsFile", "GoogleSubscriptions.json")]
 [TestProperty("userName", "bryan.wilhite")]
@@ -122,9 +113,8 @@ public void ShouldGetUserSubscriptions()
         var json = JsonConvert.SerializeObject(subscriptionList.ToArray());
         File.WriteAllText(googleSubscriptionsFile, json);
     }
-}
-    
-
-The first time I run this, I notice that I am prompted by a Web browser, asking me to log into Google. Welcome to the horrors of OAuth. I often leave horrible little science experiments like this as integration tests in Visual Studio indefinitely.
+}The first time I run this, I notice that I am prompted by a Web browser, asking me to log into Google. Welcome to the horrors of OAuth. I often leave horrible little science experiments like this as integration tests in Visual Studio indefinitely.
 
 After runs, a JSON file, `GoogleSubscriptions.json`, is generated. This gives me the hand-curated Channel IDs I need to run a Web Job on Azure. More on this later…
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

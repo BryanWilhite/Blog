@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I would like to thank Microsoft’s Eugene Shvets for helping me out with setting up Azure Search for JSON blobs. What I am going to write here should be available visually in the Azure Portal soon after June 2016. I am going to share a few RESTful OData-f...",
-  "inceptDate": "2016-06-13T21:42:54.1078686-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "setting-up-an-azure-search-json-blob-indexer-with-api-version-2015-02-28-preview",
+  "documentId": 0,
+  "title": "Setting up an @Azure Search JSON blob Indexer with api-version=2015-02-28-Preview",
+  "documentShortName": "2016-06-13-setting-up-an-azure-search-json-blob-indexer-with-api-version-2015-02-28-preview",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-13-setting-up-an-azure-search-json-blob-indexer-with-api-version-2015-02-28-preview",
+  "date": "2016-06-14T04:42:54.107Z",
+  "modificationDate": "2016-06-14T04:42:54.107Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Setting up an @Azure Search JSON blob Indexer with api-version=2015-02-28-Preview"
+  "clientId": "2016-06-13-setting-up-an-azure-search-json-blob-indexer-with-api-version-2015-02-28-preview",
+  "tag": "{\r\n  \"extract\": \"I would like to thank Microsoft’s Eugene Shvets for helping me out with setting up Azure Search for JSON blobs. What I am going to write here should be available visually in the Azure Portal soon after June 2016. I am going to share a few RESTful OData-f...\"\r\n}"
 }
 ---
+
+# Setting up an @Azure Search JSON blob Indexer with api-version=2015-02-28-Preview
 
 I would like to thank [Microsoft’s Eugene Shvets](https://twitter.com/chaosrealm4) for helping me out with setting up Azure Search for JSON blobs. What I am going to write here should be available *visually* in the Azure Portal soon after June 2016. I am going to share a few RESTful OData-flavored calls using an old shoe in the .NET closet called `HttpWebRequest`. To further reveal how old I am, kids, I am going to use [Visual Studio Test](https://msdn.microsoft.com/en-us/library/hh598957.aspx) (to “confuse” you) in all of my code samples.
 
@@ -20,9 +26,9 @@ Once we use these REST calls to get search working, we can use the Azure Portal 
 
 There are three ‘components’ to get Azure search working:
 
-*   Data Source (of type `azureblob`)
-*   Index (without a default field key of `id`)
-*   Indexer (with configuration parameter `useJsonParser = true`)
+* Data Source (of type `azureblob`)
+* Index (without a default field key of `id`)
+* Indexer (with configuration parameter `useJsonParser = true`)
 
 As of today, it is not possible to use the Azure Portal to generate an `azureblob` Data Source. It is also not possible to use the Portal to get an Indexer—and, while it *is* possible to get an Index in the Portal, it will have a default key of `id` which I cannot change in the UI. So, it’s best to make REST calls—likely the *same *calls made from the Portal.
 
@@ -174,7 +180,9 @@ My `HttpWebRequest` stuff here is not “confusing” it is more likely to be co
 
 ### Related Links
 
-*   “[Azure Search Service REST](https://msdn.microsoft.com/library/azure/dn798935.aspx)”
-*   “[Indexing Documents in Azure Blob Storage with Azure Search](https://azure.microsoft.com/en-us/documentation/articles/search-howto-indexing-azure-blob-storage/)” by Eugene Shvets
-*   “[Get started with Azure Search in the portal](https://azure.microsoft.com/en-us/documentation/articles/search-get-started-portal/)” by Heidi Steen
-*   “[Query your Azure Search index using the REST API](https://azure.microsoft.com/en-us/documentation/articles/search-query-rest-api/)” by Ashish Makadia
+* “[Azure Search Service REST](https://msdn.microsoft.com/library/azure/dn798935.aspx)”
+* “[Indexing Documents in Azure Blob Storage with Azure Search](https://azure.microsoft.com/en-us/documentation/articles/search-howto-indexing-azure-blob-storage/)” by Eugene Shvets
+* “[Get started with Azure Search in the portal](https://azure.microsoft.com/en-us/documentation/articles/search-get-started-portal/)” by Heidi Steen
+* “[Query your Azure Search index using the REST API](https://azure.microsoft.com/en-us/documentation/articles/search-query-rest-api/)” by Ashish Makadia
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

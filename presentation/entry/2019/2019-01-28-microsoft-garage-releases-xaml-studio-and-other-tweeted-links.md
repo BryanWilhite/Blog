@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Microsoft Garage releases XAML Studio, a new tool to help you             rapidly prototype UWP XAML [bit.ly] 🚀🌛 Announcing Apollo Elements: GraphQL + Web Components 👩‍🚀 👨‍🚀 With             support for 🔥 LitElement 👾 Hybrids 🔬 Gluon 🧱 Polymer ...",
-  "inceptDate": "2019-01-28T14:39:20.2546513-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "microsoft-garage-releases-xaml-studio-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Microsoft Garage releases XAML Studio” and other tweeted links…",
+  "documentShortName": "2019-01-28-microsoft-garage-releases-xaml-studio-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-28-microsoft-garage-releases-xaml-studio-and-other-tweeted-links",
+  "date": "2019-01-28T22:39:20.254Z",
+  "modificationDate": "2019-01-28T22:39:20.254Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Microsoft Garage releases XAML Studio” and other tweeted links…"
+  "clientId": "2019-01-28-microsoft-garage-releases-xaml-studio-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Microsoft Garage releases XAML Studio, a new tool to help you             rapidly prototype UWP XAML [bit.ly] 🚀🌛 Announcing Apollo Elements: GraphQL + Web Components 👩‍🚀 👨‍🚀 With             support for 🔥 LitElement 👾 Hybrids 🔬 Gluon 🧱 Polymer ...\"\r\n}"
 }
 ---
+
+# “Microsoft Garage releases XAML Studio” and other tweeted links…
 
 [<img alt="William S. Rodriguez [willbuildapps]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/willbuildapps.jpg">](https://t.co/RAnxPcugpP) Microsoft Garage releases XAML Studio, a new tool to help you rapidly prototype UWP XAML [[bit.ly]](http://bit.ly/2CrchqD)
 
@@ -21,7 +27,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) The practical value of semantic HTML [[brucelawson.co.uk]](https://www.brucelawson.co.uk/2018/the-practical-value-of-semantic-html/)
 
-[<img alt="bterlson.d.ts [bterlson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bterlson.jpeg">](https://t.co/PVNjxnFsD2) Another TypeScript tip: if you're shipping a library, you should have esModuleInterop enabled. Not doing so will cause significant pain for your TypeScript consumers and possibly even for regular JS consumers if you're shipping ESM in your package. 
+[<img alt="bterlson.d.ts [bterlson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bterlson.jpeg">](https://t.co/PVNjxnFsD2) Another TypeScript tip: if you're shipping a library, you should have esModuleInterop enabled. Not doing so will cause significant pain for your TypeScript consumers and possibly even for regular JS consumers if you're shipping ESM in your package.
 
 [<img alt="Thomas Burleson [ThomasBurleson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ThomasBurleson.jpg">](http://t.co/HxoY76Yhxz) Recently in [@angular](http://twitter.com/@angular)/flex-layout, we needed a way to performance tune our MediaObserver. For performance reasons, we needed a way to group eventListener callbacks. RxJS to the rescue: [[twitter.com]](https://twitter.com/ThomasBurleson/status/1086275992002412544/photo/1)
 
@@ -74,3 +80,5 @@
 [<img alt="Brian Rahmer [brianrahmer]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianrahmer.jpg">](https://t.co/4ADaZ5mogI) “If technology is everywhere, the tech sector no longer exists. If the tech sector no longer exists, its premium is no longer justified.” The Attention Economy Is a Malthusian Trap [[theatlantic.com]](https://www.theatlantic.com/ideas/archive/2019/01/is-the-age-of-tech-over/580504/?utm_medium=offsite&utm_source=medium&utm_campaign=all)
 
 [<img alt="Pat Walls [thepatwalls]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/thepatwalls.jpg">](https://t.co/ZQHymRQ4ps) Had a few people asking me about this, so wrote a blog post... How I Automated All Of My Social Media I talk about why I automated it, some advantages and disadvantages of automated systems, and my iterative approach. Code examples included! 🤖🤖🤖 [[patwalls.co]](https://patwalls.co/how-i-automated-all-of-my-social-media)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

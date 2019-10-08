@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Term-Rewriting in JavaScript for Fun and World Domination - YouTube https://t.co/8uixcSgrDP (@shanselman, @davidfowl) =&gt; @lorentzframe  Have the Angular Team lost their marbles? http://t.co/JPJpjXj91v  Will Google Fonts Ever Be Shut Down? → http://t.c...",
-  "inceptDate": "2014-11-05T00:00:00",
-  "isPublished": true,
-  "slug": "term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",
-  "title": "“Term-Rewriting in JavaScript for Fun and World Domination” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Term-Rewriting in JavaScript for Fun and World Domination” and other Tweeted Links…",
+  "documentShortName": "2014-11-05-term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-11-05-term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",
+  "date": "2014-11-05T08:00:00.000Z",
+  "modificationDate": "2014-11-05T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-11-05-term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Term-Rewriting in JavaScript for Fun and World Domination - YouTube https://t.co/8uixcSgrDP (@shanselman, @davidfowl) =&gt; @lorentzframe  Have the Angular Team lost their marbles? http://t.co/JPJpjXj91v  Will Google Fonts Ever Be Shut Down? → http://t.c...\"\r\n}"
 }
 ---
+
+# “Term-Rewriting in JavaScript for Fun and World Domination” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Term-Rewriting in JavaScript for Fun and World Domination - YouTube [https://t.co/8uixcSgrDP](https://t.co/8uixcSgrDP) ([@shanselman](http://twitter.com/shanselman), [@davidfowl](http://twitter.com/davidfowl)) =&gt; [@lorentzframe](http://twitter.com/lorentzframe)</span>
 
@@ -42,3 +52,5 @@
 [<img alt="UX Connections [uxconnections]" src="https://songhay.blob.core.windows.net/shared-social-twitter/uxconnections.png">](http://t.co/cYtgvZfvZ1 "UX Connections [uxconnections]") <span>5 best practices for search box design | Article by SRCH2 [http://t.co/gDjUyBzluN](http://t.co/gDjUyBzluN) [#UX](http://search.twitter.com/search?q=%23UX) [#design](http://search.twitter.com/search?q=%23design)</span>
 
 [<img alt="ReadWrite [RWW]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RWW.jpeg">](http://t.co/pi102Lb7UV "ReadWrite [RWW]") <span>It turns out "boring" is a critical feature in a database [http://t.co/htEK8xNdNR](http://t.co/htEK8xNdNR)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

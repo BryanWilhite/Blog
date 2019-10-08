@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Free Database of the Entire Web May Spawn the Next Google http://t.co/Hqg9buXl via @TechReview  jQuery 2.0 Beta 2 is looking really exciting: http://t.co/Ei5pWVVcIc so small with the new build options!  Windows 8 Tip: Boot Directly to the Desktop with Sk...",
-  "inceptDate": "2013-03-06T00:00:00",
-  "isPublished": true,
-  "slug": "free-database-of-the-entire-web-may-spawn-the-next-google-and-other-tweeted-links",
-  "title": "“Free Database of the Entire Web May Spawn the Next Google” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Free Database of the Entire Web May Spawn the Next Google” and other Tweeted Links…",
+  "documentShortName": "2013-03-06-free-database-of-the-entire-web-may-spawn-the-next-google-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-03-06-free-database-of-the-entire-web-may-spawn-the-next-google-and-other-tweeted-links",
+  "date": "2013-03-06T08:00:00.000Z",
+  "modificationDate": "2013-03-06T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-03-06-free-database-of-the-entire-web-may-spawn-the-next-google-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Free Database of the Entire Web May Spawn the Next Google http://t.co/Hqg9buXl via @TechReview  jQuery 2.0 Beta 2 is looking really exciting: http://t.co/Ei5pWVVcIc so small with the new build options!  Windows 8 Tip: Boot Directly to the Desktop with Sk...\"\r\n}"
 }
 ---
+
+# “Free Database of the Entire Web May Spawn the Next Google” and other Tweeted Links…
 
 [<img alt="Todd Anglin [toddanglin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/toddanglin.png">](http://kendoui.com "Todd Anglin [toddanglin]") <span>Free Database of the Entire Web May Spawn the Next Google [http://t.co/Hqg9buXl](http://t.co/Hqg9buXl) via [@TechReview](http://twitter.com/TechReview)</span>
 
@@ -70,3 +80,5 @@
 [<img alt="Jeremy Likness [jeremylikness]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jeremylikness.png">](http://csharperimage.jeremylikness.com/ "Jeremy Likness [jeremylikness]") <span>Microsoft's ViralSearch visualizes content as it spreads across Twitter [http://t.co/wAHGPpRWP8](http://t.co/wAHGPpRWP8)</span>
 
 [<img alt="Charlie Kindel [ckindel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ckindel.jpeg">](http://ceklog.kindel.com "Charlie Kindel [ckindel]") <span>"Kids, don’t believe the startup hype: Why you should join a big company first" [http://t.co/LHxUXKlGRr](http://t.co/LHxUXKlGRr) by the awesome [@joshaledgard](http://twitter.com/joshaledgard)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

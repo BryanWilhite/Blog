@@ -1,19 +1,25 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]        ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [...",
-  "inceptDate": "2016-12-21T19:37:18.4373752-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "what-s-new-for-uwp-developers-in-visual-studio-2017-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“What's new for UWP developers in Visual Studio 2017?” and other Tweeted Links…",
+  "documentShortName": "2016-12-21-what-s-new-for-uwp-developers-in-visual-studio-2017-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-12-21-what-s-new-for-uwp-developers-in-visual-studio-2017-and-other-tweeted-links",
+  "date": "2016-12-22T03:37:18.437Z",
+  "modificationDate": "2016-12-22T03:37:18.437Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“What's new for UWP developers in Visual Studio 2017?” and other Tweeted Links…"
+  "clientId": "2016-12-21-what-s-new-for-uwp-developers-in-visual-studio-2017-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]        ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [...\"\r\n}"
 }
 ---
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [[ow.ly]](http://ow.ly/b76B306xqqP) [remove/sort XAML namespaces!] 
+# “What's new for UWP developers in Visual Studio 2017?” and other Tweeted Links…
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [[ow.ly]](http://ow.ly/b76B306xqqP) [remove/sort XAML namespaces!]
 
 [<img alt="Thomas Fuchs [thomasfuchs]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thomasfuchs.jpg">](https://t.co/zz1pMnks83 "Thomas Fuchs [thomasfuchs]") ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [[twitter.com]](https://twitter.com/i/web/status/810885087214637057)
 
@@ -63,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scott Wlaschin - Railway Oriented Programming — error handling in functional languages on Vimeo [[ow.ly]](http://ow.ly/6q5B306xpYG)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bizmonger](http://twitter.com/bizmonger)[[youtu.be]](http://youtu.be/URC_oh7GTq8?a) Talking to Ody about F#, Akka, Architects, Property-based Testing 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bizmonger](http://twitter.com/bizmonger)[[youtu.be]](http://youtu.be/URC_oh7GTq8?a) Talking to Ody about F#, Akka, Architects, Property-based Testing
 
 [<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]") Had an interesting discussion with [@Bizmonger](http://twitter.com/Bizmonger)[#FSharp](http://twitter.com/search?q=%23FSharp)[#AkkaDotNet](http://twitter.com/search?q=%23AkkaDotNet)[[youtube.com]](https://www.youtube.com/watch?v=URC_oh7GTq8)
 
@@ -93,10 +99,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 12 Signs You’re Working in a Feature Factory [[ow.ly]](http://ow.ly/ittU306ymlu)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtu.be]](http://youtu.be/beSVJWS0F6g?a) Top 5 Best Equipment Choices for Serious YouTube Content Creators 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtu.be]](http://youtu.be/beSVJWS0F6g?a) Top 5 Best Equipment Choices for Serious YouTube Content Creators
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tech Was Supposed to Crash in 2016. It Got Real Instead | WIRED [[ow.ly]](http://ow.ly/lKWb306xPBw)
 
 [<img alt="Anie Akpe [AnieAkpe]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AnieAkpe.jpg">](https://t.co/IaVaSrp49G "Anie Akpe [AnieAkpe]") Learned from these speakers at the AfricanWomen In TechConference [[ow.ly]](http://ow.ly/dmER306Rsxq)[#WomenInTech](http://twitter.com/search?q=%23WomenInTech)[#WestAfrica](http://twitter.com/search?q=%23WestAfrica)… [[twitter.com]](https://twitter.com/i/web/status/807789591746973696)
 
 [<img alt="Rafferty Jackson [raffjack]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raffjack.jpeg">](https://t.co/8Ufm6h6L3V "Rafferty Jackson [raffjack]")[@cjordan_wolfram](http://twitter.com/cjordan_wolfram) (son of Stephen Wolfram) showing the Mathematica code base of "The Arrival" alien language.… [[twitter.com]](https://twitter.com/i/web/status/807796670943481856)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

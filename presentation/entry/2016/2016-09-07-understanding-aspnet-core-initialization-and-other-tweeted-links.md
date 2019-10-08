@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Understanding [asp.net] Core Initialization - [developer.telerik.com] The Minimal ASPNET Core App [ardalis.com] No ConfigurationManager in [asp.net] Core [danylkoweb.com] I liked a @YouTube video from @bleroy[youtu.be] On .NET 7/7/2016 - Rowan Miller - E...",
-  "inceptDate": "2016-09-07T12:58:07.1652403-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "understanding-aspnet-core-initialization-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Understanding ASPNET Core Initialization” and other Tweeted Links…",
+  "documentShortName": "2016-09-07-understanding-aspnet-core-initialization-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-07-understanding-aspnet-core-initialization-and-other-tweeted-links",
+  "date": "2016-09-07T19:58:07.165Z",
+  "modificationDate": "2016-09-07T19:58:07.165Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Understanding ASPNET Core Initialization” and other Tweeted Links…"
+  "clientId": "2016-09-07-understanding-aspnet-core-initialization-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Understanding [asp.net] Core Initialization - [developer.telerik.com] The Minimal ASPNET Core App [ardalis.com] No ConfigurationManager in [asp.net] Core [danylkoweb.com] I liked a @YouTube video from @bleroy[youtu.be] On .NET 7/7/2016 - Rowan Miller - E...\"\r\n}"
 }
 ---
+
+# “Understanding ASPNET Core Initialization” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding [[asp.net]](http://ASP.NET) Core Initialization - [[developer.telerik.com]](http://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") No ConfigurationManager in [[asp.net]](http://ASP.NET) Core [[danylkoweb.com]](http://www.danylkoweb.com/Blog/no-configurationmanager-in-aspnet-core-GC#.V5EewqhkALo.twitter)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bleroy](http://twitter.com/bleroy)[[youtu.be]](http://youtu.be/8Sp7UMzJQD4?a) On .NET 7/7/2016 - Rowan Miller - Entity Framework 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@bleroy](http://twitter.com/bleroy)[[youtu.be]](http://youtu.be/8Sp7UMzJQD4?a) On .NET 7/7/2016 - Rowan Miller - Entity Framework
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Angular 2 Switched to TypeScript [[victorsavkin.com]](http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
 
@@ -80,3 +86,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: What three books impacted your career the most? [[news.ycombinator.com]](https://news.ycombinator.com/item?id=12142360)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “If a known rock-star (guaranteed) applied, we'd let them work remotely.” [[news.ycombinator.com]](https://news.ycombinator.com/item?id=12144790)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

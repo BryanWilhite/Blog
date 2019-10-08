@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "There are at least 🖐 five services that can process your static &lt;form&gt; for you: ①       [pageclip.co]        ②…       [twitter.com] A Practical Guide to Angular Elements:       [nitayneeman.com] People keep asking me about CSS Grid \"best practices...",
-  "inceptDate": "2018-08-01T08:48:27.0879352-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“There are at least 🖐 five services that can process your static &lt;form&gt; for you” and other Tweeted links…",
+  "documentShortName": "2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
+  "date": "2018-08-01T15:48:27.087Z",
+  "modificationDate": "2018-08-01T15:48:27.087Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“There are at least 🖐 five services that can process your static &lt;form&gt; for you” and other Tweeted links…"
+  "clientId": "2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"There are at least 🖐 five services that can process your static &lt;form&gt; for you: ①       [pageclip.co]        ②…       [twitter.com] A Practical Guide to Angular Elements:       [nitayneeman.com] People keep asking me about CSS Grid \\\"best practices...\"\r\n}"
 }
 ---
+
+# “There are at least 🖐 five services that can process your static &lt;form&gt; for you” and other Tweeted links…
 
 [<img alt="Chris Coyier [chriscoyier]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chriscoyier.jpg">](https://t.co/EYnTdtblV1 "Chris Coyier [chriscoyier]") There are at least 🖐 five services that can process your static &lt;form&gt; for you: ① [[pageclip.co]](https://pageclip.co/) ②… [[twitter.com]](https://twitter.com/i/web/status/985938790395953152)
 
@@ -108,3 +114,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Oracle Owns "Javascript", so Apple is taking down my app! [[reddit.com]](https://www.reddit.com/r/javascript/comments/8d0bg2/oracle_owns_javascript_so_apple_is_taking_down_my/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Satya Nadella’s smart decisions see MSFT overtake Google’s market cap - [[mspoweruser.com]](https://mspoweruser.com/satya-nadellas-smart-decisions-see-msft-overtake-googles-market-cap/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

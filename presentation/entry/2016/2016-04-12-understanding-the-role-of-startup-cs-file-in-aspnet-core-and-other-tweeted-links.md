@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Understanding The Role of Startup.cs File In #ASPNET Core by @Sunny_Delhi cc @CsharpCorner[c-sharpcorner.com][twitter.com] Answer:Retrieve HTTP POST request containing XML [use of the ancient but mighty ASHX handler] [stackoverflow.com] Check out Microso...",
-  "inceptDate": "2016-04-12T16:43:19.8969301-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "understanding-the-role-of-startup-cs-file-in-aspnet-core-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Understanding The Role of Startup.cs File In #ASPNET Core” and other Tweeted Links…",
+  "documentShortName": "2016-04-12-understanding-the-role-of-startup-cs-file-in-aspnet-core-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-04-12-understanding-the-role-of-startup-cs-file-in-aspnet-core-and-other-tweeted-links",
+  "date": "2016-04-12T23:43:19.896Z",
+  "modificationDate": "2016-04-12T23:43:19.896Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Understanding The Role of Startup.cs File In #ASPNET Core” and other Tweeted Links…"
+  "clientId": "2016-04-12-understanding-the-role-of-startup-cs-file-in-aspnet-core-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Understanding The Role of Startup.cs File In #ASPNET Core by @Sunny_Delhi cc @CsharpCorner[c-sharpcorner.com][twitter.com] Answer:Retrieve HTTP POST request containing XML [use of the ancient but mighty ASHX handler] [stackoverflow.com] Check out Microso...\"\r\n}"
 }
 ---
+
+# “Understanding The Role of Startup.cs File In #ASPNET Core” and other Tweeted Links…
 
 [<img alt="C# Corner [CsharpCorner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CsharpCorner.png">](https://t.co/ZKgCN5XG4O "C# Corner [CsharpCorner]") Understanding The Role of Startup.cs File In [#ASPNET](http://twitter.com/search?q=%23ASPNET) Core by [@Sunny_Delhi](http://twitter.com/Sunny_Delhi) cc [@CsharpCorner](http://twitter.com/CsharpCorner)[[c-sharpcorner.com]](http://www.c-sharpcorner.com/article/understanding-the-role-of-startup-cs-file-in-asp-net-core/)[[twitter.com]](http://twitter.com/CsharpCorner/status/716573517710368768/photo/1)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Thinking Big—Ada Lovelace: Mathematician and Visionary [[youtu.be]](https://youtu.be/I8anbtav59s)[@shanselman](http://twitter.com/shanselman)[@taraw](http://twitter.com/taraw)[@tmrDevelops](http://twitter.com/tmrDevelops)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Einstein’s theory about gravitational waves could be confirmed tomorrow [[theverge.com]](http://www.theverge.com/2016/2/10/10958154/einstein-gravitational-waves-ligo-discovery-announcement-live-stream)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

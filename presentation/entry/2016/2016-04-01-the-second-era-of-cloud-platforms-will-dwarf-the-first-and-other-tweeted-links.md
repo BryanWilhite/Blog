@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The second era of cloud platforms will dwarf the first @azure[azure.microsoft.com] “With the imminent release of Angular2, it might be a good time to re-evaluate the use of the MVC pattern” [infoq.com] tried to run bower after following my own notes [son...",
-  "inceptDate": "2016-04-01T15:40:56.1853666-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-second-era-of-cloud-platforms-will-dwarf-the-first-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The second era of cloud platforms will dwarf the first” and other Tweeted Links…",
+  "documentShortName": "2016-04-01-the-second-era-of-cloud-platforms-will-dwarf-the-first-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-04-01-the-second-era-of-cloud-platforms-will-dwarf-the-first-and-other-tweeted-links",
+  "date": "2016-04-01T22:40:56.185Z",
+  "modificationDate": "2016-04-01T22:40:56.185Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The second era of cloud platforms will dwarf the first” and other Tweeted Links…"
+  "clientId": "2016-04-01-the-second-era-of-cloud-platforms-will-dwarf-the-first-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The second era of cloud platforms will dwarf the first @azure[azure.microsoft.com] “With the imminent release of Angular2, it might be a good time to re-evaluate the use of the MVC pattern” [infoq.com] tried to run bower after following my own notes [son...\"\r\n}"
 }
 ---
+
+# “The second era of cloud platforms will dwarf the first” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The second era of cloud platforms will dwarf the first [@azure](http://twitter.com/azure)[[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/the-second-era-of-cloud-platforms-will-dwarf-the-first/)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Einstein’s theory about gravitational waves could be confirmed tomorrow [[theverge.com]](http://www.theverge.com/2016/2/10/10958154/einstein-gravitational-waves-ligo-discovery-announcement-live-stream)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scientists Just Proved Einstein's Theory on Gravitational Waves [[youtu.be]](https://youtu.be/ohih35QId9o)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

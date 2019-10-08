@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Get started with Azure Search in the portal [azure.microsoft.com] [no JSON blobs?] Indexing Documents in Azure Blob Storage with @Azure Search [azure.microsoft.com] Angular OpenID Connect Implicit Flow with IdentityServer4 [damienbod.com] Hi @BryanWilhit...",
-  "inceptDate": "2016-05-12T17:36:40.3732592-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "get-started-with-azure-search-in-the-portal-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Get started with Azure Search in the portal” and other Tweeted Links…",
+  "documentShortName": "2016-05-12-get-started-with-azure-search-in-the-portal-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-05-12-get-started-with-azure-search-in-the-portal-and-other-tweeted-links",
+  "date": "2016-05-13T00:36:40.373Z",
+  "modificationDate": "2016-05-13T00:36:40.373Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Get started with Azure Search in the portal” and other Tweeted Links…"
+  "clientId": "2016-05-12-get-started-with-azure-search-in-the-portal-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Get started with Azure Search in the portal [azure.microsoft.com] [no JSON blobs?] Indexing Documents in Azure Blob Storage with @Azure Search [azure.microsoft.com] Angular OpenID Connect Implicit Flow with IdentityServer4 [damienbod.com] Hi @BryanWilhit...\"\r\n}"
 }
 ---
+
+# “Get started with Azure Search in the portal” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Get started with Azure Search in the portal [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/search-get-started-portal/) [no JSON blobs?]
 
@@ -104,3 +110,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/qVlV9tA7vUc?a) Lumia 650 Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GitHubber wants to revive the first Unix in a PDP-7 emulator [[theregister.co.uk]](http://www.theregister.co.uk/2016/02/29/githubber_wants_to_revive_the_first_unix_in_a_pdp7_emulator/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

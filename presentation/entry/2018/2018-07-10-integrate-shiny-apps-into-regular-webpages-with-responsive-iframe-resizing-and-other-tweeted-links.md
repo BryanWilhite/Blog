@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "New blogpost: Integrate shiny apps into regular webpages with responsive iframe resizing #rstats#rshiny… [twitter.com] Want to learn CSS Grid? Here’s a free full-length course: 14 interactive screencasts to take you from beginner to a… [twitter.com] Usin...",
-  "inceptDate": "2018-07-10T13:14:57.5541352-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "integrate-shiny-apps-into-regular-webpages-with-responsive-iframe-resizing-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Integrate shiny apps into regular webpages with responsive iframe resizing” and other Tweeted links…",
+  "documentShortName": "2018-07-10-integrate-shiny-apps-into-regular-webpages-with-responsive-iframe-resizing-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-10-integrate-shiny-apps-into-regular-webpages-with-responsive-iframe-resizing-and-other-tweeted-links",
+  "date": "2018-07-10T20:14:57.554Z",
+  "modificationDate": "2018-07-10T20:14:57.554Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Integrate shiny apps into regular webpages with responsive iframe resizing” and other Tweeted links…"
+  "clientId": "2018-07-10-integrate-shiny-apps-into-regular-webpages-with-responsive-iframe-resizing-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"New blogpost: Integrate shiny apps into regular webpages with responsive iframe resizing #rstats#rshiny… [twitter.com] Want to learn CSS Grid? Here’s a free full-length course: 14 interactive screencasts to take you from beginner to a… [twitter.com] Usin...\"\r\n}"
 }
 ---
+
+# “Integrate shiny apps into regular webpages with responsive iframe resizing” and other Tweeted links…
 
 [<img alt="Paul Campbell [PaulCampbell91]" src="https://songhay.blob.core.windows.net/shared-social-twitter/PaulCampbell91.jpg">](https://t.co/ejZjPcChAd "Paul Campbell [PaulCampbell91]") New blogpost: Integrate shiny apps into regular webpages with responsive iframe resizing [#rstats](http://twitter.com/search?q=%23rstats)[#rshiny](http://twitter.com/search?q=%23rshiny)… [[twitter.com]](https://twitter.com/i/web/status/974593056170225664)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i did not expect my generation of coders to be in the ~5% on [@StackOverflow](http://twitter.com/StackOverflow)[[insights.stackoverflow.com]](https://insights.stackoverflow.com/survey/2018/#developer-roles)[[twitter.com]](https://twitter.com/BryanWilhite/status/975826663429713920/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") this result reinforces the feeling that not going into management after 10 years of coding means something is "wron… [[twitter.com]](https://twitter.com/i/web/status/975827611497611264)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

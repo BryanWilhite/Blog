@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "“Why is React is taking over front-end development?” [medium.freecodecamp.com] Building your first React Native app on Windows | Adrian Hall [shellmonger.com] framework/migrating-from-angular-1.md at master · aurelia/framework [github.com]@EisenbergEffec...",
-  "inceptDate": "2017-08-22T14:51:46.4331549-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "why-is-react-is-taking-over-front-end-development-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Why is React is taking over front-end development?” and other Tweeted Links…",
+  "documentShortName": "2017-08-22-why-is-react-is-taking-over-front-end-development-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-08-22-why-is-react-is-taking-over-front-end-development-and-other-tweeted-links",
+  "date": "2017-08-22T21:51:46.433Z",
+  "modificationDate": "2017-08-22T21:51:46.433Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Why is React is taking over front-end development?” and other Tweeted Links…"
+  "clientId": "2017-08-22-why-is-react-is-taking-over-front-end-development-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“Why is React is taking over front-end development?” [medium.freecodecamp.com] Building your first React Native app on Windows | Adrian Hall [shellmonger.com] framework/migrating-from-angular-1.md at master · aurelia/framework [github.com]@EisenbergEffec...\"\r\n}"
 }
 ---
+
+# “Why is React is taking over front-end development?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Why is React is taking over front-end development?” [[medium.freecodecamp.com]](https://medium.freecodecamp.com/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
@@ -29,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") New Windows look and feel, Neon, is officially the “Microsoft Fluent Design System” | Ars Technica [[arstechnica.com]](https://arstechnica.com/information-technology/2017/05/new-windows-look-and-feel-neon-is-officially-the-microsoft-fluent-design-system/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft just made it easier to create iOS and Android apps with Windows - The Verge [[theverge.com]](https://www.theverge.com/2017/5/11/15624964/microsoft-build-2017-net-framework-standard-xaml-ios-android-windows) « [Abolade Gbadegesin] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft just made it easier to create iOS and Android apps with Windows - The Verge [[theverge.com]](https://www.theverge.com/2017/5/11/15624964/microsoft-build-2017-net-framework-standard-xaml-ios-android-windows) « [Abolade Gbadegesin]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Krzysztof-Cieslak/vscode-elm: Elm Language Support for Visual Studio Code [[github.com]](https://github.com/Krzysztof-Cieslak/vscode-elm)
 
@@ -75,9 +81,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Cosmos DB: The industry’s first globally-distributed, multi-model database service | Blog | Microsoft Azure [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/azure-cosmos-db-microsofts-globally-distributed-multi-model-database-service/)
 
-[<img alt="vignesh ravichandran [vira1228]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vira1228.jpg">](https://t.co/sPYxuk8ClP "vignesh ravichandran [vira1228]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@TanelPoder](http://twitter.com/TanelPoder) What about google cloud spanner db? I definitely not well versed in either of them. 
+[<img alt="vignesh ravichandran [vira1228]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vira1228.jpg">](https://t.co/sPYxuk8ClP "vignesh ravichandran [vira1228]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@TanelPoder](http://twitter.com/TanelPoder) What about google cloud spanner db? I definitely not well versed in either of them.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@vira1228](http://twitter.com/vira1228)[@TanelPoder](http://twitter.com/TanelPoder) currently unfamiliar with spanner [ [[youtube.com]](https://www.youtube.com/watch?v=IfsTINNCooY) ] but looks like its relational-only 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@vira1228](http://twitter.com/vira1228)[@TanelPoder](http://twitter.com/TanelPoder) currently unfamiliar with spanner [[[youtube.com]](https://www.youtube.com/watch?v=IfsTINNCooY) ] but looks like its relational-only 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Personal Data, Privacy, and the GDPR - Simple Talk [[simple-talk.com]](https://www.simple-talk.com/opinion/opinion-pieces/personal-data-privacy-gdpr/)
 
@@ -91,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The tragedy of 100% code coverage (2016) [[labs.ig.com]](http://labs.ig.com/code-coverage-100-percent-tragedy)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/JVc5udgEaLY?a) 5 AutoMapper tips and tricks - Developer Handbook 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/JVc5udgEaLY?a) 5 AutoMapper tips and tricks - Developer Handbook
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Seven Secrets of Maintainable Codebases [@AdamTornhill](http://twitter.com/AdamTornhill)[[youtube.com]](https://www.youtube.com/watch?v=0oDporwhToQ)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Van driver filmed forcing cyclist off road is sacked by company [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/van-driver-filmed-forcing-cyclist-off-road-sacked-company-329230)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Increased cycling infrastructure leads to 75 per cent crash rate decrease in some U.S. cities, says study [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/increased-cycling-infrastructure-leads-75-per-cent-crash-rate-decrease-u-s-cities-says-study-329920)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

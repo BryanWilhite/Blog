@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "All of the features for my Silverlight BiggestBox are now running in the application. This means that the only expected changes to this application will be related to adding new samples to the application—these additions largely come from my current W2 l...",
-  "inceptDate": "2012-05-18T11:13:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "silverlight-biggestbox-feature-complete-so-what",
+  "documentId": 0,
+  "title": "Silverlight BiggestBox Feature Complete “…So what!”",
+  "documentShortName": "2012-05-18-silverlight-biggestbox-feature-complete-so-what",
+  "fileName": "index.html",
+  "path": "./entry/2012-05-18-silverlight-biggestbox-feature-complete-so-what",
+  "date": "2012-05-18T18:13:00.000Z",
+  "modificationDate": "2012-05-18T18:13:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Silverlight BiggestBox Feature Complete “…So what!”"
+  "clientId": "2012-05-18-silverlight-biggestbox-feature-complete-so-what",
+  "tag": "{\r\n  \"extract\": \"All of the features for my Silverlight BiggestBox are now running in the application. This means that the only expected changes to this application will be related to adding new samples to the application—these additions largely come from my current W2 l...\"\r\n}"
 }
 ---
+
+# Silverlight BiggestBox Feature Complete “…So what!”
 
 [<img alt="Microsoft BUILD conference in Anaheim 9/13/11." src="http://farm7.staticflickr.com/6064/6144570321_b374f0b3a5.jpg">](http://www.flickr.com/photos/buildwindows/6144570321/ "Microsoft BUILD conference in Anaheim 9/13/11.")
 
@@ -40,3 +46,5 @@ Now that I’m really, *really* rambling it may not hurt to mention that being �
 And now… my exclamation of confidence:
 
 Meh.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

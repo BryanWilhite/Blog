@@ -1,19 +1,29 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "There are three areas where Cross-origin resource sharing (CORS) must be configured in the Songhay System:Azure Blob StorageWeb APIApache .htaccessAzure Blob StorageCurrently I am calling CloudBlobClient.SetServiceProperties() to allow selected origins f...",
-  "inceptDate": "2015-03-04T00:00:00",
-  "isPublished": true,
-  "slug": "songhay-studio-cors-coverage",
-  "title": "Songhay Studio: CORS Coverage"
+  "documentId": 0,
+  "title": "Songhay Studio: CORS Coverage",
+  "documentShortName": "2015-03-04-songhay-studio-cors-coverage",
+  "fileName": "index.html",
+  "path": "./entry/2015-03-04-songhay-studio-cors-coverage",
+  "date": "2015-03-04T08:00:00.000Z",
+  "modificationDate": "2015-03-04T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2015-03-04-songhay-studio-cors-coverage",
+  "tag": "{\r\n  \"extract\": \"There are three areas where Cross-origin resource sharing (CORS) must be configured in the Songhay System: Azure Blob StorageWeb APIApache .htaccessAzure Blob StorageCurrently I am calling CloudBlobClient.SetServiceProperties() to allow selected origins f...\"\r\n}"
 }
 ---
 
+# Songhay Studio: CORS Coverage
+
 There are three areas where Cross-origin resource sharing ([CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing)) must be configured in the Songhay System:
 
-1.  Azure Blob Storage
-2.  Web API
-3.  Apache `.htaccess`
+1. Azure Blob Storage
+2. Web API
+3. Apache `.htaccess`
 
 ## Azure Blob Storage
 
@@ -31,8 +41,12 @@ CORS for Web API is currently needed to expose JSON blobs (specifically, `Displa
 
 I had the choice of configuring CORS in the `httpd.config` file(s) (I use XAMPP on Ubuntu) or simply with `.htaccess`. I went with `.htaccess` like this:
 
-    SetEnvIfNoCase Origin "https?://(www\.)?(mysite1\.com|songhaysystem\.com|mysite2\.io)(:\d+)?$" AccessControlAllowOrigin=$0
-    Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
-    Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
+```plaintext
+SetEnvIfNoCase Origin "https?://(www\.)?(mysite1\.com|songhaysystem\.com|mysite2\.io)(:\d+)?$" AccessControlAllowOrigin=$0
+Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
+Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
+```
 
 I am currently experimenting with CORS as I continue the work toward re-releasing kintespace.com. It’s interesting [to see](http://codepen.io/rasx/pen/ykDGi) that Angular JS, its `$sce.trustAsResourceUrl()` method, can be used to load XHTML5 files directly into another web page. Simultaneously, Web API can be used to load static XHTML5 files, shred them into JSON and (Redis?) cache them for repurposing.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

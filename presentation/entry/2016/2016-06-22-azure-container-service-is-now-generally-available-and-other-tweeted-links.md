@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Azure Container Service is now generally available [azure.microsoft.com] “let’s build simple base class for our REST clients” [gunnarpeipman.com] Under the hood of Microsoft's Windows Subsystem for Linux [zdnet.com] “Windows NT kernel forwards the reques...",
-  "inceptDate": "2016-06-22T17:13:10.3755978-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "azure-container-service-is-now-generally-available-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Azure Container Service is now generally available” and other Tweeted Links…",
+  "documentShortName": "2016-06-22-azure-container-service-is-now-generally-available-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-22-azure-container-service-is-now-generally-available-and-other-tweeted-links",
+  "date": "2016-06-23T00:13:10.375Z",
+  "modificationDate": "2016-06-23T00:13:10.375Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Azure Container Service is now generally available” and other Tweeted Links…"
+  "clientId": "2016-06-22-azure-container-service-is-now-generally-available-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Azure Container Service is now generally available [azure.microsoft.com] “let’s build simple base class for our REST clients” [gunnarpeipman.com] Under the hood of Microsoft's Windows Subsystem for Linux [zdnet.com] “Windows NT kernel forwards the reques...\"\r\n}"
 }
 ---
+
+# “Azure Container Service is now generally available” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Container Service is now generally available [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/azure-container-service-is-now-generally-available/)
 
@@ -33,11 +39,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Jarvis: an Amazon Echo clone in your browser [[iceddev.com]](http://iceddev.com/blog/jarvis-an-amazon-echo-clone-in-your-browser/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@mkristensen](http://twitter.com/mkristensen) is there a way to control/configure how Web Essentials auto-downloads a zillion node modules? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@mkristensen](http://twitter.com/mkristensen) is there a way to control/configure how Web Essentials auto-downloads a zillion node modules?
 
-[<img alt="Mads Kristensen [mkristensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mkristensen.jpeg">](http://t.co/uzMyatLQEv "Mads Kristensen [mkristensen]")[@BryanWilhite](http://twitter.com/BryanWilhite) Web Essentials does not download or install node modules 
+[<img alt="Mads Kristensen [mkristensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mkristensen.jpeg">](http://t.co/uzMyatLQEv "Mads Kristensen [mkristensen]")[@BryanWilhite](http://twitter.com/BryanWilhite) Web Essentials does not download or install node modules
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@mkristensen](http://twitter.com/mkristensen) that's a great choice ---sorry about the false accusation :) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@mkristensen](http://twitter.com/mkristensen) that's a great choice ---sorry about the false accusation :)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “In my opinion every self-respecting developer shouldn’t use jQuery and use plain javascript.” [@tmrdevelops](http://twitter.com/tmrdevelops)[[lennydevelops.com]](http://lennydevelops.com/javascript/shouldnt-use-jquery-plain-javascript)
 
@@ -72,3 +78,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Bots, which promise to make us more godlike, are instead revealing our all-too-human shortcomings and pettiness.” [[nytimes.com]](http://www.nytimes.com/2016/04/24/magazine/what-chatbots-reveal-about-our-own-shortcomings.html?_r=0)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top 10 Financial Mistakes Every Software Developer Should Avoid [[acodersjourney.com]](http://www.acodersjourney.com/2016/04/top-10-financial-mistakes-every-software-developer-should-avoid/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

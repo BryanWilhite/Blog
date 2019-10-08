@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Netflix will switch from Silverlight to HTML5, explains what it's waiting for first http://t.co/cmMBb7lwae  Advanced Animations in WPF by Azim Zahir http://t.co/NmZCw4okKg  Every CG artist should watch this video on 'OpenSubDiv': http://t.co/8SfBn7tm0F G...",
-  "inceptDate": "2013-04-27T00:00:00",
-  "isPublished": true,
-  "slug": "netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",
-  "title": "“Netflix will switch from Silverlight to HTML5” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Netflix will switch from Silverlight to HTML5” and other Tweeted Links…",
+  "documentShortName": "2013-04-27-netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-04-27-netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",
+  "date": "2013-04-27T07:00:00.000Z",
+  "modificationDate": "2013-04-27T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-04-27-netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Netflix will switch from Silverlight to HTML5, explains what it's waiting for first http://t.co/cmMBb7lwae  Advanced Animations in WPF by Azim Zahir http://t.co/NmZCw4okKg  Every CG artist should watch this video on 'OpenSubDiv': http://t.co/8SfBn7tm0F G...\"\r\n}"
 }
 ---
+
+# “Netflix will switch from Silverlight to HTML5” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Netflix will switch from Silverlight to HTML5, explains what it's waiting for first [http://t.co/cmMBb7lwae](http://t.co/cmMBb7lwae)</span>
 
@@ -50,3 +60,5 @@
 [<img alt="Anil Dash [anildash]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anildash.jpeg">](http://anildash.com/ "Anil Dash [anildash]") <span>A glimpse of the horrible dystopia [@evgenymorozov](http://twitter.com/evgenymorozov) warned us about: DC residents can now read the laws they must obey. [http://t.co/AUq7DEmsSL](http://t.co/AUq7DEmsSL)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>MySQL's creator on why the future belongs to MariaDB [http://t.co/F3WUD593Et](http://t.co/F3WUD593Et)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

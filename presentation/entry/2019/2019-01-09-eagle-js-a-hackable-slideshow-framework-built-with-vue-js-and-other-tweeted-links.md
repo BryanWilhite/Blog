@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "eagle.js: A hackable slideshow framework built with Vue.js. Contribute to Zulko/eagle.js development by creating an account on GitHub. #vue ★2.1k [github.com][twitter.com] Jan is at #ReactConf17 enjoying talks like cross-platform #dataviz possibilities w...",
-  "inceptDate": "2019-01-09T13:12:20.7981741-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "eagle-js-a-hackable-slideshow-framework-built-with-vue-js-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“eagle.js: A hackable slideshow framework built with Vue.js” and other tweeted links…",
+  "documentShortName": "2019-01-09-eagle-js-a-hackable-slideshow-framework-built-with-vue-js-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-09-eagle-js-a-hackable-slideshow-framework-built-with-vue-js-and-other-tweeted-links",
+  "date": "2019-01-09T21:12:20.798Z",
+  "modificationDate": "2019-01-09T21:12:20.798Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“eagle.js: A hackable slideshow framework built with Vue.js” and other tweeted links…"
+  "clientId": "2019-01-09-eagle-js-a-hackable-slideshow-framework-built-with-vue-js-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"eagle.js: A hackable slideshow framework built with Vue.js. Contribute to Zulko/eagle.js development by creating an account on GitHub. #vue ★2.1k [github.com][twitter.com] Jan is at #ReactConf17 enjoying talks like cross-platform #dataviz possibilities w...\"\r\n}"
 }
 ---
+
+# “eagle.js: A hackable slideshow framework built with Vue.js” and other tweeted links…
 
 [<img alt="GithubTrending [GithubTrending]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/GithubTrending.jpg">](https://twitter.com/GithubTrending) eagle.js: A hackable slideshow framework built with Vue.js. Contribute to Zulko/eagle.js development by creating an account on GitHub. [#vue](http://twitter.com/search?q='%23vue) ★2.1k [[github.com]](https://github.com/Zulko/eagle.js)[[twitter.com]](https://twitter.com/GithubTrending/status/1044528919708389376/photo/1)
 
@@ -19,31 +25,31 @@
 
 [<img alt="React [reactjs]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactjs.png">](http://t.co/EF5xem8t5W) We’ve just released Create React App 2.0, including a year’s worth of improvements. [[reactjs.org]](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)[[twitter.com]](https://twitter.com/reactjs/status/1046933146736963587/photo/1)
 
-[<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptDaily.jpg">](https://twitter.com/JavaScriptDaily) Tabulator: A Fully Featured, Interactive Table JavaScript Library - [[tabulator.info]](http://tabulator.info/) (Create interactive data tables quickly from any HTML table or JavaScript or JSON data source.) 
+[<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptDaily.jpg">](https://twitter.com/JavaScriptDaily) Tabulator: A Fully Featured, Interactive Table JavaScript Library - [[tabulator.info]](http://tabulator.info/) (Create interactive data tables quickly from any HTML table or JavaScript or JSON data source.)
 
 [<img alt="TypeScript [typescriptlang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/typescriptlang.jpg">](https://t.co/p0njgjyy3d) TypeScript 3.1 is out! Now with mapped tuples, easier property declarations on functions, typesVersions, and some handy async/await refactorings! Read all about it on our blog! [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/typescript/announcing-typescript-3-1/)[[twitter.com]](https://twitter.com/typescriptlang/status/1045326697401389057/video/1)
 
-[<img alt="Ben Ilegbodu ⛹🏾‍♂️ [benmvp]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/benmvp.jpg">](https://t.co/fxk9X5BGfi)[@BerkeleyTrue](http://twitter.com/@BerkeleyTrue) I've yet to be convinced of Observables for the masses, but that doesn't mean they aren't the future! 
+[<img alt="Ben Ilegbodu ⛹🏾‍♂️ [benmvp]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/benmvp.jpg">](https://t.co/fxk9X5BGfi)[@BerkeleyTrue](http://twitter.com/@BerkeleyTrue) I've yet to be convinced of Observables for the masses, but that doesn't mean they aren't the future!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Sometimes you don’t have control of your back-end stack and you’re forced to force REST to behave for your client-side UIs. That sucks and Redux really helps in that environment.” [@hackernoon](http://twitter.com/@hackernoon)[[hackernoon.com]](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)[[twitter.com]](https://twitter.com/BryanWilhite/status/1044751946786041856/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i took 23 days to complete an [@angular](http://twitter.com/@angular) feature because of the number of unknowns; [@github](http://twitter.com/@github) records the whole ordeal: [[github.com]](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16#issuecomment-424506471) =&gt; [@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo)[@brandontroberts](http://twitter.com/@brandontroberts)[[twitter.com]](https://twitter.com/BryanWilhite/status/1044702491147829248/photo/1)
 
-[<img alt="Brandon [brandontroberts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brandontroberts.jpg">](https://t.co/8ookNZhlYF)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Nice! You building this up as a learning exercise? 
+[<img alt="Brandon [brandontroberts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brandontroberts.jpg">](https://t.co/8ookNZhlYF)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Nice! You building this up as a learning exercise?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Many thanks, man! This work is for v2 of my tiny company website: [[songhaysystem.com]](http://songhaysystem.com) ---so this is a dogfood thing. BTW: you may notice that I am still using Http and Promises instead of HttpClient ---I'll move away from that later :) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Many thanks, man! This work is for v2 of my tiny company website: [[songhaysystem.com]](http://songhaysystem.com) ---so this is a dogfood thing. BTW: you may notice that I am still using Http and Promises instead of HttpClient ---I'll move away from that later :)
 
-[<img alt="Brandon [brandontroberts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brandontroberts.jpg">](https://t.co/8ookNZhlYF)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Ahh ok cool. Progress is progress 👍🏿 
+[<img alt="Brandon [brandontroberts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brandontroberts.jpg">](https://t.co/8ookNZhlYF)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Ahh ok cool. Progress is progress 👍🏿
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Thanks, again. I am using EventEmitter which the gateway drug into a pure-Observable RESTful strategy and then I will see what Redux and/or GraphQL brings to the table... 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts)[@angular](http://twitter.com/@angular)[@github](http://twitter.com/@github)[@Meligy](http://twitter.com/@Meligy)[@yearofmoo](http://twitter.com/@yearofmoo) Thanks, again. I am using EventEmitter which the gateway drug into a pure-Observable RESTful strategy and then I will see what Redux and/or GraphQL brings to the table...
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Angular 5 - Copy to clipboard” [surprisingly hacky] [[stackoverflow.com]](https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard) =&gt; [@meligy](http://twitter.com/@meligy) [is there a better way?] [[twitter.com]](https://twitter.com/BryanWilhite/status/1045436629161132032/photo/1)
 
-[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) This is not really Angular specific. I'm aware there's a JavaScript clipboard API but it probably requires asking the user for permission, which is a bit ugly, and might be the reason people are reverting to such workarounds. 
+[<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) This is not really Angular specific. I'm aware there's a JavaScript clipboard API but it probably requires asking the user for permission, which is a bit ugly, and might be the reason people are reverting to such workarounds.
 
 [<img alt="Meligy, GuruStop, ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B)[@BryanWilhite](http://twitter.com/@BryanWilhite) This seems to be a good explanation of the browser limitations: [[lucidchart.com]](https://www.lucidchart.com/techblog/2014/12/02/definitive-guide-copying-pasting-javascript/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/JeeUY6WaXiA?a) Reactive Forms - The Basics 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/JeeUY6WaXiA?a) Reactive Forms - The Basics
 
 [<img alt="Tim Anderson [timanderson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/timanderson.jpg">](http://t.co/6j9GSANa8f) Azure Data Explorer: an internal software project "Kusto" now being made available for general use. Store large amounts of data (structured or not) and run fast queries [[azure.microsoft.com]](https://azure.microsoft.com/en-gb/blog/azure-data-explorer-technology-101/)
 
@@ -61,13 +67,13 @@
 
 [<img alt="Max Koretskyi, aka Wizard [maxim_koretskyi]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maxim_koretskyi.jpg">](https://t.co/ipLhHkzwKu) Interesting article that provides some insights into the world of compilers “How Microsoft rewrote its C# compiler in C# and made it open source” by Mads Torgersen [[medium.com]](https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98)[#programming](http://twitter.com/search?q='%23programming)[#SoftwareEngineer](http://twitter.com/search?q='%23SoftwareEngineer)
 
-[<img alt="POST /malone [mikemaccana]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mikemaccana.jpg">](https://t.co/WVa4o0rZGg) "installing ad blocking extensions substantially increases both active time spent in the browser and the number of pages viewed." New research from Mozilla. [[research.mozilla.org]](https://research.mozilla.org/files/2018/04/The-Effect-of-Ad-Blocking-on-User-Engagement-with-the-Web.pdf) Probably because ads/GDPR/cookie warnings now cover most of the content on big media sites. 
+[<img alt="POST /malone [mikemaccana]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mikemaccana.jpg">](https://t.co/WVa4o0rZGg) "installing ad blocking extensions substantially increases both active time spent in the browser and the number of pages viewed." New research from Mozilla. [[research.mozilla.org]](https://research.mozilla.org/files/2018/04/The-Effect-of-Ad-Blocking-on-User-Engagement-with-the-Web.pdf) Probably because ads/GDPR/cookie warnings now cover most of the content on big media sites.
 
-[<img alt="Don Syme [dsyme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dsyme.jpeg">](https://t.co/0enWD7OYV4) On my way to [#openfsharp](http://twitter.com/search?q='%23openfsharp) in San Francisco! Very excited to be attending and speaking! 
+[<img alt="Don Syme [dsyme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dsyme.jpeg">](https://t.co/0enWD7OYV4) On my way to [#openfsharp](http://twitter.com/search?q='%23openfsharp) in San Francisco! Very excited to be attending and speaking!
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ) Tune in now to [@stephen_wolfram](http://twitter.com/@stephen_wolfram) on [@Twitch](http://twitter.com/@Twitch) for the first [#geometry](http://twitter.com/search?q='%23geometry) live design review series: [[stephenwolfram.com]](http://www.stephenwolfram.com/livestreams/)[[twitter.com]](https://twitter.com/WolframResearch/status/1044996769657049090/photo/1)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) If PowerShell has helped you, please take a couple of minutes and share your story with us at [[aka.ms]](https://aka.ms/PowerShell/HeroStories) I'd appreciate it! 
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) If PowerShell has helped you, please take a couple of minutes and share your story with us at [[aka.ms]](https://aka.ms/PowerShell/HeroStories) I'd appreciate it!
 
 [<img alt="Techmeme [Techmeme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Techmeme.jpg">](http://t.co/5vSb1cxdmu) Microsoft says it will no longer develop new features for touch-friendly Office apps for Windows, will instead prioritize the iOS and Android versions ([@tomwarren](http://twitter.com/@tomwarren) / The Verge) [[theverge.com]](http://www.theverge.com/2018/9/28/17913174/microsoft-office-universal-apps-windows-10-development)[[techmeme.com]](http://www.techmeme.com/180928/p19#a180928p19)
 
@@ -85,9 +91,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Skip is an experimental programming language developed at Facebook from 2015-2018. [[skiplang.com]](http://skiplang.com)[[twitter.com]](https://twitter.com/BryanWilhite/status/1045035867125903360/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2010: Readme Driven Development by Tom Preston-Werner [[tom.preston-werner.com]](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) via [@jessitron](http://twitter.com/@jessitron) [[[youtube.com]](https://www.youtube.com/watch?v=cEyjEEK0xuo)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2010: Readme Driven Development by Tom Preston-Werner [[tom.preston-werner.com]](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) via [@jessitron](http://twitter.com/@jessitron) [[[youtube.com]](https://www.youtube.com/watch?v=cEyjEEK0xuo)]
 
-[<img alt="Edward Thomson 🤧😷🤒 [ethomson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ethomson.jpeg">](https://t.co/Dkh3Z3GA2i)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@DonovanBrown](http://twitter.com/@DonovanBrown) Interesting - are you creating a tag as part of the build steps? If so I wonder if your trigger is firing on tag creation. (I notice that those builds are building for a tag, that’s why I’m asking.) 
+[<img alt="Edward Thomson 🤧😷🤒 [ethomson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ethomson.jpeg">](https://t.co/Dkh3Z3GA2i)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@DonovanBrown](http://twitter.com/@DonovanBrown) Interesting - are you creating a tag as part of the build steps? If so I wonder if your trigger is firing on tag creation. (I notice that those builds are building for a tag, that’s why I’m asking.)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@ethomson](http://twitter.com/@ethomson)[@DonovanBrown](http://twitter.com/@DonovanBrown) i think you hit the nail on the head [@ethomson](http://twitter.com/@ethomson); i failed to understand that tagging source touches my repo which causes a build (a loopy situation); i incorrectly assumed that i was tagging/naming my builds [[twitter.com]](https://twitter.com/BryanWilhite/status/1045739153772576768/photo/1)
 
@@ -103,6 +109,8 @@
 
 [<img alt="GithubTrending [GithubTrending]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/GithubTrending.jpg">](https://twitter.com/GithubTrending) microgrants: A list of microgrant programs for your good ideas. ★379 [[github.com]](https://github.com/nayafia/microgrants)[[twitter.com]](https://twitter.com/GithubTrending/status/1046748352409477120/photo/1)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) My physics professor once told me to always attend the visiting researcher talks even thought I didn't understand what they where talking about. His argument was that you learn the area like a child learns a language. First you listen in a confused state. 
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju) My physics professor once told me to always attend the visiting researcher talks even thought I didn't understand what they where talking about. His argument was that you learn the area like a child learns a language. First you listen in a confused state.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Every medium-to-large company I have worked at has asserted ownership of everything I build, at work or away from work, using my own equipment, on my own time—it doesn't matter.” [[news.ycombinator.com]](https://news.ycombinator.com/item?id=18077766) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

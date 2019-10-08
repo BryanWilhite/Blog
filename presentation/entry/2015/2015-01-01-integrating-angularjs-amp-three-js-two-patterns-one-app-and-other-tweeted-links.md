@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Integrating AngularJS &amp; Three.js - Two Patterns, One App http://t.co/D7nEwuPSgD  Planning Angular 1.4 http://t.co/WNrDHXzrFh  Dive into Flexbox, by @_gsmith http://t.co/rTvAqKBZss #bocoup  http://t.co/rwcFExLe7m: a new site to find font deals and fre...",
-  "inceptDate": "2015-01-01T00:00:00",
-  "isPublished": true,
-  "slug": "integrating-angularjs-amp-three-js-two-patterns-one-app-and-other-tweeted-links",
-  "title": "“Integrating AngularJS and Three.js—Two Patterns, One App” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Integrating AngularJS and Three.js—Two Patterns, One App” and other Tweeted Links…",
+  "documentShortName": "2015-01-01-integrating-angularjs-amp-three-js-two-patterns-one-app-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2015-01-01-integrating-angularjs-and-three-js-two-patterns-one-app-and-other-tweeted-links",
+  "date": "2015-01-01T08:00:00.000Z",
+  "modificationDate": "2015-01-01T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2015-01-01-integrating-angularjs-amp-three-js-two-patterns-one-app-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Integrating AngularJS &amp; Three.js - Two Patterns, One App http://t.co/D7nEwuPSgD  Planning Angular 1.4 http://t.co/WNrDHXzrFh  Dive into Flexbox, by @_gsmith http://t.co/rTvAqKBZss #bocoup  http://t.co/rwcFExLe7m: a new site to find font deals and fre...\"\r\n}"
 }
 ---
+
+# “Integrating AngularJS and Three.js—Two Patterns, One App” and other Tweeted Links…
 
 [<img alt="AngularJS News [AngularJS_News]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AngularJS_News.png">](https://t.co/3hnT1SMSRh "AngularJS News [AngularJS_News]") <span>Integrating AngularJS &amp; Three.js - Two Patterns, One App [http://t.co/D7nEwuPSgD](http://t.co/D7nEwuPSgD)</span>
 
@@ -54,3 +64,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Announcing the redesigned F12 developer tools interface [http://t.co/6jt52Bnrk2](http://t.co/6jt52Bnrk2)</span>
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") <span>15 Smart Design Books to Inspire You in 2015 [http://t.co/n8qyYSUyOl](http://t.co/n8qyYSUyOl)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

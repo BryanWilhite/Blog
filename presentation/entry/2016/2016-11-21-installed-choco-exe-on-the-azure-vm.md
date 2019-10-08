@@ -1,30 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "The internet tells me that choco.exe supports updating packages (while the standard PowerShell PackageManagement from Microsoft—formerly OneGet—does not). So the experiment is around the question, Can I use choco.exe with previously installed OneGet pack...",
-  "inceptDate": "2016-11-21T21:36:12.2703118-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "installed-choco-exe-on-the-azure-vm",
+  "documentId": 0,
+  "title": "Installed choco.exe on the Azure VM…",
+  "documentShortName": "2016-11-21-installed-choco-exe-on-the-azure-vm",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-21-installed-choco-exe-on-the-azure-vm",
+  "date": "2016-11-22T05:36:12.270Z",
+  "modificationDate": "2016-11-22T05:36:12.270Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Installed choco.exe on the Azure VM…"
+  "clientId": "2016-11-21-installed-choco-exe-on-the-azure-vm",
+  "tag": "{\r\n  \"extract\": \"The internet tells me that choco.exe supports updating packages (while the standard PowerShell PackageManagement from Microsoft—formerly OneGet—does not). So the experiment is around the question, Can I use choco.exe with previously installed OneGet pack...\"\r\n}"
 }
 ---
 
+# Installed choco.exe on the Azure VM…
+
 The internet tells me that `choco.exe` supports *updating* packages (while the standard PowerShell `PackageManagement` from Microsoft—formerly OneGet—does not). So the experiment is around the question, Can I use `choco.exe` with previously installed OneGet packages from the Chocolatey Provider?
 
-Install choice:
-
-
-iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
-    
-
-First of all, the install process of `choco.exe` threatens to move the old packages from `C:\Chocolatey` to `C:\ProgramData\chocolatey` as this excerpt from the installation warns:
-
-
-Creating Chocolatey folders if they do not already exist.
+Install choice:iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iexFirst of all, the install process of `choco.exe` threatens to move the old packages from `C:\Chocolatey` to `C:\ProgramData\chocolatey` as this excerpt from the installation warns:Creating Chocolatey folders if they do not already exist.
 WARNING: You can safely ignore errors related to missing log files when upgrading from a version of Chocolatey less than 0.9.9.
 'Batch file could not be found' is also safe to ignore.
  'The system cannot find the file specified' - also safe.
@@ -46,21 +43,9 @@ WARNING: This action will result in Log Errors, you can safely ignore those.
  You may need to finish removing 'C:\Chocolatey' manually.
 Attempting to remove 'C:\Chocolatey'. This may fail if something in the folder is being used or locked.
 Ensuring chocolatey commands are on the path
-Ensuring chocolatey.nupkg is in the lib folder
-    
+Ensuring chocolatey.nupkg is in the lib folderHere is the punch line: I never had a `C:\Chocolately` folder! My machine has a OneGet `C:\Packages `folder. However, the `choco.exe` installation appears to have successfully moved all Chocolatey packages from the folder to `C:\ProgramData\chocolatey`.
 
-Here is the punch line: I never had a `C:\Chocolately` folder! My machine has a OneGet `C:\Packages `folder. However, the `choco.exe` installation appears to have successfully moved all Chocolatey packages from the folder to `C:\ProgramData\chocolatey`.
-
-I find this command super-useful:
-
-
-choco upgrade all -y --whatif
-    
-
-This what-if mode report gives me option to upgrade everything or be a bit extra-careful and upgrade packages one by one. Today, I am seeing this:
-
-
-Chocolatey can upgrade 10/18 packages. 0 packages failed.
+I find this command super-useful:choco upgrade all -y --whatifThis what-if mode report gives me option to upgrade everything or be a bit extra-careful and upgrade packages one by one. Today, I am seeing this:Chocolatey can upgrade 10/18 packages. 0 packages failed.
 See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
 Can upgrade:
  - git v2.10.2
@@ -72,19 +57,7 @@ Can upgrade:
  - chocolatey-uninstall.extension v1.2.0
  - filezilla v3.22.2.2
  - git.install v2.10.2
- - notepadplusplus.install v7.2
-    
-
-This is the other command that is super-useful:
-
-
-choco list -localonly –all
-    
-
-This displays output like this:
-
-
-Chocolatey v0.10.3
+ - notepadplusplus.install v7.2This is the other command that is super-useful:choco list -localonly –allThis displays output like this:Chocolatey v0.10.3
 7zip.install 16.02.0.20160811
 autohotkey.portable 1.1.24.02
 autoit.commandline 3.3.14.2
@@ -109,19 +82,7 @@ NAnt 0.92.2
 notepadplusplus 7.2
 notepadplusplus.install 7.2
 sysinternals 2016.08.29
-24 packages installed.
-    
-
-There two things I am seeing in this output. First, I see that the upgrade functionality of `choco.exe` is not much better than the standard (OneGet) stuff because an update simply stacks a new version of the package next to the old one. This implies that I still have to manually uninstall the old package by version number (unless there is some kind of cool command-line option to avoid this) with this:
-
-
-choco uninstall git git.install --version 2.10.1
-    
-
-The results I am seeing from this command does not make me feel great:
-
-
-Chocolatey v0.10.3
+24 packages installed.There two things I am seeing in this output. First, I see that the upgrade functionality of `choco.exe` is not much better than the standard (OneGet) stuff because an update simply stacks a new version of the package next to the old one. This implies that I still have to manually uninstall the old package by version number (unless there is some kind of cool command-line option to avoid this) with this:choco uninstall git git.install --version 2.10.1The results I am seeing from this command does not make me feel great:Chocolatey v0.10.3
 Uninstalling the following packages:
 git;git.install
 git v2.10.1
@@ -132,15 +93,9 @@ Chocolatey uninstalled 1/2 packages. 1 packages failed.
 See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
 Failures
  - git.install (exited 1) - git.install not uninstalled. An error occurred during uninstall:
- Unable to uninstall 'git.install 2.10.1' because 'git 2.10.1' depends on it.
-    
+ Unable to uninstall 'git.install 2.10.1' because 'git 2.10.1' depends on it.I see now that I should have used the `--force` command-line option. To make matters worse, my uninstall command above apparently installed *all* versions of `git`. So I was forced to reinstall `git` to see it listed as a locally-installed package.
 
-I see now that I should have used the `--force` command-line option. To make matters worse, my uninstall command above apparently installed *all* versions of `git`. So I was forced to reinstall `git` to see it listed as a locally-installed package.
-
-Today, Chocolatey is not a sweet experience—especially for any package paired with an `*.install `package. All of the unpaired packages were uninstalled as expected and this is list of locally installed packages:
-
-
-Chocolatey v0.10.3
+Today, Chocolatey is not a sweet experience—especially for any package paired with an `*.install `package. All of the unpaired packages were uninstalled as expected and this is list of locally installed packages:Chocolatey v0.10.3
 7zip.install 16.02.0.20160811
 autohotkey.portable 1.1.24.02
 autoit.commandline 3.3.14.2
@@ -160,19 +115,12 @@ NAnt 0.92.2
 notepadplusplus 7.2
 notepadplusplus.install 7.2
 sysinternals 2016.08.29
-19 packages installed.
-    
-
-Finally, I am assuming for the moment that I need to make sure that there is only *one* version of these packages *at all times* to avoid getting another class of errors:
-
-
-chocolatey-core.extension 1.0
+19 packages installed.Finally, I am assuming for the moment that I need to make sure that there is only *one* version of these packages *at all times* to avoid getting another class of errors:chocolatey-core.extension 1.0
 chocolatey-fosshub.extension 0.2.0
 chocolatey-uninstall.extension 1.1.0
-mm-choco.extension 0.0.3
-    
+mm-choco.extension 0.0.3## Related Links
 
-## Related Links
+* [Commands Reference](https://chocolatey.org/docs/commands-reference)
+* [PowerShellGet and PackageManagement in PowerShell Gallery and GitHub](https://blogs.msdn.microsoft.com/powershell/2016/09/29/powershellget-and-packagemanagement-in-powershell-gallery-and-github/)
 
-*   [Commands Reference](https://chocolatey.org/docs/commands-reference)
-*   [PowerShellGet and PackageManagement in PowerShell Gallery and GitHub](https://blogs.msdn.microsoft.com/powershell/2016/09/29/powershellget-and-packagemanagement-in-powershell-gallery-and-github/)
+@[BryanWilhite](https://twitter.com/BryanWilhite)

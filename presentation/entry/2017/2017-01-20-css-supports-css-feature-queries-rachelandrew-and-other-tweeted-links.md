@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "CSS @supports[davidwalsh.name] [CSS feature queries] &lt;= @rachelandrew GOTO 2016 • You Can Use CSS For That! • Rachel Andrew [youtube.com]@rachelandrew Zooming | CSS-Tricks [css-tricks.com] SVG `use` with External Source | CSS-Tricks [css-tricks.com] C...",
-  "inceptDate": "2017-01-20T12:43:30.7297341-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“CSS @supports [CSS feature queries] &lt;= @rachelandrew” and other Tweeted Links…",
+  "documentShortName": "2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
+  "date": "2017-01-20T20:43:30.729Z",
+  "modificationDate": "2017-01-20T20:43:30.729Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“CSS @supports [CSS feature queries] &lt;= @rachelandrew” and other Tweeted Links…"
+  "clientId": "2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"CSS @supports[davidwalsh.name] [CSS feature queries] &lt;= @rachelandrew GOTO 2016 • You Can Use CSS For That! • Rachel Andrew [youtube.com]@rachelandrew Zooming | CSS-Tricks [css-tricks.com] SVG `use` with External Source | CSS-Tricks [css-tricks.com] C...\"\r\n}"
 }
 ---
+
+# “CSS @supports [CSS feature queries] &lt;= @rachelandrew” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS [@supports](http://twitter.com/supports)[[davidwalsh.name]](https://davidwalsh.name/css-supports) [CSS feature queries] &lt;= [@rachelandrew](http://twitter.com/rachelandrew)
 
@@ -25,7 +31,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding SVG Coordinate Systems and Transformations [[sarasoueidan.com]](https://sarasoueidan.com/blog/svg-coordinate-systems/)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2014: SVG `symbol` a Good Choice for Icons | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/svg-symbol-good-choice-icons/)[@chriscoyier](http://twitter.com/chriscoyier) [why UX folks stop using icon web fonts] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2014: SVG `symbol` a Good Choice for Icons | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/svg-symbol-good-choice-icons/)[@chriscoyier](http://twitter.com/chriscoyier) [why UX folks stop using icon web fonts]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular $broadcast vs. $emit - diffs, pros and cons [[geekswithblogs.net]](http://geekswithblogs.net/renso/archive/2016/12/20/angular-broadcast-vs.-emit---diffs-pros-and-cons.aspx)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lessons from 3,000 technical interviews… [[blog.interviewing.io]](http://blog.interviewing.io/lessons-from-3000-technical-interviews/) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What Graduate School in Theoretical Physics Is Really Like [[nautil.us]](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "A selection of Progressive Web Apps [pwa.rocks] HTML5 DRM Standard Is a Go [tech.slashdot.org] ‟JavaScript development is not fun for me anymore” [medium.com] View Layers and Collections [code.blender.org]@blender_org Processing 100,000 Events Per Second...",
-  "inceptDate": "2018-02-09T15:20:46.4285017-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "a-selection-of-progressive-web-apps-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“A selection of Progressive Web Apps” and other Tweeted Links…",
+  "documentShortName": "2018-02-09-a-selection-of-progressive-web-apps-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-09-a-selection-of-progressive-web-apps-and-other-tweeted-links",
+  "date": "2018-02-09T23:20:46.428Z",
+  "modificationDate": "2018-02-09T23:20:46.428Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“A selection of Progressive Web Apps” and other Tweeted Links…"
+  "clientId": "2018-02-09-a-selection-of-progressive-web-apps-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"A selection of Progressive Web Apps [pwa.rocks] HTML5 DRM Standard Is a Go [tech.slashdot.org] ‟JavaScript development is not fun for me anymore” [medium.com] View Layers and Collections [code.blender.org]@blender_org Processing 100,000 Events Per Second...\"\r\n}"
 }
 ---
+
+# “A selection of Progressive Web Apps” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A selection of Progressive Web Apps [[pwa.rocks]](https://pwa.rocks/)
 
@@ -37,17 +43,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ah, [@msonenote](http://twitter.com/msonenote), I think I answered my own question: [[newsignature.com]](https://www.newsignature.com/articles/onenote-saves-day/)[[twitter.com]](https://twitter.com/BryanWilhite/status/955897773496328192/photo/1)
 
-[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Nice work, Bryan! Is there anything else we can help you with? 
+[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Nice work, Bryan! Is there anything else we can help you with?
 
-[<img alt="OneDrive [onedrive]" src="https://songhay.blob.core.windows.net/shared-social-twitter/onedrive.jpg">](http://t.co/9tnAskPJ3H "OneDrive [onedrive]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hi, Bryan. Are you still needing assistance with anything? 
+[<img alt="OneDrive [onedrive]" src="https://songhay.blob.core.windows.net/shared-social-twitter/onedrive.jpg">](http://t.co/9tnAskPJ3H "OneDrive [onedrive]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hi, Bryan. Are you still needing assistance with anything?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@msonenote](http://twitter.com/msonenote) +[@onedrive](http://twitter.com/onedrive): running the empty OneNote recycle bin command had no effect: it did not delete the corrupted… [[twitter.com]](https://twitter.com/i/web/status/956228977013669888)
 
-[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) We'll be sure to pass this along to our team for further investigation. 
+[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) We'll be sure to pass this along to our team for further investigation.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@msonenote](http://twitter.com/msonenote) I appreciate the forward motion. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@msonenote](http://twitter.com/msonenote) I appreciate the forward motion.
 
-[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Of course! Please let us know if you have any other questions. 
+[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Of course! Please let us know if you have any other questions.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The IOptions&lt;TOption&gt; pattern is truly impressive in [@aspnet](http://twitter.com/aspnet) core [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options) =&gt; [@guardrex](http://twitter.com/guardrex)… [[twitter.com]](https://twitter.com/i/web/status/955931935229947904)
 
@@ -85,13 +91,13 @@
 
 [<img alt="Wes Bos 🔥 [wesbos]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wesbos.jpg">](https://t.co/poIFOQ4h7C "Wes Bos 🔥 [wesbos]") 🔥 Quit find-and-replacing in your code! VS Code's Rename Symbol is the best way to mass-rename things things like c… [[twitter.com]](https://twitter.com/i/web/status/961640939612721154)
 
-[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]") Nice series of posts on [#MSTestV2](http://twitter.com/search?q=%23MSTestV2) from [@meziantou](http://twitter.com/meziantou) taking shape here: [[meziantou.net]](https://www.meziantou.net/). Looking forward to more! 
+[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]") Nice series of posts on [#MSTestV2](http://twitter.com/search?q=%23MSTestV2) from [@meziantou](http://twitter.com/meziantou) taking shape here: [[meziantou.net]](https://www.meziantou.net/). Looking forward to more!
 
 [<img alt="Dave Glick [daveaglick]" src="https://songhay.blob.core.windows.net/shared-social-twitter/daveaglick.jpg">](https://t.co/bYkymtZVcV "Dave Glick [daveaglick]") I've been slowly building out my concept for a site to discover everything .NET - it's been steady progress, but st… [[twitter.com]](https://twitter.com/i/web/status/961368146501423104)
 
 [<img alt="Left of Black [LeftOfBlack]" src="https://songhay.blob.core.windows.net/shared-social-twitter/LeftOfBlack.jpg">](http://t.co/FM5hOWfINi "Left of Black [LeftOfBlack]") Young Robotics Entrepreneur with a Knack for Innovation Secures Massive Deal with Apple [[atlantablackstar.com]](http://atlantablackstar.com/2018/02/06/young-robotics-entrepreneur-knack-innovation-secures-massive-deal-apple/) via [@atlblackstar](http://twitter.com/atlblackstar)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/bKnZnkDQtKw?a) How to Care for Your SSD 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/bKnZnkDQtKw?a) How to Care for Your SSD
 
 [<img alt="Ryan Petersen [typesfast]" src="https://songhay.blob.core.windows.net/shared-social-twitter/typesfast.png">]( "Ryan Petersen [typesfast]") I’m in Seattle and there is currently a line to shop at the grocery store whose entire premise is that you won’t ha… [[twitter.com]](https://twitter.com/i/web/status/955522688268746752)
 
@@ -108,3 +114,5 @@
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") Holy cow I just checked and sure enough, Mr. Brightside is [#98](http://twitter.com/search?q=%2398) in the UK charts at this very moment 🤔[[noisey.vice.com]](https://noisey.vice.com/en_us/article/pg78ky/the-killers-mr-brightside-not-left-uk-charts-since-2004)
 
 [<img alt="Adam Khan [Khanoisseur]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Khanoisseur.jpg">](https://t.co/6UFINkY5JB "Adam Khan [Khanoisseur]") Intuit, maker of TurboTax, spent $11.5 million - more than Apple, Amazon - lobbying the government, including to ki… [[twitter.com]](https://twitter.com/i/web/status/961805509513814016)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Introduction to Using Storybook for Angular: [alligator.io]@alligatorio 🎉🐊 Did you know that CSS Grid makes it easy to overlap things? We can use this common-in-print graphic design touch on… [twitter.com] 25+ #CSS Animation Libraries [cssauthor.com] G...",
-  "inceptDate": "2018-07-11T10:06:28.8034219-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introduction-to-using-storybook-for-angular-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introduction to Using Storybook for Angular” and other Tweeted links…",
+  "documentShortName": "2018-07-11-introduction-to-using-storybook-for-angular-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-11-introduction-to-using-storybook-for-angular-and-other-tweeted-links",
+  "date": "2018-07-11T17:06:28.803Z",
+  "modificationDate": "2018-07-11T17:06:28.803Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introduction to Using Storybook for Angular” and other Tweeted links…"
+  "clientId": "2018-07-11-introduction-to-using-storybook-for-angular-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introduction to Using Storybook for Angular: [alligator.io]@alligatorio 🎉🐊 Did you know that CSS Grid makes it easy to overlap things? We can use this common-in-print graphic design touch on… [twitter.com] 25+ #CSS Animation Libraries [cssauthor.com] G...\"\r\n}"
 }
 ---
+
+# “Introduction to Using Storybook for Angular” and other Tweeted links…
 
 [<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") Introduction to Using Storybook for Angular: [[alligator.io]](https://alligator.io/angular/storybook-angular/)[@alligatorio](http://twitter.com/alligatorio) 🎉🐊
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Susan Tan Rants and Ruminations From A Job Applicant After 100 CS Job Interviews in Silicon Valley… [[twitter.com]](https://twitter.com/i/web/status/974434612175806464)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[talkpython.fm]](https://talkpython.fm/episodes/show/123/lessons-from-100-straight-dev-job-interviews)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Why GraphQL: Advantages, Disadvantages and Alternatives - [robinwieruch.de] Created an Example: Dynamic Dashboard with @Angular Elements and Web Components: 📦 Dynamically adding Custom Elements             🚂 Lazy Loading Custom Elements ➡️ Loading exte...",
-  "inceptDate": "2018-12-07T13:54:09.2945047-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "why-graphql-advantages-disadvantages-and-alternatives-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Why GraphQL: Advantages, Disadvantages and Alternatives” and other tweeted links…",
+  "documentShortName": "2018-12-07-why-graphql-advantages-disadvantages-and-alternatives-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-12-07-why-graphql-advantages-disadvantages-and-alternatives-and-other-tweeted-links",
+  "date": "2018-12-07T21:54:09.294Z",
+  "modificationDate": "2018-12-07T21:54:09.294Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Why GraphQL: Advantages, Disadvantages and Alternatives” and other tweeted links…"
+  "clientId": "2018-12-07-why-graphql-advantages-disadvantages-and-alternatives-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Why GraphQL: Advantages, Disadvantages and Alternatives - [robinwieruch.de] Created an Example: Dynamic Dashboard with @Angular Elements and Web Components: 📦 Dynamically adding Custom Elements             🚂 Lazy Loading Custom Elements ➡️ Loading exte...\"\r\n}"
 }
 ---
+
+# “Why GraphQL: Advantages, Disadvantages and Alternatives” and other tweeted links…
 
 [<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptDaily.jpg">](https://twitter.com/JavaScriptDaily) Why GraphQL: Advantages, Disadvantages and Alternatives - [[robinwieruch.de]](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
 
@@ -85,13 +91,13 @@
 
 [<img alt="blackwomenintech [BWiT_ALL]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BWiT_ALL.jpeg">](https://t.co/Z1JeN5MH6T) Why is this a novel idea? The government is consistently at least 10 years behind in process, design and technology... How tech workers in the government could make everyone’s life easier: ‘Get rid of the paper’ - Recode [[recode.net]](https://www.recode.net/2018/7/2/17523924/matt-cutts-us-digital-service-omb-usa-government-paper-blockchain-kara-swisher-decode-podcast)
 
-[<img alt="Nicolas Rinaudo [NicolasRinaudo]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NicolasRinaudo.jpg">](http://t.co/3JpNsIomMI) Woke up remembering a conversation I had 20 years ago on IRC in which I was really condescending to someone who felt OCaml was a better language than Java, and now I'm going to feel terrible all day long. 
+[<img alt="Nicolas Rinaudo [NicolasRinaudo]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NicolasRinaudo.jpg">](http://t.co/3JpNsIomMI) Woke up remembering a conversation I had 20 years ago on IRC in which I was really condescending to someone who felt OCaml was a better language than Java, and now I'm going to feel terrible all day long.
 
-[<img alt="Mistletonia Guptralalalalalalalala 😘🦌🎄 [soniagupta504]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/soniagupta504.jpg">](https://t.co/vQYxlDJx2z) White folks need to default to trusting the experiences of POC. Full stop. No saying we're exaggerating. No defensiveness. No dismissiveness. No equivocating. POC, especially Black Americans, have had to accept your distorted version of reality as truth for centuries. Enough. 
+[<img alt="Mistletonia Guptralalalalalalalala 😘🦌🎄 [soniagupta504]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/soniagupta504.jpg">](https://t.co/vQYxlDJx2z) White folks need to default to trusting the experiences of POC. Full stop. No saying we're exaggerating. No defensiveness. No dismissiveness. No equivocating. POC, especially Black Americans, have had to accept your distorted version of reality as truth for centuries. Enough.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@soniagupta504](http://twitter.com/@soniagupta504) When employees are pushed by a bored, “friendly,” and nosey manager to share our life experiences, in an impromptu group session, I said once that police chief Daryl Gates tried to kill me in my teen years. This statement caused laughter but never a second thought about accuracy. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@soniagupta504](http://twitter.com/@soniagupta504) When employees are pushed by a bored, “friendly,” and nosey manager to share our life experiences, in an impromptu group session, I said once that police chief Daryl Gates tried to kill me in my teen years. This statement caused laughter but never a second thought about accuracy.
 
-[<img alt="Awmanthisgirl [Awmanthisgirl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Awmanthisgirl.jpg">](https://twitter.com/Awmanthisgirl)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@soniagupta504](http://twitter.com/@soniagupta504) but that's not even a little bit funny... 
+[<img alt="Awmanthisgirl [Awmanthisgirl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Awmanthisgirl.jpg">](https://twitter.com/Awmanthisgirl)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@soniagupta504](http://twitter.com/@soniagupta504) but that's not even a little bit funny...
 
 [<img alt="Grady Booch [Grady_Booch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Grady_Booch.jpg">](https://t.co/FoLx8K2rs7) Ada Lovelace devised the first program. Grace Hopper wrote the first complier. Margaret Hamilton started the field of software engineering. Women have always been and will always be essential to the advance of computing. [[twitter.com]](https://twitter.com/louisemensch/status/1015775582263627776)
 
@@ -106,3 +112,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) How Silicon Valley Fuels an Informal Caste System [[wired.com]](https://www.wired.com/story/how-silicon-valley-fuels-an-informal-caste-system/?mbid=social_twitter_onsiteshare) via [@WIRED](http://twitter.com/@WIRED)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) This heat wave's so bad it's even slowing down U.S. stock trades [[bloomberg.com]](https://www.bloomberg.com/news/articles/2018-07-03/this-heat-wave-s-so-bad-it-s-even-slowing-down-u-s-stock-trades) via [@markets](http://twitter.com/@markets)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

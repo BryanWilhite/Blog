@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Taking Pictures from HTML [simple-talk.com]@xaxat Speaking of long ago, @zeldman and I still admin a @flickr group on just that topic.[flickr.com] Answer:How can I use MVC5 attribute-based routes with a dot/period in them? [stackoverflow.com] Retrieve pl...",
-  "inceptDate": "2016-09-22T15:21:26.4569957-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "taking-pictures-from-html-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Taking Pictures from HTML” and other Tweeted Links…",
+  "documentShortName": "2016-09-22-taking-pictures-from-html-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-22-taking-pictures-from-html-and-other-tweeted-links",
+  "date": "2016-09-22T22:21:26.456Z",
+  "modificationDate": "2016-09-22T22:21:26.456Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Taking Pictures from HTML” and other Tweeted Links…"
+  "clientId": "2016-09-22-taking-pictures-from-html-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Taking Pictures from HTML [simple-talk.com]@xaxat Speaking of long ago, @zeldman and I still admin a @flickr group on just that topic.[flickr.com] Answer:How can I use MVC5 attribute-based routes with a dot/period in them? [stackoverflow.com] Retrieve pl...\"\r\n}"
 }
 ---
+
+# “Taking Pictures from HTML” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Taking Pictures from HTML [[simple-talk.com]](https://www.simple-talk.com/dotnet/asp-net/taking-pictures-html/)
 
@@ -53,9 +59,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Workstation 12.5 Announced! [[blogs.vmware.com]](http://blogs.vmware.com/workstation/2016/08/workstation-12-5-announced.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving from portable40-net45+sl5+win8+wp8 to portable46-net451+win81 in an effort to support UWP (win81 ~ Win10 universal) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving from portable40-net45+sl5+win8+wp8 to portable46-net451+win81 in an effort to support UWP (win81 ~ Win10 universal)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") force $using:localvar in PowerShell [[youtube.com]](https://www.youtube.com/watch?v=ZfKPcLP6314) "may the Force be with you" 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") force $using:localvar in PowerShell [[youtube.com]](https://www.youtube.com/watch?v=ZfKPcLP6314) "may the Force be with you"
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Stop wasting time during .NET Core builds [@donovanbrown](http://twitter.com/donovanbrown)[[donovanbrown.com]](http://www.donovanbrown.com/post.aspx?id=42d9036b-3076-4a13-a9c3-3953bc543206)
 
@@ -88,3 +94,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Use Invoke-WebRequest with a username and password for basic authentication on the GitHub API [[stackoverflow.com]](http://stackoverflow.com/a/27951845/22944?stw=2)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GitHub Issues Do's and Don'ts [[medium.com]](https://medium.com/@jhchen/45-github-issues-dos-and-donts-dfec9ab4b612)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

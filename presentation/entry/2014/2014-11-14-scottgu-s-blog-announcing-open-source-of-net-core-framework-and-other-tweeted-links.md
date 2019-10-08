@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ http://t.co/8ZBU3eP1E3  Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register http://t.co/hr3udmAIIV  Opening up Visu...",
-  "inceptDate": "2014-11-14T00:00:00",
-  "isPublished": true,
-  "slug": "scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",
-  "title": "“ScottGu’s Blog—Announcing Open Source of .NET Core Framework” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“ScottGu’s Blog—Announcing Open Source of .NET Core Framework” and other Tweeted Links…",
+  "documentShortName": "2014-11-14-scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-11-14-scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",
+  "date": "2014-11-14T08:00:00.000Z",
+  "modificationDate": "2014-11-14T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-11-14-scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ http://t.co/8ZBU3eP1E3  Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register http://t.co/hr3udmAIIV  Opening up Visu...\"\r\n}"
 }
 ---
+
+# “ScottGu’s Blog—Announcing Open Source of .NET Core Framework” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ [http://t.co/8ZBU3eP1E3](http://t.co/8ZBU3eP1E3)</span>
 
@@ -46,3 +56,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>The “Synthesize the Experts” Anti-Pattern | DaedTech [http://t.co/WRLmzHYxGV](http://t.co/WRLmzHYxGV)</span>
 
 [<img alt="Jake Boxer [jakeboxer]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jakeboxer.jpeg">](http://t.co/mNIXMXzgEB "Jake Boxer [jakeboxer]") <span>this is what the "internet of things" endgame looks like [http://t.co/XLpGk1yuFm](http://t.co/XLpGk1yuFm)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Getting started with .NET on Linux http://t.co/lMOmAUYwau “Prior to today’s announcement, you needed to launch Docker on an Ubuntu Server…” http://t.co/bZYTfUz2Nx VYBAVA RAMADOSS Creating a mobile app with Famo.us and ManifoldJS - CodeProject - http://t....",
-  "inceptDate": "2015-07-07T15:21:17.2252726-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "getting-started-with-net-on-linux-and-other-mostly-owin-or-web-api-tweeted-links",
+  "documentId": 0,
+  "title": "“Getting started with .NET on Linux” and other mostly-OWIN-or-Web-API Tweeted Links…",
+  "documentShortName": "2015-07-07-getting-started-with-net-on-linux-and-other-mostly-owin-or-web-api-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2015-07-07-getting-started-with-net-on-linux-and-other-mostly-owin-or-web-api-tweeted-links",
+  "date": "2015-07-07T22:21:17.225Z",
+  "modificationDate": "2015-07-07T22:21:17.225Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Getting started with .NET on Linux” and other mostly-OWIN-or-Web-API Tweeted Links…"
+  "clientId": "2015-07-07-getting-started-with-net-on-linux-and-other-mostly-owin-or-web-api-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Getting started with .NET on Linux http://t.co/lMOmAUYwau “Prior to today’s announcement, you needed to launch Docker on an Ubuntu Server…” http://t.co/bZYTfUz2Nx VYBAVA RAMADOSS Creating a mobile app with Famo.us and ManifoldJS - CodeProject - http://t....\"\r\n}"
 }
 ---
+
+# “Getting started with .NET on Linux” and other mostly-OWIN-or-Web-API Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting started with .NET on Linux [http://t.co/lMOmAUYwau](http://t.co/lMOmAUYwau)
 
@@ -80,3 +86,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Five Best Desktop Microphones [http://t.co/jPu9GEWQSU](http://t.co/jPu9GEWQSU)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Are You Overlooking This Way to Make Amazingly Complex Lighting? [@megafunkmega](http://twitter.com/megafunkmega)[http://t.co/7O0apsVrqV](http://t.co/7O0apsVrqV)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

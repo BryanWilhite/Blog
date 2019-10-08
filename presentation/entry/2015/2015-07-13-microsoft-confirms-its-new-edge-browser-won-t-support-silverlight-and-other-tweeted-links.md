@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Microsoft confirms its new Edge browser won't support Silverlight www.windowscentral.com Watch \"Learning from Haskell - Venkat Subramaniam\" on @Vimeovimeo.com top 5 things to do after installing Ubuntu 14.04 LTS (trusty tahr) www.youtube.com How To Insta...",
-  "inceptDate": "2015-07-13T14:13:47.4025461-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "microsoft-confirms-its-new-edge-browser-won-t-support-silverlight-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Microsoft confirms its new Edge browser won’t support Silverlight” and other Tweeted Links…",
+  "documentShortName": "2015-07-13-microsoft-confirms-its-new-edge-browser-won-t-support-silverlight-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2015-07-13-microsoft-confirms-its-new-edge-browser-won-t-support-silverlight-and-other-tweeted-links",
+  "date": "2015-07-13T21:13:47.402Z",
+  "modificationDate": "2015-07-13T21:13:47.402Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Microsoft confirms its new Edge browser won’t support Silverlight” and other Tweeted Links…"
+  "clientId": "2015-07-13-microsoft-confirms-its-new-edge-browser-won-t-support-silverlight-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Microsoft confirms its new Edge browser won't support Silverlight www.windowscentral.com Watch \\\"Learning from Haskell - Venkat Subramaniam\\\" on @Vimeovimeo.com top 5 things to do after installing Ubuntu 14.04 LTS (trusty tahr) www.youtube.com How To Insta...\"\r\n}"
 }
 ---
+
+# “Microsoft confirms its new Edge browser won’t support Silverlight” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft confirms its new Edge browser won't support Silverlight [www.windowscentral.com](http://www.windowscentral.com/microsoft-confirms-its-new-edge-browser-wont-support-its-silverlight-player)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Archiving Email from Outlook, Thunderbird and others [#mailstore](http://search.twitter.com/search?q=%23mailstore)[en.help.mailstore.com](http://en.help.mailstore.com/Archiving_Email_from_Outlook,_Thunderbird_and_others)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") another [@shanselman](http://twitter.com/shanselman) mission: get us a Web Font with all Microsoft logos, starting with the new Azure logo! [I am not being sarcastic.]
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

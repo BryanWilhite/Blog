@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Top accessibility complaints from people with disabilities [axesslab.com] 10 UX Designers to Follow on Instagram for Inspiration [blogs.adobe.com] 8 awesome freebies for web and graphic designers [designer-daily.com] Angular 4 Material Tutorial [youtube....",
-  "inceptDate": "2017-11-24T11:23:15.9830443-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "top-accessibility-complaints-from-people-with-disabilities-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Top accessibility complaints from people with disabilities” and other twinks…",
+  "documentShortName": "2017-11-24-top-accessibility-complaints-from-people-with-disabilities-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-24-top-accessibility-complaints-from-people-with-disabilities-and-other-twinks",
+  "date": "2017-11-24T19:23:15.983Z",
+  "modificationDate": "2017-11-24T19:23:15.983Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Top accessibility complaints from people with disabilities” and other twinks…"
+  "clientId": "2017-11-24-top-accessibility-complaints-from-people-with-disabilities-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Top accessibility complaints from people with disabilities [axesslab.com] 10 UX Designers to Follow on Instagram for Inspiration [blogs.adobe.com] 8 awesome freebies for web and graphic designers [designer-daily.com] Angular 4 Material Tutorial [youtube....\"\r\n}"
 }
 ---
+
+# “Top accessibility complaints from people with disabilities” and other twinks…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top accessibility complaints from people with disabilities [[axesslab.com]](https://axesslab.com/accessibility-according-to-pwd/)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Our Favorite Typefaces of 2016 – Typographica [[typographica.org]](http://typographica.org/features/our-favorite-typefaces-of-2016/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/PpuAqLCraAQ?a) Real World WebAssembly (Chrome Dev Summit 2017) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/PpuAqLCraAQ?a) Real World WebAssembly (Chrome Dev Summit 2017)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Neflix Platform Engineering — we’re just getting started [[medium.com]](https://medium.com/netflix-techblog/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7?source=rss----2615bd06b42e---4)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") iPhone Bugs Are Too Valuable To Report To Apple [[apple.slashdot.org]](https://apple.slashdot.org/story/17/07/06/1551210/iphone-bugs-are-too-valuable-to-report-to-apple?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Indian ISP won’t let its users use strong encryption [[privateinternetaccess.com]](https://www.privateinternetaccess.com/blog/2017/07/indian-isp-wont-let-users-use-128-bit-256-bit-encryption/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

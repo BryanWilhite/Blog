@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "SQL Server for Linux coming in mid-2017 [arstechnica.com] Microsoft is bringing its database software to Linux [theverge.com] I liked a @YouTube video from @danscourses[youtu.be] How to setup remote desktop sharing in Ubuntu Linux w/ VNC “With over a bil...",
-  "inceptDate": "2016-05-13T14:16:24.00155-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "sql-server-for-linux-coming-in-mid-2017-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“SQL Server for Linux coming in mid-2017” and other Tweeted Links…",
+  "documentShortName": "2016-05-13-sql-server-for-linux-coming-in-mid-2017-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-05-13-sql-server-for-linux-coming-in-mid-2017-and-other-tweeted-links",
+  "date": "2016-05-13T21:16:24.001Z",
+  "modificationDate": "2016-05-13T21:16:24.001Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“SQL Server for Linux coming in mid-2017” and other Tweeted Links…"
+  "clientId": "2016-05-13-sql-server-for-linux-coming-in-mid-2017-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"SQL Server for Linux coming in mid-2017 [arstechnica.com] Microsoft is bringing its database software to Linux [theverge.com] I liked a @YouTube video from @danscourses[youtu.be] How to setup remote desktop sharing in Ubuntu Linux w/ VNC “With over a bil...\"\r\n}"
 }
 ---
+
+# “SQL Server for Linux coming in mid-2017” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SQL Server for Linux coming in mid-2017 [[arstechnica.com]](http://arstechnica.com/information-technology/2016/03/sql-server-for-linux-coming-in-mid-2017/)
 
@@ -84,3 +90,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Most Important Code Metrics You’ve Never Heard Of [[daedtech.com]](http://www.daedtech.com/important-code-metrics-youve-never-heard/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Uncle Bob Martin: The Agile Manifesto, 15 years later [[techbeacon.com]](http://techbeacon.com/uncle-bob-martin-agile-manifesto-15-years-later)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

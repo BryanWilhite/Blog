@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt;  http://t.co/jD8UHWpe6y  Caching: the Good, the Bad and the Hype https://t.co/LwPqKJRUDV  It's live! ✏ Understanding #SVG Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preser...",
-  "inceptDate": "2014-07-19T00:00:00",
-  "isPublished": true,
-  "slug": "what-s-new-in-reactiveui-6-0-and-other-tweeted-links",
-  "title": "“What’s new in ReactiveUI 6.0” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“What’s new in ReactiveUI 6.0” and other Tweeted Links…",
+  "documentShortName": "2014-07-19-what-s-new-in-reactiveui-6-0-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-07-19-what-s-new-in-reactiveui-6-0-and-other-tweeted-links",
+  "date": "2014-07-19T07:00:00.000Z",
+  "modificationDate": "2014-07-19T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-07-19-what-s-new-in-reactiveui-6-0-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt;  http://t.co/jD8UHWpe6y  Caching: the Good, the Bad and the Hype https://t.co/LwPqKJRUDV  It's live! ✏ Understanding #SVG Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preser...\"\r\n}"
 }
 ---
+
+# “What’s new in ReactiveUI 6.0” and other Tweeted Links…
 
 [<img alt="Paul Betts [paulcbetts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/paulcbetts.jpeg">](http://t.co/1tmHzDAFNm "Paul Betts [paulcbetts]") <span>What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt; [http://t.co/jD8UHWpe6y](http://t.co/jD8UHWpe6y)</span>
 
@@ -58,3 +68,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>AOC E1649FWU USB Monitor Unboxing (HD): [http://t.co/u1xkZviMS1](http://t.co/u1xkZviMS1) via [@youtube](http://twitter.com/youtube)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Most ATMs Are Still Running Windows XP--Which Is About to Die Off [http://t.co/h64HDd6gnY](http://t.co/h64HDd6gnY)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Better Responsive Images With the picture Element | Nettuts+ http://t.co/SUKPf0MPLA via @nettuts  Ever thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: http://t.co/s5uM7OtEQY by @markodugonjic  Really @dell? No...",
-  "inceptDate": "2014-01-28T00:00:00",
-  "isPublished": true,
-  "slug": "better-responsive-images-with-the-picture-element-and-other-tweeted-links",
-  "title": "“Better Responsive Images With the picture Element” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Better Responsive Images With the picture Element” and other Tweeted Links…",
+  "documentShortName": "2014-01-28-better-responsive-images-with-the-picture-element-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-01-28-better-responsive-images-with-the-picture-element-and-other-tweeted-links",
+  "date": "2014-01-28T08:00:00.000Z",
+  "modificationDate": "2014-01-28T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-01-28-better-responsive-images-with-the-picture-element-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Better Responsive Images With the picture Element | Nettuts+ http://t.co/SUKPf0MPLA via @nettuts  Ever thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: http://t.co/s5uM7OtEQY by @markodugonjic  Really @dell? No...\"\r\n}"
 }
 ---
+
+# “Better Responsive Images With the picture Element” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>Better Responsive Images With the picture Element | Nettuts+ [http://t.co/SUKPf0MPLA](http://t.co/SUKPf0MPLA) via [@nettuts](http://twitter.com/nettuts)</span>
 
@@ -70,3 +80,5 @@
 [<img alt="Carlos Cardona [cgcardona]" src="https://songhay.blob.core.windows.net/shared-social-twitter/cgcardona.jpeg">]( "Carlos Cardona [cgcardona]") <span>One of the cooler [#javascript](http://search.twitter.com/search?q=%23javascript) projects i've seen in a while. [#voxeljs](http://search.twitter.com/search?q=%23voxeljs) [http://t.co/yrM3WbM2pL](http://t.co/yrM3WbM2pL)</span>
 
 [<img alt="africatechie [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "africatechie [africatechie]") <span>The main culprits for startups' diversity problem? Investors [http://t.co/0qPv4eTx3H](http://t.co/0qPv4eTx3H) cc: [@digundiv](http://twitter.com/digundiv) [@women2](http://twitter.com/women2)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

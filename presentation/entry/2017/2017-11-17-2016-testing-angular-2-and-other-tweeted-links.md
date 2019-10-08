@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "2016: Testing Angular 2 | Julie Ralph @SomeJulie[youtube.com] 2014: Julie Ralph End to End Angular Testing with Protractor @SomeJulie[youtube.com] .@Meligy i have been doing the “tour of heroes” @angular tutorial and i ran into you🧐 [github.com] -is… [t...",
-  "inceptDate": "2017-11-17T15:43:37.6574314-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "2016-testing-angular-2-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“2016: Testing Angular 2” and other twinks…",
+  "documentShortName": "2017-11-17-2016-testing-angular-2-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-17-2016-testing-angular-2-and-other-twinks",
+  "date": "2017-11-17T23:43:37.657Z",
+  "modificationDate": "2017-11-17T23:43:37.657Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“2016: Testing Angular 2” and other twinks…"
+  "clientId": "2017-11-17-2016-testing-angular-2-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"2016: Testing Angular 2 | Julie Ralph @SomeJulie[youtube.com] 2014: Julie Ralph End to End Angular Testing with Protractor @SomeJulie[youtube.com] .@Meligy i have been doing the “tour of heroes” @angular tutorial and i ran into you🧐 [github.com] -is… [t...\"\r\n}"
 }
 ---
+
+# “2016: Testing Angular 2” and other twinks…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016: Testing Angular 2 | Julie Ralph [@SomeJulie](http://twitter.com/SomeJulie)[[youtube.com]](https://www.youtube.com/watch?v=f493Xf0F2yU)
 
@@ -19,17 +25,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@Meligy](http://twitter.com/Meligy) i have been doing the “tour of heroes” [@angular](http://twitter.com/angular) tutorial and i ran into you🧐 [[github.com]](https://github.com/ReactiveX/rxjs/issues/2539) -is… [[twitter.com]](https://twitter.com/i/web/status/921182381305761792)
 
-[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) This has been fixed in RxJS 5.4 I think 
+[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) This has been fixed in RxJS 5.4 I think
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Meligy](http://twitter.com/Meligy)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) i just ran `npm install` for [@angular](http://twitter.com/angular) IO and it appears to lock [#rxjs](http://twitter.com/search?q=%23rxjs) to 5.0.1🧐 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Meligy](http://twitter.com/Meligy)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) i just ran `npm install` for [@angular](http://twitter.com/angular) IO and it appears to lock [#rxjs](http://twitter.com/search?q=%23rxjs) to 5.0.1🧐
 
 [<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang)[[npmcdn.com]](https://npmcdn.com/@angular/core/package.json) It says "^5.0.1". "^" means any minor version (5.x.x… [[twitter.com]](https://twitter.com/i/web/status/921523947341979648)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Meligy](http://twitter.com/Meligy)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) cool, i will try that today🐢 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Meligy](http://twitter.com/Meligy)[@angular](http://twitter.com/angular)[@typescriptlang](http://twitter.com/typescriptlang) cool, i will try that today🐢
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CREATING A REUSABLE AURELIA DIALOG COMPONENT [[lukeautry.com]](http://lukeautry.com/Blog/creating-a-reusable-aurelia-dialog)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/AeUCN2lPqL8?a) Safia Abdalla: The Hitchhiker's Guide to All Things Memory in Javascript - JSConf 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/AeUCN2lPqL8?a) Safia Abdalla: The Hitchhiker's Guide to All Things Memory in Javascript - JSConf
 
 [<img alt="The Whitetigle [thewhitetigle]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thewhitetigle.jpg">](https://t.co/PElSyI1vU7 "The Whitetigle [thewhitetigle]")[@MangelMaxime](http://twitter.com/MangelMaxime)[@alfonsogcnunez](http://twitter.com/alfonsogcnunez)[@silverSpoon](http://twitter.com/silverSpoon)[@sforkmann](http://twitter.com/sforkmann)[@airuyi](http://twitter.com/airuyi) Why Fable? Because I do a lot of frontend using JS li… [[twitter.com]](https://twitter.com/i/web/status/930400655252049920)
 
@@ -73,9 +79,9 @@
 
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/gBUhMI3y8i "Julie Lerman [julielerman]") EF Core 2.0.1 was released yesterday. This is a patch release. You can see what got fixed up here: [[github.com]](https://github.com/aspnet/EntityFrameworkCore/releases)
 
-[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") It takes Visual Studio 2 minutes to discover 5000 unit tests 🤔 
+[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") It takes Visual Studio 2 minutes to discover 5000 unit tests 🤔
 
-[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@JamesNK](http://twitter.com/JamesNK)[@VisualStudio](http://twitter.com/VisualStudio) We are working on improving this ... Stay tuned! 
+[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@JamesNK](http://twitter.com/JamesNK)[@VisualStudio](http://twitter.com/VisualStudio) We are working on improving this ... Stay tuned!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Texture: LaTeX like tools for modern scientific development [[github.com]](https://github.com/substance/texture)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “TDD did not live up to expectations” [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/)
 
 [<img alt="Dr Eugenia Cheng [DrEugeniaCheng]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DrEugeniaCheng.jpg">](https://t.co/BeGgL3K58R "Dr Eugenia Cheng [DrEugeniaCheng]") That is from 2015 but the old syllabus is here if you're interested (mostly I've only made logistical changes since… [[twitter.com]](https://twitter.com/i/web/status/931256981075185664)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

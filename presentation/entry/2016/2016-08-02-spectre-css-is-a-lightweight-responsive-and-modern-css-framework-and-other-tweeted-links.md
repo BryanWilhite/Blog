@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Spectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development. [picturepan2.github.io] React native “Pepperoni is a blueprint for building cross-platform mobile experiences rapidly” [getpepperoni.com] Starability...",
-  "inceptDate": "2016-08-02T15:06:09.3379604-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "spectre-css-is-a-lightweight-responsive-and-modern-css-framework-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Spectre.css is a lightweight, responsive and modern CSS framework” and other Tweeted Links…",
+  "documentShortName": "2016-08-02-spectre-css-is-a-lightweight-responsive-and-modern-css-framework-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-02-spectre-css-is-a-lightweight-responsive-and-modern-css-framework-and-other-tweeted-links",
+  "date": "2016-08-02T22:06:09.337Z",
+  "modificationDate": "2016-08-02T22:06:09.337Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Spectre.css is a lightweight, responsive and modern CSS framework” and other Tweeted Links…"
+  "clientId": "2016-08-02-spectre-css-is-a-lightweight-responsive-and-modern-css-framework-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Spectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development. [picturepan2.github.io] React native “Pepperoni is a blueprint for building cross-platform mobile experiences rapidly” [getpepperoni.com] Starability...\"\r\n}"
 }
 ---
+
+# “Spectre.css is a lightweight, responsive and modern CSS framework” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Spectre.css is a lightweight, responsive and modern CSS framework for faster and extensible development. [[picturepan2.github.io]](https://picturepan2.github.io/spectre/)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended by [@sh4na](http://twitter.com/sh4na): The Diamond Age (Bantam Spectra Book) [[amazon.com]](http://www.amazon.com/Diamond-Age-Bantam-Spectra-Book-ebook/dp/B000FBJCKI%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000FBJCKI)[[twitter.com]](http://twitter.com/BryanWilhite/status/735954461680488448/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") you, [@sh4na](http://twitter.com/sh4na), continue to be awesome! [[hanselminutes.com]](http://hanselminutes.com/480/virtual-reality-today-with-andreia-gaita)[@shanselman](http://twitter.com/shanselman)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

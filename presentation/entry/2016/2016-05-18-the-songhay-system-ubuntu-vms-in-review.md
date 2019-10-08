@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The fact that Windows 10 will add a “real” Ubuntu-based bash shell very soon does suggest that I’ll not need Ubuntu VM’s for software development. There are three non-development areas where I think VMs will be in play for quite some time:The Ubuntu VM a...",
-  "inceptDate": "2016-05-18T22:52:24.561753-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-songhay-system-ubuntu-vms-in-review",
+  "documentId": 0,
+  "title": "The Songhay System Ubuntu VMs in review…",
+  "documentShortName": "2016-05-18-the-songhay-system-ubuntu-vms-in-review",
+  "fileName": "index.html",
+  "path": "./entry/2016-05-18-the-songhay-system-ubuntu-vms-in-review",
+  "date": "2016-05-19T05:52:24.561Z",
+  "modificationDate": "2016-05-19T05:52:24.561Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "The Songhay System Ubuntu VMs in review…"
+  "clientId": "2016-05-18-the-songhay-system-ubuntu-vms-in-review",
+  "tag": "{\r\n  \"extract\": \"The fact that Windows 10 will add a “real” Ubuntu-based bash shell very soon does suggest that I’ll not need Ubuntu VM’s for software development. There are three non-development areas where I think VMs will be in play for quite some time:The Ubuntu VM a...\"\r\n}"
 }
 ---
+
+# The Songhay System Ubuntu VMs in review…
 
 The fact that Windows 10 will add a “real” Ubuntu-based bash shell very soon does suggest that I’ll not need Ubuntu VM’s for software development. There are three non-development areas where I think VMs will be in play for quite some time:
 
@@ -30,3 +36,5 @@ Over a decade ago the macro-virus outbreak made Outlook and other desktop email 
 ## The Ubuntu VM as an open-source desktop publishing ‘experiment’
 
 In “[Songhay Studio: second printing of ‘the adolescence of the cool,’ my chapbook, will be based on open source software](http://kintespace.com/rasxlog/?p=3508),” I’m celebrating the use of tools like Scribus and GIMP to design publications. This does not mean that I would not be tempted to rent Adobe After Effects from Adobe but I must take precautions and support “open” alternatives.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

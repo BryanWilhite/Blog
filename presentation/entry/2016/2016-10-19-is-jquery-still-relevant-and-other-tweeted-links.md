@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Is jQuery Still Relevant? [developer.telerik.com]@BryanWilhite@sitepointdotcom hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it?        Some Tips for Minimising the Pain of HTML Input Forms [simple-talk.com]#Bootstrap@Manufe...",
-  "inceptDate": "2016-10-19T15:27:10.5100866-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "is-jquery-still-relevant-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Is jQuery Still Relevant?” and other Tweeted Links…",
+  "documentShortName": "2016-10-19-is-jquery-still-relevant-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-19-is-jquery-still-relevant-and-other-tweeted-links",
+  "date": "2016-10-19T22:27:10.510Z",
+  "modificationDate": "2016-10-19T22:27:10.510Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Is jQuery Still Relevant?” and other Tweeted Links…"
+  "clientId": "2016-10-19-is-jquery-still-relevant-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Is jQuery Still Relevant? [developer.telerik.com]@BryanWilhite@sitepointdotcom hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it?        Some Tips for Minimising the Pain of HTML Input Forms [simple-talk.com]#Bootstrap@Manufe...\"\r\n}"
 }
 ---
 
+# “Is jQuery Still Relevant?” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Is jQuery Still Relevant? [[developer.telerik.com]](http://developer.telerik.com/featured/is-jquery-still-relevant/)
 
-[<img alt="Manufer7 [Manufer7]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Manufer7.jpeg">](https://t.co/FGYR31xflG "Manufer7 [Manufer7]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@sitepointdotcom](http://twitter.com/sitepointdotcom) hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it? 
+[<img alt="Manufer7 [Manufer7]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Manufer7.jpeg">](https://t.co/FGYR31xflG "Manufer7 [Manufer7]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@sitepointdotcom](http://twitter.com/sitepointdotcom) hi, the admin-bar overlapping the Bootstrap navbar-fixed-top. How can I fix it?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Some Tips for Minimising the Pain of HTML Input Forms [[simple-talk.com]](https://www.simple-talk.com/dotnet/asp-net/tips-minimising-pain-html-input-forms/)[#Bootstrap](http://twitter.com/search?q=%23Bootstrap)
 
@@ -61,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “So where can you find .NET Core projects to learn from?” [[jonhilton.net]](https://jonhilton.net/2016/10/12/learning-dotnet-core-by-example/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) Writing component cache... Composing MEF graph... Preparing Solution... 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) Writing component cache... Composing MEF graph... Preparing Solution...
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UML Designers have been removed; Layer Designer now supports live architectural analysis [[ow.ly]](http://ow.ly/vP2c305gsnS)[@VisualStudio](http://twitter.com/VisualStudio)
 
@@ -75,7 +81,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Thanks for the memory: How cheap RAM changes computing [[arstechnica.co.uk]](http://arstechnica.co.uk/gadgets/2016/10/how-cheap-ram-changes-computing/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/efUVh9eME5Y?a) HP Elite x3 review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/efUVh9eME5Y?a) HP Elite x3 review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mathematical Limits to Software Estimation [[scribblethink.org]](http://scribblethink.org/Work/Softestim/softestim.html)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") PayPal co-founder funds Trump and “we” still wonder about [@pocintech](http://twitter.com/pocintech) and [@GirlsWhoCode](http://twitter.com/GirlsWhoCode)? [[youtube.com]](https://www.youtube.com/watch?v=huuCTW4bb3w)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Your Excellent Conference Talk Was Rejected [[promptworks.com]](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

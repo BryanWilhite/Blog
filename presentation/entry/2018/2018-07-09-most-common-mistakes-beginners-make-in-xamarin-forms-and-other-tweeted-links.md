@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Most common mistakes beginners make in Xamarin.Forms [ift.tt]#Xamarin It’s 2018 and I still can’t center a website both vertically and horizontally. Can I use—? Is a great service, but its name is misleading, i.e. even if targeted browsers don’t support ...",
-  "inceptDate": "2018-07-09T14:05:21.3266089-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "most-common-mistakes-beginners-make-in-xamarin-forms-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Most common mistakes beginners make in Xamarin.Forms” and other Tweeted links…",
+  "documentShortName": "2018-07-09-most-common-mistakes-beginners-make-in-xamarin-forms-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-09-most-common-mistakes-beginners-make-in-xamarin-forms-and-other-tweeted-links",
+  "date": "2018-07-09T21:05:21.326Z",
+  "modificationDate": "2018-07-09T21:05:21.326Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Most common mistakes beginners make in Xamarin.Forms” and other Tweeted links…"
+  "clientId": "2018-07-09-most-common-mistakes-beginners-make-in-xamarin-forms-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Most common mistakes beginners make in Xamarin.Forms [ift.tt]#Xamarin It’s 2018 and I still can’t center a website both vertically and horizontally. Can I use—? Is a great service, but its name is misleading, i.e. even if targeted browsers don’t support ...\"\r\n}"
 }
 ---
+
+# “Most common mistakes beginners make in Xamarin.Forms” and other Tweeted links…
 
 [<img alt="Planet Xamarin [PlanetXamarin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/PlanetXamarin.png">](https://t.co/5DHuzFPrPN "Planet Xamarin [PlanetXamarin]") Most common mistakes beginners make in Xamarin.Forms [[ift.tt]](http://ift.tt/2pr2H0Y)[#Xamarin](http://twitter.com/search?q=%23Xamarin)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Bizmonger](http://twitter.com/Bizmonger) What is worse is when one assumes that another does not want feedback because one has taken another and… [[twitter.com]](https://twitter.com/i/web/status/976815009740111872)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Bizmonger](http://twitter.com/Bizmonger) Now I do agree that most North Americans born after 1990 do not want my "free" feedback but eventually t… [[twitter.com]](https://twitter.com/i/web/status/976816632570920961)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Not sure if you want to install Windows 10 or not? I've done the work for you. Complete Video walkthrough here: https://t.co/9C13jnUNwy  Apple software quality ain't what it used to be. http://t.co/PGcXoPPARd  Symantec Splits to Focus on Growth Opportuni...",
-  "inceptDate": "2014-10-13T00:00:00",
-  "isPublished": true,
-  "slug": "not-sure-if-you-want-to-install-windows-10-or-not-and-other-tweeted-links",
-  "title": "“Not sure if you want to install Windows 10 or not?” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Not sure if you want to install Windows 10 or not?” and other Tweeted Links…",
+  "documentShortName": "2014-10-13-not-sure-if-you-want-to-install-windows-10-or-not-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-10-13-not-sure-if-you-want-to-install-windows-10-or-not-and-other-tweeted-links",
+  "date": "2014-10-13T07:00:00.000Z",
+  "modificationDate": "2014-10-13T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-10-13-not-sure-if-you-want-to-install-windows-10-or-not-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Not sure if you want to install Windows 10 or not? I've done the work for you. Complete Video walkthrough here: https://t.co/9C13jnUNwy  Apple software quality ain't what it used to be. http://t.co/PGcXoPPARd  Symantec Splits to Focus on Growth Opportuni...\"\r\n}"
 }
 ---
+
+# “Not sure if you want to install Windows 10 or not?” and other Tweeted Links…
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](http://t.co/YA3jkLZNsD "Scott Hanselman [shanselman]") <span>Not sure if you want to install Windows 10 or not? I've done the work for you. Complete Video walkthrough here: [https://t.co/9C13jnUNwy](https://t.co/9C13jnUNwy)</span>
 
@@ -40,3 +50,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>10 cool things you can do with Wolfram Alpha and Siri | TUAW: Apple news, reviews and how-tos since [http://t.co/XvFhzVV5b1](http://t.co/XvFhzVV5b1)</span>
 
 [<img alt="Damian Madray [themadray]" src="https://songhay.blob.core.windows.net/shared-social-twitter/themadray.jpg">](http://t.co/lLnG7nNAM8 "Damian Madray [themadray]") <span>How Bad UX Killed Jenny — [http://t.co/MJppNgLhTw](http://t.co/MJppNgLhTw)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

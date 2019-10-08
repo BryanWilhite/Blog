@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Windows 10 looking pretty cool, can’t wait to try it out! #Windows10 http://t.co/T2mkliicav  Netflix API : Retiring the Netflix Public API http://t.co/pyHUyoqw0s  Famo.us Demo Day: Episode 1 » Famo.us Blog http://t.co/60BTQrmA8F  Guerilla Research Tactic...",
-  "inceptDate": "2014-10-01T00:00:00",
-  "isPublished": true,
-  "slug": "windows-10-looking-pretty-cool-and-other-tweeted-links",
-  "title": "“Windows 10 looking pretty cool” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Windows 10 looking pretty cool” and other Tweeted Links…",
+  "documentShortName": "2014-10-01-windows-10-looking-pretty-cool-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-10-01-windows-10-looking-pretty-cool-and-other-tweeted-links",
+  "date": "2014-10-01T07:00:00.000Z",
+  "modificationDate": "2014-10-01T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-10-01-windows-10-looking-pretty-cool-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Windows 10 looking pretty cool, can’t wait to try it out! #Windows10 http://t.co/T2mkliicav  Netflix API : Retiring the Netflix Public API http://t.co/pyHUyoqw0s  Famo.us Demo Day: Episode 1 » Famo.us Blog http://t.co/60BTQrmA8F  Guerilla Research Tactic...\"\r\n}"
 }
 ---
+
+# “Windows 10 looking pretty cool” and other Tweeted Links…
 
 [<img alt="Brian Noyes [briannoyes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/briannoyes.jpeg">](http://t.co/QzSU72oAoB "Brian Noyes [briannoyes]") <span>Windows 10 looking pretty cool, can’t wait to try it out! [#Windows10](http://search.twitter.com/search?q=%23Windows10) [http://t.co/T2mkliicav](http://t.co/T2mkliicav)</span>
 
@@ -28,3 +38,5 @@
 [<img alt="Althea Champagnie [Champagnie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Champagnie.jpeg">](http://t.co/gz6AV5nqvS "Althea Champagnie [Champagnie]") <span>Git for Visual Studio Users [http://t.co/r62V84eMr1](http://t.co/r62V84eMr1) by [@renevo](http://twitter.com/renevo) via [@mscurah](http://twitter.com/mscurah)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>NOAA and how not to do a web service | Jamie Dixon's Home [http://t.co/ohIJqCicko](http://t.co/ohIJqCicko)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Creating Custom Tag Helper Components with Jass Bagga | Code Conversations | Channel 9 [channel9.msdn.com] A Pretty Good SVG Icon System [css-tricks.com] Designing The Perfect Accordion [smashingmagazine.com] Updated Chrome Debugging Tools Worth Mentioni...",
-  "inceptDate": "2017-11-01T14:08:32.7203234-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "creating-custom-tag-helper-components-with-jass-bagga-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Creating Custom Tag Helper Components with Jass Bagga” and other Tweeted Links…",
+  "documentShortName": "2017-11-01-creating-custom-tag-helper-components-with-jass-bagga-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-01-creating-custom-tag-helper-components-with-jass-bagga-and-other-tweeted-links",
+  "date": "2017-11-01T21:08:32.720Z",
+  "modificationDate": "2017-11-01T21:08:32.720Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Creating Custom Tag Helper Components with Jass Bagga” and other Tweeted Links…"
+  "clientId": "2017-11-01-creating-custom-tag-helper-components-with-jass-bagga-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Creating Custom Tag Helper Components with Jass Bagga | Code Conversations | Channel 9 [channel9.msdn.com] A Pretty Good SVG Icon System [css-tricks.com] Designing The Perfect Accordion [smashingmagazine.com] Updated Chrome Debugging Tools Worth Mentioni...\"\r\n}"
 }
 ---
+
+# “Creating Custom Tag Helper Components with Jass Bagga” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating Custom Tag Helper Components with Jass Bagga | Code Conversations | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Shows/Code-Conversations/Creating-Custom-Tag-Helper-Components-with-Jass-Bagga)
 
@@ -27,7 +33,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Xamarin.Forms Apps with .NET Standard | Xamarin Blog [[blog.xamarin.com]](https://blog.xamarin.com/building-xamarin-forms-apps-net-standard/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ucUy0CoN57Q?a) Tutorial: How to Start Using Angular 2 with Your Angular 1.X Code Base 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ucUy0CoN57Q?a) Tutorial: How to Start Using Angular 2 with Your Angular 1.X Code Base
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Functional programming in JavaScript is an antipattern [[medium.com]](https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e) » [@Bizmonger](http://twitter.com/Bizmonger)
 
@@ -45,11 +51,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using IActionConstraints in [[asp.net]](http://ASP.NET) Core MVC | StrathWeb. A free flowing web tech monologue. [[strathweb.com]](https://www.strathweb.com/2017/06/using-iactionconstraints-in-asp-net-core-mvc/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@msonenote](http://twitter.com/msonenote)! embedded youtube videos start playing by default --this was not happening a few days ago --feels like a regression🧐 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@msonenote](http://twitter.com/msonenote)! embedded youtube videos start playing by default --this was not happening a few days ago --feels like a regression🧐
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Visual Studio 2017 and Swagger: Building and Documenting Web APIs - Simple Talk [[simple-talk.com]](https://www.simple-talk.com/dotnet/net-development/visual-studio-2017-swagger-building-documenting-web-apis/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ezzSKHYlITY?a) Build smarter apps with Office using the Microsoft Graph - BRK3080 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ezzSKHYlITY?a) Build smarter apps with Office using the Microsoft Graph - BRK3080
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The week in .NET – .NET Architecture: Microservices &amp; Containers, On .NET with Omer Raviv on OzCode, Sprache [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/06/20/the-week-in-net-net-architecture-microservices-containers-on-net-with-omer-raviv-on-ozcode-sprache/)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Writing Concurrent Programs Using F# Mailbox Processors [[codemag.com]](http://www.codemag.com/article/1707051)
 
-[<img alt="Steve Gibson [SGgrc]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SGgrc.png">](http://t.co/nZV0g8h6kf "Steve Gibson [SGgrc]") Tomorrow's Security Now! will provide full and deep coverage of BOTH the KRACK and ROCA attacks. :)~ 
+[<img alt="Steve Gibson [SGgrc]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SGgrc.png">](http://t.co/nZV0g8h6kf "Steve Gibson [SGgrc]") Tomorrow's Security Now! will provide full and deep coverage of BOTH the KRACK and ROCA attacks. :)~
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Exploring the Tech Debt In Your Codebase - DaedTech [[daedtech.com]](http://www.daedtech.com/exploring-tech-debt-codebase/)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Be a Savvy Consumer: Software Licenses Explained - DaedTech [[daedtech.com]](http://www.daedtech.com/savvy-consumer-software-licenses-explained/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Job applicants over 40 filtered out by employers [[uu.se]](https://www.uu.se/en/media/news/article/?id=9014&typ=artikel) [I suspect SpaceX is one of them]
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

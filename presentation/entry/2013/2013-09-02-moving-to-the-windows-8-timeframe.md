@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The move into the Windows 8 timeframe is a historical event for Microsoft. It is a decades-later collective/corporate response to a Steve Jobs comment about IBM: “IBM has no taste.” In spite of the best efforts of luminaries like Alan Cooper, Microsoft t...",
-  "inceptDate": "2013-09-02T00:00:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "moving-to-the-windows-8-timeframe",
+  "documentId": 0,
+  "title": "Moving to the Windows 8 Timeframe",
+  "documentShortName": "2013-09-02-moving-to-the-windows-8-timeframe",
+  "fileName": "index.html",
+  "path": "./entry/2013-09-02-moving-to-the-windows-8-timeframe",
+  "date": "2013-09-02T07:00:00.000Z",
+  "modificationDate": "2013-09-02T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Moving to the Windows 8 Timeframe"
+  "clientId": "2013-09-02-moving-to-the-windows-8-timeframe",
+  "tag": "{\r\n  \"extract\": \"The move into the Windows 8 timeframe is a historical event for Microsoft. It is a decades-later collective/corporate response to a Steve Jobs comment about IBM: “IBM has no taste.” In spite of the best efforts of luminaries like Alan Cooper, Microsoft t...\"\r\n}"
 }
 ---
+
+# Moving to the Windows 8 Timeframe
 
 [<img alt="Building Windows 8 Apps with C# and XAML (Microsoft Windows Development Series)" src="http://ecx.images-amazon.com/images/I/51dkEwmW%2BRL.jpg" style="float:right;margin:16px;">](http://www.amazon.com/Building-Windows-Microsoft-Development-Series/dp/0321822161%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321822161 "Building Windows 8 Apps with C# and XAML (Microsoft Windows Development Series)")
 
@@ -59,33 +65,25 @@ The other problem I cannot fix: from time to time the Guest display will drop do
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
-
 “[Windows 7 sync client for Windows Phone 8 handsets now available](http://wmpoweruser.com/windows-7-sync-client-for-windows-phone-8-handsets-now-available/)”
 </td><td>
-
 “With only a small percentage of Windows users having upgraded to Windows 8, I suspect there are quite a few looking for a sync/phone management client for their new Windows Phone 8 phone to use in Windows 7.”
 </td></tr><tr><td>
-
 “[Amazing Windows 8 Themes You Need To See](http://www.makeuseof.com/tag/amazing-windows-8-themes-you-need-to-see/)”
 </td><td>
-
 “Like previous versions of Windows, Windows 8 doesn’t support third-party desktop themes out of the box. You’ll need to patch some system files. This isn’t is scary as it sounds—all you need to do is download and run UltraUXThemePatcher. You’ll be prompted to reboot your computer after running the installer.”
 </td></tr><tr><td>
-
 “[Guide on replacing your Nokia Lumia 920 battery](http://wmpoweruser.com/guide-on-replacing-your-nokia-lumia-920-battery/)”
 </td><td>
-
 “I am sure the vast majority of us are still fully within our Nokia Lumia 920 warranty period, but I know there are many adventurous souls who do not mind violating their warranty to get things done.”
 </td></tr><tr><td>
-
 “[Nokia Lumia 920 Cell Phone Bluetooth Headsets](http://www.accessorywiz.com/shop-by-brand/nokia-1/nokia-lumia-92-1/bluetooth-headsets-3652/)”
 </td><td>
-
 My [Plantronics M50](http://www.amazon.com/Plantronics-M50-Bluetooth-Headset-Packaging/dp/B005IMB5NG%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005IMB5NG) headset does not pair properly with Nokia Lumia. So I’m forced to look into this…
 </td></tr><tr><td>
-
 “[Nokia Wireless Charging Pillow by Fatboy](http://www.amazon.com/Nokia-DT-901-Wireless-Charging-Pillow/dp/B00A3NCC8C%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00A3NCC8C)”
 </td><td>
-
 “Not sure why these things cost so much. It's basically a base Nokia charging puck inside a bag, big deal. These things should be selling for $60 max IMO. Charging time seems to be on par with when I use my USB cable but just hassle free. I wish the wall plug portion was a bit more [svelte] but whatever.”
 </td></tr></table>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

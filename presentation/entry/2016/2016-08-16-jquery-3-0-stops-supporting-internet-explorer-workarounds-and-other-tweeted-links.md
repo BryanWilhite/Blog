@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "jQuery 3.0 Stops Supporting Internet Explorer Workarounds [developers.slashdot.org] Improvements Coming for Routing in Angular [2.0] [angularjs.blogspot.com] “Use Promise.resolve(..) ..to normalize the returned value into a promise you recognize and trus...",
-  "inceptDate": "2016-08-16T17:19:51.1280214-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "jquery-3-0-stops-supporting-internet-explorer-workarounds-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“jQuery 3.0 Stops Supporting Internet Explorer Workarounds” and other Tweeted Links…",
+  "documentShortName": "2016-08-16-jquery-3-0-stops-supporting-internet-explorer-workarounds-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-16-jquery-3-0-stops-supporting-internet-explorer-workarounds-and-other-tweeted-links",
+  "date": "2016-08-17T00:19:51.128Z",
+  "modificationDate": "2016-08-17T00:19:51.128Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“jQuery 3.0 Stops Supporting Internet Explorer Workarounds” and other Tweeted Links…"
+  "clientId": "2016-08-16-jquery-3-0-stops-supporting-internet-explorer-workarounds-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"jQuery 3.0 Stops Supporting Internet Explorer Workarounds [developers.slashdot.org] Improvements Coming for Routing in Angular [2.0] [angularjs.blogspot.com] “Use Promise.resolve(..) ..to normalize the returned value into a promise you recognize and trus...\"\r\n}"
 }
 ---
+
+# “jQuery 3.0 Stops Supporting Internet Explorer Workarounds” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") jQuery 3.0 Stops Supporting Internet Explorer Workarounds [[developers.slashdot.org]](https://developers.slashdot.org/story/16/06/11/0135250/jquery-30-stops-supporting-internet-explorer-workarounds?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -65,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "format the Word document for Smashwords" &gt; Smashwords converts to mobi &gt; test on Kindle before submission [[goodreads.com]](https://www.goodreads.com/topic/show/969587-please-help-how-do-you-format-for-kindle)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EiUMb7bgYeQ?a) How to Make an eBook EPUB File 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EiUMb7bgYeQ?a) How to Make an eBook EPUB File
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") KindleGen is a command line tool which enables publishers to work in an automated environment... [[amazon.com]](http://www.amazon.com/gp/feature.html?docId=1000765211)
 
@@ -80,3 +86,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I found a vim plug-in vim-latex-preview, written in pure vim script” [[scislab.com]](https://www.scislab.com/en/blog/yong-vimlai-xie-latexwen-dang/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bootcamps Are Lying To You [[medium.com]](https://medium.com/@novohispano/bootcamps-are-lying-to-you-67f74fe4ed73)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Gestalt Theory for       #UX#Design: Principle of Proximity       [tubikstudio.com] Tabbed Interfaces       [inclusive-components.design] Simple Icon Generator       [prefinem.com]#UI ⚛️ Preact, a fast 3KB React alternative with the same API, has just ha...",
-  "inceptDate": "2018-07-25T10:39:00.5700449-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "gestalt-theory-for-ux-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Gestalt Theory for #UX #Design” and other Tweeted links…",
+  "documentShortName": "2018-07-25-gestalt-theory-for-ux-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-25-gestalt-theory-for-ux-design-and-other-tweeted-links",
+  "date": "2018-07-25T17:39:00.570Z",
+  "modificationDate": "2018-07-25T17:39:00.570Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Gestalt Theory for #UX #Design” and other Tweeted links…"
+  "clientId": "2018-07-25-gestalt-theory-for-ux-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Gestalt Theory for       #UX#Design: Principle of Proximity       [tubikstudio.com] Tabbed Interfaces       [inclusive-components.design] Simple Icon Generator       [prefinem.com]#UI ⚛️ Preact, a fast 3KB React alternative with the same API, has just ha...\"\r\n}"
 }
 ---
+
+# “Gestalt Theory for #UX #Design” and other Tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") Gestalt Theory for [#UX](http://twitter.com/search?q=%23UX)[#Design](http://twitter.com/search?q=%23Design): Principle of Proximity [[tubikstudio.com]](https://tubikstudio.com/gestalt-theory-for-ux-design-principle-of-proximity/)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/7ZbVSewN21A?a) Let’s Build A Form Around It - Sani Yusuf
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@saniyusuf](http://twitter.com/saniyusuf) reminds me that FormControl [ [[angular.io]](https://angular.io/api/forms/FormControl)] inherits an invalid property that can be used to… [[twitter.com]](https://twitter.com/i/web/status/989672723738591232)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@saniyusuf](http://twitter.com/saniyusuf) reminds me that FormControl [[[angular.io]](https://angular.io/api/forms/FormControl)] inherits an invalid property that can be used to… [[twitter.com]](https://twitter.com/i/web/status/989672723738591232)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") asycnc-validation, sign-up-form, twitter-form-control etc. [[stackblitz.com]](https://stackblitz.com/@saniyusuf)
 
@@ -112,3 +118,5 @@
 [<img alt="Sam Walters ☕️ [SamuelGWalters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SamuelGWalters.jpg">](https://t.co/oAU5C3e1ms "Sam Walters ☕️ [SamuelGWalters]") In [#Einstein](http://twitter.com/search?q=%23Einstein)'s Special Theory of Relativity, one can say that time is (abstractly) defined in terms of light. Einst… [[twitter.com]](https://twitter.com/i/web/status/989226485075488768)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@SamuelGWalters](http://twitter.com/SamuelGWalters) More of a *relationship* than a definition in this particular gedanken💭
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "My developer experience is spanning over two decades. “Somehow,” I have managed to feed myself and (most) of my children by being a software developer. I put somehow in quotes because that is likely quoting one of the words of the people who have “passed...",
-  "inceptDate": "2017-12-01T22:44:40.9043127-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-three-things-i-have-done-about-failing-in-job-interviews",
+  "documentId": 0,
+  "title": "The Three Things I Have Done about Failing in Job Interviews",
+  "documentShortName": "2017-12-01-the-three-things-i-have-done-about-failing-in-job-interviews",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-01-the-three-things-i-have-done-about-failing-in-job-interviews",
+  "date": "2017-12-02T06:44:40.904Z",
+  "modificationDate": "2017-12-02T06:44:40.904Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "The Three Things I Have Done about Failing in Job Interviews"
+  "clientId": "2017-12-01-the-three-things-i-have-done-about-failing-in-job-interviews",
+  "tag": "{\r\n  \"extract\": \"My developer experience is spanning over two decades. “Somehow,” I have managed to feed myself and (most) of my children by being a software developer. I put somehow in quotes because that is likely quoting one of the words of the people who have “passed...\"\r\n}"
 }
 ---
+
+# The Three Things I Have Done about Failing in Job Interviews
 
 [<img alt="The Algorithm Design Manual" src="https://images-na.ssl-images-amazon.com/images/I/515GcxK1FFL.jpg" style="float:right;margin:16px;">](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1848000693)
 
@@ -19,18 +25,20 @@ My developer experience is spanning over two decades. “Somehow,” I have mana
 
 I deliberately do not put the word *failed* in quotes because I agree with them: I have failed. Where we are likely to disagree are in the details of the failure. The devil is in the details. But before I rant into that, let me go over the three constructive and progressive things I have done in response such failure (in order of appearance):
 
-*   I started using [LINQPad](https://www.linqpad.net/) to [study technical subjects](https://github.com/BryanWilhite/LinqPad) under academic-laboratory conditions.
-*   I started publishing [my life’s work](https://github.com/BryanWilhite) as a programmer on GitHub.
-*   I bought books to study the internals of C#, domain-driven design and algorithms (and data structures).
+* I started using [LINQPad](https://www.linqpad.net/) to [study technical subjects](https://github.com/BryanWilhite/LinqPad) under academic-laboratory conditions.
+* I started publishing [my life’s work](https://github.com/BryanWilhite) as a programmer on GitHub.
+* I bought books to study the internals of C#, domain-driven design and algorithms (and data structures).
 
 Notice that I am not studying anything about the *acting* performance of the interview. No concern for interviewing “technique,” hacks or tricks. This is because I assume (based on experience) that I learned how to *behave* in an interview situation just a few years after leaving college. Any behavior from me regarded as “incorrect” by third parties are not my (primary) concern. (Yes, I do tend to talk “too much” during an interview which makes the suspicious assume that I am stalling to prevent the next question from being asked or the current question from being answered. This habit of mine is a violation of *basic* interview technique.) It is an indicator of incompatibility based on “cultural fit” issues that experience has shown me are often anti-developer (or anti-*professional*-developer). All we have to do is search for “[largest data breach in history](https://www.bing.com/search?q=largest+data+breach+in+history&qs=n&form=QBLH&sp=-1&pq=largest+data+breach+in+history&sc=2-30&sk=&cvid=20B8AC26C6B64D5F96EB0CC87BF10EB0)” and find the companies listed as a “victim” of a breach and then investigate their “culture.”
 
 ## An Idealistic Disagreement over the Meaning of *Professional*
 
 One primary way I fail at job interviews is over the disagreement over the meaning of *professional*. I regard my definition as pure and ultra-conservative:
+
 <blockquote>
 
 A professional is one who can *profess* in public patterns and practices that produce constructive outcomes that are valuable to a business with the intent to make these outcomes reproducible by other professionals.
+
 </blockquote>
 
 In the “real” world, on the street level, a “professional” is someone who knows how to shut their mouth at the “right” times. An interview from a culture that I regard as toxic may speak to me in ways that suggest I am “somehow” unaware of this street-level definition. They may use phrases like “in a perfect world” or even “what do you want to be when you grow up?” to counter my need to conserve meaning.
@@ -73,18 +81,20 @@ Yes, the question was from a technology that I have not worked with daily in ove
 
 ## Related Links
 
-*   “[A 2015 meeting with JPL when I started using LINQ in interviews…](http://songhayblog.azurewebsites.net/entry/a-2015-meeting-with-jpl-when-i-started-using-linq-in-interviews)”
-*   “[Google Interview CUMSUM Challenge](http://songhayblog.azurewebsites.net/entry/google-interview-cumsum-challenge)”
-*   “[Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf)”
-*   “[How We Designed Our Interview Process](https://blog.readme.io/how-we-designed-our-interview-process/)”
-*   “[People are still bad at gauging their own interview performance. Here’s the data.](http://blog.interviewing.io/people-are-still-bad-at-gauging-their-own-interview-performance-heres-the-data/)”
-*   “[The Programming Interview from Hell](http://pythonforengineers.com/the-programming-interview-from-hell/)”
-*   “[Programmers Are Confessing Their Coding Sins To Protest a Broken Job Interview Process](https://developers.slashdot.org/story/17/03/01/1643251/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_source=feedly1.0mainlinkanon&utm_medium=feed)”
-*   “[Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)”
-*   “[Every time I read a tweet about interview Qs for dev jobs I know I would never ever get hired! Good thing I’ve been self employed for 25 yrs](https://twitter.com/julielerman/status/541671152570368000)”
-*   “[My Google Interview and Lessons Learned](https://medium.com/startup-founder-panel/my-google-interview-and-lessons-learned-43109881c521)”
-*   “[Punishment Driven Development with Louise Elliott](https://hanselminutes.com/526/punishment-driven-development-with-louise-elliott)”
-*   “[2016 Software Engineering Internship Amazon Interview Experience](https://modalduality.org/amazon-interview-experience/)”
-*   “[Google’s top boss is stumped by one of his own firm’s interview questions](http://www.bbc.co.uk/newsbeat/article/38169022/googles-top-boss-is-stumped-by-one-of-his-own-firms-interview-questions)”
-*   “[The Job Interview Will Soon Be Dead. Here’s What the Top Companies Are Replacing It With](https://www.inc.com/marcel-schwantes/science-81-percent-of-people-lie-in-job-interviews-heres-what-top-companies-are-.html)”
-*   “[I once failed an interview because I said that humility was important to success…](https://twitter.com/i/web/status/929367789470699520)”
+* “[A 2015 meeting with JPL when I started using LINQ in interviews…](http://songhayblog.azurewebsites.net/entry/a-2015-meeting-with-jpl-when-i-started-using-linq-in-interviews)”
+* “[Google Interview CUMSUM Challenge](http://songhayblog.azurewebsites.net/entry/google-interview-cumsum-challenge)”
+* “[Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf)”
+* “[How We Designed Our Interview Process](https://blog.readme.io/how-we-designed-our-interview-process/)”
+* “[People are still bad at gauging their own interview performance. Here’s the data.](http://blog.interviewing.io/people-are-still-bad-at-gauging-their-own-interview-performance-heres-the-data/)”
+* “[The Programming Interview from Hell](http://pythonforengineers.com/the-programming-interview-from-hell/)”
+* “[Programmers Are Confessing Their Coding Sins To Protest a Broken Job Interview Process](https://developers.slashdot.org/story/17/03/01/1643251/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_source=feedly1.0mainlinkanon&utm_medium=feed)”
+* “[Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)”
+* “[Every time I read a tweet about interview Qs for dev jobs I know I would never ever get hired! Good thing I’ve been self employed for 25 yrs](https://twitter.com/julielerman/status/541671152570368000)”
+* “[My Google Interview and Lessons Learned](https://medium.com/startup-founder-panel/my-google-interview-and-lessons-learned-43109881c521)”
+* “[Punishment Driven Development with Louise Elliott](https://hanselminutes.com/526/punishment-driven-development-with-louise-elliott)”
+* “[2016 Software Engineering Internship Amazon Interview Experience](https://modalduality.org/amazon-interview-experience/)”
+* “[Google’s top boss is stumped by one of his own firm’s interview questions](http://www.bbc.co.uk/newsbeat/article/38169022/googles-top-boss-is-stumped-by-one-of-his-own-firms-interview-questions)”
+* “[The Job Interview Will Soon Be Dead. Here’s What the Top Companies Are Replacing It With](https://www.inc.com/marcel-schwantes/science-81-percent-of-people-lie-in-job-interviews-heres-what-top-companies-are-.html)”
+* “[I once failed an interview because I said that humility was important to success…](https://twitter.com/i/web/status/929367789470699520)”
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

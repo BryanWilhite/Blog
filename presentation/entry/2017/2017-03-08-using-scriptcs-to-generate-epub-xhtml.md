@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "I am embarrassed to admit that I was unaware that EPUB is a highly successful application of XHTMLoutside of the Web browser. It has been a standard of the IDPF for over a decade. My entry into the .NET Framework around 2003 was driven by XPathDocument.a...",
-  "inceptDate": "2017-03-08T18:10:04.0213247-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-scriptcs-to-generate-epub-xhtml",
+  "documentId": 0,
+  "title": "Using scriptcs to Generate EPUB XHTML",
+  "documentShortName": "2017-03-08-using-scriptcs-to-generate-epub-xhtml",
+  "fileName": "index.html",
+  "path": "./entry/2017-03-08-using-scriptcs-to-generate-epub-xhtml",
+  "date": "2017-03-09T02:10:04.021Z",
+  "modificationDate": "2017-03-09T02:10:04.021Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Using scriptcs to Generate EPUB XHTML"
+  "clientId": "2017-03-08-using-scriptcs-to-generate-epub-xhtml",
+  "tag": "{\r\n  \"extract\": \"I am embarrassed to admit that I was unaware that EPUB is a highly successful application of XHTMLoutside of the Web browser. It has been a standard of the IDPF for over a decade. My entry into the .NET Framework around 2003 was driven by XPathDocument.a...\"\r\n}"
 }
 ---
+
+# Using scriptcs to Generate EPUB XHTML
 
 I am embarrassed to admit that I was unaware that [EPUB](https://en.wikipedia.org/wiki/EPUB) is a highly successful application of [XHTML](https://en.wikipedia.org/wiki/XHTML)*outside* of the Web browser. It has been a standard of the [IDPF](https://en.wikipedia.org/wiki/International_Digital_Publishing_Forum) for over a decade. My entry into the .NET Framework around 2003 was driven by [`XPathDocument`](https://msdn.microsoft.com/en-us/library/system.xml.xpath.xpathdocument(v=vs.110).aspx) which gave way to `XDocument` under [LINQ to XML](https://msdn.microsoft.com/en-us/library/mt693062.aspx) (around 2007). My document-centric approach to the .NET Framework (coupled with my [Desktop publishing](https://en.wikipedia.org/wiki/Desktop_publishing) background) makes me more than suited to develop a publishing pipeline for EPUB.
 
@@ -50,9 +56,17 @@ pubContext.WriteBiography();
 pubContext.WriteDedication();
 
 Console.WriteLine("End of script.");
-</code>
+<
+/code>
 
 The screenshot below shows the layout of the EPUB assets (along with the print-publication assets) with respect to `generate-epub.csx` (in the `\scriptcs` folder) in my free, *private* Git repository hosted by Microsoft:
-<div style="text-align:center">[<img src="https://farm4.staticflickr.com/3716/32775732780_9e4cca30be_z_d.jpg" alt="EPUB pipeline in Git repository" title="!*m82">](https://www.flickr.com/photos/wilhite/32775732780/in/dateposted-public/)</div>
+
+<div style="text-align:center">
+
+[<img src="https://farm4.staticflickr.com/3716/32775732780_9e4cca30be_z_d.jpg" alt="EPUB pipeline in Git repository" title="!*m82">](https://www.flickr.com/photos/wilhite/32775732780/in/dateposted-public/)
+
+</div>
 
 Assuming that I have a future, I will go into detail about this intent and this layout for the EPUB pipeline in subsequent Blog posts.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

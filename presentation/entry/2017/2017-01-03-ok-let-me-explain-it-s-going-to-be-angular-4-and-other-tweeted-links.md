@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Angular: Ok... let me explain: it's going to be Angular 4 [ow.ly] CSS Shorthand Syntax Considered an Anti-Pattern by Harry Roberts [ow.ly] “Not only can ASYNC scripts block rendering, they can also block synchronous scripts from executing.” [ow.ly] “you ...",
-  "inceptDate": "2017-01-03T15:41:58.7007249-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "ok-let-me-explain-it-s-going-to-be-angular-4-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Ok… let me explain: it’s going to be Angular 4” and other Tweeted Links…",
+  "documentShortName": "2017-01-03-ok-let-me-explain-it-s-going-to-be-angular-4-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-03-ok-let-me-explain-it-s-going-to-be-angular-4-and-other-tweeted-links",
+  "date": "2017-01-03T23:41:58.700Z",
+  "modificationDate": "2017-01-03T23:41:58.700Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Ok… let me explain: it’s going to be Angular 4” and other Tweeted Links…"
+  "clientId": "2017-01-03-ok-let-me-explain-it-s-going-to-be-angular-4-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Angular: Ok... let me explain: it's going to be Angular 4 [ow.ly] CSS Shorthand Syntax Considered an Anti-Pattern by Harry Roberts [ow.ly] “Not only can ASYNC scripts block rendering, they can also block synchronous scripts from executing.” [ow.ly] “you ...\"\r\n}"
 }
 ---
+
+# “Ok… let me explain: it’s going to be Angular 4” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular: Ok... let me explain: it's going to be Angular 4 [[ow.ly]](http://ow.ly/GhpX3076kqX)
 
@@ -49,17 +55,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “...what exactly makes reactive streams different from Rx?” [[ow.ly]](http://ow.ly/8ioy3077PcX) » [@Odytrice](http://twitter.com/Odytrice)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) I don't really understand Scala. but I was able to get the general gist of it. Thanks 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) I don't really understand Scala. but I was able to get the general gist of it. Thanks
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Use Your GPU in .NET [[ow.ly]](http://ow.ly/hGww3076mI5) =&gt; [@Bizmonger](http://twitter.com/Bizmonger) [make F# version of this?], [@Odytrice](http://twitter.com/Odytrice)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) I think if you are going to do any coding for the GPU in .NET, you should be using [#FSharp](http://twitter.com/search?q=%23FSharp). Its not even a contest 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) I think if you are going to do any coding for the GPU in .NET, you should be using [#FSharp](http://twitter.com/search?q=%23FSharp). Its not even a contest
 
 [<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) If I'm not mistaken, [#fsharp](http://twitter.com/search?q=%23fsharp) already has a pretty good GPU story [[fsharp.org]](http://fsharp.org/use/gpu/)
 
 [<img alt="Daniel Egloff [EgloffDaniel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EgloffDaniel.png">](http://t.co/ZBmjoIoV8U "Daniel Egloff [EgloffDaniel]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger)[@Odytrice](http://twitter.com/Odytrice) No type safety, need use C code as a string, why not all in [#csharp](http://twitter.com/search?q=%23csharp) with [#AleaGPU](http://twitter.com/search?q=%23AleaGPU)[[aleagpu.com]](http://www.aleagpu.com)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) cool... and scala is not my thing either 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) cool... and scala is not my thing either
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Jim Larus who conceived Orleans was one of the creators of Singularity” [[ow.ly]](http://ow.ly/k3BK3077POl)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Should a Programmer Learn to Design? [[ow.ly]](http://ow.ly/hKXG3076mfN)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/psSyM1zp82k?a) Towards a Semantic Language of Mathematics 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/psSyM1zp82k?a) Towards a Semantic Language of Mathematics
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Investors Get Ready for the Coming Electric Car Revolution - WSJ [[ow.ly]](http://ow.ly/69zf3076kEQ)
 
@@ -81,10 +87,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How Microsoft emerged from the darkness to embrace the cloud | The Seattle Times [[ow.ly]](http://ow.ly/tJ6L3073HI4) » [@Bizmonger](http://twitter.com/Bizmonger)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]") Getting really tired of restarting my Windows 10 machine just so it realizes I've put new toner in the printer and it's OK to print now. 
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpeg">](http://t.co/5lDLIXYDXi "Billy Hollis [billyhollis]") Getting really tired of restarting my Windows 10 machine just so it realizes I've put new toner in the printer and it's OK to print now.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Steve Wozniak Was My Computer Teacher in 1995 | Motherboard [[ow.ly]](http://ow.ly/Usix3076Iw9)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") We’re in an industry where we regularly hear that our ideas are bad. [[ow.ly]](http://ow.ly/5Qfa3076nxu)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why China Can't Lure Tech Talent - Slashdot [[ow.ly]](http://ow.ly/zsVv3076nCQ)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

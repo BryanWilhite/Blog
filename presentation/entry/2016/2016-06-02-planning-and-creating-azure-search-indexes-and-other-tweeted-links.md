@@ -1,23 +1,29 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Planning and creating @Azure Search indexes [gunnarpeipman.com]@chaosrealm4 that's great news: I'm planning to Blog about this before the end of the year: [songhayblog.azurewebsites.net]@BryanWilhite Cool! And it will be indexed by #azuresearch blob inde...",
-  "inceptDate": "2016-06-02T22:54:46.1347811-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "planning-and-creating-azure-search-indexes-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Planning and creating @Azure Search indexes” and other Tweeted Links…",
+  "documentShortName": "2016-06-02-planning-and-creating-azure-search-indexes-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-02-planning-and-creating-azure-search-indexes-and-other-tweeted-links",
+  "date": "2016-06-03T05:54:46.134Z",
+  "modificationDate": "2016-06-03T05:54:46.134Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Planning and creating @Azure Search indexes” and other Tweeted Links…"
+  "clientId": "2016-06-02-planning-and-creating-azure-search-indexes-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Planning and creating @Azure Search indexes [gunnarpeipman.com]@chaosrealm4 that's great news: I'm planning to Blog about this before the end of the year: [songhayblog.azurewebsites.net]@BryanWilhite Cool! And it will be indexed by #azuresearch blob inde...\"\r\n}"
 }
 ---
+
+# “Planning and creating @Azure Search indexes” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Planning and creating [@Azure](http://twitter.com/Azure) Search indexes [[gunnarpeipman.com]](http://gunnarpeipman.com/2016/03/planning-and-creating-azure-search-indexes/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@chaosrealm4](http://twitter.com/chaosrealm4) that's great news: I'm planning to Blog about this before the end of the year: [[songhayblog.azurewebsites.net]](http://songhayblog.azurewebsites.net)
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Cool! And it will be indexed by [#azuresearch](http://twitter.com/search?q=%23azuresearch) blob indexer - nice recursion :) 
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) Cool! And it will be indexed by [#azuresearch](http://twitter.com/search?q=%23azuresearch) blob indexer - nice recursion :)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using the WebJobs feature of Windows Azure Web Sites, curated by Rick Anderson [[docs.com]](https://docs.com/rick-anderson-1/3369/using-the-webjobs-feature-of-windows-azure-web)
 
@@ -25,9 +31,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How WebAPI does Parameter Binding [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/jmstall/2012/04/16/how-webapi-does-parameter-binding/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") to bypass [FromBody] binding/casting use var xml = await this.Request.Content.ReadAsStringAsync(); in public async Task&lt;IHttpActionResult&gt; 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") to bypass [FromBody] binding/casting use var xml = await this.Request.Content.ReadAsStringAsync(); in public async Task&lt;IHttpActionResult&gt;
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Web API POST ([FromBody]XElement xml) signature works; ([FromBody]XDocument xml) or ([FromBody]string xml) do not. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Web API POST ([FromBody]XElement xml) signature works; ([FromBody]XDocument xml) or ([FromBody]string xml) do not.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FromBody not binding string parameter [[stackoverflow.com]](http://stackoverflow.com/q/11515319/22944?stw=2)
 
@@ -55,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") State of affairs: Bootstrap 4 vs Foundation 6.2 [[dannyherran.com]](http://dannyherran.com/2016/03/state-of-affairs-bootstrap-4-vs-foundation-6/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/COviCoUtwx4?a) Netflix JavaScript Talks - RxJS Version 5 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/COviCoUtwx4?a) Netflix JavaScript Talks - RxJS Version 5
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “JavaScripts’s ‘everything-in-modules’ approach which..increases the chances of something breaking” [@tmrdevelops](http://twitter.com/tmrdevelops)[[medium.com]](https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f)
 
@@ -106,3 +112,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “If 301 or 302, look for a Location header, which will contain the ‘expanded URL’” [no need for [@longurl](http://twitter.com/longurl)] [[stackoverflow.com]](http://stackoverflow.com/a/2569869/22944)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") the [@longurl](http://twitter.com/longurl) API and the web main web site are down :(
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

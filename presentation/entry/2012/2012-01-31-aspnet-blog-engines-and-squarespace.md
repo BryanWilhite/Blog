@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-01-31-aspnet-blog-engines-and-squarespace",
-  "tag": "{\r\n  \"extract\": \"Hi wired world. This is my first entry for this new blog—so it makes a bit of sense to write about the ASP.NET-based Blog engines with which I experimented (to start this blog):Orchard CMS is an MVC application so I preferred this. The problem is with my...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Hi wired world. This is my first entry for this new blog—so it makes a bit of sense to write about the ASP.NET-based Blog engines with which I experimented (to start this blog): Orchard CMS is an MVC application so I preferred this. The problem is with my...\"\r\n}"
 }
 ---
 

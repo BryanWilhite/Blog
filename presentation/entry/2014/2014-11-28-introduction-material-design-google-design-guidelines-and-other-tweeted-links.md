@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Introduction - Material design - Google design guidelines http://t.co/hXqcfSsahD @romafied  Sublime Text for Front End Developers http://t.co/dQ6EZDSMjS +@wesbos @chriscoyier  Devoxx 2014 Interviews: Intro to Polymer - YouTube https://t.co/RoJmKR8nxg  We...",
-  "inceptDate": "2014-11-28T00:00:00",
-  "isPublished": true,
-  "slug": "introduction-material-design-google-design-guidelines-and-other-tweeted-links",
-  "title": "“Introduction—Material design—Google design guidelines” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Introduction—Material design—Google design guidelines” and other Tweeted Links…",
+  "documentShortName": "2014-11-28-introduction-material-design-google-design-guidelines-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-11-28-introduction-material-design-google-design-guidelines-and-other-tweeted-links",
+  "date": "2014-11-28T08:00:00.000Z",
+  "modificationDate": "2014-11-28T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-11-28-introduction-material-design-google-design-guidelines-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introduction - Material design - Google design guidelines http://t.co/hXqcfSsahD @romafied  Sublime Text for Front End Developers http://t.co/dQ6EZDSMjS +@wesbos @chriscoyier  Devoxx 2014 Interviews: Intro to Polymer - YouTube https://t.co/RoJmKR8nxg  We...\"\r\n}"
 }
 ---
+
+# “Introduction—Material design—Google design guidelines” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Introduction - Material design - Google design guidelines [http://t.co/hXqcfSsahD](http://t.co/hXqcfSsahD) [@romafied](http://twitter.com/romafied)</span>
 
@@ -38,3 +48,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Firefox Ditches Google Default Search for Yahoo - Softpedia [http://t.co/eh3b9wu36Q](http://t.co/eh3b9wu36Q)</span>
 
 [<img alt="Jonathan Sampson [jonathansampson]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonathansampson.png">](http://t.co/c0f6O8jX3I "Jonathan Sampson [jonathansampson]") <span>Stack Overflow supplants MSDN as official platform for Internet Explorer Web Development support. [https://t.co/QwMUJ2J03k](https://t.co/QwMUJ2J03k)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

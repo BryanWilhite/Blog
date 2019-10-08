@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "A Friendly Introduction to Machine Learning [youtube.com] A Gentle Introduction To Machine Learning; SciPy 2013 Presentation [youtube.com] Deep Learning [deeplearning.stanford.edu]@stanford Need a Math refresher?? =&gt; “Learning AI if You Suck at Math” ...",
-  "inceptDate": "2017-01-31T13:41:44.2176306-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "a-friendly-introduction-to-machine-learning-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“A Friendly Introduction to Machine Learning” and other Tweeted Links…",
+  "documentShortName": "2017-01-31-a-friendly-introduction-to-machine-learning-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-31-a-friendly-introduction-to-machine-learning-and-other-tweeted-links",
+  "date": "2017-01-31T21:41:44.217Z",
+  "modificationDate": "2017-01-31T21:41:44.217Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“A Friendly Introduction to Machine Learning” and other Tweeted Links…"
+  "clientId": "2017-01-31-a-friendly-introduction-to-machine-learning-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"A Friendly Introduction to Machine Learning [youtube.com] A Gentle Introduction To Machine Learning; SciPy 2013 Presentation [youtube.com] Deep Learning [deeplearning.stanford.edu]@stanford Need a Math refresher?? =&gt; “Learning AI if You Suck at Math” ...\"\r\n}"
 }
 ---
+
+# “A Friendly Introduction to Machine Learning” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Friendly Introduction to Machine Learning [[youtube.com]](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 
@@ -27,7 +33,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Narrative Browser Using Articulate.js | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/using-the-speech-synthesis-api-to-create-articulate-js/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HttpResponse.PushPromise Method (String, String, NameValueCollection) (System.Web) [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/dn823340(v=vs.110).aspx) [HTTP/2 support in [@aspnet](http://twitter.com/aspnet)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HttpResponse.PushPromise Method (String, String, NameValueCollection) (System.Web) [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/dn823340(v=vs.110).aspx) [HTTP/2 support in [@aspnet](http://twitter.com/aspnet)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ColorMe / CSS Color Level 4 | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/colorme-css-color-level-4/)
 
@@ -55,23 +61,23 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") scriptcs: “Recently the decision was made to aim for a 1.0 release including…(Possible) Running on .NET core” [[github.com]](https://github.com/scriptcs/scriptcs/wiki/1.0)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Installing svm on Linux · scriptcs-contrib/svm Wiki [[github.com]](https://github.com/scriptcs-contrib/svm/wiki/Installing%20svm%20on%20Linux) [still no .NET Core?] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Installing svm on Linux · scriptcs-contrib/svm Wiki [[github.com]](https://github.com/scriptcs-contrib/svm/wiki/Installing%20svm%20on%20Linux) [still no .NET Core?]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building on Mac and Linux · scriptcs/scriptcs Wiki · GitHub [[github.com]](https://github.com/scriptcs/scriptcs/wiki/Building-on-Mac-and-Linux)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies | StrathWeb. [[strathweb.com]](http://www.strathweb.com/2016/03/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies/) [UWP has no scriptcs support] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies | StrathWeb. [[strathweb.com]](http://www.strathweb.com/2016/03/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies/) [UWP has no scriptcs support]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Running C# scripts and snippets in Visual Studio Code with scriptcs | StrathWeb. A free flowing web tech monologue. [[strathweb.com]](http://www.strathweb.com/2015/11/running-c-scripts-and-snippets-in-visual-studio-code-with-scriptcs/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) UI/UX should also showcase how to orchestrate and visualize threading instead of just freezing -in spite of 3rd-party plugins 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) UI/UX should also showcase how to orchestrate and visualize threading instead of just freezing -in spite of 3rd-party plugins
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hello, Bryan. This info about Concurrency Visualizer might come in handy: [[msft.it]](http://msft.it/60108rVH4). Keep in touch. 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Hello, Bryan. This info about Concurrency Visualizer might come in handy: [[msft.it]](http://msft.it/60108rVH4). Keep in touch.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) your reply indicates your complete misunderstanding of my simple, original statement. I was referring to VS2015 itself. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) your reply indicates your complete misunderstanding of my simple, original statement. I was referring to VS2015 itself.
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Sorry for the misunderstanding, Bryan. We've already passed this suggestion to the appropriate team. 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Sorry for the misunderstanding, Bryan. We've already passed this suggestion to the appropriate team.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) thx! 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) thx! 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Coding is not ‘fun’, it’s technically and ethically complex | Aeon Ideas [[aeon.co]](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding OutOfMemoryException – IndexOutOfRange [[indexoutofrange.com]](http://indexoutofrange.com/Understanding-OutOfMemoryException/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Code Smells: Raw Strings and the Subtle Syntax Catastrophe - Simple Talk [[simple-talk.com]](https://www.simple-talk.com/dotnet/net-development/code-smells-raw-strings-subtle-syntax-catastrophe/) [case for dedicated builders] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Code Smells: Raw Strings and the Subtle Syntax Catastrophe - Simple Talk [[simple-talk.com]](https://www.simple-talk.com/dotnet/net-development/code-smells-raw-strings-subtle-syntax-catastrophe/) [case for dedicated builders]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") With the Rise of DevOps, Perl Shows Its Muscle [[i-programmer.info]](http://www.i-programmer.info/programming/perl/9649-with-the-rise-of-devops-perl-shows-its-muscle.html)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Born for IT? - How the Image of Software Developers came about • Birgitta Böckeler [[youtube.com]](https://www.youtube.com/watch?v=wk1r4XaWwsM) =&gt; [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Melba Roy - Female Computer | Melba Roy headed the group of … | Flickr [[flickr.com]](https://www.flickr.com/photos/nasacommons/9467783474/in/dateposted/) =&gt; [@iAyori](http://twitter.com/iAyori),… [[twitter.com]](https://twitter.com/i/web/status/824667138854187010)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

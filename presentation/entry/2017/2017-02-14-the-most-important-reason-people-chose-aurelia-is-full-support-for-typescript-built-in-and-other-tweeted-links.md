@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "“The most important reason people chose Aurelia is: Full support for Typescript built in” [slant.co] « @EisenbergEffect “Angular 2 should not call itself stable” [gushi75.wordpress.com][asp.net] Web API, Angular2, TypeScript and WebApiClientGen - CodePro...",
-  "inceptDate": "2017-02-14T14:30:29.0446819-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-most-important-reason-people-chose-aurelia-is-full-support-for-typescript-built-in-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The most important reason people chose Aurelia is: Full support for Typescript built in” and other Tweeted Links…",
+  "documentShortName": "2017-02-14-the-most-important-reason-people-chose-aurelia-is-full-support-for-typescript-built-in-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-02-14-the-most-important-reason-people-chose-aurelia-is-full-support-for-typescript-built-in-and-other-tweeted-links",
+  "date": "2017-02-14T22:30:29.044Z",
+  "modificationDate": "2017-02-14T22:30:29.044Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The most important reason people chose Aurelia is: Full support for Typescript built in” and other Tweeted Links…"
+  "clientId": "2017-02-14-the-most-important-reason-people-chose-aurelia-is-full-support-for-typescript-built-in-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“The most important reason people chose Aurelia is: Full support for Typescript built in” [slant.co] « @EisenbergEffect “Angular 2 should not call itself stable” [gushi75.wordpress.com][asp.net] Web API, Angular2, TypeScript and WebApiClientGen - CodePro...\"\r\n}"
 }
 ---
+
+# “The most important reason people chose Aurelia is: Full support for Typescript built in” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “The most important reason people chose Aurelia is: Full support for Typescript built in” [[slant.co]](https://www.slant.co/versus/11378/37/~vue-js_vs_aurelia) « [@EisenbergEffect](http://twitter.com/EisenbergEffect)
 
@@ -31,17 +37,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to Akka.Cluster.Sharding in [[akka.net]](http://Akka.NET) | Petabridge [[petabridge.com]](https://petabridge.com/blog/introduction-to-cluster-sharding-akkadotnet/) » [@Odytrice](http://twitter.com/Odytrice)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) What a co-incidence, I'm studying this right now.. Thanks 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) What a co-incidence, I'm studying this right now.. Thanks
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) My current challenge is setting up load balanced webservers that are talking to an [[akka.net]](http://Akka.Net) Cluster. 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) My current challenge is setting up load balanced webservers that are talking to an [[akka.net]](http://Akka.Net) Cluster.
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) The twist is that I need messages from the actor system to be broadcasted to all web servers so that the user can get notified 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) The twist is that I need messages from the actor system to be broadcasted to all web servers so that the user can get notified
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) Irrespective of which server any of his/her devices are connected to. The problem is twisting my brain 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite) Irrespective of which server any of his/her devices are connected to. The problem is twisting my brain
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) cool voodoo! There are two dudes I recommend for your current study: [@hoopsomuah](http://twitter.com/hoopsomuah) [Orleans] and [@shanselman](http://twitter.com/shanselman) [he’ll find you a guy] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) cool voodoo! There are two dudes I recommend for your current study: [@hoopsomuah](http://twitter.com/hoopsomuah) [Orleans] and [@shanselman](http://twitter.com/shanselman) [he’ll find you a guy]
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@hoopsomuah](http://twitter.com/hoopsomuah)[@shanselman](http://twitter.com/shanselman) Thanks 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@hoopsomuah](http://twitter.com/hoopsomuah)[@shanselman](http://twitter.com/shanselman) Thanks
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Printing [PDF] from [[asp.net]](http://ASP.NET) MVC [[simple-talk.com]](https://www.simple-talk.com/dotnet/asp-net/printing-asp-net-mvc/)
 
@@ -81,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don’t You Dare Try to Teach Science Without Building Models | WIRED [[wired.com]](https://www.wired.com/2017/01/dont-dare-try-teach-science-without-building-models/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google, Facebook, and the Rest of the Silicon Valley Crowd Need More Physicists | WIRED [[wired.com]](https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/) [Newton’s method] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google, Facebook, and the Rest of the Silicon Valley Crowd Need More Physicists | WIRED [[wired.com]](https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/) [Newton’s method]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple’s culture of secrecy wore down Swift creator &amp; Xcode lead Chris Lattner, say friends [Update] | 9to5Mac [[9to5mac.com]](https://9to5mac.com/2017/01/13/why-chris-lattner-left-apple/)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: Is it possible to make $200K/year base salary? | Hacker News [[news.ycombinator.com]](https://news.ycombinator.com/item?id=13407214)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a classic: Programming the Moist Robot | Scott Adams' Blog [[blog.dilbert.com]](http://blog.dilbert.com/post/102627971721/programming-the-moist-robot)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

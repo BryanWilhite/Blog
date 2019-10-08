@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "When I hear the word “studio,” I visualize a place of study. My life “style” when it is briefly recognized (by me) as such would be a studio-centric lifestyle. My guess is that every proclaimed life-long learner has some kind of ‘studio system’ to suppor...",
-  "inceptDate": "2012-11-05T16:00:00-08:00",
-  "isPublished": true,
-  "slug": "another-slather-of-hardware-to-supposedly-make-my-life-better",
-  "title": "Another Slather of Hardware to Supposedly Make My Life Better"
+  "documentId": 0,
+  "title": "Another Slather of Hardware to Supposedly Make My Life Better",
+  "documentShortName": "2012-11-05-another-slather-of-hardware-to-supposedly-make-my-life-better",
+  "fileName": "index.html",
+  "path": "./entry/2012-11-05-another-slather-of-hardware-to-supposedly-make-my-life-better",
+  "date": "2012-11-06T00:00:00.000Z",
+  "modificationDate": "2012-11-06T00:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-11-05-another-slather-of-hardware-to-supposedly-make-my-life-better",
+  "tag": "{\r\n  \"extract\": \"When I hear the word “studio,” I visualize a place of study. My life “style” when it is briefly recognized (by me) as such would be a studio-centric lifestyle. My guess is that every proclaimed life-long learner has some kind of ‘studio system’ to suppor...\"\r\n}"
 }
 ---
+
+# Another Slather of Hardware to Supposedly Make My Life Better
 
 [<img alt="Farm-Tuff Flatbed Wagon - 48in.L x 24in.W, 1000-Lb. Capacity, Model# FRW" src="http://ecx.images-amazon.com/images/I/31iMjLT7oQL.jpg" style="float:left;margin:16px;">](http://www.amazon.com/Farm-Tuff-Flatbed-Wagon-1000-Lb-Capacity/dp/B0000AX6M9%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0000AX6M9 "Farm-Tuff Flatbed Wagon - 48in.L x 24in.W, 1000-Lb. Capacity, Model# FRW")
 
@@ -22,9 +32,9 @@ Simultaneously, I do feel the dread that more RAM will not solve the problem of 
 
 Dread aside, [my celebrated Sager notebook](http://kintespace.com/rasxlog/?s=sager&submit=Search) has more than paid for itself since its introduction (to me) back in 2009. Were it not for its 4GB limit, I would use it until the keys drop off. It makes perfect sense then to just get another Sager—with a &gt;4GB limit, 15.6" (16:9) Full HD (1920x1080) and S/PDIF support (as of today that would be the [NP6350](http://sagernotebook.com/index.php?page=product_info&model_name=NP6350)). I am tempted to experiment with more “metro”-like hardware (like [the stuff of on stage with Steve Ballmer at Build 2012](http://channel9.msdn.com/Events/Build/2012/1-001)) but I must remember that:
 
-*   I am very likely to lose [S/PDIF support](http://kintespace.com/rasxlog/?p=1673) when I move away from Sager (but this might be a non-issue in view of [some USB-based audio peripheral](http://www.amazon.com/Syba-Digital-Optical-Output-SD-AUD20101/dp/B006SF68P2%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B006SF68P2) I am currently unaware of…).
-*   I am not very impressed with the skin-grease funk (fomite transmission) related to touch surfaces (see “[Study: Touch screen devices harbor germs](http://www.zdnet.com/blog/gadgetreviews/study-touch-screen-devices-harbor-germs/18938)”). I’m almost certain that I prefer a high-quality touch pad rather than smearing my hands all over a big screen.
-*   Only time will tell… it looks like I’ll want a tablet (with touch and “metro” goodness) that has an e-reader monochrome mode that rivals the simplest Kindle. Instead of trying to get an all-in-one laptop/tablet thing, I should look for an all-in-one tablet/direct-sunlight-reader thing (see ‘Eliminating Kilos of Technical Books with Some Kind of Reader’ below)…
+* I am very likely to lose [S/PDIF support](http://kintespace.com/rasxlog/?p=1673) when I move away from Sager (but this might be a non-issue in view of [some USB-based audio peripheral](http://www.amazon.com/Syba-Digital-Optical-Output-SD-AUD20101/dp/B006SF68P2%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B006SF68P2) I am currently unaware of…).
+* I am not very impressed with the skin-grease funk (fomite transmission) related to touch surfaces (see “[Study: Touch screen devices harbor germs](http://www.zdnet.com/blog/gadgetreviews/study-touch-screen-devices-harbor-germs/18938)”). I’m almost certain that I prefer a high-quality touch pad rather than smearing my hands all over a big screen.
+* Only time will tell… it looks like I’ll want a tablet (with touch and “metro” goodness) that has an e-reader monochrome mode that rivals the simplest Kindle. Instead of trying to get an all-in-one laptop/tablet thing, I should look for an all-in-one tablet/direct-sunlight-reader thing (see ‘Eliminating Kilos of Technical Books with Some Kind of Reader’ below)…
 
 ## Projecting My Portable Display to a Very Large Monitor
 
@@ -61,9 +71,11 @@ The last studio machine [I built in 2011](http://kintespace.com/rasxlog/?p=2676)
 
 Even though this Silverstone case is huge it will lay low—horizontally—on my wacky Farm Tuff wagon. So it should actually *feel* smaller than the vertical desktop on the rig now. My intention is that this Silverstone case (or something like it) will be my *final* statement on “desktop” (studio) computing. These are some of my proclamations:
 
-*   Not only are computers too hot, they need room for big-ass graphics cards.
-*   I don’t think a “real” computer can be as quiet as a fan-less Mac Mini but I’ll try to make it quiet with these expensive fans anyway.
-*   Dragging a heap of silicon and metal around on a wagon makes bookends on my life—as I started out life as a little boy dragging around a wagon covered in a heap of dirt and plastic toys.
-*   I am trying to make a study space like that of an old, master painter’s studio. Instead of huge canvases in an open space speckled with colorful toxic chemicals, I see huge monitors in an open sunlit space, trying desperately to be eco-friendly.
+* Not only are computers too hot, they need room for big-ass graphics cards.
+* I don’t think a “real” computer can be as quiet as a fan-less Mac Mini but I’ll try to make it quiet with these expensive fans anyway.
+* Dragging a heap of silicon and metal around on a wagon makes bookends on my life—as I started out life as a little boy dragging around a wagon covered in a heap of dirt and plastic toys.
+* I am trying to make a study space like that of an old, master painter’s studio. Instead of huge canvases in an open space speckled with colorful toxic chemicals, I see huge monitors in an open sunlit space, trying desperately to be eco-friendly.
 
 There will always be work. I’m looking for the best space for mine. I’m building it with one idea at a time.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

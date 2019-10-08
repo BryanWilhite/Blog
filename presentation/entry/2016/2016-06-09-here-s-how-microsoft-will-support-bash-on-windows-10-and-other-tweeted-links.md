@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Here's how Microsoft will support Bash on Windows 10 [zdnet.com] Ubuntu’s bash and Linux command line coming to Windows 10 [arstechnica.com] “This is an genuine Ubuntu image on top of Windows with all the Linux tools I use like awk, sed, grep..” @shansel...",
-  "inceptDate": "2016-06-09T19:01:33.7058803-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "here-s-how-microsoft-will-support-bash-on-windows-10-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Here’s how Microsoft will support Bash on Windows 10” and other Tweeted Links…",
+  "documentShortName": "2016-06-09-here-s-how-microsoft-will-support-bash-on-windows-10-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-09-here-s-how-microsoft-will-support-bash-on-windows-10-and-other-tweeted-links",
+  "date": "2016-06-10T02:01:33.705Z",
+  "modificationDate": "2016-06-10T02:01:33.705Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Here’s how Microsoft will support Bash on Windows 10” and other Tweeted Links…"
+  "clientId": "2016-06-09-here-s-how-microsoft-will-support-bash-on-windows-10-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Here's how Microsoft will support Bash on Windows 10 [zdnet.com] Ubuntu’s bash and Linux command line coming to Windows 10 [arstechnica.com] “This is an genuine Ubuntu image on top of Windows with all the Linux tools I use like awk, sed, grep..” @shansel...\"\r\n}"
 }
 ---
+
+# “Here’s how Microsoft will support Bash on Windows 10” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Here's how Microsoft will support Bash on Windows 10 [[zdnet.com]](http://www.zdnet.com/article/heres-how-microsoft-will-support-bash-on-windows-10/#ftag=RSSbaffb68)
 
@@ -41,15 +47,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) in Chrome [[analytics.applicationinsights.io]](http://analytics.applicationinsights.io) says “hold on…” flashes ui then goes back to “hold on…” splash [@shanselman](http://twitter.com/shanselman)
 
-[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) Could you Direct Message us with more information on your issue? ^BD 
+[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) Could you Direct Message us with more information on your issue? ^BD
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) this issue is so basic: the site's initial load loops -not "my issue" -I'm sure you guys are on it 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) this issue is so basic: the site's initial load loops -not "my issue" -I'm sure you guys are on it
 
-[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) We found some documentation that might help: [[aka.ms]](http://aka.ms/d1049613) &amp; [[aka.ms]](http://aka.ms/d41425454) ^BD 
+[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) We found some documentation that might help: [[aka.ms]](http://aka.ms/d1049613) &amp; [[aka.ms]](http://aka.ms/d41425454) ^BD
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) these documents do not apply as this thread refers to a website built by Microsoft: [[analytics.applicationinsights.io]](http://analytics.applicationinsights.io)
 
-[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) Thanks for clarifying. We are looking into this. ^BD 
+[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) Thanks for clarifying. We are looking into this. ^BD
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “We are announcing a breaking change in the way that NuGet clients handle package version numbers.” [[blog.nuget.org]](http://blog.nuget.org/20160330/Introducing-NuGet-3.4.html)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2014: A look behind the curtain: how Netflix redesigned and rebuilt its television experience [[gigaom.com]](https://gigaom.com/2014/02/24/a-look-behind-the-curtain-how-netflix-redesigned-and-rebuilt-its-television-experience/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@terrylwhite](http://twitter.com/terrylwhite)[[youtu.be]](http://youtu.be/erFbh2chlTU?a) The Art of Typography 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@terrylwhite](http://twitter.com/terrylwhite)[[youtu.be]](http://youtu.be/erFbh2chlTU?a) The Art of Typography
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Shade avoidance, gravitropism or lateral takeover? The Grove 3 has it all.” [#blender3d](http://twitter.com/search?q=%23blender3d)[[blendernation.com]](http://www.blendernation.com/2016/03/30/grove-release-3-offers-naturally-developing-trees/)
 
@@ -79,6 +85,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Visualization and comparison of sorting algorithms in C# [[codeproject.com]](http://www.codeproject.com/Articles/1087568/Visualization-and-Comparison-of-sorting-algorith)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@cctvnewsafrica](http://twitter.com/cctvnewsafrica)[[youtu.be]](http://youtu.be/44SOrugPniM?a) Uganda rolls out bus that runs on portable batteries 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@cctvnewsafrica](http://twitter.com/cctvnewsafrica)[[youtu.be]](http://youtu.be/44SOrugPniM?a) Uganda rolls out bus that runs on portable batteries
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “the MyDoom virus. This virus alone cost roughly $38 billion in damages” [@tmrdevelops](http://twitter.com/tmrdevelops)[[designer-daily.com]](http://www.designer-daily.com/a-look-at-stunning-web-safety-facts-57422)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

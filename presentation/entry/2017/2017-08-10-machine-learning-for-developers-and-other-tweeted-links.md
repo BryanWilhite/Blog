@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Machine Learning for Developers [developer.telerik.com] SyntaxNet – An open-source framework for Natural Language Understanding systems [research.googleblog.com] GOTO 2016 • Elm-Friendly Functional Programming For The Web • Luke Westby - YouTube [youtube...",
-  "inceptDate": "2017-08-10T15:36:33.6322575-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "machine-learning-for-developers-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Machine Learning for Developers” and other Tweeted Links…",
+  "documentShortName": "2017-08-10-machine-learning-for-developers-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-08-10-machine-learning-for-developers-and-other-tweeted-links",
+  "date": "2017-08-10T22:36:33.632Z",
+  "modificationDate": "2017-08-10T22:36:33.632Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Machine Learning for Developers” and other Tweeted Links…"
+  "clientId": "2017-08-10-machine-learning-for-developers-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Machine Learning for Developers [developer.telerik.com] SyntaxNet – An open-source framework for Natural Language Understanding systems [research.googleblog.com] GOTO 2016 • Elm-Friendly Functional Programming For The Web • Luke Westby - YouTube [youtube...\"\r\n}"
 }
 ---
+
+# “Machine Learning for Developers” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Machine Learning for Developers [[developer.telerik.com]](http://developer.telerik.com/topics/machine-learning/machine-learning-developers/)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ES6 — destructuring – ECMAScript 2015 – Medium [[medium.com]](https://medium.com/ecmascript-2015/es6-destructuring-13ca399f993a)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ES6 const is not about immutability · Mathias Bynens [[mathiasbynens.be]](https://mathiasbynens.be/notes/es6-const) “const creates an immutable binding” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ES6 const is not about immutability · Mathias Bynens [[mathiasbynens.be]](https://mathiasbynens.be/notes/es6-const) “const creates an immutable binding”
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scoping and Hoisting in JavaScript – Naveen Karippai – Medium [[medium.com]](https://medium.com/@naveenkarippai/scoping-and-hoisting-in-javascript-2c2e82107427)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") You can now get the full story behind the Bing image of the day [[mspoweruser.com]](https://mspoweruser.com/can-now-get-full-story-behind-bing-image-day/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") IBM says remote working is great. As long as you are not working for IBM [[thenextweb.com]](https://thenextweb.com/insider/2017/05/08/ibm-remote-working-panel/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

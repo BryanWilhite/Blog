@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Using Web Assembly to speed up your Angular Application [malcoded.com]#angular#javascript via @malcoded       Why another state management framework for Angular? by @amcdnl#ngxs#ngrx#angular[medium.com][twitter.com]#RxJS 6.2.0 published - Finally added `...",
-  "inceptDate": "2018-10-24T22:23:25.0070595-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "using-web-assembly-to-speed-up-your-angular-application-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Using Web Assembly to speed up your Angular Application” and other Tweeted links…",
+  "documentShortName": "2018-10-24-using-web-assembly-to-speed-up-your-angular-application-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-10-24-using-web-assembly-to-speed-up-your-angular-application-and-other-tweeted-links",
+  "date": "2018-10-25T05:23:25.007Z",
+  "modificationDate": "2018-10-25T05:23:25.007Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Using Web Assembly to speed up your Angular Application” and other Tweeted links…"
+  "clientId": "2018-10-24-using-web-assembly-to-speed-up-your-angular-application-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Using Web Assembly to speed up your Angular Application [malcoded.com]#angular#javascript via @malcoded       Why another state management framework for Angular? by @amcdnl#ngxs#ngrx#angular[medium.com][twitter.com]#RxJS 6.2.0 published - Finally added `...\"\r\n}"
 }
 ---
+
+# “Using Web Assembly to speed up your Angular Application” and other Tweeted links…
 
 [<img alt="H.M. Chang [iannbing]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/iannbing.jpg">](null) Using Web Assembly to speed up your Angular Application [[malcoded.com]](https://malcoded.com/posts/web-assembly-angular)[#angular](http://twitter.com/search?q='%23angular)[#javascript](http://twitter.com/search?q='%23javascript) via [@malcoded](http://twitter.com/@malcoded)
 
@@ -33,7 +39,7 @@
 
 [<img alt="Mathias Bynens [mathias]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mathias.jpg">](https://t.co/apeIBWukSN) JavaScript modules now work in all major browsers, and Node.js has experimental support! It’s now possible to run the exact same modules, in the exact same files, both on the web and on Node.js. 🤯 [[twitter.com]](https://twitter.com/mathias/status/996133744917409792/photo/1)
 
-[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/headinthebox.jpeg">](http://t.co/LX6r9PgJAw) I'm extremely impressed by the elegance and compositionality of TypeScript's type system, especially because all the advanced dependent types features so naturally spring from the desire to support real-world patterns in JavaScript. 
+[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/headinthebox.jpeg">](http://t.co/LX6r9PgJAw) I'm extremely impressed by the elegance and compositionality of TypeScript's type system, especially because all the advanced dependent types features so naturally spring from the desire to support real-world patterns in JavaScript.
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ)[#WolframPresenter](http://twitter.com/search?q='%23WolframPresenter) Tools is the first fully-interactive responsive technical presentation environment enabling you to include interactivity &amp; live computation in your presentations. Learn how to stand out from the crowd: [[wolfr.am]](https://wolfr.am/tZQIP5zQ)[[twitter.com]](https://twitter.com/WolframResearch/status/997478921313628160/photo/1)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Microsoft Azure [Azure]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Azure.jpg">](http://t.co/vFtkLITsAX) Download the 325-page eBook to learn [#AzureFunctions](http://twitter.com/search?q='%23AzureFunctions) best practices &amp; dozens of step-by-step recipes to quickly build [#serverless](http://twitter.com/search?q='%23serverless) apps: [[msft.social]](http://msft.social/TpYHNP)[[twitter.com]](https://twitter.com/Azure/status/998849749091606528/photo/1)
 
-[<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) When you transfer a domain from GoDaddy, they nuke your nameserver connection after the transfer. It takes up to 24 hours for the NS change to be reflected in lookups. So for up to 24 hours your sites are off the air. GoDaddy sucks for yet another reason. 
+[<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) When you transfer a domain from GoDaddy, they nuke your nameserver connection after the transfer. It takes up to 24 hours for the NS change to be reflected in lookups. So for up to 24 hours your sites are off the air. GoDaddy sucks for yet another reason.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Creating, Deploying, and Debugging an [[asp.net]](http://ASP.NET) Core Application on Azure [@simple_talk](http://twitter.com/@simple_talk)[[red-gate.com]](https://www.red-gate.com/simple-talk/cloud/cloud-development/creating-deploying-and-debugging-an-asp-net-core-application-on-azure/)
 
@@ -59,7 +65,7 @@
 
 [<img alt="Avi Avni [AviAvni3]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/AviAvni3.jpg">](https://t.co/apXNx5laXx) What it's like to be an active .NET Developer [[channel9.msdn.com]](https://channel9.msdn.com/Shows/On-NET/What-its-like-to-be-an-active-NET-Developer)[@runfaster2000](http://twitter.com/@runfaster2000) interviewed me about my contributions to [#fsharp](http://twitter.com/search?q='%23fsharp)[#csharp](http://twitter.com/search?q='%23csharp)[#coreclr](http://twitter.com/search?q='%23coreclr) Thanks to [@runfaster2000](http://twitter.com/@runfaster2000)[@sethjuarez](http://twitter.com/@sethjuarez)[@ch9](http://twitter.com/@ch9)
 
-[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) I think everyone underestimates the agility bonus startups get from not having to deal with the amassed technical debt from decisions made 5, 10, 15 years ago.. 
+[<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) I think everyone underestimates the agility bonus startups get from not having to deal with the amassed technical debt from decisions made 5, 10, 15 years ago..
 
 [<img alt="Eric Mellino [Effyneber]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Effyneber.jpg">](https://t.co/poS1Mu6ckp) I built a ray tracer in C# that can run on both the CPU and the GPU. I wrote about it here: [[mellinoe.github.io]](https://mellinoe.github.io/graphics/2018/05/19/writing-a-portable-cpu-gpu-ray-tracer-in-c.html)[#raytracing](http://twitter.com/search?q='%23raytracing)[#graphics](http://twitter.com/search?q='%23graphics)[#dotnet](http://twitter.com/search?q='%23dotnet)
 
@@ -67,7 +73,7 @@
 
 [<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) XML-RPC is 20 years old. It was the result of collaboration between Microsoft and my company Userland. Very simple but powerful protocol. Widely deployed, built into languages and OSes. There was even an O’Reilly book. [[xmlrpc.com]](http://xmlrpc.com)
 
-[<img alt="have you listened to the news today? [ra]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ra.png">](https://t.co/liINP7wItr) if you ever feel like a bad coder dont forget that the software engineers behind the bourne shell needed a way to end their `case` statement and one of them said "what about `esac`" and another said "wtf is esac" and the first one said "case spelled backwards" and they shipped it 
+[<img alt="have you listened to the news today? [ra]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ra.png">](https://t.co/liINP7wItr) if you ever feel like a bad coder dont forget that the software engineers behind the bourne shell needed a way to end their `case` statement and one of them said "what about `esac`" and another said "wtf is esac" and the first one said "case spelled backwards" and they shipped it
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq) If you think timezones are problematic, try doing without them [[spin.atomicobject.com]](https://spin.atomicobject.com/2018/04/21/history-of-timekeeping/)[[twitter.com]](https://twitter.com/bitfield/status/997801828057313280/photo/1)
 
@@ -75,26 +81,28 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) pypercolate: Scientific Python package for Monte-Carlo simulation of percolation on graphs [[github.com]](https://github.com/andsor/pypercolate/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Valerie Landau [long-time collaborator with Doug Engelbart] interviewed by Martin Wasserman [[youtube.com]](https://www.youtube.com/watch?v=62ig8ecXlrA) [[[en.wikipedia.org]](http://en.wikipedia.org/wiki/Douglas_Engelbart)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Valerie Landau [long-time collaborator with Doug Engelbart] interviewed by Martin Wasserman [[youtube.com]](https://www.youtube.com/watch?v=62ig8ecXlrA) [[[en.wikipedia.org]](http://en.wikipedia.org/wiki/Douglas_Engelbart)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I’m seeing that line 79 is redundant: [[twitter.com]](https://twitter.com/BryanWilhite/status/997608505270939648/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) First look of [[ml.net]](http://ML.NET): Microsoft Machine Learning framework for .Net [[neelbhatt.com]](https://neelbhatt.com/2018/05/11/first-look-of-ml-net-microsoft-machine-learning-framework-for-net/) via [@neelbhatt2015](http://twitter.com/@neelbhatt2015)
 
-[<img alt="Haack and slash [haacked]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/haacked.jpg">](https://t.co/DLvNK37LJn) The design of the iPhone X causes me to accidentally take a screenshot of my phone at least twice a week. How about you? 
+[<img alt="Haack and slash [haacked]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/haacked.jpg">](https://t.co/DLvNK37LJn) The design of the iPhone X causes me to accidentally take a screenshot of my phone at least twice a week. How about you?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) HP Elite x3 is back on the Microsoft Store - [[mspoweruser.com]](https://mspoweruser.com/hp-elite-x3-is-back-on-the-microsoft-store/)
 
-[<img alt="Justin Duke [justinmduke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/justinmduke.jpg">](http://t.co/pfelT2VHi0) The worst part of Slack outages isn't the downtime — it's the wave of centralized infrastructure thinkpieces we're going to have to deal with for the rest of the week. 
+[<img alt="Justin Duke [justinmduke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/justinmduke.jpg">](http://t.co/pfelT2VHi0) The worst part of Slack outages isn't the downtime — it's the wave of centralized infrastructure thinkpieces we're going to have to deal with for the rest of the week.
 
 [<img alt="Greg Ferro aka ‘Etherealmind’ [etherealmind]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/etherealmind.jpg">](https://t.co/wDX5CJRzzb) You may laugh but it works better than Webex. [[twitter.com]](https://twitter.com/etherealmind/status/998481787482443776/photo/1)
 
 [<img alt="Eric Holthaus [EricHolthaus]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/EricHolthaus.jpg">](https://t.co/qiFhCliUrK) The first peer-reviewed study of bitcoin’s energy consumption confirms our fears: Bitcoin’s energy consumption is growing at 20% *per month* and is effectively erasing decades of progress on renewable energy. [[grist.org]](https://grist.org/article/bitcoins-energy-use-got-studied-and-you-libertarian-nerds-look-even-worse-than-usual/)
 
-[<img alt="Erynn Brook [ErynnBrook]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ErynnBrook.jpeg">](https://t.co/IGyLu8I4bZ) Everyone I’ve ever talked to who has been poor and is not anymore has the same story of the moment they realized they weren’t poor anymore: grocery shopping. 
+[<img alt="Erynn Brook [ErynnBrook]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ErynnBrook.jpeg">](https://t.co/IGyLu8I4bZ) Everyone I’ve ever talked to who has been poor and is not anymore has the same story of the moment they realized they weren’t poor anymore: grocery shopping.
 
-[<img alt="Lukas Eder [lukaseder]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lukaseder.jpg">](https://t.co/GM9UZOQazM) I really wish more people from "the enterprise" would blog. This entrepreneurial/startup blog bias is giving us a wrong picture of reality 
+[<img alt="Lukas Eder [lukaseder]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lukaseder.jpg">](https://t.co/GM9UZOQazM) I really wish more people from "the enterprise" would blog. This entrepreneurial/startup blog bias is giving us a wrong picture of reality
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq) “Look at the best engineers in your company and try to picture them going through your interview process. What type of interview would have selected these people? If your interview process would have filtered out your best engineers, then rethink it.” [[erikbern.com]](https://erikbern.com/2018/05/02/interviewing-is-a-noisy-prediction-problem.html)
 
 [<img alt="loydcase [loydcase]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/loydcase.jpg">](https://t.co/PsNz9dSa7d) You never know when you might have to put out a crotch fire. [[twitter.com]](https://twitter.com/loydcase/status/998844105814953984/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

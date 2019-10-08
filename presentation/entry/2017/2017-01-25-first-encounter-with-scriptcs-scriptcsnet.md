@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "One of Glenn Block’s post-MEF, post-Microsoft projects is scriptcs. I am currently using scriptcs as the engine of my epub publication pipeline in an effort to use my C# skills and delay (again) the need for me to learn/use Python.scriptcs is useful to m...",
-  "inceptDate": "2017-01-25T19:01:43.8300043-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "first-encounter-with-scriptcs-scriptcsnet",
+  "documentId": 0,
+  "title": "First Encounter with scriptcs =&gt; @scriptcsnet",
+  "documentShortName": "2017-01-25-first-encounter-with-scriptcs-scriptcsnet",
+  "fileName": "index.html",
+  "path": "./entry/2017-01-25-first-encounter-with-scriptcs-scriptcsnet",
+  "date": "2017-01-26T03:01:43.830Z",
+  "modificationDate": "2017-01-26T03:01:43.830Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "First Encounter with scriptcs =&gt; @scriptcsnet"
+  "clientId": "2017-01-25-first-encounter-with-scriptcs-scriptcsnet",
+  "tag": "{\r\n  \"extract\": \"One of Glenn Block’s post-MEF, post-Microsoft projects is scriptcs. I am currently using scriptcs as the engine of my epub publication pipeline in an effort to use my C# skills and delay (again) the need for me to learn/use Python.scriptcs is useful to m...\"\r\n}"
 }
 ---
+
+# First Encounter with scriptcs =&gt; @scriptcsnet
 
 One of [Glenn Block’s](https://www.dotnetrocks.com/?show=1110) post-MEF, post-Microsoft projects is [scriptcs](http://scriptcs.net/). I am currently using scriptcs as the engine of my epub publication pipeline in an effort to use my C# skills and delay (again) the need for me to learn/use Python.
 
@@ -48,7 +54,8 @@ public static class EnvironmentUtilities
         return folder;
     }
 }
-</code>
+<
+/code>
 
 **The current scriptcs release cannot handle NuGet 3.x.** Glenn informed me [via @scriptcsnet](https://twitter.com/scriptcsnet/status/824083354249105412) that a fix for this should be on the dev branch. This issue exists for me on both Windows and Linux (and I am using the dev branch on Linux.) I have a horrible workaround for this that involves raiding NuGet package folders (under C# projects) for .NET Standard-ish DLLs and shoving them into a `\scriptcs-bin` folder, allowing me to use the Rosyln-derived `#r` directive. Here is my ‘loader’ script, chock full of these directives:
 
@@ -62,7 +69,8 @@ public static class EnvironmentUtilities
 var csxRoot = EnvironmentUtilities.GetScriptFolder();
 var pubContext = new PublicationContext(csxRoot);
 pubContext.GenerateChapters();
-</code>
+<
+/code>
 
 **scriptcs or Rosyln cannot properly parse classes with private members on Linux.** A class as simple as the following will not ‘compile’ (or interpret) properly on Linux:
 
@@ -71,7 +79,8 @@ pubContext.GenerateChapters();
     public string Fubar { get; set; }
     string _foo;
 }
-</code>
+<
+/code>
 
 I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during initialization/interpretation time (which suggests to me that Rosyln is having trouble parsing something).
 
@@ -82,7 +91,8 @@ I saw the error go away when I did this:
     public string Fubar { get; set; }
     internal string _foo;
 }
-</code>
+<
+/code>
 
 but *not* this:
 
@@ -91,14 +101,17 @@ but *not* this:
     public string Fubar { get; set; }
     private string _foo;
 }
-</code>
+<
+/code>
 
 I want to say that the Rosyln I am using on Linux is from mono.
 
 ## Related Links
 
-*   “[Building on Mac and Linux](https://github.com/scriptcs/scriptcs/wiki/Building-on-Mac-and-Linux)”
-*   “[Installing svm on Linux](https://github.com/scriptcs-contrib/svm/wiki/Installing%20svm%20on%20Linux)”
-*   “[Recently the decision was made to aim for a 1.0 release including… [possibly] Running on .NET core](https://github.com/scriptcs/scriptcs/wiki/1.0)”
-*   “[Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies](http://www.strathweb.com/2016/03/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies/)”
-*   “[Running C# scripts and snippets in Visual Studio Code with scriptcs](http://www.strathweb.com/2015/11/running-c-scripts-and-snippets-in-visual-studio-code-with-scriptcs/)”
+* “[Building on Mac and Linux](https://github.com/scriptcs/scriptcs/wiki/Building-on-Mac-and-Linux)”
+* “[Installing svm on Linux](https://github.com/scriptcs-contrib/svm/wiki/Installing%20svm%20on%20Linux)”
+* “[Recently the decision was made to aim for a 1.0 release including… [possibly] Running on .NET core](https://github.com/scriptcs/scriptcs/wiki/1.0)”
+* “[Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies](http://www.strathweb.com/2016/03/roslyn-scripting-on-coreclr-net-cli-and-dnx-and-in-memory-assemblies/)”
+* “[Running C# scripts and snippets in Visual Studio Code with scriptcs](http://www.strathweb.com/2015/11/running-c-scripts-and-snippets-in-visual-studio-code-with-scriptcs/)”
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

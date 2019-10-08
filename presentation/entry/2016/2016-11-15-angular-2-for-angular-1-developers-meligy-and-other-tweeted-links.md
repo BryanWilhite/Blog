@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Angular 2 for Angular 1 developers @Meligy[ow.ly] ES6 module loading: More complicated than you think - NCZOnline [ow.ly] Responsive Images in CSS [ow.ly]@chriscoyier Designing with SVG: How Scalable Vector Graphics Can Increase Visitor Engagement [ow.ly...",
-  "inceptDate": "2016-11-15T16:21:19.8377343-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angular-2-for-angular-1-developers-meligy-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Angular 2 for Angular 1 developers @Meligy” and other Tweeted Links…",
+  "documentShortName": "2016-11-15-angular-2-for-angular-1-developers-meligy-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-15-angular-2-for-angular-1-developers-meligy-and-other-tweeted-links",
+  "date": "2016-11-16T00:21:19.837Z",
+  "modificationDate": "2016-11-16T00:21:19.837Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Angular 2 for Angular 1 developers @Meligy” and other Tweeted Links…"
+  "clientId": "2016-11-15-angular-2-for-angular-1-developers-meligy-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Angular 2 for Angular 1 developers @Meligy[ow.ly] ES6 module loading: More complicated than you think - NCZOnline [ow.ly] Responsive Images in CSS [ow.ly]@chriscoyier Designing with SVG: How Scalable Vector Graphics Can Increase Visitor Engagement [ow.ly...\"\r\n}"
 }
 ---
+
+# “Angular 2 for Angular 1 developers @Meligy” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 2 for Angular 1 developers [@Meligy](http://twitter.com/Meligy)[[ow.ly]](http://ow.ly/aDiu305wRvQ)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Merchandise Store: MS Mens Event L/S Shirt [[ow.ly]](http://ow.ly/ip36305xsfC)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Merchandise Store: SW Word Up T-shirt Blue [[ow.ly]](http://ow.ly/RK10305xs47)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

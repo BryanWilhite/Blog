@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Introduction to Claims based security in .NET4.5 with C# Part 1: the absolute basics [dotnetcodr.com][asp.net] Core pipelines - Michal Dymel - DevBlog [devblog.dymel.pl] HttpContext.Current.Request.IsAuthenticated and HttpContext.Current.User.Identity.Is...",
-  "inceptDate": "2017-05-31T15:08:45.116012-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introduction-to-claims-based-security-in-net4-5-with-c-part-1-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introduction to Claims based security in .NET4.5 with C# Part 1” and other Tweeted Links…",
+  "documentShortName": "2017-05-31-introduction-to-claims-based-security-in-net4-5-with-c-part-1-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-31-introduction-to-claims-based-security-in-net4-5-with-c-part-1-and-other-tweeted-links",
+  "date": "2017-05-31T22:08:45.116Z",
+  "modificationDate": "2017-05-31T22:08:45.116Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introduction to Claims based security in .NET4.5 with C# Part 1” and other Tweeted Links…"
+  "clientId": "2017-05-31-introduction-to-claims-based-security-in-net4-5-with-c-part-1-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introduction to Claims based security in .NET4.5 with C# Part 1: the absolute basics [dotnetcodr.com][asp.net] Core pipelines - Michal Dymel - DevBlog [devblog.dymel.pl] HttpContext.Current.Request.IsAuthenticated and HttpContext.Current.User.Identity.Is...\"\r\n}"
 }
 ---
+
+# “Introduction to Claims based security in .NET4.5 with C# Part 1” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to Claims based security in .NET4.5 with C# Part 1: the absolute basics [[dotnetcodr.com]](https://dotnetcodr.com/2013/02/11/introduction-to-claims-based-security-in-net4-5-with-c-part-1/)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HttpContext.Current.Request.IsAuthenticated and HttpContext.Current.User.Identity.IsAuthenticated? - Stack Overflow [[stackoverflow.com]](http://stackoverflow.com/questions/1379566/what-is-the-difference-between-httpcontext-current-request-isauthenticated-and-h)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HttpCapabilitiesBase.Crawler Property (System.Web.Configuration) [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/system.web.configuration.httpcapabilitiesbase.crawler(v=vs.110).aspx) [does this really work?] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HttpCapabilitiesBase.Crawler Property (System.Web.Configuration) [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/system.web.configuration.httpcapabilitiesbase.crawler(v=vs.110).aspx) [does this really work?]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@scriptcsnet](http://twitter.com/scriptcsnet) for [@Azure](http://twitter.com/Azure) WebJobs: “library just layers on top to allow you to ‘script the WebJobs SDK’” [[github.com]](https://github.com/Azure/azure-webjobs-sdk-script)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") VS [@code](http://twitter.com/code) uses 13% CPU when idle due to blinking cursor rendering [[github.com]](https://github.com/Microsoft/vscode/issues/22900)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet is now fully integrated into MSBuild [[blog.nuget.org]](http://blog.nuget.org/20170316/NuGet-now-fully-integrated-into-MSBuild.html) [PackageReference] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet is now fully integrated into MSBuild [[blog.nuget.org]](http://blog.nuget.org/20170316/NuGet-now-fully-integrated-into-MSBuild.html) [PackageReference]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# 7: Local Functions are Funcs too [[danielcrabtree.com]](https://www.danielcrabtree.com/blog/84/c-sharp-7-local-functions-are-funcs-too)
 
@@ -75,9 +81,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 14 Practical Examples of Linux Find Command for Beginners [[lxer.com]](http://lxer.com/module/newswire/ext_link.php?rid=240419)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/er1ZGy3ITfQ?a) HP Envy 13 (2017) hands-on 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/er1ZGy3ITfQ?a) HP Envy 13 (2017) hands-on
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/kFU-eG8UaTM?a) Show Me How To Use Clonezilla 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/kFU-eG8UaTM?a) Show Me How To Use Clonezilla
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Stack Overflow Developer Survey Results 2017 [[stackoverflow.com]](http://stackoverflow.com/insights/survey/2017/)
 
@@ -85,10 +91,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Animated vloggers could be the future of YouTube [[theverge.com]](http://www.theverge.com/2017/3/21/14994816/animated-vlogger-ai-kizuna-youtube-lets-play)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") High-performance employees need quieter work spaces [[hackernoon.com]](http://hackernoon.com/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces-4381241a6453#.767o5aq6p) [low-performance companies will never care about this] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") High-performance employees need quieter work spaces [[hackernoon.com]](http://hackernoon.com/58-of-high-performance-employees-say-they-need-more-quiet-work-spaces-4381241a6453#.767o5aq6p) [low-performance companies will never care about this]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Episode 1: Taiwan - Interview with MVP, Shih-Ming Tung (董是明) | The MVP Show | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Shows/MVP-Show/Episode-1-Taiwan-Interview-with-MVP-Shih-Ming-Tung)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended by [@adamengst](http://twitter.com/adamengst): Take Control of Your Digital Legacy [[amazon.com]](https://www.amazon.com/Take-Control-Your-Digital-Legacy-ebook/dp/B06WLJ31HW%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB06WLJ31HW)[[twitter.com]](https://twitter.com/BryanWilhite/status/869133773530648577/photo/1)
 
 [<img alt="Adam C. Engst [adamengst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/adamengst.jpg">](http://t.co/ioGvxdz3 "Adam C. Engst [adamengst]")[@BryanWilhite](http://twitter.com/BryanWilhite) It's important stuff that even technical people often don't think about...
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

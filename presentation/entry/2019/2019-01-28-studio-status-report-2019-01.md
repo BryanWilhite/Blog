@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "the day job brings some new Angular research topicsDo rxjs observables invoke for every subscriber? The answer to this question (at work) looks like it’s yes which means HttpClient.post() will invoke post() for every subscriber. This default behavior is ...",
-  "inceptDate": "2019-01-28T15:01:04.8973912-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2019-01",
+  "documentId": 0,
+  "title": "studio status report: 2019-01",
+  "documentShortName": "2019-01-28-studio-status-report-2019-01",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-28-studio-status-report-2019-01",
+  "date": "2019-01-28T23:01:04.897Z",
+  "modificationDate": "2019-01-28T23:01:04.897Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2019-01"
+  "clientId": "2019-01-28-studio-status-report-2019-01",
+  "tag": "{\r\n  \"extract\": \"the day job brings some new Angular research topicsDo rxjs observables invoke for every subscriber? The answer to this question (at work) looks like it’s yes which means HttpClient.post() will invoke post() for every subscriber. This default behavior is ...\"\r\n}"
 }
 ---
+
+# studio status report: 2019-01
 
 ## the day job brings some new Angular research topics
 
@@ -33,8 +39,10 @@ Microsoft’s Edward Thomson [did not get back to me](https://twitter.com/ethoms
 
 The ‘git on Windows is not working with GitHub credentials’ error is still alive and well:
 
-        git push &lt;shows GitHub authentication prompt&gt;
+git push &lt;shows GitHub authentication prompt&gt;
 fatal: MissingMethodException encountered.
     Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpPostAsync(Microsoft.Alm.Authentication.TargetUri, System.Net.Http.HttpContent, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

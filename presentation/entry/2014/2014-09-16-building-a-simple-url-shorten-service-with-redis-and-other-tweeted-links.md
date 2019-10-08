@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Building a simple URL shorten service with Redis by HenryCharles1997 http://t.co/eag3J3v6Fh  Fascinating talk by typography professor @gerryleonidas about (international!!) typefaces for screens. #smashingconf http://t.co/q9PzIi8yst  7 jQuery plugins for...",
-  "inceptDate": "2014-09-16T00:00:00",
-  "isPublished": true,
-  "slug": "building-a-simple-url-shorten-service-with-redis-and-other-tweeted-links",
-  "title": "“Building a simple URL shorten service with Redis” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Building a simple URL shorten service with Redis” and other Tweeted Links…",
+  "documentShortName": "2014-09-16-building-a-simple-url-shorten-service-with-redis-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-09-16-building-a-simple-url-shorten-service-with-redis-and-other-tweeted-links",
+  "date": "2014-09-16T07:00:00.000Z",
+  "modificationDate": "2014-09-16T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-09-16-building-a-simple-url-shorten-service-with-redis-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Building a simple URL shorten service with Redis by HenryCharles1997 http://t.co/eag3J3v6Fh  Fascinating talk by typography professor @gerryleonidas about (international!!) typefaces for screens. #smashingconf http://t.co/q9PzIi8yst  7 jQuery plugins for...\"\r\n}"
 }
 ---
+
+# “Building a simple URL shorten service with Redis” and other Tweeted Links…
 
 [<img alt="CodeProject [codeproject]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codeproject.png">](http://t.co/4uZjbAWyZS "CodeProject [codeproject]") <span>Building a simple URL shorten service with Redis by HenryCharles1997 [http://t.co/eag3J3v6Fh](http://t.co/eag3J3v6Fh)</span>
 
@@ -54,3 +64,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Abandon Skeuomorphism with these 30 Free Icon Sets in Flat Design - noupe [http://t.co/RdmPx8gEjY](http://t.co/RdmPx8gEjY)</span>
 
 [<img alt="Tech Facts [DailyTechFacts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DailyTechFacts.jpeg">]( "Tech Facts [DailyTechFacts]") <span>When Google introduced its “Did you mean . . .?” feature, site traffic doubled</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter &amp; @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...",
-  "inceptDate": "2012-11-11T00:00:00",
-  "isPublished": true,
-  "slug": "windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
-  "title": "“Windows 8: Operating Under the Influence” and other old-ass Tweeted Links…"
+  "documentId": 0,
+  "title": "“Windows 8: Operating Under the Influence” and other old-ass Tweeted Links…",
+  "documentShortName": "2012-11-11-windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-11-11-windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
+  "date": "2012-11-11T08:00:00.000Z",
+  "modificationDate": "2012-11-11T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-11-11-windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter &amp; @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...\"\r\n}"
 }
 ---
+
+# “Windows 8: Operating Under the Influence” and other old-ass Tweeted Links…
 
 [<img alt="John Bristowe [JohnBristowe]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JohnBristowe.jpeg">](http://bristowe.com/ "John Bristowe [JohnBristowe]") <span>Windows 8: Operating Under the Influence [http://t.co/s44SvQlc](http://t.co/s44SvQlc)</span>
 
@@ -96,3 +106,5 @@
 [<img alt="Dave Winer ☮ [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpeg">](http://davewiner.com/ "Dave Winer ☮ [davewiner]") <span>The 10 Oldest Social APIs: More Than Half Are Dead. [http://t.co/o7fDPShz](http://t.co/o7fDPShz)</span>
 
 [<img alt="Pete Brown [Pete_Brown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Pete_Brown.jpg">](http://10rem.net "Pete Brown [Pete_Brown]") <span>Advice on attracting good developers [http://t.co/UTmyQ6is](http://t.co/UTmyQ6is) /via ... don't remember :P</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

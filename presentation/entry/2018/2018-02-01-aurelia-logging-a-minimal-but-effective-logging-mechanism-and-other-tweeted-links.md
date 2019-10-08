@@ -1,23 +1,29 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "aurelia/logging: A minimal but effective logging mechanism with support for log levels and pluggable log appenders. [github.com] Static Inject vs @inject In Aurelia - I Like Kill Nerds [ilikekillnerds.com] Flow and TypeScript [javascript.tumblr.com] [red...",
-  "inceptDate": "2018-02-01T12:00:39.8369019-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "aurelia-logging-a-minimal-but-effective-logging-mechanism-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“aurelia/logging: A minimal but effective logging mechanism” and other Tweeted Links…",
+  "documentShortName": "2018-02-01-aurelia-logging-a-minimal-but-effective-logging-mechanism-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-01-aurelia-logging-a-minimal-but-effective-logging-mechanism-and-other-tweeted-links",
+  "date": "2018-02-01T20:00:39.836Z",
+  "modificationDate": "2018-02-01T20:00:39.836Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“aurelia/logging: A minimal but effective logging mechanism” and other Tweeted Links…"
+  "clientId": "2018-02-01-aurelia-logging-a-minimal-but-effective-logging-mechanism-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"aurelia/logging: A minimal but effective logging mechanism with support for log levels and pluggable log appenders. [github.com] Static Inject vs @inject In Aurelia - I Like Kill Nerds [ilikekillnerds.com] Flow and TypeScript [javascript.tumblr.com] [red...\"\r\n}"
 }
 ---
+
+# “aurelia/logging: A minimal but effective logging mechanism” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") aurelia/logging: A minimal but effective logging mechanism with support for log levels and pluggable log appenders. [[github.com]](https://github.com/aurelia/logging)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Static Inject vs [@inject](http://twitter.com/inject) In Aurelia - I Like Kill Nerds [[ilikekillnerds.com]](https://ilikekillnerds.com/2017/03/static-inject-vs-inject-aurelia/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Flow and TypeScript [[javascript.tumblr.com]](https://javascript.tumblr.com/post/165082071937/flow-and-typescript) [reducing runtime React errors] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Flow and TypeScript [[javascript.tumblr.com]](https://javascript.tumblr.com/post/165082071937/flow-and-typescript) [reducing runtime React errors]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript: namespaces and modules: “Needless Namespacing” [[typescriptlang.org]](https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") The Triumph TR6: one of the most beautiful British sports cars. The dash: a great example of modeless space-mulipl… [[twitter.com]](https://twitter.com/i/web/status/953249836626690049)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@wasbuxton](http://twitter.com/wasbuxton) I'm Comedians in Cars, Seinfeld complained about the climate controls on the bottom there and I thought of you guys😆 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@wasbuxton](http://twitter.com/wasbuxton) I'm Comedians in Cars, Seinfeld complained about the climate controls on the bottom there and I thought of you guys😆
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Authoritative guide to CORS (Cross-Origin Resource Sharing) for REST APIs Moesif’s Musings on Software [[moesif.com]](https://www.moesif.com/blog/technical/cors/Authoritative-Guide-to-CORS-Cross-Origin-Resource-Sharing-for-REST-APIs/)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Got "inspired" by the thin air, did a better search and found: "The 'Should' convention is aligned with the behavi… [[twitter.com]](https://twitter.com/i/web/status/955327519732916224)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") BDD in Action: Behavior-driven development for the whole software lifecycle [[amazon.com]](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161729165X)[[twitter.com]](https://twitter.com/BryanWilhite/status/955540924288794624/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

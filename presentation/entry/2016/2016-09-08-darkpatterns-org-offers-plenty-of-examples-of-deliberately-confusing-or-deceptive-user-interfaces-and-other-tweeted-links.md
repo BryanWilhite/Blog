@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "UX: “[darkpatterns.org], offers plenty of examples of  deliberately confusing or deceptive user interfaces” [arstechnica.com] The Apple Goes Mushy Part I: OS X's Interface Decline (Introduction) [nicholaswindsorhoward.com] “when using it with English, we...",
-  "inceptDate": "2016-09-08T13:56:27.1962126-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "darkpatterns-org-offers-plenty-of-examples-of-deliberately-confusing-or-deceptive-user-interfaces-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“darkpatterns.org offers plenty of examples of  deliberately confusing or deceptive user interfaces” and other Tweeted Links…",
+  "documentShortName": "2016-09-08-darkpatterns-org-offers-plenty-of-examples-of-deliberately-confusing-or-deceptive-user-interfaces-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-08-darkpatterns-org-offers-plenty-of-examples-of-deliberately-confusing-or-deceptive-user-interfaces-and-other-tweeted-links",
+  "date": "2016-09-08T20:56:27.196Z",
+  "modificationDate": "2016-09-08T20:56:27.196Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“darkpatterns.org offers plenty of examples of  deliberately confusing or deceptive user interfaces” and other Tweeted Links…"
+  "clientId": "2016-09-08-darkpatterns-org-offers-plenty-of-examples-of-deliberately-confusing-or-deceptive-user-interfaces-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"UX: “[darkpatterns.org], offers plenty of examples of  deliberately confusing or deceptive user interfaces” [arstechnica.com] The Apple Goes Mushy Part I: OS X's Interface Decline (Introduction) [nicholaswindsorhoward.com] “when using it with English, we...\"\r\n}"
 }
 ---
+
+# “darkpatterns.org offers plenty of examples of  deliberately confusing or deceptive user interfaces” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UX: “[[darkpatterns.org]](http://darkpatterns.org), offers plenty of examples of deliberately confusing or deceptive user interfaces” [[arstechnica.com]](http://arstechnica.com/security/2016/07/dark-patterns-are-designed-to-trick-you-and-theyre-all-over-the-web/)
 
@@ -93,8 +99,10 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ten Rules for Negotiating a Job Offer [[medium.freecodecamp.com]](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@Office365](http://twitter.com/Office365) Word Online cannot save a single document in the "cloud" right now. I am not "happy" about reporting things like this. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@Office365](http://twitter.com/Office365) Word Online cannot save a single document in the "cloud" right now. I am not "happy" about reporting things like this.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@michaellaronn](http://twitter.com/michaellaronn)[[youtu.be]](http://youtu.be/uwC3bnCL9B8?a) Ulysses Review 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@michaellaronn](http://twitter.com/michaellaronn)[[youtu.be]](http://youtu.be/uwC3bnCL9B8?a) Ulysses Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0YtX3zW_eKk?a) Terry Crews FINISHES up building his Gaming PC
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Another post by @John_Papa on new support for Knockout.js Intellisense inside VS 2012: http://t.co/vdyMRa1P  Numeral.js - a #JavaScript library for formatting and manipulating numbers http://t.co/KTF0L9XA  More details on the SPA Template (RC) from the h...",
-  "inceptDate": "2013-01-03T00:00:00",
-  "isPublished": true,
-  "slug": "new-support-for-knockout-js-intellisense-inside-vs-2012-and-other-tweeted-links",
-  "title": "“…new support for Knockout.js Intellisense inside VS 2012…” and other Tweeted Links"
+  "documentId": 0,
+  "title": "“…new support for Knockout.js Intellisense inside VS 2012…” and other Tweeted Links",
+  "documentShortName": "2013-01-03-new-support-for-knockout-js-intellisense-inside-vs-2012-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-01-03-new-support-for-knockout-js-intellisense-inside-vs-2012-and-other-tweeted-links",
+  "date": "2013-01-03T08:00:00.000Z",
+  "modificationDate": "2013-01-03T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-01-03-new-support-for-knockout-js-intellisense-inside-vs-2012-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Another post by @John_Papa on new support for Knockout.js Intellisense inside VS 2012: http://t.co/vdyMRa1P  Numeral.js - a #JavaScript library for formatting and manipulating numbers http://t.co/KTF0L9XA  More details on the SPA Template (RC) from the h...\"\r\n}"
 }
 ---
+
+# “…new support for Knockout.js Intellisense inside VS 2012…” and other Tweeted Links
 
 [<img alt="Scott Guthrie [scottgu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/scottgu.jpg">](http://weblogs.asp.net/scottgu "Scott Guthrie [scottgu]") <span>Another post by [@John_Papa](http://twitter.com/John_Papa) on new support for Knockout.js Intellisense inside VS 2012: [http://t.co/vdyMRa1P](http://t.co/vdyMRa1P)</span>
 
@@ -52,3 +62,5 @@
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpeg">](http://wildermuth.com "Shawn Wildermuth [ShawnWildermuth]") <span>Apple quietly hires security guru who may have saved Windows Vista [http://t.co/FkNrzh3s](http://t.co/FkNrzh3s) /via [@engadget](http://twitter.com/engadget)</span>
 
 [<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>75% off all of [@JetBrains](http://twitter.com/JetBrains) Software: WebStorm, RubyMine, ReSharper, AppCode, dotCover, ... [http://t.co/9p7hJELg](http://t.co/9p7hJELg)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

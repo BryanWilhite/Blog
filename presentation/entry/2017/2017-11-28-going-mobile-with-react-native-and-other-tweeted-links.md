@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Going Mobile With React Native – The Clubhouse Blog [blog.clubhouse.io]@kavbojka 60 FPS Animations with CSS3 [medium.com] p5.js – A JS library to make coding accessible for artists, designers, educators [p5js.org] From JavaScript to Functional Web Develo...",
-  "inceptDate": "2017-11-28T14:14:01.8277976-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "going-mobile-with-react-native-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Going Mobile With React Native” and other twinks…",
+  "documentShortName": "2017-11-28-going-mobile-with-react-native-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-28-going-mobile-with-react-native-and-other-twinks",
+  "date": "2017-11-28T22:14:01.827Z",
+  "modificationDate": "2017-11-28T22:14:01.827Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Going Mobile With React Native” and other twinks…"
+  "clientId": "2017-11-28-going-mobile-with-react-native-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Going Mobile With React Native – The Clubhouse Blog [blog.clubhouse.io]@kavbojka 60 FPS Animations with CSS3 [medium.com] p5.js – A JS library to make coding accessible for artists, designers, educators [p5js.org] From JavaScript to Functional Web Develo...\"\r\n}"
 }
 ---
+
+# “Going Mobile With React Native” and other twinks…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Going Mobile With React Native – The Clubhouse Blog [[blog.clubhouse.io]](https://blog.clubhouse.io/going-mobile-with-react-native-891e1a602465)[@kavbojka](http://twitter.com/kavbojka)
 
@@ -31,9 +37,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@divega](http://twitter.com/divega) seriously, how is that code-first config going for [[ado.net]](http://ADO.NET) Core? [[github.com]](https://github.com/BryanWilhite/Songhay.DataAccess/issues/1) =… [[twitter.com]](https://twitter.com/i/web/status/926264819396894721)
 
-[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@julielerman](http://twitter.com/julielerman)[@kkurni](http://twitter.com/kkurni) I updated the proposal today. Hopefully this will be in soon. 
+[<img alt="Diego Vega [divega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/divega.jpg">](http://t.co/YKwXnA3RVa "Diego Vega [divega]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@julielerman](http://twitter.com/julielerman)[@kkurni](http://twitter.com/kkurni) I updated the proposal today. Hopefully this will be in soon.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@julielerman](http://twitter.com/julielerman)[@kkurni](http://twitter.com/kkurni) cool, very cool 🧐 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@divega](http://twitter.com/divega)[@julielerman](http://twitter.com/julielerman)[@kkurni](http://twitter.com/kkurni) cool, very cool 🧐
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Local functions in C# 7.0 | Gunnar Peipman - Programming Blog [[gunnarpeipman.com]](http://gunnarpeipman.com/2017/07/local-functions/)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Nige Willson [nigewillson]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nigewillson.jpg">](https://t.co/2bCzwm6WOr "Nige Willson [nigewillson]") virtual reality reality [#VR](http://twitter.com/search?q=%23VR)[#Humor](http://twitter.com/search?q=%23Humor)[[twitter.com]](https://twitter.com/nigewillson/status/926374720546668544/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ho7oagHeqNc?a) Category Theory in Life - Eugenia Cheng 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ho7oagHeqNc?a) Category Theory in Life - Eugenia Cheng
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Developer community Stack Overflow lays off reportedly 20% of staff as it [refocuses] business | TechCrunch [[techcrunch.com]](https://techcrunch.com/2017/11/02/stack-overflow-lays-off-staff/)
 
@@ -97,10 +103,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The History of GeoWorks, Microsoft Windows’ Upstart ’90s Competitor (2016) [[atlasobscura.com]](http://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
 
-[<img alt="LINQPad·Joe Albahari [linqpad]" src="https://songhay.blob.core.windows.net/shared-social-twitter/linqpad.jpg">](http://t.co/alg9BCR6l1 "LINQPad·Joe Albahari [linqpad]") It's now 10 years since LINQPad 1.0 was released. Huge thanks to all supporters - you've enabled LINQPad to grow to the product it is today! 
+[<img alt="LINQPad·Joe Albahari [linqpad]" src="https://songhay.blob.core.windows.net/shared-social-twitter/linqpad.jpg">](http://t.co/alg9BCR6l1 "LINQPad·Joe Albahari [linqpad]") It's now 10 years since LINQPad 1.0 was released. Huge thanks to all supporters - you've enabled LINQPad to grow to the product it is today!
 
-[<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") We are stuck in 100 year old management systems designed for low skilled factory workers and static markets. Why aren't we questioning it? 
+[<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") We are stuck in 100 year old management systems designed for low skilled factory workers and static markets. Why aren't we questioning it?
 
 [<img alt="SSD Nodes [SSDNodes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SSDNodes.jpg">](https://t.co/gdPvAIPcRa "SSD Nodes [SSDNodes]") If you do open source development and hope to get *some* kind of return from it, this `lemonade-stand` guide is a g… [[twitter.com]](https://twitter.com/i/web/status/935228242545475585)
 
 [<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5 "Billy Hollis [billyhollis]") I propose a new reason for retirement: to live w/o tech so that we're not constantly bombarded w/ notifications fro… [[twitter.com]](https://twitter.com/i/web/status/935531883848495106)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

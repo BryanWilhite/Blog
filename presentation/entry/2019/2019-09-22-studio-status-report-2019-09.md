@@ -1,26 +1,32 @@
 ---json
 {
-  "author": null,
-  "content": "month-9 has been about actually using @songhay/player-video-you-tubeThe NPM package @songhay/player-video-you-tube is installed and compiling into the build for SonghaySystem.com.👏 (BTW: it was editorial error to mention @songhay/index for the last few ...",
-  "inceptDate": "2019-09-22T11:03:05.6230344-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2019-09",
+  "documentId": 0,
+  "title": "studio status report: 2019-09",
+  "documentShortName": "2019-09-22-studio-status-report-2019-09",
+  "fileName": "index.html",
+  "path": "./entry/2019-09-22-studio-status-report-2019-09",
+  "date": "2019-09-22T18:03:05.623Z",
+  "modificationDate": "2019-09-22T18:03:05.623Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2019-09"
+  "clientId": "2019-09-22-studio-status-report-2019-09",
+  "tag": "{\r\n  \"extract\": \"month-9 has been about actually using @songhay/player-video-you-tubeThe NPM package @songhay/player-video-you-tube is installed and compiling into the build for SonghaySystem.com.👏 (BTW: it was editorial error to mention @songhay/index for the last few ...\"\r\n}"
 }
 ---
+
+# studio status report: 2019-09
 
 ### month-9 has been about actually using `@songhay/player-video-you-tube`
 
 The NPM package `@songhay/player-video-you-tube` is installed and compiling into the build for SonghaySystem.com.👏 (BTW: it was editorial error to mention `@songhay/index` for the last few months as this package is not in use for the Songhay Dashboard 😒). The following GitHub issues detail the transition:
 
-*   [https://github.com/BryanWilhite/Songhay.Dashboard/issues/53](https://github.com/BryanWilhite/Songhay.Dashboard/issues/53)
-*   [https://github.com/BryanWilhite/Songhay.Dashboard/issues/54](https://github.com/BryanWilhite/Songhay.Dashboard/issues/54)
-*   [https://github.com/BryanWilhite/Songhay.Dashboard/issues/55](https://github.com/BryanWilhite/Songhay.Dashboard/issues/55)
-*   [https://github.com/BryanWilhite/Songhay.Dashboard/issues/59](https://github.com/BryanWilhite/Songhay.Dashboard/issues/59)
+* [https://github.com/BryanWilhite/Songhay.Dashboard/issues/53](https://github.com/BryanWilhite/Songhay.Dashboard/issues/53)
+* [https://github.com/BryanWilhite/Songhay.Dashboard/issues/54](https://github.com/BryanWilhite/Songhay.Dashboard/issues/54)
+* [https://github.com/BryanWilhite/Songhay.Dashboard/issues/55](https://github.com/BryanWilhite/Songhay.Dashboard/issues/55)
+* [https://github.com/BryanWilhite/Songhay.Dashboard/issues/59](https://github.com/BryanWilhite/Songhay.Dashboard/issues/59)
 
 ### Daz3D Studio is stabilized
 
@@ -38,16 +44,18 @@ I think the Index App should be based on [lunr](https://lunrjs.com/) and [Bing W
 
 Today the studio development schedule looks like this:
 
-*   <del>get 11ty pipelines running with the FunkyKB</del> ✔
-*   <del>migrate Thunderbird email to new Hyper-V Ubuntu VM</del> ✔
-*   <del>move the kinté space blog to an 11ty pipeline (this has been another emergency *for years*)</del> ✔
-*   <del>update SonghaySystem.com with my new `@songhay/player-video-you-tube`</del> ✔
-*   convert the Day Path blog to 11ty (with `@songhay/index` as a side-car app) 💪💡
-*   convert SonghaySystem.com to HTTPs by default 🔐
-*   convert Day Path Blog to HTTPs by default 🔐
-*   use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
-*   set up automated social-media posting with Azure logic apps (and Azure functions orchestration) ☁🤖
-*   modernize the kinté hits page into a progressive web app 💄✨
-*   use the learnings of previous work to upgrade and re-release the kinté space 🚀
+* <del>get 11ty pipelines running with the FunkyKB</del> ✔
+* <del>migrate Thunderbird email to new Hyper-V Ubuntu VM</del> ✔
+* <del>move the kinté space blog to an 11ty pipeline (this has been another emergency *for years*)</del> ✔
+* <del>update SonghaySystem.com with my new `@songhay/player-video-you-tube`</del> ✔
+* convert the Day Path blog to 11ty (with `@songhay/index` as a side-car app) 💪💡
+* convert SonghaySystem.com to HTTPs by default 🔐
+* convert Day Path Blog to HTTPs by default 🔐
+* use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
+* set up automated social-media posting with Azure logic apps (and Azure functions orchestration) ☁🤖
+* modernize the kinté hits page into a progressive web app 💄✨
+* use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

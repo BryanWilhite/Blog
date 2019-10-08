@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "The Troubles With JavaScript Modules [odetocode.com] How it feels to learn JavaScript in 2016 [hackernoon.com] Angular 2 wants us to go back to jQuery? [cycligent.com] “we may not develop as many jQuery plugins as we’ve used to, but the situation is far ...",
-  "inceptDate": "2016-10-13T18:50:56.3665534-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-troubles-with-javascript-modules-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The Troubles With JavaScript Modules” and other Tweeted Links…",
+  "documentShortName": "2016-10-13-the-troubles-with-javascript-modules-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-13-the-troubles-with-javascript-modules-and-other-tweeted-links",
+  "date": "2016-10-14T01:50:56.366Z",
+  "modificationDate": "2016-10-14T01:50:56.366Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The Troubles With JavaScript Modules” and other Tweeted Links…"
+  "clientId": "2016-10-13-the-troubles-with-javascript-modules-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The Troubles With JavaScript Modules [odetocode.com] How it feels to learn JavaScript in 2016 [hackernoon.com] Angular 2 wants us to go back to jQuery? [cycligent.com] “we may not develop as many jQuery plugins as we’ve used to, but the situation is far ...\"\r\n}"
 }
 ---
+
+# “The Troubles With JavaScript Modules” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Troubles With JavaScript Modules [[odetocode.com]](http://odetocode.com/blogs/scott/archive/2016/10/04/the-troubles-with-javascript-modules.aspx)
 
@@ -73,9 +79,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FarmBot: [#3dprinting](http://twitter.com/search?q=%233dprinting) with the creator of the universe [[youtube.com]](https://www.youtube.com/watch?v=BqYrAWssrrY)[@kirstendirksen](http://twitter.com/kirstendirksen)[@shanselman](http://twitter.com/shanselman)[@migueldeicaza](http://twitter.com/migueldeicaza)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/qlKZKN7il7c?a) GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@gotocon](http://twitter.com/gotocon)[[youtu.be]](http://youtu.be/qlKZKN7il7c?a) GOTO 2016 • Exploring StackOverflow Data • Evelina Gabasova
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Zbv-MpokrC4?a) Kobo Aura One: The Best Kindle Alternative 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Zbv-MpokrC4?a) Kobo Aura One: The Best Kindle Alternative
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Google Wifi routers are little white pucks you can scatter throughout your house [[theverge.com]](http://www.theverge.com/2016/10/4/13157680/google-wifi-router-photos-hands-on)
 
@@ -83,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Adobe Releases Original Video Series Made Entirely of Stock Assets [[blogs.adobe.com]](http://blogs.adobe.com/creative/adobe-releases-original-video-series-made-entirely-of-stock-assets/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/bCaEDPsMAg0?a) Triangulation 266: Marques Brownlee 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/bCaEDPsMAg0?a) Triangulation 266: Marques Brownlee
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") My Experience Running Development At A Startup [[antjanus.com]](http://antjanus.com/blog/thoughts-and-opinions/experience-running-development-startup/)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CFR global conflict tracker [[cfr.org]](http://www.cfr.org/global/global-conflict-tracker/p32137#!/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bill Gross warns financial markets have become 'a Vegas casino' [[reuters.com]](http://www.reuters.com/article/us-funds-janus-gross-idUSKCN12415V)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

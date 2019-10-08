@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-03-09-songhay-studio-finally-some-flippant-remarks-about-xaml-validation",
-  "tag": "{\r\n  \"extract\": \"I’ve been deprioritizing a look into XAML-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation:There is Validation for System.Windows.Cont...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"I’ve been deprioritizing a look into XAML-based Validation. Years ago I somehow got the impression that Validation was “confused” or “incomplete.” Now I can say that there are two broad categories of Validation: There is Validation for System.Windows.Cont...\"\r\n}"
 }
 ---
 
@@ -34,3 +34,5 @@ I have prepared a [basic, Component-Model Validation sample](https://wpfbiggestb
 I also have a LINQPad exploration of Windows-controls Validation as a GitHub Gist:
 
 <script src="https://gist.github.com/BryanWilhite/32afb5672824160d56de.js"></script>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Show HN: Anime.js – Polyvalent JavaScript Animation Engine [anime-js.com] Earthquake Data Discovery using dc.js, crossfilter, d3.js and bootstrap [bl.ocks.org] “The index of everything about JavaScript” [js-index.com] “I thought I’d play with the new Med...",
-  "inceptDate": "2016-08-24T17:21:02.039212-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "anime-js-polyvalent-javascript-animation-engine-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Anime.js – Polyvalent JavaScript Animation Engine” and other Tweeted Links…",
+  "documentShortName": "2016-08-24-anime-js-polyvalent-javascript-animation-engine-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-24-anime-js-polyvalent-javascript-animation-engine-and-other-tweeted-links",
+  "date": "2016-08-25T00:21:02.039Z",
+  "modificationDate": "2016-08-25T00:21:02.039Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Anime.js – Polyvalent JavaScript Animation Engine” and other Tweeted Links…"
+  "clientId": "2016-08-24-anime-js-polyvalent-javascript-animation-engine-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Show HN: Anime.js – Polyvalent JavaScript Animation Engine [anime-js.com] Earthquake Data Discovery using dc.js, crossfilter, d3.js and bootstrap [bl.ocks.org] “The index of everything about JavaScript” [js-index.com] “I thought I’d play with the new Med...\"\r\n}"
 }
 ---
+
+# “Anime.js – Polyvalent JavaScript Animation Engine” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Show HN: Anime.js – Polyvalent JavaScript Animation Engine [[anime-js.com]](http://anime-js.com/)
 
@@ -63,23 +69,23 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@shanselman](http://twitter.com/shanselman) am I also the only one on earth seeing this when I try to install VS2015 update 3? [[twitter.com]](http://twitter.com/BryanWilhite/status/747878475185299456/photo/1)
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite) what's the I say when you hover on it? I assume it's chaining in 1,2,3. 
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite) what's the I say when you hover on it? I assume it's chaining in 1,2,3.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) this dialog impasse appears on two different machines -I have NEVER seen anything like this before -any command-line option? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) this dialog impasse appears on two different machines -I have NEVER seen anything like this before -any command-line option?
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite) that's weird. Let me find a setup person. [@coolcsh](http://twitter.com/coolcsh)
 
-[<img alt="Scott Hunter [coolcsh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/coolcsh.jpg">](https://t.co/EfVIf2O1zT "Scott Hunter [coolcsh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@shanselman](http://twitter.com/shanselman) Hanselman please connect him with Eric Knox 
+[<img alt="Scott Hunter [coolcsh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/coolcsh.jpg">](https://t.co/EfVIf2O1zT "Scott Hunter [coolcsh]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@shanselman](http://twitter.com/shanselman) Hanselman please connect him with Eric Knox
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman)[@coolcsh](http://twitter.com/coolcsh) thx guys: looks like it's working now: [[twitter.com]](http://twitter.com/BryanWilhite/status/747997332533182464/photo/1)
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@coolcsh](http://twitter.com/coolcsh) what changed? 
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@coolcsh](http://twitter.com/coolcsh) what changed?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman)[@coolcsh](http://twitter.com/coolcsh) I changed nothing, my end -more server telemetry needed? -too many kids pulling levers in the cloud? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman)[@coolcsh](http://twitter.com/coolcsh) I changed nothing, my end -more server telemetry needed? -too many kids pulling levers in the cloud?
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@coolcsh](http://twitter.com/coolcsh) were/are you behind any kind of proxy? 
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@coolcsh](http://twitter.com/coolcsh) were/are you behind any kind of proxy?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman)[@coolcsh](http://twitter.com/coolcsh) nope. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman)[@coolcsh](http://twitter.com/coolcsh) nope.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NDC Oslo 2016 in a Nutshell [[tugberkugurlu.com]](http://www.tugberkugurlu.com/archive/ndc-oslo-2016-in-a-nutshell)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Study Finds Password Misuse In Hospitals Is 'Endemic' [@tmrdevelops](http://twitter.com/tmrdevelops)[[news.slashdot.org]](https://news.slashdot.org/story/16/06/24/0539223/study-finds-password-misuse-in-hospitals-is-endemic?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Need some coding done? Submit your task. We'll team you up with a skilled coder. [#kodect](http://twitter.com/search?q=%23kodect)[[kodect.com]](https://kodect.com/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

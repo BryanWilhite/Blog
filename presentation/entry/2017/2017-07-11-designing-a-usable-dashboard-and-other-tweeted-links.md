@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Designing a Usable Dashboard – #ux#ui#productdesign[bit.ly][twitter.com] Ghost - The Professional Publishing Platform [ghost.org] Empathy Trumps Bravado: the Role of Emotion in Design [thedieline.com] 10 Must-have WordPress Plugins for Every Blog Owner [...",
-  "inceptDate": "2017-07-11T16:46:35.4006013-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "designing-a-usable-dashboard-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Designing a Usable Dashboard” and other Tweeted Links…",
+  "documentShortName": "2017-07-11-designing-a-usable-dashboard-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-07-11-designing-a-usable-dashboard-and-other-tweeted-links",
+  "date": "2017-07-11T23:46:35.400Z",
+  "modificationDate": "2017-07-11T23:46:35.400Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Designing a Usable Dashboard” and other Tweeted Links…"
+  "clientId": "2017-07-11-designing-a-usable-dashboard-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Designing a Usable Dashboard – #ux#ui#productdesign[bit.ly][twitter.com] Ghost - The Professional Publishing Platform [ghost.org] Empathy Trumps Bravado: the Role of Emotion in Design [thedieline.com] 10 Must-have WordPress Plugins for Every Blog Owner [...\"\r\n}"
 }
 ---
+
+# “Designing a Usable Dashboard” and other Tweeted Links…
 
 [<img alt="Connie Bai [iCandySF]" src="https://songhay.blob.core.windows.net/shared-social-twitter/iCandySF.jpg">](https://t.co/Fwauk9mgFZ "Connie Bai [iCandySF]") Designing a Usable Dashboard – [#ux](http://twitter.com/search?q=%23ux)[#ui](http://twitter.com/search?q=%23ui)[#productdesign](http://twitter.com/search?q=%23productdesign)[[bit.ly]](http://bit.ly/2sQ5kwM)[[twitter.com]](https://twitter.com/iCandySF/status/884125174093819905/photo/1)
 
@@ -83,10 +89,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Banks scramble to fix old systems as IT 'cowboys' ride into sunset [[reuters.com]](http://www.reuters.com/article/us-usa-banks-cobol-idUSKBN17C0D8)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") For Programmers, the Ultimate Office Perk is Avoiding the Office Entirely [[developers.slashdot.org]](https://developers.slashdot.org/story/17/04/12/1514247/for-programmers-the-ultimate-office-perk-is-avoiding-the-office-entirely?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [should not be regarded as a “perk”] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") For Programmers, the Ultimate Office Perk is Avoiding the Office Entirely [[developers.slashdot.org]](https://developers.slashdot.org/story/17/04/12/1514247/for-programmers-the-ultimate-office-perk-is-avoiding-the-office-entirely?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [should not be regarded as a “perk”]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Our Computer Science courses are broken – Nishtha H. Dalal – Medium [[medium.com]](https://medium.com/@nishthaHD/our-computer-science-courses-are-broken-8b12cf178853)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What to do when your open source hobby becomes a project [[opensource.com]](https://opensource.com/open-organization/17/4/open-leadership-softether)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") You Are Not The Code You Write – Hacker Noon [[hackernoon.com]](https://hackernoon.com/you-are-not-the-code-you-write-e54f02876ca3)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

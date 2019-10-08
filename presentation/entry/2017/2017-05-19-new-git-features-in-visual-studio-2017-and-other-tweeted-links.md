@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "New Git Features in Visual Studio 2017 | Microsoft Application Lifecycle Management [blogs.msdn.microsoft.com] Getting started with @Azure in Visual Studio 2017 | Visual Studio 2017 Launch | Channel 9 [channel9.msdn.com] What’s New in the .NET Platform |...",
-  "inceptDate": "2017-05-19T17:57:26.2383034-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "new-git-features-in-visual-studio-2017-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“New Git Features in Visual Studio 2017” and other Tweeted Links…",
+  "documentShortName": "2017-05-19-new-git-features-in-visual-studio-2017-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-19-new-git-features-in-visual-studio-2017-and-other-tweeted-links",
+  "date": "2017-05-20T00:57:26.238Z",
+  "modificationDate": "2017-05-20T00:57:26.238Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“New Git Features in Visual Studio 2017” and other Tweeted Links…"
+  "clientId": "2017-05-19-new-git-features-in-visual-studio-2017-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"New Git Features in Visual Studio 2017 | Microsoft Application Lifecycle Management [blogs.msdn.microsoft.com] Getting started with @Azure in Visual Studio 2017 | Visual Studio 2017 Launch | Channel 9 [channel9.msdn.com] What’s New in the .NET Platform |...\"\r\n}"
 }
 ---
+
+# “New Git Features in Visual Studio 2017” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") New Git Features in Visual Studio 2017 | Microsoft Application Lifecycle Management [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudioalm/2017/03/06/new-git-features-in-visual-studio-2017/)
 
@@ -31,13 +37,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@filip_woj](http://twitter.com/filip_woj) I notice [@scriptcsnet](http://twitter.com/scriptcsnet) in [@code](http://twitter.com/code) is triggering erroneous Code Lens visuals -have you seen this before? [[twitter.com]](https://twitter.com/BryanWilhite/status/861675837975744513/photo/1)
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) what is incorrect here? 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) what is incorrect here?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@filip_woj](http://twitter.com/filip_woj)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) I was thinking that tracking references for “global” vars in only one file was (to yo… [[twitter.com]](https://twitter.com/i/web/status/861687842036109312)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) global vars are special case (they are effectively fields on a global invisible cl… [[twitter.com]](https://twitter.com/i/web/status/861688621081952257)
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) notice if you'd have locally scoped vars, no tracking happens 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) notice if you'd have locally scoped vars, no tracking happens
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) for the other thing, it's hard to say but I suspect it's due to the fact that Omni… [[twitter.com]](https://twitter.com/i/web/status/861689033717624832)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@joaomoreno](http://twitter.com/joaomoreno) is there a [@code](http://twitter.com/code) `editor.&lt;setting&gt;` that allows us to disable C# errors that do not apply to [@scriptcsnet](http://twitter.com/scriptcsnet)? « [@filip_woj](http://twitter.com/filip_woj)
 
-[<img alt="Stephen Fluin [stephenfluin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephenfluin.jpeg">](https://t.co/MmEB0koeFN "Stephen Fluin [stephenfluin]") WebDev productivity tip of the day: Use [[loading.io]](https://loading.io/) to customize sweet loading svgs/css/gifs for your site 
+[<img alt="Stephen Fluin [stephenfluin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephenfluin.jpeg">](https://t.co/MmEB0koeFN "Stephen Fluin [stephenfluin]") WebDev productivity tip of the day: Use [[loading.io]](https://loading.io/) to customize sweet loading svgs/css/gifs for your site
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") apache - Adding VirtualHost fails: Access Forbidden Error 403 (XAMPP) (Windows 7) - Stack Overflow [[stackoverflow.com]](http://stackoverflow.com/a/9117898/22944?platform=hootsuite)
 
@@ -81,7 +87,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]") The big story is really that large apps like iTunes and stock MS Office can be made Store-ready with Centennial. [[twitter.com]](https://twitter.com/arstechnica/status/863781403820949505)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/DE5ivs65PMQ?a) Don Schenck - Red Hat 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/DE5ivs65PMQ?a) Don Schenck - Red Hat
 
 [<img alt="Digital Trends [DigitalTrends]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DigitalTrends.jpg">](https://t.co/wxxwesnWkd "Digital Trends [DigitalTrends]") Shape-shifting fog display ushers in a whole new world of holograms [[bit.ly]](http://bit.ly/2qoX71z)
 
@@ -96,3 +102,5 @@
 [<img alt="Tanel Tammik 🇪🇪 [keevitaja]" src="https://songhay.blob.core.windows.net/shared-social-twitter/keevitaja.jpg">](http://t.co/50CSYa6SsJ "Tanel Tammik 🇪🇪 [keevitaja]")[@bitfield](http://twitter.com/bitfield) actually the first "programmers" were women: [[phillyvoice.com]](http://www.phillyvoice.com/70-years-ago-six-philly-women-eniac-digital-computer-programmers/)
 
 [<img alt="Hrant H Papazian [hhpapazian]" src="https://songhay.blob.core.windows.net/shared-social-twitter/hhpapazian.jpeg">](http://t.co/SubgtU9ofa "Hrant H Papazian [hhpapazian]") Clicktivism isn't just for humans... [[twitter.com]](https://twitter.com/EnglishRussia1/status/862661011882561537)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "General Availability: Azure Search parses JSON Blobs | Blog | Microsoft Azure [azure.microsoft.com] « @chaosrealm4 Using @Azure Functions as a lightweight API gateway [blogs.msdn.microsoft.com] Azure SQL Database Features Overview | Microsoft Docs [docs....",
-  "inceptDate": "2017-05-26T15:10:53.4807084-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "general-availability-azure-search-parses-json-blobs-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“General Availability: Azure Search parses JSON Blobs” and other Tweeted Links…",
+  "documentShortName": "2017-05-26-general-availability-azure-search-parses-json-blobs-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-26-general-availability-azure-search-parses-json-blobs-and-other-tweeted-links",
+  "date": "2017-05-26T22:10:53.480Z",
+  "modificationDate": "2017-05-26T22:10:53.480Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“General Availability: Azure Search parses JSON Blobs” and other Tweeted Links…"
+  "clientId": "2017-05-26-general-availability-azure-search-parses-json-blobs-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"General Availability: Azure Search parses JSON Blobs | Blog | Microsoft Azure [azure.microsoft.com] « @chaosrealm4 Using @Azure Functions as a lightweight API gateway [blogs.msdn.microsoft.com] Azure SQL Database Features Overview | Microsoft Docs [docs....\"\r\n}"
 }
 ---
+
+# “General Availability: Azure Search parses JSON Blobs” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") General Availability: Azure Search parses JSON Blobs | Blog | Microsoft Azure [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/general-availability-azure-search-parses-json-blobs/) « [@chaosrealm4](http://twitter.com/chaosrealm4)
 
@@ -41,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") From Elm To Fable | Lucas Reis' Blog [[lucasmreis.github.io]](http://lucasmreis.github.io/blog/from-elm-to-fable/) « [@Odytrice](http://twitter.com/Odytrice) » [@Bizmonger](http://twitter.com/Bizmonger)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) Lucas Reis: “Fable does not hide from you the fact that it's going to compile to Javascript…” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) Lucas Reis: “Fable does not hide from you the fact that it's going to compile to Javascript…”
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) Gentlemen, I recommend learning the Elm, F# ([@FableCompiler](http://twitter.com/FableCompiler)) *and* C# ([@typescriptlang](http://twitter.com/typescriptlang)) pipeli… [[twitter.com]](https://twitter.com/i/web/status/864943131258531840)
 
@@ -79,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2010: where .dacpac files come from [Data Tier Applications] [[youtube.com]](https://www.youtube.com/watch?v=jmFQrBp6D0g)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How To Secure MySQL and MariaDB Databases in a Linux VPS | DigitalOcean [[digitalocean.com]](https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps) [sudo mysql_secure_installation] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How To Secure MySQL and MariaDB Databases in a Linux VPS | DigitalOcean [[digitalocean.com]](https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps) [sudo mysql_secure_installation]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") using git commit with -amend [[saraford.net]](https://saraford.net/2017/03/14/how-to-amend-your-most-recent-commit-message-on-your-local-repo-from-the-command-line-073/?platform=hootsuite)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") America's Most Affordable Cities For Tech Workers: Seattle, Austin, and Pittsburgh [[developers.slashdot.org]](https://developers.slashdot.org/story/17/03/19/2143230/americas-most-affordable-cities-for-tech-workers-seattle-austin-and-pittsburgh?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Appreciating Art with Algorithms [[hackernoon.com]](https://hackernoon.com/appreciating-art-with-algorithms-58b651615561)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

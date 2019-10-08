@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "How to improve your site’s UX [hotjar.com] JavaScript and Search Engines: What You Should Keep in Mind [noupe.com] Adding colour to historical photos [davidairey.com] Lay down some audio tracks with Qtractor [opensource.com] [open source]        Inkscape...",
-  "inceptDate": "2017-10-11T14:18:06.0009795-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "how-to-improve-your-site-s-ux-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“How to improve your site’s UX” and other Tweeted Links…",
+  "documentShortName": "2017-10-11-how-to-improve-your-site-s-ux-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-11-how-to-improve-your-site-s-ux-and-other-tweeted-links",
+  "date": "2017-10-11T21:18:06.000Z",
+  "modificationDate": "2017-10-11T21:18:06.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“How to improve your site’s UX” and other Tweeted Links…"
+  "clientId": "2017-10-11-how-to-improve-your-site-s-ux-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"How to improve your site’s UX [hotjar.com] JavaScript and Search Engines: What You Should Keep in Mind [noupe.com] Adding colour to historical photos [davidairey.com] Lay down some audio tracks with Qtractor [opensource.com] [open source]        Inkscape...\"\r\n}"
 }
 ---
+
+# “How to improve your site’s UX” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to improve your site’s UX [[hotjar.com]](https://www.hotjar.com/?utm_source=SyndicateAds&utm_medium=webpost&utm_campaign=CSSTricksJune08)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Adding colour to historical photos [[davidairey.com]](http://www.davidairey.com/photo-colorization/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lay down some audio tracks with Qtractor [[opensource.com]](https://opensource.com/article/17/6/qtractor-audio) [open source] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lay down some audio tracks with Qtractor [[opensource.com]](https://opensource.com/article/17/6/qtractor-audio) [open source]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Inkscape Moves to GitLab [[inkscape.org]](https://inkscape.org/en/news/2017/06/10/inkscape-moves-gitlab/)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Intel fires warning shots at Microsoft, says x86 emulation is a patent minefield [[arstechnica.com]](https://arstechnica.com/information-technology/2017/06/intel-fires-warning-shots-at-microsoft-claims-x86-emulation-is-a-patent-minefield/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") New Kids on the Block: Understanding Developers Entering the Workforce Today [[stackoverflow.blog]](https://stackoverflow.blog/2017/06/12/new-kids-block-understanding-developers-entering-workforce-today/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

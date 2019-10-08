@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Microservices: An application revolution powered by the cloud [azure.microsoft.com] A Guide to Different Microsoft Azure Backup Options [petri.com] Microsoft announces developer preview of new Bing Search APIs [mspoweruser.com] “I have been able to get a...",
-  "inceptDate": "2016-05-17T16:41:39.8221644-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "microservices-an-application-revolution-powered-by-the-cloud-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Microservices: An application revolution powered by the cloud” and other Tweeted Links…",
+  "documentShortName": "2016-05-17-microservices-an-application-revolution-powered-by-the-cloud-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-05-17-microservices-an-application-revolution-powered-by-the-cloud-and-other-tweeted-links",
+  "date": "2016-05-17T23:41:39.822Z",
+  "modificationDate": "2016-05-17T23:41:39.822Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Microservices: An application revolution powered by the cloud” and other Tweeted Links…"
+  "clientId": "2016-05-17-microservices-an-application-revolution-powered-by-the-cloud-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Microservices: An application revolution powered by the cloud [azure.microsoft.com] A Guide to Different Microsoft Azure Backup Options [petri.com] Microsoft announces developer preview of new Bing Search APIs [mspoweruser.com] “I have been able to get a...\"\r\n}"
 }
 ---
+
+# “Microservices: An application revolution powered by the cloud” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microservices: An application revolution powered by the cloud [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/microservices-an-application-revolution-powered-by-the-cloud/)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top 10 Myths about Teaching Computer Science [[cacm.acm.org]](http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext)
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") What no indie developer wants to hear about the App Store [[feedproxy.google.com]](http://feedproxy.google.com/~r/TheIphoneBlog/~3/HQ6eG85TPFY/story01.htm)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

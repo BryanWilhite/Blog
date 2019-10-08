@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Debugging React Native with Typescript and Visual Studio Code | Adrian Hall [shellmonger.com] Is there a way to avoid the infamous that = this in typescript - Stack Overflow [stackoverflow.com] What’s new in Angular 4.2? | Ninja Squad [blog.ninja-squad.c...",
-  "inceptDate": "2017-12-29T15:05:09.3360746-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "debugging-react-native-with-typescript-and-visual-studio-code-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Debugging React Native with Typescript and Visual Studio Code” and other Tweeted Links…",
+  "documentShortName": "2017-12-29-debugging-react-native-with-typescript-and-visual-studio-code-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-12-29-debugging-react-native-with-typescript-and-visual-studio-code-and-other-tweeted-links",
+  "date": "2017-12-29T23:05:09.336Z",
+  "modificationDate": "2017-12-29T23:05:09.336Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Debugging React Native with Typescript and Visual Studio Code” and other Tweeted Links…"
+  "clientId": "2017-12-29-debugging-react-native-with-typescript-and-visual-studio-code-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Debugging React Native with Typescript and Visual Studio Code | Adrian Hall [shellmonger.com] Is there a way to avoid the infamous that = this in typescript - Stack Overflow [stackoverflow.com] What’s new in Angular 4.2? | Ninja Squad [blog.ninja-squad.c...\"\r\n}"
 }
 ---
+
+# “Debugging React Native with Typescript and Visual Studio Code” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Debugging React Native with Typescript and Visual Studio Code | Adrian Hall [[shellmonger.com]](https://shellmonger.com/2017/08/09/debugging-react-native-with-typescript-and-visual-studio-code/)
 
@@ -21,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") angular 5 flexlayout tutorial - [explains that top level container must be display: flex in your CSS] [[youtube.com]](https://www.youtube.com/watch?v=7IAeYeHC3KQ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") angular.io: By using :host we can modify the style while loading the component [[stackoverflow.com]](https://stackoverflow.com/questions/40017615/angular-2-styling-router-outlet-to-have-width-100) [:host(test-selector)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") angular.io: By using :host we can modify the style while loading the component [[stackoverflow.com]](https://stackoverflow.com/questions/40017615/angular-2-styling-router-outlet-to-have-width-100) [:host(test-selector)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") More CSS Charts, with Grid &amp; Custom Properties [[css-tricks.com]](https://css-tricks.com/css-charts-grid-custom-properties/)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A hardware-accelerated machine intelligence library for the web [[pair-code.github.io]](https://pair-code.github.io/deeplearnjs/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/-Tj8Q12DaEQ?a) GOTO 2017 • Why is Rust Successful? • Florian Gilcher 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/-Tj8Q12DaEQ?a) GOTO 2017 • Why is Rust Successful? • Florian Gilcher
 
 [<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net/shared-social-twitter/headinthebox.jpeg">](http://t.co/LX6r9PgJAw "Erik Meijer [headinthebox]") My two favorite papers of 2017 * [[arxiv.org]](https://arxiv.org/abs/1702.02181) * [[arxiv.org]](https://arxiv.org/abs/1711.10455) show that deep learning is sim… [[twitter.com]](https://twitter.com/i/web/status/946234868542742530)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Shubheksha 👩🏽‍💻 [ScribblingOn]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ScribblingOn.jpg">](https://t.co/po3r9GlS0z "Shubheksha 👩🏽‍💻 [ScribblingOn]") Installed this [@code](http://twitter.com/code) extension that colourizes matching sets of parens and crying thinking of all time I wasted &amp; h… [[twitter.com]](https://twitter.com/i/web/status/946036000265986049)
 
-[<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") DevOps is merging with IT. There will be no IT that isn't DevOps. The power of DevOps will be simultaneously captured and lost. 
+[<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") DevOps is merging with IT. There will be no IT that isn't DevOps. The power of DevOps will be simultaneously captured and lost.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Greatest Visual Studio Code Setup In The World – Burke Knows Words – Medium [[medium.com]](https://medium.com/burke-knows-words/the-greatest-visual-studio-code-setup-in-the-world-22aa30fb8e8f)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bashing the Bash – Replacing Shell Scripts with Python [[medium.com]](https://medium.com/capital-one-developers/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/624S9ly09Xk?a) GOTO 2017 • A Practical Guide to Cybercrime • Richard Clayton 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/624S9ly09Xk?a) GOTO 2017 • A Practical Guide to Cybercrime • Richard Clayton
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 &amp; Amazon Glacier, with (STG304) [[youtube.com]](https://www.youtube.com/watch?v=QZpLNgFEWBo) » [@megafunkmega](http://twitter.com/megafunkmega), [@taraw](http://twitter.com/taraw)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") On being a bad manager [[m.signalvnoise.com]](https://m.signalvnoise.com/on-being-a-bad-manager-e56e1fb3d9dc?source=rss----668e14b18fb1---4)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Text Is Keeping Kids from Coding” [[medium.com]](https://medium.com/@dannyyaroslavski/text-is-keeping-kids-from-coding-b70988dd7541)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

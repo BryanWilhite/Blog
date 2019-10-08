@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Dark Patterns: User Interfaces Designed to Trick People - YouTube [ow.ly] Discovering the CSS Perspective Property - YouTube [ow.ly]@DevTipsShow Things I’ve Learned About CSS Grid Layout [ow.ly] Web fonts, boy, I don't know [ow.ly] Step-by-step tutorial ...",
-  "inceptDate": "2016-11-17T17:07:25.6566079-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "dark-patterns-user-interfaces-designed-to-trick-people-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Dark Patterns: User Interfaces Designed to Trick People” and other Tweeted Links…",
+  "documentShortName": "2016-11-17-dark-patterns-user-interfaces-designed-to-trick-people-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-11-17-dark-patterns-user-interfaces-designed-to-trick-people-and-other-tweeted-links",
+  "date": "2016-11-18T01:07:25.656Z",
+  "modificationDate": "2016-11-18T01:07:25.656Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Dark Patterns: User Interfaces Designed to Trick People” and other Tweeted Links…"
+  "clientId": "2016-11-17-dark-patterns-user-interfaces-designed-to-trick-people-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Dark Patterns: User Interfaces Designed to Trick People - YouTube [ow.ly] Discovering the CSS Perspective Property - YouTube [ow.ly]@DevTipsShow Things I’ve Learned About CSS Grid Layout [ow.ly] Web fonts, boy, I don't know [ow.ly] Step-by-step tutorial ...\"\r\n}"
 }
 ---
+
+# “Dark Patterns: User Interfaces Designed to Trick People” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dark Patterns: User Interfaces Designed to Trick People - YouTube [[ow.ly]](http://ow.ly/Bb37305NXml)
 
@@ -37,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to embed a youtube video in a cloud notebook - Online Technical Discussion Groups—Wolfram Community [[ow.ly]](http://ow.ly/jwsA305CldN)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/JCk5BUryxnY?a) Computational Audio 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/JCk5BUryxnY?a) Computational Audio
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@MAGIX](http://twitter.com/MAGIX) Sound Forge Pro 11 inherits a nasty bug from [@Sony](http://twitter.com/Sony)[[songhayblog.azurewebsites.net]](http://songhayblog.azurewebsites.net/entry/magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony)
 
@@ -91,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silicon Valley’s “megacommute” even worse than L.A [[ow.ly]](http://ow.ly/xZCe305PUbJ)[@iAyori](http://twitter.com/iAyori)
 
-[<img alt="Ayori Selassie [iAyori]" src="https://songhay.blob.core.windows.net/shared-social-twitter/iAyori.jpeg">](https://t.co/u3cm0aujQO "Ayori Selassie [iAyori]")[@BryanWilhite](http://twitter.com/BryanWilhite) yep 
+[<img alt="Ayori Selassie [iAyori]" src="https://songhay.blob.core.windows.net/shared-social-twitter/iAyori.jpeg">](https://t.co/u3cm0aujQO "Ayori Selassie [iAyori]")[@BryanWilhite](http://twitter.com/BryanWilhite) yep
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Too Many Startups Like Playing Startup [[ow.ly]](http://ow.ly/Svm0305PUN9)[@iAyori](http://twitter.com/iAyori)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tech firms shell out to hire and hoard talent [[ow.ly]](http://ow.ly/9Oja305PU1I)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask a Female Engineer: Employees with Kids and Relationships at Work [[ow.ly]](http://ow.ly/JoYU305BWU4) =&gt; [@iAyori](http://twitter.com/iAyori)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

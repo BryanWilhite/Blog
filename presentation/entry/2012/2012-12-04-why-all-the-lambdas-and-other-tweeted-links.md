@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Why All The Lambdas? http://t.co/2WLIVpFJ   Nice dash of responsive design by @37signals. Details matter. http://t.co/d6UZBXTa   A fantastic article by @yaili on how we, designers and developer, can become better communicators - http://t.co/e7fWXFVr   Ma...",
-  "inceptDate": "2012-12-04T00:00:00",
-  "isPublished": true,
-  "slug": "why-all-the-lambdas-and-other-tweeted-links",
-  "title": "“Why All The Lambdas?” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Why All The Lambdas?” and other Tweeted Links…",
+  "documentShortName": "2012-12-04-why-all-the-lambdas-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-12-04-why-all-the-lambdas-and-other-tweeted-links",
+  "date": "2012-12-04T08:00:00.000Z",
+  "modificationDate": "2012-12-04T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-12-04-why-all-the-lambdas-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Why All The Lambdas? http://t.co/2WLIVpFJ   Nice dash of responsive design by @37signals. Details matter. http://t.co/d6UZBXTa   A fantastic article by @yaili on how we, designers and developer, can become better communicators - http://t.co/e7fWXFVr   Ma...\"\r\n}"
 }
 ---
+
+# “Why All The Lambdas?” and other Tweeted Links…
 
 [<img alt="K. Scott Allen [OdeToCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/OdeToCode.jpeg">](http://odetocode.com/blogs/scott/ "K. Scott Allen [OdeToCode]") <span>Why All The Lambdas? [http://t.co/2WLIVpFJ](http://t.co/2WLIVpFJ)</span>
 
@@ -34,3 +44,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Self-taught African Teen Wows M.I.T.: [http://t.co/t854KUgU](http://t.co/t854KUgU) via [@youtube](http://twitter.com/youtube)</span>
 
 [<img alt="Scott Barnes c[×┬õ]כ [MossyBlog]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MossyBlog.png">](http://www.riagenic.com/ "Scott Barnes c[×┬õ]כ [MossyBlog]") <span>My work life is never boring. So many UI/UX tasks.. so little time.. *rolls up sleeves*.. time to break an industry.</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

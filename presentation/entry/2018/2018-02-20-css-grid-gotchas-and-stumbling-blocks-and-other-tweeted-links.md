@@ -1,23 +1,29 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "CSS Grid Gotchas And Stumbling Blocks [smashingmagazine.com] CSS Grid: Bringing true two-dimensional layout to the web | Microsoft Edge Web Summit 2017 [channel9.msdn.com] Using JavaScriptServices for Creating Single Page Applications | Microsoft Docs [d...",
-  "inceptDate": "2018-02-20T12:39:13.0546631-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "css-grid-gotchas-and-stumbling-blocks-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“CSS Grid Gotchas And Stumbling Blocks” and other Tweeted Links…",
+  "documentShortName": "2018-02-20-css-grid-gotchas-and-stumbling-blocks-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-20-css-grid-gotchas-and-stumbling-blocks-and-other-tweeted-links",
+  "date": "2018-02-20T20:39:13.054Z",
+  "modificationDate": "2018-02-20T20:39:13.054Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“CSS Grid Gotchas And Stumbling Blocks” and other Tweeted Links…"
+  "clientId": "2018-02-20-css-grid-gotchas-and-stumbling-blocks-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"CSS Grid Gotchas And Stumbling Blocks [smashingmagazine.com] CSS Grid: Bringing true two-dimensional layout to the web | Microsoft Edge Web Summit 2017 [channel9.msdn.com] Using JavaScriptServices for Creating Single Page Applications | Microsoft Docs [d...\"\r\n}"
 }
 ---
+
+# “CSS Grid Gotchas And Stumbling Blocks” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS Grid Gotchas And Stumbling Blocks [[smashingmagazine.com]](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS Grid: Bringing true two-dimensional layout to the web | Microsoft Edge Web Summit 2017 [[channel9.msdn.com]](https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES08)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using JavaScriptServices for Creating Single Page Applications | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa-services) [aspnet-prerendering npm package] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using JavaScriptServices for Creating Single Page Applications | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa-services) [aspnet-prerendering npm package]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The rise and fall of Ext JS [[medium.com]](https://medium.com/@ModusJesus/the-rise-and-fall-of-ext-js-c9d727131991)
 
@@ -53,13 +59,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A few notes on creating Class Libraries for [[asp.net]](http://ASP.NET) Core - Rick Strahl's Web Log [[weblog.west-wind.com]](https://weblog.west-wind.com/posts/2017/Sep/26/A-few-notes-on-creating-Class-Libraries-for-ASPNET-Core)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Integration testing in [[asp.net]](http://ASP.NET) Core | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/testing/integration-testing) [Microsoft.AspNetCore.TestHost NuGet package] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Integration testing in [[asp.net]](http://ASP.NET) Core | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/testing/integration-testing) [Microsoft.AspNetCore.TestHost NuGet package]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer: “Sometimes C# for Visual Studio Code (powered by OmniSharp) becomes confused.” [[stackoverflow.com]](https://stackoverflow.com/a/41799416/22944) [Restart Omnisharp] « [@code](http://twitter.com/code)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Turn off "restore" notifications? [@code](http://twitter.com/code) ["csharp.suppressDotnetRestoreNotification": true] [[github.com]](https://github.com/OmniSharp/omnisharp-vscode/issues/193?platform=hootsuite)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") dotnet sln command - .NET Core CLI | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln) [dotnet sln todo.sln add **/*.csproj] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") dotnet sln command - .NET Core CLI | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln) [dotnet sln todo.sln add **/*.csproj]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Book of the Runtime – Internals of the .Net Runtime not in the documentation [[hanselman.com]](https://www.hanselman.com/blog/TheBookOfTheRuntimeTheInternalsOfTheNETRuntimeThatYouWontFindInTheDocumentation.aspx)
 
@@ -98,3 +104,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Someone stole my identity on Upwork (2016) [[hackernoon.com]](https://hackernoon.com/someone-stole-my-identity-on-upwork-and-all-i-got-was-this-lousy-blog-post-d63aab2b4c90)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Steve Wozniak: Net Neutrality Rollback 'Will End the Internet As We Know It' [[yro.slashdot.org]](https://yro.slashdot.org/story/17/09/30/0240204/steve-wozniak-net-neutrality-rollback-will-end-the-internet-as-we-know-it?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "How to make responsiveness super simple with CSS Variables A quick tutorial on how to create responsive websites i…       [twitter.com] The 3.0 releases of our aXe       #a11y extensions are out! You can now test inside of Shadow DOM and with some new ru...",
-  "inceptDate": "2018-08-08T10:41:02.1578353-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "how-to-make-responsiveness-super-simple-with-css-variables-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“How to make responsiveness super simple with CSS Variables” and other Tweeted links…",
+  "documentShortName": "2018-08-08-how-to-make-responsiveness-super-simple-with-css-variables-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-08-how-to-make-responsiveness-super-simple-with-css-variables-and-other-tweeted-links",
+  "date": "2018-08-08T17:41:02.157Z",
+  "modificationDate": "2018-08-08T17:41:02.157Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“How to make responsiveness super simple with CSS Variables” and other Tweeted links…"
+  "clientId": "2018-08-08-how-to-make-responsiveness-super-simple-with-css-variables-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"How to make responsiveness super simple with CSS Variables A quick tutorial on how to create responsive websites i…       [twitter.com] The 3.0 releases of our aXe       #a11y extensions are out! You can now test inside of Shadow DOM and with some new ru...\"\r\n}"
 }
 ---
+
+# “How to make responsiveness super simple with CSS Variables” and other Tweeted links…
 
 [<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.png">](http://t.co/A4ZEwCEPEs "Veerle Pieters [vpieters]") How to make responsiveness super simple with CSS Variables A quick tutorial on how to create responsive websites i… [[twitter.com]](https://twitter.com/i/web/status/981489191027724293)
 
@@ -60,3 +66,5 @@
 [<img alt="Dona Sarkar [donasarkar]" src="https://songhay.blob.core.windows.net/shared-social-twitter/donasarkar.jpg">](https://t.co/6D6oayhemZ "Dona Sarkar [donasarkar]") What is a book that's influenced you &amp; what is the idea you got from it? Mine is: Tribes by Seth Godin Idea: In a… [[twitter.com]](https://twitter.com/i/web/status/981898443642757120)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@donasarkar](http://twitter.com/donasarkar) Mine is: "They Came Before Columbus" by Ivan van Sertima which introduced to me how naming conventions… [[twitter.com]](https://twitter.com/i/web/status/981913793646112769)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

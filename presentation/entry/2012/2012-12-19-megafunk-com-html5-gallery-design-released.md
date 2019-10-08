@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I can find two other HTML-5, responsive, “Gallery” designs out there. One is for sale and the other is for WordPress. Neither addresses paging thumbnails (visuals covered in “Design Notes: XHTML5 Responsive Gallery”)—but both of them look much better tha...",
-  "inceptDate": "2012-12-19T16:00:00-08:00",
-  "isPublished": true,
-  "slug": "megafunk-com-html5-gallery-design-released",
-  "title": "MegaFunk.com HTML5 Gallery Design Released"
+  "documentId": 0,
+  "title": "MegaFunk.com HTML5 Gallery Design Released",
+  "documentShortName": "2012-12-19-megafunk-com-html5-gallery-design-released",
+  "fileName": "index.html",
+  "path": "./entry/2012-12-19-megafunk-com-html5-gallery-design-released",
+  "date": "2012-12-20T00:00:00.000Z",
+  "modificationDate": "2012-12-20T00:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-12-19-megafunk-com-html5-gallery-design-released",
+  "tag": "{\r\n  \"extract\": \"I can find two other HTML-5, responsive, “Gallery” designs out there. One is for sale and the other is for WordPress. Neither addresses paging thumbnails (visuals covered in “Design Notes: XHTML5 Responsive Gallery”)—but both of them look much better tha...\"\r\n}"
 }
 ---
+
+# MegaFunk.com HTML5 Gallery Design Released
 
 [<img alt="Apple iPad Mini MD531LL/A (16GB, Wi-Fi, White)" src="http://ecx.images-amazon.com/images/I/317qBBOVKJL.jpg" style="float:right;margin:16px;">](http://www.amazon.com/Apple-iPad-MD531LL-Wi-Fi-White/dp/B00746W9F2%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00746W9F2 "Apple iPad Mini MD531LL/A (16GB, Wi-Fi, White)")
 
@@ -19,7 +29,7 @@ Nevertheless, I should be pleased at the relative improvement over my earlier wo
 
 Overriding my preference for using `device-width`, this `meta` element is in play:
 
-    &lt;meta name="viewport" content="width=528; height=device-height;" /&gt;
+&lt;meta name="viewport" content="width=528; height=device-height;" /&gt;
 
 Instead of making the MegaFunk.com menu responsive, a minimum width of `528px` is set to prevent the menu items from stacking. This causes pan-and-scan swiping and zooming on smartphones and even a little on the iPad.
 
@@ -39,7 +49,7 @@ A very powerful concept (for me at the moment) that allows me to break blocks of
 
 In the case of my gallery, I use `readyMegaGallery``()`. This is called inside of `$(window.document).ready(``)` like this:
 
-    $(window.document).ready(function () {
+$(window.document).ready(function () {
         var flow = $('#GalleryContainer');
         if (flow.length &gt; 0) {
             $.getJSON('./data/browse.json').then(function (data) {
@@ -56,3 +66,5 @@ We can see that this *ready* concept is in line with `jQuery.ready`.
 I mistakenly thought that `jQuery.next()` would select the next sibling matching its selector without regard for its contiguity. I was wrong: what we must use is `jQuery.nextAll('.MyClass:first')` where the class, `.MyClass`, in the selector may indicate contiguous sibling or not.
 
 Another awesome first for me is `jQuery.index()`. My approach to responsive design is to build a grid system out of *tiles*. Locating these arrays of tiles by an *index* is solved by `jQuery.index()`. I will need more tile tricks that are inspired by classic file explorers that group, sort and filter.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks [css-tricks.com]@chriscoyier » @Bizmonger Inline SVG vs Icon Fonts [CAGEMATCH] | CSS-Tricks [css-tricks.com]@chriscoyier « @SaraSoueidan Websites to Generate SVG Patterns | CSS-Tricks [css-tricks.c...",
-  "inceptDate": "2017-05-03T13:08:20.1210802-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-svg-path-syntax-an-illustrated-guide-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The SVG `path` Syntax: An Illustrated Guide ” and other Tweeted Links…",
+  "documentShortName": "2017-05-03-the-svg-path-syntax-an-illustrated-guide-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-03-the-svg-path-syntax-an-illustrated-guide-and-other-tweeted-links",
+  "date": "2017-05-03T20:08:20.121Z",
+  "modificationDate": "2017-05-03T20:08:20.121Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The SVG `path` Syntax: An Illustrated Guide ” and other Tweeted Links…"
+  "clientId": "2017-05-03-the-svg-path-syntax-an-illustrated-guide-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks [css-tricks.com]@chriscoyier » @Bizmonger Inline SVG vs Icon Fonts [CAGEMATCH] | CSS-Tricks [css-tricks.com]@chriscoyier « @SaraSoueidan Websites to Generate SVG Patterns | CSS-Tricks [css-tricks.c...\"\r\n}"
 }
 ---
+
+# “The SVG `path` Syntax: An Illustrated Guide ” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The SVG `path` Syntax: An Illustrated Guide | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/svg-path-syntax-illustrated-guide/)[@chriscoyier](http://twitter.com/chriscoyier) » [@Bizmonger](http://twitter.com/Bizmonger)
 
@@ -73,9 +79,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The flexibility of Audio Hijack 3 - Six Colors [[sixcolors.com]](https://sixcolors.com/post/2017/02/audio-hijack-3-flexibility/) » [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/oy4dSCEVX0c?a) Beginner Guide to Buying Video Cards 2017 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/oy4dSCEVX0c?a) Beginner Guide to Buying Video Cards 2017
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/BOa9A3NzRt8?a) How to Edit Multiple Camera Angles in Adobe Premiere 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/BOa9A3NzRt8?a) How to Edit Multiple Camera Angles in Adobe Premiere
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Seeing Theory [[students.brown.edu]](http://students.brown.edu/seeing-theory/?vt=4)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Programmers Are Confessing Their Coding Sins To Protest a Broken Job Interview Process - Slashdot [[developers.slashdot.org]](https://developers.slashdot.org/story/17/03/01/1643251/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process?utm_source=feedly1.0mainlinkanon&utm_medium=feed) » [@shanselman](http://twitter.com/shanselman)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") If you purchased anything from a Microsoft Store they may owe you $100 - MSPoweruser [[mspoweruser.com]](https://mspoweruser.com/purchased-anything-microsoft-store-may-owe-100/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

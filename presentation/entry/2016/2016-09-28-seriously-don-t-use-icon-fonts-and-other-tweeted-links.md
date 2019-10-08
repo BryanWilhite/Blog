@@ -1,21 +1,27 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Seriously, Don’t Use Icon Fonts [cloudfour.com]@tylersticka[programmingfonts.org] The most complete resource for the best monospace fonts.        Improving your creative process: The end of stock photography as we know it [blogs.adobe.com] Top 6 Reasons ...",
-  "inceptDate": "2016-09-28T16:26:24.4231697-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "seriously-don-t-use-icon-fonts-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Seriously, Don’t Use Icon Fonts” and other Tweeted Links…",
+  "documentShortName": "2016-09-28-seriously-don-t-use-icon-fonts-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-09-28-seriously-don-t-use-icon-fonts-and-other-tweeted-links",
+  "date": "2016-09-28T23:26:24.423Z",
+  "modificationDate": "2016-09-28T23:26:24.423Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Seriously, Don’t Use Icon Fonts” and other Tweeted Links…"
+  "clientId": "2016-09-28-seriously-don-t-use-icon-fonts-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Seriously, Don’t Use Icon Fonts [cloudfour.com]@tylersticka[programmingfonts.org] The most complete resource for the best monospace fonts.        Improving your creative process: The end of stock photography as we know it [blogs.adobe.com] Top 6 Reasons ...\"\r\n}"
 }
 ---
 
+# “Seriously, Don’t Use Icon Fonts” and other Tweeted Links…
+
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Seriously, Don’t Use Icon Fonts [[cloudfour.com]](https://cloudfour.com/thinks/seriously-dont-use-icon-fonts/)[@tylersticka](http://twitter.com/tylersticka)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[programmingfonts.org]](http://programmingfonts.org) The most complete resource for the best monospace fonts. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[programmingfonts.org]](http://programmingfonts.org) The most complete resource for the best monospace fonts.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Improving your creative process: The end of stock photography as we know it [[blogs.adobe.com]](http://blogs.adobe.com/creative/improving-your-creative-process-the-end-of-stock-photography-as-we-know-it/)
 
@@ -90,3 +96,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Test Drive Your Business Idea Before Quitting Your Job [[blog.ladder.io]](http://blog.ladder.io/business-idea/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Is It So Tough For African Startups To Raise Investment Abroad? [[iafrikan.com]](http://www.iafrikan.com/2016/09/08/why-is-it-so-tough-for-african-startups-to-raise-investment-abroad-2/)[@iayori](http://twitter.com/iayori)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

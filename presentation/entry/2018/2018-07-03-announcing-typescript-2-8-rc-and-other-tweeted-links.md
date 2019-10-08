@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "npm install -g typescript     @rc      ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback:     [msft.social] 🎊 Great code-through by     @andrewheiss     \"Exploring Minard’s 1812 plot w/ ggplot2\"     [buff.ly]#rstats…     [twitter.com] When...",
-  "inceptDate": "2018-07-03T10:27:38.3801772-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "announcing-typescript-2-8-rc-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“…announcing TypeScript 2.8 RC” and other Tweeted links…",
+  "documentShortName": "2018-07-03-announcing-typescript-2-8-rc-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-03-announcing-typescript-2-8-rc-and-other-tweeted-links",
+  "date": "2018-07-03T17:27:38.380Z",
+  "modificationDate": "2018-07-03T17:27:38.380Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“…announcing TypeScript 2.8 RC” and other Tweeted links…"
+  "clientId": "2018-07-03-announcing-typescript-2-8-rc-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"npm install -g typescript     @rc      ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback:     [msft.social] 🎊 Great code-through by     @andrewheiss     \\\"Exploring Minard’s 1812 plot w/ ggplot2\\\"     [buff.ly]#rstats…     [twitter.com] When...\"\r\n}"
 }
 ---
+
+# “…announcing TypeScript 2.8 RC” and other Tweeted links…
 
 [<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") npm install -g typescript [@rc](http://twitter.com/rc) ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback: [[msft.social]](http://msft.social/Xr5pqK)
 
@@ -31,9 +37,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/4kHPcDqTRfI?a) AngularNYC - Cloudinary + Angular - Prosper Otemuyiwa ( [@unicodeveloper](http://twitter.com/unicodeveloper))
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a case study of rich media on a low-bandwidth budget [ [[youtu.be]](https://youtu.be/4kHPcDqTRfI?t=600)] =&gt; [@megafunkmega](http://twitter.com/megafunkmega) &lt;= [@JioCinema](http://twitter.com/JioCinema)[[twitter.com]](https://twitter.com/BryanWilhite/status/978697723070226432/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a case study of rich media on a low-bandwidth budget [[[youtu.be]](https://youtu.be/4kHPcDqTRfI?t=600)] =&gt; [@megafunkmega](http://twitter.com/megafunkmega) &lt;= [@JioCinema](http://twitter.com/JioCinema)[[twitter.com]](https://twitter.com/BryanWilhite/status/978697723070226432/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended video players: Google Shaka [ [[github.com]](https://github.com/google/shaka-player)] and Cloudinary [ [[cloudinary.com]](https://cloudinary.com/)] [[twitter.com]](https://twitter.com/BryanWilhite/status/978699032708050944/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended video players: Google Shaka [[[github.com]](https://github.com/google/shaka-player)] and Cloudinary [[[cloudinary.com]](https://cloudinary.com/)] [[twitter.com]](https://twitter.com/BryanWilhite/status/978699032708050944/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") very smart move: checking battery level before video load [ if('getBattery' in navigator) ] [[twitter.com]](https://twitter.com/BryanWilhite/status/978701230909243392/photo/1)
 
@@ -112,3 +118,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Broad Financial: What is a Self-Directed Solo 401(k) &amp; How Can I Use a Solo 401(k) to Jumpstart My Retirement Savin… [[twitter.com]](https://twitter.com/i/web/status/978854361387470848)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[youtube.com]](https://www.youtube.com/watch?v=ol_zN1nYgxc)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

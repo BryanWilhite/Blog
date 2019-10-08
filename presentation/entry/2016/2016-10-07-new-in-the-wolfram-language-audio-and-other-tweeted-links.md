@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "New in the Wolfram Language: Audio [blog.wolfram.com] Why Learning Angular 2 Was Excruciating [hackernoon.com] Answer:Regular expression to remove HTML tags [stackoverflow.com] I liked a @YouTube video from @devtipsshow[youtu.be] Experience Design at Ado...",
-  "inceptDate": "2016-10-07T13:25:05.5169723-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "new-in-the-wolfram-language-audio-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“New in the Wolfram Language: Audio” and other Tweeted Links…",
+  "documentShortName": "2016-10-07-new-in-the-wolfram-language-audio-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-07-new-in-the-wolfram-language-audio-and-other-tweeted-links",
+  "date": "2016-10-07T20:25:05.516Z",
+  "modificationDate": "2016-10-07T20:25:05.516Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“New in the Wolfram Language: Audio” and other Tweeted Links…"
+  "clientId": "2016-10-07-new-in-the-wolfram-language-audio-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"New in the Wolfram Language: Audio [blog.wolfram.com] Why Learning Angular 2 Was Excruciating [hackernoon.com] Answer:Regular expression to remove HTML tags [stackoverflow.com] I liked a @YouTube video from @devtipsshow[youtu.be] Experience Design at Ado...\"\r\n}"
 }
 ---
+
+# “New in the Wolfram Language: Audio” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") New in the Wolfram Language: Audio [[blog.wolfram.com]](http://blog.wolfram.com/2016/09/23/new-in-the-wolfram-language-audio/)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Regular expression to remove HTML tags [[stackoverflow.com]](http://stackoverflow.com/a/3790726/22944?stw=2)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@devtipsshow](http://twitter.com/devtipsshow)[[youtu.be]](http://youtu.be/UcGRcznhsyM?a) Experience Design at Adobe — Day 1 Achieving Hierarchy Through 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@devtipsshow](http://twitter.com/devtipsshow)[[youtu.be]](http://youtu.be/UcGRcznhsyM?a) Experience Design at Adobe — Day 1 Achieving Hierarchy Through
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Variable Fonts: the Future of (Web) Type [[typographica.org]](http://typographica.org/on-typography/variable-fonts/)
 
@@ -59,15 +65,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Windows 10 'Redstone 2' Build 14931 brings app updates [[zdnet.com]](http://www.zdnet.com/article/microsoft-windows-10-redstone-2-build-14931-brings-app-updates/#ftag=RSSbaffb68)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Win10 1607 cumulative update (KB3193494) killed video; had to F8 =&gt; F2 into low-resolution mode; looking for Radeon drivers 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Win10 1607 cumulative update (KB3193494) killed video; had to F8 =&gt; F2 into low-resolution mode; looking for Radeon drivers
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logitech announces first desktop speaker with bluetooth audio support [[mspoweruser.com]](https://mspoweruser.com/logitech-announces-first-desktop-speaker-bluetooth-audio-support/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/fOAobuLUzME?a) The Logitech Bluetooth Music Receiver is a dead simple audio streaming solution, no 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/fOAobuLUzME?a) The Logitech Bluetooth Music Receiver is a dead simple audio streaming solution, no
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") wow: i did not know that DVI was "old" for over two years [[youtube.com]](https://www.youtube.com/watch?v=f38sotYHqtA)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mrjustinbryant](http://twitter.com/mrjustinbryant)[[youtu.be]](http://youtu.be/MdJt5c-mxuI?a) Buffer vs Hootsuite | Who Is The Best Social Media Manager? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mrjustinbryant](http://twitter.com/mrjustinbryant)[[youtu.be]](http://youtu.be/MdJt5c-mxuI?a) Buffer vs Hootsuite | Who Is The Best Social Media Manager?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dark Sky launches new website for its to-the-minute weather forecasts [[theverge.com]](http://www.theverge.com/2016/9/20/12994194/dark-sky-website-launches)
 
@@ -83,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yes, I still use Quicken and this is one of the many things I have to deal with: [[twitter.com]](https://twitter.com/BryanWilhite/status/779184003785994240/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for the last few days [@twitter](http://twitter.com/twitter) searches by date range are NOT sorted by date; [@Support](http://twitter.com/Support) would have all the info they need from this Tweet 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for the last few days [@twitter](http://twitter.com/twitter) searches by date range are NOT sorted by date; [@Support](http://twitter.com/Support) would have all the info they need from this Tweet
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") when i *charmingly* refer to the “gut bucket” i am referring to our *simple* needs -nothing hard to understand [… [[twitter.com]](https://twitter.com/i/web/status/778731020434583554)
 
@@ -91,16 +97,18 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "works on my machine" is being replaced by "works in my geo-location" =&gt; [@shanselman](http://twitter.com/shanselman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/6nFh8kiPXYs?a) The Engineer Who Made Panda Express a Food Court Staple 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/6nFh8kiPXYs?a) The Engineer Who Made Panda Express a Food Court Staple
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Meet Morgan DeBaun: The Blavity Founder Bridging The Gap Between Content And Tech [[forbes.com]](http://www.forbes.com/sites/julianmitchell/2015/11/05/meet-morgan-debaun-the-blavity-founder-bridging-the-gap-between-content-and-tech/#6308dd277e6c)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mkbhd](http://twitter.com/mkbhd)[[youtu.be]](http://youtu.be/-ICgMYIzhxg?a) Tesla Model S P100D Impressions! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@mkbhd](http://twitter.com/mkbhd)[[youtu.be]](http://youtu.be/-ICgMYIzhxg?a) Tesla Model S P100D Impressions!
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@androidauth](http://twitter.com/androidauth)[[youtu.be]](http://youtu.be/7Dzt7A4ncro?a) Nexus 5X Review! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@androidauth](http://twitter.com/androidauth)[[youtu.be]](http://youtu.be/7Dzt7A4ncro?a) Nexus 5X Review!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Strange Victorian Computer That Generated Latin Verse [[atlasobscura.com]](http://www.atlasobscura.com/articles/the-strange-victorian-computer-that-generated-latin-verse)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computer Vision Syndrome [[laravel-news.com]](https://laravel-news.com/2016/09/computer-vision-syndrome/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Clipisode: “Host your own daily talk show, featuring your friends and fans” [[clipisode.co]](https://clipisode.co/beta) =&gt; [@libertymadison](http://twitter.com/libertymadison), [@CHEFAHKI](http://twitter.com/CHEFAHKI)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

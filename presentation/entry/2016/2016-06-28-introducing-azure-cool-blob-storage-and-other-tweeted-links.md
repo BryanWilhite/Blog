@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Introducing Azure Cool Blob Storage [azure.microsoft.com] Azure [asp.net] Core Web Development @shawnwildermuth[wildermuth.com] What does an Open Source Microsoft Web look like? | DevDays Latam 2016 [channel9.msdn.com] Microsoft takes on IFTTT with Flow ...",
-  "inceptDate": "2016-06-28T16:37:46.2307244-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "introducing-azure-cool-blob-storage-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Introducing Azure Cool Blob Storage” and other Tweeted Links…",
+  "documentShortName": "2016-06-28-introducing-azure-cool-blob-storage-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-28-introducing-azure-cool-blob-storage-and-other-tweeted-links",
+  "date": "2016-06-28T23:37:46.230Z",
+  "modificationDate": "2016-06-28T23:37:46.230Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Introducing Azure Cool Blob Storage” and other Tweeted Links…"
+  "clientId": "2016-06-28-introducing-azure-cool-blob-storage-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introducing Azure Cool Blob Storage [azure.microsoft.com] Azure [asp.net] Core Web Development @shawnwildermuth[wildermuth.com] What does an Open Source Microsoft Web look like? | DevDays Latam 2016 [channel9.msdn.com] Microsoft takes on IFTTT with Flow ...\"\r\n}"
 }
 ---
+
+# “Introducing Azure Cool Blob Storage” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Azure Cool Blob Storage [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/introducing-azure-cool-storage/)
 
@@ -86,3 +92,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") after years of using TFS (the cloud service) I have *never* seen this: [[twitter.com]](http://twitter.com/BryanWilhite/status/727292237466361857/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SleepBus Service between San Francisco and Los Angeles Plans to Disrupt Existing Options [[travelcodex.com]](http://www.travelcodex.com/2016/04/sleepbus-san-francisco-los-angeles/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

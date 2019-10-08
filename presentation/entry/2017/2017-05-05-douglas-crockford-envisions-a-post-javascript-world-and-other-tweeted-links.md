@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Douglas Crockford Envisions A Post-JavaScript World - Slashdot [developers.slashdot.org] Introduction to Web Audio API | CSS-Tricks [css-tricks.com] Peter Bright: “DRM in HTML5 is a victory for the open Web, not a defeat” | Ars Technica [arstechnica.com]...",
-  "inceptDate": "2017-05-05T13:24:09.6014765-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "douglas-crockford-envisions-a-post-javascript-world-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Douglas Crockford Envisions A Post-JavaScript World” and other Tweeted Links…",
+  "documentShortName": "2017-05-05-douglas-crockford-envisions-a-post-javascript-world-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-05-douglas-crockford-envisions-a-post-javascript-world-and-other-tweeted-links",
+  "date": "2017-05-05T20:24:09.601Z",
+  "modificationDate": "2017-05-05T20:24:09.601Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Douglas Crockford Envisions A Post-JavaScript World” and other Tweeted Links…"
+  "clientId": "2017-05-05-douglas-crockford-envisions-a-post-javascript-world-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Douglas Crockford Envisions A Post-JavaScript World - Slashdot [developers.slashdot.org] Introduction to Web Audio API | CSS-Tricks [css-tricks.com] Peter Bright: “DRM in HTML5 is a victory for the open Web, not a defeat” | Ars Technica [arstechnica.com]...\"\r\n}"
 }
 ---
+
+# “Douglas Crockford Envisions A Post-JavaScript World” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Douglas Crockford Envisions A Post-JavaScript World - Slashdot [[developers.slashdot.org]](https://developers.slashdot.org/story/17/03/04/0042218/douglas-crockford-envisions-a-post-javascript-world?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -43,11 +49,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") why is this [@VisualStudio](http://twitter.com/VisualStudio) 2017 dialog appearing when there is NO installer update? (only routine plugin updates) [[twitter.com]](https://twitter.com/BryanWilhite/status/859121623630094337/photo/1)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) That's strange, Bryan. What steps are you following when this error messages? We want to help. 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) That's strange, Bryan. What steps are you following when this error messages? We want to help.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) I used the phrase “routine plugin updates” to save time and prevent you asking that question. I am re… [[twitter.com]](https://twitter.com/i/web/status/859195220889550849)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Understood. Please run the Log Collection Tool and share your ‘%temp%\[[vslogs.zip]](http://vslogs.zip)’ file with us via DM. 
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Understood. Please run the Log Collection Tool and share your ‘%temp%\[[vslogs.zip]](http://vslogs.zip)’ file with us via DM.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 10 Best Java IDEs For Linux - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo [[linuxandubuntu.com]](http://www.linuxandubuntu.com/home/10-best-java-ides-for-linux)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How can I check the file encoding in a shell script? [[stackoverflow.com]](http://stackoverflow.com/questions/1730878/encoding-of-file-shell-script)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@briannoyes](http://twitter.com/briannoyes) was there ever an explanation for sealing ValueConverter subclasses? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@briannoyes](http://twitter.com/briannoyes) was there ever an explanation for sealing ValueConverter subclasses?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Blackmagic Design Announces DaVinci Resolve 12.5 for Linux Now Available [[blackmagicdesign.com]](https://www.blackmagicdesign.com/media/release/20170302-03) » [@megafunkmega](http://twitter.com/megafunkmega)
 
@@ -82,3 +88,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hydrogen | advanced drum machine for GNU/Linux [[hydrogen-music.org]](http://www.hydrogen-music.org/hcms/) » [@megafunkmega](http://twitter.com/megafunkmega), [@carlfranklin](http://twitter.com/carlfranklin), [@HumptyFunk](http://twitter.com/HumptyFunk)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 802.eleventy what? A deep dive into why Wi-Fi kind of sucks | Ars Technica [[arstechnica.com]](https://arstechnica.com/information-technology/2017/03/802-eleventy-what-a-deep-dive-into-why-wi-fi-kind-of-sucks/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

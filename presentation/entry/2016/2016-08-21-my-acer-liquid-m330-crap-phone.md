@@ -1,30 +1,30 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&amp;T, I seized upon this phone as soon as I saw it on display in the Microsoft Store. This phone gives me ...",
-  "inceptDate": "2016-08-21T21:33:09.3969669-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "my-acer-liquid-m330-crap-phone",
+  "documentId": 0,
+  "title": "My Acer Liquid M330 ‘Crap’ Phone",
+  "documentShortName": "2016-08-21-my-acer-liquid-m330-crap-phone",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-21-my-acer-liquid-m330-crap-phone",
+  "date": "2016-08-22T04:33:09.396Z",
+  "modificationDate": "2016-08-22T04:33:09.396Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "My Acer Liquid M330 ‘Crap’ Phone"
+  "clientId": "2016-08-21-my-acer-liquid-m330-crap-phone",
+  "tag": "{\r\n  \"extract\": \"The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&amp;T, I seized upon this phone as soon as I saw it on display in the Microsoft Store. This phone gives me ...\"\r\n}"
 }
 ---
+
+# My Acer Liquid M330 ‘Crap’ Phone
 
 The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&amp;T, I seized upon this phone as soon as I saw it [on display in the Microsoft Store](https://www.microsoftstore.com/store/msusa/en_US/pdp/productID.335427600?icid=Windows_phone_ModC_AcerM330). This phone gives me the smallest display of Windows 10 I would ever want to see—and it gives me the occidental novelty of [the dual SIM](http://www.cnet.com/news/why-you-want-a-dual-sim-phone/). In spite of its low price, I would not touch this phone were it not for its compatibility with Ting.
 [<img alt="Acer M330" src="https://farm8.staticflickr.com/7635/27967529652_6f539e39f3_z_d.jpg">](https://www.flickr.com/photos/wilhite/27967529652/in/dateposted-public/ "Acer M330")
 
-I called the Microsoft Store in person to obtain its IMEI number:
+I called the Microsoft Store in person to obtain its IMEI number:IMEI: 352922070668644I ran it through [the Ting BYOD form](https://ting.com/byod) and found success.
 
-
-IMEI: 352922070668644
-    
-
-I ran it through [the Ting BYOD form](https://ting.com/byod) and found success.
-
-*Success* here is rather pathetic. With this phone, I have successfully found a lone mountain cabin in the woods to hole up in. I should have acted on this sooner as I have been paying AT&amp;T $160+ per month for two locked devices (a Lumina 1520 and 2520—the 2520 with an AT&amp;T data plan was a way to control my youngest children in the car). Now that my youngest children have their own iPhones there is no (emotional) need to stay shackled to the AT&amp;T Tree of Woe. 
+*Success* here is rather pathetic. With this phone, I have successfully found a lone mountain cabin in the woods to hole up in. I should have acted on this sooner as I have been paying AT&amp;T $160+ per month for two locked devices (a Lumina 1520 and 2520—the 2520 with an AT&amp;T data plan was a way to control my youngest children in the car). Now that my youngest children have their own iPhones there is no (emotional) need to stay shackled to the AT&amp;T Tree of Woe.
 
 ## My “excuse” for staying with Windows Phone…
 
@@ -43,6 +43,8 @@ After upgrading the phone to the Windows “Anniversary” update there has been
 
 ## Related Links
 
-*   “[Should you buy a premium Windows phone in 2016?](http://mspoweruser.com/buy-premium-windows-phone-2016/)”
-*   “[Windows 10 Mobile is still on less than 12% of Windows Phones](http://mspoweruser.com/windows-10-mobile-still-less-12-windows-phones/)”
-*   “[Windows 10 Mobile Anniversary Update’s scaling is broken on some devices](http://mspoweruser.com/windows-10-mobile-anniversary-updates-scaling-is-broken-on-some-devices/)”
+* “[Should you buy a premium Windows phone in 2016?](http://mspoweruser.com/buy-premium-windows-phone-2016/)”
+* “[Windows 10 Mobile is still on less than 12% of Windows Phones](http://mspoweruser.com/windows-10-mobile-still-less-12-windows-phones/)”
+* “[Windows 10 Mobile Anniversary Update’s scaling is broken on some devices](http://mspoweruser.com/windows-10-mobile-anniversary-updates-scaling-is-broken-on-some-devices/)”
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

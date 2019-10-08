@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Analyzing the Hamburger Menu in Web Design       [speckyboy.com] Information Architecture. The Most Important Part of Design You’re Probably Overlooking.       [blog.prototypr.io] Getting Started with       #CSS Counters       [scotch.io] 24 Ways to Look...",
-  "inceptDate": "2018-07-23T09:03:29.3753002-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "analyzing-the-hamburger-menu-in-web-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Analyzing the Hamburger Menu in Web Design” and other Tweeted links…",
+  "documentShortName": "2018-07-23-analyzing-the-hamburger-menu-in-web-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-23-analyzing-the-hamburger-menu-in-web-design-and-other-tweeted-links",
+  "date": "2018-07-23T16:03:29.375Z",
+  "modificationDate": "2018-07-23T16:03:29.375Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Analyzing the Hamburger Menu in Web Design” and other Tweeted links…"
+  "clientId": "2018-07-23-analyzing-the-hamburger-menu-in-web-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Analyzing the Hamburger Menu in Web Design       [speckyboy.com] Information Architecture. The Most Important Part of Design You’re Probably Overlooking.       [blog.prototypr.io] Getting Started with       #CSS Counters       [scotch.io] 24 Ways to Look...\"\r\n}"
 }
 ---
+
+# “Analyzing the Hamburger Menu in Web Design” and other Tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") Analyzing the Hamburger Menu in Web Design [[speckyboy.com]](https://speckyboy.com/analyzing-effectiveness-hamburger-menus-web-design/)
 
@@ -110,3 +116,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") WhatsApp co-founder Jan Koum is leaving Facebook after clashing over data privacy [[theverge.com]](https://www.theverge.com/2018/4/30/17304792/whatsapp-jan-koum-facebook-data-privacy-encryption?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) via [@Verge](http://twitter.com/Verge)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why I’m Leaving Medium [[praxis.fortelabs.co]](https://praxis.fortelabs.co/why-im-leaving-medium/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

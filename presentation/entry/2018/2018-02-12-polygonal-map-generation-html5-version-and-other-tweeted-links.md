@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Polygonal Map Generation, HTML5 Version [simblob.blogspot.com] Upterm – A terminal emulator and interactive shell based on Electron [github.com] Does ES6 Mean The End Of Underscore / Lodash? - [derickbailey.com][derickbailey.com] The Smithsonian Design M...",
-  "inceptDate": "2018-02-12T11:53:45.5177513-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "polygonal-map-generation-html5-version-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Polygonal Map Generation, HTML5 Version” and other Tweeted Links…",
+  "documentShortName": "2018-02-12-polygonal-map-generation-html5-version-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-12-polygonal-map-generation-html5-version-and-other-tweeted-links",
+  "date": "2018-02-12T19:53:45.517Z",
+  "modificationDate": "2018-02-12T19:53:45.517Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Polygonal Map Generation, HTML5 Version” and other Tweeted Links…"
+  "clientId": "2018-02-12-polygonal-map-generation-html5-version-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Polygonal Map Generation, HTML5 Version [simblob.blogspot.com] Upterm – A terminal emulator and interactive shell based on Electron [github.com] Does ES6 Mean The End Of Underscore / Lodash? - [derickbailey.com][derickbailey.com] The Smithsonian Design M...\"\r\n}"
 }
 ---
+
+# “Polygonal Map Generation, HTML5 Version” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Polygonal Map Generation, HTML5 Version [[simblob.blogspot.com]](http://simblob.blogspot.com/2017/09/mapgen2-html5.html)
 
@@ -39,7 +45,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Protect your Queryable API with the validation feature in Web API OData [FilterQueryValidator] [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2013/02/06/protect-your-queryable-api-with-the-validation-feature-in-asp-net-web-api-odata/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/cJBYNVIYWsw?a) Running Rendering Workloads on AWS with Deadline - 2017 AWS Online Tech Talks 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/cJBYNVIYWsw?a) Running Rendering Workloads on AWS with Deadline - 2017 AWS Online Tech Talks
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding Graphs and Their Application on Software Systems - Tugberk Ugurlu's Blog [[tugberkugurlu.com]](http://www.tugberkugurlu.com/archive/understanding-graphs-and-their-application-on-software-systems)
 
@@ -51,7 +57,7 @@
 
 [<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]")[[twitter.com]](https://twitter.com/JavaScriptDaily/status/962774994416742400)
 
-[<img alt="Jimmy Bogard [jbogard]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jbogard.png">](https://t.co/V3lUFuUp7d "Jimmy Bogard [jbogard]") blogged - Containers, what is it good for? [[jimmybogard.com]](https://jimmybogard.com/containers-what-is-it-good-for/) tracking my journey of experimenting with containers 
+[<img alt="Jimmy Bogard [jbogard]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jbogard.png">](https://t.co/V3lUFuUp7d "Jimmy Bogard [jbogard]") blogged - Containers, what is it good for? [[jimmybogard.com]](https://jimmybogard.com/containers-what-is-it-good-for/) tracking my journey of experimenting with containers
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data Lake vs Data Warehouse: Key Differences [[kdnuggets.com]](http://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html)
 
@@ -87,10 +93,12 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A reminder for those of us who dig markdown [[daringfireball.net]](https://daringfireball.net/projects/markdown/) =&gt; [@migueldeicaza](http://twitter.com/migueldeicaza)[@nigewillson](http://twitter.com/nigewillson)[@BWiTLA](http://twitter.com/BWiTLA)… [[twitter.com]](https://twitter.com/i/web/status/956683055871098880)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computer Science Degrees Aren't Returning On Investment For Coders, Research Finds [[developers.slashdot.org]](https://developers.slashdot.org/story/17/09/20/2048237/computer-science-degrees-arent-returning-on-investment-for-coders-research-finds?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [UK survey] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computer Science Degrees Aren't Returning On Investment For Coders, Research Finds [[developers.slashdot.org]](https://developers.slashdot.org/story/17/09/20/2048237/computer-science-degrees-arent-returning-on-investment-for-coders-research-finds?utm_source=feedly1.0mainlinkanon&utm_medium=feed) [UK survey]
 
 [<img alt="Chris Anderson [chr1sa]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chr1sa.jpg">](http://t.co/IuFPNN3M70 "Chris Anderson [chr1sa]") Best view of the [@Intel](http://twitter.com/Intel) drone swarm performance at the Olympics [[twitter.com]](https://twitter.com/chr1sa/status/962493907446636544/video/1)
 
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr "Jeff Atwood [codinghorror]") “slack empowers your worst people to overwhelm your best” [[abe-winter.github.io]](https://abe-winter.github.io/plea%27s/help/2018/02/11/slack.html)
 
 [<img alt="blackwomenintech [BWiTLA]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BWiTLA.jpeg">](https://t.co/Z1JeN5MH6T "blackwomenintech [BWiTLA]") Diversity/Inclusion has become an industry in itself with little to show by way of progress, IMO... Too Many Medioc… [[twitter.com]](https://twitter.com/i/web/status/962893875672223744)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

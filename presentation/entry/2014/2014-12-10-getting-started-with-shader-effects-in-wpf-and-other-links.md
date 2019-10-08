@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Getting Started with Shader Effects in WPF - CodeProject http://t.co/dgZedcllL3  Windows Presentation Foundation Pixel Shader Effects Library http://t.co/LxHCF8yF2H  latest Shazzam blog post: http://t.co/vIe3DUmtQO  \"draw graphical paths with a gradient ...",
-  "inceptDate": "2014-12-10T00:00:00",
-  "isPublished": true,
-  "slug": "getting-started-with-shader-effects-in-wpf-and-other-links",
-  "title": "“Getting Started with Shader Effects in WPF” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Getting Started with Shader Effects in WPF” and other Tweeted Links…",
+  "documentShortName": "2014-12-10-getting-started-with-shader-effects-in-wpf-and-other-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-12-10-getting-started-with-shader-effects-in-wpf-and-other-tweeted-links",
+  "date": "2014-12-10T08:00:00.000Z",
+  "modificationDate": "2014-12-10T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-12-10-getting-started-with-shader-effects-in-wpf-and-other-links",
+  "tag": "{\r\n  \"extract\": \"Getting Started with Shader Effects in WPF - CodeProject http://t.co/dgZedcllL3  Windows Presentation Foundation Pixel Shader Effects Library http://t.co/LxHCF8yF2H  latest Shazzam blog post: http://t.co/vIe3DUmtQO  \\\"draw graphical paths with a gradient ...\"\r\n}"
 }
 ---
+
+# “Getting Started with Shader Effects in WPF” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Getting Started with Shader Effects in WPF - CodeProject [http://t.co/dgZedcllL3](http://t.co/dgZedcllL3)</span>
 
@@ -52,3 +62,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Broadcom Presents Design_Code_Build with Rock Star Gregory Washington [http://t.co/Kae2OW4E9I](http://t.co/Kae2OW4E9I)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>How To Debug Data Binding Issues in WPF [http://t.co/KBymHozLhN](http://t.co/KBymHozLhN)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

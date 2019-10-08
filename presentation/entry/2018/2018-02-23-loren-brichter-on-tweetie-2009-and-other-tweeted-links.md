@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Loren Brichter on Tweetie [2009] [youtu.be]@lorenb &lt;= @reneritchie Speech Recognition in Mono and .NET C# - CodeProject [codeproject.com] “Learn CSS Variables in 5 minutes” by @perborgen[medium.freecodecamp.org] Troubleshooting TLS / SSL communication...",
-  "inceptDate": "2018-02-23T17:36:08.2401819-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "loren-brichter-on-tweetie-2009-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Loren Brichter on Tweetie [2009]” and other Tweeted Links…",
+  "documentShortName": "2018-02-23-loren-brichter-on-tweetie-2009-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-23-loren-brichter-on-tweetie-2009-and-other-tweeted-links",
+  "date": "2018-02-24T01:36:08.240Z",
+  "modificationDate": "2018-02-24T01:36:08.240Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Loren Brichter on Tweetie [2009]” and other Tweeted Links…"
+  "clientId": "2018-02-23-loren-brichter-on-tweetie-2009-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Loren Brichter on Tweetie [2009] [youtu.be]@lorenb &lt;= @reneritchie Speech Recognition in Mono and .NET C# - CodeProject [codeproject.com] “Learn CSS Variables in 5 minutes” by @perborgen[medium.freecodecamp.org] Troubleshooting TLS / SSL communication...\"\r\n}"
 }
 ---
+
+# “Loren Brichter on Tweetie [2009]” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Loren Brichter on Tweetie [2009] [[youtu.be]](https://youtu.be/7Zd3iNOXTow)[@lorenb](http://twitter.com/lorenb) &lt;= [@reneritchie](http://twitter.com/reneritchie)
 
@@ -33,11 +39,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2017/04/06/jwt-validation-and-authorization-in-asp-net-core/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UseHmacAuthentication() is not in the current version of [[asp.net]](http://ASP.NET) Core by default. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UseHmacAuthentication() is not in the current version of [[asp.net]](http://ASP.NET) Core by default.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Yes this post only relates to [[asp.net]](http://ASP.NET) Core 1.0" 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Yes this post only relates to [[asp.net]](http://ASP.NET) Core 1.0"
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "I added app.UseJwtBearerAuthentication() and it is marked as obsolete." 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "I added app.UseJwtBearerAuthentication() and it is marked as obsolete."
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core: "The old 1.0 Authentication stack no longer will work, and is obsolete in 2.0." [[github.com]](https://github.com/aspnet/Security/issues/1310)
 
@@ -45,13 +51,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") When the answer is "no" is Strathweb.TypedRouting.AspNetCore a fitting alternative? [[strathweb.com]](https://www.strathweb.com/2016/06/introducing-strathweb-typedrouting-for-asp-net-mvc-core/)
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@DamianEdwards](http://twitter.com/DamianEdwards) they are inherited by default in [[asp.net]](http://asp.net) core 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@DamianEdwards](http://twitter.com/DamianEdwards) they are inherited by default in [[asp.net]](http://asp.net) core
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@filip_woj](http://twitter.com/filip_woj)[@DamianEdwards](http://twitter.com/DamianEdwards) That's great to know...was slightly mislead by old blog posts and stackoverflow stuff...m… [[twitter.com]](https://twitter.com/i/web/status/966346960004300800)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@DamianEdwards](http://twitter.com/DamianEdwards) note that they don't combine so if you have "api" at class level on base controller, t… [[twitter.com]](https://twitter.com/i/web/status/966347361013379075)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@filip_woj](http://twitter.com/filip_woj)[@DamianEdwards](http://twitter.com/DamianEdwards) so far, my convention is to have no class-level route declarations on the base controller class 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@filip_woj](http://twitter.com/filip_woj)[@DamianEdwards](http://twitter.com/DamianEdwards) so far, my convention is to have no class-level route declarations on the base controller class
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Jack Histon - Sharing Controllers and Views in [[asp.net]](http://ASP.NET) Core [[jackhiston.com]](http://jackhiston.com/2017/8/15/sharing-controllers-and-views-in-aspnet-core/)
 
@@ -71,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Functional Programming in Scala [[amazon.com]](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1617290653)[[twitter.com]](https://twitter.com/BryanWilhite/status/966854060170125312/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/yLExk8fNYBI?a) Teaching functional programming in the ivory tower ... and in the kitchen - 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/yLExk8fNYBI?a) Teaching functional programming in the ivory tower ... and in the kitchen -
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3 "David Fowler [davidfowl]") It'll take a couple of years to see Span and friends permeate through the .NET ecosystem. I'm hopeful that'll this… [[twitter.com]](https://twitter.com/i/web/status/965784077528739841)
 
@@ -102,3 +108,5 @@
 [<img alt="Tara [taraw]" src="https://songhay.blob.core.windows.net/shared-social-twitter/taraw.jpeg">](http://t.co/4HS7ZMeZq4 "Tara [taraw]")[@BryanWilhite](http://twitter.com/BryanWilhite) Yes, I did read that lack of sleep has been connected w/Dementia. I know I need to do better..but in… [[twitter.com]](https://twitter.com/i/web/status/967168244070182912)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@taraw](http://twitter.com/taraw) Yes, I have three gold-plated molars and blurred vision at night because we should study war no more.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

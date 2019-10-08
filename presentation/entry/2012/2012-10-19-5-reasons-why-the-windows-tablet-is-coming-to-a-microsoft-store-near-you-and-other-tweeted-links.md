@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You:  http://t.co/KXa9cgNR #windows8   Under the Surface: an inside look at how Microsoft's tablet came to be http://t.co/MNKMmRFH /via @winrumors   With Surface Tablet, Microsoft Takes...",
-  "inceptDate": "2012-10-19T00:00:00",
-  "isPublished": true,
-  "slug": "5-reasons-why-the-windows-tablet-is-coming-to-a-microsoft-store-near-you-and-other-tweeted-links",
-  "title": "“5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You” and other Tweeted Links…",
+  "documentShortName": "2012-10-19-5-reasons-why-the-windows-tablet-is-coming-to-a-microsoft-store-near-you-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2012-10-19-5-reasons-why-the-windows-tablet-is-coming-to-a-microsoft-store-near-you-and-other-tweeted-links",
+  "date": "2012-10-19T07:00:00.000Z",
+  "modificationDate": "2012-10-19T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-10-19-5-reasons-why-the-windows-tablet-is-coming-to-a-microsoft-store-near-you-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You:  http://t.co/KXa9cgNR #windows8   Under the Surface: an inside look at how Microsoft's tablet came to be http://t.co/MNKMmRFH /via @winrumors   With Surface Tablet, Microsoft Takes...\"\r\n}"
 }
 ---
+
+# “5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You” and other Tweeted Links…
 
 [<img alt="Jason Beres [jasonberes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jasonberes.png">](http://blogs.infragistics.com/blogs/jason_beres "Jason Beres [jasonberes]") <span>5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You: [http://t.co/KXa9cgNR](http://t.co/KXa9cgNR) [#windows8](http://search.twitter.com/search?q=%23windows8)</span>
 
@@ -82,3 +92,5 @@
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://www.winsupersite.com "Paul Thurrott [thurrott]") <span>The Final Insult? Microsoft Explains, Dumps on, Media Center in Windows 8 [http://t.co/yTZsT3wT](http://t.co/yTZsT3wT)</span>
 
 [<img alt="Sigrid Vandenweghe [Sissi_kaizerin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Sissi_kaizerin.jpeg">]( "Sigrid Vandenweghe [Sissi_kaizerin]") <span>UI Designers Must Read: 27 years of Windows user interface (&amp; why Windows 8 looks like Windows 8) [http://t.co/XIAVXqiW](http://t.co/XIAVXqiW)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

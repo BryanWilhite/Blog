@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "getting this Index App into songhay-ng-workspaceThis month saw the archiving of angular.io-index-app [GitHub] because it is being moved to songhay-ng-workspace. This was quite a forehead slapping moment and should be reflected in this month’s version of ...",
-  "inceptDate": "2019-04-20T20:09:16.1285336-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "studio-status-report-2019-04",
+  "documentId": 0,
+  "title": "studio status report: 2019-04",
+  "documentShortName": "2019-04-20-studio-status-report-2019-04",
+  "fileName": "index.html",
+  "path": "./entry/2019-04-20-studio-status-report-2019-04",
+  "date": "2019-04-21T03:09:16.128Z",
+  "modificationDate": "2019-04-21T03:09:16.128Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "studio status report: 2019-04"
+  "clientId": "2019-04-20-studio-status-report-2019-04",
+  "tag": "{\r\n  \"extract\": \"getting this Index App into songhay-ng-workspaceThis month saw the archiving of angular.io-index-app [GitHub] because it is being moved to songhay-ng-workspace. This was quite a forehead slapping moment and should be reflected in this month’s version of ...\"\r\n}"
 }
 ---
+
+# studio status report: 2019-04
 
 ## getting this Index App into `songhay-ng-workspace`
 
@@ -33,14 +39,16 @@ For my sanity, I should remind myself that `ngx-markdown` did not [start](https:
 
 Today the studio development schedule looks like this:
 
-*   finish modernizing `@songhay/player-video-you-tube` and `@songhay/index` into a ready state [[#11](https://github.com/BryanWilhite/songhay-ng-workspace/issues/11)]
-*   introduce splash page(s) to the Day Path blog (an SEO emergency—*for years*) and convert to HTTPs by default
-*   use the learnings from existing npm packages to build `@songhay/player-audio-???`
-*   convert the kinté space blog to Hexo (this has been an emergency *for years*)
-*   set up automated social-media posting with Azure logic apps (and a queue of some kind?)
-*   modernize the kinté hits page into a progressive web app
-*   use the learnings of previous work to upgrade and re-release the kinté space
+* finish modernizing `@songhay/player-video-you-tube` and `@songhay/index` into a ready state [[#11](https://github.com/BryanWilhite/songhay-ng-workspace/issues/11)]
+* introduce splash page(s) to the Day Path blog (an SEO emergency—*for years*) and convert to HTTPs by default
+* use the learnings from existing npm packages to build `@songhay/player-audio-???`
+* convert the kinté space blog to Hexo (this has been an emergency *for years*)
+* set up automated social-media posting with Azure logic apps (and a queue of some kind?)
+* modernize the kinté hits page into a progressive web app
+* use the learnings of previous work to upgrade and re-release the kinté space
 
 The Day Path Blog bullet was moved up because many of the later bullets will not be trackable via public GitHub issues.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

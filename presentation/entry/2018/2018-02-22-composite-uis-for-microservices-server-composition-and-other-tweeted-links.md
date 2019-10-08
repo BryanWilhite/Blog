@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Composite UIs for Microservices - Server Composition [jimmybogard.com] Ask HN: Why Isn't the Construction of CRUD Web UI's 90% Automated? [news.ycombinator.com] How To Install Microsoft Fonts In Ubuntu Linux [linuxandubuntu.com] The most important Firefo...",
-  "inceptDate": "2018-02-22T22:52:33.5110794-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "composite-uis-for-microservices-server-composition-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Composite UIs for Microservices—Server Composition” and other Tweeted Links…",
+  "documentShortName": "2018-02-22-composite-uis-for-microservices-server-composition-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-02-22-composite-uis-for-microservices-server-composition-and-other-tweeted-links",
+  "date": "2018-02-23T06:52:33.511Z",
+  "modificationDate": "2018-02-23T06:52:33.511Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Composite UIs for Microservices—Server Composition” and other Tweeted Links…"
+  "clientId": "2018-02-22-composite-uis-for-microservices-server-composition-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Composite UIs for Microservices - Server Composition [jimmybogard.com] Ask HN: Why Isn't the Construction of CRUD Web UI's 90% Automated? [news.ycombinator.com] How To Install Microsoft Fonts In Ubuntu Linux [linuxandubuntu.com] The most important Firefo...\"\r\n}"
 }
 ---
+
+# “Composite UIs for Microservices—Server Composition” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Composite UIs for Microservices - Server Composition [[jimmybogard.com]](https://jimmybogard.com/composite-uis-for-microservices-server-composition/)
 
@@ -25,9 +31,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An introduction to Azure Web Apps on Linux - Simple Talk [[red-gate.com]](https://www.red-gate.com/simple-talk/cloud/platform-as-a-service/introduction-azure-web-apps-linux/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ApiController =&gt; Controller IHttpActionResult =&gt; IActionResult ResponseType !=&gt; ProducesResponseType 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ApiController =&gt; Controller IHttpActionResult =&gt; IActionResult ResponseType !=&gt; ProducesResponseType
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RoutePrefix =&gt; Route 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RoutePrefix =&gt; Route
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Claims-Based Authorization | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims)
 
@@ -39,7 +45,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") just digging into the FromSQL() extension method; i see that interpolation syntax for a SQL string is reserved for… [[twitter.com]](https://twitter.com/i/web/status/964602057142321152)
 
-[<img alt="Kent C. Dodds [kentcdodds]" src="https://songhay.blob.core.windows.net/shared-social-twitter/kentcdodds.jpg">](https://t.co/F3SmzPLcfn "Kent C. Dodds [kentcdodds]") The less your tests resemble the way your software is used, the less confidence they can give you. 
+[<img alt="Kent C. Dodds [kentcdodds]" src="https://songhay.blob.core.windows.net/shared-social-twitter/kentcdodds.jpg">](https://t.co/F3SmzPLcfn "Kent C. Dodds [kentcdodds]") The less your tests resemble the way your software is used, the less confidence they can give you.
 
 [<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") That's why some people prefer more end to end tests over more unit tests [[twitter.com]](https://twitter.com/kentcdodds/status/965052178267176960)
 
@@ -47,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet Gallery | Microsoft.NETCore.TestHost 2.0.5 [[nuget.org]](https://www.nuget.org/packages/Microsoft.NETCore.TestHost/) [what is this used for?] &lt;= [@pvlakshm](http://twitter.com/pvlakshm)
 
-[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite) Please see here: [[github.com]](https://github.com/Microsoft/vstest-docs/blob/master/RFCs/0001-Test-Platform-Architecture.md). 
+[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite) Please see here: [[github.com]](https://github.com/Microsoft/vstest-docs/blob/master/RFCs/0001-Test-Platform-Architecture.md).
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 7 Hidden Gems in Visual Studio 2017 | The Visual Studio Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudio/2017/10/05/7-hidden-gems-in-visual-studio-2017/)
 
@@ -69,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Yes, I think we both would prefer to work with Enumerable.Empty&lt;T&gt;() rather than null. But I d… [[twitter.com]](https://twitter.com/i/web/status/966035498983555072)
 
-[<img alt="mjwills [mjwills]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mjwills.jpg">](https://t.co/DOLBZUvjfD "mjwills [mjwills]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Could you write your own 'NullOrAny' extension method? 
+[<img alt="mjwills [mjwills]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mjwills.jpg">](https://t.co/DOLBZUvjfD "mjwills [mjwills]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Could you write your own 'NullOrAny' extension method?
 
 [<img alt="Eric Lippert [ericlippert]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ericlippert.jpeg">](http://t.co/Ey5NYAHA "Eric Lippert [ericlippert]")[@mjwills](http://twitter.com/mjwills)[@BryanWilhite](http://twitter.com/BryanWilhite)[@raboof](http://twitter.com/raboof) A method "NullOrAny" would have a bizarre contract: true if the sequence is null or… [[twitter.com]](https://twitter.com/i/web/status/966096707808215040)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Step aside, Windows! Open source and Linux are IT's new security headache [[computerworld.com]](https://www.computerworld.com/article/3230225/security/step-aside-windows-open-source-and-linux-are-it-s-new-security-headache.html)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How Microsoft turns their incompetence into my problem [[linkedin.com]](https://www.linkedin.com/pulse/how-microsoft-turns-incompetence-my-problem-mark-schouten/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

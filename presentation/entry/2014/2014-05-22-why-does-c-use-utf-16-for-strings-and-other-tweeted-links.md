@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Why does C# use UTF-16 for strings? http://t.co/HlQzoFHW0q  So excited to be speaking at @MonkeySpaceConf in June 9-11! Schedule is at http://t.co/7CUAVoNBSX, you can find me on days 1 *and* 2!  Blogged: C# 6 - First Reactions; http://t.co/Ed2GPmaqev  Th...",
-  "inceptDate": "2014-05-22T00:00:00",
-  "isPublished": true,
-  "slug": "why-does-c-use-utf-16-for-strings-and-other-tweeted-links",
-  "title": "“Why does C# use UTF-16 for strings?” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Why does C# use UTF-16 for strings?” and other Tweeted Links…",
+  "documentShortName": "2014-05-22-why-does-c-use-utf-16-for-strings-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-05-22-why-does-c-use-utf-16-for-strings-and-other-tweeted-links",
+  "date": "2014-05-22T07:00:00.000Z",
+  "modificationDate": "2014-05-22T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-05-22-why-does-c-use-utf-16-for-strings-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Why does C# use UTF-16 for strings? http://t.co/HlQzoFHW0q  So excited to be speaking at @MonkeySpaceConf in June 9-11! Schedule is at http://t.co/7CUAVoNBSX, you can find me on days 1 *and* 2!  Blogged: C# 6 - First Reactions; http://t.co/Ed2GPmaqev  Th...\"\r\n}"
 }
 ---
+
+# “Why does C# use UTF-16 for strings?” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Why does C# use UTF-16 for strings? [http://t.co/HlQzoFHW0q](http://t.co/HlQzoFHW0q)</span>
 
@@ -84,3 +94,5 @@
 [<img alt="silverlightshow [silverlightshow]" src="https://songhay.blob.core.windows.net/shared-social-twitter/silverlightshow.png">](http://t.co/uoqrSnSw3v "silverlightshow [silverlightshow]") <span>News: MEF'ing with Windows Phone 8 [http://t.co/3LDiO0Qr2A](http://t.co/3LDiO0Qr2A) [#windowsphone](http://search.twitter.com/search?q=%23windowsphone) [#wpdev](http://search.twitter.com/search?q=%23wpdev) [#wp8dev](http://search.twitter.com/search?q=%23wp8dev)</span>
 
 [<img alt="Andreia Gaita [sh4na]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sh4na.jpeg">](http://t.co/8bPLeWLZiF "Andreia Gaita [sh4na]") <span>So MS says that, since Hotmail is theirs, a court order to search an account would be like searching themselves, so no need for one. wtf??</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

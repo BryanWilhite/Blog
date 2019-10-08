@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "You can't impress developers. So don't try. http://t.co/D3QF9vl9Lx  Azure Is the Future of Microsoft http://t.co/chh8lf6FOL  Microsoft reportedly paying developers $100,000 or more to build apps http://t.co/OXQiPnTX3U  Windows 8 Theme Transitions - http:...",
-  "inceptDate": "2014-07-19T00:00:00",
-  "isPublished": true,
-  "slug": "you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",
-  "title": "“You can’t impress developers. So don’t try.” and other very historical Tweeted Links…"
+  "documentId": 0,
+  "title": "“You can’t impress developers. So don’t try.” and other very historical Tweeted Links…",
+  "documentShortName": "2014-07-19-you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-07-19-you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",
+  "date": "2014-07-19T07:00:00.000Z",
+  "modificationDate": "2014-07-19T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-07-19-you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"You can't impress developers. So don't try. http://t.co/D3QF9vl9Lx  Azure Is the Future of Microsoft http://t.co/chh8lf6FOL  Microsoft reportedly paying developers $100,000 or more to build apps http://t.co/OXQiPnTX3U  Windows 8 Theme Transitions - http:...\"\r\n}"
 }
 ---
+
+# “You can’t impress developers. So don’t try.” and other very historical Tweeted Links…
 
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpeg">](http://t.co/afPzPARu36 "Shawn Wildermuth [ShawnWildermuth]") <span>You can't impress developers. So don't try. [http://t.co/D3QF9vl9Lx](http://t.co/D3QF9vl9Lx)</span>
 
@@ -82,3 +92,5 @@
 [<img alt="Scott Guthrie [scottgu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/scottgu.jpg">](http://t.co/rkquDCVhAW "Scott Guthrie [scottgu]") <span>I think I made [@shanselman](http://twitter.com/shanselman)'s day when I told him my son calls him "scott handsome man" :-)</span>
 
 [<img alt="K. Scott Allen [OdeToCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/OdeToCode.jpeg">](http://t.co/Hmf56LfjnV "K. Scott Allen [OdeToCode]") <span>Where Is .NET Headed? [http://t.co/UAjIjY5ZVd](http://t.co/UAjIjY5ZVd)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

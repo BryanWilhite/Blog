@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Working with SVG, A Primer by @SaraSoueidan[youtube.com] SVG Lessons I Learned The Hard Way | btconfDUS2015 [youtube.com]@SaraSoueidan Tips for Creating and Exporting Better SVGs for the Web [sarasoueidan.com]@SaraSoueidan Useful SVGO[ptimization] Tools ...",
-  "inceptDate": "2017-02-06T15:31:18.7929694-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "working-with-svg-a-primer-by-sarasoueidan-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Working with SVG, A Primer by @SaraSoueidan” and other Tweeted Links…",
+  "documentShortName": "2017-02-06-working-with-svg-a-primer-by-sarasoueidan-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-02-06-working-with-svg-a-primer-by-sarasoueidan-and-other-tweeted-links",
+  "date": "2017-02-06T23:31:18.792Z",
+  "modificationDate": "2017-02-06T23:31:18.792Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Working with SVG, A Primer by @SaraSoueidan” and other Tweeted Links…"
+  "clientId": "2017-02-06-working-with-svg-a-primer-by-sarasoueidan-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Working with SVG, A Primer by @SaraSoueidan[youtube.com] SVG Lessons I Learned The Hard Way | btconfDUS2015 [youtube.com]@SaraSoueidan Tips for Creating and Exporting Better SVGs for the Web [sarasoueidan.com]@SaraSoueidan Useful SVGO[ptimization] Tools ...\"\r\n}"
 }
 ---
+
+# “Working with SVG, A Primer by @SaraSoueidan” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Working with SVG, A Primer by [@SaraSoueidan](http://twitter.com/SaraSoueidan)[[youtube.com]](https://www.youtube.com/watch?v=uKNX23lvnPo)
 
@@ -27,9 +33,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Better Interfaces With SVG | CSSConf Austrailia 2015 [[youtube.com]](https://www.youtube.com/watch?v=lMFfTRiipOQ)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with GSAP (GreenSock Animation Platform) | GreenSock [[greensock.com]](https://greensock.com/get-started-js) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with GSAP (GreenSock Animation Platform) | GreenSock [[greensock.com]](https://greensock.com/get-started-js) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Icon Font &amp; SVG Icon Sets ❍ IcoMoon [[icomoon.io]](https://icomoon.io/) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Icon Font &amp; SVG Icon Sets ❍ IcoMoon [[icomoon.io]](https://icomoon.io/) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 5 Gotchas You're Gonna Face Getting Inline SVG Into Production | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/gotchas-on-getting-svg-into-production/)
 
@@ -61,9 +67,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “A new pure functional language built on the top of Python” [[github.com]](https://github.com/baruchel/lambdascript) » [@Odytrice](http://twitter.com/Odytrice)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@github](http://twitter.com/github) Interesting.. I'm not a pythonista but I see how future interop with Python libraries will be very influential 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@github](http://twitter.com/github) Interesting.. I'm not a pythonista but I see how future interop with Python libraries will be very influential
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) yup I’m likely to run into Python because of [@scribus](http://twitter.com/scribus) or [@blender3d](http://twitter.com/blender3d) building it in… haven’t got there yet… 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice) yup I’m likely to run into Python because of [@scribus](http://twitter.com/scribus) or [@blender3d](http://twitter.com/blender3d) building it in… haven’t got there yet…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Deconstruction [of, say, tuples] In C# 7.0 [[c-sharpcorner.com]](http://www.c-sharpcorner.com/article/deconstruction-in-c-sharp-7-0/)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Analyzing GitHub LINQ usage – the results – The OzCode Blog [[blog.oz-code.com]](https://blog.oz-code.com/analyzing-github-linq-usage-the-results/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") my first use of [#pandoc](http://twitter.com/search?q=%23pandoc) 🤠 pandoc 2017-02/songhay-system-says-goodbye-to-flash.md -o ~/Desktop/out.html 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") my first use of [#pandoc](http://twitter.com/search?q=%23pandoc) 🤠 pandoc 2017-02/songhay-system-says-goodbye-to-flash.md -o ~/Desktop/out.html
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Merge development branch with master [[stackoverflow.com]](http://stackoverflow.com/a/14168817/22944?stw=2)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Longtime Apple programmer and Swift creator leaves Apple for Tesla | Ars Technica [[arstechnica.com]](http://arstechnica.com/apple/2017/01/longtime-apple-programmer-and-swift-creator-leaves-apple-for-tesla/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Restoring Sanity to the Office [[m.signalvnoise.com]](https://m.signalvnoise.com/restoring-sanity-to-the-office-d9d35dd8689e#.853ybcyml)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

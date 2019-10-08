@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Visual Studio CTP3! with xunit testing for vnext projects http://t.co/qcBPBzKqvK /cc @bradwilson  to me it's a server-side rendition of Silverlight =&gt; Introducing http://t.co/du79BQulzh vNext - http://t.co/suZ2SxJkrN @shanselman  @BryanWilhite I thoug...",
-  "inceptDate": "2014-08-19T00:00:00",
-  "isPublished": true,
-  "slug": "visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",
-  "title": "“Visual Studio CTP3! with xunit testing for vnext projects” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Visual Studio CTP3! with xunit testing for vnext projects” and other Tweeted Links…",
+  "documentShortName": "2014-08-19-visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-08-19-visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",
+  "date": "2014-08-19T07:00:00.000Z",
+  "modificationDate": "2014-08-19T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-08-19-visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Visual Studio CTP3! with xunit testing for vnext projects http://t.co/qcBPBzKqvK /cc @bradwilson  to me it's a server-side rendition of Silverlight =&gt; Introducing http://t.co/du79BQulzh vNext - http://t.co/suZ2SxJkrN @shanselman  @BryanWilhite I thoug...\"\r\n}"
 }
 ---
+
+# “Visual Studio CTP3! with xunit testing for vnext projects” and other Tweeted Links…
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.png">](http://t.co/XKK4NcPNdb "David Fowler [davidfowl]") <span>Visual Studio CTP3! with xunit testing for vnext projects [http://t.co/qcBPBzKqvK](http://t.co/qcBPBzKqvK) /cc [@bradwilson](http://twitter.com/bradwilson)</span>
 
@@ -62,3 +72,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>XamDataGrid 101, Part 2 – Custom Colors | - [http://t.co/rtKGSA5NWO](http://t.co/rtKGSA5NWO)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Excellent! =&gt; Applying S.O.L.I.D. Principles in .NET/C# (Channel 9) [http://t.co/RqYqfcD40U](http://t.co/RqYqfcD40U) via [@ch9](http://twitter.com/ch9) [@SF_klug](http://twitter.com/SF_klug)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Implementing an [asp.net] Core RC1 Logging Provider @shawnwildermuth[wildermuth.com] 10 things to know about DocumentDB Partitioned Collections [azure.microsoft.com] Anatomy of a Low Impact Visual Studio Install [blogs.msdn.microsoft.com] “You want stati...",
-  "inceptDate": "2016-06-24T16:01:17.1345713-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "implementing-an-asp-net-core-rc1-logging-provider-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Implementing an ASP.NET Core RC1 Logging Provider” and other Tweeted Links…",
+  "documentShortName": "2016-06-24-implementing-an-asp-net-core-rc1-logging-provider-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-24-implementing-an-asp-net-core-rc1-logging-provider-and-other-tweeted-links",
+  "date": "2016-06-24T23:01:17.134Z",
+  "modificationDate": "2016-06-24T23:01:17.134Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Implementing an ASP.NET Core RC1 Logging Provider” and other Tweeted Links…"
+  "clientId": "2016-06-24-implementing-an-asp-net-core-rc1-logging-provider-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Implementing an [asp.net] Core RC1 Logging Provider @shawnwildermuth[wildermuth.com] 10 things to know about DocumentDB Partitioned Collections [azure.microsoft.com] Anatomy of a Low Impact Visual Studio Install [blogs.msdn.microsoft.com] “You want stati...\"\r\n}"
 }
 ---
+
+# “Implementing an ASP.NET Core RC1 Logging Provider” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Implementing an [[asp.net]](http://ASP.NET) Core RC1 Logging Provider [@shawnwildermuth](http://twitter.com/shawnwildermuth)[[wildermuth.com]](http://wildermuth.com/2016/04/22/Implementing-an-ASP-NET-Core-RC1-Logging-Provider)
 
@@ -67,6 +73,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I will not be the last one to write about ‘hiring is broken’ stories” [[medium.com]](https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324)
 
-[<img alt="Terri Burns [tcburning]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tcburning.jpg">](https://t.co/uoBeirlarD "Terri Burns [tcburning]") I have never heard a programming joke that I thought was funny/remotely entertaining 
+[<img alt="Terri Burns [tcburning]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tcburning.jpg">](https://t.co/uoBeirlarD "Terri Burns [tcburning]") I have never heard a programming joke that I thought was funny/remotely entertaining
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@tcburning](http://twitter.com/tcburning) not even the Java knock-knock joke?
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

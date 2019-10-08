@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library [blogs.windows.com] Microsoft ❤️ OpenSource - the UI toolkits, Windows.Forms and WPF are now open source: [blogs.msdn.microsoft.com] Some big news for developers at ...",
-  "inceptDate": "2019-01-21T12:36:32.2191488-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "you-asked-we-answered-msft-open-sources-wpf-windows-forms-and-windows-ui-xaml-library-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library” and other tweeted links…",
+  "documentShortName": "2019-01-21-you-asked-we-answered-msft-open-sources-wpf-windows-forms-and-windows-ui-xaml-library-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-21-you-asked-we-answered-msft-open-sources-wpf-windows-forms-and-windows-ui-xaml-library-and-other-tweeted-links",
+  "date": "2019-01-21T20:36:32.219Z",
+  "modificationDate": "2019-01-21T20:36:32.219Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library” and other tweeted links…"
+  "clientId": "2019-01-21-you-asked-we-answered-msft-open-sources-wpf-windows-forms-and-windows-ui-xaml-library-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library [blogs.windows.com] Microsoft ❤️ OpenSource - the UI toolkits, Windows.Forms and WPF are now open source: [blogs.msdn.microsoft.com] Some big news for developers at ...\"\r\n}"
 }
 ---
+
+# “You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library” and other tweeted links…
 
 [<img alt="Kevin Gallo [kevintgallo]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kevintgallo.jpg">](https://t.co/KoB8EXTS1w) You asked, we answered. MSFT open sources WPF, Windows Forms and Windows UI XAML Library [[blogs.windows.com]](https://blogs.windows.com/buildingapps/#ZyMCZV6c44j6qOMD.97)
 
@@ -33,7 +39,7 @@
 
 [<img alt="Derrick Stolee [stolee]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/stolee.jpg">](https://twitter.com/stolee) Get the best Git yet! This release includes the new algorithm for `git log --graph` to be EXTREMELY FAST. Use these tricks: git config --global core.commitGraph true git config --global gc.writeCommitGraph true git config --global alias.lg "log --oneline --graph" [[twitter.com]](https://twitter.com/GitForWindows/status/1072122314572079105)
 
-[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Once again, I'm coming to the conclusion that the core problem in front-end web development is that people don't understand progressive enhancement. There are so many crazy ideas about what to do about IE/older browsers. Here's the real answer: learn progressive enhancement. 
+[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d) Once again, I'm coming to the conclusion that the core problem in front-end web development is that people don't understand progressive enhancement. There are so many crazy ideas about what to do about IE/older browsers. Here's the real answer: learn progressive enhancement.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) ngAir 186 - Angular Performance Anti-Patterns With Bonnie Brennan [@bonnster75](http://twitter.com/@bonnster75)[[youtu.be]](https://youtu.be/bHe_XC-16G0)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ) How will [#InSight](http://twitter.com/search?q='%23InSight) navigate the topology on Mars? One of our [#WolframCommunity](http://twitter.com/search?q='%23WolframCommunity) contributors takes on visualizing the [#InSightLanding](http://twitter.com/search?q='%23InSightLanding) on Mars: [[wolfr.am]](https://wolfr.am/zsWwj5YL)[[twitter.com]](https://twitter.com/WolframResearch/status/1067841064982274050/photo/1)
 
-[<img alt="Paul T [paul_tavares]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/paul_tavares.jpg">](https://t.co/aJqlyv4XZd) Tasks, microtasks, queues and schedules - by [@jaffathecake](http://twitter.com/@jaffathecake) - [[jakearchibald.com]](http://JakeArchibald.com)[[buff.ly]](https://buff.ly/2Qunmgw) | I still refer coworkers to this post everytime someone asks me about nextTick. 
+[<img alt="Paul T [paul_tavares]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/paul_tavares.jpg">](https://t.co/aJqlyv4XZd) Tasks, microtasks, queues and schedules - by [@jaffathecake](http://twitter.com/@jaffathecake) - [[jakearchibald.com]](http://JakeArchibald.com)[[buff.ly]](https://buff.ly/2Qunmgw) | I still refer coworkers to this post everytime someone asks me about nextTick.
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft has released its first Windows Server 19H1 Insider test build, No. 18282. What's new? Good question: [[zdnet.com]](https://www.zdnet.com/article/microsoft-releases-first-windows-server-19h1-test-build/)
 
@@ -77,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) No time to look into this now: “Consider using the .Net Core language services by setting `FSharp.fsacRuntime` to `netcore`” [@code](http://twitter.com/@code)[#fsharp](http://twitter.com/search?q='%23fsharp)[[twitter.com]](https://twitter.com/BryanWilhite/status/1071113641821237248/photo/1)
 
-[<img alt="John Morris [anotherjtm]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/anotherjtm.jpg">](https://twitter.com/anotherjtm)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@code](http://twitter.com/@code) Why should netcore be considered over the other options? 
+[<img alt="John Morris [anotherjtm]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/anotherjtm.jpg">](https://twitter.com/anotherjtm)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@code](http://twitter.com/@code) Why should netcore be considered over the other options?
 
 [<img alt="Alvaro Videla [old_sound]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/old_sound.jpg">](https://t.co/J3E18zE7pW) We cross the Atlantic to talk about Kathleen Booth, writer of the first Assembly Language, Machine Learning Pioneer, Machine Translation Pioneer, and the list goes on. Truly amazing. [#aco3](http://twitter.com/search?q='%23aco3)[#STEM](http://twitter.com/search?q='%23STEM)[[medium.com]](https://medium.com/a-computer-of-ones-own/kathleen-booth-machine-learning-pioneer-7cb8b2ed70c8)
 
@@ -85,13 +91,13 @@
 
 [<img alt="TicToc by Bloomberg [tictoc]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tictoc.jpg">](https://t.co/O0sSpXABY4) Competition is dying in the America. Here's how big companies control what you drink and eat [[twitter.com]](https://twitter.com/tictoc/status/1067840666200432642/video/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 5 Developments After Ubuntu Unity Fiasco [[itsfoss.com]](https://itsfoss.com/ubuntu-after-unity/) via [@itsfoss2](http://twitter.com/@itsfoss2) [GNOME 3 as the primary desktop] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 5 Developments After Ubuntu Unity Fiasco [[itsfoss.com]](https://itsfoss.com/ubuntu-after-unity/) via [@itsfoss2](http://twitter.com/@itsfoss2) [GNOME 3 as the primary desktop]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) okay [@carlfranklin](http://twitter.com/@carlfranklin) you might know ex-microsoftie [@Barnacules](http://twitter.com/@Barnacules): he is finally ready to come on to your keto-dudes podcast because he has finally announced he likes the keto diet—talk amongst yourselves🤠😇 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) okay [@carlfranklin](http://twitter.com/@carlfranklin) you might know ex-microsoftie [@Barnacules](http://twitter.com/@Barnacules): he is finally ready to come on to your keto-dudes podcast because he has finally announced he likes the keto diet—talk amongst yourselves🤠😇
 
-[<img alt="Barnacules Nerdgasm ⭐💻📹🎙 [Barnacules]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Barnacules.jpg">](https://t.co/1IF0xw63lb)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@carlfranklin](http://twitter.com/@carlfranklin) I can’t sign up for any new podcasts at this time but hit me up after the holidays. 
+[<img alt="Barnacules Nerdgasm ⭐💻📹🎙 [Barnacules]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Barnacules.jpg">](https://t.co/1IF0xw63lb)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@carlfranklin](http://twitter.com/@carlfranklin) I can’t sign up for any new podcasts at this time but hit me up after the holidays.
 
-[<img alt="carlfranklin [carlfranklin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/carlfranklin.jpg">](http://t.co/tMVfzHHMK2)[@Barnacules](http://twitter.com/@Barnacules)[@BryanWilhite](http://twitter.com/@BryanWilhite) Very cool. 
+[<img alt="carlfranklin [carlfranklin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/carlfranklin.jpg">](http://t.co/tMVfzHHMK2)[@Barnacules](http://twitter.com/@Barnacules)[@BryanWilhite](http://twitter.com/@BryanWilhite) Very cool.
 
 [<img alt="Catalin Cimpanu [campuscodi]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/campuscodi.jpg">](https://t.co/P1lOaXljR8) Linux[.]org admin explians DNS hijacking incident and the subsequent site defacement from last week [[linux.org]](https://www.linux.org/threads/linux-org-dns-hijack-incident.21073/)[[twitter.com]](https://twitter.com/campuscodi/status/1071951886637383680/photo/1)
 
@@ -100,3 +106,5 @@
 [<img alt="Martin Fowler [martinfowler]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/martinfowler.jpg">](http://t.co/zJOC4bh4Tv) Depressing, if enlightening, summary of why people use reason to reinforce social belonging rather finding the best course of action [[economist.com]](https://www.economist.com/united-states/2018/12/08/what-psychology-experiments-tell-you-about-why-people-deny-facts)
 
 [<img alt="Digital Trends [DigitalTrends]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DigitalTrends.jpg">](https://t.co/wxxwesnWkd) .[@NASA](http://twitter.com/@NASA) is reinventing the wheel. Here's why. [#Space](http://twitter.com/search?q='%23Space)[#NASA](http://twitter.com/search?q='%23NASA)[#Mars](http://twitter.com/search?q='%23Mars)[#Lunar](http://twitter.com/search?q='%23Lunar)[[twitter.com]](https://twitter.com/DigitalTrends/status/1071461831489830912/video/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

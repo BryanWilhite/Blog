@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Tour of F# | Microsoft Docs [docs.microsoft.com] during an update in January we removed Python support from the VS 2017 Release Candidate [blogs.msdn.microsoft.com] Text conversion power tool for Visual Studio Code – Inception – David Nissimoff's blog [b...",
-  "inceptDate": "2017-05-01T17:23:16.1059667-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "tour-of-f-microsoft-docs-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Tour of F# | Microsoft Docs” and other Tweeted Links…",
+  "documentShortName": "2017-05-01-tour-of-f-microsoft-docs-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-05-01-tour-of-f-microsoft-docs-and-other-tweeted-links",
+  "date": "2017-05-02T00:23:16.105Z",
+  "modificationDate": "2017-05-02T00:23:16.105Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Tour of F# | Microsoft Docs” and other Tweeted Links…"
+  "clientId": "2017-05-01-tour-of-f-microsoft-docs-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Tour of F# | Microsoft Docs [docs.microsoft.com] during an update in January we removed Python support from the VS 2017 Release Candidate [blogs.msdn.microsoft.com] Text conversion power tool for Visual Studio Code – Inception – David Nissimoff's blog [b...\"\r\n}"
 }
 ---
+
+# “Tour of F# | Microsoft Docs” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tour of F# | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)
 
@@ -45,17 +51,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Clean Blog Theme by Start Bootstrap [[blackrockdigital.github.io]](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") sync issues: [@msonenote](http://twitter.com/msonenote)[[support.office.com]](https://support.office.com/en-us/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45?ver=14&app=onenote.exe&CorrelationId=ee96f647-aa6d-4d15-999a-5a0340a99c22&ui=en-US&rs=en-US&ad=US&ocmsassetID=HA102774369&fromAR=1) » Sections won’t sync: “Individual notebook sections can …stop syncing properly. ” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") sync issues: [@msonenote](http://twitter.com/msonenote)[[support.office.com]](https://support.office.com/en-us/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45?ver=14&app=onenote.exe&CorrelationId=ee96f647-aa6d-4d15-999a-5a0340a99c22&ui=en-US&rs=en-US&ad=US&ocmsassetID=HA102774369&fromAR=1) » Sections won’t sync: “Individual notebook sections can …stop syncing properly. ”
 
-[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.png">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Uh oh! Which version of OneNote are you using? 
+[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.png">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Uh oh! Which version of OneNote are you using?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@msonenote](http://twitter.com/msonenote) i am using office 365, ms-trolling-uh-oh-bot :| 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@msonenote](http://twitter.com/msonenote) i am using office 365, ms-trolling-uh-oh-bot :|
 
-[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.png">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Beep boop, no bots here! 😉 Have you tried these syncing tips: [[msft.social]](http://msft.social/UhGPzj)? 
+[<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.png">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]")[@BryanWilhite](http://twitter.com/BryanWilhite) Beep boop, no bots here! 😉 Have you tried these syncing tips: [[msft.social]](http://msft.social/UhGPzj)?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@msonenote](http://twitter.com/msonenote) yes, my link in the original tweet points to the same link you sent me -a robot would have caught this 😑🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@msonenote](http://twitter.com/msonenote) yes, my link in the original tweet points to the same link you sent me -a robot would have caught this 😑🤠
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@msonenote](http://twitter.com/msonenote) your 365 version will reach into the [@onedrive](http://twitter.com/onedrive) recycle bin and try to sync with it -you guys need to fix that 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@msonenote](http://twitter.com/msonenote) your 365 version will reach into the [@onedrive](http://twitter.com/onedrive) recycle bin and try to sync with it -you guys need to fix that 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Best of 2016: 100 Free Fonts - noupe [[noupe.com]](https://www.noupe.com/essentials/2016-revisited-best-free-fonts.html)
 
@@ -69,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Doing More with PowerShell Verbose Messages - Petri [[petri.com]](https://www.petri.com/doing-more-with-powershell-verbose-messages)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0n1x-wxESaM?a) Bluetooth 5.0: Explained! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0n1x-wxESaM?a) Bluetooth 5.0: Explained!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google Has Demonstrated a Successful Practical Attack Against SHA-1 - Slashdot [[tech.slashdot.org]](https://tech.slashdot.org/story/17/02/23/1730233/google-has-demonstrated-a-successful-practical-attack-against-sha-1?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
@@ -83,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linux Administration w/ special guests Tameika Reed &amp; Dionne | A must Watch! [[youtube.com]](https://www.youtube.com/watch?v=ClIX-lbMEXQ) » [@BreakingBrown](http://twitter.com/BreakingBrown)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/2_L9j6mDJBg?a) Why do Samsung and Google keep fighting? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/2_L9j6mDJBg?a) Why do Samsung and Google keep fighting?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Mistakes I’ve Made as an OSS Author | The Shade Tree Developer [[jeremydmiller.com]](https://jeremydmiller.com/2017/02/23/the-mistakes-ive-made-as-an-oss-author/)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Self-Driving Cars Have a Bicycle Problem - IEEE Spectrum [[spectrum.ieee.org]](http://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-have-a-bicycle-problem)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Things Programmers Should Never Say : "Who wrote this awful code!" · Things.Random [[shubhamjain.co]](https://shubhamjain.co/2017/02/25/things-programmers-should-never-say--who-wrote-this-awful-code/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

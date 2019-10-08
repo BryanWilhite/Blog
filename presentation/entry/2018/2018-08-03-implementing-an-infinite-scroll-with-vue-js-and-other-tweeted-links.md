@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Implementing an Infinite Scroll with Vue.js:       [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom       [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How       #CSS works: Parsing &amp; painting CSS in t...",
-  "inceptDate": "2018-08-03T17:30:25.8024424-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "implementing-an-infinite-scroll-with-vue-js-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Implementing an Infinite Scroll with Vue.js” and other Tweeted links…",
+  "documentShortName": "2018-08-03-implementing-an-infinite-scroll-with-vue-js-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-03-implementing-an-infinite-scroll-with-vue-js-and-other-tweeted-links",
+  "date": "2018-08-04T00:30:25.802Z",
+  "modificationDate": "2018-08-04T00:30:25.802Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Implementing an Infinite Scroll with Vue.js” and other Tweeted links…"
+  "clientId": "2018-08-03-implementing-an-infinite-scroll-with-vue-js-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Implementing an Infinite Scroll with Vue.js:       [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom       [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How       #CSS works: Parsing &amp; painting CSS in t...\"\r\n}"
 }
 ---
+
+# “Implementing an Infinite Scroll with Vue.js” and other Tweeted links…
 
 [<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JavaScriptDaily.jpg">]( "JavaScript Daily [JavaScriptDaily]") Implementing an Infinite Scroll with Vue.js: [[alligator.io]](https://alligator.io/vuejs/implementing-infinite-scroll/)
 
@@ -100,3 +106,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@rachelbinx](http://twitter.com/rachelbinx) Yup, yet again that is what it's like to be a Black Man in tech: an IT manager once complained about my… [[twitter.com]](https://twitter.com/i/web/status/984825672911568896)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Next Cold War Is Here, and It's All About Data [[wired.com]](https://www.wired.com/story/opinion-new-data-cold-war/?mbid=social_twitter_onsiteshare) via [@WIRED](http://twitter.com/WIRED)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

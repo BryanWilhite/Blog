@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "NEW POST: A collection of some of the best data visualisation related content discovered during March 2018 [visualisingdata.com][twitter.com]       ICYMI, 📊short-course &amp;📽s!       \"Data Visualization Pitfalls to Avoid\" 👩‍💻 @tamaramunzner[buff.ly]...",
-  "inceptDate": "2018-11-01T22:03:56.741227-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "a-collection-of-some-of-the-best-data-visualisation-related-content-discovered-during-march-2018-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“A collection of some of the best data visualisation related content discovered during March 2018” and other tweeted links…",
+  "documentShortName": "2018-11-01-a-collection-of-some-of-the-best-data-visualisation-related-content-discovered-during-march-2018-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-11-01-a-collection-of-some-of-the-best-data-visualisation-related-content-discovered-during-march-2018-and-other-tweeted-links",
+  "date": "2018-11-02T05:03:56.741Z",
+  "modificationDate": "2018-11-02T05:03:56.741Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“A collection of some of the best data visualisation related content discovered during March 2018” and other tweeted links…"
+  "clientId": "2018-11-01-a-collection-of-some-of-the-best-data-visualisation-related-content-discovered-during-march-2018-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"NEW POST: A collection of some of the best data visualisation related content discovered during March 2018 [visualisingdata.com][twitter.com]       ICYMI, 📊short-course &amp;📽s!       \\\"Data Visualization Pitfalls to Avoid\\\" 👩‍💻 @tamaramunzner[buff.ly]...\"\r\n}"
 }
 ---
+
+# “A collection of some of the best data visualisation related content discovered during March 2018” and other tweeted links…
 
 [<img alt="Andy Kirk [visualisingdata]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/visualisingdata.jpg">](https://t.co/JAymqQeZJs) NEW POST: A collection of some of the best data visualisation related content discovered during March 2018 [[visualisingdata.com]](http://www.visualisingdata.com/2018/06/best-visualisation-web-march-2018/)[[twitter.com]](https://twitter.com/visualisingdata/status/1002545010951249920/photo/1)
 
@@ -25,11 +31,11 @@
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3) If you want to write an [[asp.net]](http://ASP.NET) Core [@SignalR](http://twitter.com/@SignalR) client for another platform, the protocol spec is now fully documented [[github.com]](https://github.com/aspnet/SignalR/blob/dev/specs/HubProtocol.md)[#aspnetcore](http://twitter.com/search?q='%23aspnetcore)[#dotnetcore](http://twitter.com/search?q='%23dotnetcore)[#signalr](http://twitter.com/search?q='%23signalr)
 
-[<img alt="Brad Frost [brad_frost]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brad_frost.jpg">](https://t.co/o7uHHw2jAr) I wonder how many JS libraries would have never been born if we had the ability to properly style &gt;select&lt; and &gt;input type="checkbox" /&lt;? 
+[<img alt="Brad Frost [brad_frost]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brad_frost.jpg">](https://t.co/o7uHHw2jAr) I wonder how many JS libraries would have never been born if we had the ability to properly style &gt;select&lt; and &gt;input type="checkbox" /&lt;?
 
 [<img alt="Frank A. Krueger [praeclarum]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/praeclarum.jpg">](http://t.co/x1L9wCpO59) Introducing [[fuget.org]](http://fuget.org) - I built a new nuget package browser that lets you explore APIs and really get to know your libraries. I hope you like it! [[praeclarum.org]](http://praeclarum.org/post/174440517348/introducing-fugetorg)
 
-[<img alt="Felix Rieseberg [felixrieseberg]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/felixrieseberg.jpg">](https://t.co/EZR9aQyBiu) If you fear for the future of [@electronjs](http://twitter.com/@electronjs) in a world where Microsoft owns GitHub, know that Microsoft is *already* one of its top contributors. In fact, I'm on my way to the Electron Maintainers Summit, hosted kindly by Microsoft's Electron team. It'll be fine 💖 
+[<img alt="Felix Rieseberg [felixrieseberg]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/felixrieseberg.jpg">](https://t.co/EZR9aQyBiu) If you fear for the future of [@electronjs](http://twitter.com/@electronjs) in a world where Microsoft owns GitHub, know that Microsoft is *already* one of its top contributors. In fact, I'm on my way to the Electron Maintainers Summit, hosted kindly by Microsoft's Electron team. It'll be fine 💖
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Why is Front-End Development So Unstable? [[breck-mckye.com]](http://www.breck-mckye.com/blog/2018/05/why-is-front-end-development-so-unstable/) via [@jbreckmckye](http://twitter.com/@jbreckmckye)
 
@@ -49,13 +55,13 @@
 
 [<img alt="Mark Russinovich [markrussinovich]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/markrussinovich.jpg">](https://t.co/BJ4Ib1CWli) This IS very cool: "This is SO cool! Use Azure AD to login to Azure Linux virtual machines" [[cloudblogs.microsoft.com]](https://cloudblogs.microsoft.com/enterprisemobility/2018/05/29/this-is-so-cool-use-azure-ad-to-login-to-azure-linux-virtual-machines/)
 
-[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXzrN5)[@skamille](http://twitter.com/@skamille) Gdrive search is a placebo. The only part I dislike about Gdocs. Been using Dropbox paper, the search is incredible and the editing experience is very pleasant to use. 
+[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXzrN5)[@skamille](http://twitter.com/@skamille) Gdrive search is a placebo. The only part I dislike about Gdocs. Been using Dropbox paper, the search is incredible and the editing experience is very pleasant to use.
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ) it's not great that the [[asp.net]](http://ASP.NET) Core Docker image used for 2.1 RC1 (2.1-aspnetcore-runtime) was now *replaced* by the one for 2.1 RTM. causes all kinds of caching issues on deployment infrastructure, apps getting build with wrong runtime 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ) it's not great that the [[asp.net]](http://ASP.NET) Core Docker image used for 2.1 RC1 (2.1-aspnetcore-runtime) was now *replaced* by the one for 2.1 RTM. causes all kinds of caching issues on deployment infrastructure, apps getting build with wrong runtime
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Securing an Azure App Service Website under SSL in minutes with Let's Encrypt [[hanselman.com]](https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx)[@shanselman](http://twitter.com/@shanselman) =&gt; “What's the catch? The SSL Certificates only last 90 days…you’ll want to have some scripts … to automatically renew and install the certificates.” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Securing an Azure App Service Website under SSL in minutes with Let's Encrypt [[hanselman.com]](https://www.hanselman.com/blog/SecuringAnAzureAppServiceWebsiteUnderSSLInMinutesWithLetsEncrypt.aspx)[@shanselman](http://twitter.com/@shanselman) =&gt; “What's the catch? The SSL Certificates only last 90 days…you’ll want to have some scripts … to automatically renew and install the certificates.”
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Dealing with Unsafe Methods in RESTful Services -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2018/04/01/dealing-with-unsafe-methods.aspx) “I had failed to consider idempotency: Is it safe for a client to send a request multiple times?” 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Dealing with Unsafe Methods in RESTful Services -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2018/04/01/dealing-with-unsafe-methods.aspx) “I had failed to consider idempotency: Is it safe for a client to send a request multiple times?”
 
 [<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY) .[@SHanselman](http://twitter.com/@SHanselman) has been experimenting using LazyCache to simplify [#dotNET](http://twitter.com/search?q='%23dotNET) Core in-memory caching. See what he's been working on: [[msft.social]](http://msft.social/ntvHQX)[[twitter.com]](https://twitter.com/VisualStudio/status/1001487084396449793/photo/1)
 
@@ -67,40 +73,42 @@
 
 [<img alt="🔥 Hazzard [KevinHazzard]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/KevinHazzard.jpg">](https://t.co/Hw5H0JDTRR) Code Contracts from Microsoft is now Open Source. [[github.com]](https://github.com/CodeContractsDotNet/CodeContracts)
 
-[<img alt="🔥 Hazzard [KevinHazzard]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/KevinHazzard.jpg">](https://t.co/Hw5H0JDTRR) Recording a podcast with the Microsoft Code Contracts team members right now. It'll be up on [http://devjourney.com](http://devjourney.com) tomorrow. 
+[<img alt="🔥 Hazzard [KevinHazzard]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/KevinHazzard.jpg">](https://t.co/Hw5H0JDTRR) Recording a podcast with the Microsoft Code Contracts team members right now. It'll be up on [http://devjourney.com](http://devjourney.com) tomorrow.
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) Hmmm, the json module in [#python](http://twitter.com/search?q='%23python) silently converts int keys into str: &gt;&gt;&gt; d = {10: 'ten', 20: 'twenty'} &gt;&gt;&gt; json.loads(json.dumps(d)) {'10': 'ten', '20': 'twenty'} Since the JSON spec only allows string keys, I had hoped this example would have raised a ValueError. 
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) Hmmm, the json module in [#python](http://twitter.com/search?q='%23python) silently converts int keys into str: &gt;&gt;&gt; d = {10: 'ten', 20: 'twenty'} &gt;&gt;&gt; json.loads(json.dumps(d)) {'10': 'ten', '20': 'twenty'} Since the JSON spec only allows string keys, I had hoped this example would have raised a ValueError.
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) To me, the order of arguments of [#python](http://twitter.com/search?q='%23python)'s format() builtin function seem backwards. We call format() with a particular format in mind and that is the first thought. The default format of '' isn't almost never used. 
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) To me, the order of arguments of [#python](http://twitter.com/search?q='%23python)'s format() builtin function seem backwards. We call format() with a particular format in mind and that is the first thought. The default format of '' isn't almost never used.
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3)[#Python](http://twitter.com/search?q='%23Python) sets are partially ordered because a&gt;=b means a.issubset(b).&gt;&gt;&gt; a = {2, 4} &gt;&gt;&gt; b = {4, 6} &gt;&gt;&gt; a &lt; b False&gt;&gt;&gt; b &lt; a False Some functions like min(), max(), and sorted() rely require total ordering, so they get confused by sets:&gt;&gt;&gt; min(a, b) == min(b, a) False 
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3)[#Python](http://twitter.com/search?q='%23Python) sets are partially ordered because a&gt;=b means a.issubset(b).&gt;&gt;&gt; a = {2, 4} &gt;&gt;&gt; b = {4, 6} &gt;&gt;&gt; a &lt; b False&gt;&gt;&gt; b &lt; a False Some functions like min(), max(), and sorted() rely require total ordering, so they get confused by sets:&gt;&gt;&gt; min(a, b) == min(b, a) False
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Concurrent programming in Python by Jim Small [[youtube.com]](https://www.youtube.com/watch?v=iD0WetGt68k)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Adventures with concurrent programming in Java: A quest for predictable latency by Martin Thompson [[youtube.com]](https://www.youtube.com/watch?v=929OrIvbW18)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/qH4kMaLUXUc?a) Laws of Concurrent Programming 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/qH4kMaLUXUc?a) Laws of Concurrent Programming
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Erlang Master Class 2: Concurrent Programming [[youtube.com]](https://www.youtube.com/playlist?list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn)
 
-[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jonskeet.jpg">](https://t.co/G7ynklMRpf) Current status: trying to isolate an error of "[[t.co]](https://t.co/uB6QWJogXu.VerificationException): Operation could destabilize the runtime" when running Noda Time 3.0 (very prerelease) code in .NET full framework. Efforts to reproduce in a smaller library are failing so far :( 
+[<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jonskeet.jpg">](https://t.co/G7ynklMRpf) Current status: trying to isolate an error of "[[t.co]](https://t.co/uB6QWJogXu.VerificationException): Operation could destabilize the runtime" when running Noda Time 3.0 (very prerelease) code in .NET full framework. Efforts to reproduce in a smaller library are failing so far :(
 
-[<img alt="Lukas Eder [lukaseder]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lukaseder.jpg">](https://t.co/GM9UZOQazM) Just killed a rogue skype process on my computer. This also killed a database connection and open visual studio code tabs. Skype, what the hell are you doing? 
+[<img alt="Lukas Eder [lukaseder]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lukaseder.jpg">](https://t.co/GM9UZOQazM) Just killed a rogue skype process on my computer. This also killed a database connection and open visual studio code tabs. Skype, what the hell are you doing?
 
 [<img alt="Jerry Gamblin [JGamblin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JGamblin.jpg">](https://t.co/LGcLUw4nf5) I dont want to brag but this hotel has iOS and Android power. [[twitter.com]](https://twitter.com/JGamblin/status/1002165347808620544/photo/1)
 
-[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) New Windows Weekly is out. We talk about Microsoft's push to upgrade users to 1803/April update, Redstone 5's progress, To-Doers (vs. non-list makers) &amp;more: [[twit.tv]](https://twit.tv/shows/windows-weekly/episodes/572)? 
+[<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) New Windows Weekly is out. We talk about Microsoft's push to upgrade users to 1803/April update, Redstone 5's progress, To-Doers (vs. non-list makers) &amp;more: [[twit.tv]](https://twit.tv/shows/windows-weekly/episodes/572)?
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft is buying GitHub for $7.5 billion. Nat Friedman (CEO of Xamarin) will be GitHub CEO: [[zdnet.com]](https://www.zdnet.com/article/microsoft-buys-github-for-7-5-billion/)
 
-[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXzrN5) Satya looked at Microsoft’s bill from all the code we host on GitHub and figured it would be cheaper to buy the company. 
+[<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXzrN5) Satya looked at Microsoft’s bill from all the code we host on GitHub and figured it would be cheaper to buy the company.
 
-[<img alt="Adam Wright [awright18]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/awright18.jpg">](null) I recall when M$ purchased Xamarin which was quite expensive to users at the time and made it free to use. I could imagine this happening for non-enterprise GitHub accounts. Im guessing that would turn some people's frowns upside down. 
+[<img alt="Adam Wright [awright18]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/awright18.jpg">](null) I recall when M$ purchased Xamarin which was quite expensive to users at the time and made it free to use. I could imagine this happening for non-enterprise GitHub accounts. Im guessing that would turn some people's frowns upside down.
 
 [<img alt="Prosper Otemuyiwa 🔥 [unicodeveloper]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/unicodeveloper.jpg">](null) Most of the great programmers that walk the face of the earth are never known. No social media. No code on Github to show. No speaking events. No CV. And they spend their weekends doing things totally unrelated to coding. [[twitter.com]](https://twitter.com/alicegoldfuss/status/1001566612632170498)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@unicodeveloper](http://twitter.com/@unicodeveloper) My look at the latest [@StackOverflow](http://twitter.com/@StackOverflow) survey showed me that IT folks who are obligated to deal with _multiple_ team members on a daily basis get paid the most---that's DevOps gatekeepers and straight up managers---one can’t maintain tech skills while servicing all these teammates. 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@unicodeveloper](http://twitter.com/@unicodeveloper) My look at the latest [@StackOverflow](http://twitter.com/@StackOverflow) survey showed me that IT folks who are obligated to deal with _multiple_ team members on a daily basis get paid the most---that's DevOps gatekeepers and straight up managers---one can’t maintain tech skills while servicing all these teammates.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Can now only access Gmail account on Thunderbird if Google secure apps is switched off [[support.mozilla.org]](https://support.mozilla.org/en-US/questions/1201406)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) The financial scandal no one is talking about [[theguardian.com]](https://www.theguardian.com/news/2018/may/29/the-financial-scandal-no-one-is-talking-about-big-four-accountancy-firms?CMP=share_btn_tw)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

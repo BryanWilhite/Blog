@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "CSS Instead of SVG: Creating, Animating, and Morphing Shapes [noupe.com] “In September, HTML5.1 is supposed to be adopted officially, taking over from HTML5.” [noupe.com] Top angular directives on github [kozikow.wordpress.com] “All .NET articles are ope...",
-  "inceptDate": "2016-08-26T15:25:39.0483359-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "css-instead-of-svg-creating-animating-and-morphing-shapes-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“CSS Instead of SVG: Creating, Animating, and Morphing Shapes” and other Tweeted Links…",
+  "documentShortName": "2016-08-26-css-instead-of-svg-creating-animating-and-morphing-shapes-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-08-26-css-instead-of-svg-creating-animating-and-morphing-shapes-and-other-tweeted-links",
+  "date": "2016-08-26T22:25:39.048Z",
+  "modificationDate": "2016-08-26T22:25:39.048Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“CSS Instead of SVG: Creating, Animating, and Morphing Shapes” and other Tweeted Links…"
+  "clientId": "2016-08-26-css-instead-of-svg-creating-animating-and-morphing-shapes-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"CSS Instead of SVG: Creating, Animating, and Morphing Shapes [noupe.com] “In September, HTML5.1 is supposed to be adopted officially, taking over from HTML5.” [noupe.com] Top angular directives on github [kozikow.wordpress.com] “All .NET articles are ope...\"\r\n}"
 }
 ---
+
+# “CSS Instead of SVG: Creating, Animating, and Morphing Shapes” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS Instead of SVG: Creating, Animating, and Morphing Shapes [[noupe.com]](http://www.noupe.com/design/html-css/css-svg-shapes-98214.html)
 
@@ -49,15 +55,15 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scheduling Azure WebJobs with cron expressions [[blog.amitapple.com]](http://blog.amitapple.com/post/2015/06/scheduling-azure-webjobs/#.V3iyySN_oNt.twitter)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@techsupportguy](http://twitter.com/techsupportguy)[[youtu.be]](http://youtu.be/AXSOXxG36vI?a) TSG72: Google Keep vs Evernote vs OneNote 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@techsupportguy](http://twitter.com/techsupportguy)[[youtu.be]](http://youtu.be/AXSOXxG36vI?a) TSG72: Google Keep vs Evernote vs OneNote
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/gs4pxVRbCyQ?a) How To Get Super Organized Using Microsoft OneNote 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/gs4pxVRbCyQ?a) How To Get Super Organized Using Microsoft OneNote
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Google has found that “users complete forms up to 30% faster” when using autofill.” [[blog.cloudfour.com]](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UX: “all you need to know is that the elevator system has responded to your request and an elevator is coming.” [[blog.jgc.org]](http://blog.jgc.org/2010/06/elevator-button-problem.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/5C8AvYVt4_0?a) Informing without Alienating - Mona Chalabi 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/5C8AvYVt4_0?a) Informing without Alienating - Mona Chalabi
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Replacing MVVM with Asynchronous Functional Programming Styles in C# [[codeproject.com]](http://www.codeproject.com/Articles/1109483/Can-Co-Routines-with-Functions-in-Csharp-replace-M)
 
@@ -65,11 +71,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Application configuration in .NET Core – Part 1 [[colinmackay.scot]](https://colinmackay.scot/2016/07/03/application-configuration-in-net-core-part-1/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "The CurrentTimeZone property corresponds to the TimeZoneInfo.Local property. Whenever possible, use the TimeZoneInfo.Local property." 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "The CurrentTimeZone property corresponds to the TimeZoneInfo.Local property. Whenever possible, use the TimeZoneInfo.Local property."
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TimeZone.CurrentTimeZone Property [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/system.timezone.currenttimezone%28v=vs.110%29.aspx?f=255&MSPPError=-2147217396)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@shanselman](http://twitter.com/shanselman)[[youtu.be]](http://youtu.be/DmsJHocTt84?a) How to run Linux on Windows 10 with "Bash on Ubuntu on Windows!" - 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@shanselman](http://twitter.com/shanselman)[[youtu.be]](http://youtu.be/DmsJHocTt84?a) How to run Linux on Windows 10 with "Bash on Ubuntu on Windows!" -
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Install Google Chrome in Ubuntu 14.04 / 13.10 / 13.04 / 12.04 using PPA [[howopensource.com]](http://www.howopensource.com/2011/10/install-google-chrome-in-ubuntu-11-10-11-04-10-10-10-04/)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Building remote-first teams” by [@fox](http://twitter.com/fox)[[medium.com]](https://medium.com/@fox/building-remote-first-teams-a98bf8581db#.s0dukfviv)[@shanselman](http://twitter.com/shanselman) =&gt; [[hanselminutes.com]](http://hanselminutes.com/533/building-remote-first-teams-with-karolina-szczur)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Want to get 6 figures for working code someone before you got 7 figures? [@iayori](http://twitter.com/iayori)[[businessinsider.com]](http://www.businessinsider.com/dark-side-of-a-valley-software-engineer-2016-7)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

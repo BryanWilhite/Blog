@@ -1,27 +1,33 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "ePubcheck on Linux – Mr Alphaville [mralphaville.wordpress.com] « @EricMussBarnes Install Sigil Epub Editor 0.9.3 in Ubuntu 15.10 [websetnet.com] « @EricMussBarnes Making epub happen: Introducing FlightCrew, the epub validator [sigildev.blogspot.com] [re...",
-  "inceptDate": "2017-03-24T16:06:51.0030239-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "epubcheck-on-linux-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“ePubcheck on Linux” and other Tweeted Links…",
+  "documentShortName": "2017-03-24-epubcheck-on-linux-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-03-24-epubcheck-on-linux-and-other-tweeted-links",
+  "date": "2017-03-24T23:06:51.003Z",
+  "modificationDate": "2017-03-24T23:06:51.003Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“ePubcheck on Linux” and other Tweeted Links…"
+  "clientId": "2017-03-24-epubcheck-on-linux-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"ePubcheck on Linux – Mr Alphaville [mralphaville.wordpress.com] « @EricMussBarnes Install Sigil Epub Editor 0.9.3 in Ubuntu 15.10 [websetnet.com] « @EricMussBarnes Making epub happen: Introducing FlightCrew, the epub validator [sigildev.blogspot.com] [re...\"\r\n}"
 }
 ---
+
+# “ePubcheck on Linux” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ePubcheck on Linux – Mr Alphaville [[mralphaville.wordpress.com]](https://mralphaville.wordpress.com/2013/09/28/epubcheck-on-linux/) « [@EricMussBarnes](http://twitter.com/EricMussBarnes)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Install Sigil Epub Editor 0.9.3 in Ubuntu 15.10 [[websetnet.com]](https://websetnet.com/install-sigil-epub-editor-093-ubuntu-1510/) « [@EricMussBarnes](http://twitter.com/EricMussBarnes)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Making epub happen: Introducing FlightCrew, the epub validator [[sigildev.blogspot.com]](http://sigildev.blogspot.com/2010/10/introducing-flightcrew-epub-validator.html) [recommended by [@EricMussBarnes](http://twitter.com/EricMussBarnes)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Making epub happen: Introducing FlightCrew, the epub validator [[sigildev.blogspot.com]](http://sigildev.blogspot.com/2010/10/introducing-flightcrew-epub-validator.html) [recommended by [@EricMussBarnes](http://twitter.com/EricMussBarnes)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Reading Free EPUB ebooks on the Nook; Simple, HD and Tablet | epub Blog [[blog.epubbooks.com]](http://blog.epubbooks.com/1168/reading-free-epubs-on-the-nook) « [@EricMussBarnes](http://twitter.com/EricMussBarnes)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") epubcheck/ncx-2005-1.dtd navPoint declaration [[github.com]](https://github.com/IDPF/epubcheck/blob/38a2d5c2ab33cd50f345d2028d124948682d8acc/src/main/resources/com/adobe/epubcheck/schema/20/dtd/ncx-2005-1.dtd#L139) [looking for class values: chapter|section] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") epubcheck/ncx-2005-1.dtd navPoint declaration [[github.com]](https://github.com/IDPF/epubcheck/blob/38a2d5c2ab33cd50f345d2028d124948682d8acc/src/main/resources/com/adobe/epubcheck/schema/20/dtd/ncx-2005-1.dtd#L139) [looking for class values: chapter|section]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “UX may brag about intuitive and pretty, but we sure suck at helping people” [[alistapart.com]](http://alistapart.com/article/i-dont-need-help)
 
@@ -47,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Working with Enumerated Values in Entity Framework -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2017/02/01/enumerated-values.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Advanced OData Tutorial with Simple.OData.Client [[vagifabilov.wordpress.com]](https://vagifabilov.wordpress.com/tag/simple-odata-client/?platform=hootsuite) [uses [[services.odata.org]](http://services.odata.org)] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Advanced OData Tutorial with Simple.OData.Client [[vagifabilov.wordpress.com]](https://vagifabilov.wordpress.com/tag/simple-odata-client/?platform=hootsuite) [uses [[services.odata.org]](http://services.odata.org)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") gburgett/LinqPad-mongo-driver: Uses Mongo's C# driver to provide a dynamic data context driver for LinqPad [[github.com]](https://github.com/gburgett/LinqPad-mongo-driver)
 
@@ -57,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RethinkDB is a distributed, open-source database for building realtime web applications. [[rethinkdb.com]](https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RavenDB Conference videos: RavenDB for the Modern Web Developer - Ayende @ Rahien [[ayende.com]](https://ayende.com/blog/176871/ravendb-conference-videos-ravendb-for-the-modern-web-developer?Key=80ef11e3-61db-497d-9d62-48dc540238af) [video] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RavenDB Conference videos: RavenDB for the Modern Web Developer - Ayende @ Rahien [[ayende.com]](https://ayende.com/blog/176871/ravendb-conference-videos-ravendb-for-the-modern-web-developer?Key=80ef11e3-61db-497d-9d62-48dc540238af) [video]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dialing with WPF | Coding4Fun Blog | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/coding4fun/blog/Dialing-with-WPF)
 
@@ -96,3 +102,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The top 12 international cities for software engineers | TechBeacon [[techbeacon.com]](https://techbeacon.com/top-12-international-cities-software-engineers)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Banks are scared. They’ve seen the rise of the new world of open APIs, apps and analytics..” [[thefinanser.com]](http://thefinanser.com/2017/02/banks-getting-around-open-banking-psd2.html/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

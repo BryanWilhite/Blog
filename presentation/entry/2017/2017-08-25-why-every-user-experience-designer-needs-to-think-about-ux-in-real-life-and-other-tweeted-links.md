@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Why Every User Experience Designer Needs to Think About UX In Real Life (UX IRL) [blogs.adobe.com] Meet the UX Designer: Simon Waloszek [blogs.adobe.com] HTML5 Canvas or SVG: Choose Wisely [noupe.com] One month with React Native [whitesmith.co] Microsoft...",
-  "inceptDate": "2017-08-25T15:07:53.8291875-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "why-every-user-experience-designer-needs-to-think-about-ux-in-real-life-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Why Every User Experience Designer Needs to Think About UX In Real Life” and other Tweeted Links…",
+  "documentShortName": "2017-08-25-why-every-user-experience-designer-needs-to-think-about-ux-in-real-life-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-08-25-why-every-user-experience-designer-needs-to-think-about-ux-in-real-life-and-other-tweeted-links",
+  "date": "2017-08-25T22:07:53.829Z",
+  "modificationDate": "2017-08-25T22:07:53.829Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Why Every User Experience Designer Needs to Think About UX In Real Life” and other Tweeted Links…"
+  "clientId": "2017-08-25-why-every-user-experience-designer-needs-to-think-about-ux-in-real-life-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Why Every User Experience Designer Needs to Think About UX In Real Life (UX IRL) [blogs.adobe.com] Meet the UX Designer: Simon Waloszek [blogs.adobe.com] HTML5 Canvas or SVG: Choose Wisely [noupe.com] One month with React Native [whitesmith.co] Microsoft...\"\r\n}"
 }
 ---
+
+# “Why Every User Experience Designer Needs to Think About UX In Real Life” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Every User Experience Designer Needs to Think About UX In Real Life (UX IRL) [[blogs.adobe.com]](https://blogs.adobe.com/creativecloud/why-every-user-experience-designer-needs-to-think-about-ux-in-real-life-ux-irl/)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A federal court has ruled that an open-source license is an enforceable contract [[qz.com]](https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linus Torvalds stops personally signing Linux tarballs [[theregister.co.uk]](https://www.theregister.co.uk/2017/05/14/linux_4_12_rc1_released/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog http://t.co/IQhG0ISfxv  Creating Micro Screencasts, Hosted For Free http://t.co/l4YQAnRX7t #TDN  Career planning: What is your path? - Ayende @ Rahien http://t.co/mfGsYXVIO8  Career plan...",
-  "inceptDate": "2014-10-23T00:00:00",
-  "isPublished": true,
-  "slug": "xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",
-  "title": "“Xamarin Evolve 2014 Session Recordings Now Available” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Xamarin Evolve 2014 Session Recordings Now Available” and other Tweeted Links…",
+  "documentShortName": "2014-10-23-xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-10-23-xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",
+  "date": "2014-10-23T07:00:00.000Z",
+  "modificationDate": "2014-10-23T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-10-23-xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog http://t.co/IQhG0ISfxv  Creating Micro Screencasts, Hosted For Free http://t.co/l4YQAnRX7t #TDN  Career planning: What is your path? - Ayende @ Rahien http://t.co/mfGsYXVIO8  Career plan...\"\r\n}"
 }
 ---
+
+# “Xamarin Evolve 2014 Session Recordings Now Available” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog [http://t.co/IQhG0ISfxv](http://t.co/IQhG0ISfxv)</span>
 
@@ -40,3 +50,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>'Microsoft Lumia' Will Replace the Nokia Brand - Slashdot [http://t.co/SE7uAK25Jr](http://t.co/SE7uAK25Jr)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>9 Reasons You May Never Retire [http://t.co/txt1bLYtrU](http://t.co/txt1bLYtrU) via [@sharethis](http://twitter.com/sharethis)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [youtube.com] Siri Fails, Dark UX &amp; The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [linkedin.com] The Importance of O...",
-  "inceptDate": "2017-03-09T18:12:05.3013642-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "designing-motion-smart-transitions-in-ui-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Designing Motion: Smart Transitions in UI Design” and other Tweeted Links…",
+  "documentShortName": "2017-03-09-designing-motion-smart-transitions-in-ui-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-03-09-designing-motion-smart-transitions-in-ui-design-and-other-tweeted-links",
+  "date": "2017-03-10T02:12:05.301Z",
+  "modificationDate": "2017-03-10T02:12:05.301Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Designing Motion: Smart Transitions in UI Design” and other Tweeted Links…"
+  "clientId": "2017-03-09-designing-motion-smart-transitions-in-ui-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [youtube.com] Siri Fails, Dark UX &amp; The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [linkedin.com] The Importance of O...\"\r\n}"
 }
 ---
+
+# “Designing Motion: Smart Transitions in UI Design” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [[youtube.com]](https://www.youtube.com/watch?v=NaqKjp14Xbg)
 
@@ -21,7 +27,7 @@
 
 [<img alt="Danielle Smith [danielleps0]" src="https://songhay.blob.core.windows.net/shared-social-twitter/danielleps0.jpg">]( "Danielle Smith [danielleps0]") Ha! Thanks [@BryanWilhite](http://twitter.com/BryanWilhite)! I was just complaining about this. Glad there are UXers actually working the problem. [@nazsharif](http://twitter.com/nazsharif)[@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@danielleps0](http://twitter.com/danielleps0) you are welcome! BTW: my mom is from Houston :) 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@danielleps0](http://twitter.com/danielleps0) you are welcome! BTW: my mom is from Houston :)
 
 [<img alt="Brendan Dawes [brendandawes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brendandawes.jpg">](http://t.co/wGjjOxS96F "Brendan Dawes [brendandawes]") My keynote from [#ixd17](http://twitter.com/search?q=%23ixd17) about the beautiful inconvenience of things is now online: [[vimeo.com]](https://vimeo.com/204279123)
 
@@ -47,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Entity Framework Core | Visual Studio Toolbox | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core)[@julielerman](http://twitter.com/julielerman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core Lets Us Finally Define NoTracking DbContexts | The Data Farm [[thedatafarm.com]](http://thedatafarm.com/data-access/ef-core-lets-us-finally-define-notracking-dbcontexts/)[@julielerman](http://twitter.com/julielerman) [QueryTrackingBehavior] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core Lets Us Finally Define NoTracking DbContexts | The Data Farm [[thedatafarm.com]](http://thedatafarm.com/data-access/ef-core-lets-us-finally-define-notracking-dbcontexts/)[@julielerman](http://twitter.com/julielerman) [QueryTrackingBehavior]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Performance Considerations for EF 4, 5, and 6 [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/hh949853(v=vs.113).aspx)
 
@@ -57,11 +63,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Entity Framework includes an AsNoTracking method that can be used to execute a no-tracking query.” [[safaribooksonline.com]](https://www.safaribooksonline.com/library/view/programming-entity-framework/9781449331825/ch03s06.html)[@julielerman](http://twitter.com/julielerman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Unit Testing Entity Framework 7 with the In Memory Data Store [[davidzych.com]](https://davidzych.com/unit-testing-entity-framework-7-with-the-in-memory-data-store/) « [@julielerman](http://twitter.com/julielerman) [db.UseInMemoryDatabase()] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Unit Testing Entity Framework 7 with the In Memory Data Store [[davidzych.com]](https://davidzych.com/unit-testing-entity-framework-7-with-the-in-memory-data-store/) « [@julielerman](http://twitter.com/julielerman) [db.UseInMemoryDatabase()]
 
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/gBUhMHLXgK "Julie Lerman [julielerman]")[@BryanWilhite](http://twitter.com/BryanWilhite) that's a little dated. My April MSDN will be about current. Also EF docs are current. [[docs.microsoft.com]](https://docs.microsoft.com/en-us/ef/core/providers/in-memory/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@julielerman](http://twitter.com/julielerman) thx for the update super-awesome Julie 🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@julielerman](http://twitter.com/julielerman) thx for the update super-awesome Julie 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “C# 7.0 offers a shorter syntax invoking methods with out parameters” [[csharp.christiannagel.com]](https://csharp.christiannagel.com/2017/02/01/refreturns/)
 
@@ -77,6 +83,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple, ARM, and the coming of the hybrid Mac - Six Colors [[sixcolors.com]](https://sixcolors.com/post/2017/02/apple-arm-and-the-coming-of-the-hybrid-mac/) » [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") I don't like the term "promotion". You should never "promote" someone. You should "recognize" the level they contribute at. 
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") I don't like the term "promotion". You should never "promote" someone. You should "recognize" the level they contribute at.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How immigration has affected the tech world - The Verge [[theverge.com]](http://www.theverge.com/2017/2/2/14484346/ctrl-walt-delete-podcast-tech-immigration-samsung-curved-screen)[@waltmossberg](http://twitter.com/waltmossberg) [podcast]
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

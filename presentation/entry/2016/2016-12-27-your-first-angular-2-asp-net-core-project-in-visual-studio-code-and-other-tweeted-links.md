@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Your First Angular 2, [asp.net] Core Project in Visual Studio Code – Part 1 | Angular First [ow.ly] from 2015: Now Supporting TypeScript - CodePen Blog [ow.ly] Introducing OpenType Font Variations [ow.ly] Webinar Recording | Get Started with Xamarin and ...",
-  "inceptDate": "2016-12-27T15:51:28.0424476-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "your-first-angular-2-asp-net-core-project-in-visual-studio-code-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Your First Angular 2, ASP.NET Core Project in Visual Studio Code” and other Tweeted Links…",
+  "documentShortName": "2016-12-27-your-first-angular-2-asp-net-core-project-in-visual-studio-code-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-12-27-your-first-angular-2-asp-net-core-project-in-visual-studio-code-and-other-tweeted-links",
+  "date": "2016-12-27T23:51:28.042Z",
+  "modificationDate": "2016-12-27T23:51:28.042Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Your First Angular 2, ASP.NET Core Project in Visual Studio Code” and other Tweeted Links…"
+  "clientId": "2016-12-27-your-first-angular-2-asp-net-core-project-in-visual-studio-code-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Your First Angular 2, [asp.net] Core Project in Visual Studio Code – Part 1 | Angular First [ow.ly] from 2015: Now Supporting TypeScript - CodePen Blog [ow.ly] Introducing OpenType Font Variations [ow.ly] Webinar Recording | Get Started with Xamarin and ...\"\r\n}"
 }
 ---
+
+# “Your First Angular 2, ASP.NET Core Project in Visual Studio Code” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Your First Angular 2, [[asp.net]](http://ASP.NET) Core Project in Visual Studio Code – Part 1 | Angular First [[ow.ly]](http://ow.ly/scEl306PWN9)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Build a REST API for your Mobile Apps with [[asp.net]](http://ASP.NET) Core - Stormpath User Identity API [[ow.ly]](http://ow.ly/zfrw306Uv2v)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logic Apps Management and Tooling | Azure Friday | [@kevinlam_msft](http://twitter.com/kevinlam_msft)[[ow.ly]](http://ow.ly/ephD306SD8c) [“Open with Logic Apps Designer” in Visual Studio] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logic Apps Management and Tooling | Azure Friday | [@kevinlam_msft](http://twitter.com/kevinlam_msft)[[ow.ly]](http://ow.ly/ephD306SD8c) [“Open with Logic Apps Designer” in Visual Studio]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure WebJob logs demystified | Kloud Blog [[ow.ly]](http://ow.ly/8wfA306ZIwY)
 
@@ -88,3 +94,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") All of Richard Feynman’s physics lectures are now available free online - ScienceAlert [[ow.ly]](http://ow.ly/1v9U3071EeE)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Unbelievable bike handling on display at the Indoor Cycling World Championships (video) - Cycling Weekly [[ow.ly]](http://ow.ly/MLWk306UvMc)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

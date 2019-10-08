@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Prism, WPF and Unity based modular application step by step by Gerald Gomes http://t.co/iQINOhb4s0  Good news is that Amazon's delivering packages by robot drone. The bad news is the drones refuse to deliver anything but drone kits. #skynet  Looks like \"...",
-  "inceptDate": "2013-12-03T00:00:00",
-  "isPublished": true,
-  "slug": "prism-wpf-and-unity-based-modular-application-step-by-step-and-other-tweeted-links",
-  "title": "“Prism, WPF and Unity based modular application step by step” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Prism, WPF and Unity based modular application step by step” and other Tweeted Links…",
+  "documentShortName": "2013-12-03-prism-wpf-and-unity-based-modular-application-step-by-step-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2013-12-03-prism-wpf-and-unity-based-modular-application-step-by-step-and-other-tweeted-links",
+  "date": "2013-12-03T08:00:00.000Z",
+  "modificationDate": "2013-12-03T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2013-12-03-prism-wpf-and-unity-based-modular-application-step-by-step-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Prism, WPF and Unity based modular application step by step by Gerald Gomes http://t.co/iQINOhb4s0  Good news is that Amazon's delivering packages by robot drone. The bad news is the drones refuse to deliver anything but drone kits. #skynet  Looks like \\\"...\"\r\n}"
 }
 ---
+
+# “Prism, WPF and Unity based modular application step by step” and other Tweeted Links…
 
 [<img alt="CodeProject [codeproject]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codeproject.png">](http://t.co/4uZjbAWyZS "CodeProject [codeproject]") <span>Prism, WPF and Unity based modular application step by step by Gerald Gomes [http://t.co/iQINOhb4s0](http://t.co/iQINOhb4s0)</span>
 
@@ -94,3 +104,5 @@
 [<img alt="MAKE [make]" src="https://songhay.blob.core.windows.net/shared-social-twitter/make.png">](http://t.co/XBHU0l5Asx "MAKE [make]") <span>Here are some of the [@Intel](http://twitter.com/Intel) Galileo features that we're most excited about: [http://t.co/p4m10Rwttq](http://t.co/p4m10Rwttq)</span>
 
 [<img alt="Heath Howard [nattyman512]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nattyman512.jpg">](http://t.co/UnovmrcbAZ "Heath Howard [nattyman512]") <span>Charming Website Designs with Minimal Coloring: Best Practice [http://t.co/22ma6XIW8Y](http://t.co/22ma6XIW8Y)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

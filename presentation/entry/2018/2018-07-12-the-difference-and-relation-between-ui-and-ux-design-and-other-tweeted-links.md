@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "The Difference and Relation Between     #UI and     #UX Design (In 30 Seconds)     [apple.news] As of a week ago, Ruby Sass was officially deprecated. Read about what that means for the project and for you here:     [sass.logdown.com] Flexbox and Grids, ...",
-  "inceptDate": "2018-07-12T15:14:57.6090406-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-difference-and-relation-between-ui-and-ux-design-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The Difference and Relation Between #UI and #UX Design” and other Tweeted links…",
+  "documentShortName": "2018-07-12-the-difference-and-relation-between-ui-and-ux-design-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-07-12-the-difference-and-relation-between-ui-and-ux-design-and-other-tweeted-links",
+  "date": "2018-07-12T22:14:57.609Z",
+  "modificationDate": "2018-07-12T22:14:57.609Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The Difference and Relation Between #UI and #UX Design” and other Tweeted links…"
+  "clientId": "2018-07-12-the-difference-and-relation-between-ui-and-ux-design-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The Difference and Relation Between     #UI and     #UX Design (In 30 Seconds)     [apple.news] As of a week ago, Ruby Sass was officially deprecated. Read about what that means for the project and for you here:     [sass.logdown.com] Flexbox and Grids, ...\"\r\n}"
 }
 ---
+
+# “The Difference and Relation Between #UI and #UX Design” and other Tweeted links…
 
 [<img alt="Connie Bai [iCandySF]" src="https://songhay.blob.core.windows.net/shared-social-twitter/iCandySF.jpg">]( "Connie Bai [iCandySF]") The Difference and Relation Between [#UI](http://twitter.com/search?q=%23UI) and [#UX](http://twitter.com/search?q=%23UX) Design (In 30 Seconds) [[apple.news]](https://apple.news/AEqspIlQ0M_ShDTZ5mqal3A)
 
@@ -108,3 +114,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/pqQrL1K0Z5g?a) Talking Tech with Neil deGrasse Tyson!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I do everything PHP kid posted on the left except: * "forgive others" (such that a dumb-ass knows i "forgave" them… [[twitter.com]](https://twitter.com/i/web/status/980896164982661120)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

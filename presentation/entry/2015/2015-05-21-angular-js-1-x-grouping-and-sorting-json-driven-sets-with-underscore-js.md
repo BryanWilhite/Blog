@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "The Angular JS documentation on orderBy surprisingly has all the information I need to sort data. It even shows how the reverse argument can be assigned to a variable. This allowed me to write markup like this: &lt;div data-ng-repeat=\"i in groups | order...",
-  "inceptDate": "2015-05-21T00:00:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "angular-js-1-x-grouping-and-sorting-json-driven-sets-with-underscore-js",
+  "documentId": 0,
+  "title": "Angular JS 1.x: grouping and sorting JSON-driven sets with Underscore JS",
+  "documentShortName": "2015-05-21-angular-js-1-x-grouping-and-sorting-json-driven-sets-with-underscore-js",
+  "fileName": "index.html",
+  "path": "./entry/2015-05-21-angular-js-1-x-grouping-and-sorting-json-driven-sets-with-underscore-js",
+  "date": "2015-05-21T07:00:00.000Z",
+  "modificationDate": "2015-05-21T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Angular JS 1.x: grouping and sorting JSON-driven sets with Underscore JS"
+  "clientId": "2015-05-21-angular-js-1-x-grouping-and-sorting-json-driven-sets-with-underscore-js",
+  "tag": "{\r\n  \"extract\": \"The Angular JS documentation on orderBy surprisingly has all the information I need to sort data. It even shows how the reverse argument can be assigned to a variable. This allowed me to write markup like this: &lt;div data-ng-repeat=\\\"i in groups | order...\"\r\n}"
 }
 ---
+
+# Angular JS 1.x: grouping and sorting JSON-driven sets with Underscore JS
 
 The [Angular JS documentation](https://docs.angularjs.org/api/ng/filter/orderBy) on `orderBy` surprisingly has all the information I need to sort data. It even shows how the `reverse` argument can be assigned to a variable. This allowed me to write markup like this:
 
@@ -66,10 +72,14 @@ This use of `sortDescending` in the options is awesome to me. Because the Angula
 Check out [the full CodePen](http://codepen.io/rasx/pen/XJYJye):
 
 <!-- cSpell:disable -->
+
 <iframe height="265" style="width: 100%;" scrolling="no" title="Songhay Studio: Day Path Index JSON" src="https://codepen.io/rasx/embed/XJYJye?height=265&theme-id=0&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/rasx/pen/XJYJye'>Songhay Studio: Day Path Index JSON</a> by Bryan Wilhite
+
+See the Pen <a href='https://codepen.io/rasx/pen/XJYJye'>Songhay Studio: Day Path Index JSON</a> by Bryan Wilhite
   (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
+
 </iframe>
+
 <!-- cSpell:enable -->
 
 Or get [the GitHub gist](https://gist.github.com/BryanWilhite/4dfb1564fe88dba16625):
@@ -77,3 +87,5 @@ Or get [the GitHub gist](https://gist.github.com/BryanWilhite/4dfb1564fe88dba166
 <script src="https://gist.github.com/BryanWilhite/4dfb1564fe88dba16625.js"></script>
 
 My ideas about Angular grouping owe their existence to “[Group and Display Data with Underscore and AngularJS](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)” by K. Scott Allen. I wrote a [basic grouping CodePen](http://codepen.io/rasx/pen/BjCkH) to understand what was going on there. Then, I added the ability to change the grouping with a select element in an [‘intermediate’ grouping CodePen](http://codepen.io/rasx/pen/XJJKYX?editors=101).
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

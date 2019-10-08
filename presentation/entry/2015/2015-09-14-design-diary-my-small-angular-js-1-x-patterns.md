@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "My recent work with the redesign/upgrade of kintespace.com leaves me with a few Angular JS patterns that must be memorialized here, literally for my own (mental) health.Using a data Service with dirt-simple caching based on $q‘Dirt-simple’ caching is a s...",
-  "inceptDate": "2015-09-14T13:41:02.7839692-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "design-diary-my-small-angular-js-1-x-patterns",
+  "documentId": 0,
+  "title": "Design Diary: my small Angular JS 1.x patterns",
+  "documentShortName": "2015-09-14-design-diary-my-small-angular-js-1-x-patterns",
+  "fileName": "index.html",
+  "path": "./entry/2015-09-14-design-diary-my-small-angular-js-1-x-patterns",
+  "date": "2015-09-14T20:41:02.783Z",
+  "modificationDate": "2015-09-14T20:41:02.783Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Design Diary: my small Angular JS 1.x patterns"
+  "clientId": "2015-09-14-design-diary-my-small-angular-js-1-x-patterns",
+  "tag": "{\r\n  \"extract\": \"My recent work with the redesign/upgrade of kintespace.com leaves me with a few Angular JS patterns that must be memorialized here, literally for my own (mental) health.Using a data Service with dirt-simple caching based on $q‘Dirt-simple’ caching is a s...\"\r\n}"
 }
 ---
+
+# Design Diary: my small Angular JS 1.x patterns
 
 My recent work with [the redesign/upgrade of kintespace.com](http://codepen.io/rasx/pen/dPoPbV) leaves me with a few Angular JS patterns that must be memorialized here, literally for my own (mental) health.
 
@@ -92,7 +98,7 @@ $scope.clientVM.dataService.loadData("index-" + indexMetaId).then(function (resp
 
 The import discovery for me here is `ngClass`. I feel like I should have learned about `ngClass` before I started building Angular JS sites—this is a super-easy way to associate CSS class names with Controller logic (it is effectively the equivalent of `.addClass()`, `.hasClass()`, `.removeClass()`, `.toggleClass()` in jQuery).
 
-[This gist](https://gist.github.com/BryanWilhite/0b0484102980acf5ccb2) sketches out how a repeated set of headers, associated with `ngView` routes, changes CSS classes based on the route: 
+[This gist](https://gist.github.com/BryanWilhite/0b0484102980acf5ccb2) sketches out how a repeated set of headers, associated with `ngView` routes, changes CSS classes based on the route:
 
 <script src="https://gist.github.com/BryanWilhite/0b0484102980acf5ccb2.js"></script>
 
@@ -139,3 +145,5 @@ The `filterExpression` property is bound to an `input[type="text"]` element:
 &lt;input data-ng-model="vm.filterExpression" type="text" class="form-control" placeholder="search"&gt;
 
 The Angular documentation clearly specifies the use of a “[predicate function](https://docs.angularjs.org/api/ng/filter/filter)” for filter expressions.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

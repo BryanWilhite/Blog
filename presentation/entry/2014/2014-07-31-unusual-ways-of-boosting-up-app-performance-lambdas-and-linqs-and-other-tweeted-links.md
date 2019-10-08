@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Unusual Ways of Boosting Up App Performance. Lambdas and LINQs | JetBrains .NET Tools Blog http://t.co/PERTVCbj5Q via @jetbrains  Learn the Basics of Color Theory to Know What Looks Good http://t.co/A5Spp8okmW  Johnny Rodgers : encodeURI() vs. encodeURIC...",
-  "inceptDate": "2014-07-31T00:00:00",
-  "isPublished": true,
-  "slug": "unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs-and-other-tweeted-links",
-  "title": "“Unusual Ways of Boosting Up App Performance. Lambdas and LINQs…” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Unusual Ways of Boosting Up App Performance. Lambdas and LINQs…” and other Tweeted Links…",
+  "documentShortName": "2014-07-31-unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-07-31-unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs-and-other-tweeted-links",
+  "date": "2014-07-31T07:00:00.000Z",
+  "modificationDate": "2014-07-31T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-07-31-unusual-ways-of-boosting-up-app-performance-lambdas-and-linqs-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Unusual Ways of Boosting Up App Performance. Lambdas and LINQs | JetBrains .NET Tools Blog http://t.co/PERTVCbj5Q via @jetbrains  Learn the Basics of Color Theory to Know What Looks Good http://t.co/A5Spp8okmW  Johnny Rodgers : encodeURI() vs. encodeURIC...\"\r\n}"
 }
 ---
+
+# “Unusual Ways of Boosting Up App Performance. Lambdas and LINQs…” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Unusual Ways of Boosting Up App Performance. Lambdas and LINQs | JetBrains .NET Tools Blog [http://t.co/PERTVCbj5Q](http://t.co/PERTVCbj5Q) via [@jetbrains](http://twitter.com/jetbrains)</span>
 
@@ -56,3 +66,5 @@
 [<img alt="CodeProject [codeproject]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codeproject.png">](http://t.co/4uZjbAWyZS "CodeProject [codeproject]") <span>Why .NET is .NET !!! by Tadit Dash (ତଡିତ୍ କୁମାର ଦାଶ) [http://t.co/JHfcDKmBEo](http://t.co/JHfcDKmBEo)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Trying Redis Caching as a Service on Windows Azure - Scott Hanselman [http://t.co/1t9EZcZYgn](http://t.co/1t9EZcZYgn) [@shanselman](http://twitter.com/shanselman)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

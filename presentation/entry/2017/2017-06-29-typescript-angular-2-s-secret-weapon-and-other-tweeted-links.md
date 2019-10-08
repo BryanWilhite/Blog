@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Typescript: Angular 2's Secret Weapon - Dan Wahlin @DanWahlin[youtube.com] Announcing TypeScript 2.4 | TypeScript [blogs.msdn.microsoft.com] Front End Development Guide for Large Engineering Teams [github.com] » @lambdacartel The State of Mobile Developm...",
-  "inceptDate": "2017-06-29T13:49:19.1265204-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "typescript-angular-2-s-secret-weapon-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Typescript: Angular 2’s Secret Weapon” and other Tweeted Links…",
+  "documentShortName": "2017-06-29-typescript-angular-2-s-secret-weapon-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-06-29-typescript-angular-2-s-secret-weapon-and-other-tweeted-links",
+  "date": "2017-06-29T20:49:19.126Z",
+  "modificationDate": "2017-06-29T20:49:19.126Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Typescript: Angular 2’s Secret Weapon” and other Tweeted Links…"
+  "clientId": "2017-06-29-typescript-angular-2-s-secret-weapon-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Typescript: Angular 2's Secret Weapon - Dan Wahlin @DanWahlin[youtube.com] Announcing TypeScript 2.4 | TypeScript [blogs.msdn.microsoft.com] Front End Development Guide for Large Engineering Teams [github.com] » @lambdacartel The State of Mobile Developm...\"\r\n}"
 }
 ---
+
+# “Typescript: Angular 2’s Secret Weapon” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Typescript: Angular 2's Secret Weapon - Dan Wahlin [@DanWahlin](http://twitter.com/DanWahlin)[[youtube.com]](https://www.youtube.com/watch?v=e3djIqAGqZo)
 
@@ -106,3 +112,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Coryn Rivera [@CorynRivera](http://twitter.com/CorynRivera) American purebred Filipina - professional cyclist for [@TeamSunweb](http://twitter.com/TeamSunweb) &amp; [@mariancycling](http://twitter.com/mariancycling) alumni [[youtube.com]](https://www.youtube.com/watch?v=LqpRwwhtsGA)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Chris Boardman ‘dismayed’ after driver accused of killing cyclist is cleared [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/chris-boardman-dismayed-driver-accused-killing-cyclist-cleared-324230)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

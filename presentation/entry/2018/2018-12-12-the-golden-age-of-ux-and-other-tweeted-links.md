@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "The Golden Age of #UX is Over [uxplanet.org] Your Body Text Is Too Small – [blog.marvelapp.com] by @xtianmiller Really Good UX – A #library of #UX screenshots. [reallygoodux.io] I rarely get great ideas while scrolling, no matter what I'm scrolling. The ...",
-  "inceptDate": "2018-12-12T13:44:16.7685852-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "the-golden-age-of-ux-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“The Golden Age of #UX” and other tweeted links…",
+  "documentShortName": "2018-12-12-the-golden-age-of-ux-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-12-12-the-golden-age-of-ux-and-other-tweeted-links",
+  "date": "2018-12-12T21:44:16.768Z",
+  "modificationDate": "2018-12-12T21:44:16.768Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“The Golden Age of #UX” and other tweeted links…"
+  "clientId": "2018-12-12-the-golden-age-of-ux-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"The Golden Age of #UX is Over [uxplanet.org] Your Body Text Is Too Small – [blog.marvelapp.com] by @xtianmiller Really Good UX – A #library of #UX screenshots. [reallygoodux.io] I rarely get great ideas while scrolling, no matter what I'm scrolling. The ...\"\r\n}"
 }
 ---
+
+# “The Golden Age of #UX” and other tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) The Golden Age of [#UX](http://twitter.com/search?q='%23UX) is Over [[uxplanet.org]](https://uxplanet.org/the-golden-age-of-ux-is-over-ac318099c5b9)
 
@@ -19,7 +25,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) Really Good UX – A [#library](http://twitter.com/search?q='%23library) of [#UX](http://twitter.com/search?q='%23UX) screenshots. [[reallygoodux.io]](https://www.reallygoodux.io/)
 
-[<img alt="André Staltz [andrestaltz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/andrestaltz.jpg">](https://t.co/oeLidqKxmX) I rarely get great ideas while scrolling, no matter what I'm scrolling. The brain seems to go in standby mode. I get brilliant ideas in the shower, or taking a walk, or staring out a window. The brain needs whitespace to fuel the imagination. 
+[<img alt="André Staltz [andrestaltz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/andrestaltz.jpg">](https://t.co/oeLidqKxmX) I rarely get great ideas while scrolling, no matter what I'm scrolling. The brain seems to go in standby mode. I get brilliant ideas in the shower, or taking a walk, or staring out a window. The brain needs whitespace to fuel the imagination.
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ) Check out this cool kaleidoscopic animation coded by Clayton S. using the [#WolfLang](http://twitter.com/search?q='%23WolfLang) Mercator projection: [[wolfr.am]](https://wolfr.am/vxrXJfla)[[twitter.com]](https://twitter.com/WolframResearch/status/1017072545026269184/photo/1)
 
@@ -33,7 +39,7 @@
 
 [<img alt="Brandon [brandontroberts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brandontroberts.jpg">](https://t.co/8ookNZhlYF) Nice work! ✋🏿 [[twitter.com]](https://twitter.com/BryanWilhite/status/1017099204932452352)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts) Thanks, man! It means a lot coming from a master! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@brandontroberts](http://twitter.com/@brandontroberts) Thanks, man! It means a lot coming from a master!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Upgrade to Angular 6 — Within 15 Minutes” by Jeroenouw [[medium.com]](https://medium.com/@jeroenouw/upgrade-to-angular-6-4520e46c682b)
 
@@ -41,13 +47,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the only [@code](http://twitter.com/@code) HTML-related formatters of note [under [[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/search?target=VSCode&category=Formatters&sortBy=Downloads)] is Beautify by HookyQR [[[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)] and AB HTML Formatter by Anton Burov [[[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=zovorap.ab-html-formatter)] —one has too many features and the other almost none [[twitter.com]](https://twitter.com/BryanWilhite/status/1017525284482867200/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i thought i was being clever by using the formatter in XML Tools by Josh Johnson (for XHTML) [[[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)] but it also has limited options/settings and will not be [@angular](http://twitter.com/@angular)/HTML5 friendly 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i thought i was being clever by using the formatter in XML Tools by Josh Johnson (for XHTML) [[[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)] but it also has limited options/settings and will not be [@angular](http://twitter.com/@angular)/HTML5 friendly
 
 [<img alt="Jaimie Malvi [jamesmalvi]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jamesmalvi.png">](https://twitter.com/jamesmalvi)[@BryanWilhite](http://twitter.com/@BryanWilhite) I use [[jsonformatter.org]](https://jsonformatter.org/xml-formatter)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Beautify: “VS Code uses js-beautify internally, but it lacks the ability to modify the style you wish to use.” [[twitter.com]](https://twitter.com/BryanWilhite/status/1017527768609779712/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/bgQW4fJ0K1k?a) AngularNYC - Angular 6 - What's New - Nehal Ahmed 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/bgQW4fJ0K1k?a) AngularNYC - Angular 6 - What's New - Nehal Ahmed
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Complete beginner guide to publish an Angular library to npm.” by [@esanjiv](http://twitter.com/@esanjiv)[[medium.com]](https://medium.com/@esanjiv/complete-beginner-guide-to-publish-an-angular-library-to-npm-d42343801660)
 
@@ -59,17 +65,17 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/0XkdgvQwZp) API Request Builder [[codepen.io]](https://codepen.io/terabaud/pen/MBYxay)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/6xO87LlijoQ?a) A quick tour of GitHub's GraphQL API 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/6xO87LlijoQ?a) A quick tour of GitHub's GraphQL API
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/PTphFRHJ3d0?a) Serverless GraphQL Architecture – The Future of Backend Development 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/PTphFRHJ3d0?a) Serverless GraphQL Architecture – The Future of Backend Development
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) GraphQL Guides [[developer.github.com]](https://developer.github.com/v4/guides/)[[twitter.com]](https://twitter.com/BryanWilhite/status/1017525958260080640/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) many of the GraphQL videos are helpful in some subset of concern; this video by [@bswinnerton](http://twitter.com/@bswinnerton) of [@github](http://twitter.com/@github) is the best introduction to the _entire_ technology i have seen so far—also would like to see the [@davewiner](http://twitter.com/@davewiner) reaction to GraphQL as this has some RSS-ness here and there🤠 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) many of the GraphQL videos are helpful in some subset of concern; this video by [@bswinnerton](http://twitter.com/@bswinnerton) of [@github](http://twitter.com/@github) is the best introduction to the _entire_ technology i have seen so far—also would like to see the [@davewiner](http://twitter.com/@davewiner) reaction to GraphQL as this has some RSS-ness here and there🤠
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the foundational feature of REST is defining a resource that can return a result pointing to other resources---the downside is the cost of making multiple requests: GraphQL eliminates this cost 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the foundational feature of REST is defining a resource that can return a result pointing to other resources---the downside is the cost of making multiple requests: GraphQL eliminates this cost
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/broQmxQAMjM?a) Moving Existing API From REST To GraphQL 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/broQmxQAMjM?a) Moving Existing API From REST To GraphQL
 
 [<img alt="Amanda Silver [amandaksilver]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/amandaksilver.jpg">](https://twitter.com/amandaksilver) Wow. What a treatise. Inspired. “the Origins of Opera and the Future of Programming” by [@jessitron](http://twitter.com/@jessitron)[[the-composition.com]](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
 
@@ -81,11 +87,11 @@
 
 [<img alt="docs.microsoft.com [docsmsft]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/docsmsft.jpg">](https://t.co/pBNlKvAduu) 👩‍🔬 Get a comprehensive overview of the [@Azure](http://twitter.com/@Azure) Resource Manager and see how you can deploy, update, or delete all the resources for your solution in a single, coordinated operation. [[buff.ly]](https://buff.ly/2mddFW6)[[twitter.com]](https://twitter.com/docsmsft/status/1018747571307794432/photo/1)
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) In real code, extracting or stripping the last k characters with slicing uses variables rather than constants, so the actual problematic code is either s[:-k] or s[-k:]. Both of those require special handling for the case where k is zero. 
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3) In real code, extracting or stripping the last k characters with slicing uses variables rather than constants, so the actual problematic code is either s[:-k] or s[-k:]. Both of those require special handling for the case where k is zero.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Python Language Founder Steps Down [@slashdot](http://twitter.com/@slashdot) - [[rpx.me]](http://rpx.me/0Qddm)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@TalkPython](http://twitter.com/@TalkPython) Episode [#168](http://twitter.com/search?q='%23168): 10 Python security holes and how to plug them [[talkpython.fm]](https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them)[@anthonypjshaw](http://twitter.com/@anthonypjshaw)[@alangsworth](http://twitter.com/@alangsworth) [loading a yaml file in Python could allow the execution of arbitrary code 😬] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@TalkPython](http://twitter.com/@TalkPython) Episode [#168](http://twitter.com/search?q='%23168): 10 Python security holes and how to plug them [[talkpython.fm]](https://talkpython.fm/episodes/show/168/10-python-security-holes-and-how-to-plug-them)[@anthonypjshaw](http://twitter.com/@anthonypjshaw)[@alangsworth](http://twitter.com/@alangsworth) [loading a yaml file in Python could allow the execution of arbitrary code 😬]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Detecting Liskov Substitution Principle Violations with Code Contracts by Arkadiusz Kaɫkus [[codeproject.com]](https://www.codeproject.com/Articles/1084933/Detecting-Liskov-Substitution-Principle-Violations)[[twitter.com]](https://twitter.com/BryanWilhite/status/1017923899504250881/photo/1)
 
@@ -104,3 +110,5 @@
 [<img alt="Oren Etzioni [etzioni]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/etzioni.jpeg">](https://t.co/tfzDNcoVZG) .[@SimonDeDeo](http://twitter.com/@SimonDeDeo): Google and Facebook, and other corporate research labs, are focused on AI for profit, not on advancing science. Oversimplified, offensive, but also thought provoking [[bit.ly]](https://bit.ly/2Lj2iqy)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 80 Percent of IT Decision Makers Say Outdated Tech is Holding Them Back [@slashdot](http://twitter.com/@slashdot) - [[rpx.me]](http://rpx.me/lOddm)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

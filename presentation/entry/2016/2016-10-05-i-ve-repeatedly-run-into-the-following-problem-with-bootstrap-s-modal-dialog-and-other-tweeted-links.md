@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "“I've repeatedly run into the following problem with Bootstrap's modal dialog..” @rickstrahl[weblog.west-wind.com] Angular 2: “This is like 64% of people being pleased with a car that consistently leaves them stranded.” [developer.telerik.com] Using ng-c...",
-  "inceptDate": "2016-10-05T16:37:06.4757977-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "i-ve-repeatedly-run-into-the-following-problem-with-bootstrap-s-modal-dialog-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“I've repeatedly run into the following problem with Bootstrap's modal dialog” and other Tweeted Links…",
+  "documentShortName": "2016-10-05-i-ve-repeatedly-run-into-the-following-problem-with-bootstrap-s-modal-dialog-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-10-05-i-ve-repeatedly-run-into-the-following-problem-with-bootstrap-s-modal-dialog-and-other-tweeted-links",
+  "date": "2016-10-05T23:37:06.475Z",
+  "modificationDate": "2016-10-05T23:37:06.475Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“I've repeatedly run into the following problem with Bootstrap's modal dialog” and other Tweeted Links…"
+  "clientId": "2016-10-05-i-ve-repeatedly-run-into-the-following-problem-with-bootstrap-s-modal-dialog-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"“I've repeatedly run into the following problem with Bootstrap's modal dialog..” @rickstrahl[weblog.west-wind.com] Angular 2: “This is like 64% of people being pleased with a car that consistently leaves them stranded.” [developer.telerik.com] Using ng-c...\"\r\n}"
 }
 ---
+
+# “I've repeatedly run into the following problem with Bootstrap's modal dialog” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I've repeatedly run into the following problem with Bootstrap's modal dialog..” [@rickstrahl](http://twitter.com/rickstrahl)[[weblog.west-wind.com]](https://weblog.west-wind.com/posts/2016/Sep/14/Bootstrap-Modal-Dialog-showing-under-Modal-Background)
 
@@ -53,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A whole new GitHub Universe: announcing new tools, forums, and features [[github.com]](https://github.com/blog/2256-a-whole-new-github-universe-announcing-new-tools-forums-and-features)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Kw_CpdPQVwA?a) The best Flickr app for Windows 10 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Kw_CpdPQVwA?a) The best Flickr app for Windows 10
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile Build 14393.189 Hands-on: Impressions, Issues &amp; Instal... [[youtu.be]](https://youtu.be/CtA01LqwRBs)[@maryjofoley](http://twitter.com/maryjofoley)[@Nokiapoweruser](http://twitter.com/Nokiapoweruser)
 
@@ -83,9 +89,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “power to the user: power to choose the messaging app they want to use” [[medium.com]](https://medium.com/@RiotChat/lets-riot-f5b0aa99dc8e)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@andrewpprice](http://twitter.com/andrewpprice)[[youtu.be]](http://youtu.be/dRzzaRvVDng?a) Introduction to Microdisplacements - Blender Tutorial 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@andrewpprice](http://twitter.com/andrewpprice)[[youtu.be]](http://youtu.be/dRzzaRvVDng?a) Introduction to Microdisplacements - Blender Tutorial
 
-[<img alt="sean 🌹 [sean_a_rose]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sean_a_rose.jpg">](https://t.co/18hDl0mErt "sean 🌹 [sean_a_rose]") It turns out that being a decent, empathetic, thoughtful human who works well with other humans can take you quite far in engineering. 
+[<img alt="sean 🌹 [sean_a_rose]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sean_a_rose.jpg">](https://t.co/18hDl0mErt "sean 🌹 [sean_a_rose]") It turns out that being a decent, empathetic, thoughtful human who works well with other humans can take you quite far in engineering.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@carlfranklin](http://twitter.com/carlfranklin) wanna take a step back in time? Check out my 1990s audio production notes. [[songhaysystem.com]](http://songhaysystem.com/#/kb/segment/65)[[twitter.com]](https://twitter.com/BryanWilhite/status/776933608711790592/photo/1)
 
@@ -94,3 +100,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mobileye spills the beans: Tesla was dropped because of safety concerns [[arstechnica.com]](http://arstechnica.com/cars/2016/09/tesla-dropped-by-mobileye-for-pushing-the-envelope-in-terms-of-safety/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") After 23 years, the Apple II gets another OS update [[arstechnica.com]](http://arstechnica.com/information-technology/2016/09/after-23-years-the-apple-ii-gets-another-os-update/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

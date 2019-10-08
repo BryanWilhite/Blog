@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "A Modern Day Front-End Development Stack [linux.com] Methods to Organize CSS | CSS-Tricks [css-tricks.com] How to Make a GIF [design.tutsplus.com] Meet the UX Designer: Joshua Oluwagbemiga [blogs.adobe.com] The Ultimate UX Reading List to Take You to the...",
-  "inceptDate": "2017-11-30T12:35:19.3174061-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "a-modern-day-front-end-development-stack-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“A Modern Day Front-End Development Stack” and other twinks…",
+  "documentShortName": "2017-11-30-a-modern-day-front-end-development-stack-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-11-30-a-modern-day-front-end-development-stack-and-other-twinks",
+  "date": "2017-11-30T20:35:19.317Z",
+  "modificationDate": "2017-11-30T20:35:19.317Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“A Modern Day Front-End Development Stack” and other twinks…"
+  "clientId": "2017-11-30-a-modern-day-front-end-development-stack-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"A Modern Day Front-End Development Stack [linux.com] Methods to Organize CSS | CSS-Tricks [css-tricks.com] How to Make a GIF [design.tutsplus.com] Meet the UX Designer: Joshua Oluwagbemiga [blogs.adobe.com] The Ultimate UX Reading List to Take You to the...\"\r\n}"
 }
 ---
+
+# “A Modern Day Front-End Development Stack” and other twinks…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Modern Day Front-End Development Stack [[linux.com]](https://www.linux.com/blog/learn/2017/7/modern-day-front-end-development-stack)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to get the correct Request.Url when behind a load balancer - CodeClimber [[codeclimber.net.nz]](http://codeclimber.net.nz/archive/2017/07/14/how-to-get-the-correct-requesturl-when-behind-a-load-balancer/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Web API OData V4 Batching Part 10 | Software Engineering [[damienbod.com]](https://damienbod.com/2014/08/14/web-api-odata-v4-batching-part-10/) [ODataBatchHandler] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Web API OData V4 Batching Part 10 | Software Engineering [[damienbod.com]](https://damienbod.com/2014/08/14/web-api-odata-v4-batching-part-10/) [ODataBatchHandler]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a C# library which parses an OData query ..which can be used to query custom data sources which are not IQueryable [[github.com]](https://github.com/TrevorPilley/Net.Http.WebApi.OData)
 
@@ -92,3 +98,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Lost Art of Manually Calculating Square Roots [[medium.com]](https://medium.com/i-math/how-to-find-square-roots-by-hand-f3f7cadf94bb)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to Get Your First 1,000 Customers [[backblaze.com]](https://www.backblaze.com/blog/how-to-get-your-first-1000-customers/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,24 +1,30 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "There are at least four (Windows) ways to connect to a Linux VM on Azure (today).PuTTY and WinSCP (over SSH)Windows Remote Desktop (to xrdp)Windows File Manager (to samba)(probably) Windows 10 Bash shell (with ssh)PuTTY and WinSCP (over SSH)I may have to...",
-  "inceptDate": "2016-04-30T22:40:21.5317713-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "connecting-to-my-ubuntu-vm-on-azure",
+  "documentId": 0,
+  "title": "Connecting to my Ubuntu VM on Azure",
+  "documentShortName": "2016-04-30-connecting-to-my-ubuntu-vm-on-azure",
+  "fileName": "index.html",
+  "path": "./entry/2016-04-30-connecting-to-my-ubuntu-vm-on-azure",
+  "date": "2016-05-01T05:40:21.531Z",
+  "modificationDate": "2016-05-01T05:40:21.531Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "Connecting to my Ubuntu VM on Azure"
+  "clientId": "2016-04-30-connecting-to-my-ubuntu-vm-on-azure",
+  "tag": "{\r\n  \"extract\": \"There are at least four (Windows) ways to connect to a Linux VM on Azure (today).PuTTY and WinSCP (over SSH)Windows Remote Desktop (to xrdp)Windows File Manager (to samba)(probably) Windows 10 Bash shell (with ssh)PuTTY and WinSCP (over SSH)I may have to...\"\r\n}"
 }
 ---
 
+# Connecting to my Ubuntu VM on Azure
+
 There are at least four (Windows) ways to connect to a Linux VM on Azure (today).
 
-*   PuTTY and WinSCP (over SSH)
-*   Windows Remote Desktop (to `xrdp`)
-*   Windows File Manager (to `samba`)
-*   (probably) Windows 10 Bash shell (with `ssh`)
+* PuTTY and WinSCP (over SSH)
+* Windows Remote Desktop (to `xrdp`)
+* Windows File Manager (to `samba`)
+* (probably) Windows 10 Bash shell (with `ssh`)
 
 ## PuTTY and WinSCP (over SSH)
 
@@ -37,3 +43,5 @@ The instructions in “[How to Share Files Between Windows and Linux](http://www
 ## Windows 10 Bash shell (with ssh)
 
 “[How To Use SSH to Connect to a Remote Server in Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)” should work *natively* on Windows 10, according to [recent news](http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash), providing an experience similar to using PuTTY.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "A detailed introduction to Functional Reactive Programming (FRP). https://t.co/VO1oJllae3 written by @andrestaltz  Watch the Keynote Address for the 2014 Release of Creative Cloud - YouTube https://t.co/XN8uAd4GqO  Apple and Google move computing forward...",
-  "inceptDate": "2014-07-08T00:00:00",
-  "isPublished": true,
-  "slug": "a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",
-  "title": "“A detailed introduction to Functional Reactive Programming (FRP)” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“A detailed introduction to Functional Reactive Programming (FRP)” and other Tweeted Links…",
+  "documentShortName": "2014-07-08-a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-07-08-a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",
+  "date": "2014-07-08T07:00:00.000Z",
+  "modificationDate": "2014-07-08T07:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-07-08-a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"A detailed introduction to Functional Reactive Programming (FRP). https://t.co/VO1oJllae3 written by @andrestaltz  Watch the Keynote Address for the 2014 Release of Creative Cloud - YouTube https://t.co/XN8uAd4GqO  Apple and Google move computing forward...\"\r\n}"
 }
 ---
+
+# “A detailed introduction to Functional Reactive Programming (FRP)” and other Tweeted Links…
 
 [<img alt="Smashing Magazine [smashingmag]" src="https://songhay.blob.core.windows.net/shared-social-twitter/smashingmag.png">](http://t.co/GWd3gP4kCk "Smashing Magazine [smashingmag]") <span>A detailed introduction to Functional Reactive Programming (FRP). [https://t.co/VO1oJllae3](https://t.co/VO1oJllae3) written by [@andrestaltz](http://twitter.com/andrestaltz)</span>
 
@@ -56,3 +66,5 @@
 [<img alt="Nathan Marz [nathanmarz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nathanmarz.jpeg">](http://t.co/fDsdfjraED "Nathan Marz [nathanmarz]") <span>New post: "The inexplicable rise of open floor plans in tech companies" [http://t.co/gJV3JTKUqJ](http://t.co/gJV3JTKUqJ)</span>
 
 [<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]") <span>I find it immensely frustrating when the majority of a question's answers are incorrect, e.g. [http://t.co/8T9i5oU8LL](http://t.co/8T9i5oU8LL)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

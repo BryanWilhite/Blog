@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "SVG Polygon Generator       [codepen.io] Design—and designers—seem perpetually threatened by democratization. -       [subtraction.com] -       [twitter.com] \"...among the eight most important qualities of Google’s top employees, STEM expertise comes in ...",
-  "inceptDate": "2018-08-06T14:06:48.6328056-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "svg-polygon-generator-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“SVG Polygon Generator” and other Tweeted links…",
+  "documentShortName": "2018-08-06-svg-polygon-generator-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-08-06-svg-polygon-generator-and-other-tweeted-links",
+  "date": "2018-08-06T21:06:48.632Z",
+  "modificationDate": "2018-08-06T21:06:48.632Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“SVG Polygon Generator” and other Tweeted links…"
+  "clientId": "2018-08-06-svg-polygon-generator-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"SVG Polygon Generator       [codepen.io] Design—and designers—seem perpetually threatened by democratization. -       [subtraction.com] -       [twitter.com] \\\"...among the eight most important qualities of Google’s top employees, STEM expertise comes in ...\"\r\n}"
 }
 ---
+
+# “SVG Polygon Generator” and other Tweeted links…
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") SVG Polygon Generator [[codepen.io]](https://codepen.io/winkerVSbecks/full/wrZQQm/)
 
@@ -86,3 +92,5 @@
 [<img alt="rachel binx [rachelbinx]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rachelbinx.jpg">](https://t.co/Ne4aozBQEf "rachel binx [rachelbinx]") "what's it like to be a woman in tech?" &gt; write message to coworker &gt; stare at it before sending &gt; remove smiley &gt;… [[twitter.com]](https://twitter.com/i/web/status/983793436716224513)
 
 [<img alt="Matt Day [mattmday]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mattmday.jpeg">](https://t.co/smCF0Luvyo "Matt Day [mattmday]") Microsoft employs fewer women, as a portion of its U.S. workforce, than it did in back in 2001. How, after years,… [[twitter.com]](https://twitter.com/i/web/status/984431193058783232)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

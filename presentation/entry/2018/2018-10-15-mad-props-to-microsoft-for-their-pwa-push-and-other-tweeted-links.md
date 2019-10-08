@@ -1,19 +1,25 @@
 ---json
 {
-  "author": null,
-  "content": "Mad props to Microsoft for their PWA push! [developer.microsoft.com] Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for @Ionicframework users (:            The Power of Flex-Grow [hackernoon...",
-  "inceptDate": "2018-10-15T23:19:25.7182945-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "mad-props-to-microsoft-for-their-pwa-push-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Mad props to Microsoft for their PWA push!” and other Tweeted links…",
+  "documentShortName": "2018-10-15-mad-props-to-microsoft-for-their-pwa-push-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-10-15-mad-props-to-microsoft-for-their-pwa-push-and-other-tweeted-links",
+  "date": "2018-10-16T06:19:25.718Z",
+  "modificationDate": "2018-10-16T06:19:25.718Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Mad props to Microsoft for their PWA push!” and other Tweeted links…"
+  "clientId": "2018-10-15-mad-props-to-microsoft-for-their-pwa-push-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Mad props to Microsoft for their PWA push! [developer.microsoft.com] Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for @Ionicframework users (:            The Power of Flex-Grow [hackernoon...\"\r\n}"
 }
 ---
 
-[<img alt="lil PWA [Justinwillis96]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Justinwillis96.jpg">](https://t.co/M8wkpg2SH0) Mad props to Microsoft for their PWA push! [[developer.microsoft.com]](https://developer.microsoft.com/en-us/windows/pwa) Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for [@Ionicframework](http://twitter.com/@Ionicframework) users (: 
+# “Mad props to Microsoft for their PWA push!” and other Tweeted links…
+
+[<img alt="lil PWA [Justinwillis96]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Justinwillis96.jpg">](https://t.co/M8wkpg2SH0) Mad props to Microsoft for their PWA push! [[developer.microsoft.com]](https://developer.microsoft.com/en-us/windows/pwa) Love seeing PWAs become first class on Windows 10. I am working on a blog post right now about what this means for [@Ionicframework](http://twitter.com/@Ionicframework) users (:
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) The Power of Flex-Grow [[hackernoon.com]](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
 
@@ -33,17 +39,17 @@
 
 [<img alt="Jonas Dichelle [JonasDichelle]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonasDichelle.jpg">](https://t.co/GGuqFxIQXC) I finally have an actual node-based Mandelbulb working in Blender Eevee. Fractals are so fun. Gonna experiment with them some more and I'll post some close ups of that fractal goodness, stay tuned. [#b3d](http://twitter.com/search?q='%23b3d)[#eevee](http://twitter.com/search?q='%23eevee)[#fractal](http://twitter.com/search?q='%23fractal)[[twitter.com]](https://twitter.com/JonasDichelle/status/994358504101203969/video/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@tomaspetricek](http://twitter.com/@tomaspetricek) As previously mentioned, [@angular](http://twitter.com/@angular) + [#TypeScript](http://twitter.com/search?q='%23TypeScript) is intentionally designed to be no different from writing testable Java or C#: OOP with DI---classes first. Functional TypeScript, I have not seen popularized (yet). 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@tomaspetricek](http://twitter.com/@tomaspetricek) As previously mentioned, [@angular](http://twitter.com/@angular) + [#TypeScript](http://twitter.com/search?q='%23TypeScript) is intentionally designed to be no different from writing testable Java or C#: OOP with DI---classes first. Functional TypeScript, I have not seen popularized (yet).
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[getlektor.com]](http://www.getlektor.com): listen to on [@nixjdm](http://twitter.com/@nixjdm) in Episode [#160](http://twitter.com/search?q='%23160): Lektor: Beautiful websites out of flat files [[talkpython.fm]](https://talkpython.fm/episodes/show/160/lektor-beautiful-websites-out-of-flat-files)[@TalkPython](http://twitter.com/@TalkPython)[[twitter.com]](https://twitter.com/BryanWilhite/status/994747291939487746/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/BKxkDWv-IL0?a) What's New for Windows UX Developers: Fluent and XAML 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/BKxkDWv-IL0?a) What's New for Windows UX Developers: Fluent and XAML
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) XAML ColorSchemeResources [tentative name]: [[youtu.be]](https://youtu.be/BKxkDWv-IL0?t=1417)[[twitter.com]](https://twitter.com/BryanWilhite/status/994285189948829697/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Microsoft announces updates to the Fluent Design System at Build 2018 - [[mspoweruser.com]](https://mspoweruser.com/microsoft-announces-updates-to-the-fluent-design-system-at-build-2018/)
 
-[<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptDaily.jpg">](null) Containerizing Node.js Applications with Docker: [[nodesource.com]](https://nodesource.com/blog/containerizing-node-js-applications-with-docker) (Goes from the basics of Docker to some Node and Docker best practices.) 
+[<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptDaily.jpg">](null) Containerizing Node.js Applications with Docker: [[nodesource.com]](https://nodesource.com/blog/containerizing-node-js-applications-with-docker) (Goes from the basics of Docker to some Node and Docker best practices.)
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3) Very excited for this! Hope you all find it useful! The Azure SignalR Service, a fully-managed service to add real-time functionality! [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/azure-signalr-service-a-fully-managed-service-to-add-real-time-functionality/)[#AspNetCore](http://twitter.com/search?q='%23AspNetCore)[#dotnetcore](http://twitter.com/search?q='%23dotnetcore)[#signalr](http://twitter.com/search?q='%23signalr)
 
@@ -73,13 +79,13 @@
 
 [<img alt="ProAndroidDev [proandroiddev]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/proandroiddev.jpg">](https://t.co/W0f92Bqvjj) "Kotlin Coroutines — Handling concurrency like a pro (Retrofit2 + [#Coroutines](http://twitter.com/search?q='%23Coroutines))" by [@VCharantimath](http://twitter.com/@VCharantimath)[#kotlinlang](http://twitter.com/search?q='%23kotlinlang)[#AndroidDev](http://twitter.com/search?q='%23AndroidDev)[[buff.ly]](https://buff.ly/2HZpfNU)[[twitter.com]](https://twitter.com/proandroiddev/status/993392577079635970/photo/1)
 
-[<img alt="Nick Craver [Nick_Craver]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Nick_Craver.jpg">](https://t.co/9mjio4ImMj) Question: how many decimal places of seconds precision does the ISO 8601 date format have? 
+[<img alt="Nick Craver [Nick_Craver]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Nick_Craver.jpg">](https://t.co/9mjio4ImMj) Question: how many decimal places of seconds precision does the ISO 8601 date format have?
 
-[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG)[@Nick_Craver](http://twitter.com/@Nick_Craver) There is no limit. I had to cite it recently because an angry guy was upset that Newtonsoft.Json wrote precision down to the Windows tick level, and he accused me of corrupting the JSON standard with Windows logic. Not that JSON has anything to do with ISO 8601 anyway... 🤷‍♂️ 
+[<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG)[@Nick_Craver](http://twitter.com/@Nick_Craver) There is no limit. I had to cite it recently because an angry guy was upset that Newtonsoft.Json wrote precision down to the Windows tick level, and he accused me of corrupting the JSON standard with Windows logic. Not that JSON has anything to do with ISO 8601 anyway... 🤷‍♂️
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Eons ago [@migueldeicaza](http://twitter.com/@migueldeicaza) announced on [@DotNetRocksShow](http://twitter.com/@DotNetRocksShow) that he chose C# over Java from a *Linux* perspective for objective, technical reasons. That announcement was one of the most encouraging, supportive statements of my IT career. And here I am with .NET Core on [@ubuntu](http://twitter.com/@ubuntu).😎 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Eons ago [@migueldeicaza](http://twitter.com/@migueldeicaza) announced on [@DotNetRocksShow](http://twitter.com/@DotNetRocksShow) that he chose C# over Java from a *Linux* perspective for objective, technical reasons. That announcement was one of the most encouraging, supportive statements of my IT career. And here I am with .NET Core on [@ubuntu](http://twitter.com/@ubuntu).😎
 
-[<img alt="carlfranklin [carlfranklin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/carlfranklin.jpg">](http://t.co/tMVfzHHMK2)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@migueldeicaza](http://twitter.com/@migueldeicaza)[@DotNetRocksShow](http://twitter.com/@DotNetRocksShow)[@ubuntu](http://twitter.com/@ubuntu) Amen 
+[<img alt="carlfranklin [carlfranklin]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/carlfranklin.jpg">](http://t.co/tMVfzHHMK2)[@BryanWilhite](http://twitter.com/@BryanWilhite)[@migueldeicaza](http://twitter.com/@migueldeicaza)[@DotNetRocksShow](http://twitter.com/@DotNetRocksShow)[@ubuntu](http://twitter.com/@ubuntu) Amen
 
 [<img alt="Chris bohm [Chrisbohm]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Chrisbohm.jpg">](https://t.co/LOhPmSNIFE) .NET Core is now open source and we need your help building a modern extraordinary engineering system to go with it. We are looking for people to join our team. Apply here: [[careers.microsoft.com]](https://careers.microsoft.com/us/en/job/431051/Software-Engineer)[#dotnetcore](http://twitter.com/search?q='%23dotnetcore)[#Dotnet](http://twitter.com/search?q='%23Dotnet)[#Microsoft](http://twitter.com/search?q='%23Microsoft)
 
@@ -97,16 +103,18 @@
 
 [<img alt="Rey Bango [reybango]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reybango.jpg">](https://t.co/sDBZ5dbd6p) Visual Studio Live Share is now available for free. Amazing extension to enable collab in VS Code. Get it! [[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ) Looking at [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/hello-world?tutorial-step=1#step-1) reminded me that if you are looking for a C# experience that is: 🍃 ultra lightweight 💻 cross platform 🚀 .NET Core 2.1 🎁 integrated with Nuget 📝 VS Code intellisense 🔎 VS Code debugger then you should try [[github.com]](https://github.com/filipw/dotnet-script) 😇 
+[<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ) Looking at [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/hello-world?tutorial-step=1#step-1) reminded me that if you are looking for a C# experience that is: 🍃 ultra lightweight 💻 cross platform 🚀 .NET Core 2.1 🎁 integrated with Nuget 📝 VS Code intellisense 🔎 VS Code debugger then you should try [[github.com]](https://github.com/filipw/dotnet-script) 😇
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Visual Studio Live Share Public Preview [[code.visualstudio.com]](https://code.visualstudio.com/blogs/2018/05/07/live-share-public-preview)[@amandaksilver](http://twitter.com/@amandaksilver)[[twitter.com]](https://twitter.com/BryanWilhite/status/994380893220356097/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I actually kind of liked grouping tests by several categories but now that seems to be gone: TEST EXPLORER REVAMPED IN VISUAL STUDIO 15.7 PREVIEW [[gigi.nullneuron.net]](https://gigi.nullneuron.net/gigilabs/test-explorer-revamped-in-visual-studio-15-7-preview/) =&gt; [@pvlakshm](http://twitter.com/@pvlakshm)[[twitter.com]](https://twitter.com/BryanWilhite/status/993951685033644032/photo/1)
 
-[<img alt="Dan Abramov [dan_abramov]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dan_abramov.jpg">](null) Tip: commenting on closed issues or upvoting comments on them is usually futile. You’re lucky it somebody even sees them. Instead, file a new issue (and then you can link to it from the old one). 
+[<img alt="Dan Abramov [dan_abramov]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dan_abramov.jpg">](null) Tip: commenting on closed issues or upvoting comments on them is usually futile. You’re lucky it somebody even sees them. Instead, file a new issue (and then you can link to it from the old one).
 
 [<img alt="Bloomberg [business]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/business.jpg">](http://t.co/YFISwy1upH) How 5 robots replaced 7 employees at a Swiss bank [[bloom.bg]](https://bloom.bg/2rsoXIh)[[twitter.com]](https://twitter.com/business/status/993520050400321538/photo/1)
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq) Loading a program into a computer by turning it into sound waves might seem futuristic, but we did that all the time back in the 80s. We called it 'cassettes' [[blog.nullspace.io]](http://blog.nullspace.io/apple-2-lisp-part-1.html)[[twitter.com]](https://twitter.com/bitfield/status/994578102645854208/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) "wouldn't it be fun to chat with J. Edgar Hoover?" [#MSBuild](http://twitter.com/search?q='%23MSBuild) folks need some history lessons &lt;= [@taraw](http://twitter.com/@taraw) =&gt; [@shanselman](http://twitter.com/@shanselman)[[twitter.com]](https://twitter.com/BryanWilhite/status/993642693099114496/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

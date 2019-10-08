@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "An Introduction to the `fr` CSS unit [css-tricks.com] TypeScript 2.4 RC [blogs.msdn.microsoft.com] NEW - Check out the free video tutorial on #Bootstrap4 Flex Layout [codingthesmartway.com]#bootstrap#frontend… [twitter.com] Dead-End #UX: The Big Problem ...",
-  "inceptDate": "2017-10-25T14:54:22.6842344-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "an-introduction-to-the-fr-css-unit-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“An Introduction to the `fr` CSS unit” and other Tweeted Links…",
+  "documentShortName": "2017-10-25-an-introduction-to-the-fr-css-unit-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-10-25-an-introduction-to-the-fr-css-unit-and-other-tweeted-links",
+  "date": "2017-10-25T21:54:22.684Z",
+  "modificationDate": "2017-10-25T21:54:22.684Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“An Introduction to the `fr` CSS unit” and other Tweeted Links…"
+  "clientId": "2017-10-25-an-introduction-to-the-fr-css-unit-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"An Introduction to the `fr` CSS unit [css-tricks.com] TypeScript 2.4 RC [blogs.msdn.microsoft.com] NEW - Check out the free video tutorial on #Bootstrap4 Flex Layout [codingthesmartway.com]#bootstrap#frontend… [twitter.com] Dead-End #UX: The Big Problem ...\"\r\n}"
 }
 ---
+
+# “An Introduction to the `fr` CSS unit” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An Introduction to the `fr` CSS unit [[css-tricks.com]](https://css-tricks.com/introduction-fr-css-unit/)
 
@@ -49,7 +55,7 @@
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") Kestrel is now supported if you expose it directly to the internet. I think [@blowdart](http://twitter.com/blowdart)’s tongue is missing a piece. [[youtu.be]](https://youtu.be/6LzmEOvzt1A)
 
-[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]") Isn't it funny how let in JavaScript is like var in C#, const like let in F#. As for var in JS? Well I have no idea what they were thinking 
+[<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]") Isn't it funny how let in JavaScript is like var in C#, const like let in F#. As for var in JS? Well I have no idea what they were thinking
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") While I prefer C# I do wish it had the ability to declare alternative types as easily as F#. Also, great article.… [[twitter.com]](https://twitter.com/i/web/status/919959410746605568)
 
@@ -59,19 +65,19 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") MotzCod.es by James Montemagno — My Favorite C# 7 Feature: More expression-bodied... [[motzcod.es]](http://motzcod.es/post/161630386432/my-favorite-c-7-feature-more-expression-bodied)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Development With A Dot - User Interface Unit Tests with .NET Core [[weblogs.asp.net]](https://weblogs.asp.net/ricardoperes/user-interface-unit-tests-with-net-core) [selenium webdriver] 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Development With A Dot - User Interface Unit Tests with .NET Core [[weblogs.asp.net]](https://weblogs.asp.net/ricardoperes/user-interface-unit-tests-with-net-core) [selenium webdriver]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) how do we run MSTEST v2 from the command line (on a build server)? « [@tfsbuck](http://twitter.com/tfsbuck), [@DonovanBrown](http://twitter.com/DonovanBrown)
 
-[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) Run them using the console runner: vstest.console.exe [testdllnames] /TestAdapterPath:&lt;pathToAdapter&gt; 
+[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) Run them using the console runner: vstest.console.exe [testdllnames] /TestAdapterPath:&lt;pathToAdapter&gt;
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@pvlakshm](http://twitter.com/pvlakshm)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) what is the test adapter for mstest v2? -is it in the nuget package? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@pvlakshm](http://twitter.com/pvlakshm)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) what is the test adapter for mstest v2? -is it in the nuget package?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@pvlakshm](http://twitter.com/pvlakshm)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) yes, the MSTEST v2 Test Adapter should be in \packages\MSTest.TestAdapter.1.1.18\b… [[twitter.com]](https://twitter.com/i/web/status/916037457530908672)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") "Visual Studio team had decided to discontinue Lightweight Solution Load (LSL) support in the 15.5 release."[[twitter.com]](https://twitter.com/sforkmann/status/918715575500541952)
 
-[<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RickStrahl.jpg">](http://t.co/WpmgWuVQVK "Rick Strahl [RickStrahl]") Static site Web Site Project loading in Visual Studio is still a disaster. Web Site Projects are best choice but crippled by node_modules. 
+[<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RickStrahl.jpg">](http://t.co/WpmgWuVQVK "Rick Strahl [RickStrahl]") Static site Web Site Project loading in Visual Studio is still a disaster. Web Site Projects are best choice but crippled by node_modules.
 
 [<img alt="Frank A. Krueger [praeclarum]" src="https://songhay.blob.core.windows.net/shared-social-twitter/praeclarum.jpg">](http://t.co/x1L9wCpO59 "Frank A. Krueger [praeclarum]") Continuous v1.1 is out! Hope you enjoy the new features! [[itunes.apple.com]](https://itunes.apple.com/us/app/continuous-net-c-and-f-ide/id1095213378?ls=1&mt=8)[[twitter.com]](https://twitter.com/praeclarum/status/921477674605756416/photo/1)
 
@@ -96,3 +102,5 @@
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") For the 2nd year in a row we're adding some oomph to [#livecoding](http://twitter.com/search?q=%23livecoding): Don't miss our championship streaming on [@Twitch](http://twitter.com/Twitch)… [[twitter.com]](https://twitter.com/i/web/status/920009766000316416)
 
 [<img alt="BikinginLA [bikinginla]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bikinginla.jpg">](http://t.co/AZoNprA4jZ "BikinginLA [bikinginla]") This is what keeps me up at night. just found out a 72-year old bike rider was killed near 6th and Hauser Sept. 1, 2016. Not a peep in news.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -5,15 +5,15 @@
   "documentShortName": "2012-03-21-silverlight-entity-framework-and-ria-services-recipe",
   "fileName": "index.html",
   "path": "./entry/2012-03-21-silverlight-entity-framework-and-ria-services-recipe",
-  "date": "2012-03-21T19:05:00.000Z",
-  "modificationDate": "2012-03-21T19:05:00.000Z",
+  "date": "2012-03-21T19:05:00Z",
+  "modificationDate": "2012-03-21T19:05:00Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-03-21-silverlight-entity-framework-and-ria-services-recipe",
-  "tag": "{\r\n  \"extract\": \"Here’s a short list for database-first DbContext with RIA Services:Define and generate the database.Generate the Entities with the database.Generate a Web Project to host the DbContext class and the “Database Domain Service of T” class.Write the DbContex...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Here’s a short list for database-first DbContext with RIA Services: Define and generate the database.Generate the Entities with the database.Generate a Web Project to host the DbContext class and the “Database Domain Service of T” class.Write the DbContex...\"\r\n}"
 }
 ---
 
@@ -37,13 +37,13 @@ Yes, my stuff is database-first but my recipe here is based on “[RIA Services 
 
 **Generate the Entities with the database.** Generate a Class Library Project for the Entities. Install Entity Framework 4.1.10715.0 via NuGet like this:    Install-Package EntityFramework –Version 4.1.10715.0This is done to keep the version of EF in line with RIA Services.
 
-**Generate a Web Project to host the**`DbContext`**class and the “Database Domain Service of T” class.** Generate an ASP.NET MVC 3 Web Application (***.Web**). Install the `RIAServices.EntityFramework` NuGet package on the ***.Web** project. Add a folder to this Project called `ModelContext`—this is where my data access stuff will live—the classes extending `DbContext`. I currently see no need to move these files to a separate project. Based on scraps of details about ASP.NET MVC 4 and Glenn Block’s Web API, I assume that an MVC Web application will be a serious Web Service provider with multiple endpoints spitting out JSON and XML until the cows come home. This implies that the Silverlight project with a **WCF RIA Services link** pointing at this MVC Web is but one consumer of many.
+**Generate a Web Project to host the**`DbContext`**class and the “Database Domain Service of T” class.** Generate an ASP.NET MVC 3 Web Application (`*.Web`). Install the `RIAServices.EntityFramework` NuGet package on the `*.Web` project. Add a folder to this Project called `ModelContext`—this is where my data access stuff will live—the classes extending `DbContext`. I currently see no need to move these files to a separate project. Based on scraps of details about ASP.NET MVC 4 and Glenn Block’s Web API, I assume that an MVC Web application will be a serious Web Service provider with multiple endpoints spitting out JSON and XML until the cows come home. This implies that the Silverlight project with a **WCF RIA Services link** pointing at this MVC Web is but one consumer of many.
 
 **Write the**`DbContext`**class for the Entities**. In old-school, Provider-Model talk this would be the “provider” for the RIA service. I had a serious problem here that took hours away from my life! I kept getting a “Failed to get the `MetadataWorkspace` for the `DbContext` type...” error. The problem was based on [this fact](http://stackoverflow.com/questions/7598242/entity-framework-code-first-dbcontext-checks-the-connectionstring-during-compile):
 
 <blockquote>
 
-In order to generate code into your Silverlight project, RIA Services has to inspect your DbContext at build time in order to get the entity types that are available.
+In order to generate code into your Silverlight project, RIA Services has to inspect your `DbContext` at build time in order to get the entity types that are available.
 
 </blockquote>
 

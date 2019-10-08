@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "What’s new in VS 2015 Update 2 for Universal Windows developers [blogs.msdn.microsoft.com] “we’re adding Universal Windows Platform (UWP) support to React Native” [blogs.windows.com] Events in React [kirupa.com] “The inventor of CSS explains how it saved...",
-  "inceptDate": "2016-06-20T14:04:14.5912971-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "what-s-new-in-vs-2015-update-2-for-universal-windows-developers-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“What’s new in VS 2015 Update 2 for Universal Windows developers” and other Tweeted Links…",
+  "documentShortName": "2016-06-20-what-s-new-in-vs-2015-update-2-for-universal-windows-developers-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2016-06-20-what-s-new-in-vs-2015-update-2-for-universal-windows-developers-and-other-tweeted-links",
+  "date": "2016-06-20T21:04:14.591Z",
+  "modificationDate": "2016-06-20T21:04:14.591Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“What’s new in VS 2015 Update 2 for Universal Windows developers” and other Tweeted Links…"
+  "clientId": "2016-06-20-what-s-new-in-vs-2015-update-2-for-universal-windows-developers-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"What’s new in VS 2015 Update 2 for Universal Windows developers [blogs.msdn.microsoft.com] “we’re adding Universal Windows Platform (UWP) support to React Native” [blogs.windows.com] Events in React [kirupa.com] “The inventor of CSS explains how it saved...\"\r\n}"
 }
 ---
+
+# “What’s new in VS 2015 Update 2 for Universal Windows developers” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What’s new in VS 2015 Update 2 for Universal Windows developers [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudio/2016/04/11/whats-new-in-vs-2015-update-2-for-universal-windows-developers/)
 
@@ -35,7 +41,7 @@
 
 [<img alt="Jon Galloway [jongalloway]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jongalloway.jpeg">](http://t.co/QqzNqveH3h "Jon Galloway [jongalloway]")[@BryanWilhite](http://twitter.com/BryanWilhite) Not true! I got it working during the call, even without having packages precached! [[twitter.com]](http://twitter.com/jongalloway/status/720078721399398401/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@jongalloway](http://twitter.com/jongalloway) your future demo explain this better! 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@jongalloway](http://twitter.com/jongalloway) your future demo explain this better!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Modern Tech Stack for [[asp.net]](http://ASP.NET) Apps [[telerik.com]](http://www.telerik.com/blogs/modern-tech-stack-for-asp-dotnet-apps)
 
@@ -85,10 +91,12 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") “Maciej Ceglowski announces he’s being kicked off of popular automation service IFTTT” [[blog.pinboard.in]](https://blog.pinboard.in/2016/03/my_heroic_and_lazy_stand_against_ifttt/)
 
-[<img alt="Anil Dash [anildash]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anildash.jpg">](https://t.co/DGlCONxUGJ "Anil Dash [anildash]") Hi, there have been chat bots on the internet longer than there's been the World Wide Web on the internet, please learn from history, thx. 
+[<img alt="Anil Dash [anildash]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anildash.jpg">](https://t.co/DGlCONxUGJ "Anil Dash [anildash]") Hi, there have been chat bots on the internet longer than there's been the World Wide Web on the internet, please learn from history, thx.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@anildash](http://twitter.com/anildash) wasn't Zork a chatbot? 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@anildash](http://twitter.com/anildash) wasn't Zork a chatbot?
 
-[<img alt="Anil Dash [anildash]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anildash.jpg">](https://t.co/DGlCONxUGJ "Anil Dash [anildash]")[@BryanWilhite](http://twitter.com/BryanWilhite) to some, sure. 
+[<img alt="Anil Dash [anildash]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anildash.jpg">](https://t.co/DGlCONxUGJ "Anil Dash [anildash]")[@BryanWilhite](http://twitter.com/BryanWilhite) to some, sure.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Destructive Film Simulator adds a vintage look to your videos [[blendernation.com]](http://www.blendernation.com/2016/04/13/destructive-film-simulator-adds-vintage-look-videos/)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

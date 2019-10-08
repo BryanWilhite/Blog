@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "Understanding the User in User Experience curated by @uxceo[hackdesign.org] via @hackdesign design-patterns-for-humans/README.md at master · kamranahmedse/design-patterns-for-humans [github.com] 15 Dope Graffiti Fonts [design.tutsplus.com] Empty States: ...",
-  "inceptDate": "2017-04-11T16:22:51.717747-07:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "understanding-the-user-in-user-experience-curated-by-uxceo-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Understanding the User in User Experience curated by @uxceo” and other Tweeted Links…",
+  "documentShortName": "2017-04-11-understanding-the-user-in-user-experience-curated-by-uxceo-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2017-04-11-understanding-the-user-in-user-experience-curated-by-uxceo-and-other-tweeted-links",
+  "date": "2017-04-11T23:22:51.717Z",
+  "modificationDate": "2017-04-11T23:22:51.717Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Understanding the User in User Experience curated by @uxceo” and other Tweeted Links…"
+  "clientId": "2017-04-11-understanding-the-user-in-user-experience-curated-by-uxceo-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Understanding the User in User Experience curated by @uxceo[hackdesign.org] via @hackdesign design-patterns-for-humans/README.md at master · kamranahmedse/design-patterns-for-humans [github.com] 15 Dope Graffiti Fonts [design.tutsplus.com] Empty States: ...\"\r\n}"
 }
 ---
+
+# “Understanding the User in User Experience curated by @uxceo” and other Tweeted Links…
 
 [<img alt="Marcie Hill [Marcie_Hill]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Marcie_Hill.jpg">](http://t.co/dJt6cdnKvI "Marcie Hill [Marcie_Hill]") Understanding the User in User Experience curated by [@uxceo](http://twitter.com/uxceo)[[hackdesign.org]](http://hackdesign.org/lessons/12) via [@hackdesign](http://twitter.com/hackdesign)
 
@@ -31,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") App Metrics is an open-source and cross-platform .NET library [[github.com]](https://github.com/alhardy/AppMetrics) « [@github](http://twitter.com/github)
 
-[<img alt="Andrew Ng [AndrewYNg]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AndrewYNg.jpg">](https://t.co/XidcMETENd "Andrew Ng [AndrewYNg]") Ever seen a 10 hour long YouTube video get 30,000 views? [[youtube.com]](https://www.youtube.com/watch?v=eyovmAtoUx0) Bay Area Deep Learning School! 
+[<img alt="Andrew Ng [AndrewYNg]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AndrewYNg.jpg">](https://t.co/XidcMETENd "Andrew Ng [AndrewYNg]") Ever seen a 10 hour long YouTube video get 30,000 views? [[youtube.com]](https://www.youtube.com/watch?v=eyovmAtoUx0) Bay Area Deep Learning School!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why LINQ beats SQL [[linqpad.net]](https://www.linqpad.net/WhyLINQBeatsSQL.aspx)[@linqpad](http://twitter.com/linqpad)
 
@@ -41,7 +47,7 @@
 
 [<img alt="Ryan LaBouve [RyanLaBouve]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RyanLaBouve.jpg">](https://t.co/oxfPksAvmp "Ryan LaBouve [RyanLaBouve]") I don't know who did this graphic... but it's fantastic for introducing programmers to functional programming conce… [[twitter.com]](https://twitter.com/i/web/status/782080514815471616)
 
-[<img alt="Anthony D. Green [ThatVBGuy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ThatVBGuy.png">](http://t.co/zM3MwoeNZH "Anthony D. Green [ThatVBGuy]") Think I just made progress on a design issue that's held up a cool feature for VB. Can't wait to flesh out the edge cases/code translation! 
+[<img alt="Anthony D. Green [ThatVBGuy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ThatVBGuy.png">](http://t.co/zM3MwoeNZH "Anthony D. Green [ThatVBGuy]") Think I just made progress on a design issue that's held up a cool feature for VB. Can't wait to flesh out the edge cases/code translation!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") There’s a walkthrough on the CodePlex wiki to help you through the migration process. [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/bharry/2017/03/31/shutting-down-codeplex/)
 
@@ -76,3 +82,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") No CEO: The Swedish Company Where Nobody Is In Charge - Slashdot [[news.slashdot.org]](https://news.slashdot.org/story/17/02/17/150224/no-ceo-the-swedish-company-where-nobody-is-in-charge?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bill Sempf [sempf]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sempf.jpg">](https://t.co/Yx4ual7kWc "Bill Sempf [sempf]") QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

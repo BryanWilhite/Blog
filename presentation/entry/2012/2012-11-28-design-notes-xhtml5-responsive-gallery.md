@@ -1,21 +1,31 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Before my usual self-critiquing ensues, let me first say that I am pleased that the days have finally come to find me actively addressing contemporary Web design issues. From the beginning of my IT career I considered myself conservative but current with...",
-  "inceptDate": "2012-11-28T16:00:00-08:00",
-  "isPublished": true,
-  "slug": "design-notes-xhtml5-responsive-gallery",
-  "title": "Design Notes: XHTML5 Responsive Gallery"
+  "documentId": 0,
+  "title": "Design Notes: XHTML5 Responsive Gallery",
+  "documentShortName": "2012-11-28-design-notes-xhtml5-responsive-gallery",
+  "fileName": "index.html",
+  "path": "./entry/2012-11-28-design-notes-xhtml5-responsive-gallery",
+  "date": "2012-11-29T00:00:00.000Z",
+  "modificationDate": "2012-11-29T00:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2012-11-28-design-notes-xhtml5-responsive-gallery",
+  "tag": "{\r\n  \"extract\": \"Before my usual self-critiquing ensues, let me first say that I am pleased that the days have finally come to find me actively addressing contemporary Web design issues. From the beginning of my IT career I considered myself conservative but current with...\"\r\n}"
 }
 ---
+
+# Design Notes: XHTML5 Responsive Gallery
 
 Before my usual self-critiquing ensues, let me first say that I am pleased that the days have finally come to find me actively addressing *contemporary* Web design issues. From the beginning of my IT career I considered myself conservative but current with what was useful in my HTML-based practice. However, over the last three years (or more probably), since my dedication to Silverlight (and WPF) my Web design skills have aged.
 
 My live sample, “[XHTML5 Responsive Gallery](http://songhay.blob.core.windows.net/samples-jquery/960GsGallery.html),” represents a fresh, bold way of being expressive with what I consider are the ‘new’ fundamentals of Web design. These fundamentals include:
 
-*   A CSS grid system
-*   CSS media queries
-*   jQuery templating with JSON
+* A CSS grid system
+* CSS media queries
+* jQuery templating with JSON
 
 ## Stacking image panel on thumbnails with absolute positioning…
 
@@ -23,16 +33,18 @@ My Responsive Gallery is essentially three pieces: the main panel that shows gal
 
 This panel stacking with respect to the *z*-axis is obtained with these points:
 
-*   The panels to stack have to be in a container with `position: relative`.
-*   The panels to stack have `position: absolute` and z-ordering.
-*   The panels and their container have the same height.
+* The panels to stack have to be in a container with `position: relative`.
+* The panels to stack have `position: absolute` and z-ordering.
+* The panels and their container have the same height.
 
 The idea of absolute positioning in a relative block is one of my CSS fundamentals and recorded for my education in a sample I call “[Block Alignment: Absolute Positioning in a Relative Block](http://songhay.blob.core.windows.net/samples-css/block-relative-positioning.html).” It feels great to see that these fundamentals can be reused here. Fewer tricks to memorize… simple variations on a primal core…
 
 An alternative, relatively-old, hacky strategy is to use negative margins. This negative-margin technique goes back to [before 2004](http://www.alistapart.com/articles/negativemargins/) but, by 2008, folks like Ben Nadel regard them as “[not cool](http://www.bennadel.com/blog/1174-Negative-CSS-Margins-Are-Not-Cool.htm)”:
+
 <blockquote>
 
 Instead of using a negative margin, maybe try floating an element? Or perhaps positioning it absolutely to its parent? Before you even consider a negative margin, please consider what would happen if other elements on the page changed height or width. My guess is that your negative margin depends way too much on other parts of the page in a way that is not necessary.
+
 </blockquote>
 
 ## Responding in the vertical dimension with CSS media queries…
@@ -53,10 +65,12 @@ When an image is shown in a gallery, whatever is showing the image has to know w
 
 ## Related Links
 
-*   “[Using Viewport to create a mobile friendly version](http://stackoverflow.com/questions/6293511/using-viewport-to-create-a-mobile-friendly-version)”
-*   “[Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)”
-*   “[62.5% font size?](http://css-tricks.com/forums/discussion/17027/62-5-font-size/p1)”
-*   “[How to Size Text in CSS](http://www.alistapart.com/articles/howtosizetextincss)”
-*   “[5 Useful CSS Tricks for Responsive Design](http://webdesignerwall.com/tutorials/5-useful-css-tricks-for-responsive-design)” —new CSS for me: `word-wrap: break-word`
-*   “[How to Center Anything With CSS](http://designshack.net/articles/css/how-to-center-anything-with-css/)”
-*   “[Crossfading Images](http://css3.bradshawenterprises.com/cfimg/)” —CSS 3 stuff… might want to add in later…
+* “[Using Viewport to create a mobile friendly version](http://stackoverflow.com/questions/6293511/using-viewport-to-create-a-mobile-friendly-version)”
+* “[Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)”
+* “[62.5% font size?](http://css-tricks.com/forums/discussion/17027/62-5-font-size/p1)”
+* “[How to Size Text in CSS](http://www.alistapart.com/articles/howtosizetextincss)”
+* “[5 Useful CSS Tricks for Responsive Design](http://webdesignerwall.com/tutorials/5-useful-css-tricks-for-responsive-design)” —new CSS for me: `word-wrap: break-word`
+* “[How to Center Anything With CSS](http://designshack.net/articles/css/how-to-center-anything-with-css/)”
+* “[Crossfading Images](http://css3.bradshawenterprises.com/cfimg/)” —CSS 3 stuff… might want to add in later…
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

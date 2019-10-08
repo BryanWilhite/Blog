@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...",
-  "inceptDate": "2014-11-21T00:00:00",
-  "isPublished": true,
-  "slug": "introducing-visual-studio-community-2013-and-other-tweeted-links",
-  "title": "“Introducing Visual Studio Community 2013” and other Tweeted Links…"
+  "documentId": 0,
+  "title": "“Introducing Visual Studio Community 2013” and other Tweeted Links…",
+  "documentShortName": "2014-11-21-introducing-visual-studio-community-2013-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2014-11-21-introducing-visual-studio-community-2013-and-other-tweeted-links",
+  "date": "2014-11-21T08:00:00.000Z",
+  "modificationDate": "2014-11-21T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2014-11-21-introducing-visual-studio-community-2013-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...\"\r\n}"
 }
 ---
+
+# “Introducing Visual Studio Community 2013” and other Tweeted Links…
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure [@shanselman](http://twitter.com/shanselman) [http://t.co/4jFYf1vlMI](http://t.co/4jFYf1vlMI)</span>
 
@@ -22,3 +32,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>9 basic principles of responsive web design [http://t.co/ohGqhA7mkZ](http://t.co/ohGqhA7mkZ) [@chriscoyier](http://twitter.com/chriscoyier)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Material Design Deconstructed - Chrome Dev Summit 2014 (Roma Shah) - YouTube [https://t.co/LOW0ULdT1b](https://t.co/LOW0ULdT1b)</span>
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

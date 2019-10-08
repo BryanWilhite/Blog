@@ -1,17 +1,23 @@
 ---json
 {
-  "author": "@BryanWilhite",
-  "content": "How to recreate Medium’s article layout with CSS Grid          Per Harald Borgen explains how to recreate the famous Medium… [twitter.com] Flexbox confusion that I see is usually one of two things.          1. Confusion over how Box Alignment works in Fl...",
-  "inceptDate": "2018-01-30T16:32:01.5310416-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "how-to-recreate-medium-s-article-layout-with-css-grid-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“How to recreate Medium’s article layout with CSS Grid” and other Tweeted Links…",
+  "documentShortName": "2018-01-30-how-to-recreate-medium-s-article-layout-with-css-grid-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2018-01-30-how-to-recreate-medium-s-article-layout-with-css-grid-and-other-tweeted-links",
+  "date": "2018-01-31T00:32:01.531Z",
+  "modificationDate": "2018-01-31T00:32:01.531Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“How to recreate Medium’s article layout with CSS Grid” and other Tweeted Links…"
+  "clientId": "2018-01-30-how-to-recreate-medium-s-article-layout-with-css-grid-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"How to recreate Medium’s article layout with CSS Grid          Per Harald Borgen explains how to recreate the famous Medium… [twitter.com] Flexbox confusion that I see is usually one of two things.          1. Confusion over how Box Alignment works in Fl...\"\r\n}"
 }
 ---
+
+# “How to recreate Medium’s article layout with CSS Grid” and other Tweeted Links…
 
 [<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.png">](http://t.co/A4ZEwCEPEs "Veerle Pieters [vpieters]") How to recreate Medium’s article layout with CSS Grid Per Harald Borgen explains how to recreate the famous Medium… [[twitter.com]](https://twitter.com/i/web/status/957991106716856320)
 
@@ -82,3 +88,5 @@
 [<img alt="NYT [NYT]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NYT.jpeg">](http://t.co/uNuLzvSQhg "NYT [NYT]") Anthony Noto Leaves Twitter to Become SoFi C.E.O.. [[nytimes.com]](https://www.nytimes.com/2018/01/23/business/dealbook/anthony-noto-sofi-twitter.html?partner=rss&emc=rss)
 
 [<img alt="Den [DennisCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DennisCode.jpg">](https://t.co/uxtXFt815R "Den [DennisCode]") "Never memorize something that you can look up" - Albert Einstein, on trying to exit vim
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

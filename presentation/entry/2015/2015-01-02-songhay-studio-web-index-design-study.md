@@ -1,13 +1,23 @@
 ---json
 {
-  "author": "Bryan Wilhite",
-  "content": "I’ve been using my CodePen.io site to study the next Web Index designs for kintespace.com and my Day Path Blog. This sketch represents the start of my study:I’m seeing two designs: the Inline Header Index and the Block Header Index. The uppercase letters...",
-  "inceptDate": "2015-01-02T00:00:00",
-  "isPublished": true,
-  "slug": "songhay-studio-web-index-design-study",
-  "title": "Songhay Studio: Web Index Design Study"
+  "documentId": 0,
+  "title": "Songhay Studio: Web Index Design Study",
+  "documentShortName": "2015-01-02-songhay-studio-web-index-design-study",
+  "fileName": "index.html",
+  "path": "./entry/2015-01-02-songhay-studio-web-index-design-study",
+  "date": "2015-01-02T08:00:00.000Z",
+  "modificationDate": "2015-01-02T08:00:00.000Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
+  "sortOrdinal": 0,
+  "clientId": "2015-01-02-songhay-studio-web-index-design-study",
+  "tag": "{\r\n  \"extract\": \"I’ve been using my CodePen.io site to study the next Web Index designs for kintespace.com and my Day Path Blog. This sketch represents the start of my study:I’m seeing two designs: the Inline Header Index and the Block Header Index. The uppercase letters...\"\r\n}"
 }
 ---
+
+# Songhay Studio: Web Index Design Study
 
 I’ve been using my [CodePen.io site](http://codepen.io/rasx/) to study the next Web Index designs for kintespace.com and my [Day Path Blog](http://songhayblog.azurewebsites.net/). This sketch represents the start of my study:
 [<img alt="Songhay Index Layouts" src="https://farm8.staticflickr.com/7535/15862686532_546811787a_z_d.jpg" style="display:block;margin:16px;margin-left:auto;margin-right:auto">](https://www.flickr.com/photos/wilhite/15862686532/ "Songhay Index Layouts")
@@ -20,7 +30,7 @@ My Code Pen for the *Block Header Index* stays true to the original blackboard s
 
 <!-- cSpell:disable -->
 <iframe height="265" style="width: 100%;" scrolling="no" title="index: block headers" src="https://codepen.io/rasx/embed/RNWaad?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/rasx/pen/RNWaad'>index: block headers</a> by Bryan Wilhite
+See the Pen <a href='https://codepen.io/rasx/pen/RNWaad'>index: block headers</a> by Bryan Wilhite
   (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 <!-- cSpell:enable -->
@@ -33,7 +43,7 @@ My Code Pen for the *Inline Header Index* strays very far from the original blac
 
 <!-- cSpell:disable -->
 <iframe height="265" style="width: 100%;" scrolling="no" title="index: inline headers" src="https://codepen.io/rasx/embed/zxqxMv?height=265&theme-id=0&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/rasx/pen/zxqxMv'>index: inline headers</a> by Bryan Wilhite
+See the Pen <a href='https://codepen.io/rasx/pen/zxqxMv'>index: inline headers</a> by Bryan Wilhite
   (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 <!-- cSpell:enable -->
@@ -67,3 +77,5 @@ All of my web designs are works in progress. I have never been able to declare a
 I’ve spent most of my IT career away from visual design and user experience research. I don’t want this historical fact to become tragic because I got into IT to explore and do visual design and user experience research. I’ve spent a mere five years working with teams who were consciously concerned about UI and UX. Along with the recent advances in IT technology, this ‘official’ concern has finally allowed me to really crank up the UI/UX practice.
 
 I look forward to cranking it up more.
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)
