@@ -221,12 +221,6 @@ namespace Songhay.Publications.Tests
                         var paragraphs = i.ToParagraphs();
                         this._testOutputHelper.WriteLine($"# of paragraphs: {paragraphs.Count()}");
 
-                        var signature = "@[BryanWilhite](https://twitter.com/BryanWilhite)";
-                        if(!paragraphs.Last().Contains(signature))
-                        {
-                            paragraphs = paragraphs.Append(signature).ToArray();
-                        }
-
                         i.Content = paragraphs
                             .Aggregate(
                                 string.Empty,

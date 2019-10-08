@@ -38,5 +38,3 @@ The [last status report](http://songhayblog.azurewebsites.net/blog/entry/studio-
 ‘Azure DevOps is cool but leaves me wanting’ was also thrown out there and Microsoft’s Edward Thomson has not had the time to chime in on this one. What I expect to see is documentation from Microsoft, detailing how variables work with build-script YAML—and what would be awesome is some kind of online validator of this YAML.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

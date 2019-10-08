@@ -118,5 +118,3 @@ Today the studio development schedule looks like this:
 * use the learnings of previous work to upgrade and re-release the kinté space
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

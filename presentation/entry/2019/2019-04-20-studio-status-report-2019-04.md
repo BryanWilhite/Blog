@@ -50,5 +50,3 @@ Today the studio development schedule looks like this:
 The Day Path Blog bullet was moved up because many of the later bullets will not be trackable via public GitHub issues.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

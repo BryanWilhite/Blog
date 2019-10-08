@@ -44,5 +44,3 @@ fatal: MissingMethodException encountered.
     Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpPostAsync(Microsoft.Alm.Authentication.TargetUri, System.Net.Http.HttpContent, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

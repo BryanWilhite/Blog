@@ -82,5 +82,3 @@ I used ngrx in the past and I think it is a really good library for state manage
 * [StackBlitz example](https://stackblitz.com/edit/angular-rxjs-subject-and-behaviorsubject?file=app%2Fthing%2Fthing.component.ts) showing the differences among `Observable.from([])`, `Subject` and `BehaviorSubject`
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

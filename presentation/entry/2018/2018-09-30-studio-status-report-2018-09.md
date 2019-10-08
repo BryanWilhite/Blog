@@ -84,5 +84,3 @@ One of the promises of GraphQL is the elimination of the need to have real serve
 Got some great [help](https://twitter.com/ethomson/status/1045631647553671170) from Edward Thomson from Microsoft to get YAML-based builds working [[ref](https://github.com/BryanWilhite/Songhay.Affiliates/issues/3#issuecomment-425545706)]. This step forward is a significant move toward adding critical automation to the Songhay System.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

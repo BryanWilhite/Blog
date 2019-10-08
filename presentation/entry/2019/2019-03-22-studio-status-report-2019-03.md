@@ -48,5 +48,3 @@ I assume that this work can be completed in 2019. No more studio emergencies goi
 Long story short: reinstalling [Microsoft Git Credential Manager for Windows](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest) appears to have fixed the problem.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

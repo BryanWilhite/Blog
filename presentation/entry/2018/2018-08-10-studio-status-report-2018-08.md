@@ -53,5 +53,3 @@ The guidance in “ [Share and save screenshots with Dropbox](https://www.dropbo
 What might be a great, simple, *central* solution to sharing screenshots involves throwing images (using the new [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)) on a BLOB container. All legacy screenshots can be moved there.
 
 @ [BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)

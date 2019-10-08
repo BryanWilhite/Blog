@@ -39,15 +39,15 @@ I have [tweeted to Edward Thomson about this](https://twitter.com/BryanWilhite/s
 
 I am currently working around this issue by deleting old GitHub entries from the Credential Manager and using the git experience from GitHub Desktop and Visual Studio Community. From the command line, the experience looks like this:
 
+```console
 git push
-    fatal: MissingMethodException encountered.
-       Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
-    fatal: MissingMethodException encountered.
-       Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
-    Username for 'https://github.com':
+fatal: MissingMethodException encountered.
+   Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
+fatal: MissingMethodException encountered.
+   Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
+Username for 'https://github.com':
+```
 
 Searching the web for these error messages brings back very little. I currently assume that the ultimate solution is to switch to SSH on Windows.
 
 @[BryanWilhite](https://twitter.com/bryanwilhite)
-
-@[BryanWilhite](https://twitter.com/BryanWilhite)
