@@ -85,17 +85,16 @@ It’s not perfect (why those “`invalid-meta`” lines?) but it’s a start.
 
 In the same manner that Git folks have `.gitignore`, Microsoft’s TFS (finally!) has `.tfignore`. I have had at least two, useless, soul-sucking arguments with self-described “senior” Microsoft developers who resisted using NuGet packages because there was no `.tfignore`. Now there is and I can get some soul back! Here’s my `.tfignore` file:
 
-
+```plaintext
 # info:
 # https://msdn.microsoft.com/en-us/library/ms245454.aspx?f=255&amp;MSPPError=-2147217396#tfignore
 \bower_components
 \node_modules
 \packages
 !\packages\repositories.config
-    
+```
 
 According to [a stackoverflow.com article](http://stackoverflow.com/questions/24143925/get-tfs-to-ignore-my-packages-folder), my `.tfignore` file can be overridden by NuGet. So a `NuGet.config` file has to be added to the `\.nuget` folder of your Visual Studio project root:
-
 
 &lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;configuration&gt;
@@ -103,7 +102,6 @@ According to [a stackoverflow.com article](http://stackoverflow.com/questions/24
     &lt;add key="disableSourceControlIntegration" value="true" /&gt;
   &lt;/solution&gt;
 &lt;/configuration&gt;
-    
 
 ## Related Links
 

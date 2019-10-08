@@ -70,7 +70,7 @@ I did notice that `Install-Package` supports a `-Destination` parameter for *som
 
 The [installation of the Linux subsystem](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) is standard.
 
-
+```console
 sudo apt-get update
 sudo apt-get autoremove
 sudo aptitude safe-upgrade
@@ -84,13 +84,14 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-get install ruby
 sudo gem install sass
 history -c &amp;&amp; history -w &amp;&amp; exit
-    
+```
 
 It may not be necessary to *manually* install these for gulp:
 
-
+```console
 sudo npm install gulp-concat
 sudo npm install gulp-minify-css
 sudo npm install gulp-sass
 sudo npm install map-stream
 sudo npm install vinyl-fs
+```

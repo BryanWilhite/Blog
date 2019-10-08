@@ -1,17 +1,23 @@
 ---json
 {
-  "author": null,
-  "content": "Dynamic Nested Reactive Forms In Angular – Josh Hicks – Medium [medium.com] How to Create Custom Angular Pipes and Dynamic Locales: [medium.com] Adjustable sidebar using Angular - @nicuvlad89[medium.com]#JavaScript#Typescript#Angular#WebDevelopment Under...",
-  "inceptDate": "2019-01-15T21:20:45.6108611-08:00",
-  "isPublished": true,
-  "itemCategory": null,
-  "modificationDate": "0001-01-01T00:00:00",
-  "slug": "dynamic-nested-reactive-forms-in-angular-and-other-tweeted-links",
+  "documentId": 0,
+  "title": "“Dynamic Nested Reactive Forms In Angular” and other tweeted links…",
+  "documentShortName": "2019-01-15-dynamic-nested-reactive-forms-in-angular-and-other-tweeted-links",
+  "fileName": "index.html",
+  "path": "./entry/2019-01-15-dynamic-nested-reactive-forms-in-angular-and-other-tweeted-links",
+  "date": "2019-01-16T05:20:45.610Z",
+  "modificationDate": "2019-01-16T05:20:45.610Z",
+  "templateId": 0,
+  "segmentId": 0,
+  "isRoot": false,
+  "isActive": true,
   "sortOrdinal": 0,
-  "tag": null,
-  "title": "“Dynamic Nested Reactive Forms In Angular” and other tweeted links…"
+  "clientId": "2019-01-15-dynamic-nested-reactive-forms-in-angular-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"Dynamic Nested Reactive Forms In Angular – Josh Hicks – Medium [medium.com] How to Create Custom Angular Pipes and Dynamic Locales: [medium.com] Adjustable sidebar using Angular - @nicuvlad89[medium.com]#JavaScript#Typescript#Angular#WebDevelopment Under...\"\r\n}"
 }
 ---
+
+# “Dynamic Nested Reactive Forms In Angular” and other tweeted links…
 
 [<img alt="Chiyana Simões [kundukundu]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kundukundu.jpg">](https://t.co/b3DZhqauGt) Dynamic Nested Reactive Forms In Angular – Josh Hicks – Medium [[medium.com]](https://medium.com/@joshblf/dynamic-nested-reactive-forms-in-angular-654c1d4a769a)
 
@@ -21,23 +27,23 @@
 
 [<img alt="Marco Dalla Libera [uncle_dallas]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/uncle_dallas.jpg">](https://t.co/DBI8XZ6YED) Understanding provider scope in [#Angular](http://twitter.com/search?q='%23Angular)[[itnext.io]](https://itnext.io/understanding-provider-scope-in-angular-4c2589de5bc) by Jack Stepanyan [#typescript](http://twitter.com/search?q='%23typescript)[#javascript](http://twitter.com/search?q='%23javascript)[#webdev](http://twitter.com/search?q='%23webdev)[[twitter.com]](https://twitter.com/uncle_dallas/status/1013681452771430400/photo/1)
 
-[<img alt="React Status ⚛ [reactdaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactdaily.jpg">](https://t.co/xdIqTOLlm4) Rendering Large Lists with React Virtualized: [[blog.logrocket.com]](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3) (How to use 'react-virtualized' to display a large amount of data efficiently.) 
+[<img alt="React Status ⚛ [reactdaily]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactdaily.jpg">](https://t.co/xdIqTOLlm4) Rendering Large Lists with React Virtualized: [[blog.logrocket.com]](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3) (How to use 'react-virtualized' to display a large amount of data efficiently.)
 
 [<img alt="Michel Weststrate [mweststrate]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mweststrate.jpg">](https://t.co/wJv0hRvYzs) Ok, [@reactjs](http://twitter.com/@reactjs) hooks are really killing it. Re-implemented the mobx-react bindings in 16 LOC with hooks: [[codesandbox.io]](https://codesandbox.io/s/k2vmjpqvnv)[#ReactConf2018](http://twitter.com/search?q='%23ReactConf2018). So. Much. Cleaner. Can hardly express how much messy stuff this fixes... 👏👏🏅🏅👌👌💸💸🧙‍🧙‍ [[twitter.com]](https://twitter.com/mweststrate/status/1055532227939966976/photo/1)
 
-[<img alt="JavaScriptKicks [JavaScriptKicks]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptKicks.jpg">](http://t.co/leSeGQTKcF) How To Write Better Code In React - Bits and Pieces by bit_src [[javascriptkicks.com]](https://javascriptkicks.com/r/14541?url=https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0?gi=401b2919a29f)[#javascript](http://twitter.com/search?q='%23javascript)[#reactjs](http://twitter.com/search?q='%23reactjs)[#vuejs](http://twitter.com/search?q='%23vuejs) via JavaScriptKicks 
+[<img alt="JavaScriptKicks [JavaScriptKicks]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JavaScriptKicks.jpg">](http://t.co/leSeGQTKcF) How To Write Better Code In React - Bits and Pieces by bit_src [[javascriptkicks.com]](https://javascriptkicks.com/r/14541?url=https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0?gi=401b2919a29f)[#javascript](http://twitter.com/search?q='%23javascript)[#reactjs](http://twitter.com/search?q='%23reactjs)[#vuejs](http://twitter.com/search?q='%23vuejs) via JavaScriptKicks
 
 [<img alt="Christopher Ross [crossphd]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/crossphd.jpg">](https://t.co/MieAIqpOIO) “Using Cookies with React, Redux and React Router 4” by Ross Bulat [[medium.com]](https://medium.com/@rossbulat/using-cookies-in-react-redux-and-react-router-4-f5f6079905dc)
 
 [<img alt="React [reactjs]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/reactjs.png">](http://t.co/EF5xem8t5W) React 16.6 is hot off the presses! 😱 – React.memo (like PureComponent but for function components) – React.lazy (code splitting powered by Suspense) – .contextType in class components [[reactjs.org]](https://reactjs.org/blog/2018/10/23/react-v-16-6.html)
 
-[<img alt="Victor Chow [vicchow]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/vicchow.jpg">](https://twitter.com/vicchow)[[bit.ly]](http://bit.ly/2Ot0PUd) Advanced TypeScript Types with Examples – gitconnected | Become a Better Developer via Instapaper 
+[<img alt="Victor Chow [vicchow]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/vicchow.jpg">](https://twitter.com/vicchow)[[bit.ly]](http://bit.ly/2Ot0PUd) Advanced TypeScript Types with Examples – gitconnected | Become a Better Developer via Instapaper
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Muse: Build composable visualizations for the web with a data-first approach [[charts.com]](http://www.charts.com/muze)[[twitter.com]](https://twitter.com/BryanWilhite/status/1051910766490574850/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Is there any roadmap about compatibility with .Net Core 3.0 in Prism.Wpf? [[github.com]](https://github.com/PrismLibrary/Prism/issues/1544) &lt;= [@brianlagunas](http://twitter.com/@brianlagunas)[[twitter.com]](https://twitter.com/BryanWilhite/status/1054518207313149952/photo/1)
 
-[<img alt="Brian Lagunas [brianlagunas]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianlagunas.jpeg">](http://t.co/47OvjaASiI)[@BryanWilhite](http://twitter.com/@BryanWilhite) Roadmap? Yeah, we're looking into it. Looking for a date? No, we do not have a date available. 
+[<img alt="Brian Lagunas [brianlagunas]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianlagunas.jpeg">](http://t.co/47OvjaASiI)[@BryanWilhite](http://twitter.com/@BryanWilhite) Roadmap? Yeah, we're looking into it. Looking for a date? No, we do not have a date available.
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL) Hey [@DonovanBrown](http://twitter.com/@DonovanBrown). It looks like my Azure Pipelines build fail for PRs when uploading artifacts. Is that expected? [[terrajobst.visualstudio.com]](https://terrajobst.visualstudio.com/git-istage/_build/results?buildId=403&view=logs)
 
@@ -67,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) [@ericdrowell](http://twitter.com/@ericdrowell)[[bigocheatsheet.com]](http://bigocheatsheet.com)[[twitter.com]](https://twitter.com/BryanWilhite/status/1053317661025685504/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/MGGKW0HCb5U?a) Eugenia Cheng: When 1 + 1 = 3 
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/MGGKW0HCb5U?a) Eugenia Cheng: When 1 + 1 = 3
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “I engaged with MPEG-G from the moment I heard about it, submitting ideas to improve it, despite being instrumental in recent CRAM improvements. I had hopes of a better format.” [[datageekdom.blogspot.com]](http://datageekdom.blogspot.com/2018/09/) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)
 
@@ -102,3 +108,5 @@
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Are you ready for some .NET and football? Check out this job from National Football League (NFL) [[linkedin.com]](https://www.linkedin.com/jobs/view/917349528/?eBP=CwEAAAFmjOgqTs4quoqItgxUCq68lIUX_SOMEZYtkT7bxgBuzVyiDHIeoENBPL7twVPZInBtFcD5AbT5TGuPmG2nG--Klb8p24VJTXnd0u1FjLKdCvmUzI__q43zV0Ge3o9JD0SAkpgS7qcIQf_Yj3jgjP36NBgLB1q4S8AToPJDvui4jNAoLKHMe2XPCj1zySTvuRUUTNFVh0-6d8hjZA4Ei01p_ljNNOBfwl7FAZ2hk5fKKVjWy84KHcAuHPChDDLV0OaCJculIVMrBKfZVhECCEW-6-hgh56fynKyaeSU2S7geflClskguifxVQNW&recommendedFlavor=SCHOOL_RECRUIT&refId=44b0d574-6071-4654-9a16-28be4d240d2e&trk=eml-jymbii-organic-job-card&midToken=AQF8ILai3ua0uQ&trkEmail=eml-jobs_jymbii_digest-null-2-null-null-7nj74%7Ejng5swwp%7Eks-null-jobs%7Eview&lipi=urn%3Ali%3Apage%3Aemail_jobs_jymbii_digest%3BNNKSdAroRsysxmGWQF%2BGOQ%3D%3D)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[slides.com]](http://slides.com/seldo/npm-future-of-javascript#)[[twitter.com]](https://twitter.com/BryanWilhite/status/1052038187193778181/photo/1)
+
+@[BryanWilhite](https://twitter.com/BryanWilhite)

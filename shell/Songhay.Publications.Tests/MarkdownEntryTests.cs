@@ -125,7 +125,7 @@ namespace Songhay.Publications.Tests
                 .ForEachInEnumerable(ShouldEditOneBlogEntry);
         }
 
-        [Theory, InlineData("../../../../../presentation/entry/2012/2012-01-31-aspnet-blog-engines-and-squarespace.md")]
+        [Theory, InlineData("../../../../../presentation/entry/2019/2019-01-15-dynamic-nested-reactive-forms-in-angular-and-other-tweeted-links.md")]
         public void ShouldEditBlogEntry(string entryPath)
         {
             // arrange
@@ -182,7 +182,8 @@ namespace Songhay.Publications.Tests
                         i.FrontMatter["clientId"] = clientId;
                         i.FrontMatter["documentShortName"] = clientId;
 
-                        i.Content = (new Regex(@"[\r\n]\# ")).IsMatch(content) ? content : string.Concat(i.Content, content);
+                        i.Content = (new Regex(@"[\r\n]\# "))
+                            .IsMatch(content) ? content : string.Concat(i.Content.Replace("## ", "# "), content);
                     })
                 .WithEdit(i => // content line breaks
                     {
