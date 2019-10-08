@@ -19,9 +19,27 @@
 
 # Complete control and domination over my Ubuntu bash shell history
 
-I’m not going to explain why because billions of people on this planet do not care. I’ll just write it like this: it bothers me when my bash shell history gets too “long”—tapping that up arrow key for tens of seconds grinds my gears. What is worse is the ever-so-slight dip in morale when I enter `history -c` only to find that my history was not cleared—most of the time I seme-consciously realized this was happening to me I was mired in an emergency too desperate to investigate this issue.
+I’m not going to explain why because billions of people on this planet do not care. I’ll just write it like this: it bothers me when my bash shell history gets too “long”—tapping that up arrow key for tens of seconds grinds my gears. What is worse is the ever-so-slight dip in morale when I enter `history -c` only to find that my history was not cleared—most of the time I semi-consciously realized this was happening to me I was mired in an emergency too desperate to investigate this issue.
 
-These three commands solve the issue:history -c &amp;&amp; history -w &amp;&amp; exitWhat is better is to save the ‘messy’ history before clearing the buffer:history -w ~/Desktop/history_bak.txtWhat I am fond of doing is sorting `history_bak.txt` and removing duplicates—like this:sort history_bak.txt | uniq &gt; history_bak_tmp.txtThen I move `history_bak_tmp.txt` over `history_bak.txt`. I can then cherry-pick the best lines and paste them into the terminal as needed.
+These three commands solve the issue:
+
+```console
+history -c &amp;&amp; history -w &amp;&amp; exit
+```
+
+What is better is to save the ‘messy’ history before clearing the buffer:
+
+```console
+history -w ~/Desktop/history_bak.txt
+```
+
+What I am fond of doing is sorting `history_bak.txt` and removing duplicates—like this:
+
+```console
+sort history_bak.txt | uniq &gt; history_bak_tmp.txt
+```
+
+Then I move `history_bak_tmp.txt` over `history_bak.txt`. I can then cherry-pick the best lines and paste them into the terminal as needed.
 
 I have this “weird” expectation that my history file will settle down into about a dozen commands used routinely. Any spike in command usage means something abnormal has happened—prompting the need to clear the bash history again.
 

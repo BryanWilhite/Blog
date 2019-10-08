@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-07-22-studio-status-report-2019-07",
-  "tag": "{\r\n  \"extract\": \"month-6 was about switching to Hyper-V, being 134% behind and 11tyMy studio notes on setting up Ubuntu on Hyper-V boil down to this:Install OS (minimal install) from *.ISO on Generation 2 VM without RemoteFX 3D Video Adapter (with Checkpoints Disabled)Co...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"month-6 was about switching to Hyper-V, being 134% behind and 11tyMy studio notes on setting up Ubuntu on Hyper-V boil down to this: Install OS (minimal install) from *.ISO on Generation 2 VM without RemoteFX 3D Video Adapter (with Checkpoints Disabled)Co...\"\r\n}"
 }
 ---
 

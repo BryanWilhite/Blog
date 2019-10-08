@@ -27,9 +27,18 @@ Experimenting with this little button allows me to choose how I should approach 
 
 ## Calling the YouTube API to Get Channel Playlist Item Data
 
-I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:var playlistId = jA[0]["contentDetails"]["relatedPlaylists"]["uploads"].Value&lt;string&gt;();It does not matter what `jA[0]` is apart from being the first element in a JSON.NET `JArray`.
+I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:
 
-Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:[TestMethod]
+```c#
+var playlistId = jA[0]["contentDetails"]["relatedPlaylists"]["uploads"].Value<string>();
+```
+
+It does not matter what `jA[0]` is apart from being the first element in a JSON.NET `JArray`.
+
+Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:
+
+```c#
+[TestMethod]
 [TestProperty("channelPlaylistId", "UUp4cuWZKxR5ZNbcWrP1DozA")
 [TestProperty("googleServerApiKey", "XXXXXXXXX")]
 [TestProperty("uriBase", "https://www.googleapis.com/youtube/v3")]
@@ -46,17 +55,24 @@ public void ShouldGetPlaylistItems()
     this.TestContext.WriteLine("URI: {0}", uri);
     var responseString = (WebRequest.Create(uri) as HttpWebRequest).DownloadToString();
     this.TestContext.WriteLine(responseString.EscapeInterpolation());
-}The methods `DownloadToString()` and `EscapeInterpolation()` are my personal crap and can be disregarded (I haven’t had a chance to consider “upgrading” to `HttpClient`). The point is all of this work is being done with plain old .NET (no NuGet packages from Google).
+}
+```
+
+The methods `DownloadToString()` and `EscapeInterpolation()` are my personal crap and can be disregarded (I haven’t had a chance to consider “upgrading” to `HttpClient`). The point is all of this work is being done with plain old .NET (no NuGet packages from Google).
 
 ## Calling the YouTube API to get a list of Channel IDs from my Subscriptions
 
-None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):[TestMethod]
+None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):
+
+```c#
+[TestMethod]
 [TestProperty("googleClientMetadataFile", "GoogleClientMetadata.json")]
 [TestProperty("googleSubscriptionsFile", "GoogleSubscriptions.json")]
 [TestProperty("userName", "bryan.wilhite")]
 public void ShouldGetUserSubscriptions()
 {
     var projectsFolder = this.TestContext.ShouldGetProjectsFolder(this.GetType());
+
     #region test properties:
     var googleClientMetadataFile = this.TestContext.Properties["googleClientMetadataFile"].ToString();
     googleClientMetadataFile = Path.Combine(projectsFolder, this.GetType().Namespace, googleClientMetadataFile);
@@ -66,6 +82,7 @@ public void ShouldGetUserSubscriptions()
     this.TestContext.ShouldFindFile(googleSubscriptionsFile);
     var userName = this.TestContext.Properties["userName"].ToString();
     #endregion
+
     UserCredential credential = null;
     using (var stream = new FileStream(googleClientMetadataFile, FileMode.Open, FileAccess.Read))
     {
@@ -74,15 +91,18 @@ public void ShouldGetUserSubscriptions()
         var secrets = GoogleClientSecrets.Load(stream).Secrets;
         credential = GoogleWebAuthorizationBroker.AuthorizeAsync(secrets, apiScopes, userName, CancellationToken.None, dataStore).Result;
     }
+
     Assert.IsNotNull(credential, "The expected Google User Credential is not here.");
     this.TestContext.WriteLine("Credential user ID: {0}", credential.UserId);
     this.TestContext.WriteLine("Credential token: {0}", credential.Token.AccessToken);
     Assert.AreEqual(userName, credential.UserId);
+
     var initializer = new BaseClientService.Initializer
     {
         ApplicationName = this.GetType().Name,
         HttpClientInitializer = credential
     };
+
     using (var clientService = new YouTubeService(initializer))
     {
         var request = clientService.Subscriptions.List("snippet");
@@ -90,7 +110,7 @@ public void ShouldGetUserSubscriptions()
         request.Mine = true;
         var nextPageToken = string.Empty;
         var totalSubscriptions = 0;
-        var subscriptionList = new List&lt;SubscriptionSnippet&gt;();
+        var subscriptionList = new List<SubscriptionSnippet>();
         do
         {
             request.PageToken = nextPageToken;
@@ -99,7 +119,7 @@ public void ShouldGetUserSubscriptions()
             Assert.IsNotNull(response.Items, "The expected List Request items are not here.");
             Assert.IsTrue(response.Items.Any(), "The expected List Request items are not here.");
             totalSubscriptions += response.Items.Count;
-            response.Items.ForEachInEnumerable(i =&gt;
+            response.Items.ForEachInEnumerable(i =>
             {
                 this.TestContext.WriteLine("Subscription ID: {0}", i.Id);
                 Assert.IsNotNull(i.Snippet, "The expected Snippet is not here.");
@@ -113,7 +133,10 @@ public void ShouldGetUserSubscriptions()
         var json = JsonConvert.SerializeObject(subscriptionList.ToArray());
         File.WriteAllText(googleSubscriptionsFile, json);
     }
-}The first time I run this, I notice that I am prompted by a Web browser, asking me to log into Google. Welcome to the horrors of OAuth. I often leave horrible little science experiments like this as integration tests in Visual Studio indefinitely.
+}
+```
+
+The first time I run this, I notice that I am prompted by a Web browser, asking me to log into Google. Welcome to the horrors of OAuth. I often leave horrible little science experiments like this as integration tests in Visual Studio indefinitely.
 
 After runs, a JSON file, `GoogleSubscriptions.json`, is generated. This gives me the hand-curated Channel IDs I need to run a Web Job on Azure. More on this later…
 

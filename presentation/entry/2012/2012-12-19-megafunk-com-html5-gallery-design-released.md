@@ -49,15 +49,17 @@ A very powerful concept (for me at the moment) that allows me to break blocks of
 
 In the case of my gallery, I use `readyMegaGallery``()`. This is called inside of `$(window.document).ready(``)` like this:
 
+```javascript
 $(window.document).ready(function () {
-        var flow = $('#GalleryContainer');
-        if (flow.length &gt; 0) {
-            $.getJSON('./data/browse.json').then(function (data) {
-                galleryViewModel.setGalleries(data);
-                readyMegaGallery(data);
-            });
-        }
-    });
+    var flow = $('#GalleryContainer');
+    if (flow.length &gt; 0) {
+        $.getJSON('./data/browse.json').then(function (data) {
+            galleryViewModel.setGalleries(data);
+            readyMegaGallery(data);
+        });
+    }
+});
+```
 
 We can see that this *ready* concept is in line with `jQuery.ready`.
 

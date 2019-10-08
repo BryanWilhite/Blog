@@ -29,7 +29,10 @@
 
 ## PowerShell Package Manager Install
 
-The PowerShell script:$providerName = "Chocolatey"
+The PowerShell script:
+
+```powershell
+$providerName = "Chocolatey"
 $provider = Get-PackageProvider -ListAvailable | Where-Object { $_.Name -eq $providerName }
 if($provider -eq $null) { Install-PackageProvider -Name $providerName }
 $a = (
@@ -45,12 +48,28 @@ $a = (
 "sysinternals",
 "winmerge"
 )
-$a | ForEach-Object  { Find-Package -Name $_; Install-Package -Name $_ -ProviderName $providerName }The `winmerge` package failed to install:Install-Package : The file or directory is corrupted and unreadable
+$a | ForEach-Object  { Find-Package -Name $_; Install-Package -Name $_ -ProviderName $providerName }
+```
+
+The `winmerge` package failed to install:
+
+```powershell
+Install-Package : The file or directory is corrupted and unreadable
 At line:1 char:1
-+ Install-Package "winmerge"The `cloudberryexplorer.azurestorage` package also failed to install with the irresponsibly cryptic:Install-Package : Process Exited with non-successful exit code cmd.exe : 1
++ Install-Package "winmerge"
+```
+
+The `cloudberryexplorer.azurestorage` package also failed to install with the irresponsibly cryptic:
+
+```console
+Install-Package : Process Exited with non-successful exit code cmd.exe : 1
+
 At line:5 char:47
 + ... kage -Name $_; Install-Package -Name $_ -ProviderName $providerName }
-+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~After the `git` (Git for Windows) package is installed, the Git Bash icon will not be available in the Start menu. Find `%ProgramFiles%\Git\git-bash.exe`, right click to run **Pin to Start** and/or **Pin to taskbar**.
++                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
+After the `git` (Git for Windows) package is installed, the Git Bash icon will not be available in the Start menu. Find `%ProgramFiles%\Git\git-bash.exe`, right click to run **Pin to Start** and/or **Pin to taskbar**.
 
 I did notice that `Install-Package` supports a `-Destination` parameter for *some* providers (not Chocolatey). I would have been great to have this support to avoid installing packages on the C: drive by default.
 

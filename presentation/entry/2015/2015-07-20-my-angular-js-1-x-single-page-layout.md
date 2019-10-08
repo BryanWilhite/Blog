@@ -23,79 +23,53 @@ I’ve invested the time. I’m walking away with [a Code Pen](http://codepen.io
 
 As usual, my layout is simple:
 
-&lt;body data-ng-app="rxApp"&gt;
-    &lt;div data-ng-controller="clientController"&gt;
-        &lt;rx-header&gt;&lt;/rx-header&gt;
-        &lt;div data-ng-view=""&gt;&lt;/div&gt;
-        &lt;rx-footer&gt;&lt;/rx-footer&gt;
-    &lt;/div&gt;
-&lt;/body&gt;
+```html
+<body data-ng-app="rxApp">
+    <div data-ng-controller="clientController">
+        <rx-header></rx-header>
+        <div data-ng-view=""></div>
+        <rx-footer></rx-footer>
+    </div>
+</body>
+```
 
 So it’s quite clear that `rx-header` and `rx-footer` are the Angular directives I’ll be building and certainly reusing. The big breakthrough with this simplicity is my use of a container-level controller, `clientController`, that observes (and automatically becomes the `$parent` of) any controllers loaded under `ng-view`.
 
 I’ve run some experiments with this strategy and saved them:
 
 <!-- cSpell:disable -->
-
 <iframe height="265" style="width: 100%;" scrolling="no" title="Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive" src="https://codepen.io/rasx/embed/gpjaoZ?height=265&theme-id=0&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-
 See the Pen <a href='https://codepen.io/rasx/pen/gpjaoZ'>Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive</a> by Bryan Wilhite
   (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
-
 </iframe>
-
 <!-- cSpell:enable -->
 
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
-
 “[AngularJS: Communication Between Controllers](http://www.theroks.com/angularjs-communication-controllers/)”
-<
-/td><td>
-
+</td><td>
 Event-aggregation with `$broadcast` in an Angular Service.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 “[Animating AngularJS Apps: ngView](https://scotch.io/tutorials/animating-angularjs-apps-ngview)”
-<
-/td><td>
-
+</td><td>
 I could not get the animations to work *well*. Not the UX I’m looking for…
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 “[UI-Router: Why many developers don’t use AngularJS’s built-in router](http://www.funnyant.com/angularjs-ui-router/)”
-<
-/td><td>
-
+</td><td>
 My solution is simpler, Angular-native and I do not expect to outgrow it.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 “[AngularJS: Views vs. Directives](http://jan.varwig.org/archive/angularjs-views-vs-directives)”
-<
-/td><td>
-
+</td><td>
 Is not `ng-view` a Directive?
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 “[Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)”
-<
-/td><td>
-
+</td><td>
 The few written works on Angular JS that help me understand the deep innards of this beast.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 “[Angular.js directives—Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)”
-<
-/td><td>
-
+</td><td>
 Another one of those *aha!* articles.
-<
-/td></tr></table>
+</td></tr></table>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

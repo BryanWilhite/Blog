@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-02-25-studio-status-report-2019-02",
-  "tag": "{\r\n  \"extract\": \"One “pure” NPM package and two Angular packagesAfter another miserable, 20-day siege, these are the repositories I have committed to that develop Javascript code reuse in the Songhay Studio:songhay-core [GitHub]songhay-ng-workspace [GitHub]Here is a sele...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"One “pure” NPM package and two Angular packagesAfter another miserable, 20-day siege, these are the repositories I have committed to that develop Javascript code reuse in the Songhay Studio: songhay-core [GitHub]songhay-ng-workspace [GitHub]Here is a sele...\"\r\n}"
 }
 ---
 

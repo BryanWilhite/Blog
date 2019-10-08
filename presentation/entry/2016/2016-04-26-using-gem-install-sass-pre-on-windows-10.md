@@ -23,7 +23,33 @@ This article is sort of the Windows 10 version of my previous note, “[Using gu
 
 Install one of the recommended Ruby installers [at rubyinstaller.org](http://rubyinstaller.org/downloads/). As of this writing, the recommendation for me is [Ruby 2.2.4 (x64)](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.2.4-x64.exe).
 
-Use the **Start Command Prompt with Ruby** shortcut and enter the same command as you would on Linux:gem install sass --pre(The `--pre` option may not be required as time has passed since that ‘previous note’ mentioned above.) Click the **Environment Variables…** button under System Properties and append this:;C:\Ruby22-x64\binNote: you should not have to do this when you check that ‘update path option’ in the ruby installer. This appended path allows us to call sass directly (from the conventional `\styles` folder), for development:sass _body.scss styles.css -E utf-8…and production:sass _body.scss styles.min.css --style=compressed -E utf-8…where `_body.scss` is the conventional Sass file with `@import` declarations for ‘child’ `.scss` files.
+Use the **Start Command Prompt with Ruby** shortcut and enter the same command as you would on Linux:
+
+```console
+gem install sass --pre
+```
+
+(The `--pre` option may not be required as time has passed since that ‘previous note’ mentioned above.)
+
+Click the **Environment Variables…** button under System Properties and append this:
+
+```console
+;C:\Ruby22-x64\bin
+```
+
+Note: you should not have to do this when you check that ‘update path option’ in the ruby installer. This appended path allows us to call sass directly (from the conventional `\styles` folder), for development:
+
+```console
+sass _body.scss styles.css -E utf-8
+```
+
+…and production:
+
+```console
+sass _body.scss styles.min.css --style=compressed -E utf-8
+```
+
+…where `_body.scss` is the conventional Sass file with `@import` declarations for ‘child’ `.scss` files.
 
 Note the encoding option `-E` is needed to force UTF-8 output—evidently, [a sass-on-Windows issue](http://blog.pixelastic.com/2014/09/06/compass-utf-8-encoding-on-windows/).
 

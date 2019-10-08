@@ -27,11 +27,17 @@ I tried and failed to move the default OneDrive folder to `\dataRoot\OneDrive`. 
 
 ## Changes to the shares layout
 
-This is a sketch of the new layout:\appRoot
+This is a sketch of the new layout:
+
+```plaintext
+\appRoot
 \dataRoot
 \sourceRoot
 \util
-\webRootAdded `\appRoot` to anticipate mirroring in the cloud as a full (Nano-server?) VM and/or a Docker-like container.
+\webRoot
+```
+
+Added `\appRoot` to anticipate mirroring in the cloud as a full (Nano-server?) VM and/or a Docker-like container.
 
 Added `sourceRoot\songhay-system` for what is currently under TFS (which is just about everything). What was called ‘Projects (public)’ is now called `\sourceRoot\samples`. It turns out that the [Bing Developer Assistant](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Bing-Developer-Assistant) has a “samples” concept as well, so I changed settings in VS2015 to point to `\sourceRoot\samples`.
 
@@ -40,137 +46,83 @@ The `\util` folder is almost empty (and many, many binaries were removed from `\
 
 ## Getting the “experimental” OneGet installer
 
-The version of OneGet shipping with Windows 10 does not support Chocolatey. So I’ve taken the risk and downloaded [the “experimental” build](https://github.com/OneGet/oneget) from GitHub. After the “experiment” is installed, there are some instructions to follow to get OneGet running. The only accurate instructions I’ve seen for the latest build are [displayed in a dialog](https://www.flickr.com/photos/wilhite/20155687415/in/dateposted-public/) just before the `*.exe` installs. Here are the instructions in my own words: in an administrator-level session of PowerShell enter:Set-ExecutionPolicy Unrestricted
+The version of OneGet shipping with Windows 10 does not support Chocolatey. So I’ve taken the risk and downloaded [the “experimental” build](https://github.com/OneGet/oneget) from GitHub. After the “experiment” is installed, there are some instructions to follow to get OneGet running. The only accurate instructions I’ve seen for the latest build are [displayed in a dialog](https://www.flickr.com/photos/wilhite/20155687415/in/dateposted-public/) just before the `*.exe` installs. Here are the instructions in my own words: in an administrator-level session of PowerShell enter:
+
+```powershell
+Set-ExecutionPolicy Unrestricted
 Import-Module oneget-edge
 # run Install-Package foo a bunch of times
-Set-ExecutionPolicy RemoteSigned## Got Chocolatey?
+Set-ExecutionPolicy RemoteSigned
+```
+
+## Got Chocolatey?
 
 There are [several packages for Sublime Text 2/3](https://chocolatey.org/packages?q=sublime) but I’ll need to get back to this to make a detail-based decision on which ones to take.
-<
-table class="WordWalkingStickTable"><tr><td>
-
+<table class="WordWalkingStickTable"><tr><td>
 Application
-<
-/td><td>
-
+</td><td>
 Package?
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Piriform Defraggler
-<
-/td><td>
-
+</td><td>
 [Defraggler 2.19.982](https://chocolatey.org/packages/defraggler) [ `defraggler` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 CCleaner
-<
-/td><td>
-
+</td><td>
 [CCleaner 5.08.5308](https://chocolatey.org/packages/ccleaner) [ `ccleaner` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 7-Zip
-<
-/td><td>
-
+</td><td>
 [7-Zip (Install) 9.38](https://chocolatey.org/packages/7zip.install) [ `7zip.install` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Sysinternals Suite
-<
-/td><td>
-
+</td><td>
 [Sysinternals 2015.07.20](https://chocolatey.org/packages/sysinternals) [ `sysinternals` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Microsoft Web Platform Installer
-<
-/td><td>
-
+</td><td>
 [WebPI (Platform Installer) 5.0](https://chocolatey.org/packages/webpi) [ `webpi` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 cwRsync
-<
-/td><td>
-
+</td><td>
 [cwRsync Free edition 5.4.1](https://chocolatey.org/packages/cwrsync) [ `cwrsync` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Git (for Windows)
-<
-/td><td>
-
+</td><td>
 [Git (Install) 1.9.5.20150320](https://chocolatey.org/packages/git.install) [ `git.install` ]
 
 This package will not install the **Git Bash** shortcut from the original distribution on Windows 10. The shortcut target is `"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i`.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Node JS
-<
-/td><td>
-
+</td><td>
 [Node JS (Install) 0.12.7](https://chocolatey.org/packages/nodejs.install) [ `nodejs.install` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 <span style="text-decoration:line-through;">CloudBerry Explorer</span>
 </td><td>
-
 [<span style="text-decoration:line-through;">CloudBerry Explorer for Microsoft Azure Cloud Storage 2.1.2.58</span>](https://chocolatey.org/packages/CloudBerryExplorer.AzureStorage)<span style="text-decoration:line-through;"> [ </span>``<span style="text-decoration:line-through;">]</span>
 
 This package did not install correctly (for me) and it has not been approved by moderators.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Notepad++
-<
-/td><td>
-
+</td><td>
 [Notepad++ 6.8](https://chocolatey.org/packages/notepadplusplus) [ `notepadplusplus` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 FileZilla
-<
-/td><td>
-
+</td><td>
 [FileZilla 3.12.0.2](https://chocolatey.org/packages/filezilla) [ `filezilla` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 WinMerge
-<
-/td><td>
-
+</td><td>
 [winmerge 2.14.0](https://chocolatey.org/packages/winmerge) [ `winmerge` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 IrfanView
-<
-/td><td>
-
+</td><td>
 [IrfanView 4.38](https://chocolatey.org/packages/irfanview) [ `irfanview` ]
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 NAnt
-<
-/td><td>
-
+</td><td>
 [NAnt—A .NET Build Tool 0.92.1](https://chocolatey.org/packages/NAnt) [ `nant` ]
-<
-/td></tr></table>
+</td></tr></table>
 
 ## ‘Unmanaged’ Utilities
 

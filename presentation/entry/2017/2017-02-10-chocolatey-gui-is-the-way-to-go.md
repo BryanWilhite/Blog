@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-02-10-chocolatey-gui-is-the-way-to-go",
-  "tag": "{\r\n  \"extract\": \"My experience with choco.exe—especially my frustration with updating Chocolatey packages from the command line—goes away with ChocolateyGUI.I would like to find out what ChocolateyGUI is doing on the command line when I do this:I notice that that this WP...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"My experience with choco.exe—especially my frustration with updating Chocolatey packages from the command line—goes away with ChocolateyGUI.I would like to find out what ChocolateyGUI is doing on the command line when I do this: I notice that that this WP...\"\r\n}"
 }
 ---
 

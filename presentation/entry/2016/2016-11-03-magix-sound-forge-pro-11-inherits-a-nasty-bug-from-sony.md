@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-11-03-magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony",
-  "tag": "{\r\n  \"extract\": \"I eagerly look forward to an upgrade to MAGIX Sound Forge Pro assuming that they will fix a longstanding bug around this “Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog:This dialog shows after you have successfully installed an...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"I eagerly look forward to an upgrade to MAGIX Sound Forge Pro assuming that they will fix a longstanding bug around this “Registration of Sound Forge Pro 11.0 requires elevated privileges” dialog: This dialog shows after you have successfully installed an...\"\r\n}"
 }
 ---
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-01-04-generating-a-junction-not-technically-a-symbolic-link-in-windows-10",
-  "tag": "{\r\n  \"extract\": \"Rarely, I ran into the 260-character limit on Windows paths. According to Microsoft’s summer of 2016, I will never run into this limit again. For the other billion non-Windows-10, Windows machines, I may need this:Set-Location C:\\\\ $junction = \\\"my-junctio...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Rarely, I ran into the 260-character limit on Windows paths. According to Microsoft’s summer of 2016, I will never run into this limit again. For the other billion non-Windows-10, Windows machines, I may need this: Set-Location C:\\\\ $junction = \\\"my-junctio...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,8 @@
 
 Rarely, I ran into the 260-character limit on Windows paths. According to Microsoft’s summer of 2016, [I will *never* run into this limit again](https://mspoweruser.com/ntfs-260-character-windows-10/). For the other billion non-Windows-10, Windows machines, I may need this:
 
-<code class="lang-powershell">Set-Location C:\
+```powershell
+Set-Location C:\
 $junction = "my-junction"
 $target = "C:\my-really-really-really-long-path"
 if(Test-Path $junction)
@@ -29,10 +30,9 @@ if(Test-Path $junction)
     Write-Output "$junction junction already exists."
     return
 }
-&amp; cmd /c mklink /J $junction $target
+& cmd /c mklink /J $junction $target
 Get-ChildItem -Path $junction
-<
-/code>
+```
 
 I will note that I attempted to use the `mklink /d` switch (on a pre-summer-of-2016 version of Windows 10) for a directory Symbolic Link but this failed silently.
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-05-18-the-songhay-system-ubuntu-vms-in-review",
-  "tag": "{\r\n  \"extract\": \"The fact that Windows 10 will add a “real” Ubuntu-based bash shell very soon does suggest that I’ll not need Ubuntu VM’s for software development. There are three non-development areas where I think VMs will be in play for quite some time:The Ubuntu VM a...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"The fact that Windows 10 will add a “real” Ubuntu-based bash shell very soon does suggest that I’ll not need Ubuntu VM’s for software development. There are three non-development areas where I think VMs will be in play for quite some time: The Ubuntu VM a...\"\r\n}"
 }
 ---
 

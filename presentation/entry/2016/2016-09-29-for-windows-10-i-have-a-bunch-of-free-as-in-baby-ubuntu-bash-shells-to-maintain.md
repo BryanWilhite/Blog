@@ -20,92 +20,49 @@
 # For Windows 10, I have a bunch of free-as-in-baby Ubuntu bash shells to maintain…
 
 These are the bash shells of the Songhay System:
-<
-table class="WordWalkingStickTable"><tr><td>
-
+<table class="WordWalkingStickTable"><tr><td>
 **Machine Name**
-<
-/td><td>
-
+</td><td>
 **Ubuntu Version**
-<
-/td><td>
-
+</td><td>
 **Notes**
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Server VM on A2 Hosting
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 Live production server (kintespace.com).
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Server VM on Azure
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 .NET Core experiments and poor-man’s backup.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Desktop VM on VMware
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 Desktop Publishing, Blender 3D scene-building, mirroring/syncing with *Ubuntu Server VM on **A2 Hosting*.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Bash Shell on Windows 10 VM on VMware
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 NPM/gulp/bower stack for Visual Studio.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Bash Shell on Windows 10 VMware Host
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 File backup (`scp`) source for *Ubuntu Server VM on Azure*. This is physical hardware.
-<
-/td></tr><tr><td>
-
+</td></tr><tr><td>
 Ubuntu Bash Shell on Windows 10 Studio Workstation
-<
-/td><td>
-
+</td><td>
 16.04 LTS
-<
-/td><td>
-
+</td><td>
 This is physical hardware.
-<
-/td></tr></table>
+</td></tr></table>
 
 ## Six bash environments to maintain, four of them critical…
 

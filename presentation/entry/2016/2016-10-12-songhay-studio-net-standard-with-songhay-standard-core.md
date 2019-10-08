@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-10-12-songhay-studio-net-standard-with-songhay-standard-core",
-  "tag": "{\r\n  \"extract\": \"Went with .NET Standard 1.2. These are the consequences:The System.Security.Cryptography namespace is not supported in .NET Standard 1.2. The System.Security.Cryptography.Algorithms NuGet package is supported from .NET Standard 1.3 (.NET 4.6) onwards.The...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Went with .NET Standard 1.2. These are the consequences: The System.Security.Cryptography namespace is not supported in .NET Standard 1.2. The System.Security.Cryptography.Algorithms NuGet package is supported from .NET Standard 1.3 (.NET 4.6) onwards.The...\"\r\n}"
 }
 ---
 
@@ -24,7 +24,7 @@
 Went with .NET Standard 1.2. These are the consequences:
 
 * The `System.Security.Cryptography` namespace is not supported in .NET Standard 1.2. The `System.Security.Cryptography.Algorithms` NuGet [package](https://www.nuget.org/packages/System.Security.Cryptography.Algorithms/) is supported from .NET Standard 1.3 (.NET 4.6) onwards.
-* The `TraceSource` object is not supported in .NET Standard 1.2. The `System.Diagnostics.TraceSource `NuGet [package](https://www.nuget.org/packages/System.Diagnostics.TraceSource/) is supported from .NET Standard 1.3 (.NET 4.6) onwards.
+* The `TraceSource` object is not supported in .NET Standard 1.2. The `System.Diagnostics.TraceSource` NuGet [package](https://www.nuget.org/packages/System.Diagnostics.TraceSource/) is supported from .NET Standard 1.3 (.NET 4.6) onwards.
 * The XPath concept and the `XPathNavigator` regime is over in .NET Standard.
 
 I have been listening to Immo Landwerth (and [corresponding with him](https://twitter.com/BryanWilhite/status/785944202525814784) over Twitter) and the highlights are these:

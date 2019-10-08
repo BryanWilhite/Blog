@@ -43,10 +43,9 @@ By staring at a chart via [Immo Landwerth](https://twitter.com/terrajobst) I sav
 
 The equivalent of the MEF `[Export(IFoo)]` declaration for type `Foo` is this statement:
 
-<code class="lang-C#">
-this._container.RegisterType&lt;IFoo, Foo&gt;(new ContainerControlledLifetimeManager());
-<
-/code>
+```c#
+this._container.RegisterType<IFoo, Foo>(new ContainerControlledLifetimeManager());
+```
 
 It is important to use `ContainerControlledLifetimeManager` to match the static-ish nature of the `[Export]` attributes. This step applies to non-views, primarily Prism services and View-Model-first View models.
 
@@ -54,34 +53,31 @@ It is important to use `ContainerControlledLifetimeManager` to match the static-
 
 With Unity in play, there is a need to register a view for navigation in `IModule.Initialize()`:
 
-<code class="lang-C#">
-this._container.RegisterTypeForNavigation&lt;FooView&gt;();
-<
-/code>
+```c#
+this._container.RegisterTypeForNavigation<FooView>();
+```
 
 ## Migration Step 3: Use Prism XAML Declarations for View-First Patterns
 
 This is this Prism XAML declarations for a View-first scenario:
 
-<code class="lang-XAML">
-&lt;UserControl x:Class="MyApp.Views.FooView"
+```xml
+<UserControl x:Class="MyApp.Views.FooView"
     x…mlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     x…mlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     x…mlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     x…mlns:prism="http://prismlibrary.com/"
-    prism:ViewModelLocator.AutoWireViewModel="True"&gt;
-<
-/code>
+    prism:ViewModelLocator.AutoWireViewModel="True">
+```
 
 My experience informs me that there is no special Prism code needed in the View and the View Model to get this scenario working. This is where Unity has a clear, conventions-based advantage over MEF.
 
 Now, there was a time when I preferred the C#-equivalent of this XAML declaration (stated in the constructor of the View):
 
-<code class="lang-C#">
+```c#
 ViewModelLocator.SetAutoWireViewModel(this, true);
-<
-/code>
+```
 
 BTW: Brian Lagunas has written [a code sample to show how to change the default conventions](https://github.com/PrismLibrary/Prism-Samples-Wpf/blob/master/9-ChangeConvention/ViewModelLocator/Bootstrapper.cs) around `ViewModelLocator`.
 
@@ -89,35 +85,28 @@ BTW: Brian Lagunas has written [a code sample to show how to change the default 
 
 Like an animal, [I have written `GetInstance()` extension methods](https://github.com/BryanWilhite/Songhay.Mvvm/blob/master/Songhay.Mvvm/Extensions/IViewExtensions.cs) intended to be used to a View that needs to find its View Model in the IoC container Microsoft calls `ServiceLocator.Current`. So, when the View Model (say `IFooViewModel`) is instanced first I make this statement in the constructor of the View:
 
-<code class="lang-C#">
-this.GetInstance&lt;IFooViewModel&gt;();
-<
-/code>
+```c#
+this.GetInstance<IFooViewModel>();
+```
 
 Sometimes several View models are grouped in the IoC container under one interface (say `IEditorViewModel`). I can now use `nameof` to get the right View-Model instance for the right View.
 
-<code class="lang-C#">
-this.GetInstance&lt;IEditorViewModel&gt;($"{nameof(FooView)}Model");
-<
-/code>
+```c#
+this.GetInstance<IEditorViewModel>($"{nameof(FooView)}Model");
+```
 
 Or, to reduce performance for the sake of copy-and-paste, I have done this:
 
-<code class="lang-C#">
-this.GetInstance&lt;IEditorViewModel&gt;($"{this.GetType().Name}Model");
-<
-/code>
+```c#
+this.GetInstance<IEditorViewModel>($"{this.GetType().Name}Model");
+```
 
 And yes, my `GetInstance()` extension methods are based on `ServiceLocator.Current.GetInstance()` which has been considered for years [an anti-pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/). It has also been considered for years [*not* an anti-pattern](http://blog.gauffin.org/2012/09/service-locator-is-not-an-anti-pattern/).
 
 My only concerns are these:
 
-*
+- Injecting something like `IUnityContainer` into the constructor of a WPF View to avoid using `ServiceLocator.Current.GetInstance()` should break the Visual Studio design-time experience which has been dependent on a parameter-less constructor in every View.
 
-Injecting something like `IUnityContainer` into the constructor of a WPF View to avoid using `ServiceLocator.Current.GetInstance()` should break the Visual Studio design-time experience which has been dependent on a parameter-less constructor in every View.
-
-*
-
-My real-world experience with [strangulation](http://agilefromthegroundup.blogspot.com/2011/03/strangulation-pattern-of-choice-for.html) of some rather horrifying WPF applications absolutely requires the use of this anti-pattern when I use Prism to run legacy crap next to the new crap.
+- My real-world experience with [strangulation](http://agilefromthegroundup.blogspot.com/2011/03/strangulation-pattern-of-choice-for.html) of some rather horrifying WPF applications absolutely requires the use of this anti-pattern when I use Prism to run legacy crap next to the new crap.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

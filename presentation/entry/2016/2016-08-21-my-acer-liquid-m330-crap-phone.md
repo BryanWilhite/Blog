@@ -13,18 +13,24 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-08-21-my-acer-liquid-m330-crap-phone",
-  "tag": "{\r\n  \"extract\": \"The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&amp;T, I seized upon this phone as soon as I saw it on display in the Microsoft Store. This phone gives me ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&T, I seized upon this phone as soon as I saw it on display in the Microsoft Store. This phone gives me ...\"\r\n}"
 }
 ---
 
 # My Acer Liquid M330 ‘Crap’ Phone
 
-The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&amp;T, I seized upon this phone as soon as I saw it [on display in the Microsoft Store](https://www.microsoftstore.com/store/msusa/en_US/pdp/productID.335427600?icid=Windows_phone_ModC_AcerM330). This phone gives me the smallest display of Windows 10 I would ever want to see—and it gives me the occidental novelty of [the dual SIM](http://www.cnet.com/news/why-you-want-a-dual-sim-phone/). In spite of its low price, I would not touch this phone were it not for its compatibility with Ting.
+The ‘tiny’ Acer Liquid M330 is as close to a feature phone a Windows “smartphone” can get. In a fit of minimalist rage against the practices of AT&T, I seized upon this phone as soon as I saw it [on display in the Microsoft Store](https://www.microsoftstore.com/store/msusa/en_US/pdp/productID.335427600?icid=Windows_phone_ModC_AcerM330). This phone gives me the smallest display of Windows 10 I would ever want to see—and it gives me the occidental novelty of [the dual SIM](http://www.cnet.com/news/why-you-want-a-dual-sim-phone/). In spite of its low price, I would not touch this phone were it not for its compatibility with Ting.
 [<img alt="Acer M330" src="https://farm8.staticflickr.com/7635/27967529652_6f539e39f3_z_d.jpg">](https://www.flickr.com/photos/wilhite/27967529652/in/dateposted-public/ "Acer M330")
 
-I called the Microsoft Store in person to obtain its IMEI number:IMEI: 352922070668644I ran it through [the Ting BYOD form](https://ting.com/byod) and found success.
+I called the Microsoft Store in person to obtain its IMEI number:
 
-*Success* here is rather pathetic. With this phone, I have successfully found a lone mountain cabin in the woods to hole up in. I should have acted on this sooner as I have been paying AT&amp;T $160+ per month for two locked devices (a Lumina 1520 and 2520—the 2520 with an AT&amp;T data plan was a way to control my youngest children in the car). Now that my youngest children have their own iPhones there is no (emotional) need to stay shackled to the AT&amp;T Tree of Woe.
+```plaintext
+IMEI: 352922070668644
+```
+
+I ran it through [the Ting BYOD form](https://ting.com/byod) and found success.
+
+*Success* here is rather pathetic. With this phone, I have successfully found a lone mountain cabin in the woods to hole up in. I should have acted on this sooner as I have been paying AT&T $160+ per month for two locked devices (a Lumina 1520 and 2520—the 2520 with an AT&T data plan was a way to control my youngest children in the car). Now that my youngest children have their own iPhones there is no (emotional) need to stay shackled to the AT&T Tree of Woe.
 
 ## My “excuse” for staying with Windows Phone…
 

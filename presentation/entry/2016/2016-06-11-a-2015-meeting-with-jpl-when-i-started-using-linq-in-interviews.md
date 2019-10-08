@@ -31,21 +31,27 @@ So here is the first JPL question:
 
 </blockquote>
 
-This is my answer (written in LINQPad):Enumerable
+This is my answer (written in LINQPad):
+
+```c#
+Enumerable
     .Range(1, 100)
-    .Select(i =&gt;
+    .Select(i =>
     {
         string JPL = "JPL", NASA = "NASA";
 
-Func&lt;bool&gt; isMultipleOf3 = () =&gt; ((i % 3) == 0);
-        Func&lt;bool&gt; isMultipleOf5 = () =&gt; ((i % 5) == 0);
+Func<bool> isMultipleOf3 = () => ((i % 3) == 0);
+        Func<bool> isMultipleOf5 = () => ((i % 5) == 0);
 
 if(isMultipleOf3() &amp;&amp; isMultipleOf5()) return string.Format("{0} {1}", JPL, NASA);
         else if(isMultipleOf3()) return JPL;
         else if(isMultipleOf5()) return NASA;
         else return i.ToString();
     })
-    .Dump();This answer is an attempt to show the interviewers that I am interested in solving problems with a traditional imperative language—but I am using the functional programming aspects of this language. This is an effort to demonstrate my ability to find compromise between two worlds: the functional and the imperative.
+    .Dump();
+```
+
+This answer is an attempt to show the interviewers that I am interested in solving problems with a traditional imperative language—but I am using the functional programming aspects of this language. This is an effort to demonstrate my ability to find compromise between two worlds: the functional and the imperative.
 
 Next question:
 
@@ -55,17 +61,26 @@ Next question:
 
 </blockquote>
 
-The first issue is to flatten the tree structure. This can be done with recursion. In C#, we can define an extension method like this:public static IEnumerable&lt;TSource&gt; Flatten&lt;TSource&gt;(this IEnumerable&lt;TSource&gt; source, Func&lt;TSource, IEnumerable&lt;TSource&gt;&gt; childGetter)
+The first issue is to flatten the tree structure. This can be done with recursion. In C#, we can define an extension method like this:
+
+```c#
+public static IEnumerable<TSource> Flatten<TSource>(this IEnumerable<TSource> source, Func<TSource, IEnumerable<TSource>> childGetter)
 {
-    if (source == null) return Enumerable.Empty&lt;TSource&gt;();
-    var flattenedList = new List&lt;TSource&gt;(source);
-    source.ForEachInEnumerable(i =&gt;
+    if (source == null) return Enumerable.Empty<TSource>();
+    var flattenedList = new List<TSource>(source);
+    source.ForEachInEnumerable(i =>
     {
         var children = childGetter(i);
         if (children != null) flattenedList.AddRange(children.Flatten(childGetter));
     });
     return flattenedList;
-}I suppose with a near-infinite tree, we can use `Lazy&lt;TSource&gt;` instead of just `TSource` denoted above. `TSource` is, of course, the type of the tree structure. Let's say `TSource` is `MenuDisplayItemModel`:var tree = new []
+}
+```
+
+I suppose with a near-infinite tree, we can use `Lazy<TSource>` instead of just `TSource` denoted above. `TSource` is, of course, the type of the tree structure. Let's say `TSource` is `MenuDisplayItemModel`:
+
+```c#
+var tree = new []
 {
     new MenuDisplayItemModel
     {
@@ -87,7 +102,10 @@ The first issue is to flatten the tree structure. This can be done with recursio
     },
     new MenuDisplayItemModel { ItemName = "item-1-2" },
 };
-tree.Flatten(i =&gt; i.ChildItems).Select(i =&gt;i.ItemName).Dump();The folks interviewing me at JPL were ‘too impressed’ with what I am trying to do here—‘impressed’ with the answer to the first question but the second question is incomplete (I really did not handle the “infinite” nature of the data source—some kind of read-only, forward-only, paging deal? I crammed too much into this Microsoft-specific `Lazy&lt;T&gt;` thing…). They responded to my work with questions about whether my fellow, JPL coworkers would understand the “style” of programming here. This reaction told me that functional programming was not a “thing” with these interviewers—in addition to their non-investment in Microsoft. The JPL job I applied for was specified as an ASP.NET MVC job—but when you actually look at what web technology is currently in play (and when you ask about the history) you should find very little Microsoft-based work.
+tree.Flatten(i => i.ChildItems).Select(i =>i.ItemName).Dump();
+```
+
+The folks interviewing me at JPL were ‘too impressed’ with what I am trying to do here—‘impressed’ with the answer to the first question but the second question is incomplete (I really did not handle the “infinite” nature of the data source—some kind of read-only, forward-only, paging deal? I crammed too much into this Microsoft-specific `Lazy<T>` thing…). They responded to my work with questions about whether my fellow, JPL coworkers would understand the “style” of programming here. This reaction told me that functional programming was not a “thing” with these interviewers—in addition to their non-investment in Microsoft. The JPL job I applied for was specified as an ASP.NET MVC job—but when you actually look at what web technology is currently in play (and when you ask about the history) you should find very little Microsoft-based work.
 
 This interview was the first time I took the opportunity to use LINQ. I plan to take this opportunity again and again. I prefer to openly celebrate the relative freedom of using LINQPad on the fly (over working more formally in Visual Studio). This flagrant preference of mine will not work in all situations:
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-10-21-jupyter-central",
-  "tag": "{\r\n  \"extract\": \"I am sure there are many reasons why Span&lt;T&gt; (and Memory&lt;T&gt;) was introduced to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and t...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"I am sure there are many reasons why Span<T> (and Memory<T>) was introduced to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and t...\"\r\n}"
 }
 ---
 
@@ -21,9 +21,9 @@
 
 [<img alt="The Algorithm Design Manual" src="https://images-na.ssl-images-amazon.com/images/I/515GcxK1FFL.jpg" style="float:right;margin:16px;">](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1848000693)
 
-I am sure there are many reasons why `Span&lt;T&gt;` (and `Memory&lt;T&gt;`) was [introduced](https://channel9.msdn.com/Events/Connect/2017/T125) to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and the ease of handling gigantic chunks of in-memory data in Python in particular.
+I am sure there are many reasons why `Span<T>` (and `Memory<T>`) was [introduced](https://channel9.msdn.com/Events/Connect/2017/T125) to the .NET Framework. To me, these C# language features are a response to the dangerous (and tedious) supremacy of handling data in unmanaged memory in general and the ease of handling gigantic chunks of in-memory data in Python in particular.
 
-My interest in Python goes back to [my attraction to Blender 3D](https://www.blender.org/features/scripting/) but the active use of Python really got going for me with my discovery of [jupyter notebooks](http://jupyter.org/try). In the same flippant manner that I regard `Span&lt;T&gt;` (and `Memory&lt;T&gt;`) as response to what has been in enjoyed in Python (inter-operating with unmanaged libraries) for years, jupyter notebooks are an open-source response to commercial [Mathematica notebooks](http://www.wolfram.com/technologies/nb/).
+My interest in Python goes back to [my attraction to Blender 3D](https://www.blender.org/features/scripting/) but the active use of Python really got going for me with my discovery of [jupyter notebooks](http://jupyter.org/try). In the same flippant manner that I regard `Span<T>` (and `Memory<T>`) as response to what has been in enjoyed in Python (inter-operating with unmanaged libraries) for years, jupyter notebooks are an open-source response to commercial [Mathematica notebooks](http://www.wolfram.com/technologies/nb/).
 
 ## jupyter notebooks online
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-02-09-using-swashbuckle-to-generate-arbitrary-xml-example-values",
-  "tag": "{\r\n  \"extract\": \"These notes follow a previous entry, “Using Swashbuckle to Support Swaggerfied XML Production and Consumption,” continuing to challenge of producing Swagger UI output like this:and this:The way this is done is by building a new Swashbuckle.Swagger.Schema...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"These notes follow a previous entry, “Using Swashbuckle to Support Swaggerfied XML Production and Consumption,” continuing to challenge of producing Swagger UI output like this: and this: The way this is done is by building a new Swashbuckle.Swagger.Schema...\"\r\n}"
 }
 ---
 
@@ -39,7 +39,8 @@ The way this is done is by building a new [`Swashbuckle.Swagger.Schema`](https:/
 
 I have centralized this code in extension methods. So, for `consumes`, I have this extension method:
 
-<code class="lang-c#">public static Parameter WithAbbreviatedSchema(this Parameter parameter)
+```c#
+public static Parameter WithAbbreviatedSchema(this Parameter parameter)
 {
     if (parameter == null) return null;
     if (parameter.schema == null) return null;
@@ -48,12 +49,12 @@ parameter.schema.SetAbbreviatedSchema(isConsumingSchema: true);
 
 return parameter;
 }
-<
-/code>
+```
 
 For `produces`, I have:
 
-<code class="lang-c#">public static Response WithAbbreviatedSchema(this Response response)
+```c#
+public static Response WithAbbreviatedSchema(this Response response)
 {
     if (response == null) return null;
     if (response.schema == null) response.schema = new Schema();
@@ -62,25 +63,25 @@ response.schema.SetAbbreviatedSchema(isConsumingSchema: false);
 
 return response;
 }
-<
-/code>
+```
 
 This simple pattern I am showing leads to, “What the hell is `SetAbbreviatedSchema()`?” Here is the answer:
 
-<code class="lang-c#">public static void SetAbbreviatedSchema(this Schema schema, bool isConsumingSchema)
+```c#
+public static void SetAbbreviatedSchema(this Schema schema, bool isConsumingSchema)
 {
     if (schema == null) return;
 
-var oneSpace = " ";
-    var sendingPartyId = isConsumingSchema ? "CONSUMING_MODE" : "PRODUCING_MODE";
-    var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
+    var oneSpace = " ";
+        var sendingPartyId = isConsumingSchema ? "CONSUMING_MODE" : "PRODUCING_MODE";
+        var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
 
-schema.properties = new Dictionary&lt;string, Schema&gt; {
+    schema.properties = new Dictionary<string, Schema> {
         {
             "HEADER",
             new Schema
             {
-                properties = new Dictionary&lt;string, Schema&gt;
+                properties = new Dictionary<string, Schema>
                 {
                     { "PROPERTY_ONE", new Schema { type = "string", example = sendingPartyId } },
                     { "PROPERTY_TWO", new Schema { type = "string", example = oneSpace } },
@@ -93,7 +94,7 @@ schema.properties = new Dictionary&lt;string, Schema&gt; {
             "BODY",
             new Schema
             {
-                properties = new Dictionary&lt;string, Schema&gt;
+                properties = new Dictionary<string, Schema>
                 {
                     { "PROPERTY_ONE", new Schema { type = "string", example = oneSpace } },
                     { "PROPERTY_TWO", new Schema { type = "string", example = oneSpace } },
@@ -105,24 +106,24 @@ schema.properties = new Dictionary&lt;string, Schema&gt; {
     schema.title = topLevelTitle;
     schema.type = "object";
 }
-<
-/code>
+```
 
 All of these extension methods are wonderful but Swashbuckle will ignore all of this work for `consumes` unless we make sure that `Parameter.schema.@ref` is set to `null`. This, for me, leads to a final extension method:
 
-<code class="lang-c#">public static Parameter WitNullSchemaReference(this Parameter parameter)
+```c#
+public static Parameter WitNullSchemaReference(this Parameter parameter)
 {
     if (parameter == null) return null;
     if (parameter.schema == null) return null;
     parameter.schema.@ref = null;
     return parameter;
 }
-<
-/code>
+```
 
 We can now return to the implementation of `IOperationFilter`, `SwaggerContentTypeOperationFilter`, from [my previous post](http://songhayblog.azurewebsites.net/entry/using-swashbuckle-to-support-swaggerfied-xml-production-and-consumption) with its `ApplyConsumption()` method:
 
-<code class="lang-c#">static void ApplyConsumption(SwaggerContentTypeAttribute swaggerAttribute, Parameter swaggerParameter)
+```c#
+static void ApplyConsumption(SwaggerContentTypeAttribute swaggerAttribute, Parameter swaggerParameter)
 {
     switch (swaggerAttribute.Tag)
     {
@@ -131,12 +132,12 @@ We can now return to the implementation of `IOperationFilter`, `SwaggerContentTy
             break;
     }
 }
-<
-/code>
+```
 
 and its `ApplyProduction()` method:
 
-<code class="lang-c#">static void ApplyProduction(SwaggerContentTypeAttribute swaggerAttribute, Operation operation)
+```c#
+static void ApplyProduction(SwaggerContentTypeAttribute swaggerAttribute, Operation operation)
 {
     Response okResponse = null;
 
@@ -151,14 +152,13 @@ switch (swaggerAttribute.Tag)
 
 if (okResponse != null) operation.responses.Add(okResponse.To200Pair());
 }
-<
-/code>
+```
 
 Now, for the question, “What is going on with that `topLevelTitle` variable in `SetAbbreviatedSchema()`?” This question refers to this (shown above):
 
-<code class="lang-c#">var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
-<
-/code>
+```c#
+var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
+```
 
 This line is a hack to get around the current situation with Swagger/Swashbuckle where `Schema` definitions are considered duplicates when they have the same `Schema.title`.
 

@@ -45,16 +45,18 @@ In our terrifying code sample above we can see that `MyNumericProperty` has a fa
 
 My years of experience with building XAML applications saw *no* need for calling `RaisePropertyChanged()` outside of its setter. This means that my bind-able properties always look like this:
 
+```c#
 public long MyNumericProperty
+{
+    get { return this._myNumericProperty; }
+    set
     {
-        get { return this._myNumericProperty; }
-        set
-        {
-            this._myNumericProperty = value;
-            base.
-    RaisePropertyChanged("MyNumericProperty")
-        }
+        this._myNumericProperty = value;
+        base.
+RaisePropertyChanged("MyNumericProperty")
     }
+}
+```
 
 This implies that in order to call `RaisePropertyChanged("MyNumericProperty")` I have to set its corresponding property explicitly. It also follows that any calls to `MyLongRunningOperation()` have to be clearly defined in the right space (and time) in the View Model. These self-imposed constraints demand that `RaisePropertyChanged("MyNumericProperty")` be called only once but we may see lines like the following several times:
 

@@ -23,7 +23,27 @@
 
 This decision *not* to move to 4.6.x is based on the idea of moving to the latest version of .NET that is at least two years old.
 
-In order to force NuGet package re-installs on a mass scale, I’ve written this in the Package Manager Console:Get-Project -All | Where-Object { $_.Name -match "Songhay.BiggestBox.Desktop" } | ForEach-Object { Update-Package Microsoft.Bcl -ProjectName $_.Name -Reinstall }Another little trick is piling up packages in a PowerShell array and reinstalling:("CommonServiceLocator","Microsoft.Bcl.Build","Prism.Composition","Prism.Mvvm") | ForEach-Object { Update-Package $_ –Reinstall –ProjectName Songhay.BiggestBox.Desktop.Shared }When you want to reinstall all of the packages in a Project try this:Get-Package -ProjectName Songhay.DataAccess.Tests | ForEach-Object { Update-Package $_.Id -Reinstall -ProjectName Songhay.DataAccess.Tests }Now, this one searches all projects looking to reinstall `EntityFramework`:Get-Project -All | ForEach-Object { Get-Package -ProjectName $_.ProjectName | Where-Object { $_.Id -eq "EntityFramework" } | ForEach-Object { Update-Package $_.Id -Reinstall } }Why do these spit out `No packages installed.`?
+In order to force NuGet package re-installs on a mass scale, I’ve written this in the Package Manager Console:
+
+```powershell
+Get-Project -All | Where-Object { $_.Name -match "Songhay.BiggestBox.Desktop" } | ForEach-Object { Update-Package Microsoft.Bcl -ProjectName $_.Name -Reinstall }
+```
+
+Another little trick is piling up packages in a PowerShell array and reinstalling:
+
+```powershell
+("CommonServiceLocator","Microsoft.Bcl.Build","Prism.Composition","Prism.Mvvm") | ForEach-Object { Update-Package $_ –Reinstall –ProjectName Songhay.BiggestBox.Desktop.Shared }When you want to reinstall all of the packages in a Project try this:
+
+Get-Package -ProjectName Songhay.DataAccess.Tests | ForEach-Object { Update-Package $_.Id -Reinstall -ProjectName Songhay.DataAccess.Tests }
+```
+
+Now, this one searches all projects looking to reinstall `EntityFramework`:
+
+```powershell
+Get-Project -All | ForEach-Object { Get-Package -ProjectName $_.ProjectName | Where-Object { $_.Id -eq "EntityFramework" } | ForEach-Object { Update-Package $_.Id -Reinstall } }
+```
+
+Why do these spit out `No packages installed.`?
 
 Searching the entire solution for `targetFramework="net45"` shows me where packages were not updated to `net452` in the **Manage NuGet Packages for Solution…** GUI.
 

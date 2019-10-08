@@ -24,14 +24,10 @@ My desire to make my notes public and still useful (to me) led me to embedding C
 The solution to this problem is in [my Code Pen](http://codepen.io/rasx/pen/xGaXrN) below:
 
 <!-- cSpell:disable -->
-
 <iframe height="265" style="width: 100%;" scrolling="no" title="Embedding Code Pen and GitHub Content in an Angular Template" src="https://codepen.io/rasx/embed/xGaXrN?height=265&theme-id=0&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-
 See the Pen <a href='https://codepen.io/rasx/pen/xGaXrN'>Embedding Code Pen and GitHub Content in an Angular Template</a> by Bryan Wilhite
   (<a href='https://codepen.io/rasx'>@rasx</a>) on <a href='https://codepen.io'>CodePen</a>.
-
 </iframe>
-
 <!-- cSpell:enable -->
 
 See the Pen [Embedding Code Pen and GitHub Content in an Angular Template](http://codepen.io/rasx/pen/xGaXrN/) by Bryan Wilhite ([@rasx](http://codepen.io/rasx)) on [CodePen](http://codepen.io).
