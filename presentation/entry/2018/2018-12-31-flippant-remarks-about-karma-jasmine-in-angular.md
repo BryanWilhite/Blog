@@ -42,7 +42,7 @@ import { MyComponent } from './my.component';
 
 describe('MyComponent', () => {
     let component: MyComponent;
-    let fixture: ComponentFixture&lt;MyComponent>;
+    let fixture: ComponentFixture<MyComponent>;
 
 beforeEach(async(() => {
     TestBed.configureTestingModule({
@@ -70,9 +70,7 @@ One way to easily be confused by the Karma-Jasmine combo is not really, really u
 The auto-generated test above might be for a component with an HTML file like this:
 
 ```html
-<div class="sourceCode" id="cb2">
-
-<code class="sourceCode html">[<span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">"css-class"</span><span class="kw">></span>]()[<span class="kw">&lt;app-my-child</span><span class="ot"> [prop1]=</span><span class="st">"foo.bar"</span><span class="ot"> [prop2]=</span><span class="st">"fuBar.prop3"</span><span class="kw">>&lt;/app-my-child></span>]()[<span class="kw">&lt;/div></span>]()</code>
+<span class="kw"><div</span><span class="ot"> class=</span><span class="st">"css-class"</span><span class="kw">></span>]()<span class="kw"><app-my-child</span><span class="ot"> [prop1]=</span><span class="st">"foo.bar"</span><span class="ot"> [prop2]=</span><span class="st">"fuBar.prop3"</span><span class="kw">></app-my-child></span>]()[<span class="kw"></div></span>]()</code>
 
 </div>
 ```
@@ -97,7 +95,7 @@ import { MyComponent } from './my.component';
 
 describe(MyComponent.name, () => {
     let component: MyComponent;
-    let fixture: ComponentFixture&lt;MyComponent>;
+    let fixture: ComponentFixture<MyComponent>;
 
 beforeEach(async(() => {
     TestBed.configureTestingModule({
@@ -162,30 +160,30 @@ import { MyComponent } from './my.component';
 
 describe(MyComponent.name, () => {
     let component: MyComponent;
-    let fixture: ComponentFixture&lt;MyComponent>;
+    let fixture: ComponentFixture<MyComponent>;
 
-beforeEach(async(() => {
-    TestBed.configureTestingModule({
-        declarations: [ MyComponent ],
-        schemas: [ NO_ERRORS_SCHEMA ]
-    })
-    .overrideComponent(MyComponent, {
-        set: { providers: [ { provide: FooService, useValue: null } ] }
-    })
-    .compileComponents();
+    beforeEach(async(() => {
+        TestBed.configureTestingModule({
+            declarations: [ MyComponent ],
+            schemas: [ NO_ERRORS_SCHEMA ]
+        })
+        .overrideComponent(MyComponent, {
+            set: { providers: [ { provide: FooService, useValue: null } ] }
+        })
+        .compileComponents();
     }));
 
-beforeEach(() => {
-    fixture = TestBed.createComponent(MyComponent);
-    component = fixture.componentInstance;
+    beforeEach(() => {
+        fixture = TestBed.createComponent(MyComponent);
+        component = fixture.componentInstance;
 
-component.fuBar = { prop3: null };
+        component.fuBar = { prop3: null };
 
-fixture.detectChanges();
+        fixture.detectChanges();
     });
 
-it('should create', () => {
-    expect(component).toBeTruthy();
+    it('should create', () => {
+        expect(component).toBeTruthy();
     });
 });
 ```
@@ -203,31 +201,31 @@ import { MyComponent } from './my.component';
 describe(MyComponent.name, () => {
     const fooService = { bar: null };
 
-let component: MyComponent;
-    let fixture: ComponentFixture&lt;MyComponent>;
+    let component: MyComponent;
+        let fixture: ComponentFixture<MyComponent>;
 
-beforeEach(async(() => {
-    TestBed.configureTestingModule({
-        declarations: [ MyComponent ],
-        schemas: [ NO_ERRORS_SCHEMA ]
-    })
-    .overrideComponent(MyComponent, {
-        set: { providers: [ { provide: FooService, useValue: fooService } ] }
-    })
-    .compileComponents();
+    beforeEach(async(() => {
+        TestBed.configureTestingModule({
+            declarations: [ MyComponent ],
+            schemas: [ NO_ERRORS_SCHEMA ]
+        })
+        .overrideComponent(MyComponent, {
+            set: { providers: [ { provide: FooService, useValue: fooService } ] }
+        })
+        .compileComponents();
     }));
 
-beforeEach(() => {
-    fixture = TestBed.createComponent(MyComponent);
-    component = fixture.componentInstance;
+    beforeEach(() => {
+        fixture = TestBed.createComponent(MyComponent);
+        component = fixture.componentInstance;
 
-component.fuBar = { prop3: null };
+        component.fuBar = { prop3: null };
 
-fixture.detectChanges();
+        fixture.detectChanges();
     });
 
-it('should create', () => {
-    expect(component).toBeTruthy();
+    it('should create', () => {
+        expect(component).toBeTruthy();
     });
 });
 ```
@@ -247,36 +245,36 @@ describe(MyComponent.name, () => {
     const fooService = jasmine.createSpyObj(FooService.Name, [loadBarMethodName]);
     fooService.bar = null;
 
-let component: MyComponent;
-    let fixture: ComponentFixture&lt;MyComponent>;
+    let component: MyComponent;
+        let fixture: ComponentFixture<MyComponent>;
 
-beforeEach(async(() => {
-    TestBed.configureTestingModule({
-        declarations: [ MyComponent ],
-        schemas: [ NO_ERRORS_SCHEMA ]
-    })
-    .overrideComponent(MyComponent, {
-        set: { providers: [ { provide: FooService, useValue: fooService } ] }
-    })
-    .compileComponents();
+    beforeEach(async(() => {
+        TestBed.configureTestingModule({
+            declarations: [ MyComponent ],
+            schemas: [ NO_ERRORS_SCHEMA ]
+        })
+        .overrideComponent(MyComponent, {
+            set: { providers: [ { provide: FooService, useValue: fooService } ] }
+        })
+        .compileComponents();
     }));
 
-beforeEach(() => {
-    fixture = TestBed.createComponent(MyComponent);
-    component = fixture.componentInstance;
+    beforeEach(() => {
+        fixture = TestBed.createComponent(MyComponent);
+        component = fixture.componentInstance;
 
-fooService[loadBarMethodName].calls.reset();
-    component.fuBar = { prop3: null };
+        fooService[loadBarMethodName].calls.reset();
+        component.fuBar = { prop3: null };
 
-fixture.detectChanges();
+        fixture.detectChanges();
     });
 
-it('should create', () => {
-    expect(component).toBeTruthy();
+    it('should create', () => {
+        expect(component).toBeTruthy();
     });
 
-it(`should call ${loadBarMethodName}`, () => {
-    expect(fooService[loadBarMethodName].calls.count()).toBe(1, 'The expected number of service calls is not here.');
+    it(`should call ${loadBarMethodName}`, () => {
+        expect(fooService[loadBarMethodName].calls.count()).toBe(1, 'The expected number of service calls is not here.');
     });
 
 });
@@ -289,11 +287,7 @@ In typescript, `fooService` will be of type `any`. So, when we see the `calls` o
 Had our HTML been like this:
 
 ```html
-<div class="sourceCode" id="cb10">
-
-<code class="sourceCode html">[<span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">"css-class"</span><span class="kw">></span>]()[<span class="kw">&lt;app-my-child</span><span class="ot"> [prop1]=</span><span class="st">"foo?.bar"</span><span class="ot"> [prop2]=</span><span class="st">"fuBar?.prop3"</span><span class="kw">>&lt;/app-my-child></span>]()[<span class="kw">&lt;/div></span>]()</code>
-
-</div>
+<div class="css-class"><app-my-child prop1]="foo?.bar" prop2="fuBar?.prop3"></app-my-child></div>
 ```
 
 We could have avoided writing these lines of spec code:
@@ -308,7 +302,7 @@ The use the Elvis operator has some issues with async in bindings, see “[The A
 
 ## the ‘right’ way to initialize `@Input` values
 
-In my example above, you see me explicitly setting the value of `fuBar`. To test whether `@Input` is working (which is kind of like testing something that belongs to the Angular team) we can set up a mock component to host `MyComponent`. This is detailed in “<span class="citation" data-cites="Input">[Testing Angular components with @Input()]</span>(https://medium.com/<span class="citation" data-cites="AikoPath/testing-angular-components-with-input-3bd6c07cfaf6">@AikoPath/testing-angular-components-with-input-3bd6c07cfaf6</span>)” by Aiko Klostermann of Thoughtworks.
+In my example above, you see me explicitly setting the value of `fuBar`. To test whether `@Input` is working (which is kind of like testing something that belongs to the Angular team) we can set up a mock component to host `MyComponent`. This is detailed in “[Testing Angular components with @Input()](https://medium.com/@AikoPath/testing-angular-components-with-input-3bd6c07cfaf6)” by Aiko Klostermann of Thoughtworks.
 
 ## using formal mocks
 
@@ -316,8 +310,8 @@ I am very, very certain that Angular team does not recommend constructing a mock
 
 ```typescript
 const loadBarMethodName = 'loadBar';
-        const fooService = jasmine.createSpyObj(FooService.Name, [loadBarMethodName]);
-        fooService.bar = null;
+const fooService = jasmine.createSpyObj(FooService.Name, [loadBarMethodName]);
+fooService.bar = null;
 ```
 
 I find this helpful when I am *not* repeating myself in multiple `*.spec.ts` files and it is less intimidating to first-time Jasmine writers.
@@ -332,8 +326,8 @@ When a test for a service is generated (with `ng generate service` [[docs](https
 
 ```typescript
 it('should be created', inject([MyService], (service: MyService) => {
-          expect(service).toBeTruthy();
-        }));
+    expect(service).toBeTruthy();
+}));
 ```
 
 The other difference is that you cannot use `overrideComponent` for a service spec; set `providers` in `configureTestingModule`:

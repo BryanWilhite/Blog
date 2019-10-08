@@ -25,7 +25,8 @@ scriptcs is useful to me when it just works on Windows *and* Linux. I understand
 
 **The current scriptcs release has no concept of “present working directory.”** Glenn (?) let me know [via @scriptcsnet](https://twitter.com/scriptcsnet/status/822746581761859584) that “it’s coming in 0.17.0, avail in our dev branch…” I wrote a workaround that Glenn is *not* impressed with `EnvironmentUtilities.GetScriptFolder()`, interrogating command-line arguments:
 
-<code class="lang-c#">using System.IO;
+```c#
+using System.IO;
 public static class EnvironmentUtilities
 {
     public static void ExitWithError(string errorMessage, int errorNumber=1)
@@ -54,12 +55,12 @@ public static class EnvironmentUtilities
         return folder;
     }
 }
-<
-/code>
+```
 
 **The current scriptcs release cannot handle NuGet 3.x.** Glenn informed me [via @scriptcsnet](https://twitter.com/scriptcsnet/status/824083354249105412) that a fix for this should be on the dev branch. This issue exists for me on both Windows and Linux (and I am using the dev branch on Linux.) I have a horrible workaround for this that involves raiding NuGet package folders (under C# projects) for .NET Standard-ish DLLs and shoving them into a `\scriptcs-bin` folder, allowing me to use the Rosyln-derived `#r` directive. Here is my ‘loader’ script, chock full of these directives:
 
-<code class="lang-c#">#r "Newtonsoft.Json.dll"
+```c#
+#r "Newtonsoft.Json.dll"
 #r "System.IO"
 #r "System.Runtime.dll"
 #r "Markdig.dll"
@@ -69,40 +70,39 @@ public static class EnvironmentUtilities
 var csxRoot = EnvironmentUtilities.GetScriptFolder();
 var pubContext = new PublicationContext(csxRoot);
 pubContext.GenerateChapters();
-<
-/code>
+```
 
 **scriptcs or Rosyln cannot properly parse classes with private members on Linux.** A class as simple as the following will not ‘compile’ (or interpret) properly on Linux:
 
-<code class="lang-c#">public class Foo
+```c#
+public class Foo
 {
     public string Fubar { get; set; }
     string _foo;
 }
-<
-/code>
+```
 
 I kept getting an `ArgumentOutOfRangeException` error message that can easily make one think of a simple runtime array index problem. But the catch is the error throws during initialization/interpretation time (which suggests to me that Rosyln is having trouble parsing something).
 
 I saw the error go away when I did this:
 
-<code class="lang-c#">public class Foo
+```c#
+public class Foo
 {
     public string Fubar { get; set; }
     internal string _foo;
 }
-<
-/code>
+```
 
 but *not* this:
 
-<code class="lang-c#">public class Foo
+```c#
+public class Foo
 {
     public string Fubar { get; set; }
     private string _foo;
 }
-<
-/code>
+```
 
 I want to say that the Rosyln I am using on Linux is from mono.
 

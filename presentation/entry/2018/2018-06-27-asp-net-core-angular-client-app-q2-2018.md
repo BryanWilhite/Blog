@@ -41,37 +41,35 @@ The `dotnet new` command for angular adds these elements to the first `PropertyG
 
 Following these declarations, is this `ItemGroup`:
 
-<div class="sourceCode" id="cb2">
-
-<code class="sourceCode xml">[<span class="kw">&lt;ItemGroup&gt;</span>]()[<span class="co">&lt;!-- Don't publish the SPA source files, but do show them in the project files list --&gt;</span>]()[<span class="kw">&lt;Content</span><span class="ot"> Remove=</span><span class="st">"$(SpaRoot)**"</span><span class="kw">/&gt;</span>]()[<span class="kw">&lt;None</span><span class="ot"> Include=</span><span class="st">"$(SpaRoot)**"</span><span class="ot"> Exclude=</span><span class="st">"$(SpaRoot)node_modules\**"</span><span class="kw">/&gt;</span>]()[<span class="kw">&lt;/ItemGroup&gt;</span>]()</code>
-
-</div>
+```xml
+<ItemGroup>
+  <!-- Don't publish the SPA source files, but do show them in the project files list -->
+  <Content Remove="$(SpaRoot)**"/>
+  <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**"/>
+</ItemGroup>]()
+```
 
 Finally, two `Target` elements are declared:
 
-* `&lt;Target Name="DebugEnsureNodeEnv"…`
-* `&lt;Target Name="PublishRunWebpack"…`
+* `<Target Name="DebugEnsureNodeEnv"…`
+* `<Target Name="PublishRunWebpack"…`
 
 ## the `ClientApp` under the `SpaRoot`
 
 The XML declarations in the `*.csproj` file make several references to the `SpaRoot` (single-page application root). The `SpaRoot` declaration refers to a folder called `ClientApp`:
 
-<div class="sourceCode" id="cb3">
-
-<code class="sourceCode xml">[<span class="kw">&lt;SpaRoot&gt;</span>ClientApp\<span class="kw">&lt;/SpaRoot&gt;</span>]()</code>
-
-</div>
+```xml
+<SpaRoot>ClientApp\</SpaRoot>
+```
 
 The `ClientApp` folder sits outside of (next to) the `\wwwroot` folder but the `IServiceCollection.AddSpaStaticFiles()` call generated in `Startup.cs` clearly states that `ClientApp/dist` folder will be exposed to the live server just like the conventions around `\wwwroot`.
 
-The `&lt;Target Name="PublishRunWebpack"…` declaration in `*.csproj` refers to `$(SpaRoot)dist\` (and `$(SpaRoot)dist-server\`) which leads back to `ClientApp/dist`.
+The `<Target Name="PublishRunWebpack"…` declaration in `*.csproj` refers to `$(SpaRoot)dist\` (and `$(SpaRoot)dist-server\`) which leads back to `ClientApp/dist`.
 
 This arrangement completely separates the contents of `ClientApp` from the rest of the Visual Studio “world” around it. The aforementioned `DefaultItemExcludes` declaration in `*.csproj` prevents Visual Studio from “reaching” into `ClientApp`:
 
-<div class="sourceCode" id="cb4">
-
-<code class="sourceCode xml">[<span class="kw">&lt;DefaultItemExcludes&gt;</span>$(DefaultItemExcludes);$(SpaRoot)node_modules\**<span class="kw">&lt;/DefaultItemExcludes&gt;</span>]()</code>
-
-</div>
+```xml
+<DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
+```
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

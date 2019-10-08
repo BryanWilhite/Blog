@@ -61,32 +61,33 @@ My renewed interest in Sway was announced [in a month-5 tweet](https://twitter.c
 
 ## how to download an MP3 file from Azure BLOB Storage with ASP.NET Core 2.2
 
-<div class="sourceCode">
-
-<code class="sourceCode cs"><span class="co">/// </span><span class="kw">&lt;summary&gt;</span><span class="co">/// Gets the presentation BLOB for progressive audio.</span><span class="co">/// </span><span class="kw">&lt;/summary&gt;</span><span class="co">/// </span><span class="kw">&lt;param</span><span class="ot"> name=</span><span class="dt">"presentationKey"</span><span class="kw">&gt;</span><span class="co">The presentation key.</span><span class="kw">&lt;/param&gt;</span><span class="co">/// </span><span class="kw">&lt;param</span><span class="ot"> name=</span><span class="dt">"subFolder"</span><span class="kw">&gt;</span><span class="co">The sub folder.</span><span class="kw">&lt;/param&gt;</span><span class="co">/// </span><span class="kw">&lt;param</span><span class="ot"> name=</span><span class="dt">"blobName"</span><span class="kw">&gt;</span><span class="co">Name of the BLOB.</span><span class="kw">&lt;/param&gt;</span><span class="co">/// </span><span class="kw">&lt;returns&gt;&lt;</span><span class="ot">/returns</span><span class="kw">&gt;</span>
+```c#
+/// <summary>
+/// Gets the presentation BLOB for progressive audio.
+/// </summary>
+/// <param name="presentationKey">The presentation key.</param>
+/// <param name="subFolder">The sub folder.</param>
+/// <param name="blobName">Name of the BLOB.</param>
+/// <returns></returns>
 [HttpGet]
-[<span class="fu">Route</span>(<span class="st">"audio/{presentationKey}/{subFolder}/{blobName}"</span>)]
-<
-span class="kw">public</span> async Task&lt;IActionResult&gt; <span class="fu">GetPresentationBlobForProgressiveAudio</span>(<span class="dt">string</span> presentationKey, <span class="dt">string</span> subFolder, <span class="dt">string</span> blobName)
+[Route("audio/{presentationKey}/{subFolder}/{blobName}")]
+public async Task<IActionResult> GetPresentationBlobForProgressiveAudio(string presentationKey, string subFolder, string blobName)
 {
-            <span class="dt">var</span> repo = <span class="kw">this</span>._blobRepositoryForProgressiveAudioContent;
-            <span class="dt">var</span> id = repo.<span class="fu">GetPresentationBlobId</span>(presentationKey, subFolder, blobName);
-            <span class="dt">var</span> result = await repo.<span class="fu">GetBlobAsync</span>(id);
-            <span class="kw">if</span> (result?.<span class="fu">BlobStream</span> == <span class="kw">null</span>) <span class="kw">return</span><span class="kw">this</span>.<span class="fu">NotFound</span>();
-            <span class="kw">if</span> (result.<span class="fu">BlobStream</span>.<span class="fu">Position</span> &gt; <span class="dv">0</span>) result.<span class="fu">BlobStream</span>.<span class="fu">Seek</span>(<span class="dv">0</span>, SeekOrigin.<span class="fu">Begin</span>);
+  var repo = this._blobRepositoryForProgressiveAudioContent;
+  var id = repo.GetPresentationBlobId(presentationKey, subFolder, blobName);
+  var result = await repo.GetBlobAsync(id);
+  if (result?.BlobStream == null) return this.NotFound();
+  if (result.BlobStream.Position > 0) result.BlobStream.Seek(0, SeekOrigin.Begin);
 
-<span class="kw">return</span><span class="kw">this</span>.<span class="fu">File</span>(result.<span class="fu">BlobStream</span>, result.<span class="fu">BlobContentType</span>, result.<span class="fu">BlobFileName</span>);
-}</code>
-
-</div>
+  return this.File(result.BlobStream, result.BlobContentType, result.BlobFileName);
+}
+```
 
 The most important line here is:
 
-<div class="sourceCode">
-
-<code class="sourceCode cs"><span class="kw">if</span> (result.<span class="fu">BlobStream</span>.<span class="fu">Position</span> &gt; <span class="dv">0</span>) result.<span class="fu">BlobStream</span>.<span class="fu">Seek</span>(<span class="dv">0</span>, SeekOrigin.<span class="fu">Begin</span>);</code>
-
-</div>
+```c#
+if (result.BlobStream.Position > 0) result.BlobStream.Seek(0, SeekOrigin.Begin);
+```
 
 Without this line, a file of 0-bytes will be saved by callers of this API.
 

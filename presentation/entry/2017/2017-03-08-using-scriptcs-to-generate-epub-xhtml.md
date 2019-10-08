@@ -31,7 +31,7 @@ My EPUB pipeline starts with an EPUB “seed” based on the handmade set of fil
 
 My scriptcs approach therefore is a combination of reading and editing the EPUB seed using publication metadata in a JSON file and a collection of XHTML templates. This automation starts with `generate-epub.csx`, intending to summarize the automation:
 
-<code class="lang-c#">
+```c#
 #load "scriptcs-epub-utility.csx"
 #load "scriptcs-environment-utility.csx"
 #load "scriptcs-markdown-utility.csx"
@@ -56,8 +56,7 @@ pubContext.WriteBiography();
 pubContext.WriteDedication();
 
 Console.WriteLine("End of script.");
-<
-/code>
+```
 
 The screenshot below shows the layout of the EPUB assets (along with the print-publication assets) with respect to `generate-epub.csx` (in the `\scriptcs` folder) in my free, *private* Git repository hosted by Microsoft:
 
