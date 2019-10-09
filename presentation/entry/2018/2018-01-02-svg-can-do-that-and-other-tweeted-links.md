@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-01-02-svg-can-do-that-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"SVG can do that? [slides.com] Nrwl Extensions for @Angular[nrwl.io] my first production-intended @angular application with its first, feature-complete view 🎁☂️💄🧐 &lt;= @Meligy… [twitter.com] WordPress is not [wordpress.com][wpisnotwp.com] Why Personal...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"SVG can do that? [slides.com] Nrwl Extensions for @Angular[nrwl.io] my first production-intended @angular application with its first, feature-complete view 🎁☂️💄🧐 <= @Meligy… [twitter.com] WordPress is not [wordpress.com][wpisnotwp.com] Why Personal...\"\r\n}"
 }
 ---
 
@@ -23,7 +23,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Nrwl Extensions for [@Angular](http://twitter.com/Angular)[[nrwl.io]](https://nrwl.io/nx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") my first production-intended [@angular](http://twitter.com/angular) application with its first, feature-complete view 🎁☂️💄🧐 &lt;= [@Meligy](http://twitter.com/Meligy)… [[twitter.com]](https://twitter.com/i/web/status/941178629840498689)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") my first production-intended [@angular](http://twitter.com/angular) application with its first, feature-complete view 🎁☂️💄🧐 <= [@Meligy](http://twitter.com/Meligy)… [[twitter.com]](https://twitter.com/i/web/status/941178629840498689)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") WordPress is not [[wordpress.com]](http://WordPress.com)[[wpisnotwp.com]](https://wpisnotwp.com/)
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Like-operator in Entity Framework Core 2.0 [[gunnarpeipman.com]](http://gunnarpeipman.com/2017/08/ef-core-like-operator/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core 2.0: DbContext Pooling [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-entity-framework-core-2-0/) [AddDbContextPool&lt;TDbContext&gt;()]
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core 2.0: DbContext Pooling [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-entity-framework-core-2-0/) [`AddDbContextPool<TDbContext>()`]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Global query filters in Entity Framework Core 2.0 | Gunnar Peipman - Programming Blog [[gunnarpeipman.com]](http://gunnarpeipman.com/2017/08/ef-core-global-query-filters/)
 
@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Fundamental Limits of Machine Learning - Facts So Romantic [[nautil.us]](http://nautil.us/blog/-the-fundamental-limits-of-machine-learning)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Google Visualization of the Machine Learning Landscape[[youtube.com]](https://www.youtube.com/watch?v=ZuMdaXNR9Mk) &lt;= [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/941133561884581888/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Google Visualization of the Machine Learning Landscape[[youtube.com]](https://www.youtube.com/watch?v=ZuMdaXNR9Mk) <= [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/941133561884581888/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Must-read breakthrough research papers about Image Classification [[blog.paralleldots.com]](http://blog.paralleldots.com/technology/deep-learning/must-read-path-breaking-papers-about-image-classification/)
 

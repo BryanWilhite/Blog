@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-03-19-aurelia-and-angular-2-0-code-side-by-side-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Aurelia &amp; Angular 2.0 Code Side by Side [eisenbergeffect.bluespire.com]        How to get started with CSS Shapes | Webdesigner Depot [webdesignerdepot.com]        Asynchronous Validations in AngularJS - Jaco Pretorius [jacopretorius.net]        Angu...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Aurelia & Angular 2.0 Code Side by Side [eisenbergeffect.bluespire.com]        How to get started with CSS Shapes | Webdesigner Depot [webdesignerdepot.com]        Asynchronous Validations in AngularJS - Jaco Pretorius [jacopretorius.net]        Angu...\"\r\n}"
 }
 ---
 
 # “Aurelia and Angular 2.0 Code Side by Side” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia &amp; Angular 2.0 Code Side by Side [[eisenbergeffect.bluespire.com]](http://eisenbergeffect.bluespire.com/aurelia-and-angular-2-code-side-by-side/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia & Angular 2.0 Code Side by Side [[eisenbergeffect.bluespire.com]](http://eisenbergeffect.bluespire.com/aurelia-and-angular-2-code-side-by-side/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to get started with CSS Shapes | Webdesigner Depot [[webdesignerdepot.com]](http://www.webdesignerdepot.com/2015/03/how-to-get-started-with-css-shapes/)
 
@@ -31,7 +31,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The future of Team Foundation Version control - Brian Harry's blog - Site Home - MSDN Blogs [[blogs.msdn.com]](http://blogs.msdn.com/b/bharry/archive/2015/03/12/the-future-of-team-foundation-version-control.aspx)[#Github](http://search.twitter.com/search?q=%23Github)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Gulp for [[asp.net]](http://www.asp.net/) 5 &amp; Visual Studio 2015 [[tattoocoder.azurewebsites.net]](http://tattoocoder.azurewebsites.net/using-gulp-for-asp-net-5-visual-studio-2015/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Gulp for [[asp.net]](http://www.asp.net/) 5 & Visual Studio 2015 [[tattoocoder.azurewebsites.net]](http://tattoocoder.azurewebsites.net/using-gulp-for-asp-net-5-visual-studio-2015/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Visual Studio Time Saver – Faster HTML Coding [Zen Coding] [[blogs.msdn.com]](http://blogs.msdn.com/b/cdndevs/archive/2015/03/16/visual-studio-time-saver-faster-html-coding.aspx)
 

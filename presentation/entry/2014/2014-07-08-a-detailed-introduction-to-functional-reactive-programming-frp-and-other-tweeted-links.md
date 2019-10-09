@@ -53,7 +53,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](http://t.co/NrWutH4j9m "Miguel de Icaza [migueldeicaza]") <span>I wont lie, I am a little jealous of the performance of the new .NET JIT: [http://t.co/TtHaNvq7F7](http://t.co/TtHaNvq7F7)</span>
 
-[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") <span>[@ShinNoNoir](http://twitter.com/ShinNoNoir) Great question. the genesis of the Wiimote goes back to 1966 &amp; the 3D Wand developed by Larry Roberts - [http://t.co/Ban7jPAwMK](http://t.co/Ban7jPAwMK)</span>
+[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") <span>[@ShinNoNoir](http://twitter.com/ShinNoNoir) Great question. the genesis of the Wiimote goes back to 1966 & the 3D Wand developed by Larry Roberts - [http://t.co/Ban7jPAwMK](http://t.co/Ban7jPAwMK)</span>
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](http://t.co/YA3jkLZNsD "Scott Hanselman [shanselman]") <span>Announcing the new Roslyn-powered .NET Framework Reference Source [http://t.co/xshhqueaXo](http://t.co/xshhqueaXo) [#dotnetsource](http://search.twitter.com/search?q=%23dotnetsource)</span>
 
@@ -61,7 +61,7 @@
 
 [<img alt="The Verge [verge]" src="https://songhay.blob.core.windows.net/shared-social-twitter/verge.png">](http://t.co/W2SFxIGhA4 "The Verge [verge]") <span>RIP MetroTwit - Windows' best Twitter client is about to die [http://t.co/rSN8sVAbfb](http://t.co/rSN8sVAbfb)</span>
 
-[<img alt="Jeff Gilfelt [readyState]" src="https://songhay.blob.core.windows.net/shared-social-twitter/readyState.jpeg">](https://t.co/NI9rsfudkX "Jeff Gilfelt [readyState]") <span>Q&amp;A with Steve Ballmer at Uni of Oxford. Live feed: [https://t.co/4r3qb6LAGi](https://t.co/4r3qb6LAGi) Great stuff.</span>
+[<img alt="Jeff Gilfelt [readyState]" src="https://songhay.blob.core.windows.net/shared-social-twitter/readyState.jpeg">](https://t.co/NI9rsfudkX "Jeff Gilfelt [readyState]") <span>Q&A with Steve Ballmer at Uni of Oxford. Live feed: [https://t.co/4r3qb6LAGi](https://t.co/4r3qb6LAGi) Great stuff.</span>
 
 [<img alt="Nathan Marz [nathanmarz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nathanmarz.jpeg">](http://t.co/fDsdfjraED "Nathan Marz [nathanmarz]") <span>New post: "The inexplicable rise of open floor plans in tech companies" [http://t.co/gJV3JTKUqJ](http://t.co/gJV3JTKUqJ)</span>
 

@@ -28,7 +28,7 @@ There are at least four (Windows) ways to connect to a Linux VM on Azure (today)
 
 ## PuTTY and WinSCP (over SSH)
 
-I may have to come back and update these notes but I’m almost certain that Azure sets up VMs with SSH by default. So use of PuTTY and WinSCP is straightforward. (I did notice that the default, 15-second timeout of WinSCP was too fast for Azure so I had to change that—under **Connection &gt; Timeouts &gt; Server response timeout** with **Advanced options** checked.)
+I may have to come back and update these notes but I’m almost certain that Azure sets up VMs with SSH by default. So use of PuTTY and WinSCP is straightforward. (I did notice that the default, 15-second timeout of WinSCP was too fast for Azure so I had to change that—under **Connection > Timeouts > Server response timeout** with **Advanced options** checked.)
 
 ## Windows Remote Desktop (to xrdp)
 

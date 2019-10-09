@@ -55,7 +55,7 @@ Display
 <
 /td></tr><tr><td>
 
-Video &amp; Graphics Card
+Video & Graphics Card
 <
 /td><td>
 
@@ -115,7 +115,7 @@ Optical Drive Bay—Optical Drive or Hard Disk Drive in Optical Drive Bay with C
 <
 /td><td>
 
-8X DVD±R/RW/4X +DL Super-Multi Drive &amp; Software
+8X DVD±R/RW/4X +DL Super-Multi Drive & Software
 <
 /td></tr><tr><td>
 
@@ -191,7 +191,7 @@ BAT-6165, NP6165 Smart Li-ION Battery Pack (6 Cell, 62.16Wh) [$95.00]
 <
 /td><td>
 
-“If you feel comfortable, Try this, 1st unplug all the power remove the AC Adapter and the Battery. And open the bottom cover (see attachment picture) and unplug the CMOS-Battery’s wire (red &amp; black crop by Green Color) for like 15sec. Then reconnect it back the wire then everything ACA and the Big Battery. See that will help.”
+“If you feel comfortable, Try this, 1st unplug all the power remove the AC Adapter and the Battery. And open the bottom cover (see attachment picture) and unplug the CMOS-Battery’s wire (red & black crop by Green Color) for like 15sec. Then reconnect it back the wire then everything ACA and the Big Battery. See that will help.”
 <
 /td></tr></table>
 

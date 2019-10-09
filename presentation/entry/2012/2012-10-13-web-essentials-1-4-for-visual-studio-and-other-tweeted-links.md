@@ -23,7 +23,7 @@
 
 [<img alt="Brady Gaster [bradygaster]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bradygaster.jpeg">](http://www.bradygaster.com "Brady Gaster [bradygaster]") <span>[http://t.co/5HlsV0UU](http://t.co/5HlsV0UU) is now available for your [#WindowsAzure](http://search.twitter.com/search?q=%23WindowsAzure) web sites. get started now for free! [http://t.co/gAkwi8mT](http://t.co/gAkwi8mT)</span>
 
-[<img alt="Jon Galloway [jongalloway]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jongalloway.jpeg">](http://weblogs.asp.net/jgalloway "Jon Galloway [jongalloway]") <span>How (And Why) I'm Circumventing Twitter's API Instead of Using It [http://t.co/mGjFBYXS](http://t.co/mGjFBYXS) &lt;- Personally hoping to see more of this. Deserved.</span>
+[<img alt="Jon Galloway [jongalloway]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jongalloway.jpeg">](http://weblogs.asp.net/jgalloway "Jon Galloway [jongalloway]") <span>How (And Why) I'm Circumventing Twitter's API Instead of Using It [http://t.co/mGjFBYXS](http://t.co/mGjFBYXS) <- Personally hoping to see more of this. Deserved.</span>
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://blogs.zdnet.com/microsoft "Mary Jo Foley [maryjofoley]") <span>Here's the 2-hour Windows Phone 8 keynote from June 20 in full: [http://t.co/wtma5DSa](http://t.co/wtma5DSa)</span>
 

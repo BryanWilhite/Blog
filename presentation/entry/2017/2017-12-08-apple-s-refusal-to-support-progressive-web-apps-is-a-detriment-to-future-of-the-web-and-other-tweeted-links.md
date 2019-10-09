@@ -47,7 +47,7 @@
 
 [<img alt="Tracy Lee | ladyleet [ladyleet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ladyleet.jpg">](https://t.co/UVYEjTkcty "Tracy Lee | ladyleet [ladyleet]") It's official! I'm part of the [#RxJS](http://twitter.com/search?q=%23RxJS) core team. Thx [@benlesh](http://twitter.com/benlesh) and [@_ojkwon](http://twitter.com/_ojkwon) for having me and letting me be a part of… [[twitter.com]](https://twitter.com/i/web/status/938860316787662849)
 
-[<img alt="Amazon Web Services [awscloud]" src="https://songhay.blob.core.windows.net/shared-social-twitter/awscloud.jpg">](https://t.co/8QQO0BCGlY "Amazon Web Services [awscloud]") Announcing AWS Single Sign-On (SSO). Easily manage SSO access to multiple AWS accounts &amp; business applications!… [[twitter.com]](https://twitter.com/i/web/status/938939187318984704)
+[<img alt="Amazon Web Services [awscloud]" src="https://songhay.blob.core.windows.net/shared-social-twitter/awscloud.jpg">](https://t.co/8QQO0BCGlY "Amazon Web Services [awscloud]") Announcing AWS Single Sign-On (SSO). Easily manage SSO access to multiple AWS accounts & business applications!… [[twitter.com]](https://twitter.com/i/web/status/938939187318984704)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Transforming your VMware environment with Microsoft Azure | Blog | Microsoft Azure [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/transforming-your-vmware-environment-with-microsoft-azure/) « via [@maryjofoley](http://twitter.com/maryjofoley)
 

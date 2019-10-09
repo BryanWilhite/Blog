@@ -63,7 +63,7 @@
 
 [<img alt="Andrew Stanton-Nurse [anurse]" src="https://songhay.blob.core.windows.net/shared-social-twitter/anurse.jpg">](https://t.co/UZlxFEEkcj "Andrew Stanton-Nurse [anurse]") Yaaaawn... [[asp.net]](http://ASP.NET) Core [@SignalR](http://twitter.com/SignalR) got 236,000 concurrent connections in 9.5GB. Get rekt. [[twitter.com]](https://twitter.com/DamianEdwards/status/486642486350061568)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Keynote: Inter-dependence of IOT &amp; Network - Sarah Cooper, Amazon Web Services [[youtube.com]](https://www.youtube.com/watch?v=6hvp6k-DfSA) &lt;= [@taraw](http://twitter.com/taraw)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Keynote: Inter-dependence of IOT & Network - Sarah Cooper, Amazon Web Services [[youtube.com]](https://www.youtube.com/watch?v=6hvp6k-DfSA) <= [@taraw](http://twitter.com/taraw)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/r0YtDzNKwEU?a) Building a .NET Serverless Application on AWS
 
@@ -89,7 +89,7 @@
 
 [<img alt="Jacob Jedryszek [JakubJedryszek]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JakubJedryszek.jpg">](https://t.co/OdJs1nqtwW "Jacob Jedryszek [JakubJedryszek]") rShetty/awesome-podcasts: Collection of awesome podcasts [[github.com]](https://github.com/rShetty/awesome-podcasts)
 
-[<img alt="rachel binx [rachelbinx]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rachelbinx.jpg">](https://t.co/Ne4aozBQEf "rachel binx [rachelbinx]") "what's it like to be a woman in tech?" &gt; write message to coworker &gt; stare at it before sending &gt; remove smiley &gt;… [[twitter.com]](https://twitter.com/i/web/status/983793436716224513)
+[<img alt="rachel binx [rachelbinx]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rachelbinx.jpg">](https://t.co/Ne4aozBQEf "rachel binx [rachelbinx]") "what's it like to be a woman in tech?" > write message to coworker > stare at it before sending > remove smiley >… [[twitter.com]](https://twitter.com/i/web/status/983793436716224513)
 
 [<img alt="Matt Day [mattmday]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mattmday.jpeg">](https://t.co/smCF0Luvyo "Matt Day [mattmday]") Microsoft employs fewer women, as a portion of its U.S. workforce, than it did in back in 2001. How, after years,… [[twitter.com]](https://twitter.com/i/web/status/984431193058783232)
 

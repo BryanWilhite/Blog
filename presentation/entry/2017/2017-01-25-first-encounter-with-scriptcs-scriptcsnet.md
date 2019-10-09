@@ -1,7 +1,7 @@
 ---json
 {
   "documentId": 0,
-  "title": "First Encounter with scriptcs =&gt; @scriptcsnet",
+  "title": "First Encounter with scriptcs => @scriptcsnet",
   "documentShortName": "2017-01-25-first-encounter-with-scriptcs-scriptcsnet",
   "fileName": "index.html",
   "path": "./entry/2017-01-25-first-encounter-with-scriptcs-scriptcsnet",
@@ -17,7 +17,7 @@
 }
 ---
 
-# First Encounter with scriptcs =&gt; @scriptcsnet
+# First Encounter with scriptcs => @scriptcsnet
 
 One of [Glenn Block’s](https://www.dotnetrocks.com/?show=1110) post-MEF, post-Microsoft projects is [scriptcs](http://scriptcs.net/). I am currently using scriptcs as the engine of my epub publication pipeline in an effort to use my C# skills and delay (again) the need for me to learn/use Python.
 
@@ -46,7 +46,7 @@ public static class EnvironmentUtilities
     {
         var pathToScript = Environment
             .GetCommandLineArgs()
-            .FirstOrDefault(i =&gt; i.EndsWith(".csx"));
+            .FirstOrDefault(i => i.EndsWith(".csx"));
         if(pathToScript == null)
             throw new Exception("GetScriptFolder(): The expected command-line argument is not here.");
         pathToScript = Path.GetFullPath(pathToScript);

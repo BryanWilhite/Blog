@@ -73,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Xamarin: Xamarin Evolve 2016 Speaker Spotlight: Charles Petzold [[blog.xamarin.com]](https://blog.xamarin.com/xamarin-evolve-2016-speaker-spotlight-charles-petzold/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silverstone Grandia GD08 Ultimate Media PC Case Unboxing &amp; First Look Li... [[youtube.com]](https://www.youtube.com/watch?v=-OwvSoQnhj4&feature=youtu.be)[@LinusTech](http://twitter.com/LinusTech)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silverstone Grandia GD08 Ultimate Media PC Case Unboxing & First Look Li... [[youtube.com]](https://www.youtube.com/watch?v=-OwvSoQnhj4&feature=youtu.be)[@LinusTech](http://twitter.com/LinusTech)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple issues AC adapter recall a week after Microsoft [[theverge.com]](http://www.theverge.com/2016/1/28/10857276/apple-mac-power-adapter-recall-ipad-microsoft)
 

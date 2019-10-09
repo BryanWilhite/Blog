@@ -71,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Code Documentation So Easy It's an Afterthought - DaedTech [[daedtech.com]](https://www.daedtech.com/net-code-documentation-easy-afterthought/)
 
-[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net/shared-social-twitter/headinthebox.jpeg">](http://t.co/LX6r9PgJAw "Erik Meijer [headinthebox]") It is faster &amp; much more fun to develop your own deep learning framework from first principles that trying to build… [[twitter.com]](https://twitter.com/i/web/status/949397157068484608)
+[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net/shared-social-twitter/headinthebox.jpeg">](http://t.co/LX6r9PgJAw "Erik Meijer [headinthebox]") It is faster & much more fun to develop your own deep learning framework from first principles that trying to build… [[twitter.com]](https://twitter.com/i/web/status/949397157068484608)
 
 [<img alt="Dina Bass [dinabass]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dinabass.jpg">]( "Dina Bass [dinabass]") So for those keeping score, AMD says they are not impacted. Google, which discovered the issue, says they are. And… [[twitter.com]](https://twitter.com/i/web/status/948681855997480960)
 

@@ -63,7 +63,7 @@
 
 [<img alt="Scott Hunter [coolcsh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/coolcsh.jpg">](https://t.co/EfVIf2O1zT "Scott Hunter [coolcsh]") Welcome to our new tutorials on C# that you can try in the browser: [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/hello-world)
 
-[<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoS05R "Donovan Brown [DonovanBrown]") I just got asked if I had a good story for [#Java](http://twitter.com/search?q=%23Java) &amp; [@VSTS](http://twitter.com/VSTS). Of course! [#AnyLanguage](http://twitter.com/search?q=%23AnyLanguage)[#AnyPlatform](http://twitter.com/search?q=%23AnyPlatform) Here is great exampl… [[twitter.com]](https://twitter.com/i/web/status/916026021937319936)
+[<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoS05R "Donovan Brown [DonovanBrown]") I just got asked if I had a good story for [#Java](http://twitter.com/search?q=%23Java) & [@VSTS](http://twitter.com/VSTS). Of course! [#AnyLanguage](http://twitter.com/search?q=%23AnyLanguage)[#AnyPlatform](http://twitter.com/search?q=%23AnyPlatform) Here is great exampl… [[twitter.com]](https://twitter.com/i/web/status/916026021937319936)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") You no longer need to enable Developer Mode to run Bash on Windows [[mspoweruser.com]](https://mspoweruser.com/no-longer-need-enable-developer-mode-run-bash-windows/)
 
@@ -85,7 +85,7 @@
 
 [<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]") Sometimes, I have to give up. Apparently, all languages really *have* to use libc to perform all string handling... [[bit.ly]](http://bit.ly/2fRrExE)
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") Fan-FREAKING-tastic! Kudos to [@Lee_Holmes](http://twitter.com/Lee_Holmes) &amp; the Windows team for creating AMSI and making this possible. Step by st… [[twitter.com]](https://twitter.com/i/web/status/916706255212892166)
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") Fan-FREAKING-tastic! Kudos to [@Lee_Holmes](http://twitter.com/Lee_Holmes) & the Windows team for creating AMSI and making this possible. Step by st… [[twitter.com]](https://twitter.com/i/web/status/916706255212892166)
 
 [<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") The only difference between Bitlocker and Ransomware is whether you have to buy the recovery key. [[twitter.com]](https://twitter.com/batmelek/status/917853208873193473)
 

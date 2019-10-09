@@ -57,7 +57,7 @@
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scriptcsnet](http://twitter.com/scriptcsnet)[@code](http://twitter.com/code) re the other question we could add for example diagnostic suppression via omnishar… [[twitter.com]](https://twitter.com/i/web/status/861812578959405057)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@joaomoreno](http://twitter.com/joaomoreno) is there a [@code](http://twitter.com/code) `editor.&lt;setting&gt;` that allows us to disable C# errors that do not apply to [@scriptcsnet](http://twitter.com/scriptcsnet)? « [@filip_woj](http://twitter.com/filip_woj)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@joaomoreno](http://twitter.com/joaomoreno) is there a [@code](http://twitter.com/code) `editor.<setting>` that allows us to disable C# errors that do not apply to [@scriptcsnet](http://twitter.com/scriptcsnet)? « [@filip_woj](http://twitter.com/filip_woj)
 
 [<img alt="Stephen Fluin [stephenfluin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephenfluin.jpeg">](https://t.co/MmEB0koeFN "Stephen Fluin [stephenfluin]") WebDev productivity tip of the day: Use [[loading.io]](https://loading.io/) to customize sweet loading svgs/css/gifs for your site
 

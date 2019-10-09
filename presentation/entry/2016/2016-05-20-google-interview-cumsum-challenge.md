@@ -37,11 +37,11 @@ cumsum(set, 4, 2) == new[] { 2, 6 };
 He also mentioned that `count` can extend beyond the upper bound of the array, leading me to add that the logic should *wrap around* the end of the array, pulling items from the beginning. I stated *within the allotted time* of the interview that I would work on developing a generic function that can perform this ‘wrap’ operation. What I failed to do was produce this function seconds after my statement (which means that I am not worthy of Google). Anyway, this is my wrapping extension method using LINQ:
 
 ```c#
-public static IEnumerable&lt;T&gt; Wrap&lt;T&gt;(this IEnumerable&lt;T&gt; enumerable, int startPos, int count)
+public static IEnumerable<T> Wrap<T>(this IEnumerable<T> enumerable, int startPos, int count)
 {
-    if (enumerable == null) return Enumerable.Empty&lt;T&gt;();
+    if (enumerable == null) return Enumerable.Empty<T>();
     var length = enumerable.Count();
-    if(startPos &gt; length) throw new ArgumentException("The start position is larger than the length of the enumerable.", "startPos");
+    if(startPos > length) throw new ArgumentException("The start position is larger than the length of the enumerable.", "startPos");
     var wrappedSet = enumerable
         .Skip(startPos)
         .Union(enumerable.Take(length - startPos));
@@ -65,13 +65,13 @@ new[] { 3, 2, 4, 1 }
 Now, I have no idea why anyone would want to do this because I am not an R programmer or a serious student of statistics (and it has been decades since I wrote the words *Eigen values*). My ignorance does not stop me from moving to the next step in the form of another LINQ extension method:
 
 ```c#
-public static IEnumerable&lt;int&gt; ToCulmulativeSum(this IEnumerable&lt;int&gt; enumerable, int startPos, int count)
+public static IEnumerable<Tint> ToCulmulativeSum(this IEnumerable<Tint> enumerable, int startPos, int count)
 {
-    if (enumerable == null) return Enumerable.Empty&lt;int&gt;();
+    if (enumerable == null) return Enumerable.Empty<Tint>();
     var wrappedSet = enumerable.Wrap(startPos, count);
     wrappedSet.Dump("wrapped set");
     return wrappedSet
-        .Select((x, i) =&gt; x + wrappedSet.Take(i).Sum());
+        .Select((x, i) => x + wrappedSet.Take(i).Sum());
 }
 ```
 

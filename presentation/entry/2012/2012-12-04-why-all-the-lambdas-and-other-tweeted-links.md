@@ -33,7 +33,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Minority Report arrives with Oblong (Part II) -- Mind blowing UI: [http://t.co/1yhkJU0b](http://t.co/1yhkJU0b) via [@youtube](http://twitter.com/youtube)</span>
 
-[<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>[#VisualStudio](http://search.twitter.com/search?q=%23VisualStudio) 2012 Update 1: Including [#JavaScript](http://search.twitter.com/search?q=%23JavaScript) Memory Analysis tool &amp; Memory Profiling for JavaScript Apps [http://t.co/N6PTCFOf](http://t.co/N6PTCFOf)</span>
+[<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>[#VisualStudio](http://search.twitter.com/search?q=%23VisualStudio) 2012 Update 1: Including [#JavaScript](http://search.twitter.com/search?q=%23JavaScript) Memory Analysis tool & Memory Profiling for JavaScript Apps [http://t.co/N6PTCFOf](http://t.co/N6PTCFOf)</span>
 
 [<img alt="Chris Fulstow [ChrisFulstow]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ChrisFulstow.jpg">](http://chrisfulstow.com "Chris Fulstow [ChrisFulstow]") <span>JSMinNpp - brilliant JSON plugin for Notepad++ [http://t.co/3oaSlQwd](http://t.co/3oaSlQwd)</span>
 

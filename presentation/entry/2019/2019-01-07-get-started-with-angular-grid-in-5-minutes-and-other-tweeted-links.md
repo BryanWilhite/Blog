@@ -61,7 +61,7 @@
 
 [<img alt="Azizi Doank Doank [71f198c6c9e2481]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/71f198c6c9e2481.jpg">](https://twitter.com/71f198c6c9e2481) A (Belated) Welcome to C# 7.3 [[dlvr.it]](http://dlvr.it/Qk5mmS)
 
-[<img alt="Lea Verou [LeaVerou]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/LeaVerou.png">](https://t.co/Q2CdWpNV1q) Ever need to shuffle an array? Sure, things like arr.sort(a =&gt; Math.random() - .5); are short, but produce biased results. Same with the naïve loop you may be thinking. Use Fisher-Yates shuffle instead. [@codinghorror](http://twitter.com/@codinghorror) wrote a great post on it, 11 years ago! [[blog.codinghorror.com]](https://blog.codinghorror.com/the-danger-of-naivete/)
+[<img alt="Lea Verou [LeaVerou]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/LeaVerou.png">](https://t.co/Q2CdWpNV1q) Ever need to shuffle an array? Sure, things like arr.sort(a => Math.random() - .5); are short, but produce biased results. Same with the naïve loop you may be thinking. Use Fisher-Yates shuffle instead. [@codinghorror](http://twitter.com/@codinghorror) wrote a great post on it, 11 years ago! [[blog.codinghorror.com]](https://blog.codinghorror.com/the-danger-of-naivete/)
 
 [<img alt="Packt [PacktPub]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/PacktPub.jpg">](https://t.co/YRVQaNtoHm) Have you downloaded today's free eBook? [[bit.ly]](http://bit.ly/PacktDailyOffer)[#FreeLearning](http://twitter.com/search?q='%23FreeLearning)[[twitter.com]](https://twitter.com/PacktPub/status/1039453542950551553/photo/1)
 
@@ -79,7 +79,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Do functional languages cope well with complexity? [[stackoverflow.com]](https://stackoverflow.com/a/2188804/22944)[[twitter.com]](https://twitter.com/BryanWilhite/status/1041928089582723072/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) How to register multiple implementations of the same interface in [[asp.net]](http://Asp.Net) Core? =&gt; [[stackoverflow.com]](https://stackoverflow.com/a/44177920/22944) [will IServiceCollection.AddSingleton&lt;Func&lt;string, ...&gt;&gt;(...) work? when yes, very cool] [[twitter.com]](https://twitter.com/BryanWilhite/status/1041532810920521728/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) How to register multiple implementations of the same interface in [[asp.net]](http://Asp.Net) Core? => [[stackoverflow.com]](https://stackoverflow.com/a/44177920/22944) [will `IServiceCollection.AddSingleton<Func<string, ...>>(...)` work? when yes, very cool] [[twitter.com]](https://twitter.com/BryanWilhite/status/1041532810920521728/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Bash that JSON (with jq) [[blog.librato.com]](http://blog.librato.com/posts/jq-json)
 
@@ -89,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Introducing [@AzureDevOps](http://twitter.com/@AzureDevOps)[[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/introducing-azure-devops/)[[twitter.com]](https://twitter.com/BryanWilhite/status/1040397379000721408/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@MadsTorgersen](http://twitter.com/@MadsTorgersen) shows how to use the Elvis operator and the null coalescing operator *together* [conk forehead] =&gt; [[channel9.msdn.com]](https://channel9.msdn.com/Events/dotnetConf/2018/S103)[@ch9](http://twitter.com/@ch9)[[twitter.com]](https://twitter.com/BryanWilhite/status/1041912200229605377/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@MadsTorgersen](http://twitter.com/@MadsTorgersen) shows how to use the Elvis operator and the null coalescing operator *together* [conk forehead] => [[channel9.msdn.com]](https://channel9.msdn.com/Events/dotnetConf/2018/S103)[@ch9](http://twitter.com/@ch9)[[twitter.com]](https://twitter.com/BryanWilhite/status/1041912200229605377/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) [module:NonNullTypes] turns off nullability for all reference types on the module level [[twitter.com]](https://twitter.com/BryanWilhite/status/1041915856752500736/photo/1)
 
@@ -111,8 +111,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Sony Finally Admits It Doesn’t Own Bach and It Only Took a Bunch of Public Pressure [[eff.org]](https://www.eff.org/takedowns/sony-finally-admits-it-doesnt-own-bach-and-it-only-took-public-pressure)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) SanFran has more game studios than LA! &lt;= [@andrewpprice](http://twitter.com/@andrewpprice)[[youtube.com]](https://www.youtube.com/watch?v=7OyGs4AlBTc) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/1041863611197423616/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) SanFran has more game studios than LA! <= [@andrewpprice](http://twitter.com/@andrewpprice)[[youtube.com]](https://www.youtube.com/watch?v=7OyGs4AlBTc) => [@megafunkmega](http://twitter.com/@megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/1041863611197423616/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) a problem that can be solved in practice is called a tractable problem, literally "a problem that can be handled" =&gt; tractatus andronicus [[twitter.com]](https://twitter.com/BryanWilhite/status/1041930870909628416/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) a problem that can be solved in practice is called a tractable problem, literally "a problem that can be handled" => tractatus andronicus [[twitter.com]](https://twitter.com/BryanWilhite/status/1041930870909628416/photo/1)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

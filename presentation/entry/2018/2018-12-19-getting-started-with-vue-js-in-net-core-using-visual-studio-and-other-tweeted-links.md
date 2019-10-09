@@ -35,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) GraphQL using .NET Boxed: Queries [[elanderson.net]](https://elanderson.net/2018/07/graphql-using-net-boxed-queries/) via [@elanderson21](http://twitter.com/@elanderson21)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Fixing Variable Scope Issues with ECMAScript&amp;[#8239](http://twitter.com/search?q='%238239);6 [[alistapart.com]](http://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6) via [@alistapart](http://twitter.com/@alistapart)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Fixing Variable Scope Issues with ECMAScript&[#8239](http://twitter.com/search?q='%238239);6 [[alistapart.com]](http://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6) via [@alistapart](http://twitter.com/@alistapart)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Why I Left Gulp and Grunt for npm Scripts” by [@housecor](http://twitter.com/@housecor)[[medium.freecodecamp.org]](https://medium.freecodecamp.org/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
 
@@ -57,9 +57,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@Plotaverse](http://twitter.com/@Plotaverse) demo on [@ThisWeekinPhoto](http://twitter.com/@ThisWeekinPhoto)[[youtu.be]](https://youtu.be/tWy33HEr9dk?t=1258)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@Plotaverse](http://twitter.com/@Plotaverse) “join the movement” [[plotaverse.com]](https://plotaverse.com/) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/1024433214301986817/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@Plotaverse](http://twitter.com/@Plotaverse) “join the movement” [[plotaverse.com]](https://plotaverse.com/) => [@megafunkmega](http://twitter.com/@megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/1024433214301986817/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the new [@VSTS](http://twitter.com/@VSTS) UI looks great! =&gt; [@DonovanBrown](http://twitter.com/@DonovanBrown)[@taraw](http://twitter.com/@taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/1024687355158884354/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the new [@VSTS](http://twitter.com/@VSTS) UI looks great! => [@DonovanBrown](http://twitter.com/@DonovanBrown)[@taraw](http://twitter.com/@taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/1024687355158884354/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@VSTS](http://twitter.com/@VSTS) how to exclude files from glob patterns: [[github.com]](https://github.com/Microsoft/vsts-tasks/issues/4712)[[twitter.com]](https://twitter.com/BryanWilhite/status/1024792327397634048/photo/1)
 

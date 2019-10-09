@@ -53,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ant patterns: “For example: /test/** matches all files/directories under /test/ …” [[ant.apache.org]](http://ant.apache.org/manual/dirtasks.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Set up a C# 6 / .NET 4.6 Build Agent for Atlassian Bamboo – Code &amp; Stuff [[code.musaul.net]](https://code.musaul.net/view/devops/set-up-a-cs6-dotnet-46-build-agent-for-atlassian-bamboo/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Set up a C# 6 / .NET 4.6 Build Agent for Atlassian Bamboo – Code & Stuff [[code.musaul.net]](https://code.musaul.net/view/devops/set-up-a-cs6-dotnet-46-build-agent-for-atlassian-bamboo/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to set up a C# development environment on Linux [[miniml.ist]](http://miniml.ist/dotnet/how-to-setup-a-csharp-dev-environment-on-linux/)
 
@@ -83,13 +83,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mathematical Model Reveals the Patterns of How Innovations Arise [[technologyreview.com]](https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise/)
 
-[<img alt="Microsoft 4Afrika [4Afrika]" src="https://songhay.blob.core.windows.net/shared-social-twitter/4Afrika.jpeg">](http://t.co/tSxBmeFXC3 "Microsoft 4Afrika [4Afrika]") Wonder how Halo is designed? [@hoopsomuah](http://twitter.com/hoopsomuah) would know. Engage with him at [#NXTA](http://twitter.com/search?q=%23NXTA) on Digital Transformation &amp; Engineeri… [[twitter.com]](https://twitter.com/i/web/status/821673496866603015)
+[<img alt="Microsoft 4Afrika [4Afrika]" src="https://songhay.blob.core.windows.net/shared-social-twitter/4Afrika.jpeg">](http://t.co/tSxBmeFXC3 "Microsoft 4Afrika [4Afrika]") Wonder how Halo is designed? [@hoopsomuah](http://twitter.com/hoopsomuah) would know. Engage with him at [#NXTA](http://twitter.com/search?q=%23NXTA) on Digital Transformation & Engineeri… [[twitter.com]](https://twitter.com/i/web/status/821673496866603015)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don’t You Dare Try to Teach Science Without Building Models | WIRED [[wired.com]](https://www.wired.com/2017/01/dont-dare-try-teach-science-without-building-models/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google, Facebook, and the Rest of the Silicon Valley Crowd Need More Physicists | WIRED [[wired.com]](https://www.wired.com/2017/01/move-coders-physicists-will-soon-rule-silicon-valley/) [Newton’s method]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple’s culture of secrecy wore down Swift creator &amp; Xcode lead Chris Lattner, say friends [Update] | 9to5Mac [[9to5mac.com]](https://9to5mac.com/2017/01/13/why-chris-lattner-left-apple/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple’s culture of secrecy wore down Swift creator & Xcode lead Chris Lattner, say friends [Update] | 9to5Mac [[9to5mac.com]](https://9to5mac.com/2017/01/13/why-chris-lattner-left-apple/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Will The Death of the PC Bring 'An End To Openness'? - Slashdot [[developers.slashdot.org]](https://developers.slashdot.org/story/17/01/14/0322200/will-the-death-of-the-pc-bring-an-end-to-openness?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 

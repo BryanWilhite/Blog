@@ -298,7 +298,7 @@ fooService.bar = null;
 component.fuBar = { prop3: null };
 ```
 
-The use the Elvis operator has some issues with async in bindings, see “[The Angry Angular AsyncPipe &amp; The Evil Elvis Operator](https://hackernoon.com/the-angry-angular-asyncpipe-the-evil-elvis-operator-89293e37e04d)” by Vitaliy Isikov.
+The use the Elvis operator has some issues with async in bindings, see “[The Angry Angular AsyncPipe & The Evil Elvis Operator](https://hackernoon.com/the-angry-angular-asyncpipe-the-evil-elvis-operator-89293e37e04d)” by Vitaliy Isikov.
 
 ## the ‘right’ way to initialize `@Input` values
 

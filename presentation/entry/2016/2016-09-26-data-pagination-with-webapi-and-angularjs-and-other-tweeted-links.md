@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") On the Insecurity of Whitelists and the Future of Content Security Policy [[research.google.com]](https://research.google.com/pubs/pub45542.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 6 Common Social Media Marketing Mistakes | Brand24 Blog [[sumo.ly]](http://sumo.ly/odr2) via [@brand24](http://twitter.com/brand24) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 6 Common Social Media Marketing Mistakes | Brand24 Blog [[sumo.ly]](http://sumo.ly/odr2) via [@brand24](http://twitter.com/brand24) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") WrkRiot CEO's entire resume fraudulent [[nytimes.com]](http://www.nytimes.com/2016/09/01/technology/a-silicon-valley-dream-collapses-in-allegations-of-fraud.html)
 
@@ -101,7 +101,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") You’re How Old? We’ll Be in Touch [[nytimes.com]](http://www.nytimes.com/2016/09/04/opinion/sunday/youre-how-old-well-be-in-touch.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i made the morning brew! [[blog.cwa.me.uk]](http://blog.cwa.me.uk/2016/09/05/the-morning-brew-2171/) thx! [@calcock](http://twitter.com/calcock) =&gt; [@shanselman](http://twitter.com/shanselman), [@carlfranklin](http://twitter.com/carlfranklin)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i made the morning brew! [[blog.cwa.me.uk]](http://blog.cwa.me.uk/2016/09/05/the-morning-brew-2171/) thx! [@calcock](http://twitter.com/calcock) => [@shanselman](http://twitter.com/shanselman), [@carlfranklin](http://twitter.com/carlfranklin)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Legendary Apple Engineer Gets Rejected for Genius Bar Job [[businessinsider.com]](http://www.businessinsider.com/jk-scheinberg-apple-engineer-rejected-job-apple-store-genius-bar-2016-9)[@iayori](http://twitter.com/iayori)
 

@@ -57,7 +57,7 @@
 
 [<img alt="Malte Ubl [cramforce]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/cramforce.jpg">](https://t.co/492oKgxX25) This was by far the best introduction to deep learning and AI I’ve ever seen. There probably won’t be a better use of 30 minutes today. [[twitter.com]](https://twitter.com/jsconfeu/status/1004329485695705088)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY) What’s Next for Visual Studio? Visual Studio 2019 ...faster, more reliable, easier to get started &amp; use, w/ increased productivity for individuals &amp; teams. See what's coming. [[msft.social]](http://msft.social/3AIVRg)[#VS2019](http://twitter.com/search?q='%23VS2019)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY) What’s Next for Visual Studio? Visual Studio 2019 ...faster, more reliable, easier to get started & use, w/ increased productivity for individuals & teams. See what's coming. [[msft.social]](http://msft.social/3AIVRg)[#VS2019](http://twitter.com/search?q='%23VS2019)
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq) Microsoft starts outlining its Visual Studio 2019 plans: [[zdnet.com]](https://www.zdnet.com/article/microsoft-starts-outlining-its-visual-studio-2019-plans/)
 
@@ -105,7 +105,7 @@
 
 [<img alt="Mario Fusco 🇺🇳🇪🇺 [mariofusco]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariofusco.jpg">](https://t.co/IBdw5WLvHl) And they say: "I don't get why all developers have so unconventional sleep patterns" [[twitter.com]](https://twitter.com/mariofusco/status/1003684748139683840/photo/1)
 
-[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5) Just flushed half an hour down the toilet trying to deal with an error at Microsoft's end while renewing an Xbox Live account. Support rep on chat wasted &gt;$100 of my time over a card I bought for $25, with no resolution. This is the sort of thing that makes people diss Microsoft. [[twitter.com]](https://twitter.com/billyhollis/status/1004513572716720128/photo/1)
+[<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/billyhollis.jpg">](https://t.co/LvJEYRzwk5) Just flushed half an hour down the toilet trying to deal with an error at Microsoft's end while renewing an Xbox Live account. Support rep on chat wasted >$100 of my time over a card I bought for $25, with no resolution. This is the sort of thing that makes people diss Microsoft. [[twitter.com]](https://twitter.com/billyhollis/status/1004513572716720128/photo/1)
 
 [<img alt="One more thing... [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) Saddened that users think tech makes them peons, not gods. And they complain about my generation. We wanted tech to set us free, not enslave us to Zucks business model
 

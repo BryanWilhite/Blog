@@ -51,7 +51,7 @@
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") System.Range The C# team is considering providing language syntax for specifying ranges to represent parts of a str… [[twitter.com]](https://twitter.com/i/web/status/959069143893856256)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FIAT TR6 dashboard UX &lt;= [@billyhollis](http://twitter.com/billyhollis), [@iCandySF](http://twitter.com/iCandySF), [@wasbuxton](http://twitter.com/wasbuxton), [@o_jeo](http://twitter.com/o_jeo), [@IterationGroup](http://twitter.com/IterationGroup)[[twitter.com]](https://twitter.com/BryanWilhite/status/953160631053565952/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FIAT TR6 dashboard UX <= [@billyhollis](http://twitter.com/billyhollis), [@iCandySF](http://twitter.com/iCandySF), [@wasbuxton](http://twitter.com/wasbuxton), [@o_jeo](http://twitter.com/o_jeo), [@IterationGroup](http://twitter.com/IterationGroup)[[twitter.com]](https://twitter.com/BryanWilhite/status/953160631053565952/photo/1)
 
 [<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") The Triumph TR6: one of the most beautiful British sports cars. The dash: a great example of modeless space-mulipl… [[twitter.com]](https://twitter.com/i/web/status/953249836626690049)
 
@@ -83,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I don’t know who the Web Audio API is designed for” [[blog.mecheye.net]](http://blog.mecheye.net/2017/09/i-dont-know-who-the-web-audio-api-is-designed-for/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Jon Skeet earns 1mm rep on Stack Overflow[[stackoverflow.blog]](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) &lt;= [@jonskeet](http://twitter.com/jonskeet)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Jon Skeet earns 1mm rep on Stack Overflow[[stackoverflow.blog]](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) <= [@jonskeet](http://twitter.com/jonskeet)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") the "problem" with having my years of IT experience in the IT workplace is knowing the real possibility that my men… [[twitter.com]](https://twitter.com/i/web/status/953022381055926272)
 
@@ -95,7 +95,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@rick_pack2](http://twitter.com/rick_pack2) Yes, thx. My most continuous years at one company was in healthcare [#MLKDay](http://twitter.com/search?q=%23MLKDay) not really a problem. But w… [[twitter.com]](https://twitter.com/i/web/status/953305956049235968)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 4 Global Ecommerce Trends &amp; What They Mean for You [[designer-daily.com]](http://www.designer-daily.com/4-global-ecommerce-trends-what-they-mean-for-you-61068)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 4 Global Ecommerce Trends & What They Mean for You [[designer-daily.com]](http://www.designer-daily.com/4-global-ecommerce-trends-what-they-mean-for-you-61068)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@techgirl1908](http://twitter.com/techgirl1908) great to know you are out there and my teen daughter now knows your name ---and by the way [@aspnet](http://twitter.com/aspnet) c… [[twitter.com]](https://twitter.com/i/web/status/953448984764231680)
 

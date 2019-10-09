@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Muse: Build composable visualizations for the web with a data-first approach [[charts.com]](http://www.charts.com/muze)[[twitter.com]](https://twitter.com/BryanWilhite/status/1051910766490574850/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Is there any roadmap about compatibility with .Net Core 3.0 in Prism.Wpf? [[github.com]](https://github.com/PrismLibrary/Prism/issues/1544) &lt;= [@brianlagunas](http://twitter.com/@brianlagunas)[[twitter.com]](https://twitter.com/BryanWilhite/status/1054518207313149952/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Is there any roadmap about compatibility with .Net Core 3.0 in Prism.Wpf? [[github.com]](https://github.com/PrismLibrary/Prism/issues/1544) <= [@brianlagunas](http://twitter.com/@brianlagunas)[[twitter.com]](https://twitter.com/BryanWilhite/status/1054518207313149952/photo/1)
 
 [<img alt="Brian Lagunas [brianlagunas]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianlagunas.jpeg">](http://t.co/47OvjaASiI)[@BryanWilhite](http://twitter.com/@BryanWilhite) Roadmap? Yeah, we're looking into it. Looking for a date? No, we do not have a date available.
 
@@ -75,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/MGGKW0HCb5U?a) Eugenia Cheng: When 1 + 1 = 3
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “I engaged with MPEG-G from the moment I heard about it, submitting ideas to improve it, despite being instrumental in recent CRAM improvements. I had hopes of a better format.” [[datageekdom.blogspot.com]](http://datageekdom.blogspot.com/2018/09/) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “I engaged with MPEG-G from the moment I heard about it, submitting ideas to improve it, despite being instrumental in recent CRAM improvements. I had hopes of a better format.” [[datageekdom.blogspot.com]](http://datageekdom.blogspot.com/2018/09/) => [@megafunkmega](http://twitter.com/@megafunkmega)
 
 [<img alt="TicToc by Bloomberg [tictoc]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tictoc.jpg">](https://t.co/O0sSpXABY4) JUST IN: Microsoft co-founder Paul Allen is dead at 65 [[twitter.com]](https://twitter.com/tictoc/status/1051957033874927616/photo/1)
 

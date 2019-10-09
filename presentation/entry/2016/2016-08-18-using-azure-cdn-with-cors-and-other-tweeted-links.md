@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The keyboard for Windows 10 on Phone has a virtual precision pointing stick [[windowscentral.com]](http://www.windowscentral.com/keyboard-windows-10-phone-has-virtual-precision-pointing-stick)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MrxZ5ojyG7Y?a) Windows 10 Mobile Keyboard Tips: Typing Faster, Richer &amp; doing more
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/MrxZ5ojyG7Y?a) Windows 10 Mobile Keyboard Tips: Typing Faster, Richer & doing more
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “the audio thread is reading from the data at the same time as it’s being edited by the main thread” [[atastypixel.com]](http://atastypixel.com/blog/four-common-mistakes-in-audio-development/)
 

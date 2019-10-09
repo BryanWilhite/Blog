@@ -63,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") First Update Released for Open Live Writer [[windowsobserver.com]](http://www.windowsobserver.com/2015/12/23/first-update-released-for-open-live-writer/) via [@WinObs](http://twitter.com/WinObs)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Generic extension method to see if an enum contains a flag [&gt;net45] [[stackoverflow.com]](http://stackoverflow.com/questions/4108828/generic-extension-method-to-see-if-an-enum-contains-a-flag/4108907?stw=2#4108907)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Generic extension method to see if an enum contains a flag [>net45] [[stackoverflow.com]](http://stackoverflow.com/questions/4108828/generic-extension-method-to-see-if-an-enum-contains-a-flag/4108907?stw=2#4108907)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Entity Framework Performance and What You Can Do About It [[simple-talk.com]](https://www.simple-talk.com/dotnet/.net-tools/entity-framework-performance-and-what-you-can-do-about-it/)
 
@@ -109,7 +109,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Framework setup verification tool, cleanup tool and detection sample code now support .NET Framework 4.6.1 : [[blogs.msdn.com]](http://blogs.msdn.com/b/astebner/archive/2015/12/18/10661236.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DDD &amp; Microservices: At Last, Some Boundaries! • Eric Evans [[youtube.com]](https://www.youtube.com/watch?v=yPvef9R3k-M&feature=youtu.be) via [@ericevans0](http://twitter.com/ericevans0)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DDD & Microservices: At Last, Some Boundaries! • Eric Evans [[youtube.com]](https://www.youtube.com/watch?v=yPvef9R3k-M&feature=youtu.be) via [@ericevans0](http://twitter.com/ericevans0)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Star Wars Fans and Video Game Geeks 'More Likely To Be Narcissists,' Study Finds [[science.slashdot.org]](http://science.slashdot.org/story/15/12/26/1648225/star-wars-fans-and-video-game-geeks-more-likely-to-be-narcissists-study-finds?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 

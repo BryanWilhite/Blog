@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) how do we run MSTEST v2 from the command line (on a build server)? « [@tfsbuck](http://twitter.com/tfsbuck), [@DonovanBrown](http://twitter.com/DonovanBrown)
 
-[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) Run them using the console runner: vstest.console.exe [testdllnames] /TestAdapterPath:&lt;pathToAdapter&gt;
+[<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) Run them using the console runner: vstest.console.exe [testdllnames] `/TestAdapterPath:<pathToAdapter>`
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@pvlakshm](http://twitter.com/pvlakshm)[@tfsbuck](http://twitter.com/tfsbuck)[@DonovanBrown](http://twitter.com/DonovanBrown) what is the test adapter for mstest v2? -is it in the nuget package?
 

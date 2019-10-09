@@ -37,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: What are the best personal project websites you've seen? [[ow.ly]](http://ow.ly/AYW0305Beik)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EntityFramework Configuration Provider for .NET Framework &amp; .NET Core [[ow.ly]](http://ow.ly/ZBTH305u1x8)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EntityFramework Configuration Provider for .NET Framework & .NET Core [[ow.ly]](http://ow.ly/ZBTH305u1x8)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “The 1.1 release is focused on addressing issues that prevent folks from adopting EF Core.” [[ow.ly]](http://ow.ly/zxjj305yRJx)
 
@@ -45,9 +45,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Use Curated Data—Wolfram Language Documentation [[ow.ly]](http://ow.ly/zKTs305vfqy)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Opportunity Project - About [[ow.ly]](http://ow.ly/UICv305vg93) &lt;= [@WolframResearch](http://twitter.com/WolframResearch)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Opportunity Project - About [[ow.ly]](http://ow.ly/UICv305vg93) <= [@WolframResearch](http://twitter.com/WolframResearch)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DataKind [[ow.ly]](http://ow.ly/cSWa305vgGf) &lt;= [@WolframResearch](http://twitter.com/WolframResearch)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DataKind [[ow.ly]](http://ow.ly/cSWa305vgGf) <= [@WolframResearch](http://twitter.com/WolframResearch)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Wolfram Data Repository—Wolfram Language Documentation [[ow.ly]](http://ow.ly/4t7Y305x8Cp)
 
@@ -57,13 +57,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introduction to Blender scripting for Python programmers talk at PyCon Israel 2016 [[ow.ly]](http://ow.ly/c506305qyZs)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2015: Windows 10 Promises Better Audio &amp; MIDI Performance, Easier App Development – Synthtopia [[ow.ly]](http://ow.ly/5l1L305zNtS)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2015: Windows 10 Promises Better Audio & MIDI Performance, Easier App Development – Synthtopia [[ow.ly]](http://ow.ly/5l1L305zNtS)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create Professional Videos on Linux with OpenShot | [[linux.com]](http://Linux.com) | The source for Linux information [[ow.ly]](http://ow.ly/t3Pj305sCn2)
 
 [<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RickStrahl.jpg">](http://t.co/WpmgWuVQVK "Rick Strahl [RickStrahl]") How did I not know about Format String Sections before? ; separates pos/neg/zero values. Formatting more limited th… [[twitter.com]](https://twitter.com/i/web/status/793926774044274688)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a reminder from four years ago about [@Microsoft](http://twitter.com/Microsoft) PixelSense [[ow.ly]](http://ow.ly/5Lsw305zVfg) &lt;= [@SamsungUS](http://twitter.com/SamsungUS)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a reminder from four years ago about [@Microsoft](http://twitter.com/Microsoft) PixelSense [[ow.ly]](http://ow.ly/5Lsw305zVfg) <= [@SamsungUS](http://twitter.com/SamsungUS)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Falsehoods programmers believe about networks [[ow.ly]](http://ow.ly/2U7Q305u1Ov)
 

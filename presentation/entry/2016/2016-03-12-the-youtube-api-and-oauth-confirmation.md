@@ -42,7 +42,7 @@ Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:
 [TestProperty("channelPlaylistId", "UUp4cuWZKxR5ZNbcWrP1DozA")
 [TestProperty("googleServerApiKey", "XXXXXXXXX")]
 [TestProperty("uriBase", "https://www.googleapis.com/youtube/v3")]
-[TestProperty("uriTemplate", "playlistItems?part=snippet,contentDetails&amp;playlistId={playlistId}&amp;maxResults=10&amp;key={apiKey}")]
+[TestProperty("uriTemplate", "playlistItems?part=snippet,contentDetails&playlistId={playlistId}&maxResults=10&key={apiKey}")]
 public void ShouldGetPlaylistItems()
 {
     #region test properties:

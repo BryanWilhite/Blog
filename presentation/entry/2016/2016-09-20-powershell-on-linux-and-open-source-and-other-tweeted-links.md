@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Automation webhooks [[azure.microsoft.com]](https://azure.microsoft.com/en-us/documentation/articles/automation-webhooks/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Citrix replacement for Microsoft Azure RemoteApp is coming in 2017 [[zd.net]](http://zd.net/2aYE0ky) via [@ZDNet](http://twitter.com/ZDNet) &amp; [@maryjofoley](http://twitter.com/maryjofoley)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Citrix replacement for Microsoft Azure RemoteApp is coming in 2017 [[zd.net]](http://zd.net/2aYE0ky) via [@ZDNet](http://twitter.com/ZDNet) & [@maryjofoley](http://twitter.com/maryjofoley)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft announces preview of Azure App Service MySQL in-app [[mspoweruser.com]](http://mspoweruser.com/microsoft-announces-preview-azure-app-service-mysql-app/)
 

@@ -90,7 +90,7 @@ sudo npm install -g gulp
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-get install ruby
 sudo gem install sass
-history -c &amp;&amp; history -w &amp;&amp; exit
+history -c && history -w && exit
 ```
 
 It may not be necessary to *manually* install these for gulp:

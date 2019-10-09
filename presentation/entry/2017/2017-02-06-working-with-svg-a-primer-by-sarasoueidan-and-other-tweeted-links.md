@@ -29,19 +29,19 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Sara Soueidan: SVG for Web Designers (and Developers) [[youtube.com]](https://www.youtube.com/watch?v=q4QI9iOeyPo)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") grunticon-like build system [[npmjs.com]](https://www.npmjs.com/package/gulp-iconify) &lt;= [@SaraSoueidan](http://twitter.com/SaraSoueidan)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") grunticon-like build system [[npmjs.com]](https://www.npmjs.com/package/gulp-iconify) <= [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Better Interfaces With SVG | CSSConf Austrailia 2015 [[youtube.com]](https://www.youtube.com/watch?v=lMFfTRiipOQ)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with GSAP (GreenSock Animation Platform) | GreenSock [[greensock.com]](https://greensock.com/get-started-js) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Icon Font &amp; SVG Icon Sets ❍ IcoMoon [[icomoon.io]](https://icomoon.io/) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)]
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Icon Font & SVG Icon Sets ❍ IcoMoon [[icomoon.io]](https://icomoon.io/) [recommended by [@SaraSoueidan](http://twitter.com/SaraSoueidan)]
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 5 Gotchas You're Gonna Face Getting Inline SVG Into Production | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/gotchas-on-getting-svg-into-production/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Front End Center — Why Inline SVG is Best SVG [[youtube.com]](https://www.youtube.com/watch?v=af4ZQJ14yu8)[@glenmaddern](http://twitter.com/glenmaddern) &lt;=&gt; [@SaraSoueidan](http://twitter.com/SaraSoueidan)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Front End Center — Why Inline SVG is Best SVG [[youtube.com]](https://www.youtube.com/watch?v=af4ZQJ14yu8)[@glenmaddern](http://twitter.com/glenmaddern) <=> [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Styling SVG &lt;use&gt; Content with CSS | Codrops [[tympanus.net]](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Styling SVG `<use>` Content with CSS | Codrops [[tympanus.net]](http://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)[@SaraSoueidan](http://twitter.com/SaraSoueidan)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Road to SVG and Custom Elements in Clarity Icons – Clarity Design System – Medium [[medium.com]](https://medium.com/claritydesignsystem/the-road-to-svg-and-custom-elements-in-clarity-icons-1d691c6cc91#.loo8njjtn)
 

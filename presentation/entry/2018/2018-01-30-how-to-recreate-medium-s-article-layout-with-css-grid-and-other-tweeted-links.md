@@ -27,7 +27,7 @@
 
 [<img alt="Minko Gechev [mgechev]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mgechev.jpg">](https://t.co/7KvH8Bz1QN "Minko Gechev [mgechev]") Conditional types in TypeScript ❤[[github.com]](https://github.com/Microsoft/TypeScript/pull/21316)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") .[@TypeScriptLang](http://twitter.com/TypeScriptLang) 2.4 added support for dynamic import() expressions, allowing you to asynchronously load &amp; execute… [[twitter.com]](https://twitter.com/i/web/status/955458788697563137)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") .[@TypeScriptLang](http://twitter.com/TypeScriptLang) 2.4 added support for dynamic import() expressions, allowing you to asynchronously load & execute… [[twitter.com]](https://twitter.com/i/web/status/955458788697563137)
 
 [<img alt="Andy Kirk [visualisingdata]" src="https://songhay.blob.core.windows.net/shared-social-twitter/visualisingdata.jpg">](https://t.co/JAymqQeZJs "Andy Kirk [visualisingdata]") NEW POST: 10 significant visualisation developments, July to December 2017 [[visualisingdata.com]](http://www.visualisingdata.com/2018/01/10-significant-visualisation-developments-july-december-2017/)[[twitter.com]](https://twitter.com/visualisingdata/status/955379225757962241/photo/1)
 

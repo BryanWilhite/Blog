@@ -29,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Eric's Archived Thoughts: Scaling SVG Clipping Paths for CSS Use [[meyerweb.com]](http://meyerweb.com/eric/thoughts/2017/02/24/scaling-svg-clipping-paths-for-css-use/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using SVG as an &lt;object&gt; [[css-tricks.com]](https://css-tricks.com/using-svg/)[@chriscoyier](http://twitter.com/chriscoyier) « [@SaraSoueidan](http://twitter.com/SaraSoueidan) [screenshot from video… [[twitter.com]](https://twitter.com/i/web/status/857986614806679552)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using SVG as an `<object>` [[css-tricks.com]](https://css-tricks.com/using-svg/)[@chriscoyier](http://twitter.com/chriscoyier) « [@SaraSoueidan](http://twitter.com/SaraSoueidan) [screenshot from video… [[twitter.com]](https://twitter.com/i/web/status/857986614806679552)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 09: SVG with Data URIs | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/lodge/svg/09-svg-data-uris/)[@chriscoyier](http://twitter.com/chriscoyier) « [@SaraSoueidan](http://twitter.com/SaraSoueidan)
 

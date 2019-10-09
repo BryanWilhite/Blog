@@ -59,7 +59,7 @@
 
 [<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](https://t.co/QYHvGE7Gju "Jeffrey Snover [jsnover]") .[@Lee_Holmes](http://twitter.com/Lee_Holmes) makes a great point at the 22:00 mark. Azure Stack is designed to have Operators not "Administrators"… [[twitter.com]](https://twitter.com/i/web/status/959812671175516160)
 
-[<img alt="Antonio Figueiredo [afigueiredo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/afigueiredo.jpg">](https://t.co/EZGzdAD8RY "Antonio Figueiredo [afigueiredo]") Artificial Intelligence &amp; Machine Learning: A Primer [[bit.ly]](http://bit.ly/AIantonio) * What’s [#AI](http://twitter.com/search?q=%23AI)? * Which [#ML](http://twitter.com/search?q=%23ML) Algorithm T… [[twitter.com]](https://twitter.com/i/web/status/953268750467391495)
+[<img alt="Antonio Figueiredo [afigueiredo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/afigueiredo.jpg">](https://t.co/EZGzdAD8RY "Antonio Figueiredo [afigueiredo]") Artificial Intelligence & Machine Learning: A Primer [[bit.ly]](http://bit.ly/AIantonio) * What’s [#AI](http://twitter.com/search?q=%23AI)? * Which [#ML](http://twitter.com/search?q=%23ML) Algorithm T… [[twitter.com]](https://twitter.com/i/web/status/953268750467391495)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") MySQL founder tries a new software licensing model [[techcrunch.com]](https://techcrunch.com/2016/08/19/mysql-founder-tries-a-new-software-licensing-model/?m=1)
 

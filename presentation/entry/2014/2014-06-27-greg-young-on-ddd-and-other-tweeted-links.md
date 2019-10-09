@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-06-27-greg-young-on-ddd-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis &amp; I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis & I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo [http://t.co/Q8PGaavi2O](http://t.co/Q8PGaavi2O) [#DDD](http://search.twitter.com/search?q=%23DDD)</span>
 
-[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://t.co/FtL7wpKePq "Julie Lerman [julielerman]") <span>In case you missed it the Domain-Driven Design Fundamentals course that [@ardalis](http://twitter.com/ardalis) &amp; I created is now on [@pluralsight](http://twitter.com/pluralsight)! [http://t.co/fQWsAPX4bX](http://t.co/fQWsAPX4bX)</span>
+[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://t.co/FtL7wpKePq "Julie Lerman [julielerman]") <span>In case you missed it the Domain-Driven Design Fundamentals course that [@ardalis](http://twitter.com/ardalis) & I created is now on [@pluralsight](http://twitter.com/pluralsight)! [http://t.co/fQWsAPX4bX](http://t.co/fQWsAPX4bX)</span>
 
 [<img alt="Mike Taulty [mtaulty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mtaulty.png">](http://t.co/iVomBMJ51E "Mike Taulty [mtaulty]") <span>not enjoying the docs on RichEditBox [http://t.co/8NH8CtxIPi](http://t.co/8NH8CtxIPi) - feels like it's been doc'd by a machine?</span>
 

@@ -73,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 feature update version 1703 tried to install itself twice on my Farm Tuff build, two different ways -sev… [[twitter.com]](https://twitter.com/i/web/status/852983110035587072)
 
-[<img alt="SparkGrowth [Spark_Growth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Spark_Growth.jpeg">](https://t.co/QnxeCpfTI8 "SparkGrowth [Spark_Growth]") Tameika Reed, Founder Women in Linux, "You don't need to stay on the help desk &amp; make 30k, come over here for 150k" [[twitter.com]](https://twitter.com/Spark_Growth/status/730170491244261376/photo/1)
+[<img alt="SparkGrowth [Spark_Growth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Spark_Growth.jpeg">](https://t.co/QnxeCpfTI8 "SparkGrowth [Spark_Growth]") Tameika Reed, Founder Women in Linux, "You don't need to stay on the help desk & make 30k, come over here for 150k" [[twitter.com]](https://twitter.com/Spark_Growth/status/730170491244261376/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A mentor's best practices for guiding new coders | [[opensource.com]](http://Opensource.com)[[opensource.com]](https://opensource.com/article/17/2/why-you-should-be-mentor)
 
@@ -95,7 +95,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") lame hackers guide: Weaponizing PostScript [[lamehackersguide.blogspot.com]](https://lamehackersguide.blogspot.com/2017/02/weaponizing-postscript.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hackers who took control of PC microphones siphon &gt;600 GB from 70 targets | Ars Technica [[arstechnica.com]](https://arstechnica.com/security/2017/02/hackers-who-took-control-of-pc-microphones-siphon-600-gb-from-70-targets/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hackers who took control of PC microphones siphon >600 GB from 70 targets | Ars Technica [[arstechnica.com]](https://arstechnica.com/security/2017/02/hackers-who-took-control-of-pc-microphones-siphon-600-gb-from-70-targets/)
 
 [<img alt="John Fitzpatrick [j_c_fitz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/j_c_fitz.jpg">]( "John Fitzpatrick [j_c_fitz]") A modern-day one-room schoolhouse:[[npr.org]](http://www.npr.org/sections/ed/2016/06/09/474976731/the-one-room-schoolhouse-thats-a-model-for-the-world)
 

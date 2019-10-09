@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for at least four months I've been freakonomically wasting money on unused [@Azure](http://twitter.com/Azure) Redis service [[twitter.com]](http://twitter.com/BryanWilhite/status/746063567011491840/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment => [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
 
 [<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis
 

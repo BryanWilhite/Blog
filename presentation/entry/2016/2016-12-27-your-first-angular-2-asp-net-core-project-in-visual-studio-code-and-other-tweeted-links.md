@@ -49,11 +49,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") When I grow up I want to be a .NETStandard Library! [[ow.ly]](http://ow.ly/dIa4306UuRh)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[akka.net]](http://Akka.NET): The Future of Distributed Programming in .NET - Aaron Stannard [[ow.ly]](http://ow.ly/J3W33070q7R) &lt;= [@Odytrice](http://twitter.com/Odytrice), [@robertsjason](http://twitter.com/robertsjason)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[akka.net]](http://Akka.NET): The Future of Distributed Programming in .NET - Aaron Stannard [[ow.ly]](http://ow.ly/J3W33070q7R) <= [@Odytrice](http://twitter.com/Odytrice), [@robertsjason](http://twitter.com/robertsjason)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An introduction to property-based testing | F# for fun and profit [[ow.ly]](http://ow.ly/kIAG3070Ile) &lt;= [@Bizmonger](http://twitter.com/Bizmonger), [@Odytrice](http://twitter.com/Odytrice)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An introduction to property-based testing | F# for fun and profit [[ow.ly]](http://ow.ly/kIAG3070Ile) <= [@Bizmonger](http://twitter.com/Bizmonger), [@Odytrice](http://twitter.com/Odytrice)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Attaching functions to types | F# for fun and profit [[ow.ly]](http://ow.ly/CtGi3070IzI) [ "type extensions"] &lt;= [@Odytrice](http://twitter.com/Odytrice), [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Attaching functions to types | F# for fun and profit [[ow.ly]](http://ow.ly/CtGi3070IzI) [ "type extensions"] <= [@Odytrice](http://twitter.com/Odytrice), [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Talking to Ody about F#, Akka, Architects, Property-based Testing [[ow.ly]](http://ow.ly/Zxun3070qgb)[@Odytrice](http://twitter.com/Odytrice), [@Bizmonger](http://twitter.com/Bizmonger), [@robertsjason](http://twitter.com/robertsjason)
 
@@ -63,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") PowerShell and XML Fundamentals - Petri [[ow.ly]](http://ow.ly/1qqI306YPAG)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Integration Tests are a Scam [[ow.ly]](http://ow.ly/VH2S306Zu6Q)[@DamianM](http://twitter.com/DamianM) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Integration Tests are a Scam [[ow.ly]](http://ow.ly/VH2S306Zu6Q)[@DamianM](http://twitter.com/DamianM) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Free eBook: Containerized Docker Application Lifecycle with Microsoft Platform and Tools – Build Azure [[ow.ly]](http://ow.ly/h1j6306YPkm)
 
@@ -75,9 +75,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How would you change the Mac mini? | iMore [[ow.ly]](http://ow.ly/nr963071vUY)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EHX Reggie Watts explores the new 45000 multi-track looping recorder [[ow.ly]](http://ow.ly/EBqe3070RXi) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EHX Reggie Watts explores the new 45000 multi-track looping recorder [[ow.ly]](http://ow.ly/EBqe3070RXi) => [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bad News, Y'all: Your Hiring Process is Also Your Engineering Process [[ow.ly]](http://ow.ly/1q6e306Qknm) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bad News, Y'all: Your Hiring Process is Also Your Engineering Process [[ow.ly]](http://ow.ly/1q6e306Qknm) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Talks that changed the way I think about programming – Oliver Powell [[ow.ly]](http://ow.ly/jrFQ306VwcZ)
 
@@ -89,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Professor Beekums: What Makes A Senior Software Developer? [[ow.ly]](http://ow.ly/l4xf30723s7)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silicon Valley’s bias against marketing obliterates value everywhere it goes [[ow.ly]](http://ow.ly/mnQu3071wro) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silicon Valley’s bias against marketing obliterates value everywhere it goes [[ow.ly]](http://ow.ly/mnQu3071wro) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") All of Richard Feynman’s physics lectures are now available free online - ScienceAlert [[ow.ly]](http://ow.ly/1v9U3071EeE)
 

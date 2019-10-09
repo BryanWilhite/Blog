@@ -37,7 +37,7 @@
 
 [<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3 "Raymond Hettinger [raymondh]")[#python](http://twitter.com/search?q=%23python) factlet: Byte arrays have a dual personality with both list methods and string methods. Converting to a r… [[twitter.com]](https://twitter.com/i/web/status/976717113841692672)
 
-[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3 "Raymond Hettinger [raymondh]")[#python](http://twitter.com/search?q=%23python) tip: How do you combine a list of lists into a single set? &gt;&gt;&gt; lol = [['a', 'b', 'c'], ['b', 'c', 'd'], [… [[twitter.com]](https://twitter.com/i/web/status/975964122595581952)
+[<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3 "Raymond Hettinger [raymondh]")[#python](http://twitter.com/search?q=%23python) tip: How do you combine a list of lists into a single set? >>> lol = [['a', 'b', 'c'], ['b', 'c', 'd'], [… [[twitter.com]](https://twitter.com/i/web/status/975964122595581952)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") wow, in a few seconds [@VisualStudio](http://twitter.com/VisualStudio) taught me _exactly_ what the new pattern-matching feature is all about. [[twitter.com]](https://twitter.com/BryanWilhite/status/976545506187821057/photo/1)
 
@@ -91,7 +91,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") this chart suggests (to me) that the new way to escape Java is through [#Kotilin](http://twitter.com/search?q=%23Kotilin) [[[insights.stackoverflow.com]](https://insights.stackoverflow.com/survey/2018/#technology-how-technologies-are-connected)] [[twitter.com]](https://twitter.com/BryanWilhite/status/975841789897658368/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i guess this chart makes sense for a younger demographic, working at companies with &lt;=99 employees (i expected a ma… [[twitter.com]](https://twitter.com/i/web/status/975843536477110272)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i guess this chart makes sense for a younger demographic, working at companies with <=99 employees (i expected a ma… [[twitter.com]](https://twitter.com/i/web/status/975843536477110272)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") this chart shows that [@StackOverflow](http://twitter.com/StackOverflow) males de-prioritize culture and other social structuring than [@StackOverflow](http://twitter.com/StackOverflow) f… [[twitter.com]](https://twitter.com/i/web/status/975844524994961410)
 
@@ -111,7 +111,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/9Xfl8ctNuMQ?a) Uber suspends self-drive programme in North America after fatal accident in Arizona
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/1lUK_hf5CbA?a) 0 Zero Water Test / Comparison with Fiji, Evian, Aquafina &amp; Remineralization
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/1lUK_hf5CbA?a) 0 Zero Water Test / Comparison with Fiji, Evian, Aquafina & Remineralization
 
 [<img alt="Scott Nimrod [Bizmonger]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Bizmonger.jpg">](https://t.co/G8pgR1Zwwz "Scott Nimrod [Bizmonger]") Have you ever struggled to stay quiet after reviewing someone's GitHub repo based on an abundance of refactoring op… [[twitter.com]](https://twitter.com/i/web/status/976790507069288449)
 

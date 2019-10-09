@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Choreographer-j's: A simple library to take care of complex CSS animations. [[github.com]](https://github.com/christinecha/choreographer-js)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia Q&amp;A with BeMyApp [[blog.aurelia.io]](http://blog.aurelia.io/2016/09/28/aurelia-q-a-with-bemyapp/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia Q&A with BeMyApp [[blog.aurelia.io]](http://blog.aurelia.io/2016/09/28/aurelia-q-a-with-bemyapp/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Basics of JavaScript Framework SEO in AngularJS [[builtvisible.com]](https://builtvisible.com/javascript-framework-seo/)
 
@@ -95,13 +95,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “PowerShellGet and PackageManagement will be released via the PowerShell Gallery as changes become available” [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/powershell/2016/09/29/powershellget-and-packagemanagement-in-powershell-gallery-and-github/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for five grand, turn a dentist patient chair into a digital office workstation [[altwork.com]](http://altwork.com/product/standard-series-dark/) =&gt;… [[twitter.com]](https://twitter.com/i/web/status/781279886497329152)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") for five grand, turn a dentist patient chair into a digital office workstation [[altwork.com]](http://altwork.com/product/standard-series-dark/) =>… [[twitter.com]](https://twitter.com/i/web/status/781279886497329152)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Switzerland is the world’s most competitive economy [[swissinfo.ch]](http://www.swissinfo.ch/eng/business/wef-report_switzerland-is-the-world-s-most-competitive-economy-/42478248)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") So Long Time Warner Cable: Charter to Retire Maligned Brand [[bloom.bg]](http://bloom.bg/1TmiAxx) via [@technology](http://twitter.com/technology)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Botnet of &gt;145k cameras reportedly deliver Internet’s biggest DDoS ever [[arstechnica.com]](http://arstechnica.com/security/2016/09/botnet-of-145k-cameras-reportedly-deliver-internets-biggest-ddos-ever/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Botnet of >145k cameras reportedly deliver Internet’s biggest DDoS ever [[arstechnica.com]](http://arstechnica.com/security/2016/09/botnet-of-145k-cameras-reportedly-deliver-internets-biggest-ddos-ever/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Lumia Phones are not supported in Canada, US, and Australia” [[mspoweruser.com]](https://mspoweruser.com/lumia-devices-still-supported-us-canada-australia/)
 

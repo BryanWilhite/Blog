@@ -31,11 +31,11 @@
 
 [<img alt="Bruce Lawson [brucel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brucel.jpg">](https://t.co/XIlbZiDzyT "Bruce Lawson [brucel]") Diagnostic.css – Super quick web accessibility testing [[karlgroves.com]](http://www.karlgroves.com/2013/09/07/diagnostic-css-super-quick-web-accessibility-testing/) by groovy [@karlgroves](http://twitter.com/karlgroves)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@uxpodcast](http://twitter.com/uxpodcast)[#134](http://twitter.com/search?q=%23134) Material design with Richard Fulcher [[uxpodcast.com]](https://uxpodcast.com/134-material-design-rich-fulcher/) +RichardFulcher =&gt; [@nazsharif](http://twitter.com/nazsharif)… [[twitter.com]](https://twitter.com/i/web/status/981256313677033472)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@uxpodcast](http://twitter.com/uxpodcast)[#134](http://twitter.com/search?q=%23134) Material design with Richard Fulcher [[uxpodcast.com]](https://uxpodcast.com/134-material-design-rich-fulcher/) +RichardFulcher => [@nazsharif](http://twitter.com/nazsharif)… [[twitter.com]](https://twitter.com/i/web/status/981256313677033472)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") High Resolution [#14](http://twitter.com/search?q=%2314): Google Material Design Lead, Rich Fulcher, shares origin story of Google's design vision [[youtube.com]](https://www.youtube.com/watch?v=djYQvI_MONI)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EQFEf7Q0scg?a) ngHouston - Intro to GraphQL &amp; Angular Apollo w/ Ed Pelc
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EQFEf7Q0scg?a) ngHouston - Intro to GraphQL & Angular Apollo w/ Ed Pelc
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular — Using [@ngrx](http://twitter.com/ngrx)/store as your Apollo Cache with GraphQL [[medium.com]](https://medium.com/@charliegreenman/angular-using-ngrx-store-as-your-apollo-cache-with-graphql-d6c539932219)
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/CrqYmErtA0k?a) Tech Bytes | Building the Flowers Bot
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Voice interaction vocabulary: Intents &gt; Utterances &gt; Slots &gt; Prompts &gt; Fulfillment &lt;= [@taraw](http://twitter.com/taraw) [is this flow unique t… [[twitter.com]](https://twitter.com/i/web/status/981268621711167488)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Voice interaction vocabulary: Intents > Utterances > Slots > Prompts > Fulfillment <= [@taraw](http://twitter.com/taraw) [is this flow unique t… [[twitter.com]](https://twitter.com/i/web/status/981268621711167488)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ICSharp is an C# language kernel for Jupyter. [[github.com]](https://github.com/zabirauf/icsharp)[@zabirauf](http://twitter.com/zabirauf)
 
@@ -69,7 +69,7 @@
 
 [<img alt="Don Syme [dsyme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dsyme.jpeg">](http://t.co/FNdmncbXmQ "Don Syme [dsyme]") Just to say "Get Programming with F#" is a fantastic book. Highly practical, well balanced, nicely presented, thoug… [[twitter.com]](https://twitter.com/i/web/status/980797894558089216)
 
-[<img alt="Tornhoof [torn_hoof]" src="https://songhay.blob.core.windows.net/shared-social-twitter/torn_hoof.jpg">]( "Tornhoof [torn_hoof]") The new TryFormat methods for Span&lt;char&gt; in .NET Core App 2.1 are really fast, wrote my own JSON Serializer for tes… [[twitter.com]](https://twitter.com/i/web/status/981230743589457922)
+[<img alt="Tornhoof [torn_hoof]" src="https://songhay.blob.core.windows.net/shared-social-twitter/torn_hoof.jpg">]( "Tornhoof [torn_hoof]") The new TryFormat methods for `Span<char>` in .NET Core App 2.1 are really fast, wrote my own JSON Serializer for tes… [[twitter.com]](https://twitter.com/i/web/status/981230743589457922)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Transforming Code into Beautiful, Idiomatic Python [[youtube.com]](https://www.youtube.com/watch?v=OSGv2VnC0go) -Raymond Hettinger
 
@@ -83,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") so I have two .NET Standard 2.0 projects with different SDK references, probably causing System.Runtime version cla… [[twitter.com]](https://twitter.com/i/web/status/981204736786354176)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ah, i see the error of my ways: i do NOT have two .NET Standard 2.0 projects; i need to do this: &lt;TargetFramework&gt;… [[twitter.com]](https://twitter.com/i/web/status/981206343825555456)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ah, i see the error of my ways: i do NOT have two .NET Standard 2.0 projects; i need to do this: <TargetFramework>… [[twitter.com]](https://twitter.com/i/web/status/981206343825555456)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple will reportedly ditch Intel chips in Macs as early as 2020 [[theverge.com]](https://www.theverge.com/circuitbreaker/2018/4/2/17189372/apple-intel-chip-processors-macs-date?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) via [@Verge](http://twitter.com/Verge)
 

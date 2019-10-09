@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-12-21-what-s-new-for-uwp-developers-in-visual-studio-2017-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]        ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [ow.ly] [remove/sort XAML namespaces!]        ~15 years trying to make everyone separate HTML, JS & CSS. And then suddenly everything went south and we’re writin… [...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's new for UWP developers in Visual Studio 2017? | Connect(); // 2016 | Channel 9 [[ow.ly]](http://ow.ly/b76B306xqqP) [remove/sort XAML namespaces!]
 
-[<img alt="Thomas Fuchs [thomasfuchs]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thomasfuchs.jpg">](https://t.co/zz1pMnks83 "Thomas Fuchs [thomasfuchs]") ~15 years trying to make everyone separate HTML, JS &amp; CSS. And then suddenly everything went south and we’re writin… [[twitter.com]](https://twitter.com/i/web/status/810885087214637057)
+[<img alt="Thomas Fuchs [thomasfuchs]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thomasfuchs.jpg">](https://t.co/zz1pMnks83 "Thomas Fuchs [thomasfuchs]") ~15 years trying to make everyone separate HTML, JS & CSS. And then suddenly everything went south and we’re writin… [[twitter.com]](https://twitter.com/i/web/status/810885087214637057)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "One of the slowest, least memory efficient, and most inelegant GUI application platforms out there" [[ow.ly]](http://ow.ly/dnR9306vDSf)
 
@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Productivity in Visual Studio 2017 RC | The Visual Studio Blog [[ow.ly]](http://ow.ly/z8Bd306CqtA)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Rider, the New .NET IDE webinar: recording and Q&amp;A | ReSharper Ultimate Blog [[ow.ly]](http://ow.ly/TPiM306CqBl)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Rider, the New .NET IDE webinar: recording and Q&A | ReSharper Ultimate Blog [[ow.ly]](http://ow.ly/TPiM306CqBl)
 
 [<img alt="Rick Pack [rick_pack2]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rick_pack2.jpg">](https://t.co/iThPDobRHr "Rick Pack [rick_pack2]") My new blog post: "F# Data Visualization for a Neophyte - CDC Open Data" [[rickpackblog.wordpress.com]](https://rickpackblog.wordpress.com/2016/11/27/f-data-visualization-for-a-neophyte-cdc-open-data/)[#fsharp](http://twitter.com/search?q=%23fsharp)[#FsAdvent](http://twitter.com/search?q=%23FsAdvent)[@sergey_tihon](http://twitter.com/sergey_tihon)
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") When do you put double semicolons in F#? - Stack Overflow [[ow.ly]](http://ow.ly/tfRa306xtgl)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's New in F# 4.1 | Connect(); // 2016 | Channel 9 [[ow.ly]](http://ow.ly/D53R306xpDN) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's New in F# 4.1 | Connect(); // 2016 | Channel 9 [[ow.ly]](http://ow.ly/D53R306xpDN) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NativeInterop.NativePtr Module (F#) [[ow.ly]](http://ow.ly/rtpj306xqfb)
 

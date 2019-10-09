@@ -105,7 +105,7 @@
 
 [<img alt="MSExpression [MSExpression]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MSExpression.png">](http://expression.microsoft.com "MSExpression [MSExpression]") <span>Using a [#RSS](http://search.twitter.com/search?q=%23RSS) Feed to Populate Data in [#Expression](http://search.twitter.com/search?q=%23Expression) [#Blend](http://search.twitter.com/search?q=%23Blend) - [http://t.co/S8ilJOHk](http://t.co/S8ilJOHk) - [#msexp](http://search.twitter.com/search?q=%23msexp)</span>
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](http://hanselman.com "Scott Hanselman [shanselman]") <span>Pretty cool line up at the Patterns &amp; Practices Symposium 2012 this year. It's FREE and streamed live: [http://t.co/yVlrpC9t](http://t.co/yVlrpC9t)</span>
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](http://hanselman.com "Scott Hanselman [shanselman]") <span>Pretty cool line up at the Patterns & Practices Symposium 2012 this year. It's FREE and streamed live: [http://t.co/yVlrpC9t](http://t.co/yVlrpC9t)</span>
 
 [<img alt="Martin Fowler [martinfowler]" src="https://songhay.blob.core.windows.net/shared-social-twitter/martinfowler.jpg">](http://www.martinfowler.com/ "Martin Fowler [martinfowler]") <span>Not enough people know how to do evolutionary database design, so here's a good talk by [@pramodsadalage](http://twitter.com/pramodsadalage) on infoq [http://t.co/abMDT9Is](http://t.co/abMDT9Is)</span>
 

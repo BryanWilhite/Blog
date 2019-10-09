@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-11-27-javascript-is-like-leaded-gasoline-toxic-bad-for-everyone-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"JavaScript is like leaded gasoline; toxic, bad for everyone, but readily available and with few alternatives. Like in the 60’s - people will go to great lengths to justify it. [twitter.com] JavaScript        &gt; \\\"\\\" == []       true        wat        Has...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"JavaScript is like leaded gasoline; toxic, bad for everyone, but readily available and with few alternatives. Like in the 60’s - people will go to great lengths to justify it. [twitter.com] JavaScript        > \\\"\\\" == []       true        wat        Has...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx) JavaScript is like leaded gasoline; toxic, bad for everyone, but readily available and with few alternatives. Like in the 60’s - people will go to great lengths to justify it. [[twitter.com]](https://twitter.com/bartekus/status/1006912526339043328)
 
-[<img alt="The New Number 2 [JulianBirch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JulianBirch.jpeg">](https://t.co/kvnxrJprUz) JavaScript &gt; "" == [] true wat Haskell &gt; "" == [] True Well, that makes sense.
+[<img alt="The New Number 2 [JulianBirch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JulianBirch.jpeg">](https://t.co/kvnxrJprUz) JavaScript `> "" == [] true` wat Haskell `> "" == [] True` Well, that makes sense.
 
 [<img alt="Jakob Gruber [schuay]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/schuay.jpg">](https://t.co/XpMvrRPBOV) In case you're wondering why JS suddenly seems to give weird results for historical dates (e.g. pre-1880 in Los Angeles), here's why: [[crbug.com]](https://crbug.com/849404#c5). Prior to the definition of standard timezones, timezone offsets are based on longitude. [[twitter.com]](https://twitter.com/schuay/status/1007161237669638146/photo/1)
 
@@ -47,9 +47,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) C# Console UWP Applications [[blogs.windows.com]](https://blogs.windows.com/buildingapps/2018/06/06/c-console-uwp-applications/#.Wx8Icp77KE4.twitter)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[asp.net]](http://ASP.NET) Core Architect David Fowler's hidden gems in 2.1 [[hanselman.com]](https://www.hanselman.com/blog/ASPNETCoreArchitectDavidFowlersHiddenGemsIn21.aspx)[@shanselman](http://twitter.com/@shanselman) =&gt; [@davidfowl](http://twitter.com/@davidfowl)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[asp.net]](http://ASP.NET) Core Architect David Fowler's hidden gems in 2.1 [[hanselman.com]](https://www.hanselman.com/blog/ASPNETCoreArchitectDavidFowlersHiddenGemsIn21.aspx)[@shanselman](http://twitter.com/@shanselman) => [@davidfowl](http://twitter.com/@davidfowl)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@chocolateynuget](http://twitter.com/@chocolateynuget) =&gt; github-desktop [[[chocolatey.org]](https://chocolatey.org/packages/github-desktop)]: This essentially replaces [[chocolatey.org]](http://chocolatey.org/packages/GitHub) but is a different application. &lt;= [@haacked](http://twitter.com/@haacked)[[twitter.com]](https://twitter.com/BryanWilhite/status/1007323992514916352/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@chocolateynuget](http://twitter.com/@chocolateynuget) => github-desktop [[[chocolatey.org]](https://chocolatey.org/packages/github-desktop)]: This essentially replaces [[chocolatey.org]](http://chocolatey.org/packages/GitHub) but is a different application. <= [@haacked](http://twitter.com/@haacked)[[twitter.com]](https://twitter.com/BryanWilhite/status/1007323992514916352/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Open Sourcing Uno with Francois Tanguay and Jerome Laban [[dotnetrocks.com]](http://www.dotnetrocks.com/?show=1552)[@carlfranklin](http://twitter.com/@carlfranklin)
 
@@ -63,7 +63,7 @@
 
 [<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoApej) Did you know the Invoke-VSTeamRequest in the VSTeam [@VSTS](http://twitter.com/@VSTS)[#PowerShell](http://twitter.com/search?q='%23PowerShell) module lets you call any VSTS/TFS API! No need to wait for it to be wrapped. Call any API today! All the hard parts are taken care of for you. [[powershellgallery.com]](https://www.powershellgallery.com/packages/VSTeam)[[twitter.com]](https://twitter.com/DonovanBrown/status/1006714363288354818/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i was tempted to use a generic list, List&lt;T&gt;, in PowerShell to add items from an array but this article [[[jonathanmedd.net]](https://www.jonathanmedd.net/2014/01/adding-and-removing-items-from-a-powershell-array.html)] leads me to a pattern featuring {}.Invoke() then, i assume that this ‘invoked’ collection might need to be turned back into an array for cmdlets [[twitter.com]](https://twitter.com/BryanWilhite/status/1006280771231870976/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) i was tempted to use a generic list, `List<T>`, in PowerShell to add items from an array but this article [[[jonathanmedd.net]](https://www.jonathanmedd.net/2014/01/adding-and-removing-items-from-a-powershell-array.html)] leads me to a pattern featuring {}.Invoke() then, i assume that this ‘invoked’ collection might need to be turned back into an array for cmdlets [[twitter.com]](https://twitter.com/BryanWilhite/status/1006280771231870976/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) hey [@chocolateynuget](http://twitter.com/@chocolateynuget) folks, I assume this is a [@symantec-based](http://twitter.com/@symantec-based) false positive [Trojan.Gen.NPE.2]😬 [[[chocolatey.org]](http://chocolatey.org/packages/autohotkey.portable)] [[twitter.com]](https://twitter.com/BryanWilhite/status/1006667521464733696/photo/1)
 

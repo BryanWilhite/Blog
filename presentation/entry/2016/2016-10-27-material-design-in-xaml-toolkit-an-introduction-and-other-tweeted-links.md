@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2010: Why I'm migrating from MSTest to [[xunit.net]](http://xUnit.net)[[ow.ly]](http://ow.ly/PNjB305m9fX)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with [[xunit.net]](http://xUnit.net) (desktop) &gt; [[xunit.net]](http://xUnit.net)[[ow.ly]](http://ow.ly/9CQk305m8mu)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started with [[xunit.net]](http://xUnit.net) (desktop) > [[xunit.net]](http://xUnit.net)[[ow.ly]](http://ow.ly/9CQk305m8mu)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don’t Program in Your Continuous Integration Tool [[ow.ly]](http://ow.ly/Rl0C305nFrd)
 
@@ -85,7 +85,7 @@
 
 [<img alt="Rob Reynolds [ferventcoder]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ferventcoder.jpg">](http://t.co/7hNbqgPyIH "Rob Reynolds [ferventcoder]")[@BryanWilhite](http://twitter.com/BryanWilhite) was created by MS awhile back as a very limited prototype.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Image from Gifrocket - Create Gif from video, for Mac OS X [[ow.ly]](http://ow.ly/1xuo305m2kr) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/790537207434113024/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Image from Gifrocket - Create Gif from video, for Mac OS X [[ow.ly]](http://ow.ly/1xuo305m2kr) => [@megafunkmega](http://twitter.com/megafunkmega)[[twitter.com]](https://twitter.com/BryanWilhite/status/790537207434113024/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RT @ "Herding Code 219: Cake with Gary Park ([@gep13](http://twitter.com/gep13)) and Mattias Karlsson ([@devlead](http://twitter.com/devlead)) …" [[ow.ly]](http://ow.ly/Sol3305llOg)
 

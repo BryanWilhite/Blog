@@ -57,7 +57,7 @@
 
 [<img alt="Daniel Ehrenberg [littledan]" src="https://songhay.blob.core.windows.net/shared-social-twitter/littledan.jpg">]( "Daniel Ehrenberg [littledan]") TC39 is recommending that JS programmers use semicolons at the end of statements in code, rather than relying on AS… [[twitter.com]](https://twitter.com/i/web/status/951523844262637568)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") experimenting with [@typescriptlang](http://twitter.com/typescriptlang) enums and Map&lt;EnumK, EnumT&gt; to implement grouping with [#lodash](http://twitter.com/search?q=%23lodash)&lt;= [@Meligy](http://twitter.com/Meligy) [trying… [[twitter.com]](https://twitter.com/i/web/status/951282270362509313)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") experimenting with [@typescriptlang](http://twitter.com/typescriptlang) enums and `Map<EnumK, EnumT>` to implement grouping with [#lodash](http://twitter.com/search?q=%23lodash)<= [@Meligy](http://twitter.com/Meligy) [trying… [[twitter.com]](https://twitter.com/i/web/status/951282270362509313)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create a gulpfile and write gulp tasks using TypeScript [[medium.com]](https://medium.com/@pleerock/create-a-gulpfile-and-write-gulp-tasks-using-typescript-f08edebcac57) [npm install gulpclass --save-dev]
 

@@ -45,7 +45,7 @@
 
 [<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) a q: for this scenario, will you have only JSON blobs, or a mix of different kinds of file types?
 
-[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) If [#azuresearch](http://twitter.com/search?q=%23azuresearch) offered JSON parsing, would you be interested in being an early adopter &amp; helping us validate it?
+[<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite) If [#azuresearch](http://twitter.com/search?q=%23azuresearch) offered JSON parsing, would you be interested in being an early adopter & helping us validate it?
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@chaosrealm4](http://twitter.com/chaosrealm4) yes, i would like to help (time permitting)
 
@@ -65,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Code Magazine Article: Flexing your HTML Layout Muscles with Flexbox [[weblog.west-wind.com]](http://weblog.west-wind.com/posts/2016/Mar/03/Code-Magazine-Article-Flexing-your-HTML-Layout-Muscles-with-Flexbox)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 28 CSS Effects &amp; Tutorials All Designers Must Know About [[codewithcoffee.com]](http://www.codewithcoffee.com/28-css-effects-tutorials-designers-must-know/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 28 CSS Effects & Tutorials All Designers Must Know About [[codewithcoffee.com]](http://www.codewithcoffee.com/28-css-effects-tutorials-designers-must-know/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Infinite Scrolling, Pagination Or “Load More” Buttons? Usability Findings In eCommerce [[smashingmagazine.com]](https://www.smashingmagazine.com/2016/03/pagination-infinite-scrolling-load-more-buttons/)
 

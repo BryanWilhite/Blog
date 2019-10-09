@@ -27,7 +27,7 @@
 
 [<img alt="Hey, designer! [HeyDesigner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/HeyDesigner.png">](http://t.co/11OncaTVT7 "Hey, designer! [HeyDesigner]") <span>Responsive Design: Getting Advanced Filtering Right [http://t.co/ofYV9yaSv3](http://t.co/ofYV9yaSv3)</span>
 
-[<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.jpg">](http://t.co/A4ZEwCEPEs "Veerle Pieters [vpieters]") <span>CSS performance revisited: selectors, bloat &amp; expensive styles. Interesting analysis. [http://t.co/U6hoFXRf1E](http://t.co/U6hoFXRf1E) /via [@matthewpennell](http://twitter.com/matthewpennell)</span>
+[<img alt="Veerle Pieters [vpieters]" src="https://songhay.blob.core.windows.net/shared-social-twitter/vpieters.jpg">](http://t.co/A4ZEwCEPEs "Veerle Pieters [vpieters]") <span>CSS performance revisited: selectors, bloat & expensive styles. Interesting analysis. [http://t.co/U6hoFXRf1E](http://t.co/U6hoFXRf1E) /via [@matthewpennell](http://twitter.com/matthewpennell)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Installing and Running node.js applications within IIS on Windows - Are you mad? - Scott Hanselman [http://t.co/hPFZig0jG9](http://t.co/hPFZig0jG9)</span>
 

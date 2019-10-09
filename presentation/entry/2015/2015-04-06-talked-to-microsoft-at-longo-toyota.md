@@ -48,7 +48,7 @@ duplicates.ForEachInEnumerable(i =>
     {
         i.Skip(1).ForEachInEnumerable(j =>
         {
-            output = (j.Index &lt; output.Length) ?
+            output = (j.Index < output.Length) ?
                 output.Insert(j.Index, placeholder)
                 :
                 string.Concat(output, placeholder);

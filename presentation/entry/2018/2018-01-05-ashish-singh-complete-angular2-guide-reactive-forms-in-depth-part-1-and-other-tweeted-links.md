@@ -33,7 +33,7 @@
 
 [<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]")[[twitter.com]](https://twitter.com/code/status/948972303597080577)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Managing CSS &amp; JS in an HTTP/2 World [[viget.com]](https://www.viget.com/articles/managing-css-js-http-2)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Managing CSS & JS in an HTTP/2 World [[viget.com]](https://www.viget.com/articles/managing-css-js-http-2)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Select Random Item from an Array | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/snippets/javascript/select-random-item-array/)
 
@@ -67,13 +67,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How Uploadcare Built a Stack That Handles 350M File API Requests per Day [[stackshare.io]](https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Once Flatten() (or its equivalent) gets into MoreLinq, I can consider marking my Core IEnumerable&lt;T&gt; extensions as… [[twitter.com]](https://twitter.com/i/web/status/946490471894806528)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Once Flatten() (or its equivalent) gets into MoreLinq, I can consider marking my Core IEnumerable<T> extensions as… [[twitter.com]](https://twitter.com/i/web/status/946490471894806528)
 
 [<img alt="Atif Aziz [raboof]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raboof.jpeg">](http://t.co/5dCsrJ1CLR "Atif Aziz [raboof]")[@BryanWilhite](http://twitter.com/BryanWilhite) Feel free to chime in with your input on the design in the PR ([[goo.gl]](https://goo.gl/2gCvR9)), if you have any.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@raboof](http://twitter.com/raboof) well i did notice that you would rather use sets rather than recursion for Flatten() and my design uses recursion 😬🤠
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ok [@jonskeet](http://twitter.com/jonskeet) why do i assume you have an excellent bit of prose about MoreEnumerable.Consume&lt;T&gt;?… [[twitter.com]](https://twitter.com/i/web/status/946497730947321856)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ok [@jonskeet](http://twitter.com/jonskeet) why do i assume you have an excellent bit of prose about MoreEnumerable.Consume<T>?… [[twitter.com]](https://twitter.com/i/web/status/946497730947321856)
 
 [<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://t.co/87hG0owFaP "Jon Skeet [jonskeet]")[@BryanWilhite](http://twitter.com/BryanWilhite) I can't remember whether I originally wrote that, but it can be useful to make sure you consume a who… [[twitter.com]](https://twitter.com/i/web/status/946518445713166336)
 
@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How YouTube perfected the feed [[theverge.com]](https://www.theverge.com/2017/8/30/16222850/youtube-google-brain-algorithm-video-recommendation-personalized-feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core &amp; EF6 | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/features)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EF Core & EF6 | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/ef/efcore-and-ef6/features)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Upgrading to .NET Core and .NET Standard Made Easy [[danielcrabtree.com]](https://www.danielcrabtree.com/blog/314/upgrading-to-net-core-and-net-standard-made-easy)
 

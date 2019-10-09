@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “At..Pushing Pixels, Grouchnikov has logged..interviews with the designers who have created fictitious interfaces” [[subtraction.com]](https://www.subtraction.com/2016/06/02/a-conversation-about-fantasy-user-interfaces/)
 
-[<img alt="The New Stack [thenewstack]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thenewstack.png">](http://t.co/GAtnYGjkPr "The New Stack [thenewstack]") Microsoft’s JavaScript Engine Comes to Linux, OS X &amp; Node.js [[tnstack.io]](http://tnstack.io/tw6d302QOQl)[#ChakraCore](http://twitter.com/search?q=%23ChakraCore)[@amandaksilver](http://twitter.com/amandaksilver)[@AruneshC](http://twitter.com/AruneshC)[@nexxylove](http://twitter.com/nexxylove)
+[<img alt="The New Stack [thenewstack]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thenewstack.png">](http://t.co/GAtnYGjkPr "The New Stack [thenewstack]") Microsoft’s JavaScript Engine Comes to Linux, OS X & Node.js [[tnstack.io]](http://tnstack.io/tw6d302QOQl)[#ChakraCore](http://twitter.com/search?q=%23ChakraCore)[@amandaksilver](http://twitter.com/amandaksilver)[@AruneshC](http://twitter.com/AruneshC)[@nexxylove](http://twitter.com/nexxylove)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AngularJS: How to create a SPA crawlable and SEO friendly? [[zanon.io]](http://zanon.io/posts/angularjs-how-to-create-a-spa-crawlable-and-seo-friendly)
 

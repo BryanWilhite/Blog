@@ -40,7 +40,7 @@ See the Pen <a href='https://codepen.io/rasx/pen/dPoPbV'>kintespace.com index la
         background-image: url('#{$backgroundUri}');
     }
 }
-@media all and (max-width: 768px) /* Small devices Tablets (&lt;768px) */
+@media all and (max-width: 768px) /* Small devices Tablets (<768px) */
 {
     body
     {

@@ -49,7 +49,7 @@
 
 [<img alt="Sebastián Barschkis [sebbas]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sebbas.jpg">](https://t.co/UgHxfwJdlE "Sebastián Barschkis [sebbas]") A small test combining secondary particles and Mantaflow liquid. Think it just looks nice! [#b3d](http://twitter.com/search?q=%23b3d)[[twitter.com]](https://twitter.com/sebbas/status/930388505406115840/video/1)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Have you ever used an API &amp; discovered it didn’t work on [#Mac](http://twitter.com/search?q=%23Mac) or [#Linux](http://twitter.com/search?q=%23Linux)? Introducing API Analyzer:… [[twitter.com]](https://twitter.com/i/web/status/930165879551250432)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Have you ever used an API & discovered it didn’t work on [#Mac](http://twitter.com/search?q=%23Mac) or [#Linux](http://twitter.com/search?q=%23Linux)? Introducing API Analyzer:… [[twitter.com]](https://twitter.com/i/web/status/930165879551250432)
 
 [<img alt=".NET Team [dotnet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dotnet.png">](https://t.co/5DHCeTygAS ".NET Team [dotnet]") Having trouble moving to .NET Core because of missing Windows APIs? Introducing the Windows Compatibility Pack for… [[twitter.com]](https://twitter.com/i/web/status/931205222579318784)
 
@@ -89,7 +89,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]") Get your .NET companion, in preview: [[nuget.org]](https://www.nuget.org/packages/TensorFlowSharp/1.4.0-pre1)[[twitter.com]](https://twitter.com/tensorflow/status/927980850658136064)
 
-[<img alt="Mads Torgersen [MadsTorgersen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MadsTorgersen.jpeg">]( "Mads Torgersen [MadsTorgersen]") Check out [@jaredpar](http://twitter.com/jaredpar)'s great video about Span&lt;T&gt; and its merry friends. This is really moving the needle in a major… [[twitter.com]](https://twitter.com/i/web/status/930891929708937217)
+[<img alt="Mads Torgersen [MadsTorgersen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MadsTorgersen.jpeg">]( "Mads Torgersen [MadsTorgersen]") Check out [@jaredpar](http://twitter.com/jaredpar)'s great video about `Span<T>` and its merry friends. This is really moving the needle in a major… [[twitter.com]](https://twitter.com/i/web/status/930891929708937217)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SysSieve: Extracting Actionable Insights from Unstructured Text | Seth Juarez | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Blogs/Seth-Juarez/SysSieve-Extracting-Actionable-Insights-from-Unstructured-Text)
 

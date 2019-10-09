@@ -91,6 +91,6 @@
 
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://www.winsupersite.com "Paul Thurrott [thurrott]") <span>The Final Insult? Microsoft Explains, Dumps on, Media Center in Windows 8 [http://t.co/yTZsT3wT](http://t.co/yTZsT3wT)</span>
 
-[<img alt="Sigrid Vandenweghe [Sissi_kaizerin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Sissi_kaizerin.jpeg">]( "Sigrid Vandenweghe [Sissi_kaizerin]") <span>UI Designers Must Read: 27 years of Windows user interface (&amp; why Windows 8 looks like Windows 8) [http://t.co/XIAVXqiW](http://t.co/XIAVXqiW)</span>
+[<img alt="Sigrid Vandenweghe [Sissi_kaizerin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Sissi_kaizerin.jpeg">]( "Sigrid Vandenweghe [Sissi_kaizerin]") <span>UI Designers Must Read: 27 years of Windows user interface (& why Windows 8 looks like Windows 8) [http://t.co/XIAVXqiW](http://t.co/XIAVXqiW)</span>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

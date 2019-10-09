@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-12-17-ngrx-entity-complete-practical-guide-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"NgRx Entity - Complete Practical Guide. By angular-university [bit.ly] I agree w/ @Elijah_Meeks ([medium.com]) &amp; @enjalot ([medium.com]) that #d3js is a collection of tools to help with different aspects of #dataviz. Building on that, I tried to plac...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"NgRx Entity - Complete Practical Guide. By angular-university [bit.ly] I agree w/ @Elijah_Meeks ([medium.com]) & @enjalot ([medium.com]) that #d3js is a collection of tools to help with different aspects of #dataviz. Building on that, I tried to plac...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="NG Tutorial 🔥 [NG_Tutorial]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NG_Tutorial.jpg">](https://twitter.com/NG_Tutorial) NgRx Entity - Complete Practical Guide. By angular-university [[bit.ly]](http://bit.ly/2zyw3lT)
 
-[<img alt="Shirley Wu [sxywu]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sxywu.jpg">](https://t.co/3BNI4mxJ3x) I agree w/ [@Elijah_Meeks](http://twitter.com/@Elijah_Meeks) ([[medium.com]](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)) &amp; [@enjalot](http://twitter.com/@enjalot) ([[medium.com]](https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f)) that [#d3js](http://twitter.com/search?q='%23d3js) is a collection of tools to help with different aspects of [#dataviz](http://twitter.com/search?q='%23dataviz). Building on that, I tried to place APIs based on when I might use them and how they might feed into each other. [[twitter.com]](https://twitter.com/sxywu/status/1022661806559395841/photo/1)
+[<img alt="Shirley Wu [sxywu]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sxywu.jpg">](https://t.co/3BNI4mxJ3x) I agree w/ [@Elijah_Meeks](http://twitter.com/@Elijah_Meeks) ([[medium.com]](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520)) & [@enjalot](http://twitter.com/@enjalot) ([[medium.com]](https://medium.com/dailyjs/the-trouble-with-d3-4a84f7de011f)) that [#d3js](http://twitter.com/search?q='%23d3js) is a collection of tools to help with different aspects of [#dataviz](http://twitter.com/search?q='%23dataviz). Building on that, I tried to place APIs based on when I might use them and how they might feed into each other. [[twitter.com]](https://twitter.com/sxywu/status/1022661806559395841/photo/1)
 
 [<img alt="Mislav Marohnić [mislav]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mislav.jpg">](https://t.co/bCb4eCl9pQ) We’re finally finished removing jQuery from [[github.com]](http://GitHub.com) frontend. What did we replace it with? No framework whatsoever: • querySelectorAll, • fetch for ajax, • delegated-events for event handling, • polyfills for standard DOM stuff, • CustomElements on the rise.
 
@@ -33,7 +33,7 @@
 
 [<img alt="Luke Hefson [lukehefson]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/lukehefson.jpg">](https://t.co/oDFa2whITl) I’m product managing a team that makes lots of small, rad, quick UX wins across GitHub and it’s amazing. Let me know if you’ve got any little UX nits on the site that I should look into!
 
-[<img alt="Rob DiMarzo [robdimarzo]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/robdimarzo.jpg">](https://t.co/oeBhiVSYv5) Have you ever visited a web page and wondered how all that underlying &lt;code&gt; becomes *visual*? Here’s an A W E S O M E (and fun) read from [@linclark](http://twitter.com/@linclark) of what goes on under the hood of web browsers⚡️ Thanks for the link [@jensimmons](http://twitter.com/@jensimmons)[[hacks.mozilla.org]](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+[<img alt="Rob DiMarzo [robdimarzo]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/robdimarzo.jpg">](https://t.co/oeBhiVSYv5) Have you ever visited a web page and wondered how all that underlying `<code>` becomes *visual*? Here’s an A W E S O M E (and fun) read from [@linclark](http://twitter.com/@linclark) of what goes on under the hood of web browsers⚡️ Thanks for the link [@jensimmons](http://twitter.com/@jensimmons)[[hacks.mozilla.org]](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 
 [<img alt="Endy Tjahjono [endy_tj]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/endy_tj.jpg">](http://t.co/WhlU8GoWcY) Very informative [@Hanselminutes](http://twitter.com/@Hanselminutes) podcast about Blazor: [[hanselminutes.com]](https://hanselminutes.com/642/blazor-brings-net-to-web-assembly-with-steve-sanderson) Thanks [@shanselman](http://twitter.com/@shanselman) and [@stevensanderson](http://twitter.com/@stevensanderson) for the info!
 

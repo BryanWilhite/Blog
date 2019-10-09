@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Death of Object-Oriented Programming [video] [[youtube.com]](https://www.youtube.com/watch?v=ifW0qEJ7OTM)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Moto X 2nd Gen [2014] [@geekyranjit](http://twitter.com/geekyranjit)[[youtube.com]](https://www.youtube.com/watch?v=Tvht2DZJ6Ck) =&gt; [@tingFTW](http://twitter.com/tingFTW)[[ting.com]](https://ting.com/shop/Motorola-Moto-X-2nd-Gen)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Moto X 2nd Gen [2014] [@geekyranjit](http://twitter.com/geekyranjit)[[youtube.com]](https://www.youtube.com/watch?v=Tvht2DZJ6Ck) => [@tingFTW](http://twitter.com/tingFTW)[[ting.com]](https://ting.com/shop/Motorola-Moto-X-2nd-Gen)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") just fired up a new $5/month [@SQLAzure](http://twitter.com/SQLAzure) DB with an integration test [[twitter.com]](http://twitter.com/BryanWilhite/status/737381399158611968/photo/1)
 
@@ -97,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Adrian Kosmaczewski – Being a Developer After 40 [video] [[blog.appbuilders.ch]](http://blog.appbuilders.ch/2016/05/26/adrian-being-developer-after-40.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Docker: Windows containers on Windows host - step by step &gt; [@DonovanBrown](http://twitter.com/DonovanBrown)[[stapp.space]](https://stapp.space/docker-windows-containers-on-windows-host-step-by-step/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Docker: Windows containers on Windows host - step by step > [@DonovanBrown](http://twitter.com/DonovanBrown)[[stapp.space]](https://stapp.space/docker-windows-containers-on-windows-host-step-by-step/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “new OS/2 distribution previously codenamed Blue Lion, is scheduled for release in Q4 2016” [[techrepublic.com]](http://www.techrepublic.com/article/os2-resurrected-blue-lion-becomes-arcaos-details-emerge-for-upcoming-release/)
 

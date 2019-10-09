@@ -50,7 +50,7 @@ sudo apt-get install tasksel
 sudo tasksel
 ```
 
-Then I use `tasksel` to setup a LAMP server. I then setup [a MySQL database for my WordPress](https://codex.wordpress.org/Installing_WordPress) site, starting with `mysql --prompt="\v\\h\\d\_(\U)&gt;" -u root -p`. Then `apache2` is groomed with these:
+Then I use `tasksel` to setup a LAMP server. I then setup [a MySQL database for my WordPress](https://codex.wordpress.org/Installing_WordPress) site, starting with `mysql --prompt="\v\\h\\d\_(\U)>" -u root -p`. Then `apache2` is groomed with these:
 
 ```console
 sudo a2enmod actions
@@ -64,7 +64,7 @@ I do notice that I am not editing `apache2.conf` and `000-default.conf` with vim
 
 ## No VMWare Tools for 64-bit Ubuntu 14.04?
 
-The typical VMWare Workstation indicators for VMWare Tools are simply not present for the 64-bit Ubuntu 14.04 VM. The **VM &gt; Reinstall VMWare Tools…** menu item is disabled and there are no VMWare pop-up offers to install it in the first place.
+The typical VMWare Workstation indicators for VMWare Tools are simply not present for the 64-bit Ubuntu 14.04 VM. The **VM > Reinstall VMWare Tools…** menu item is disabled and there are no VMWare pop-up offers to install it in the first place.
 
 However, I do notice that I am able to cut and paste between VMWare Host and Guest. The Guest Desktop is properly resized as well. Moreover, the Unity Desktop can browse the network and find Host network shares. All of these features suggest to me that perhaps VMWare Tools are no longer needed for 64-bit Ubuntu.
 
@@ -81,7 +81,7 @@ I notice that I need to `sudo mkdir /mnt/foo` first. (Also the user `winUser` is
 
 ## Mounting the Guest from my Windows 10 VM
 
-“[How to Share Folders in Ubuntu &amp; Access them from Windows 7](http://www.digitalcitizen.life/how-access-ubuntu-shared-folders-windows-7)” is a decent introduction to mounting Ubuntu from Windows. I found these shell commands necessary:
+“[How to Share Folders in Ubuntu & Access them from Windows 7](http://www.digitalcitizen.life/how-access-ubuntu-shared-folders-windows-7)” is a decent introduction to mounting Ubuntu from Windows. I found these shell commands necessary:
 
 ```console
 apt-get install -y samba samba-common python-glade2 system-config-samba

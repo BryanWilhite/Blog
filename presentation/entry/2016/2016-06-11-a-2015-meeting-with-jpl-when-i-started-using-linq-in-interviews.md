@@ -43,7 +43,7 @@ Enumerable
 Func<bool> isMultipleOf3 = () => ((i % 3) == 0);
         Func<bool> isMultipleOf5 = () => ((i % 5) == 0);
 
-if(isMultipleOf3() &amp;&amp; isMultipleOf5()) return string.Format("{0} {1}", JPL, NASA);
+if(isMultipleOf3() && isMultipleOf5()) return string.Format("{0} {1}", JPL, NASA);
         else if(isMultipleOf3()) return JPL;
         else if(isMultipleOf5()) return NASA;
         else return i.ToString();

@@ -29,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Yet another developer blog: Reconfiguring CORS policy in [[asp.net]](http://ASP.NET) Core at runtime [[tpeczek.com]](https://www.tpeczek.com/2017/04/reconfiguring-cors-policy-in-aspnet.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to encrypt sections in web.config and to share among the servers – AsiaTech: Microsoft Azure &amp; Development [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/asiatech/2017/04/21/how-to-encrypt-sections-in-web-config-and-to-share-among-the-servers/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to encrypt sections in web.config and to share among the servers – AsiaTech: Microsoft Azure & Development [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/asiatech/2017/04/21/how-to-encrypt-sections-in-web-config-and-to-share-among-the-servers/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Migrating your site to HTTPS may be a bad idea [[medium.com]](https://medium.com/@andrewwidjaja/why-migrating-your-site-to-https-may-be-a-bad-idea-9d69d8c27fca)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Prism eventing: “Once a module initializer has been run it's disposed of, so your event handler is being destroyed” [[stackoverflow.com]](http://stackoverflow.com/questions/1810730/prism-event-aggregation-subscriber-not-triggered)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@damien_bod](http://twitter.com/damien_bod), is my OData question on [[stackoverflow.com]](http://stackoverflow.com) decent? =&gt; [[stackoverflow.com]](https://stackoverflow.com/questions/45150783/odata-v4-with-n-to-n-relation-and-odataroute) 🤠
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@damien_bod](http://twitter.com/damien_bod), is my OData question on [[stackoverflow.com]](http://stackoverflow.com) decent? => [[stackoverflow.com]](https://stackoverflow.com/questions/45150783/odata-v4-with-n-to-n-relation-and-odataroute) 🤠
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Functional approaches to dependency injection | F# for fun and profit [[fsharpforfunandprofit.com]](https://fsharpforfunandprofit.com/posts/dependency-injection-1/) » [@Bizmonger](http://twitter.com/Bizmonger)
 
@@ -105,7 +105,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Should I fire a software engineer for always working on his side projects during office hours? - Quora [[quora.com]](https://www.quora.com/Should-I-fire-a-software-engineer-for-always-working-on-his-side-projects-during-office-hours) » [@Bizmonger](http://twitter.com/Bizmonger)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/toIlEERD3Ik?a) We must fight to keep our internet open &amp; uncensored - Net Neutrality Round 2 with
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/toIlEERD3Ik?a) We must fight to keep our internet open & uncensored - Net Neutrality Round 2 with
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Beyond Infinity: An Expedition to the Outer Limits of Mathematics [[amazon.com]](https://www.amazon.com/Beyond-Infinity-Expedition-Limits-Mathematics/dp/0465094813?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0465094813)[@DrEugeniaCheng](http://twitter.com/DrEugeniaCheng)[[twitter.com]](https://twitter.com/BryanWilhite/status/888357937420357632/photo/1)
 

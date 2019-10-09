@@ -43,7 +43,7 @@
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") Special thanks for [@csharpfritz](http://twitter.com/csharpfritz) who booked my talk for 8 AM 🤭👋😬 [#mvpsummit](http://twitter.com/search?q=%23mvpsummit)[[twitter.com]](https://twitter.com/terrajobst/status/971413969846988800/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows Developer Day – March 7, 2018 - Windows app development [[developer.microsoft.com]](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-developer-day?utm_campaign=windevday4&utm_source=windevday4dayof&utm_medium=email&utm_content=optineml_herobanner) &lt;= [@maryjofoley](http://twitter.com/maryjofoley)[@DonovanBrown](http://twitter.com/DonovanBrown)[@Odytrice](http://twitter.com/Odytrice)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows Developer Day – March 7, 2018 - Windows app development [[developer.microsoft.com]](https://developer.microsoft.com/en-us/windows/projects/campaigns/windows-developer-day?utm_campaign=windevday4&utm_source=windevday4dayof&utm_medium=email&utm_content=optineml_herobanner) <= [@maryjofoley](http://twitter.com/maryjofoley)[@DonovanBrown](http://twitter.com/DonovanBrown)[@Odytrice](http://twitter.com/Odytrice)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I am sure the very first Blog post about C# local functions warned me that, “An expression tree may not contain a r… [[twitter.com]](https://twitter.com/i/web/status/970772791652859904)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]") Microsoft pitches Windows 10 as an AI platform for developers. What does this mean? Good question: [[zdnet.com]](http://www.zdnet.com/article/microsoft-pitches-windows-10-as-an-ai-platform-for-developers/)
 
-[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Insights from unstructured textual [#data](http://twitter.com/search?q=%23data) is now more accessible with the Wolfram [#Data](http://twitter.com/search?q=%23Data) Framework &amp; [#WolfLang](http://twitter.com/search?q=%23WolfLang) for cu… [[twitter.com]](https://twitter.com/i/web/status/971403861637369856)
+[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Insights from unstructured textual [#data](http://twitter.com/search?q=%23data) is now more accessible with the Wolfram [#Data](http://twitter.com/search?q=%23Data) Framework & [#WolfLang](http://twitter.com/search?q=%23WolfLang) for cu… [[twitter.com]](https://twitter.com/i/web/status/971403861637369856)
 
 [<img alt="Quanta Magazine [QuantaMagazine]" src="https://songhay.blob.core.windows.net/shared-social-twitter/QuantaMagazine.jpg">](https://t.co/3tm9sLOEkF "Quanta Magazine [QuantaMagazine]") ICYMI: Kaisa Matomäki has been fascinated by math since childhood, now she's a ​young ​star in the ​study of prime… [[twitter.com]](https://twitter.com/i/web/status/971250155944054784)
 
@@ -67,7 +67,7 @@
 
 [<img alt="HackerSpace Tech [HackerSpaceTech]" src="https://songhay.blob.core.windows.net/shared-social-twitter/HackerSpaceTech.jpg">](https://t.co/TSC5nha5E8 "HackerSpace Tech [HackerSpaceTech]") RT arduino "Make your own Boston Dynamics-like, budget-friendly robotic dog: [[bit.ly]](http://bit.ly/2I4mTgQ)[[twitter.com]](https://twitter.com/arduino/status/970661768929382400/photo/1)"
 
-[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") Due to weight &amp; head tracking, 1st VR headset (Sutherland &amp; Sproull,1968) hung from ceiling by mechanical arm &amp; ref… [[twitter.com]](https://twitter.com/i/web/status/969803476262727680)
+[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") Due to weight & head tracking, 1st VR headset (Sutherland & Sproull,1968) hung from ceiling by mechanical arm & ref… [[twitter.com]](https://twitter.com/i/web/status/969803476262727680)
 
 [<img alt="Caster IO [caster_io]" src="https://songhay.blob.core.windows.net/shared-social-twitter/caster_io.jpg">](https://t.co/1sZ6WQcuX5 "Caster IO [caster_io]") The Android Profiler tool, includes the ability to look at network traffic. [@mikewolfson](http://twitter.com/mikewolfson) gives you the details here… [[twitter.com]](https://twitter.com/i/web/status/970441461287342080)
 
@@ -79,13 +79,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/nq5c4jGR2gM?a) Tesla: The real cost of being out of warranty
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Doxie Go Plus - the smarter portable document scanner with rechargeable battery &amp; amazing software… [[twitter.com]](https://twitter.com/i/web/status/971559563962011649)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Doxie Go Plus - the smarter portable document scanner with rechargeable battery & amazing software… [[twitter.com]](https://twitter.com/i/web/status/971559563962011649)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[youtube.com]](https://www.youtube.com/watch?v=h9d-Zp8ZW_M)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/gew_dmjwp8o?a) The smallest PC I've ever built... and its POWERFUL!
 
-[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") Apparently 9 years ago today I was on MS campus for the first time, in between [#MVPSummit](http://twitter.com/search?q=%23MVPSummit) &amp; MIX. Means any day now… [[twitter.com]](https://twitter.com/i/web/status/970715931637792768)
+[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") Apparently 9 years ago today I was on MS campus for the first time, in between [#MVPSummit](http://twitter.com/search?q=%23MVPSummit) & MIX. Means any day now… [[twitter.com]](https://twitter.com/i/web/status/970715931637792768)
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpg">](https://t.co/KWE5X1k0pH "Scott Hanselman [shanselman]") A lot of folks don’t realize I interviewed at Microsoft a few years BEFORE I got the job and was rejected. Hang in… [[twitter.com]](https://twitter.com/i/web/status/969676999470936064)
 

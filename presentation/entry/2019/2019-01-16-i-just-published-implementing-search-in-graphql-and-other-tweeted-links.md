@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-01-16-i-just-published-implementing-search-in-graphql-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"I just published \\\"Implementing Search in GraphQL\\\" showing how to implement text-based searches that are both case-insensitive &amp; full field!              This is a 2 part series, the next will be advanced search using Elasticsearch for things like geo...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"I just published \\\"Implementing Search in GraphQL\\\" showing how to implement text-based searches that are both case-insensitive & full field!              This is a 2 part series, the next will be advanced search using Elasticsearch for things like geo...\"\r\n}"
 }
 ---
 
 # “I just published ‘Implementing Search in GraphQL’"” and other tweeted links…
 
-[<img alt="Nader Dabit [dabit3]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dabit3.jpg">](https://t.co/Ql8p54Q917) I just published "Implementing Search in GraphQL" showing how to implement text-based searches that are both case-insensitive &amp; full field! This is a 2 part series, the next will be advanced search using Elasticsearch for things like geospatial &amp; time. [[medium.com]](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
+[<img alt="Nader Dabit [dabit3]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dabit3.jpg">](https://t.co/Ql8p54Q917) I just published "Implementing Search in GraphQL" showing how to implement text-based searches that are both case-insensitive & full field! This is a 2 part series, the next will be advanced search using Elasticsearch for things like geospatial & time. [[medium.com]](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
 
 [<img alt="Michael Hunger [mesirii]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mesirii.jpg">](https://t.co/6uVVxrQWmR) Published with [@markhneedham](http://twitter.com/@markhneedham) "Building the 2018 World Cup GraphQL API" [[medium.com]](https://medium.com/@mesirii/building-the-2018-world-cup-graphql-api-fab40ccecb9e)[#WorldCup2018](http://twitter.com/search?q='%23WorldCup2018)[#GraphQL](http://twitter.com/search?q='%23GraphQL)[#React](http://twitter.com/search?q='%23React)[#GRANDstack](http://twitter.com/search?q='%23GRANDstack)[#Neo4j](http://twitter.com/search?q='%23Neo4j)
 
@@ -27,11 +27,11 @@
 
 [<img alt="Chidume Nnamdi🔥💻🎮🎵 [ngArchangel]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ngArchangel.jpg">](https://t.co/lHXHFXJI7p) I just published “Event Binding Mechanism in Angular” [[blog.bitsrc.io]](https://blog.bitsrc.io/event-binding-mechanism-in-angular-b38f0e46d2ed)
 
-[<img alt="Steven Hook [StevenHook]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/StevenHook.jpg">](http://t.co/GK61I7fC0n) After updating [#Angular](http://twitter.com/search?q='%23Angular) 6 -&gt; 7 [@AzureDevops](http://twitter.com/@AzureDevops) Pipelines needed a Node Tool Installer task to go from 8.12.0 -&gt; 10.13.0 in order to do npm run build --prod. I don't know why, but I lost 2 days to this. So hopefully you won't too.
+[<img alt="Steven Hook [StevenHook]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/StevenHook.jpg">](http://t.co/GK61I7fC0n) After updating [#Angular](http://twitter.com/search?q='%23Angular) 6 -> 7 [@AzureDevops](http://twitter.com/@AzureDevops) Pipelines needed a Node Tool Installer task to go from 8.12.0 -> 10.13.0 in order to do npm run build --prod. I don't know why, but I lost 2 days to this. So hopefully you won't too.
 
 [<img alt="angularlicious [angularlicious]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/angularlicious.jpg">](https://t.co/Glw0phYraY) ...A Recap of How Far We Have Come with Nx 7 by Jason Jean [[link.medium.com]](https://link.medium.com/28FzvGpSsR)
 
-[<img alt="Tierney Cyren [bitandbang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitandbang.jpg">](https://t.co/Qr6YgoX8G1) Did you know: [@nodejs](http://twitter.com/@nodejs) now has an automagical bash autocompletion setup, which shipped in v10.12.0 and will be included in Node.js v10 LTS 🎉 $ node --completion-bash &gt; node_bash_completion $ source node_bash_completion $ node --[tab] Where [tab] is you physically hitting tab 😁 [[twitter.com]](https://twitter.com/bitandbang/status/1056909659901190144/photo/1)
+[<img alt="Tierney Cyren [bitandbang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/bitandbang.jpg">](https://t.co/Qr6YgoX8G1) Did you know: [@nodejs](http://twitter.com/@nodejs) now has an automagical bash autocompletion setup, which shipped in v10.12.0 and will be included in Node.js v10 LTS 🎉 $ node --completion-bash > node_bash_completion $ source node_bash_completion $ node --[tab] Where [tab] is you physically hitting tab 😁 [[twitter.com]](https://twitter.com/bitandbang/status/1056909659901190144/photo/1)
 
 [<img alt="Colin Ihrig [cjihrig]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/cjihrig.png">](https://twitter.com/cjihrig) node 10.13.0 has been released. the node 10.x release line has entered long term support (LTS) with the Dubnium codename. you should officially be on or moving to node 10 at this time 😃 blog post: [[nodejs.org]](https://nodejs.org/en/blog/release/v10.13.0/)
 
@@ -99,7 +99,7 @@
 
 [<img alt="Jay Wyatt [jay_wyatt]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jay_wyatt.jpg">](https://t.co/0TZrDBpha2) Microsoft hikes Office 2019 retail prices by up to 10% Microsoft raised prices for the retail versions of Office 2019 by as much as 10% when it began selling the application suite earlier this month. The price increases were similar to those announced ... [[twib.in]](http://twib.in/l/kg4xx7xyRRMz)[[twitter.com]](https://twitter.com/jay_wyatt/status/1056881859194425344/photo/1)
 
-[<img alt="O := [VariableO]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/VariableO.png">](https://twitter.com/VariableO) Microsoft has regularly shared India bank customers’ data with US intelligence agencies, says report. Well, time to follow EU &amp; China to save customer data within India? [[scroll.in]](https://scroll.in/latest/900224/microsoft-regularly-shared-data-of-india-bank-customers-with-us-intelligence-agencies-dna)
+[<img alt="O := [VariableO]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/VariableO.png">](https://twitter.com/VariableO) Microsoft has regularly shared India bank customers’ data with US intelligence agencies, says report. Well, time to follow EU & China to save customer data within India? [[scroll.in]](https://scroll.in/latest/900224/microsoft-regularly-shared-data-of-india-bank-customers-with-us-intelligence-agencies-dna)
 
 [<img alt="Benj Edwards [benjedwards]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/benjedwards.jpg">](https://t.co/8wuurupJRV) Mario Segale, the namesake of Nintendo’s Mario character, dies at age 85 [[auburn-reporter.com]](http://www.auburn-reporter.com/news/mario-the-visionary/) This is the first labeled photo of him as an adult on the Internet [[twitter.com]](https://twitter.com/benjedwards/status/1057970013171277824/photo/1)
 

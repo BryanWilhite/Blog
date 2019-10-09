@@ -39,7 +39,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/JCXZhe6KsxQ?a) Introducing RxJS6! - Ben Lesh
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/N15ie0cGuB0?a) Day 3 Keynote - Rob Wormald &amp; Stephen Fluin
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/N15ie0cGuB0?a) Day 3 Keynote - Rob Wormald & Stephen Fluin
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") use [[gitter.im]](http://gitter.im/angular/angular) and [[angular.io]](http://angular.io/resources) 🤓
 
@@ -71,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's the difference between ViewData and ViewBag? [[stackoverflow.com]](https://stackoverflow.com/q/4705426/22944?stw=2)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@DamianEdwards](http://twitter.com/DamianEdwards) really cool stuff: i see that we can chain IConfiguration.GetSection("mysection").Get&lt;T&gt;() [[twitter.com]](https://twitter.com/BryanWilhite/status/989643114548682752/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@DamianEdwards](http://twitter.com/DamianEdwards) really cool stuff: i see that we can chain `IConfiguration.GetSection("mysection").Get<T>()` [[twitter.com]](https://twitter.com/BryanWilhite/status/989643114548682752/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2017: Sample EF Core provider for Oracle databases [#9442](http://twitter.com/search?q=%239442)[[github.com]](https://github.com/aspnet/EntityFrameworkCore/issues/9442)
 
@@ -91,7 +91,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Algorithms (4th Edition) by Robert Sedgewick [recommended by [@taraw](http://twitter.com/taraw)] [[amazon.com]](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=032157351X)[[twitter.com]](https://twitter.com/BryanWilhite/status/988914037541949440/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cracking the Coding Interview: 189 Programming Questions and Solutions [[amazon.com]](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0984782850) &lt;= [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/988914594654531584/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cracking the Coding Interview: 189 Programming Questions and Solutions [[amazon.com]](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0984782850) <= [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/988914594654531584/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching, Third Edition by Robert Sedgewick [… [[twitter.com]](https://twitter.com/i/web/status/988916299668443136)
 

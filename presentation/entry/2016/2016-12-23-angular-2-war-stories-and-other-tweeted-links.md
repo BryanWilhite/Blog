@@ -77,17 +77,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Getting Started - Windows 10 IoT Core + Raspberry Pi 3 [[ow.ly]](http://ow.ly/gf2e306Ls2L)
 
-[<img alt="Allison Sheridan [podfeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/podfeet.jpg">](http://t.co/7BrIfzMZt7 "Allison Sheridan [podfeet]") Stop what you’re doing &amp; download Chit Chat Across the Pond [@BigChrisAshley](http://twitter.com/BigChrisAshley) is back to talk Microsoft! [[podfeet.com]](http://www.podfeet.com/blog/2016/12/ccatp-468/) SO fun!
+[<img alt="Allison Sheridan [podfeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/podfeet.jpg">](http://t.co/7BrIfzMZt7 "Allison Sheridan [podfeet]") Stop what you’re doing & download Chit Chat Across the Pond [@BigChrisAshley](http://twitter.com/BigChrisAshley) is back to talk Microsoft! [[podfeet.com]](http://www.podfeet.com/blog/2016/12/ccatp-468/) SO fun!
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") hey [@bigChrisAshley](http://twitter.com/bigChrisAshley), I am sure that [@Bizmonger](http://twitter.com/Bizmonger) would like to chat with you; check out his channel: [[youtube.com]](https://www.youtube.com/user/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") More Than 1 Million Google Accounts Breached by Gooligan | Check Point Blog [[ow.ly]](http://ow.ly/9Z6a306Gtf0)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Orlando, Florida, is the best U.S. city to retire" [[ow.ly]](http://ow.ly/ycts3076Gvs) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Orlando, Florida, is the best U.S. city to retire" [[ow.ly]](http://ow.ly/ycts3076Gvs) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hello World, Episode 9: Inside Russia’s Creepy, Innovative Internet [[ow.ly]](http://ow.ly/U3Dk306GW61)[@business](http://twitter.com/business)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016 Software Engineering Internship Amazon Interview Experience [[ow.ly]](http://ow.ly/l7NG306GVZa) =&gt; [@taraw](http://twitter.com/taraw)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016 Software Engineering Internship Amazon Interview Experience [[ow.ly]](http://ow.ly/l7NG306GVZa) => [@taraw](http://twitter.com/taraw)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft shareholders question CEO Satya Nadella regarding its vision for mobile - MSPoweruser [[ow.ly]](http://ow.ly/yJpP306GWKy)
 

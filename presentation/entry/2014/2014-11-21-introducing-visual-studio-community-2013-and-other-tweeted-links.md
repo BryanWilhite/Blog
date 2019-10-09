@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-11-21-introducing-visual-studio-community-2013-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext & Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...\"\r\n}"
 }
 ---
 
 # “Introducing Visual Studio Community 2013” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext &amp; Azure [@shanselman](http://twitter.com/shanselman) [http://t.co/4jFYf1vlMI](http://t.co/4jFYf1vlMI)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext & Azure [@shanselman](http://twitter.com/shanselman) [http://t.co/4jFYf1vlMI](http://t.co/4jFYf1vlMI)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Leaving Angular [http://t.co/pbEQIRgbr0](http://t.co/pbEQIRgbr0)</span>
 

@@ -57,7 +57,7 @@ As a C# guy struggling to relate to PowerShell, I take the first form.
 
 ## #5
 
-The `&amp;` operator. Here is a function from [my IIS functions](https://gist.github.com/BryanWilhite/e54408801bc9bef3fc83) that uses PowerShell to call TAKEOWN and ICACLS:
+The `&` operator. Here is a function from [my IIS functions](https://gist.github.com/BryanWilhite/e54408801bc9bef3fc83) that uses PowerShell to call TAKEOWN and ICACLS:
 
 ```powershell
 function Restore-PermissionsForWebServerGroup($Path)
@@ -67,14 +67,14 @@ function Restore-PermissionsForWebServerGroup($Path)
         Write-Warning "Path $Path was not found. Unable to restore permissions."
         return
     }
-    &amp; TAKEOWN /f $Path /a
-    &amp; ICACLS $Path /reset /t
-    &amp; ICACLS $Path `
+    & TAKEOWN /f $Path /a
+    & ICACLS $Path /reset /t
+    & ICACLS $Path `
         /grant IIS_IUSRS:(CI)(OI)(IO)(RX) `
         /t /l /q
 }
 ```
 
-I really should have listed this as #1. This `&amp;` operator is the bridge to the CMD past on the way to a PowerShell future!
+I really should have listed this as #1. This `&` operator is the bridge to the CMD past on the way to a PowerShell future!
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

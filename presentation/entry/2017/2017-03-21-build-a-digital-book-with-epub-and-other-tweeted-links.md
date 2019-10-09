@@ -49,9 +49,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Task Automation with Python Scripting in Blender [[youtube.com]](https://www.youtube.com/watch?v=ZZWSvUgR38Y)[@cgcookie](http://twitter.com/cgcookie)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Motion Capture Made Easy in Blender [[youtube.com]](https://www.youtube.com/watch?v=dFLPjVWjmCY) « [@CarnegieMellon](http://twitter.com/CarnegieMellon) BVH =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Motion Capture Made Easy in Blender [[youtube.com]](https://www.youtube.com/watch?v=dFLPjVWjmCY) « [@CarnegieMellon](http://twitter.com/CarnegieMellon) BVH => [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Carnegie Mellon University - CMU Graphics Lab - motion capture library [[mocap.cs.cmu.edu]](http://mocap.cs.cmu.edu/) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Carnegie Mellon University - CMU Graphics Lab - motion capture library [[mocap.cs.cmu.edu]](http://mocap.cs.cmu.edu/) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Create any low poly animal | Blender | 10 mins [[youtube.com]](https://www.youtube.com/watch?v=JjW6r10Mlqs)
 

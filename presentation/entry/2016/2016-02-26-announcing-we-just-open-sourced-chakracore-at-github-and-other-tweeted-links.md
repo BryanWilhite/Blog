@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-02-26-announcing-we-just-open-sourced-chakracore-at-github-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"ANNOUNCING: We just open sourced @ChakraCore at GitHub. Would love to see what you &amp; community builds on top of it! [twitter.com]  I liked a @YouTube video from @visualstudio[youtube.com]  ChakraCore OSS Some Pretty Splendid SVG Links [css-tricks.com...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"ANNOUNCING: We just open sourced @ChakraCore at GitHub. Would love to see what you & community builds on top of it! [twitter.com]  I liked a @YouTube video from @visualstudio[youtube.com]  ChakraCore OSS Some Pretty Splendid SVG Links [css-tricks.com...\"\r\n}"
 }
 ---
 
 # “ANNOUNCING: We just open sourced @ChakraCore at GitHub” and other Tweeted Links…
 
-[<img alt="Gaurav Seth [gauravseth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/gauravseth.jpg">]( "Gaurav Seth [gauravseth]") ANNOUNCING: We just open sourced [@ChakraCore](http://twitter.com/ChakraCore) at GitHub. Would love to see what you &amp; community builds on top of it! [[twitter.com]](https://twitter.com/gauravseth/status/687326658458554372/photo/1)
+[<img alt="Gaurav Seth [gauravseth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/gauravseth.jpg">]( "Gaurav Seth [gauravseth]") ANNOUNCING: We just open sourced [@ChakraCore](http://twitter.com/ChakraCore) at GitHub. Would love to see what you & community builds on top of it! [[twitter.com]](https://twitter.com/gauravseth/status/687326658458554372/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@visualstudio](http://twitter.com/visualstudio)[[youtube.com]](https://www.youtube.com/watch?v=1bfDB3YPHFI&feature=youtu.be&a) ChakraCore OSS
 

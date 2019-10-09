@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What is the difference between a Shared Project vs. Class Library? [VS2015] [http://t.co/bj9t6U0M8n](http://t.co/bj9t6U0M8n) via [@mbcrump](http://twitter.com/mbcrump)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Released Today: Visual Studio 2015, [[asp.net]](http://www.asp.net/) 4.6, [[asp.net]](http://www.asp.net/) 5 &amp; EF 7 Previews [@scottgu](http://twitter.com/scottgu)[[weblogs.asp.net]](http://weblogs.asp.net/scottgu/released-today-visual-studio-2015-asp-net-4-6-asp-net-5-ef-7-previews)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Released Today: Visual Studio 2015, [[asp.net]](http://www.asp.net/) 4.6, [[asp.net]](http://www.asp.net/) 5 & EF 7 Previews [@scottgu](http://twitter.com/scottgu)[[weblogs.asp.net]](http://weblogs.asp.net/scottgu/released-today-visual-studio-2015-asp-net-4-6-asp-net-5-ef-7-previews)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Visual Studio 2015 Released plus [[asp.net]](http://www.asp.net/) 5 Roadmap [[hanselman.com]](http://www.hanselman.com/blog/VisualStudio2015ReleasedPlusASPNET5Roadmap.aspx)
 

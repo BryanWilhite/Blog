@@ -31,7 +31,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Experts Weigh In: How to Make Someone Fall in Love with Your Website [[blogs.adobe.com]](http://blogs.adobe.com/dreamweaver/2016/02/experts-weigh-in-how-to-make-someone-fall-in-love-with-your-website.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hoefler &amp; Co.’s New Typewriter-Inspired Font Is Crafted for Coders [[wired.com]](http://www.wired.com/2016/02/hoefler-co-s-new-typewriter-inspired-font-is-crafted-for-coders/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hoefler & Co.’s New Typewriter-Inspired Font Is Crafted for Coders [[wired.com]](http://www.wired.com/2016/02/hoefler-co-s-new-typewriter-inspired-font-is-crafted-for-coders/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Free Fonts With Personality [@tmrdevelops](http://twitter.com/tmrdevelops)[[smashingmagazine.com]](https://www.smashingmagazine.com/2016/02/free-fonts-with-personality/)
 

@@ -24,7 +24,7 @@ I’m not going to explain why because billions of people on this planet do not 
 These three commands solve the issue:
 
 ```console
-history -c &amp;&amp; history -w &amp;&amp; exit
+history -c && history -w && exit
 ```
 
 What is better is to save the ‘messy’ history before clearing the buffer:
@@ -36,7 +36,7 @@ history -w ~/Desktop/history_bak.txt
 What I am fond of doing is sorting `history_bak.txt` and removing duplicates—like this:
 
 ```console
-sort history_bak.txt | uniq &gt; history_bak_tmp.txt
+sort history_bak.txt | uniq > history_bak_tmp.txt
 ```
 
 Then I move `history_bak_tmp.txt` over `history_bak.txt`. I can then cherry-pick the best lines and paste them into the terminal as needed.

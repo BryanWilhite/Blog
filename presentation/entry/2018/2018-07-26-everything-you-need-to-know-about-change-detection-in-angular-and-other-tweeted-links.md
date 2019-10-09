@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-07-26-everything-you-need-to-know-about-change-detection-in-angular-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"“Everything you need to know about change detection in Angular” by       @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de…       [twitte...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"“Everything you need to know about change detection in Angular” by       @maxim_koretskyi[blog.angularindepth.com] 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up && de…       [twitte...\"\r\n}"
 }
 ---
 
@@ -21,15 +21,15 @@
 
 [<img alt="Wei Wang [wxwcase]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wxwcase.jpg">]( "Wei Wang [wxwcase]") “Everything you need to know about change detection in Angular” by [@maxim_koretskyi](http://twitter.com/maxim_koretskyi)[[blog.angularindepth.com]](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 
-[<img alt="Sarah Drasner [sarah_edo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sarah_edo.jpg">](https://t.co/pr1NhYseRK "Sarah Drasner [sarah_edo]") 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up &amp;&amp; de… [[twitter.com]](https://twitter.com/i/web/status/988414671232339970)
+[<img alt="Sarah Drasner [sarah_edo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sarah_edo.jpg">](https://t.co/pr1NhYseRK "Sarah Drasner [sarah_edo]") 🔥 I hear *a lot* from people who would like to create native-like animations on the web, so I made a write-up && de… [[twitter.com]](https://twitter.com/i/web/status/988414671232339970)
 
 [<img alt="Wassim ℂ𝕙𝕖𝕘𝕙𝕒𝕞 [manekinekko]" src="https://songhay.blob.core.windows.net/shared-social-twitter/manekinekko.jpg">](https://t.co/WVlnSd51VS "Wassim ℂ𝕙𝕖𝕘𝕙𝕒𝕞 [manekinekko]") 🎊 Super Excited To Announce [[ngx.tools]](http://ngx.tools) Is Now In BETA 🎉 NgxTools is a search based app allowing you t… [[twitter.com]](https://twitter.com/i/web/status/988214507213410304)
 
 [<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") 🎨 beyond the tool itself, 🌟 colour advice: "Viz Palette for Data Visualization Color" by [@Elijah_Meeks](http://twitter.com/Elijah_Meeks) (feat.… [[twitter.com]](https://twitter.com/i/web/status/987677834876477440)
 
-[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") An end to the 🔎 📁 &gt;&gt; 📁 &gt;&gt; 📂 madness?! "rprojroot: Finding Files in Project Subdirectories" ✍️ [@krlmlr](http://twitter.com/krlmlr)… [[twitter.com]](https://twitter.com/i/web/status/988402653070848001)
+[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") An end to the 🔎 📁 >> 📁 >> 📂 madness?! "rprojroot: Finding Files in Project Subdirectories" ✍️ [@krlmlr](http://twitter.com/krlmlr)… [[twitter.com]](https://twitter.com/i/web/status/988402653070848001)
 
-[<img alt="Addy Osmani [addyosmani]" src="https://songhay.blob.core.windows.net/shared-social-twitter/addyosmani.jpg">](https://t.co/CHVJYkwGMM "Addy Osmani [addyosmani]") 🔥 Love GIFs, but hate their size? Replace animated GIFs with &lt;video&gt; to save a *ton* of kilobytes:… [[twitter.com]](https://twitter.com/i/web/status/988304148218040320)
+[<img alt="Addy Osmani [addyosmani]" src="https://songhay.blob.core.windows.net/shared-social-twitter/addyosmani.jpg">](https://t.co/CHVJYkwGMM "Addy Osmani [addyosmani]") 🔥 Love GIFs, but hate their size? Replace animated GIFs with `<video>` to save a *ton* of kilobytes:… [[twitter.com]](https://twitter.com/i/web/status/988304148218040320)
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") 20 Free Payment Method Icon Sets [[speckyboy.com]](https://speckyboy.com/free-payment-method-credit-card-icon-sets/)[#ICONS](http://twitter.com/search?q=%23ICONS)[#UI](http://twitter.com/search?q=%23UI)
 
@@ -99,7 +99,7 @@
 
 [<img alt="Patricia Aas [pati_gallardo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pati_gallardo.jpg">](https://t.co/aBjqxhzrKG "Patricia Aas [pati_gallardo]") Male speakers: Please don’t speak at conferences without a Code of Conduct 🙏 CoCs are there to show intent and to… [[twitter.com]](https://twitter.com/i/web/status/987997544004415489)
 
-[<img alt="Nickolas Teixeira [NTTL_LTTN]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NTTL_LTTN.jpg">](https://t.co/uoMCz5r6Jp "Nickolas Teixeira [NTTL_LTTN]") Want to give a shoutout to my TA -&gt; Thanks [@eightlimbed](http://twitter.com/eightlimbed) for taking the time to review my blog posts and give me sol… [[twitter.com]](https://twitter.com/i/web/status/988175378945490944)
+[<img alt="Nickolas Teixeira [NTTL_LTTN]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NTTL_LTTN.jpg">](https://t.co/uoMCz5r6Jp "Nickolas Teixeira [NTTL_LTTN]") Want to give a shoutout to my TA -> Thanks [@eightlimbed](http://twitter.com/eightlimbed) for taking the time to review my blog posts and give me sol… [[twitter.com]](https://twitter.com/i/web/status/988175378945490944)
 
 [<img alt="Tobias Hertkorn [dun3]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dun3.jpg">]( "Tobias Hertkorn [dun3]") Process of "disruption" today: with millions in borrowed money produce an inferior app that destroys the margin for… [[twitter.com]](https://twitter.com/i/web/status/988299054072389632)
 

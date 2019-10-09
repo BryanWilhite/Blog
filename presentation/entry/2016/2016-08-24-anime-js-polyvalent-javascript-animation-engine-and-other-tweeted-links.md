@@ -53,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Redux was created by Dan Abramov around June 2015. It was inspired by Facebook’s Flux and..Elm." [[smashingmagazine.com]](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "what you [have] done is..replace the reference that your jToken variable had..with a new reference" [[stackoverflow.com]](http://stackoverflow.com/a/38016317/22944?stw=2) =&gt; [@JamesNK](http://twitter.com/JamesNK)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "what you [have] done is..replace the reference that your jToken variable had..with a new reference" [[stackoverflow.com]](http://stackoverflow.com/a/38016317/22944?stw=2) => [@JamesNK](http://twitter.com/JamesNK)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:.NET NUnit test - Assembly.GetEntryAssembly() is null [[stackoverflow.com]](http://stackoverflow.com/a/21888521/22944?stw=2)
 

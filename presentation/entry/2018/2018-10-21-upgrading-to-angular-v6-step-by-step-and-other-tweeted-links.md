@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-10-21-upgrading-to-angular-v6-step-by-step-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Upgrading to Angular v6: Step by Step [loiane.com]#angular       8 Free #JavaScript Image Cropping Scripts &amp; Plugins [webdesignerdepot.com]       “Version 6 of Angular Now Available” by @stephenfluin[blog.angular.io]       Using Lektor with Travis-CI...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Upgrading to Angular v6: Step by Step [loiane.com]#angular       8 Free #JavaScript Image Cropping Scripts & Plugins [webdesignerdepot.com]       “Version 6 of Angular Now Available” by @stephenfluin[blog.angular.io]       Using Lektor with Travis-CI...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Loiane Groner [loiane]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/loiane.jpg">](https://t.co/wwBsYVrhWB) Upgrading to Angular v6: Step by Step [[loiane.com]](https://loiane.com/2018/05/upgrading-to-angular-v6/)[#angular](http://twitter.com/search?q='%23angular)
 
-[<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) 8 Free [#JavaScript](http://twitter.com/search?q='%23JavaScript) Image Cropping Scripts &amp; Plugins [[webdesignerdepot.com]](https://www.webdesignerdepot.com/2018/05/8-free-javascript-image-cropping-scripts-and-plugins/)
+[<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/xJko0PKiSE) 8 Free [#JavaScript](http://twitter.com/search?q='%23JavaScript) Image Cropping Scripts & Plugins [[webdesignerdepot.com]](https://www.webdesignerdepot.com/2018/05/8-free-javascript-image-cropping-scripts-and-plugins/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “Version 6 of Angular Now Available” by [@stephenfluin](http://twitter.com/@stephenfluin)[[blog.angular.io]](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 
@@ -33,7 +33,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Malicious Chrome Extensions Infect Over 100,000 Users Again [[tech.slashdot.org]](https://tech.slashdot.org/story/18/05/11/0119208/malicious-chrome-extensions-infect-over-100000-users-again?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@Meligy](http://twitter.com/@Meligy) have you used the StaticFileModule on IIS for [[asp.net]](http://ASP.NET) Core under [@angular](http://twitter.com/@angular)? Does this config from Rick Strahl look OK for [[asp.net]](http://ASP.NET) Core: [[github.com]](https://github.com/BryanWilhite/Songhay.Blog/blob/master/Songhay.Blog/web.config) ?? =&gt; [@davidfowl](http://twitter.com/@davidfowl)[@karaforthewin](http://twitter.com/@karaforthewin)[@brandontroberts](http://twitter.com/@brandontroberts)[@filip_woj](http://twitter.com/@filip_woj)[[twitter.com]](https://twitter.com/BryanWilhite/status/994300656205754369/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@Meligy](http://twitter.com/@Meligy) have you used the StaticFileModule on IIS for [[asp.net]](http://ASP.NET) Core under [@angular](http://twitter.com/@angular)? Does this config from Rick Strahl look OK for [[asp.net]](http://ASP.NET) Core: [[github.com]](https://github.com/BryanWilhite/Songhay.Blog/blob/master/Songhay.Blog/web.config) ?? => [@davidfowl](http://twitter.com/@davidfowl)[@karaforthewin](http://twitter.com/@karaforthewin)[@brandontroberts](http://twitter.com/@brandontroberts)[@filip_woj](http://twitter.com/@filip_woj)[[twitter.com]](https://twitter.com/BryanWilhite/status/994300656205754369/photo/1)
 
 [<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/RickStrahl.jpg">](http://t.co/WpmgWuVQVK)[@BryanWilhite](http://twitter.com/@BryanWilhite) I think AddSpaStaticFiles() handles those files from within the [[asp.net]](http://ASP.NET) Core app. The rewrite rules never hit [[asp.net]](http://ASP.NET) Core but use the native static file module - more efficient.
 
@@ -55,7 +55,7 @@
 
 [<img alt="Daniel Holland [DannyDutch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DannyDutch.jpg">](https://t.co/xyybOgHcNu) The population of [#Manhattan](http://twitter.com/search?q='%23Manhattan), hour by hour. [[twitter.com]](https://twitter.com/DannyDutch/status/993930158435373057/video/1)
 
-[<img alt="Daniel Imms [Tyriar]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Tyriar.jpg">](https://t.co/yVp0qfKRAH) Some handy [@code](http://twitter.com/@code) keybindings I wouldn't want to live without: - ctrl+shift+p: Command palette - ctrl+p: Find files by name - ctrl+`: Terminal - ctrl+,: Settings - ctrl+k, ctrl+s: Keybindings - ctrl+shift+e: Focus explorer - ctrl+2: Move file to 2nd editor group ctrl-&gt;cmd on mac
+[<img alt="Daniel Imms [Tyriar]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Tyriar.jpg">](https://t.co/yVp0qfKRAH) Some handy [@code](http://twitter.com/@code) keybindings I wouldn't want to live without: - ctrl+shift+p: Command palette - ctrl+p: Find files by name - ctrl+`: Terminal - ctrl+,: Settings - ctrl+k, ctrl+s: Keybindings - ctrl+shift+e: Focus explorer - ctrl+2: Move file to 2nd editor group ctrl->cmd on mac
 
 [<img alt="Brian Holt [holtbt]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/holtbt.jpg">](https://t.co/68dKSwccOM) Oh man, this was really slick. [@Code](http://twitter.com/@Code) now does an automated refactor from CommonJS to ES Modules. This will save me so much time. See release notes here for a similar thing, ES6 modules refactor: [[aka.ms]](https://aka.ms/vscode-auto-refactor)[[twitter.com]](https://twitter.com/holtbt/status/995528779085721602/video/1)
 
@@ -81,7 +81,7 @@
 
 [<img alt="TicToc by Bloomberg [tictoc]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tictoc.jpg">](https://t.co/O0sSpXABY4) Symantec shares plummet after disclosing internal investigation [[bloom.bg]](http://bloom.bg/2G6JHe1)[[twitter.com]](https://twitter.com/tictoc/status/994978583234916352/photo/1)
 
-[<img alt="Katie Sylor-Miller [ksylor]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ksylor.jpg">](https://t.co/v2HvI6CJDM) My first job in tech, I cried every day but stayed b/c I worried leaving at 4mos would look bad on a resume. 6 years later when it happened again, I left immediately. Both times I moved to better companies that valued &amp; supported me. Don’t stay somewhere shitty for your resume.
+[<img alt="Katie Sylor-Miller [ksylor]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ksylor.jpg">](https://t.co/v2HvI6CJDM) My first job in tech, I cried every day but stayed b/c I worried leaving at 4mos would look bad on a resume. 6 years later when it happened again, I left immediately. Both times I moved to better companies that valued & supported me. Don’t stay somewhere shitty for your resume.
 
 [<img alt="Manon Brulard [BrulardManon]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BrulardManon.jpg">](null) Did you know that the first woman to receive a Ph.D in Computer Science was a nun? Sister Mary Kenneth Keller helped to develop a key computer language: BASIC. Such an interesting story [#WomenInTech](http://twitter.com/search?q='%23WomenInTech)[[twitter.com]](https://twitter.com/BrulardManon/status/995202431805018112/photo/1)
 

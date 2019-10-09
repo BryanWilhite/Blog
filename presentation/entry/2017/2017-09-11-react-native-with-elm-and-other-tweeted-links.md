@@ -87,6 +87,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to use the Carista app to personalize your car and check for faults - YouTube [[youtube.com]](https://www.youtube.com/watch?v=AhZ_GiHraEM)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/_lYiVjk_xyw?a) Fix Your Washer Machine &amp; Save Tons of Money - [#DIYGasm](http://twitter.com/search?q=%23DIYGasm)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/_lYiVjk_xyw?a) Fix Your Washer Machine & Save Tons of Money - [#DIYGasm](http://twitter.com/search?q=%23DIYGasm)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

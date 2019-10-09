@@ -43,7 +43,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.png">](http://t.co/os5uqU3MvE "Jonathan Torke [JonathanTorke]") <span>High-level advice and guidelines for writing sane, manageable, scalable [#CSS](http://search.twitter.com/search?q=%23CSS) - [http://t.co/LwH4b8RFPH](http://t.co/LwH4b8RFPH)</span>
 
-[<img alt="MingfeiYan [mingfeiy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mingfeiy.jpeg">](http://t.co/KXIhoks2uh "MingfeiYan [mingfeiy]") <span>AT&amp;T to deliver 1Gbps broadband to Silicon Valley [http://t.co/1z2diLCUwe](http://t.co/1z2diLCUwe)</span>
+[<img alt="MingfeiYan [mingfeiy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mingfeiy.jpeg">](http://t.co/KXIhoks2uh "MingfeiYan [mingfeiy]") <span>AT&T to deliver 1Gbps broadband to Silicon Valley [http://t.co/1z2diLCUwe](http://t.co/1z2diLCUwe)</span>
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.png">](http://t.co/os5uqU3MvE "Jonathan Torke [JonathanTorke]") <span>10 Custom Icon Font Generators for Designers - [http://t.co/eYhoiCdSk3](http://t.co/eYhoiCdSk3)</span>
 

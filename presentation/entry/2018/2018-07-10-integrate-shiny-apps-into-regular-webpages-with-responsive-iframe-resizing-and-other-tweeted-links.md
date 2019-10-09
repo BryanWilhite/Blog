@@ -65,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@Mbussonn](http://twitter.com/Mbussonn) I installed jupyter with pip just fine for some early version of Python 3 but I cannot find instructions… [[twitter.com]](https://twitter.com/i/web/status/974553047018872832)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Episode [#117](http://twitter.com/search?q=%23117): Functional Python with Coconut [[talkpython.fm]](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)[@TalkPython](http://twitter.com/TalkPython)[@EvanHub](http://twitter.com/EvanHub) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Episode [#117](http://twitter.com/search?q=%23117): Functional Python with Coconut [[talkpython.fm]](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)[@TalkPython](http://twitter.com/TalkPython)[@EvanHub](http://twitter.com/EvanHub) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Coconut is a functional programming language that compiles to Python. Since all valid Python is valid Coconut, usin… [[twitter.com]](https://twitter.com/i/web/status/974722793286717440)
 
@@ -77,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@taraw](http://twitter.com/taraw) Java people looking down on the work of Anders Hejlsberg is like some tech bro at a conference _trying_ to l… [[twitter.com]](https://twitter.com/i/web/status/975445587708399616)
 
-[<img alt="Tony Sneed [tonysneed]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tonysneed.jpg">](https://t.co/vYhKssI650 "Tony Sneed [tonysneed]") EF Core 2.1 tutorial to reverse engineer database with context &amp; entities in separate projects!… [[twitter.com]](https://twitter.com/i/web/status/975390805950173191)
+[<img alt="Tony Sneed [tonysneed]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tonysneed.jpg">](https://t.co/vYhKssI650 "Tony Sneed [tonysneed]") EF Core 2.1 tutorial to reverse engineer database with context & entities in separate projects!… [[twitter.com]](https://twitter.com/i/web/status/975390805950173191)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Hr4yh1_4GlQ?a) Learn Jupyter Notebooks (Pt. 1) Plotting
 
@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Missing JSON option at Data New query From File [[techcommunity.microsoft.com]](https://techcommunity.microsoft.com/t5/Get-and-Transform-Data/Missing-JSON-option-at-Data-gt-New-query-gt-From-File/td-p/69747#.WqxQGnFiR2o.twitter)[@Office](http://twitter.com/Office)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Eric J Ma Best Testing Practices for Data Science PyCon 2017 [[youtube.com]](https://www.youtube.com/watch?v=yACtdj1_IxE) &lt;= [@techgirl1908](http://twitter.com/techgirl1908)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Eric J Ma Best Testing Practices for Data Science PyCon 2017 [[youtube.com]](https://www.youtube.com/watch?v=yACtdj1_IxE) <= [@techgirl1908](http://twitter.com/techgirl1908)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 194: The Reality of Testing in an Artificial World with Angie Jones [[joecolantonio.com]](https://joecolantonio.com/testtalks/194-reality-testing-artificial-world-angie-jones/)[@techgirl1908](http://twitter.com/techgirl1908) via [@jcolantonio](http://twitter.com/jcolantonio)
 

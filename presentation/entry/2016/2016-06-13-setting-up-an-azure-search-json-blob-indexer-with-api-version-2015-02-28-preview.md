@@ -146,7 +146,7 @@ The `fields` of this Index refer to the JSON shape that represents the `BlogEntr
 ```json
 {
   "Author": "Bryan Wilhite",
-  "Content": "&lt;p&gt;I would like to thank &lt;a href=\"https://twitter.com/chaosrealm4\"&gt;Microsoft’s Eugene Shvets&lt;/a&gt; for helping me [XHTML truncated]",
+  "Content": "<p>I would like to thank <a href=\"https://twitter.com/chaosrealm4\">Microsoft’s Eugene Shvets</a> for helping me [XHTML truncated]",
   "InceptDate": "2016-06-13T21:42:54.1078686-07:00",
   "IsPublished": true,
   "ItemCategory": null,

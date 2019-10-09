@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-04-16-blackmagic-s-powerful-and-free-compositing-software-is-coming-to-mac-very-soon-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Blackmagic's Powerful (&amp; Free) Compositing Software Is Coming to Mac Very Soon http://t.co/dwk4R3o0a2   Introduction to HTML5 video http://t.co/B2A8xeZk2F via @DaveVoyles   Visual Studio: Add subtitles to your HTML5 video: https://t.co/bmGeKSaRwG   H...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Blackmagic's Powerful (& Free) Compositing Software Is Coming to Mac Very Soon http://t.co/dwk4R3o0a2   Introduction to HTML5 video http://t.co/B2A8xeZk2F via @DaveVoyles   Visual Studio: Add subtitles to your HTML5 video: https://t.co/bmGeKSaRwG   H...\"\r\n}"
 }
 ---
 
 # “Blackmagic’s Powerful (and Free) Compositing Software Is Coming to Mac Very Soon” and other Tweeted Links…
 
-[<img alt="megafunk visual [megafunkmega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/megafunkmega.jpg">](http://t.co/J9qAckguVs "megafunk visual [megafunkmega]") <span data-ng-bind-html="i.Text" class="ng-binding">Blackmagic's Powerful (&amp; Free) Compositing Software Is Coming to Mac Very Soon [http://t.co/dwk4R3o0a2](http://t.co/dwk4R3o0a2)</span>
+[<img alt="megafunk visual [megafunkmega]" src="https://songhay.blob.core.windows.net/shared-social-twitter/megafunkmega.jpg">](http://t.co/J9qAckguVs "megafunk visual [megafunkmega]") <span data-ng-bind-html="i.Text" class="ng-binding">Blackmagic's Powerful (& Free) Compositing Software Is Coming to Mac Very Soon [http://t.co/dwk4R3o0a2](http://t.co/dwk4R3o0a2)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">Introduction to HTML5 video [http://t.co/B2A8xeZk2F](http://t.co/B2A8xeZk2F) via [@DaveVoyles](http://twitter.com/DaveVoyles)</span>
 

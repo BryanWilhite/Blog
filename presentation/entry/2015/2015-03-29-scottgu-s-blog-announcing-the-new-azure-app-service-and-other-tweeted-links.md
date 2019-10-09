@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Everything You Didn't Know About Shared and Static Members -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2015/03/01/shared-and-static-members.aspx)
 
-[<img alt="NASA [NASA]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NASA.jpg">](http://t.co/TcEE6O9Jfb "NASA [NASA]") LIVE on NASA TV at [[nasa.gov]](http://www.nasa.gov/multimedia/nasatv/index.html): see [@StationCDRKelly](http://twitter.com/StationCDRKelly) &amp; crew welcomed to [@Space_Station](http://twitter.com/Space_Station) for [#YearInSpace](http://search.twitter.com/search?q=%23YearInSpace)[[twitter.com]](https://twitter.com/NASA/status/581649120739397632/photo/1)
+[<img alt="NASA [NASA]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NASA.jpg">](http://t.co/TcEE6O9Jfb "NASA [NASA]") LIVE on NASA TV at [[nasa.gov]](http://www.nasa.gov/multimedia/nasatv/index.html): see [@StationCDRKelly](http://twitter.com/StationCDRKelly) & crew welcomed to [@Space_Station](http://twitter.com/Space_Station) for [#YearInSpace](http://search.twitter.com/search?q=%23YearInSpace)[[twitter.com]](https://twitter.com/NASA/status/581649120739397632/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") præclarum - Introducing NGraphics [[praeclarum.org]](http://praeclarum.org/post/113814379658/introducing-ngraphics)
 

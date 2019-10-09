@@ -33,7 +33,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXhQVx "Miguel de Icaza [migueldeicaza]") Very excited to announce: For the next 2 years, Don Syme [@dsyme](http://twitter.com/dsyme) from Microsoft Research will be with the Xamarin te… [[twitter.com]](https://twitter.com/i/web/status/950425632311267328)
 
-[<img alt="UX How [UXHow]" src="https://songhay.blob.core.windows.net/shared-social-twitter/UXHow.png">](http://t.co/I77aw3puO9 "UX How [UXHow]") The 4 Types of UX Mapping: Empathy mapping, Customer journey mapping, Experience mapping &amp; Service blueprinting -… [[twitter.com]](https://twitter.com/i/web/status/950754100240674816)
+[<img alt="UX How [UXHow]" src="https://songhay.blob.core.windows.net/shared-social-twitter/UXHow.png">](http://t.co/I77aw3puO9 "UX How [UXHow]") The 4 Types of UX Mapping: Empathy mapping, Customer journey mapping, Experience mapping & Service blueprinting -… [[twitter.com]](https://twitter.com/i/web/status/950754100240674816)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Switching Your Site to HTTPS on a Shoestring Budget [[css-tricks.com]](https://css-tricks.com/switching-site-https-shoestring-budget/)
 
@@ -75,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Install Addons for Kodi – Get Started with SuperRepo [[superrepo.org]](https://superrepo.org/get-started/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The New Screen Savers 61: [[@leolaporte](http://twitter.com/leolaporte) =&gt; FreeNas distro, Synology or Drobo] [[youtube.com]](https://www.youtube.com/watch?v=90ZQWZu9Dq8)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The New Screen Savers 61: [[@leolaporte](http://twitter.com/leolaporte) => FreeNas distro, Synology or Drobo] [[youtube.com]](https://www.youtube.com/watch?v=90ZQWZu9Dq8)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") EXOGEAR Exomount Touch CD Mount Review [[youtube.com]](https://www.youtube.com/watch?v=GMgLAXyQlno) [recommended by [@reneritchie](http://twitter.com/reneritchie)]
 

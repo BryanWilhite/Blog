@@ -26,7 +26,7 @@ For me, there was no difference between this:
 ```c#
 var segments = GetContext().Segments
         .Include(i => i.ChildSegments)
-        .Where(i => (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
+        .Where(i => (i.ParentSegmentId == null) && i.IsActive.HasValue && i.IsActive.Value)
         .OrderBy(i => i.SegmentName);
 ```
 
@@ -36,11 +36,11 @@ var segments = GetContext().Segments
 var segments = GetContext().Segments
         .Include(i => i.ChildSegments)
         .Include(i => i.ChildSegments)
-        .Where(i => (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
+        .Where(i => (i.ParentSegmentId == null) && i.IsActive.HasValue && i.IsActive.Value)
         .OrderBy(i => i.SegmentName);
 ```
 
-I did not bother run SQL Profiler and dissect the SQL but in both cases there were no “grandchild” segments. (By the way, it’s been a few years so I should help to mention that EF6 over SQL Server still does not support the Nullable extension method `GetValueOrDefault()`. So, for the example above, we see `i.IsActive.HasValue &amp;&amp; i.IsActive.Value` in place of `i.IsActive.GetValueOrDefault()`.)
+I did not bother run SQL Profiler and dissect the SQL but in both cases there were no “grandchild” segments. (By the way, it’s been a few years so I should help to mention that EF6 over SQL Server still does not support the Nullable extension method `GetValueOrDefault()`. So, for the example above, we see `i.IsActive.HasValue && i.IsActive.Value` in place of `i.IsActive.GetValueOrDefault()`.)
 
 So my need for these “grandchild” segments suggests (correctly) that my `Segment` type has a “parent” `Segment`. This “self-join” can cause JSON.NET to throw a circular-reference exception and/or an out-of-memory exception (as it travels from parent to children—and children of children). Moreover, the `Segment` has a Documents collection (where each `Document` has a `Segment`—faithfully duplicated by JSON.NET until it runs out of memory!) To address these issues I have this:
 
@@ -73,8 +73,8 @@ var rootDocuments = segment.ChildSegments.Select(k =>
     {
         var rootDocument = context.Documents
             .Where(l => l.SegmentId == k.SegmentId)
-            .Where(l => l.IsActive.HasValue &amp;&amp; l.IsActive.Value)
-            .Where(l => l.IsRoot.HasValue &amp;&amp; l.IsRoot.Value)
+            .Where(l => l.IsActive.HasValue && l.IsActive.Value)
+            .Where(l => l.IsRoot.HasValue && l.IsRoot.Value)
             .FirstOrDefault();
 
 var documentJson = JsonConvert.SerializeObject(rootDocument, documentSettings);

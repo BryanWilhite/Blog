@@ -63,9 +63,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Visual Studio Code - All the Git Features!!! [[blogs.msdn.com]](http://blogs.msdn.com/b/user_ed/archive/2016/02/08/visual-studio-code-all-the-git-features.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hoefler &amp; Co.’s New Typewriter-Inspired Font Is Crafted for Coders [[wired.com]](http://www.wired.com/2016/02/hoefler-co-s-new-typewriter-inspired-font-is-crafted-for-coders/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hoefler & Co.’s New Typewriter-Inspired Font Is Crafted for Coders [[wired.com]](http://www.wired.com/2016/02/hoefler-co-s-new-typewriter-inspired-font-is-crafted-for-coders/)
 
-[<img alt="Kin Lane [kinlane]" src="https://songhay.blob.core.windows.net/shared-social-twitter/kinlane.png">](http://t.co/6FSPL2Nfc1 "Kin Lane [kinlane]") Serverless is a framework for building web, mobile&amp; IoT apps using AWS Lambda &amp; API Gateway - [[github.com]](https://github.com/serverless/serverless)
+[<img alt="Kin Lane [kinlane]" src="https://songhay.blob.core.windows.net/shared-social-twitter/kinlane.png">](http://t.co/6FSPL2Nfc1 "Kin Lane [kinlane]") Serverless is a framework for building web, mobile& IoT apps using AWS Lambda & API Gateway - [[github.com]](https://github.com/serverless/serverless)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An Intro to Audio for Game Developers [@sh4na](http://twitter.com/sh4na)[@tmrdevelops](http://twitter.com/tmrdevelops)[[channel9.msdn.com]](https://channel9.msdn.com/Blogs/raw-tech/An-Intro-to-Audio-for-Game-Developers)
 

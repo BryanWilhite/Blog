@@ -39,7 +39,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript 2.2: Mixin Classes | Marius Schulz [[blog.mariusschulz.com]](https://blog.mariusschulz.com/2017/05/26/typescript-2-2-mixin-classes) [like extension methods in C#]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/iP0Vl-vU3XM?a) GOTO 2013 • JS Unit Testing Good Practices &amp; Horrible Mistakes • Roy Osherove
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/iP0Vl-vU3XM?a) GOTO 2013 • JS Unit Testing Good Practices & Horrible Mistakes • Roy Osherove
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Eyes Above The Waves: WebAssembly: Mozilla Won [[robert.ocallahan.org]](http://robert.ocallahan.org/2017/06/webassembly-mozilla-won.html)
 

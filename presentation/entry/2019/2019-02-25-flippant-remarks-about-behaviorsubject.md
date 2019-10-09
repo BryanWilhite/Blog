@@ -37,25 +37,27 @@ Jure Bajt developed `rxjs-observable-store` [[GitHub](https://github.com/jurebaj
 
 To avoid the overhead of managing Bajt’s offering as a package, [this](https://github.com/jurebajt/rxjs-observable-store/blob/master/src/store.ts) is the essential:
 
+```typescript
 import {Observable, BehaviorSubject} from 'rxjs';
 
-export class Store&lt;T&gt; {
-            state$: Observable&lt;T&gt;;
-            private _state$: BehaviorSubject&lt;T&gt;;
+export class Store<T> {
+    state$: Observable<T>;
+    private _state$: BehaviorSubject<T>;
 
-protected constructor (initialState: T) {
-                this._state$ = new BehaviorSubject(initialState);
-                this.state$ = this._state$.asObservable();
-            }
+    protected constructor (initialState: T) {
+        this._state$ = new BehaviorSubject(initialState);
+        this.state$ = this._state$.asObservable();
+    }
 
-get state (): T {
-                return this._state$.getValue();
-            }
+    get state (): T {
+        return this._state$.getValue();
+    }
 
-setState (nextState: T): void {
-                this._state$.next(nextState);
-            }
-        }
+    setState (nextState: T): void {
+        this._state$.next(nextState);
+    }
+}
+```
 
 ## no, really: what about Redux and ngrx?
 

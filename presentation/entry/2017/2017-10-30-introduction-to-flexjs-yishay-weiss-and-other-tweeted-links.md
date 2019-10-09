@@ -29,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@SaraSoueidan](http://twitter.com/SaraSoueidan): “Jekyll became unbearably slow…” [[sarasoueidan.com]](https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/NSts93C9UeE?a) JAMstack Tutorial - Full site using Netlify &amp; Hugo
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/NSts93C9UeE?a) JAMstack Tutorial - Full site using Netlify & Hugo
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/rB4Cl5LSe2c?a) Moving Smashing Away from WordPress
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don't Code Tired | Mocking in .NET Core Tests with Moq [[dontcodetired.com]](http://dontcodetired.com/blog/post/Mocking-in-NET-Core-Tests-with-Moq)
 
-[<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoS05R "Donovan Brown [DonovanBrown]") Soon you will be able to export build &amp; release then stamp out as many as you like using Yo Team. [#RubDevOpsOnIt](http://twitter.com/search?q=%23RubDevOpsOnIt)… [[twitter.com]](https://twitter.com/i/web/status/917472995509014528)
+[<img alt="Donovan Brown [DonovanBrown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DonovanBrown.jpg">](https://t.co/jxoYdoS05R "Donovan Brown [DonovanBrown]") Soon you will be able to export build & release then stamp out as many as you like using Yo Team. [#RubDevOpsOnIt](http://twitter.com/search?q=%23RubDevOpsOnIt)… [[twitter.com]](https://twitter.com/i/web/status/917472995509014528)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How the .NET Runtime loads a Type · Performance is a Feature! [[mattwarren.org]](http://mattwarren.org/2017/06/15/How-the-.NET-Rutime-loads-a-Type/)
 

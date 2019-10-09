@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why Founders Fail To Market Their Products [[medium.dave-bailey.com]](https://medium.dave-bailey.com/why-founders-fail-to-market-their-products-f7c15935c81#.z6k28iw5r)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linux Administration w/ special guests Tameika Reed &amp; Dionne | A must Watch! [[youtube.com]](https://www.youtube.com/watch?v=ClIX-lbMEXQ) » [@BreakingBrown](http://twitter.com/BreakingBrown)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linux Administration w/ special guests Tameika Reed & Dionne | A must Watch! [[youtube.com]](https://www.youtube.com/watch?v=ClIX-lbMEXQ) » [@BreakingBrown](http://twitter.com/BreakingBrown)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/2_L9j6mDJBg?a) Why do Samsung and Google keep fighting?
 

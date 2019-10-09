@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Dynamic OrderBy in LINQ [[techmyview.com]](http://www.techmyview.com/post/2015/04/27/Using-Dynamic-OrderBy-in-LINQ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “When multiple Where methods are chained together, the result is the equivalent of using the AndAlso [&amp;&amp;] operator.” [[simple-talk.com]](https://www.simple-talk.com/dotnet/.net-framework/giving-clarity-to-linq-queries-by-extending-expressions/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “When multiple Where methods are chained together, the result is the equivalent of using the AndAlso [&&] operator.” [[simple-talk.com]](https://www.simple-talk.com/dotnet/.net-framework/giving-clarity-to-linq-queries-by-extending-expressions/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “create an expression tree like the one above that results in a Where expression” [[digitallycreated.net]](http://www.digitallycreated.net/Blog/37/dynamic-queries-in-entity-framework-using-expression-trees)
 

@@ -24,12 +24,12 @@ When you have the bandwidth just delete everything in your `\bower_components` f
 ```console
 Please note that,
 angular-embed-codepen#1.1.1 depends on angular#~1.2.21 which resolved to angular#1.2.28
-angular-ui-sortable#0.13.4 depends on angular#&gt;=1.2.x which resolved to angular#1.2.28
+angular-ui-sortable#0.13.4 depends on angular#>=1.2.x which resolved to angular#1.2.28
 angular-animate#1.4.4, angular-loader#1.4.4, angular-mocks#1.4.4, angular-route#1.4.4, angular-sanitize#1.4.4 depends on angular#1.4.4 which resolved to angular#1.4.4
-angulike#1.2.0 depends on angular#&gt;=1.2.16 which resolved to angular#1.4.4
+angulike#1.2.0 depends on angular#>=1.2.16 which resolved to angular#1.4.4
 angular-seed#a50f4c8a7a depends on angular#~1.4.0 which resolved to angular#1.4.4
-angular-ui-bootstrap-bower#0.13.3 depends on angular#&gt;=1.3.0 which resolved to angular#1.4.4
-Resort to using angular#&gt;=1.4.x which resolved to angular#1.4.4
+angular-ui-bootstrap-bower#0.13.3 depends on angular#>=1.3.0 which resolved to angular#1.4.4
+Resort to using angular#>=1.4.x which resolved to angular#1.4.4
 ```
 
 Code incompatibilities may occur.I recently installed a bower package that downgraded my `angular` package from 1.4.x to 1.2.x. I do not know why this is possible by default in bower—so this drastic move is the only way I know how to deal with this issue (today).

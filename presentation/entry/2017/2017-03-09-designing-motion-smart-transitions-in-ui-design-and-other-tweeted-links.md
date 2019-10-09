@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-03-09-designing-motion-smart-transitions-in-ui-design-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [youtube.com] Siri Fails, Dark UX &amp; The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [linkedin.com] The Importance of O...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [youtube.com] Siri Fails, Dark UX & The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [linkedin.com] The Importance of O...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UX Salon 2015 - Designing Motion: Smart Transitions in UI Design / Adrian Zumbrunnen - YouTube [[youtube.com]](https://www.youtube.com/watch?v=NaqKjp14Xbg)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Siri Fails, Dark UX &amp; The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [[linkedin.com]](https://www.linkedin.com/pulse/siri-fails-dark-ux-wisdom-steve-jobss-douchebaggery-2015-winograd)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Siri Fails, Dark UX & The Wisdom in Steve Jobs’s Douchebaggery: Recapping the 2015 UXSalon | Adam Winograd [[linkedin.com]](https://www.linkedin.com/pulse/siri-fails-dark-ux-wisdom-steve-jobss-douchebaggery-2015-winograd)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Importance of Offboarding - Joe Macleod / UX on Coffee [[youtube.com]](https://www.youtube.com/watch?v=BQo3SxElg2E) » [@nazsharif](http://twitter.com/nazsharif), [@danielleps0](http://twitter.com/danielleps0), [@megafunkmega](http://twitter.com/megafunkmega)
 
@@ -31,7 +31,7 @@
 
 [<img alt="Brendan Dawes [brendandawes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brendandawes.jpg">](http://t.co/wGjjOxS96F "Brendan Dawes [brendandawes]") My keynote from [#ixd17](http://twitter.com/search?q=%23ixd17) about the beautiful inconvenience of things is now online: [[vimeo.com]](https://vimeo.com/204279123)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Markov model =&gt; state abstraction [[en.wikipedia.org]](https://en.wikipedia.org/wiki/Markov_model) « [@azumbrunnen_](http://twitter.com/azumbrunnen_)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Markov model => state abstraction [[en.wikipedia.org]](https://en.wikipedia.org/wiki/Markov_model) « [@azumbrunnen_](http://twitter.com/azumbrunnen_)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Use Your Interface [[useyourinterface.com]](http://useyourinterface.com) « [@azumbrunnen_](http://twitter.com/azumbrunnen_)
 
@@ -75,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What is structured logging and why developers need it - Stackify [[stackify.com]](https://stackify.com/what-is-structured-logging-and-why-developers-need-it/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") November 2016 updates for Get &amp; Transform in Excel 2016 and the Power Query add-in - Office Blogs [[blogs.office.com]](https://blogs.office.com/2016/12/01/november-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)[#odata](http://twitter.com/search?q=%23odata)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") November 2016 updates for Get & Transform in Excel 2016 and the Power Query add-in - Office Blogs [[blogs.office.com]](https://blogs.office.com/2016/12/01/november-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)[#odata](http://twitter.com/search?q=%23odata)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") great presentations from [@DonovanBrown](http://twitter.com/DonovanBrown) at the end of Visual Studio 2017 Launch | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/events/Visual-Studio/Visual-Studio-2017-Launch/100)
 

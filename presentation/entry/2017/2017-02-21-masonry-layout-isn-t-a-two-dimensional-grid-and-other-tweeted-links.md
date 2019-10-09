@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-02-21-masonry-layout-isn-t-a-two-dimensional-grid-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"[masonry] layout isn’t a two dimensional grid. [rachelandrew.co.uk]@rachelandrew “simplest possible map hovers would involve just dumping this SVG” [mediatemple.net]@chriscoyier Let's Look at 50+ Interesting CSS Properties &amp; Values | CSS-Tricks [css-...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"[masonry] layout isn’t a two dimensional grid. [rachelandrew.co.uk]@rachelandrew “simplest possible map hovers would involve just dumping this SVG” [mediatemple.net]@chriscoyier Let's Look at 50+ Interesting CSS Properties & Values | CSS-Tricks [css-...\"\r\n}"
 }
 ---
 
@@ -23,13 +23,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “simplest possible map hovers would involve just dumping this SVG” [[mediatemple.net]](http://mediatemple.net/blog/tips/map-rollovers/)[@chriscoyier](http://twitter.com/chriscoyier)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Let's Look at 50+ Interesting CSS Properties &amp; Values | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Let's Look at 50+ Interesting CSS Properties & Values | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/lets-look-50-interesting-css-properties-values/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Animate to Different End States Using One Set of CSS Keyframes | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The world(and CRM) needs a better spreadsheet and form builder [[blog.voyager.vc]](http://blog.voyager.vc/the-world-needs-a-better-spreadsheet/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FAA: B4UFLY is an easy-to-use smartphone app that helps unmanned aircraft operators… [[faa.gov]](https://www.faa.gov/uas/where_to_fly/b4ufly/) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") FAA: B4UFLY is an easy-to-use smartphone app that helps unmanned aircraft operators… [[faa.gov]](https://www.faa.gov/uas/where_to_fly/b4ufly/) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript : More than just another JS transpiler - Basarat Ali Syed - YouTube [[youtube.com]](https://www.youtube.com/watch?v=wuPSYRi7Pt8)[@basarat](http://twitter.com/basarat)
 
@@ -51,11 +51,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows Management Framework (WMF) 5.1 Released | Windows PowerShell Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/powershell/2017/01/19/windows-management-framework-wmf-5-1-released/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building on Mac and Linux · scriptcs/scriptcs Wiki · GitHub [[github.com]](https://github.com/scriptcs/scriptcs/wiki/Building-on-Mac-and-Linux) &lt;= [[askubuntu.com]](http://askubuntu.com/questions/497358/how-to-install-mono-on-ubuntu-64-bit-v14-04?platform=hootsuite) &lt;= [[hostingadvice.com]](http://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/?platform=hootsuite)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building on Mac and Linux · scriptcs/scriptcs Wiki · GitHub [[github.com]](https://github.com/scriptcs/scriptcs/wiki/Building-on-Mac-and-Linux) <= [[askubuntu.com]](http://askubuntu.com/questions/497358/how-to-install-mono-on-ubuntu-64-bit-v14-04?platform=hootsuite) <= [[hostingadvice.com]](http://www.hostingadvice.com/how-to/set-command-aliases-linuxubuntudebian/?platform=hootsuite)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") scriptcs -install (without package name) will look for the scriptcs_packages.config file [[github.com]](https://github.com/scriptcs/scriptcs)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2013: “How to define an extension method in a scriptcs csx script” [[stackoverflow.com]](http://stackoverflow.com/a/17005964/22944?stw=2) &lt;= [@scriptcsnet](http://twitter.com/scriptcsnet) =&gt; [@StackOverflow](http://twitter.com/StackOverflow)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from 2013: “How to define an extension method in a scriptcs csx script” [[stackoverflow.com]](http://stackoverflow.com/a/17005964/22944?stw=2) <= [@scriptcsnet](http://twitter.com/scriptcsnet) => [@StackOverflow](http://twitter.com/StackOverflow)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") System, System.Collections.Generic, System.Linq, System.Text, System.Threading.Tasks ..are referenced by default [[github.com]](https://github.com/scriptcs/scriptcs/wiki/Writing-a-script#referencing-assemblies)
 
@@ -81,7 +81,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Companies hiring Remote Developers [[stackoverflow.com]](https://stackoverflow.com/jobs/companies?r=true) [only 188 out of 14,000+ [@StackOverflow](http://twitter.com/StackOverflow) companies offer remote :( ]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") [i'm no longer seeing this at stackoverflow careers =&gt;] The Joel Test: 12 Steps to Better Code – Joel on Software [[joelonsoftware.com]](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") [i'm no longer seeing this at stackoverflow careers =>] The Joel Test: 12 Steps to Better Code – Joel on Software [[joelonsoftware.com]](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") +[@iAyori](http://twitter.com/iAyori), [@khemenutwilhite](http://twitter.com/khemenutwilhite)[[twitter.com]](https://twitter.com/GeeksOfColor/status/817185529515151361)
 

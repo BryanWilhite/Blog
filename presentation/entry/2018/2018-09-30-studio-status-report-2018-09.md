@@ -47,6 +47,7 @@ Currently `AppDataService` [[GitHub](https://github.com/BryanWilhite/Songhay.Das
 
 `AppDataService` was re-factored, adding the `loadJson()` method [[ref](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16#issuecomment-418229660)] so it can be used like this:
 
+```c#
 @Injectable()
     export class YouTubePresentationDataServices {
         constructor(client: Http) {
@@ -54,23 +55,24 @@ Currently `AppDataService` [[GitHub](https://github.com/BryanWilhite/Songhay.Das
             this.videosDataService = new AppDataService(client);
         }
 
-presentationDataService: AppDataService;
+        presentationDataService: AppDataService;
 
-videosDataService: AppDataService;
+        videosDataService: AppDataService;
 
-loadPresentation(id): Promise&lt;Response&gt; {
-            const uri = `${YouTubeScalars.rxYouTubeApiRootUri} ${id}`;
-            return this.presentationDataService.loadJson&lt;{}&gt;(uri, json =&gt; {});
-        }
+        loadPresentation(id): Promise<Response> {
+                    const uri = `${YouTubeScalars.rxYouTubeApiRootUri} ${id}`;
+                    return this.presentationDataService.loadJson<{}>(uri, json => {});
+                }
 
-loadVideos(id): Promise&lt;Response&gt; {
-            const uri = `${YouTubeScalars.rxYouTubeApiRootUri} ${
-                YouTubeScalars.rxYouTubeApiVideosPath
-            } ${id}`;
+        loadVideos(id): Promise<Response> {
+                    const uri = `${YouTubeScalars.rxYouTubeApiRootUri} ${
+                        YouTubeScalars.rxYouTubeApiVideosPath
+                    } ${id}`;
 
-return this.videosDataService.loadJson&lt;{}&gt;(uri, json =&gt; {});
+        return this.videosDataService.loadJson<{}>(uri, json => {});
         }
     }
+```
 
 What this is saying most importantly is that there is only `AppDataService` per server call. This will not scale well in more sophisticated Apps, especially where there is no control over the server. The plan is to let GraphQL come to the rescue in near future.
 

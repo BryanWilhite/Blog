@@ -13,19 +13,19 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-11-21-andy-farnell-designing-sound-procedural-computational-audio-lecture-part-1-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Andy Farnell designing sound procedural / computational audio lecture part 1 [ow.ly] =&gt; @megafunkmega “The SOb project aims at developing sound models that are responsive to physical interactions” [ow.ly] Andy Farnell: Excerpt from Designing Sound Pra...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Andy Farnell designing sound procedural / computational audio lecture part 1 [ow.ly] => @megafunkmega “The SOb project aims at developing sound models that are responsive to physical interactions” [ow.ly] Andy Farnell: Excerpt from Designing Sound Pra...\"\r\n}"
 }
 ---
 
 # “Andy Farnell designing sound procedural / computational audio lecture part 1” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Andy Farnell designing sound procedural / computational audio lecture part 1 [[ow.ly]](http://ow.ly/S87R305RUrX) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Andy Farnell designing sound procedural / computational audio lecture part 1 [[ow.ly]](http://ow.ly/S87R305RUrX) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “The SOb project aims at developing sound models that are responsive to physical interactions” [[ow.ly]](http://ow.ly/lk3i305SbFw)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Andy Farnell: Excerpt from Designing Sound Practical synthetic sound design for film, games and ..media [PDF] [[ow.ly]](http://ow.ly/7vmO305ScMs)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “the Universita’ di Roma Tor Vergata launched the Sonus competition” [[ow.ly]](http://ow.ly/PExF305SabA) &lt;?=&gt; [@ShadiAshnai](http://twitter.com/ShadiAshnai)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “the Universita’ di Roma Tor Vergata launched the Sonus competition” [[ow.ly]](http://ow.ly/PExF305SabA) <?=> [@ShadiAshnai](http://twitter.com/ShadiAshnai)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Book Review – Designing Sound by Andy Farnell [[ow.ly]](http://ow.ly/lJhN305ScVc)
 
@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Design Principles for Reducing Cognitive Load - Marvel Blog [[ow.ly]](http://ow.ly/Djdj305UU7a)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tons of 2016 Sessions Available on Demand Now on MAX Online | Creative Cloud blog by Adobe [[ow.ly]](http://ow.ly/aXh8305XAYc) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tons of 2016 Sessions Available on Demand Now on MAX Online | Creative Cloud blog by Adobe [[ow.ly]](http://ow.ly/aXh8305XAYc) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Introducing Markdown Monster - a new Markdown Editor - Rick Strahl's Web Log [[ow.ly]](http://ow.ly/yJJZ305SnB6)[@RickStrahl](http://twitter.com/RickStrahl)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") TypeScript 2.1 RC: Better Inference, Async Functions, and More | TypeScript [[ow.ly]](http://ow.ly/Yzig3061ZlJ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Security Now 585: [@SGgrc](http://twitter.com/SGgrc) comes out against OAuth [53:00] which I’ve always disliked [[ow.ly]](http://ow.ly/xWVM3061xy9) =&gt; [@medjawii](http://twitter.com/medjawii)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Security Now 585: [@SGgrc](http://twitter.com/SGgrc) comes out against OAuth [53:00] which I’ve always disliked [[ow.ly]](http://ow.ly/xWVM3061xy9) => [@medjawii](http://twitter.com/medjawii)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to add a vertical line to a plot - Mathematica Stack Exchange [[ow.ly]](http://ow.ly/BBxL305TBur)
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") integrated into the Wolfram Language is access to the.. [@WolframResearch](http://twitter.com/WolframResearch) Knowledgebase also used in Wolfram|Alpha [[ow.ly]](http://ow.ly/Q5ZJ305Xzgt)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How can I exclude endpoints of intervals? - Mathematica Stack Exchange [[ow.ly]](http://ow.ly/lz6b305WCZJ) =&gt; $MachineEpsilon: [[ow.ly]](http://ow.ly/ITBh305WD8M)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How can I exclude endpoints of intervals? - Mathematica Stack Exchange [[ow.ly]](http://ow.ly/lz6b305WCZJ) => $MachineEpsilon: [[ow.ly]](http://ow.ly/ITBh305WD8M)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") JSON Schema introduction in Visual Studio - YouTube [[ow.ly]](http://ow.ly/lOgi305UdVu)
 
@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “The location in which to install [@nuget](http://twitter.com/nuget) packages instead of the default $(Solutiondir)\packages folder.” [[ow.ly]](http://ow.ly/dScQ3061xoQ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Q and A - Package Security Alerts extension [[ow.ly]](http://ow.ly/3RZy305UeEK) uses retirejs [[ow.ly]](http://ow.ly/DKaQ305UeGF) &lt;= [@mkristensen](http://twitter.com/mkristensen)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Q and A - Package Security Alerts extension [[ow.ly]](http://ow.ly/3RZy305UeEK) uses retirejs [[ow.ly]](http://ow.ly/DKaQ305UeGF) <= [@mkristensen](http://twitter.com/mkristensen)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Don't Code Tired | .NET Document Databases with Marten [[ow.ly]](http://ow.ly/ChSS305XAc8)
 

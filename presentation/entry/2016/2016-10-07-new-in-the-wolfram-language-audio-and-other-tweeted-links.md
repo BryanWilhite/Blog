@@ -65,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Windows 10 'Redstone 2' Build 14931 brings app updates [[zdnet.com]](http://www.zdnet.com/article/microsoft-windows-10-redstone-2-build-14931-brings-app-updates/#ftag=RSSbaffb68)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Win10 1607 cumulative update (KB3193494) killed video; had to F8 =&gt; F2 into low-resolution mode; looking for Radeon drivers
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Win10 1607 cumulative update (KB3193494) killed video; had to F8 => F2 into low-resolution mode; looking for Radeon drivers
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logitech announces first desktop speaker with bluetooth audio support [[mspoweruser.com]](https://mspoweruser.com/logitech-announces-first-desktop-speaker-bluetooth-audio-support/)
 
@@ -95,7 +95,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Poor Scientific Research Is Disproportionately Rewarded [[science.slashdot.org]](https://science.slashdot.org/story/16/09/24/165235/poor-scientific-research-is-disproportionately-rewarded?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "works on my machine" is being replaced by "works in my geo-location" =&gt; [@shanselman](http://twitter.com/shanselman)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "works on my machine" is being replaced by "works in my geo-location" => [@shanselman](http://twitter.com/shanselman)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/6nFh8kiPXYs?a) The Engineer Who Made Panda Express a Food Court Staple
 
@@ -109,6 +109,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computer Vision Syndrome [[laravel-news.com]](https://laravel-news.com/2016/09/computer-vision-syndrome/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Clipisode: “Host your own daily talk show, featuring your friends and fans” [[clipisode.co]](https://clipisode.co/beta) =&gt; [@libertymadison](http://twitter.com/libertymadison), [@CHEFAHKI](http://twitter.com/CHEFAHKI)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Clipisode: “Host your own daily talk show, featuring your friends and fans” [[clipisode.co]](https://clipisode.co/beta) => [@libertymadison](http://twitter.com/libertymadison), [@CHEFAHKI](http://twitter.com/CHEFAHKI)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

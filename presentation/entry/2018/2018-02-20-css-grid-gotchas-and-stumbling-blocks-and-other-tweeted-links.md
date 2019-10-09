@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The AI superstars at Google, Facebook, Apple—they all studied under this guy - [[torontolife.com]](https://torontolife.com/tech/ai-superstars-google-facebook-apple-studied-guy/)
 
-[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/gBUhMI3y8i "Julie Lerman [julielerman]") Thinking that when someone asks me a "help with EF" question on twitter (&amp; they have code that can be seen by other… [[twitter.com]](https://twitter.com/i/web/status/964890659479080960)
+[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/gBUhMI3y8i "Julie Lerman [julielerman]") Thinking that when someone asks me a "help with EF" question on twitter (& they have code that can be seen by other… [[twitter.com]](https://twitter.com/i/web/status/964890659479080960)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") not great to still see things like these 2 years into .NET Core [[twitter.com]](https://twitter.com/filip_woj/status/959335368951771136/photo/1)
 

@@ -39,7 +39,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Krzysztof-Cieslak/vscode-elm: Elm Language Support for Visual Studio Code [[github.com]](https://github.com/Krzysztof-Cieslak/vscode-elm)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Elm in Production: Surprises &amp; Pain Points [[youtube.com]](https://www.youtube.com/watch?v=LZj_1qVURL0) » [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Elm in Production: Surprises & Pain Points [[youtube.com]](https://www.youtube.com/watch?v=LZj_1qVURL0) » [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") how to use elm at work [[elm-lang.org]](http://elm-lang.org/blog/how-to-use-elm-at-work) » [@Bizmonger](http://twitter.com/Bizmonger)
 

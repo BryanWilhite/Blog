@@ -83,7 +83,7 @@ void HandleClientNavigating(LightNavigationMessage<NavigatingCancelEventArgs> me
         message.RelativeUriSegments[1] : null;
     int? id = (message.RelativeUriSegments.Length > 2) ?
         FrameworkTypeUtility.ParseInt32(message.RelativeUriSegments[2]) : null;
-    if(category == "category1" &amp;&amp; id.HasValue) this.DoRiaOperationGetMyData(id.Value);
+    if(category == "category1" && id.HasValue) this.DoRiaOperationGetMyData(id.Value);
     else if(navigationBookmarks.IsBookmarkUnknown()) message.Content.Cancel = true;
     else throw new NotImplementedException("Page is not yet supported.");
 }

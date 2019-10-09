@@ -37,7 +37,7 @@
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq "John Arundel [bitfield]") " [[badssl.com]](http://badssl.com) is meant for manual testing of security UI in web clients." For example, to check that you… [[twitter.com]](https://twitter.com/i/web/status/987348691827732480)
 
-[<img alt="Sander Elias @🇳🇱 [esosanderelias]" src="https://songhay.blob.core.windows.net/shared-social-twitter/esosanderelias.jpg">](https://t.co/kYSSi1QwqL "Sander Elias @🇳🇱 [esosanderelias]") It is online already! RXJS Observables in Angular - Ward Bell &amp; Sander Ellis [[youtu.be]](https://youtu.be/q--U25yPTrA) via [@YouTube](http://twitter.com/YouTube)
+[<img alt="Sander Elias @🇳🇱 [esosanderelias]" src="https://songhay.blob.core.windows.net/shared-social-twitter/esosanderelias.jpg">](https://t.co/kYSSi1QwqL "Sander Elias @🇳🇱 [esosanderelias]") It is online already! RXJS Observables in Angular - Ward Bell & Sander Ellis [[youtu.be]](https://youtu.be/q--U25yPTrA) via [@YouTube](http://twitter.com/YouTube)
 
 [<img alt="🥑 Hussain [jawache]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jawache.jpg">](https://t.co/VIYu5DqIan "🥑 Hussain [jawache]") When an observable errors out it stops the "whole" chain, so use a pipe to create an isolated chain so only that st… [[twitter.com]](https://twitter.com/i/web/status/987103315812077569)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") i lost my TypeScript `ts` compiler squigglies probably through an update. i think i resolved the issue with these:… [[twitter.com]](https://twitter.com/i/web/status/987440459269091328)
 
-[<img alt="Azure Friday ☁️ [azurefriday]" src="https://songhay.blob.core.windows.net/shared-social-twitter/azurefriday.jpg">](https://t.co/gn2midaA1V "Azure Friday ☁️ [azurefriday]") On [@Azure](http://twitter.com/Azure) Friday w/ [@donovanbrown](http://twitter.com/donovanbrown) &amp; [@rickspencer_3](http://twitter.com/rickspencer_3) on [@ch9](http://twitter.com/ch9) see how to deploy [@Bitnami](http://twitter.com/Bitnami)[#Nodejs](http://twitter.com/search?q=%23Nodejs) HA cluster w/… [[twitter.com]](https://twitter.com/i/web/status/987209645159690240)
+[<img alt="Azure Friday ☁️ [azurefriday]" src="https://songhay.blob.core.windows.net/shared-social-twitter/azurefriday.jpg">](https://t.co/gn2midaA1V "Azure Friday ☁️ [azurefriday]") On [@Azure](http://twitter.com/Azure) Friday w/ [@donovanbrown](http://twitter.com/donovanbrown) & [@rickspencer_3](http://twitter.com/rickspencer_3) on [@ch9](http://twitter.com/ch9) see how to deploy [@Bitnami](http://twitter.com/Bitnami)[#Nodejs](http://twitter.com/search?q=%23Nodejs) HA cluster w/… [[twitter.com]](https://twitter.com/i/web/status/987209645159690240)
 
 [<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG "James Newton-King ♔ [JamesNK]") The SignalR team has got a crazy amount of work done in the last month [[github.com]](https://github.com/aspnet/SignalR/pulse/monthly)[[twitter.com]](https://twitter.com/JamesNK/status/987258087495974913/photo/1)
 
@@ -65,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@royrapoport](http://twitter.com/royrapoport) points out that [@netflix](http://twitter.com/netflix) has _thousands_ of microservices and quickly reveals that redundancy is expe… [[twitter.com]](https://twitter.com/i/web/status/987453734899793920)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") ICYM them, we just released 2 new previews that we'd &lt;3 your feedback on: - [#dotNET](http://twitter.com/search?q=%23dotNET) Core 2.1,… [[twitter.com]](https://twitter.com/i/web/status/986671200142323713)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") ICYM them, we just released 2 new previews that we'd <3 your feedback on: - [#dotNET](http://twitter.com/search?q=%23dotNET) Core 2.1,… [[twitter.com]](https://twitter.com/i/web/status/986671200142323713)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") a must read for .NET developers Performance Improvements in .NET Core 2.1 [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2018/04/18/performance-improvements-in-net-core-2-1/)
 

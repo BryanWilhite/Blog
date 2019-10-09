@@ -45,7 +45,7 @@
 
 [<img alt="Manika P. Chowdhury [ManikaChowdhury]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ManikaChowdhury.jpg">]( "Manika P. Chowdhury [ManikaChowdhury]") Starting with the release of Google Chrome version 68, in July 2018, it will mark the unencrypted sites as "Not Sec… [[twitter.com]](https://twitter.com/i/web/status/962137291593457664)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Download 240+ Free eBooks on Design, Data, Software, Web Development &amp; Business from O’Reilly Media | Open Culture [[openculture.com]](http://www.openculture.com/2018/02/download-240-free-ebooks-on-design-data-software-web-development-business-from-oreilly-media.html)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Download 240+ Free eBooks on Design, Data, Software, Web Development & Business from O’Reilly Media | Open Culture [[openculture.com]](http://www.openculture.com/2018/02/download-240-free-ebooks-on-design-data-software-web-development-business-from-oreilly-media.html)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cloud SOLID Part II: Cloud Architecture and the Open/Closed Principle – AzureCAT Guidance [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/azurecat/2017/09/28/cloud-solid-part-ii-cloud-architecture-and-the-openclosed-principle/)
 
@@ -63,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Approvals in VSTS and TFS | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/vsts/build-release/concepts/definitions/release/approvals/approvals)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An overview of TLS 1.3 [https next?] and Q&amp;A [[blog.cloudflare.com]](https://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An overview of TLS 1.3 [https next?] and Q&A [[blog.cloudflare.com]](https://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") You're using HttpClient wrong and it is destabilizing your software | [[asp.net]](http://ASP.NET) Monsters… [[twitter.com]](https://twitter.com/i/web/status/962581109027590144)
 
@@ -79,7 +79,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Connect to a JSON file - [@msexcel](http://twitter.com/msexcel)[[support.office.com]](https://support.office.com/en-us/article/connect-to-a-json-file-f65207ab-d957-4bf0-bec3-a08bb53cd4c0)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Complete with new features &amp; bug fixes that address your feedback, we're announcing [#VS2017](http://twitter.com/search?q=%23VS2017) version 15.6 feature pr… [[twitter.com]](https://twitter.com/i/web/status/963066947481907200)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Complete with new features & bug fixes that address your feedback, we're announcing [#VS2017](http://twitter.com/search?q=%23VS2017) version 15.6 feature pr… [[twitter.com]](https://twitter.com/i/web/status/963066947481907200)
 
 [<img alt="Thomas Nigro [ThomasNigro]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ThomasNigro.jpg">](https://t.co/2TBxlC38XT "Thomas Nigro [ThomasNigro]") Visual Studio [@code](http://twitter.com/code) is now the official coding environment (IDE) recommended by the French administration in its op… [[twitter.com]](https://twitter.com/i/web/status/963532540932915200)
 
@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Git and Visual Studio 2017 part 6 : Rebasing | Ken’s Tech Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/kenakamu/2017/10/02/git-and-visual-studio-2017-part-6/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Log Aggregation 101: Methods, Tools, Tutorials &amp; More [[stackify.com]](https://stackify.com/log-aggregation-101/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Log Aggregation 101: Methods, Tools, Tutorials & More [[stackify.com]](https://stackify.com/log-aggregation-101/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Dissecting the local functions in C# 7 – Dissecting the code [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/seteplia/2017/10/03/dissecting-the-local-functions-in-c-7/)
 
@@ -107,7 +107,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Volatile Markets: Here’s What You Should Know [[cs1.schwab.com]](https://cs1.schwab.com/track?type=click&enid=ZWFzPTYmbXNpZD0xJmF1aWQ9MTE3MjQ2MzI1Jm1haWxpbmdpZD01MDk2MiZtZXNzYWdlaWQ9MzczMyZkYXRhYmFzZWlkPTU3ODQmc2VyaWFsPTEwMDY3MTQ3NCZlbWFpbGlkPUJSWUFOLldJTEhJVEVAR01BSUwuQ09NJnVzZXJpZD1jYW1wbjAyOTg4MzM3MTE5OWJhY21hbnY1bGlhb2FhYXdmNXR1YWsmdGFyZ2V0aWQ9Jm1uPTI3MzE5MSZmbD0mbXZpZD0mZXh0cmE9JiYm&&&market_volatility&&&https://www.schwab.com/resource-center/insights/section/market-volatility)[@CharlesSchwab](http://twitter.com/CharlesSchwab)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0Jg-gkE0pEA?a) Quicken 2018 Review - Deluxe, Premier, Home, Business &amp; Rental Property
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/0Jg-gkE0pEA?a) Quicken 2018 Review - Deluxe, Premier, Home, Business & Rental Property
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 51 Percent of Financial Services Companies Believe Existing Tech is Holding Them Back - Slashdot [[tech.slashdot.org]](https://tech.slashdot.org/story/18/02/09/1932217/51-percent-of-financial-services-companies-believe-existing-tech-is-holding-them-back?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 

@@ -113,6 +113,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Corralling the Keys [[core77.com]](http://www.core77.com/posts/41695/Corralling-the-Keys)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Walker &amp; Company Brands Raises $24M Series B, Inks Bevel Deal With Target [[techcrunch.com]](http://techcrunch.com/2015/09/28/walker-company-brands-raises-24m-series-b-inks-bevel-deal-with-target/) via [@techcrunch](http://twitter.com/techcrunch)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Walker & Company Brands Raises $24M Series B, Inks Bevel Deal With Target [[techcrunch.com]](http://techcrunch.com/2015/09/28/walker-company-brands-raises-24m-series-b-inks-bevel-deal-with-target/) via [@techcrunch](http://twitter.com/techcrunch)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -1,7 +1,7 @@
 ---json
 {
   "documentId": 0,
-  "title": "“CSS @supports [CSS feature queries] &lt;= @rachelandrew” and other Tweeted Links…",
+  "title": "“CSS @supports [CSS feature queries] <= @rachelandrew” and other Tweeted Links…",
   "documentShortName": "2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
   "fileName": "index.html",
   "path": "./entry/2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-01-20-css-supports-css-feature-queries-rachelandrew-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"CSS @supports[davidwalsh.name] [CSS feature queries] &lt;= @rachelandrew GOTO 2016 • You Can Use CSS For That! • Rachel Andrew [youtube.com]@rachelandrew Zooming | CSS-Tricks [css-tricks.com] SVG `use` with External Source | CSS-Tricks [css-tricks.com] C...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"CSS @supports[davidwalsh.name] [CSS feature queries] <= @rachelandrew GOTO 2016 • You Can Use CSS For That! • Rachel Andrew [youtube.com]@rachelandrew Zooming | CSS-Tricks [css-tricks.com] SVG `use` with External Source | CSS-Tricks [css-tricks.com] C...\"\r\n}"
 }
 ---
 
-# “CSS @supports [CSS feature queries] &lt;= @rachelandrew” and other Tweeted Links…
+# “CSS @supports [CSS feature queries] <= @rachelandrew” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS [@supports](http://twitter.com/supports)[[davidwalsh.name]](https://davidwalsh.name/css-supports) [CSS feature queries] &lt;= [@rachelandrew](http://twitter.com/rachelandrew)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") CSS [@supports](http://twitter.com/supports)[[davidwalsh.name]](https://davidwalsh.name/css-supports) [CSS feature queries] <= [@rachelandrew](http://twitter.com/rachelandrew)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • You Can Use CSS For That! • Rachel Andrew [[youtube.com]](https://www.youtube.com/watch?v=TNhR6ol9mBc)[@rachelandrew](http://twitter.com/rachelandrew)
 
@@ -39,7 +39,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Logos - CodePen Blog [[blog.codepen.io]](https://blog.codepen.io/documentation/brand-assets/logos/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Gomix is the easiest way to build the app or bot of your dreams [[gomix.com]](https://gomix.com/community/) &lt;= [@spolsky](http://twitter.com/spolsky) =&gt; [@iAyori](http://twitter.com/iAyori)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Gomix is the easiest way to build the app or bot of your dreams [[gomix.com]](https://gomix.com/community/) <= [@spolsky](http://twitter.com/spolsky) => [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “NetFlix call their implementation ReactiveSocket” [[sachabarbs.wordpress.com]](https://sachabarbs.wordpress.com/2016/12/23/rx-over-the-wire/)
 
@@ -61,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Notes from the [[asp.net]](http://ASP.NET) Community Standup –December 13, 2016 | .NET Web Development and Tools Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2016/12/28/notes-from-the-asp-net-community-standup-december-13-2016/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Here's Why You'll Love Managed WordPress Hosting from Pressable [[pressable.com]](https://pressable.com/) &lt;= [@spolsky](http://twitter.com/spolsky) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Here's Why You'll Love Managed WordPress Hosting from Pressable [[pressable.com]](https://pressable.com/) <= [@spolsky](http://twitter.com/spolsky) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Brief History of the Cloud | [[linux.com]](http://Linux.com) | The source for Linux information [[linux.com]](https://www.linux.com/blog/event/LinuxCon-Europe/2016/brief-history-cloud)
 
@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") SQL for Data Science - DZone Database [[dzone.com]](https://dzone.com/articles/sql-for-data-science)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why the Elixir language has great potential – code &amp; coffee [[adrian-philipp.com]](http://adrian-philipp.com/post/why-elixir-has-great-potential)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why the Elixir language has great potential – code & coffee [[adrian-philipp.com]](http://adrian-philipp.com/post/why-elixir-has-great-potential)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Back to Basics: String Interpolation in C# - Rick Strahl's Web Log [[weblog.west-wind.com]](https://weblog.west-wind.com/posts/2016/Dec/27/Back-to-Basics-String-Interpolation-in-C)
 
@@ -83,21 +83,21 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") It is easy to rename files in batches using the Windows File Explorer | SuperSite for Windows [[winsupersite.com]](http://winsupersite.com/windows-10/quick-tip-how-rename-multiple-files-one-time-windows-10-file-explorer)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HandBrake 1.0.0 Video Converter Arrives After More Than 13 Years in Development [[news.softpedia.com]](http://news.softpedia.com/news/handbrake-1-0-0-video-converter-arrives-after-more-than-13-years-of-development-511315.shtml) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HandBrake 1.0.0 Video Converter Arrives After More Than 13 Years in Development [[news.softpedia.com]](http://news.softpedia.com/news/handbrake-1-0-0-video-converter-arrives-after-more-than-13-years-of-development-511315.shtml) => [@megafunkmega](http://twitter.com/megafunkmega)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Go Is About Way More Than Groceries [[youtube.com]](https://www.youtube.com/watch?v=cA2-iMz479o)[@TheeNerdwriter](http://twitter.com/TheeNerdwriter) =&gt; [@taraw](http://twitter.com/taraw)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Go Is About Way More Than Groceries [[youtube.com]](https://www.youtube.com/watch?v=cA2-iMz479o)[@TheeNerdwriter](http://twitter.com/TheeNerdwriter) => [@taraw](http://twitter.com/taraw)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 40 female founders who crushed it in 2016 | TechCrunch [[techcrunch.com]](https://techcrunch.com/gallery/40-female-founders-who-crushed-it-in-2016/) » [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Guide to 2017 Conferences | CSS-Tricks [[css-tricks.com]](https://css-tricks.com/guide-2017-conferences/)[@chriscoyier](http://twitter.com/chriscoyier)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hiring an Employee's Buddy Is Fueling a Major Workplace Crisis - Bloomberg [[bloomberg.com]](https://www.bloomberg.com/news/articles/2016-12-23/hiring-an-employee-s-buddy-is-fueling-a-major-workplace-crisis) =&gt; [@iAyori](http://twitter.com/iAyori), [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hiring an Employee's Buddy Is Fueling a Major Workplace Crisis - Bloomberg [[bloomberg.com]](https://www.bloomberg.com/news/articles/2016-12-23/hiring-an-employee-s-buddy-is-fueling-a-major-workplace-crisis) => [@iAyori](http://twitter.com/iAyori), [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why I only work remotely – Medium [[medium.com]](https://medium.com/@yanismydj/why-i-only-work-remotely-2e5eb07ae28f#.rmszuyb28) » [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Stack Overflow is a good intention gone incredibly bad.” [[dorinlazar.ro]](https://dorinlazar.ro/the-sorry-state-of-the-programming-world-as-of-the-end-of-2016-ad/)[@dorinlazar](http://twitter.com/dorinlazar)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lessons from 3,000 technical interviews… [[blog.interviewing.io]](http://blog.interviewing.io/lessons-from-3000-technical-interviews/) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lessons from 3,000 technical interviews… [[blog.interviewing.io]](http://blog.interviewing.io/lessons-from-3000-technical-interviews/) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What Graduate School in Theoretical Physics Is Really Like [[nautil.us]](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 

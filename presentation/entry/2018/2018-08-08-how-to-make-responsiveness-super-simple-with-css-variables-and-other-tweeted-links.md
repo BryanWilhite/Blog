@@ -23,7 +23,7 @@
 
 [<img alt="Marcy Sutton [marcysutton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/marcysutton.jpg">](https://t.co/CLt1pn8hLu "Marcy Sutton [marcysutton]") The 3.0 releases of our aXe [#a11y](http://twitter.com/search?q=%23a11y) extensions are out! You can now test inside of Shadow DOM and with some new rules… [[twitter.com]](https://twitter.com/i/web/status/981216839723200512)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ()=&gt; [@typescriptlang](http://twitter.com/typescriptlang): “void is the absence of a type, you could think of it as another name to undefined” [[github.com]](https://github.com/Microsoft/TypeScript/issues/8322)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ()=> [@typescriptlang](http://twitter.com/typescriptlang): “void is the absence of a type, you could think of it as another name to undefined” [[github.com]](https://github.com/Microsoft/TypeScript/issues/8322)
 
 [<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj "scripting.com [davewiner]") My response to Node.js -- not every app is an OS. Sometimes you want to write a utility quickly, and then the ina… [[twitter.com]](https://twitter.com/i/web/status/981907379678842880)
 
@@ -63,7 +63,7 @@
 
 [<img alt="Russell Manthy [russellmanthy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/russellmanthy.jpg">](https://t.co/DEJMcwWoIQ "Russell Manthy [russellmanthy]") Learning about the future from 2001: A Space Odyssey, 50 years later [[blog.stephenwolfram.com]](http://blog.stephenwolfram.com/2018/04/learning-about-the-future-from-2001-a-space-odyssey-fifty-years-later/)[@stephen_wolfram](http://twitter.com/stephen_wolfram)… [[twitter.com]](https://twitter.com/i/web/status/981923225021173760)
 
-[<img alt="Dona Sarkar [donasarkar]" src="https://songhay.blob.core.windows.net/shared-social-twitter/donasarkar.jpg">](https://t.co/6D6oayhemZ "Dona Sarkar [donasarkar]") What is a book that's influenced you &amp; what is the idea you got from it? Mine is: Tribes by Seth Godin Idea: In a… [[twitter.com]](https://twitter.com/i/web/status/981898443642757120)
+[<img alt="Dona Sarkar [donasarkar]" src="https://songhay.blob.core.windows.net/shared-social-twitter/donasarkar.jpg">](https://t.co/6D6oayhemZ "Dona Sarkar [donasarkar]") What is a book that's influenced you & what is the idea you got from it? Mine is: Tribes by Seth Godin Idea: In a… [[twitter.com]](https://twitter.com/i/web/status/981898443642757120)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@donasarkar](http://twitter.com/donasarkar) Mine is: "They Came Before Columbus" by Ivan van Sertima which introduced to me how naming conventions… [[twitter.com]](https://twitter.com/i/web/status/981913793646112769)
 

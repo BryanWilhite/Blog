@@ -39,7 +39,7 @@
 
 [<img alt="Maarten Lambrechts [maartenzam]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maartenzam.jpg">](https://t.co/CapsyyxVpC "Maarten Lambrechts [maartenzam]") 7 Trends in Data Visualization [[gijc2017.org]](https://gijc2017.org/2017/11/19/data-visualization/)[@lenagroeger](http://twitter.com/lenagroeger) and [@officeofjane](http://twitter.com/officeofjane)’s thoughts at [#gijc17](http://twitter.com/search?q=%23gijc17) written… [[twitter.com]](https://twitter.com/i/web/status/932872697637494784)
 
-[<img alt="Mads Torgersen [MadsTorgersen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MadsTorgersen.jpeg">]( "Mads Torgersen [MadsTorgersen]") Check out [@jaredpar](http://twitter.com/jaredpar)'s great video about Span&lt;T&gt; and its merry friends. This is really moving the needle in a major… [[twitter.com]](https://twitter.com/i/web/status/930891929708937217)
+[<img alt="Mads Torgersen [MadsTorgersen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MadsTorgersen.jpeg">]( "Mads Torgersen [MadsTorgersen]") Check out [@jaredpar](http://twitter.com/jaredpar)'s great video about `Span<T>` and its merry friends. This is really moving the needle in a major… [[twitter.com]](https://twitter.com/i/web/status/930891929708937217)
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") Very cool! [@VSTS](http://twitter.com/VSTS) has a nice CLI that allows you create PRs and kick off builds from the command line. I wish… [[twitter.com]](https://twitter.com/i/web/status/931003426778968064)
 
@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") There are no trace LISTENERS in .NET Core? [@DamianEdwards](http://twitter.com/DamianEdwards), really???😬 [[twitter.com]](https://twitter.com/BryanWilhite/status/922320456404811776/photo/1)
 
-[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](http://t.co/u0gR38Ls9c "Damian Edwards [DamianEdwards]")[@BryanWilhite](http://twitter.com/BryanWilhite) .NET Core uses EventSource &amp; DiagnosticSource which are X-plat friendly. NetFx supports them too btw. [@terrajobst](http://twitter.com/terrajobst)
+[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](http://t.co/u0gR38Ls9c "Damian Edwards [DamianEdwards]")[@BryanWilhite](http://twitter.com/BryanWilhite) .NET Core uses EventSource & DiagnosticSource which are X-plat friendly. NetFx supports them too btw. [@terrajobst](http://twitter.com/terrajobst)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@DamianEdwards](http://twitter.com/DamianEdwards)[@terrajobst](http://twitter.com/terrajobst) Thx for the heads up. I now understand why other .NET Core folks are into TextWriterTraceListener(Console.Out)🧐
 

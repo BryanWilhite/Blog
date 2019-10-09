@@ -79,7 +79,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](http://t.co/Y2zRB337dJ "Miguel de Icaza [migueldeicaza]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@scottgu](http://twitter.com/scottgu) Thank you Bryan!
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Xamarin Forms: Native iOS, Android &amp; Windows Phone Apps from one C# Code... [[youtu.be]](https://youtu.be/sX2tO9JKJSs)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Xamarin Forms: Native iOS, Android & Windows Phone Apps from one C# Code... [[youtu.be]](https://youtu.be/sX2tO9JKJSs)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Miguel just became the new startup poster child” [[blogs.tedneward.com]](http://blogs.tedneward.com/post/xamarin-next-steps/)
 

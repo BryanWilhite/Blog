@@ -95,7 +95,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") American Computer Scientists Grace Hopper, Margaret Hamilton Receive Presidential Medals of Freedom - Slashdot [[ow.ly]](http://ow.ly/Fr1h306sYmb)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Co-Create: Creating Better Together [[ow.ly]](http://ow.ly/eGLg306toGi)[@denisejacobs](http://twitter.com/denisejacobs) in Lisbon =&gt; [@iAyori](http://twitter.com/iAyori), [@Bizmonger](http://twitter.com/Bizmonger)[#createtogether](http://twitter.com/search?q=%23createtogether)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Co-Create: Creating Better Together [[ow.ly]](http://ow.ly/eGLg306toGi)[@denisejacobs](http://twitter.com/denisejacobs) in Lisbon => [@iAyori](http://twitter.com/iAyori), [@Bizmonger](http://twitter.com/Bizmonger)[#createtogether](http://twitter.com/search?q=%23createtogether)
 
 [<img alt="blackwomenintech [BWiTLA]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BWiTLA.jpeg">](https://t.co/Z1JeN5MH6T "blackwomenintech [BWiTLA]") Age Discrimination in the Workplace is on the Rise—But It’s Hard to Prove [[linkedin.com]](https://www.linkedin.com/pulse/age-discrimination-workplace-risebut-its-hard-prove-john-mcdermott)
 

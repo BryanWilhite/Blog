@@ -25,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") OneGet, [#Windows10](http://search.twitter.com/search?q=%23Windows10) news: “[the official] build does not currently contain the Chocolatey Provider.” [[github.com]](https://github.com/oneget/oneget)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving the local root: “Right click OneDrive in Taskbar &gt; Settings &gt; Unlink &gt; Then launch OneDrive again” [[winbeta.org]](http://www.winbeta.org/news/how-move-onedrive-folder-another-drive-windows-10-technical-preview)[#onedrive](http://search.twitter.com/search?q=%23onedrive)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving the local root: “Right click OneDrive in Taskbar > Settings > Unlink > Then launch OneDrive again” [[winbeta.org]](http://www.winbeta.org/news/how-move-onedrive-folder-another-drive-windows-10-technical-preview)[#onedrive](http://search.twitter.com/search?q=%23onedrive)
 
 [<img alt="Rick Strahl [RickStrahl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RickStrahl.jpeg">](http://t.co/WpmgWuVQVK "Rick Strahl [RickStrahl]") Really pisses me off when [#Windows10](http://search.twitter.com/search?q=%23Windows10) doesn't allow you to something like stop a service EVEN WHEN RUNNING AS ADMIN.
 

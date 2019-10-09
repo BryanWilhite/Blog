@@ -47,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) An implementation of cache at Angular2 (4.0.0-rc.5 compatible). [[github.com]](https://github.com/apoterenko/angular2-cache)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2015: Do Observables make sense for http? [#5876](http://twitter.com/search?q='%235876)[[github.com]](https://github.com/angular/angular/issues/5876) &lt;= [@BenLesh](http://twitter.com/@BenLesh)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2015: Do Observables make sense for http? [#5876](http://twitter.com/search?q='%235876)[[github.com]](https://github.com/angular/angular/issues/5876) <= [@BenLesh](http://twitter.com/@BenLesh)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) HTTP Example with Promises • HTTP • Angular 5 [[sumo.ly]](http://sumo.ly/GvSb) via [@jawache](http://twitter.com/@jawache)
 
@@ -59,7 +59,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Press Ctrl+Shift+V to Paste Text Without Formatting in Google Chrome [[lifehacker.com]](http://lifehacker.com/5639828/google-chrome-now-supports-built-in-text-stripping?utm_medium=sharefromsite&utm_source=Lifehacker_twitter) via [@lifehacker](http://twitter.com/@lifehacker)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) at this moment in time i assume that [@azure](http://twitter.com/@azure) Web Apps enables CORS by default as i do not recall enabling it &lt;= “App Service CORS vs. your CORS” [[[docs.microsoft.com]](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api#app-service-cors-vs-your-cors)] [[twitter.com]](https://twitter.com/BryanWilhite/status/1007375203876233216/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) at this moment in time i assume that [@azure](http://twitter.com/@azure) Web Apps enables CORS by default as i do not recall enabling it <= “App Service CORS vs. your CORS” [[[docs.microsoft.com]](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-rest-api#app-service-cors-vs-your-cors)] [[twitter.com]](https://twitter.com/BryanWilhite/status/1007375203876233216/photo/1)
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3) - Unhandled exception - An uncaught exception - Crash - Process exits due to to unhandled exception - High memory usage - Higher memory usage than expected memory usage - Memory leak - Unexpected memory/objects remaining after clean up/GC happens
 
@@ -109,7 +109,7 @@
 
 [<img alt="Sonia Gupta [soniagupta504]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/soniagupta504.jpg">](https://t.co/vQYxlDJx2z) I have more admiration for people in tech who visibly demonstrate interest in social issues than for those whose sole interest seems to be tech itself. The latter group's singular focus indicates a lack of understanding that tech exists to serve humans, not the other way around.
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@soniagupta504](http://twitter.com/@soniagupta504) deeper still, the tech *contains* theories that reflect toxic traditions in society: the lowest hanging fruit is the “beauty” of imperative programming (which is about the aesthetics of central control, debilitating not-invented-here sickness: imperative =&gt; imperial)💂
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@soniagupta504](http://twitter.com/@soniagupta504) deeper still, the tech *contains* theories that reflect toxic traditions in society: the lowest hanging fruit is the “beauty” of imperative programming (which is about the aesthetics of central control, debilitating not-invented-here sickness: imperative => imperial)💂
 
 [<img alt="Kelsey Hightower [kelseyhightower]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kelseyhightower.jpg">](https://t.co/34tXx3kx0x) Twelve years. Still happy. [[twitter.com]](https://twitter.com/kelseyhightower/status/1008130016905814016/photo/1)
 

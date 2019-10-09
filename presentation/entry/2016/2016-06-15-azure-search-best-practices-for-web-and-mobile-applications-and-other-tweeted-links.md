@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Previewing Salsa – the New JavaScript Language Service in Visual Studio "15" [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudio/2016/04/08/previewing-salsa-javascript-language-service-visual-studio-15/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Expression Animations to Create Engaging &amp; Custom UI (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Build/2016/P486) via [@ch9](http://twitter.com/ch9)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using Expression Animations to Create Engaging & Custom UI (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Build/2016/P486) via [@ch9](http://twitter.com/ch9)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Implicit Animations (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Build/2016/P484) via [@ch9](http://twitter.com/ch9)
 

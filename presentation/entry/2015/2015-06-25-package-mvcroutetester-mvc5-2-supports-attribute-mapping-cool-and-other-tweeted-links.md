@@ -47,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") rss 2.0 schema [http://t.co/CZYvBE78o8](http://t.co/CZYvBE78o8)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Demystified: PCLs, .NET Core, DNX &amp; UWP: [http://t.co/Q0Vpb3zoD4](http://t.co/Q0Vpb3zoD4) - [@onovotny](http://twitter.com/onovotny) does a good job unraveling it all for us [http://t.co/jmirpEKkqo](http://t.co/jmirpEKkqo)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") Demystified: PCLs, .NET Core, DNX & UWP: [http://t.co/Q0Vpb3zoD4](http://t.co/Q0Vpb3zoD4) - [@onovotny](http://twitter.com/onovotny) does a good job unraveling it all for us [http://t.co/jmirpEKkqo](http://t.co/jmirpEKkqo)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") the interesting history of PowerShell told by [@jsnover](http://twitter.com/jsnover) himself [https://t.co/H5iO3GQhcH](https://t.co/H5iO3GQhcH)
 

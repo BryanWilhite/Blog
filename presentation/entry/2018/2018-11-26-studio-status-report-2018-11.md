@@ -42,9 +42,9 @@ I am currently working around this issue by deleting old GitHub entries from the
 ```console
 git push
 fatal: MissingMethodException encountered.
-   Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
+   Method not found: 'System.Threading.Tasks.Task`1<System.Net.Http.HttpResponseMessage> Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
 fatal: MissingMethodException encountered.
-   Method not found: 'System.Threading.Tasks.Task`1&lt;System.Net.Http.HttpResponseMessage&gt; Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
+   Method not found: 'System.Threading.Tasks.Task`1<System.Net.Http.HttpResponseMessage> Microsoft.Alm.Authentication.INetwork.HttpGetAsync(Microsoft.Alm.Authentication.TargetUri, Microsoft.Alm.Authentication.NetworkRequestOptions)'.
 Username for 'https://github.com':
 ```
 

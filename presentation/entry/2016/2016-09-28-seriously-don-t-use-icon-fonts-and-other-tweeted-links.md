@@ -43,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Understanding Routing Precedence In [[asp.net]](http://ASP.NET) MVC And Web API [[c-sharpcorner.com]](http://www.c-sharpcorner.com/article/understanding-routing-precedence-in-asp-net-mvc-and-web-api/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scott Hanselman Kicks Off the DEVintersection &amp; anglebrackets Fall CountDown Show [#1](http://twitter.com/search?q=%231)[[channel9.msdn.com]](https://channel9.msdn.com/Shows/The-DEVintersection-Countdown-Show/ScottHanselman-KicksOff-FallCountdown-Show1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scott Hanselman Kicks Off the DEVintersection & anglebrackets Fall CountDown Show [#1](http://twitter.com/search?q=%231)[[channel9.msdn.com]](https://channel9.msdn.com/Shows/The-DEVintersection-Countdown-Show/ScottHanselman-KicksOff-FallCountdown-Show1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Internet tracking has moved beyond cookies [[fivethirtyeight.com]](http://fivethirtyeight.com/features/internet-tracking-has-moved-beyond-cookies/)
 
@@ -79,7 +79,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why GitHub Finally Abandoned Its Bossless Workplace [[bloomberg.com]](http://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace)[@iayori](http://twitter.com/iayori)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • DevOps - The Good, The Bad, The Ugly • Jeff Smith [[youtu.be]](https://youtu.be/qLUt6bwNnks)[@darkandnerdy](http://twitter.com/darkandnerdy) =&gt; [@DonovanBrown](http://twitter.com/DonovanBrown), [@tmrDevelops](http://twitter.com/tmrDevelops)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • DevOps - The Good, The Bad, The Ugly • Jeff Smith [[youtu.be]](https://youtu.be/qLUt6bwNnks)[@darkandnerdy](http://twitter.com/darkandnerdy) => [@DonovanBrown](http://twitter.com/DonovanBrown), [@tmrDevelops](http://twitter.com/tmrDevelops)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Your First Bot using Microsoft Bot Framework [[dailydotnettips.com]](http://dailydotnettips.com/2016/09/07/building-your-first-bot-using-microsoft-bot-framework/)
 

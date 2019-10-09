@@ -61,7 +61,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JonathanTorke.jpg">](https://t.co/HhuiDe5OwM) DevTube - A collection of all developer and technical videos in one place [[dev.tube]](https://dev.tube/)
 
-[<img alt="Ben Adams [ben_a_adams]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ben_a_adams.jpg">](https://t.co/ouz1BJPWro) Introducing .NET Core 2.1 Flagship Types: Span&lt;T&gt; and Memory&lt;T&gt; [[codemag.com]](https://www.codemag.com/Article/1807051/Introducing-.NET-Core-2.1-Flagship-Types-Span-T-and-Memory-T)
+[<img alt="Ben Adams [ben_a_adams]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ben_a_adams.jpg">](https://t.co/ouz1BJPWro) Introducing .NET Core 2.1 Flagship Types: `Span<T>` and `Memory<T>` [[codemag.com]](https://www.codemag.com/Article/1807051/Introducing-.NET-Core-2.1-Flagship-Types-Span-T-and-Memory-T)
 
 [<img alt="James Newton-King ♔ [JamesNK]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/JamesNK.jpeg">](http://t.co/NT5azIWwVG) The next version of Newtonsoft.Json has SourceLink enabled! SourceLink started in the community, joined the [@dotnetfdn](http://twitter.com/@dotnetfdn) and is now the modern way to debug into .NET third party library source code. Read more about SourceLink // [@cmr0n](http://twitter.com/@cmr0n)[[blog.ctaggart.com]](http://blog.ctaggart.com/2018/06/newtonsoftjson-enabling-source-link.html)
 

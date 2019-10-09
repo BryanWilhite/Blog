@@ -29,7 +29,7 @@ Here lies a collection of Silverlight links I used for my research in years past
 </td><td>
 “In the Telerik’s Silverlight world the solution is called [Assembly Minifier](http://minifier.telerik.com/). It reduces the compiled [assembly’s] size by removing the controls (code and resources) that your application doesn't need during run-time. The result is smaller assemblies, smaller xap, which results in faster download time and faster application loading. You can read [my post](http://blogs.telerik.com/miromiroslavov/posts/10-07-15/telerik_assembly_minifier_-_official_release.aspx) for more information on how to use the tool.”
 </td></tr><tr><td>
-“[Free UI Controls &amp; Components](http://www.telerik.com/community/download-free-products.aspx)”
+“[Free UI Controls & Components](http://www.telerik.com/community/download-free-products.aspx)”
 </td><td>
 I’m noticing that the Silverlight freebies are being updated. It’s been about two years.
 </td></tr><tr><td>

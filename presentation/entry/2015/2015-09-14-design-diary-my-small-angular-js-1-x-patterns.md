@@ -56,17 +56,19 @@ var doHeaderDirective = function () {
 
 The header Directive shown above, has its scope option set to `false` (which means it will inherit its Controller scope). But when the header is loaded outside of `ngView` what controller is associated with it? To answer this question, I’ve developed this pattern using `ngController`:
 
-&lt;!DOCTYPE html&gt;
-&lt;html data-ng-app="rxApp"&gt;
-&lt;head&gt;…&lt;/head&gt;
-&lt;body&gt;
-&lt;div class="container" data-ng-controller="clientController"&gt;
-    &lt;rx-header /&gt;
-    &lt;div class="row" data-ng-view=""&gt;…&lt;/div&gt;
-&lt;/div&gt;
-&lt;rx-footer /&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+```html
+<!DOCTYPE html>
+<html data-ng-app="rxApp">
+<head>…</head>
+<body>
+<div class="container" data-ng-controller="clientController">
+    <rx-header />
+    <div class="row" data-ng-view="">…</div>
+</div>
+<rx-footer />
+</body>
+</html>
+```
 
 I can define View Model inside of `clientController` that can be used for data binding, etc. *outside* of `ngView`. This may be obvious to many Angular folks but I can see how a beginner can fall in the trap of thinking one should use `ngView` *or* `ngController` instead of *both* of them.
 
@@ -81,7 +83,7 @@ $scope.clientVM.dataService.loadData("index-" + indexMetaId).then(function (resp
     that.data = _(response.data.ChildDocuments)
         .chain()
         .filter(function (i) {
-            return (!_.isUndefined(i) &amp;&amp; !_.isNull(i));
+            return (!_.isUndefined(i) && !_.isNull(i));
         }).sortBy(function (i) {
             return i.CreateDate;
         })
@@ -126,7 +128,7 @@ $scope.vm = {
         }
         filterExpression = filterExpression.toLowerCase();
         var title = data.Title;
-        var isContainedInTitle = (title &amp;&amp; title.toLowerCase().indexOf(filterExpression) === -1) ? false : true;
+        var isContainedInTitle = (title && title.toLowerCase().indexOf(filterExpression) === -1) ? false : true;
         return isContainedInTitle;
     },
     filterGroups: function (data) {
@@ -134,7 +136,7 @@ $scope.vm = {
             return true;
         }
         var filteredItems = _(data.group).filter($scope.vm.filterGroup);
-        var hasGroupItems = (filteredItems &amp;&amp; (filteredItems.length &gt; 0)) ? true : false;
+        var hasGroupItems = (filteredItems && (filteredItems.length > 0)) ? true : false;
         return hasGroupItems;
     },
 };
@@ -142,7 +144,7 @@ $scope.vm = {
 
 The `filterExpression` property is bound to an `input[type="text"]` element:
 
-&lt;input data-ng-model="vm.filterExpression" type="text" class="form-control" placeholder="search"&gt;
+<input data-ng-model="vm.filterExpression" type="text" class="form-control" placeholder="search">
 
 The Angular documentation clearly specifies the use of a “[predicate function](https://docs.angularjs.org/api/ng/filter/filter)” for filter expressions.
 

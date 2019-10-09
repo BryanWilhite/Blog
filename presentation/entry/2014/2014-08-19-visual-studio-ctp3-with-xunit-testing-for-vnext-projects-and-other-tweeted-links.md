@@ -43,7 +43,7 @@
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](http://t.co/NrWutH4j9m "Miguel de Icaza [migueldeicaza]") <span>For those of you that loved the game Dune on PC many years ago: [https://t.co/qW53pdPVuU](https://t.co/qW53pdPVuU)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Photograpy 101 – Cheat Sheet &amp; Camera Basics » Scissortail SILK [http://t.co/USmRivskI8](http://t.co/USmRivskI8)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Photograpy 101 – Cheat Sheet & Camera Basics » Scissortail SILK [http://t.co/USmRivskI8](http://t.co/USmRivskI8)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>..like doctypeTV? [http://t.co/WK2niq0Z7M](http://t.co/WK2niq0Z7M)</span>
 

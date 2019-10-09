@@ -85,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Craigslist Is Ugly, Janky, Old School…and Unbeatable [[backchannel.com]](https://backchannel.com/craigslist-is-ugly-janky-old-school-and-unbeatable-85206829cb90#.261hyc2fy)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") BRCK | Rugged, Portable WiFi Hotspot &amp; Battery Extender [[brck.com]](https://www.brck.com/) « [@shanselman](http://twitter.com/shanselman) » [@iAyori](http://twitter.com/iAyori)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") BRCK | Rugged, Portable WiFi Hotspot & Battery Extender [[brck.com]](https://www.brck.com/) « [@shanselman](http://twitter.com/shanselman) » [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Italy opens its new office in Milan - MSPoweruser [[mspoweruser.com]](https://mspoweruser.com/microsoft-italy-opens-its-new-office-in-milan/)
 

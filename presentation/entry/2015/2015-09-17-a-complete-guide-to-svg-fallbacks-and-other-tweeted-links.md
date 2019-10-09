@@ -77,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top Five Reasons Why Ubuntu Is the Most Used Linux OS [[news.softpedia.com]](http://news.softpedia.com/news/top-five-reasons-why-ubuntu-is-the-most-used-linux-os-491064.shtml)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Steve Wozniak "Steve Jobs Played No Role In My Designs For the Apple I &amp; II" [[apple.slashdot.org]](http://apple.slashdot.org/story/15/09/07/1827205/steve-wozniak-steve-jobs-played-no-role-in-my-designs-for-the-apple-i-ii?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Steve Wozniak "Steve Jobs Played No Role In My Designs For the Apple I & II" [[apple.slashdot.org]](http://apple.slashdot.org/story/15/09/07/1827205/steve-wozniak-steve-jobs-played-no-role-in-my-designs-for-the-apple-i-ii?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Adrian Frutiger, 1928-2015 [[davidairey.com]](http://www.davidairey.com/adrian-frutiger-1928-2015/)
 

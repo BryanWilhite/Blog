@@ -27,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 10 Must-have WordPress Plugins for Every Blog Owner [[noupe.com]](https://www.noupe.com/wordpress/10-must-have-wordpress-plugins-for-every-blog-owner.html)
 
-[<img alt="Underware [underware]" src="https://songhay.blob.core.windows.net/shared-social-twitter/underware.jpg">](http://t.co/flHekC2Igf "Underware [underware]") New font: Zeitung Mono! See &amp; experience at our Responsive ASCII (!) homepage -&gt; [[underware.nl]](http://www.underware.nl)[[twitter.com]](https://twitter.com/underware/status/879682285758550017/photo/1)
+[<img alt="Underware [underware]" src="https://songhay.blob.core.windows.net/shared-social-twitter/underware.jpg">](http://t.co/flHekC2Igf "Underware [underware]") New font: Zeitung Mono! See & experience at our Responsive ASCII (!) homepage -> [[underware.nl]](http://www.underware.nl)[[twitter.com]](https://twitter.com/underware/status/879682285758550017/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft is acquiring Deis, an open source company that builds tools to make Kubernetes easier to use [[mspoweruser.com]](https://mspoweruser.com/microsoft-acquiring-deis-open-source-company-builds-tools-make-kubernetes-easier-use/)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Code Reviews and Presentations with Visual Studio -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2017/03/01/code-reviews-presentations-visual-studio-toolbox.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Casting to IEnumerable&lt;T&gt; is Two Orders of Magnitude Slower [[danielcrabtree.com]](https://www.danielcrabtree.com/blog/191/casting-to-ienumerable-t-is-two-orders-of-magnitude-slower)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Casting to `IEnumerable<T>` is Two Orders of Magnitude Slower [[danielcrabtree.com]](https://www.danielcrabtree.com/blog/191/casting-to-ienumerable-t-is-two-orders-of-magnitude-slower)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing .NET Core 2.0 Preview 2 | .NET Blog [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/06/28/announcing-net-core-2-0-preview-2/)
 

@@ -87,11 +87,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft Surface Studio: Review [@Devindra](http://twitter.com/Devindra)[[ow.ly]](http://ow.ly/Ploy306hxCP)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/8K6xWITOxso?a) Surface Dial Unboxing &amp; Review
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/8K6xWITOxso?a) Surface Dial Unboxing & Review
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HP rumoured to be working on consumer Windows Phone for February 2017 - MSPoweruser [[ow.ly]](http://ow.ly/Fa80306kceZ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Trump’s chief strategist Steve Bannon suggests having too many Asian tech CEOs undermines ‘civic society’ [[ow.ly]](http://ow.ly/XmIg306fu4d) =&gt; [@iAyori](http://twitter.com/iAyori)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Trump’s chief strategist Steve Bannon suggests having too many Asian tech CEOs undermines ‘civic society’ [[ow.ly]](http://ow.ly/XmIg306fu4d) => [@iAyori](http://twitter.com/iAyori)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft says it will tie executive bonuses to diversity hiring goals - The Verge [[ow.ly]](http://ow.ly/Ei0r306kcDu)
 

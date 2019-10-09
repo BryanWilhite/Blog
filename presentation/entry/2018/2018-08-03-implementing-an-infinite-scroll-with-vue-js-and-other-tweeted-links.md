@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-08-03-implementing-an-infinite-scroll-with-vue-js-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Implementing an Infinite Scroll with Vue.js:       [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom       [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How       #CSS works: Parsing &amp; painting CSS in t...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Implementing an Infinite Scroll with Vue.js:       [alligator.io] Build a Basic CRUD App with Vue.js and Node by sitepointdotcom       [javascriptkicks.com]#javascript#vuejs#nodejs via JavaScriptKicks How       #CSS works: Parsing & painting CSS in t...\"\r\n}"
 }
 ---
 
@@ -23,7 +23,7 @@
 
 [<img alt="JavaScriptKicks [JavaScriptKicks]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JavaScriptKicks.jpg">](http://t.co/leSeGQTKcF "JavaScriptKicks [JavaScriptKicks]") Build a Basic CRUD App with Vue.js and Node by sitepointdotcom [[javascriptkicks.com]](https://javascriptkicks.com/r/12732?url=https://www.sitepoint.com/build-a-basic-crud-app-with-vue-js-and-node/)[#javascript](http://twitter.com/search?q=%23javascript)[#vuejs](http://twitter.com/search?q=%23vuejs)[#nodejs](http://twitter.com/search?q=%23nodejs) via JavaScriptKicks
 
-[<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") How [#CSS](http://twitter.com/search?q=%23CSS) works: Parsing &amp; painting CSS in the critical rendering path [[blog.logrocket.com]](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
+[<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") How [#CSS](http://twitter.com/search?q=%23CSS) works: Parsing & painting CSS in the critical rendering path [[blog.logrocket.com]](https://blog.logrocket.com/how-css-works-parsing-painting-css-in-the-critical-rendering-path-b3ee290762d3)
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">]( "Jonathan Torke [JonathanTorke]") Brutalist [#design](http://twitter.com/search?q=%23design) is the bad influence we all need [[imaginarycloud.com]](https://www.imaginarycloud.com/blog/why-we-need-web-brutalism/)
 
@@ -49,11 +49,11 @@
 
 [<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") 💭 neat, a historical visualization of— 😲 —that's the freaking [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs)! /* 🙌, [@SENTH1S](http://twitter.com/SENTH1S)! [#dataviz](http://twitter.com/search?q=%23dataviz) well done! */ [[twitter.com]](https://twitter.com/SENTH1S/status/984805526180712450)
 
-[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") ICYMI 🌀, 🔔s &amp; 😗💨: "r-lib/cli: 🛠 for making beautiful &amp; useful command line interfaces" [@GaborCsardi](http://twitter.com/GaborCsardi) &amp;co… [[twitter.com]](https://twitter.com/i/web/status/985201534819557377)
+[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") ICYMI 🌀, 🔔s & 😗💨: "r-lib/cli: 🛠 for making beautiful & useful command line interfaces" [@GaborCsardi](http://twitter.com/GaborCsardi) &co… [[twitter.com]](https://twitter.com/i/web/status/985201534819557377)
 
 [<img alt="Juri Strumpflohner [juristr]" src="https://songhay.blob.core.windows.net/shared-social-twitter/juristr.jpg">](https://t.co/CjthDsr28G "Juri Strumpflohner [juristr]") Want to try the new [@angular](http://twitter.com/angular) v6 CLI setup which is currently in RC? But you don't want to overwrite your existing i… [[twitter.com]](https://twitter.com/i/web/status/984525681953509377)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Redux is not great for making simple things quickly…” [@jevakallio](http://twitter.com/jevakallio)[[youtu.be]](https://youtu.be/JP9CQLBLpFs?t=865) &lt;= [@brandontroberts](http://twitter.com/brandontroberts),… [[twitter.com]](https://twitter.com/i/web/status/984558261645885440)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Redux is not great for making simple things quickly…” [@jevakallio](http://twitter.com/jevakallio)[[youtu.be]](https://youtu.be/JP9CQLBLpFs?t=865) <= [@brandontroberts](http://twitter.com/brandontroberts),… [[twitter.com]](https://twitter.com/i/web/status/984558261645885440)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") the [@angular](http://twitter.com/angular) documentation on testing is wildly out of sync with the ‘tour of heroes’ tutorial; it cost me quite a… [[twitter.com]](https://twitter.com/i/web/status/984872880621027328)
 
@@ -67,7 +67,7 @@
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.jpeg">](https://t.co/XKK4NcxDZ3 "David Fowler [davidfowl]")[[asp.net]](http://ASP.NET) Core 2.1 preview2 is out! [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2018/04/12/asp-net-core-2-1-0-preview2-now-available/)[#dotnetcore](http://twitter.com/search?q=%23dotnetcore)[#aspnetcore](http://twitter.com/search?q=%23aspnetcore)
 
-[<img alt="Jacob Jedryszek [JakubJedryszek]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JakubJedryszek.jpg">](https://t.co/OdJs1nqtwW "Jacob Jedryszek [JakubJedryszek]") W00t! [#MSSQL](http://twitter.com/search?q=%23MSSQL) extension for [#VSCode](http://twitter.com/search?q=%23VSCode) &lt;3 &lt;3 &lt;3 [#crossplatform](http://twitter.com/search?q=%23crossplatform)[[twitter.com]](https://twitter.com/JakubJedryszek/status/985035009735114752/photo/1)
+[<img alt="Jacob Jedryszek [JakubJedryszek]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JakubJedryszek.jpg">](https://t.co/OdJs1nqtwW "Jacob Jedryszek [JakubJedryszek]") W00t! [#MSSQL](http://twitter.com/search?q=%23MSSQL) extension for [#VSCode](http://twitter.com/search?q=%23VSCode) <3 <3 <3 [#crossplatform](http://twitter.com/search?q=%23crossplatform)[[twitter.com]](https://twitter.com/JakubJedryszek/status/985035009735114752/photo/1)
 
 [<img alt="Jeremy Likness ⚡️ [jeremylikness]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jeremylikness.jpg">](https://t.co/IbLCTBQJ41 "Jeremy Likness ⚡️ [jeremylikness]") Fantastic 15-minute video illustrates advanced [#Azure](http://twitter.com/search?q=%23Azure)[#CosmosDB](http://twitter.com/search?q=%23CosmosDB) concepts - how to choose partition keys, how those… [[twitter.com]](https://twitter.com/i/web/status/984802397016023040)
 
@@ -75,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/tw7yV4puDEk?a) Project Jupyter with Jessica Forde, Yuvi Panda and Chris Holdgraf: GCPPodcast 122
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") When Functional Programming Isn't Functional | LeadingAgileLeadingAgile [[shar.es]](https://shar.es/1LIFhz) via [@leadingagile](http://twitter.com/leadingagile) &lt;= [@odytrice](http://twitter.com/odytrice)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") When Functional Programming Isn't Functional | LeadingAgileLeadingAgile [[shar.es]](https://shar.es/1LIFhz) via [@leadingagile](http://twitter.com/leadingagile) <= [@odytrice](http://twitter.com/odytrice)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Google is shutting down it URL Shortner next year - [[mspoweruser.com]](https://mspoweruser.com/google-is-shutting-down-it-url-shortner-next-year/)
 
@@ -83,7 +83,7 @@
 
 [<img alt="Raymond Hettinger [raymondh]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raymondh.jpg">](https://t.co/r5ifYKcnD3 "Raymond Hettinger [raymondh]")[#python](http://twitter.com/search?q=%23python) list comparison techniques: # identity matters a is b # order matters; duplicates matter a == b # order… [[twitter.com]](https://twitter.com/i/web/status/985216546103422976)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@TalkPython](http://twitter.com/TalkPython) Episode [#120](http://twitter.com/search?q=%23120): Python in Finance [[talkpython.fm]](https://talkpython.fm/episodes/show/120/python-in-finance) &lt;= Yves Hilpisch [@dyjh](http://twitter.com/dyjh)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") . [@TalkPython](http://twitter.com/TalkPython) Episode [#120](http://twitter.com/search?q=%23120): Python in Finance [[talkpython.fm]](https://talkpython.fm/episodes/show/120/python-in-finance) <= Yves Hilpisch [@dyjh](http://twitter.com/dyjh)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "In master (2.2.0 of the SDK), the host now implements a --list-skds and a --list-runtimes commands." [[github.com]](https://github.com/dotnet/cli/issues/8148)
 

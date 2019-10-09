@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2017-01-31-a-friendly-introduction-to-machine-learning-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"A Friendly Introduction to Machine Learning [youtube.com] A Gentle Introduction To Machine Learning; SciPy 2013 Presentation [youtube.com] Deep Learning [deeplearning.stanford.edu]@stanford Need a Math refresher?? =&gt; “Learning AI if You Suck at Math” ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"A Friendly Introduction to Machine Learning [youtube.com] A Gentle Introduction To Machine Learning; SciPy 2013 Presentation [youtube.com] Deep Learning [deeplearning.stanford.edu]@stanford Need a Math refresher?? => “Learning AI if You Suck at Math” ...\"\r\n}"
 }
 ---
 
@@ -25,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Deep Learning [[deeplearning.stanford.edu]](http://deeplearning.stanford.edu/)[@stanford](http://twitter.com/stanford)
 
-[<img alt="Tara [taraw]" src="https://songhay.blob.core.windows.net/shared-social-twitter/taraw.jpeg">](http://t.co/4HS7ZMeZq4 "Tara [taraw]") Need a Math refresher?? =&gt; “Learning AI if You Suck at Math” by Daniel Jeffries [[hackernoon.com]](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.6810bwvo9)
+[<img alt="Tara [taraw]" src="https://songhay.blob.core.windows.net/shared-social-twitter/taraw.jpeg">](http://t.co/4HS7ZMeZq4 "Tara [taraw]") Need a Math refresher?? => “Learning AI if You Suck at Math” by Daniel Jeffries [[hackernoon.com]](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.6810bwvo9)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DocumentDB: Database-as-a-Service for MongoDB Developers | Azure Friday | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Shows/Azure-Friday/DocumentDB-Database-as-a-Service-for-MongoDB-Developers)
 
@@ -101,8 +101,8 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Silicon Valley Veteran On Apple: Company Has Become Sloppy, Missed Updates, Delayed Refreshes - Slashdot [[apple.slashdot.org]](https://apple.slashdot.org/story/17/01/04/1521241/silicon-valley-veteran-on-apple-company-has-become-sloppy-missed-updates-delayed-refreshes-by-long?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Born for IT? - How the Image of Software Developers came about • Birgitta Böckeler [[youtube.com]](https://www.youtube.com/watch?v=wk1r4XaWwsM) =&gt; [@iAyori](http://twitter.com/iAyori)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Born for IT? - How the Image of Software Developers came about • Birgitta Böckeler [[youtube.com]](https://www.youtube.com/watch?v=wk1r4XaWwsM) => [@iAyori](http://twitter.com/iAyori)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Melba Roy - Female Computer | Melba Roy headed the group of … | Flickr [[flickr.com]](https://www.flickr.com/photos/nasacommons/9467783474/in/dateposted/) =&gt; [@iAyori](http://twitter.com/iAyori),… [[twitter.com]](https://twitter.com/i/web/status/824667138854187010)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Melba Roy - Female Computer | Melba Roy headed the group of … | Flickr [[flickr.com]](https://www.flickr.com/photos/nasacommons/9467783474/in/dateposted/) => [@iAyori](http://twitter.com/iAyori),… [[twitter.com]](https://twitter.com/i/web/status/824667138854187010)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

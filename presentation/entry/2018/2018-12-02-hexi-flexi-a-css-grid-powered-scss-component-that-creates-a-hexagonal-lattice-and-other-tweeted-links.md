@@ -27,13 +27,13 @@
 
 [<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj) Tim Berners-Lee, the Man Who Created the World Wide Web, Has Some Regrets. [[vanityfair.com]](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
 
-[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT) Staggeringly beautiful… "200 Years of U.S. Immigration As the Rings on a Tree" 🖌 [@pmcruz](http://twitter.com/@pmcruz) &amp; [@wihbey](http://twitter.com/@wihbey)[[buff.ly]](https://buff.ly/2u7hVtM)[#dataviz](http://twitter.com/search?q='%23dataviz)[#infovis](http://twitter.com/search?q='%23infovis)[[twitter.com]](https://twitter.com/dataandme/status/1014842619187384320/photo/1)
+[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT) Staggeringly beautiful… "200 Years of U.S. Immigration As the Rings on a Tree" 🖌 [@pmcruz](http://twitter.com/@pmcruz) & [@wihbey](http://twitter.com/@wihbey)[[buff.ly]](https://buff.ly/2u7hVtM)[#dataviz](http://twitter.com/search?q='%23dataviz)[#infovis](http://twitter.com/search?q='%23infovis)[[twitter.com]](https://twitter.com/dataandme/status/1014842619187384320/photo/1)
 
 [<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT) 💥 cool gallery of ggplot-related pkgs: 📈 "All Your Figure Are Belong to Us" 👾 [@yutannihilat_en](http://twitter.com/@yutannihilat_en)[[buff.ly]](https://buff.ly/2lPSSHO)[#rstats](http://twitter.com/search?q='%23rstats)[#dataviz](http://twitter.com/search?q='%23dataviz)[[twitter.com]](https://twitter.com/dataandme/status/1014132167457329154/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “`::ng-deep` is also already marked deprecated, but there is no replacement available yet” [[stackoverflow.com]](https://stackoverflow.com/questions/36265026/angular-2-innerhtml-styling) [without this *deep* concept for styling on the component level, [@angular](http://twitter.com/@angular) will translate CSS with attribute selectors all the way down [[w3.org]](https://www.w3.org/TR/CSS2/selector.html#attribute-selectors)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) when using SASS with [@angular](http://twitter.com/@angular) components, i'm using: &amp; ::ngdeep [[twitter.com]](https://twitter.com/BryanWilhite/status/1014970071867772928/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) when using SASS with [@angular](http://twitter.com/@angular) components, i'm using: & ::ngdeep [[twitter.com]](https://twitter.com/BryanWilhite/status/1014970071867772928/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 2018: Angular :host, :host-context, ::ng-deep - The Complete Guide [[blog.angular-university.io]](https://blog.angular-university.io/angular-host-context/#.Wz5_lHBWGfc.twitter)
 
@@ -43,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Linux Security and How Web Browser Sandboxes Really Work - Patricia Aas [[youtube.com]](https://www.youtube.com/watch?v=jc7FpkyrOz0)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) C++ and Browser Monoculture with Vivaldi's Patricia Aas [[hanselminutes.com]](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas) &lt;= [@shanselman](http://twitter.com/@shanselman)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) C++ and Browser Monoculture with Vivaldi's Patricia Aas [[hanselminutes.com]](https://hanselminutes.com/638/c-and-browser-monoculture-with-vivaldis-patricia-aas) <= [@shanselman](http://twitter.com/@shanselman)
 
 [<img alt="Manning Publications [ManningBooks]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ManningBooks.jpg">](http://t.co/hoWlwoEP88) Read the latest teaser from Microservices Patterns about the API Gateway pattern. [[goo.gl]](https://goo.gl/cean7R)[@crichardson](http://twitter.com/@crichardson)[#microservices](http://twitter.com/search?q='%23microservices)[#Java](http://twitter.com/search?q='%23Java)[[twitter.com]](https://twitter.com/ManningBooks/status/1014142969925029888/photo/1)
 
@@ -59,11 +59,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Daniel Piessens openly admits that it's turtles all the way down with [@Azure](http://twitter.com/@Azure) Key Vault without the vital role of Azure AD (which is not free of charge) and i quite appreciate the honesty🐢🐢🐢💸
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@DotNetRocksShow](http://twitter.com/@DotNetRocksShow) 1558 Developer Security in Azure with Daniel Piessens [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1558)[@dpiessens](http://twitter.com/@dpiessens) &lt;= [@carlfranklin](http://twitter.com/@carlfranklin)[@richcampbell](http://twitter.com/@richcampbell)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@DotNetRocksShow](http://twitter.com/@DotNetRocksShow) 1558 Developer Security in Azure with Daniel Piessens [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1558)[@dpiessens](http://twitter.com/@dpiessens) <= [@carlfranklin](http://twitter.com/@carlfranklin)[@richcampbell](http://twitter.com/@richcampbell)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/WycVOCbeKqQ?a) Let's Be Realistic: A Deep Dive into How Games Are Selling on Steam
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “visual novel” genre does “quite well” on Steam [[youtu.be]](https://youtu.be/WycVOCbeKqQ?t=938) =&gt; [@megafunkmega](http://twitter.com/@megafunkmega)[@EdGreerDestroys](http://twitter.com/@EdGreerDestroys)[[twitter.com]](https://twitter.com/BryanWilhite/status/1014239060972302336/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “visual novel” genre does “quite well” on Steam [[youtu.be]](https://youtu.be/WycVOCbeKqQ?t=938) => [@megafunkmega](http://twitter.com/@megafunkmega)[@EdGreerDestroys](http://twitter.com/@EdGreerDestroys)[[twitter.com]](https://twitter.com/BryanWilhite/status/1014239060972302336/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) wow: “Roughly 82% of those games didn’t even make minimum wage” [@RaveofRavendale](http://twitter.com/@RaveofRavendale)[[youtu.be]](https://youtu.be/WycVOCbeKqQ?t=33)[[twitter.com]](https://twitter.com/BryanWilhite/status/1014234411871555584/photo/1)
 
@@ -91,7 +91,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) my guess is that a new [@ubuntu](http://twitter.com/@ubuntu) kernel image is coming out and this never-seen-before issue will vanish [[twitter.com]](https://twitter.com/BryanWilhite/status/1013306276762169345/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/s3kgAfi1Xso?a) Audio Dev Interview, Ep6: How to Learn Audio Programming &amp; VST Development w/ Josh
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/s3kgAfi1Xso?a) Audio Dev Interview, Ep6: How to Learn Audio Programming & VST Development w/ Josh
 
 [<img alt="Jon Jones [jonjones]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jonjones.jpg">](https://t.co/Gx7q2COm8p) Amazing. Fully functional LEGO Technic bridge girder. [[twitter.com]](https://twitter.com/jonjones/status/1014158238705565697/video/1)
 
@@ -107,7 +107,7 @@
 
 [<img alt="Sara Vieira [NikkitaFTW]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/NikkitaFTW.jpg">](https://t.co/nCai9X80aV) You know what I think is dumbest thing ever? People who tell you you shouldn't compare your salary with your peers and that you should know how much you are worth. I don't know how much I'm worth, most people don't 👇
 
-[<img alt="Marie Chatfield [mariechatfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariechatfield.jpg">](https://t.co/QT0f4fJC6D) I think I figured out why coding interviews stress me out so much my natural mode of problem-solving is very exploratory &amp; experimental, testing ideas &amp; building up but interviews feel like you have to KNOW the right approach right away &amp; execute perfectly on the first try
+[<img alt="Marie Chatfield [mariechatfield]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mariechatfield.jpg">](https://t.co/QT0f4fJC6D) I think I figured out why coding interviews stress me out so much my natural mode of problem-solving is very exploratory & experimental, testing ideas & building up but interviews feel like you have to KNOW the right approach right away & execute perfectly on the first try
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@mariechatfield](http://twitter.com/@mariechatfield) It’s a 19th-century test of “intelligence” dressed up in 21st-century skinny jeans. It’s a way for comp-sci majors to weed out non-comp-sci majors. It is more of a ritual of obedience than an exploration of another person.
 

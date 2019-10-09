@@ -25,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Devoxx 2014 Interviews: Intro to Polymer - YouTube [https://t.co/RoJmKR8nxg](https://t.co/RoJmKR8nxg)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Web Developers: enable &amp; test the Internet Explorer Edge mode and discover the awesome ECMAScript 6 â€¦ [http://t.co/2lRYCv8VDq](http://t.co/2lRYCv8VDq)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Web Developers: enable & test the Internet Explorer Edge mode and discover the awesome ECMAScript 6 â€¦ [http://t.co/2lRYCv8VDq](http://t.co/2lRYCv8VDq)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>IE Web Development Support Moving to Stack Overflow [https://t.co/uuHJqP4G5Y](https://t.co/uuHJqP4G5Y)</span>
 
@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Constrained C# - Paulo Zemek's blog - Site Home - MSDN Blogs [http://t.co/Od1HJx7x8S](http://t.co/Od1HJx7x8S)</span>
 
-[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") <span>Interested in text input? Then read Dominick Tursi's, The History of Shorthand &amp; the Evolution of Shorthand Machines [http://t.co/d9XYCeIGWc](http://t.co/d9XYCeIGWc)</span>
+[<img alt="Bill Buxton [wasbuxton]" src="https://songhay.blob.core.windows.net/shared-social-twitter/wasbuxton.jpg">](http://t.co/GIaT5EqCkM "Bill Buxton [wasbuxton]") <span>Interested in text input? Then read Dominick Tursi's, The History of Shorthand & the Evolution of Shorthand Machines [http://t.co/d9XYCeIGWc](http://t.co/d9XYCeIGWc)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Welcome - Polymer [https://t.co/pBwhFjVGeX](https://t.co/pBwhFjVGeX) [@romafied](http://twitter.com/romafied)</span>
 

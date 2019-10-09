@@ -124,11 +124,11 @@ I am sure that Microsoft have very great reasoning around why Visual Studio pref
 This conventional folder layout leads to my last extension method for today, `TestContext.ShouldGetProjectsFolder()`. It is used in both the tests mentioned in this article. This is a simple wrapper around one of my very old utility-class (or “helper” class) methods `FrameworkAssemblyUtility.GetAssemblyDirectory()` (a simple wrapper around `Path.GetDirectoryName(targetAssembly.Location)`):
 
 ```c#
-/// &lt;summary&gt;
+/// <summary>
 /// Test context extensions: should get projects folder.
-/// &lt;/summary&gt;
-/// &lt;param name="context"&gt;The context.&lt;/param&gt;
-/// &lt;param name="typeInAssembly"&gt;The type in assembly.&lt;/param&gt;
+/// </summary>
+/// <param name="context">The context.</param>
+/// <param name="typeInAssembly">The type in assembly.</param>
 public static string ShouldGetProjectsFolder(this TestContext context, Type typeInAssembly)
 {
     Assert.IsNotNull(typeInAssembly, "The expected type instance is not here.");

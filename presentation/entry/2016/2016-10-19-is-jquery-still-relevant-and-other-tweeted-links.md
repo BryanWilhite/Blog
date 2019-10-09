@@ -55,13 +55,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") There's Bugs In The Windows 10 Implementation of Bash [[linux.slashdot.org]](https://linux.slashdot.org/story/16/10/16/1812252/theres-bugs-in-the-windows-10-implementation-of-bash?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile build 14393.321 fixes serious SMS Messenger UI issues on 4.5" screen -i can now see text i'm typing! =&gt; [@maryjofoley](http://twitter.com/maryjofoley)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile build 14393.321 fixes serious SMS Messenger UI issues on 4.5" screen -i can now see text i'm typing! => [@maryjofoley](http://twitter.com/maryjofoley)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET on Linux – bye, Windows 10 [[piotrgankiewicz.com]](http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data Points - Run EF Core on Both .NET Framework and .NET Core [[ow.ly]](http://ow.ly/OIsG305cCkv)[@julielerman](http://twitter.com/julielerman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “As of .NET 4, there is a Enum.TryParse&lt;T&gt; method. It supports Flags enumerations out of the box“ [[ow.ly]](http://ow.ly/q64v305cF3G)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “As of .NET 4, there is a `Enum.TryParse<T>` method. It supports Flags enumerations out of the box“ [[ow.ly]](http://ow.ly/q64v305cF3G)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Songhay Studio: .NET Standard with Songhay.Standard.Core - Went with .NET Standard 1.2. These are the consequen... [[ow.ly]](http://ow.ly/KQ0b505qmgS)
 

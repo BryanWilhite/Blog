@@ -69,7 +69,7 @@
 
 [<img alt="Daniel Markham [danielbmarkham]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/danielbmarkham.jpg">](https://t.co/IsxVEScRIL) For those folks following along with my [#fsharp](http://twitter.com/search?q='%23fsharp) series of essays, there's a sneak peek available for the second in the series, 'Failure Is Not An Option, The Sequel" Smart Constructors, Total Programming, Type Extensions, and unicorns* [[tiny-giant-books.com]](http://tiny-giant-books.com/blog/failure-is-not-an-option-the-sequel/?ref=twitterpreview)
 
-[<img alt="Minko Gechev [mgechev]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mgechev.jpg">](https://t.co/7KvH8Bz1QN) Few tools which I'm using constantly in my dev 👨🏼‍💻 process: ‣ VSCode - works perfectly with TypeScript &amp; Go ‣ tmux - quick bootstrap &amp; multiplexing ‣ fkill - kill of processes ‣ iTerm2 - amazing terminal emulator ‣ bash - scripts for automation
+[<img alt="Minko Gechev [mgechev]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mgechev.jpg">](https://t.co/7KvH8Bz1QN) Few tools which I'm using constantly in my dev 👨🏼‍💻 process: ‣ VSCode - works perfectly with TypeScript & Go ‣ tmux - quick bootstrap & multiplexing ‣ fkill - kill of processes ‣ iTerm2 - amazing terminal emulator ‣ bash - scripts for automation
 
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/codinghorror.png">](http://t.co/rM9N1bQpLr) There is a Comic Sans monospace font. Sort of [[github.com]](https://github.com/belluzj/fantasque-sans)[[t.co]](https://t.co/Gk1X1WeNMa)
 
@@ -95,7 +95,7 @@
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL) I don't mind negative feedback, but it needs to be constructive. As far as I'm concerned you can even swear and use as many expletives you want, but got to make some points beyond ranting. Otherwise, all I can do is shrug and move on.
 
-[<img alt="Peter A. Shulman 📚 [pashulman]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/pashulman.jpg">](https://t.co/bbnvtOyioi) It boggles my mind that a few random, historically ignorant tech dudes at Google, Facebook, &amp; Twitter have arrogated to themselves the power to define free speech instead of relying on &lt;gestures wildly&gt; the collective knowledge &amp; wisdom of historians, sociologists &amp; philosophers
+[<img alt="Peter A. Shulman 📚 [pashulman]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/pashulman.jpg">](https://t.co/bbnvtOyioi) It boggles my mind that a few random, historically ignorant tech dudes at Google, Facebook, & Twitter have arrogated to themselves the power to define free speech instead of relying on `<gestures wildly>` the collective knowledge & wisdom of historians, sociologists & philosophers
 
 [<img alt="Amazing Rando [amazingrando]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/amazingrando.png">](https://t.co/TZAQkt9Mu2) Here is an OPEN SECRET ABOUT GETTING PROMOTED. Ready? Learn to write well. The higher you go the MORE YOU WILL WRITE. Emails. Proposals. Memos. Instructions. WRITING IS ONE OF THE MOST IMPORTANT SKILLS.
 
@@ -107,7 +107,7 @@
 
 [<img alt="✨Shubheksha✨ [ScribblingOn]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/ScribblingOn.jpg">](https://t.co/po3r9GlS0z) If you're looking for a new gig, this website let's you find companies based on what you're looking for in terms of company culture, team, etc: [[keyvalues.com]](https://www.keyvalues.com) Such a nice idea!
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) In Some US Cities, There Are Over Ten Times More Parking Spaces Than Households [[motherboard.vice.com]](https://motherboard.vice.com/en_us/article/d3epmm/parking-spots-outnumber-homes-us-cities?utm_campaign=sharebutton) via [@motherboard](http://twitter.com/@motherboard) =&gt; [@Bike_LA](http://twitter.com/@Bike_LA)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) In Some US Cities, There Are Over Ten Times More Parking Spaces Than Households [[motherboard.vice.com]](https://motherboard.vice.com/en_us/article/d3epmm/parking-spots-outnumber-homes-us-cities?utm_campaign=sharebutton) via [@motherboard](http://twitter.com/@motherboard) => [@Bike_LA](http://twitter.com/@Bike_LA)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “I like my condo with extensive green walkways, pool, tennis courts and the exorbitant fee that pays for a management company to take care of all of this.” [[news.ycombinator.com]](https://news.ycombinator.com/item?id=17522160)
 

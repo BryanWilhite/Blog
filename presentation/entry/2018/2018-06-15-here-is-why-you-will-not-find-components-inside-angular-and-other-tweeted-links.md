@@ -29,7 +29,7 @@
 
 [<img alt="Jeff Fritz [csharpfritz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/csharpfritz.jpg">](https://t.co/b3mDItgW1b "Jeff Fritz [csharpfritz]") From [@aspnet](http://twitter.com/aspnet): HttpClientFactory in [[asp.net]](http://ASP.NET) Core 2.1 (Part 2) [[bit.ly]](http://bit.ly/2ChPQ9G)
 
-[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Learn to build &amp; deploy [#microsites](http://twitter.com/search?q=%23microsites) quickly with [@stephen_wolfram](http://twitter.com/stephen_wolfram)'s Elementary Introduction to [#WolfLang](http://twitter.com/search?q=%23WolfLang), a Full In… [[twitter.com]](https://twitter.com/i/web/status/968140685072392194)
+[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Learn to build & deploy [#microsites](http://twitter.com/search?q=%23microsites) quickly with [@stephen_wolfram](http://twitter.com/stephen_wolfram)'s Elementary Introduction to [#WolfLang](http://twitter.com/search?q=%23WolfLang), a Full In… [[twitter.com]](https://twitter.com/i/web/status/968140685072392194)
 
 [<img alt="scripting.com [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpg">](https://t.co/ztgzDGiyOj "scripting.com [davewiner]") Librarians should be concerned about what Google is doing re HTTP. Would you think of removing all books that wer… [[twitter.com]](https://twitter.com/i/web/status/968502178246742016)
 
@@ -43,7 +43,7 @@
 
 [<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") More in [#aspnetcore](http://twitter.com/search?q=%23aspnetcore) 2.1.0-preview1: Improvements for building Web APIs [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2018/02/27/asp-net-core-2-1-web-apis/)
 
-[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") If you're not already, you should subscribe to the .NET Web Dev &amp; Tools blog as we have a bunch more posts coming a… [[twitter.com]](https://twitter.com/i/web/status/968713318818091010)
+[<img alt="Damian Edwards [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards [DamianEdwards]") If you're not already, you should subscribe to the .NET Web Dev & Tools blog as we have a bunch more posts coming a… [[twitter.com]](https://twitter.com/i/web/status/968713318818091010)
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") WebApiContrib.Core packages are now all available for [[asp.net]](http://ASP.NET) Core 2.0 [[nuget.org]](https://www.nuget.org/packages?q=webapicontrib.core)
 
@@ -77,7 +77,7 @@
 
 [<img alt="Nige Willson [nigewillson]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nigewillson.jpg">](https://t.co/2bCzwm6WOr "Nige Willson [nigewillson]") 3 AI terms all business professionals need to understand [[bit.ly]](http://bit.ly/2oq3BKM)[#AI](http://twitter.com/search?q=%23AI)[#ML](http://twitter.com/search?q=%23ML)[#MachineLearning](http://twitter.com/search?q=%23MachineLearning)… [[twitter.com]](https://twitter.com/i/web/status/968541301749829632)
 
-[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Have questions for your [#data](http://twitter.com/search?q=%23data)? [#AI](http://twitter.com/search?q=%23AI) for machine reading Q&amp;A just got easier w/ deep learning and [#NLP](http://twitter.com/search?q=%23NLP) in [#WolfLang](http://twitter.com/search?q=%23WolfLang).… [[twitter.com]](https://twitter.com/i/web/status/968549803062898690)
+[<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://t.co/Vsckdj3BIQ "Wolfram [WolframResearch]") Have questions for your [#data](http://twitter.com/search?q=%23data)? [#AI](http://twitter.com/search?q=%23AI) for machine reading Q&A just got easier w/ deep learning and [#NLP](http://twitter.com/search?q=%23NLP) in [#WolfLang](http://twitter.com/search?q=%23WolfLang).… [[twitter.com]](https://twitter.com/i/web/status/968549803062898690)
 
 [<img alt="Miguel de Icaza [migueldeicaza]" src="https://songhay.blob.core.windows.net/shared-social-twitter/migueldeicaza.png">](https://t.co/W8ndBXzrN5 "Miguel de Icaza [migueldeicaza]") Leaked! new Apple connectivity kit for iPhone X and MacBookPro: [[twitter.com]](https://twitter.com/migueldeicaza/status/968900557380472832/photo/1)
 
@@ -101,7 +101,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@jessitron](http://twitter.com/jessitron)[@Bizmonger](http://twitter.com/Bizmonger)[@ScottWlaschin](http://twitter.com/ScottWlaschin)[@ploeh](http://twitter.com/ploeh)[@pavsaund](http://twitter.com/pavsaund)[@7sharp9_exhumed](http://twitter.com/7sharp9_exhumed)[@atomist](http://twitter.com/atomist) I agree with [@pavsaund](http://twitter.com/pavsaund) and… [[twitter.com]](https://twitter.com/i/web/status/968538627549511680)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why is most of my "side project" stuff not complete? Two words: day job 😬 =&gt; [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/968674337376034817/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why is most of my "side project" stuff not complete? Two words: day job 😬 => [@taraw](http://twitter.com/taraw)[[twitter.com]](https://twitter.com/BryanWilhite/status/968674337376034817/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cetera May Be Sold [[barrons.com]](https://www.barrons.com/articles/cetera-may-be-sold-lpl-fumbling-technology-1519670111) via [@BarronsOnline](http://twitter.com/BarronsOnline)
 

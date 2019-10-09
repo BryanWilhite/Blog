@@ -61,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Interview with Hoop Somuah | NXTA 2017 | Channel 9 [[channel9.msdn.com]](https://channel9.msdn.com/Events/NexTech-Africa/2017/C9L04)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Deep Stupidity: What Neural Networks Can &amp; Cannot Do • John Mark Bishop [[youtube.com]](https://www.youtube.com/watch?v=1oTe6eUWrpU) » [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GOTO 2016 • Deep Stupidity: What Neural Networks Can & Cannot Do • John Mark Bishop [[youtube.com]](https://www.youtube.com/watch?v=1oTe6eUWrpU) » [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") the MSTest NuGet packages clash with the old Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll « [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudioalm/2016/06/17/taking-the-mstest-framework-forward-with-mstest-v2/)
 
@@ -71,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") yo, [@Odytrice](http://twitter.com/Odytrice) and [@Bizmonger](http://twitter.com/Bizmonger), I am going to comment about your video here so more people will see it: [[youtube.com]](https://www.youtube.com/watch?v=_5zmnc0JMcg) 🤠
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) the comment about Task&lt;T&gt; being a monad is an awesome observation that leads me here: [[ruudvanasseldonk.com]](https://ruudvanasseldonk.com/2013/05/01/the-task-monad-in-csharp)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@Odytrice](http://twitter.com/Odytrice)[@Bizmonger](http://twitter.com/Bizmonger) the comment about `Task<T>` being a monad is an awesome observation that leads me here: [[ruudvanasseldonk.com]](https://ruudvanasseldonk.com/2013/05/01/the-task-monad-in-csharp)
 
 [<img alt="Ody Mbegbu [Odytrice]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Odytrice.jpg">](https://t.co/8wuRpLOaxa "Ody Mbegbu [Odytrice]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Bizmonger](http://twitter.com/Bizmonger) Yeah that's a good post on the idea
 

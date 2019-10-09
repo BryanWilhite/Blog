@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Swagger make your REST APIs accessible: Victor Trakhtenberg at DevconTLV October [@victortr75](http://twitter.com/victortr75)[[youtube.com]](https://www.youtube.com/watch?v=U_lCrFpvXyY)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") IdentityServer4: New &amp; Improved for [[asp.net]](http://ASP.NET) Core - Brock Allen &amp; Dominick Baier [@leastprivilege](http://twitter.com/leastprivilege)[[youtube.com]](https://www.youtube.com/watch?v=YXdJ2HLAOdE)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") IdentityServer4: New & Improved for [[asp.net]](http://ASP.NET) Core - Brock Allen & Dominick Baier [@leastprivilege](http://twitter.com/leastprivilege)[[youtube.com]](https://www.youtube.com/watch?v=YXdJ2HLAOdE)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Brute Force Attacks « WordPress Codex [[codex.wordpress.org]](https://codex.wordpress.org/Brute_Force_Attacks)
 
@@ -109,7 +109,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Get Ready for Open Source Summit 2017 in Los Angeles [[linux.com]](https://www.linux.com/blog/event/open-source-summit-na/2017/6/get-ready-open-source-summit-2017)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Coryn Rivera [@CorynRivera](http://twitter.com/CorynRivera) American purebred Filipina - professional cyclist for [@TeamSunweb](http://twitter.com/TeamSunweb) &amp; [@mariancycling](http://twitter.com/mariancycling) alumni [[youtube.com]](https://www.youtube.com/watch?v=LqpRwwhtsGA)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Coryn Rivera [@CorynRivera](http://twitter.com/CorynRivera) American purebred Filipina - professional cyclist for [@TeamSunweb](http://twitter.com/TeamSunweb) & [@mariancycling](http://twitter.com/mariancycling) alumni [[youtube.com]](https://www.youtube.com/watch?v=LqpRwwhtsGA)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Chris Boardman ‘dismayed’ after driver accused of killing cyclist is cleared [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/chris-boardman-dismayed-driver-accused-killing-cyclist-cleared-324230)
 

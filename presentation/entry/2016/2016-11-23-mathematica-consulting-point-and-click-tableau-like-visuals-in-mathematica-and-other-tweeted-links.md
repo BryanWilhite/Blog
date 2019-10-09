@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2016-11-23-mathematica-consulting-point-and-click-tableau-like-visuals-in-mathematica-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Mathematica consulting: Point and click \\\"Tableau-like\\\" visuals in Mathematica [ow.ly]@WolframResearch Astronomical Computation &amp; Data—Wolfram Language Documentation [ow.ly] front end - How to export a Mathematica notebook into Markdown? - Mathematica...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Mathematica consulting: Point and click \\\"Tableau-like\\\" visuals in Mathematica [ow.ly]@WolframResearch Astronomical Computation & Data—Wolfram Language Documentation [ow.ly] front end - How to export a Mathematica notebook into Markdown? - Mathematica...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mathematica consulting: Point and click "Tableau-like" visuals in Mathematica [[ow.ly]](http://ow.ly/ThAH306b0vG)[@WolframResearch](http://twitter.com/WolframResearch)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Astronomical Computation &amp; Data—Wolfram Language Documentation [[ow.ly]](http://ow.ly/kRN13066n91)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Astronomical Computation & Data—Wolfram Language Documentation [[ow.ly]](http://ow.ly/kRN13066n91)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") front end - How to export a Mathematica notebook into Markdown? - Mathematica Stack Exchange [[ow.ly]](http://ow.ly/JEam3066jCy)
 
@@ -73,7 +73,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Making code faster: The obvious costs - Ayende @ Rahien [[ow.ly]](http://ow.ly/VoGE306cufD)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Identity for the new Microsoft Windows 8 operating system. [[ow.ly]](http://ow.ly/czcW306baUS)[@njenworks](http://twitter.com/njenworks)[@pentagram](http://twitter.com/pentagram) &lt;= [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Identity for the new Microsoft Windows 8 operating system. [[ow.ly]](http://ow.ly/czcW306baUS)[@njenworks](http://twitter.com/njenworks)[@pentagram](http://twitter.com/pentagram) <= [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") True Lies Of Optimistic User Interfaces – Smashing Magazine [[ow.ly]](http://ow.ly/kivm306ctQb)
 
@@ -83,13 +83,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I left behind my silicon dream for a saner place to work [[ow.ly]](http://ow.ly/gtwf306afK2)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What Is the Monthly Cost of a Tesla? [[ow.ly]](http://ow.ly/jSkv306aKcJ) &lt;= [@BenSullins](http://twitter.com/BenSullins) Data Geek &lt;= [@tableau](http://twitter.com/tableau) =&gt; [@libertymadison](http://twitter.com/libertymadison)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What Is the Monthly Cost of a Tesla? [[ow.ly]](http://ow.ly/jSkv306aKcJ) <= [@BenSullins](http://twitter.com/BenSullins) Data Geek <= [@tableau](http://twitter.com/tableau) => [@libertymadison](http://twitter.com/libertymadison)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/NhGyoUfRJEE?a) CUBE WP10 Windows 10 Mobile Tablet unboxing and hands on
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile Build 14965: "BlueTooth stack needs improvement" [[ow.ly]](http://ow.ly/DEvc3068vYd)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ZOOM F8 AND ZOOM F4 AUDIO RECORDER REVIEW [[ow.ly]](http://ow.ly/rBV8306d7SV)[@FCPWORKS](http://twitter.com/FCPWORKS) [supports iXML] [@pixelcorps](http://twitter.com/pixelcorps) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ZOOM F8 AND ZOOM F4 AUDIO RECORDER REVIEW [[ow.ly]](http://ow.ly/rBV8306d7SV)[@FCPWORKS](http://twitter.com/FCPWORKS) [supports iXML] [@pixelcorps](http://twitter.com/pixelcorps) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@engadget](http://twitter.com/engadget)[[youtu.be]](http://youtu.be/jsBkNI12V7A?a) ICYMI: The internet-connected chessboard of your dreams
 

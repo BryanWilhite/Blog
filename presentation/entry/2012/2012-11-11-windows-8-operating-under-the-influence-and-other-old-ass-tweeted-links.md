@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-11-11-windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter &amp; @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter & @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="John Bristowe [JohnBristowe]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JohnBristowe.jpeg">](http://bristowe.com/ "John Bristowe [JohnBristowe]") <span>Windows 8: Operating Under the Influence [http://t.co/s44SvQlc](http://t.co/s44SvQlc)</span>
 
-[<img alt="Wintellect [Wintellectuals]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Wintellectuals.jpeg">](http://www.wintellect.com/ "Wintellect [Wintellectuals]") <span>Watch “Intro to Using [#Windows](http://search.twitter.com/search?q=%23Windows) Runtime to Build [#Metro](http://search.twitter.com/search?q=%23Metro) Apps” from [@jeffrichter](http://twitter.com/jeffrichter) &amp; [@jprosise](http://twitter.com/jprosise) that is LIVE on our site! [http://t.co/WK4jXcC2](http://t.co/WK4jXcC2)</span>
+[<img alt="Wintellect [Wintellectuals]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Wintellectuals.jpeg">](http://www.wintellect.com/ "Wintellect [Wintellectuals]") <span>Watch “Intro to Using [#Windows](http://search.twitter.com/search?q=%23Windows) Runtime to Build [#Metro](http://search.twitter.com/search?q=%23Metro) Apps” from [@jeffrichter](http://twitter.com/jeffrichter) & [@jprosise](http://twitter.com/jprosise) that is LIVE on our site! [http://t.co/WK4jXcC2](http://t.co/WK4jXcC2)</span>
 
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpeg">](http://wildermuth.com "Shawn Wildermuth [ShawnWildermuth]") <span>Five Reasons why Windows 8 will be dead on arrival [http://t.co/i0eq8B7l](http://t.co/i0eq8B7l) [#xaml](http://search.twitter.com/search?q=%23xaml)</span>
 
@@ -57,7 +57,7 @@
 
 [<img alt="Dave Winer ☮ [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpeg">](http://davewiner.com/ "Dave Winer ☮ [davewiner]") <span>Scripting News: Selling out is selling out. [http://t.co/YzKVKUlH](http://t.co/YzKVKUlH)</span>
 
-[<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>"Backbone vs Knockout: Strengths &amp; Weaknesses" by [@derickbailey](http://twitter.com/derickbailey) [#javascript](http://search.twitter.com/search?q=%23javascript) [http://t.co/boZiyBUT](http://t.co/boZiyBUT)</span>
+[<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>"Backbone vs Knockout: Strengths & Weaknesses" by [@derickbailey](http://twitter.com/derickbailey) [#javascript](http://search.twitter.com/search?q=%23javascript) [http://t.co/boZiyBUT](http://t.co/boZiyBUT)</span>
 
 [<img alt="Dave Greiner [davegreiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davegreiner.png">](http://www.campaignmonitor.com "Dave Greiner [davegreiner]") <span>Kudos to [@codinghorror](http://twitter.com/codinghorror) for not only building a great product, but for knowing what's truly important and acting on it: [http://t.co/SKLhZ5ov](http://t.co/SKLhZ5ov)</span>
 

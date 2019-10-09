@@ -39,7 +39,7 @@
 
 [<img alt="Jeremy Likness [jeremylikness]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jeremylikness.png">](http://t.co/tv3balGz2r "Jeremy Likness [jeremylikness]") <span>The death of Windows XP affects more than desktops ... over 95% of ATMs are on that OS [http://t.co/EBkIYZzwzu](http://t.co/EBkIYZzwzu)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>Just released Prism for the Windows Runtime on Windows 8.1 - Blaine Wastell - patterns &amp; practices câ€¦ [http://t.co/X9cBWRA5Fh](http://t.co/X9cBWRA5Fh)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>Just released Prism for the Windows Runtime on Windows 8.1 - Blaine Wastell - patterns & practices câ€¦ [http://t.co/X9cBWRA5Fh](http://t.co/X9cBWRA5Fh)</span>
 
 [<img alt="Jeffrey Zeldman [zeldman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/zeldman.png">](http://t.co/DTN2fH5Q7F "Jeffrey Zeldman [zeldman]") <span>Coming soon to a device near you: Responsive UI with Luminosity Level [http://t.co/KRnP4w4itG](http://t.co/KRnP4w4itG) [#html5](http://search.twitter.com/search?q=%23html5) [#css](http://search.twitter.com/search?q=%23css) [#rwd](http://search.twitter.com/search?q=%23rwd) by [@girlie_mac](http://twitter.com/girlie_mac)</span>
 
@@ -57,7 +57,7 @@
 
 [<img alt="africatechie [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "africatechie [africatechie]") <span>Nigeria’s IT landscape is suffering from negative trade balance – minister [http://t.co/ExM2lFlXed](http://t.co/ExM2lFlXed)</span>
 
-[<img alt="Addy Osmani [addyosmani]" src="https://songhay.blob.core.windows.net/shared-social-twitter/addyosmani.jpeg">](http://t.co/Ss8VpfPH4Z "Addy Osmani [addyosmani]") <span>Grasp.js is fantastic for JS refactoring: [http://t.co/qsEGWBubHg](http://t.co/qsEGWBubHg) &amp; there's a Sublime plugin for it: [https://t.co/z8fMF9EmfA](https://t.co/z8fMF9EmfA). &lt;3z [@gkzahariev](http://twitter.com/gkzahariev)</span>
+[<img alt="Addy Osmani [addyosmani]" src="https://songhay.blob.core.windows.net/shared-social-twitter/addyosmani.jpeg">](http://t.co/Ss8VpfPH4Z "Addy Osmani [addyosmani]") <span>Grasp.js is fantastic for JS refactoring: [http://t.co/qsEGWBubHg](http://t.co/qsEGWBubHg) & there's a Sublime plugin for it: [https://t.co/z8fMF9EmfA](https://t.co/z8fMF9EmfA). <3z [@gkzahariev](http://twitter.com/gkzahariev)</span>
 
 [<img alt="africatechie [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "africatechie [africatechie]") <span>Silicon Savannah: Is Africa tipped for a tech take-off? [http://t.co/R4lgFliOjh](http://t.co/R4lgFliOjh) on [@cnbc](http://twitter.com/cnbc)</span>
 

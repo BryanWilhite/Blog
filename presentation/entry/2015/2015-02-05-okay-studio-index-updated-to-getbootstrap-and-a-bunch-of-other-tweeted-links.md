@@ -53,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "The snap.svg syntax is a bit more concise, the svg.js code is more readable. So it's really a matter of taste." [[stackoverflow.com]](http://stackoverflow.com/questions/21796872/snap-svg-vs-svg-js)
 
-[<img alt="stevenewcomb [stevenewcomb]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stevenewcomb.jpeg">](http://t.co/l86N09Ml4z "stevenewcomb [stevenewcomb]") Babylon.js : Building 3D games with JavaScript &amp; HTML5 [[jqueryrain.com]](http://www.jqueryrain.com/2015/01/babylon-js-building-3d-games-javascript-html5/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Jqueryrain+%28jQueryRain%29)
+[<img alt="stevenewcomb [stevenewcomb]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stevenewcomb.jpeg">](http://t.co/l86N09Ml4z "stevenewcomb [stevenewcomb]") Babylon.js : Building 3D games with JavaScript & HTML5 [[jqueryrain.com]](http://www.jqueryrain.com/2015/01/babylon-js-building-3d-games-javascript-html5/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Jqueryrain+%28jQueryRain%29)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Current State of HTML5 Forms [historical] [[wufoo.com]](http://www.wufoo.com/html5/) by [@chriscoyier](http://twitter.com/chriscoyier)
 

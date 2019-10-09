@@ -45,13 +45,13 @@
 
 [<img alt="carlfranklin [carlfranklin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/carlfranklin.jpeg">](http://www.intellectualhedonism.com "carlfranklin [carlfranklin]") <span>The life of a geek rock star is all cold coffee, slow internet connections, and listening to Tim Huckaby's bad jokes. [http://t.co/begCqbDr6S](http://t.co/begCqbDr6S)</span>
 
-[<img alt="VisualStudio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://visualstudio.com "VisualStudio [VisualStudio]") <span>[http://t.co/mKWihE5Zc2](http://t.co/mKWihE5Zc2) - Model binding is new to [http://t.co/rfxA8zymwp](http://t.co/rfxA8zymwp) Web Forms, &amp; this super-clear post shows how to make use of it.</span>
+[<img alt="VisualStudio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.png">](http://visualstudio.com "VisualStudio [VisualStudio]") <span>[http://t.co/mKWihE5Zc2](http://t.co/mKWihE5Zc2) - Model binding is new to [http://t.co/rfxA8zymwp](http://t.co/rfxA8zymwp) Web Forms, & this super-clear post shows how to make use of it.</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>My imaginary ex-girlfriend, Amanda Silver, kicks ass again [http://t.co/36NNSmSYTv](http://t.co/36NNSmSYTv) via [@ch9](http://twitter.com/ch9) [#WomenOfTech](http://search.twitter.com/search?q=%23WomenOfTech)</span>
 
 [<img alt="Garrett Serack [fearthecowboy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/fearthecowboy.png">](http://fearthecowboy.com/ "Garrett Serack [fearthecowboy]") <span>The reason PC sales are in 'decline' is that consumers no longer need a general purpose compute device.PCs will soon be just for Geeks again</span>
 
-[<img alt="jQuery [jquery]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jquery.png">](http://jquery.com/ "jQuery [jquery]") <span>jQuery 2.0 has been released &amp; it's 12% smaller with 12 excludable modules! What's in, what's out, and how to use it: [http://t.co/3QgMNw4P0X](http://t.co/3QgMNw4P0X)</span>
+[<img alt="jQuery [jquery]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jquery.png">](http://jquery.com/ "jQuery [jquery]") <span>jQuery 2.0 has been released & it's 12% smaller with 12 excludable modules! What's in, what's out, and how to use it: [http://t.co/3QgMNw4P0X](http://t.co/3QgMNw4P0X)</span>
 
 [<img alt="Meghan Gill [meghanpgill]" src="https://songhay.blob.core.windows.net/shared-social-twitter/meghanpgill.jpeg">](http://meghangill.com/ "Meghan Gill [meghanpgill]") <span>Meet Martha, a 19 year old self taught programmer from Kenya admitted for the Hacker School summer 2013 [http://t.co/GM0Kd4f3jI](http://t.co/GM0Kd4f3jI)</span>
 

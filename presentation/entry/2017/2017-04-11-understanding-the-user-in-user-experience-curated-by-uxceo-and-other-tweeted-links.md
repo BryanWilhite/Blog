@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") XmlTextWriter.WriteCharEntity Method (Char) (System.Xml) [[msdn.microsoft.com]](https://msdn.microsoft.com/en-us/library/system.xml.xmltextwriter.writecharentity(v=vs.110).aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") c# - [[xdocument.save]](http://XDocument.Save)() removes my &amp;[#xA](http://twitter.com/search?q=%23xA); entities - Stack Overflow [[stackoverflow.com]](http://stackoverflow.com/questions/8811873/xdocument-save-removes-my-xa-entities)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") c# - [[xdocument.save]](http://XDocument.Save)() removes my &[#xA](http://twitter.com/search?q=%23xA); entities - Stack Overflow [[stackoverflow.com]](http://stackoverflow.com/questions/8811873/xdocument-save-removes-my-xa-entities)
 
 [<img alt="MakeHuman [MakeHuman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MakeHuman.png">](http://t.co/jLYqgpHYUI "MakeHuman [MakeHuman]")[[youtu.be]](https://youtu.be/a5zNbQBeukk) A video preview of the new pose system for [#MakeHuman](http://twitter.com/search?q=%23MakeHuman) 1.1. [[twitter.com]](https://twitter.com/MakeHuman/status/587932809051910144/photo/1)
 

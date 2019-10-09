@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>another classic from [@DrWPF](http://twitter.com/DrWPF): ItemsControl: 'I' is for Item Container « Dr. WPF [http://t.co/sIluYCQ2ZF](http://t.co/sIluYCQ2ZF)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>GlassWire Network Security Monitor &amp; Firewall Tool [https://t.co/JTOsAk748b](https://t.co/JTOsAk748b), recommended by [@thurrott](http://twitter.com/thurrott)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>GlassWire Network Security Monitor & Firewall Tool [https://t.co/JTOsAk748b](https://t.co/JTOsAk748b), recommended by [@thurrott](http://twitter.com/thurrott)</span>
 
 [<img alt="Zev Ross [zevross]" src="https://songhay.blob.core.windows.net/shared-social-twitter/zevross.png">](http://t.co/y6XrPWPbEU "Zev Ross [zevross]") <span>Yes! Animate a path on a [@LeafletJS](http://twitter.com/LeafletJS) map with the amazing [#d3js](http://search.twitter.com/search?q=%23d3js). Detailed how-to here [http://t.co/J8UNJLczkq](http://t.co/J8UNJLczkq), [#dataviz](http://search.twitter.com/search?q=%23dataviz) [http://t.co/9Uko0MUtTK](http://t.co/9Uko0MUtTK)</span>
 

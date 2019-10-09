@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Jack Histon - Sharing Controllers and Views in [[asp.net]](http://ASP.NET) Core [[jackhiston.com]](http://jackhiston.com/2017/8/15/sharing-controllers-and-views-in-aspnet-core/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Loren Brichter on Tweetie [2009] [[youtu.be]](https://youtu.be/7Zd3iNOXTow)[@lorenb](http://twitter.com/lorenb) &lt;= [@reneritchie](http://twitter.com/reneritchie)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Loren Brichter on Tweetie [2009] [[youtu.be]](https://youtu.be/7Zd3iNOXTow)[@lorenb](http://twitter.com/lorenb) <= [@reneritchie](http://twitter.com/reneritchie)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core: "The old 1.0 Authentication stack no longer will work, and is obsolete in 2.0." [[github.com]](https://github.com/aspnet/Security/issues/1310)
 

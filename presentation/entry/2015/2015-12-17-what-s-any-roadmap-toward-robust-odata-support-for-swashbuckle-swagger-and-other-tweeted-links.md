@@ -97,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 3 Ingredients for a Successful UX Strategy [@uxhow](http://twitter.com/uxhow)[[blogs.adobe.com]](http://blogs.adobe.com/creativecloud/3-ingredients-for-a-successful-ux-strategy/)
 
-[<img alt="Tiffany Rayside [tmrDevelops]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tmrDevelops.jpg">](http://t.co/Z0L3ntmUei "Tiffany Rayside [tmrDevelops]") My most remixible code so far &amp;&amp; in [#50Lines](http://search.twitter.com/search?q=%2350Lines)||less: The Nautilus Collection: [[codepen.io]](http://codepen.io/collection/DwaYBy/) | via [@CodePen](http://twitter.com/CodePen)[[twitter.com]](https://twitter.com/tmrDevelops/status/669586887762407424/photo/1)
+[<img alt="Tiffany Rayside [tmrDevelops]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tmrDevelops.jpg">](http://t.co/Z0L3ntmUei "Tiffany Rayside [tmrDevelops]") My most remixible code so far && in [#50Lines](http://search.twitter.com/search?q=%2350Lines)||less: The Nautilus Collection: [[codepen.io]](http://codepen.io/collection/DwaYBy/) | via [@CodePen](http://twitter.com/CodePen)[[twitter.com]](https://twitter.com/tmrDevelops/status/669586887762407424/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing TypeScript 1.7 - TypeScript - Site Home - MSDN Blogs [[blogs.msdn.com]](http://blogs.msdn.com/b/typescript/archive/2015/11/30/announcing-typescript-1-7.aspx)
 

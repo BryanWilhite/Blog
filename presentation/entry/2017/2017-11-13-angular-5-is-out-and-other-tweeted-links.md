@@ -81,7 +81,7 @@
 
 [<img alt="Dan Bader [dbader_org]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dbader_org.jpg">](https://t.co/MZwP2VGyfa "Dan Bader [dbader_org]") "What's the most used language in programming?" "Profanity."
 
-[<img alt="francine [tamakloeee]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tamakloeee.jpg">]( "francine [tamakloeee]") SUPER excited to say I am officially part of the Spotify team😁🙌🏾 I’m thrilled for the opportunity to learn &amp; grow w… [[twitter.com]](https://twitter.com/i/web/status/928414999479013377)
+[<img alt="francine [tamakloeee]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tamakloeee.jpg">]( "francine [tamakloeee]") SUPER excited to say I am officially part of the Spotify team😁🙌🏾 I’m thrilled for the opportunity to learn & grow w… [[twitter.com]](https://twitter.com/i/web/status/928414999479013377)
 
 [<img alt="Sarah Drasner [sarah_edo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sarah_edo.jpg">](https://t.co/pr1NhYseRK "Sarah Drasner [sarah_edo]") technologies that have changed my life in no particular order: - axios - prettier - vscode - vue - greensock - loda… [[twitter.com]](https://twitter.com/i/web/status/929478677523341313)
 

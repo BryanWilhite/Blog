@@ -37,7 +37,7 @@ Introducing "List" - a [#JavaScript](http://twitter.com/search?q='%23JavaScript)
 
 Ivy: A visualization of various sorting algorithms with "async" powered animations [[github.com]](https://github.com/Aaron-Bird/ivy)
 
-“Angular 5 - Copy to clipboard” [surprisingly hacky] [[stackoverflow.com]](https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard) =&gt; [@meligy](http://twitter.com/@meligy) [is there a better way?] [[twitter.com]](https://twitter.com/BryanWilhite/status/1045436629161132032/photo/1)
+“Angular 5 - Copy to clipboard” [surprisingly hacky] [[stackoverflow.com]](https://stackoverflow.com/questions/49102724/angular-5-copy-to-clipboard) => [@meligy](http://twitter.com/@meligy) [is there a better way?] [[twitter.com]](https://twitter.com/BryanWilhite/status/1045436629161132032/photo/1)
 
 [@BryanWilhite](http://twitter.com/@BryanWilhite) This is not really Angular specific. I'm aware there's a JavaScript clipboard API but it probably requires asking the user for permission, which is a bit ugly, and might be the reason people are reverting to such workarounds.
 
@@ -53,7 +53,7 @@ I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://yout
 
 A brief review of all the exciting updates coming with the new Angular 6 release, including Angular Elements, Service Worker improvements and more. [[telerik.com]](http://www.telerik.com/blogs/whats-new-in-angular-6)
 
-AiA 167: Deploying Angular [[devchat.tv]](https://devchat.tv/adv-in-angular/aia-167-deploying-angular) via [@devchattv](http://twitter.com/@devchattv) &lt;= [@John_Papa](http://twitter.com/@John_Papa)[@wardbell](http://twitter.com/@wardbell)[@josepheames](http://twitter.com/@josepheames)
+AiA 167: Deploying Angular [[devchat.tv]](https://devchat.tv/adv-in-angular/aia-167-deploying-angular) via [@devchattv](http://twitter.com/@devchattv) <= [@John_Papa](http://twitter.com/@John_Papa)[@wardbell](http://twitter.com/@wardbell)[@josepheames](http://twitter.com/@josepheames)
 
 from 2008: JavaScript: Null Coalesce using the || Operator [[pietschsoft.com]](http://pietschsoft.com/post/2008/10/14/JavaScript-Gem-Null-Coalescing-using-the-OR-Operator#.WuqwF1njmEc.twitter)
 
@@ -111,7 +111,7 @@ I always get pretty depressed when I see old union cartoons from the late 19th c
 
 Over 30? Too Old for Tech Jobs in China [[bloomberg.com]](https://www.bloomberg.com/news/features/2018-05-02/china-s-tech-industry-wants-youth-not-experience)
 
-Wow: [[news.ycombinator.com]](http://news.ycombinator.com/item?id=16967543) a freaking huge snapshot of jobs data and less than 10 MSFT-related jobs offered ---like this one in Germany [search page for `C#`] =&gt; [@DamianEdwards](http://twitter.com/@DamianEdwards)[[twitter.com]](https://twitter.com/BryanWilhite/status/991782251296735232/photo/1)
+Wow: [[news.ycombinator.com]](http://news.ycombinator.com/item?id=16967543) a freaking huge snapshot of jobs data and less than 10 MSFT-related jobs offered ---like this one in Germany [search page for `C#`] => [@DamianEdwards](http://twitter.com/@DamianEdwards)[[twitter.com]](https://twitter.com/BryanWilhite/status/991782251296735232/photo/1)
 
 here is my ad for [@Hired_HQ](http://twitter.com/@Hired_HQ) 🤮😔 [not [@Hired_UK](http://twitter.com/@Hired_UK)] [[twitter.com]](https://twitter.com/BryanWilhite/status/992474212974583808/photo/1)
 

@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/ezzSKHYlITY?a) Build smarter apps with Office using the Microsoft Graph - BRK3080
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The week in .NET – .NET Architecture: Microservices &amp; Containers, On .NET with Omer Raviv on OzCode, Sprache [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/06/20/the-week-in-net-net-architecture-microservices-containers-on-net-with-omer-raviv-on-ozcode-sprache/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The week in .NET – .NET Architecture: Microservices & Containers, On .NET with Omer Raviv on OzCode, Sprache [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2017/06/20/the-week-in-net-net-architecture-microservices-containers-on-net-with-omer-raviv-on-ozcode-sprache/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Less Than Dot - Blog - Mapping Complex Types to/from the DB with PetaPoco [[blogs.lessthandot.com]](http://blogs.lessthandot.com/index.php/desktopdev/mstech/csharp/mapping-complex-types-tofrom-the-db-with-petapoco/)
 

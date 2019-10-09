@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) this issue is so basic: the site's initial load loops -not "my issue" -I'm sure you guys are on it
 
-[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) We found some documentation that might help: [[aka.ms]](http://aka.ms/d1049613) &amp; [[aka.ms]](http://aka.ms/d41425454) ^BD
+[<img alt="Azure Support [AzureSupport]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AzureSupport.png">](http://t.co/OdNOX1mEV9 "Azure Support [AzureSupport]")[@BryanWilhite](http://twitter.com/BryanWilhite) We found some documentation that might help: [[aka.ms]](http://aka.ms/d1049613) & [[aka.ms]](http://aka.ms/d41425454) ^BD
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@AzureSupport](http://twitter.com/AzureSupport) these documents do not apply as this thread refers to a website built by Microsoft: [[analytics.applicationinsights.io]](http://analytics.applicationinsights.io)
 

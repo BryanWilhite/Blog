@@ -91,7 +91,7 @@
 
 [<img alt="J.T. Grimes [JT_Grimes]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JT_Grimes.jpg">]( "J.T. Grimes [JT_Grimes]") So many things I was wrong about when I was younger: a) tech is a meritocracy b) there is a Right Way (tm) to sol… [[twitter.com]](https://twitter.com/i/web/status/982348049681809414)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I Find Six Figure Remote Software Developer Jobs | Full Bit [[fullbit.ca]](http://fullbit.ca/how-i-find-six-figure-remote-software-developer-jobs/) =&gt; [@bizmonger](http://twitter.com/bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How I Find Six Figure Remote Software Developer Jobs | Full Bit [[fullbit.ca]](http://fullbit.ca/how-i-find-six-figure-remote-software-developer-jobs/) => [@bizmonger](http://twitter.com/bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Wall Street’s big banks are waging an all-out technological arms race [[bloomberg.com]](https://www.bloomberg.com/news/features/2018-04-05/wall-street-s-big-banks-are-waging-an-all-out-technological-arms) via [@markets](http://twitter.com/markets)
 

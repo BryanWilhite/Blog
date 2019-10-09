@@ -71,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") T4 Text Templates: lost ~2 hours -forgot about TextTemplatingFilePreprocessor and TextTemplatingFileGenerator :(… [[twitter.com]](https://twitter.com/i/web/status/885238792327757824)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cleaning up the Visual Studio 2017 package cache | Setup &amp; Install by Heath Stewart [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/heaths/2017/04/19/cleaning-up-the-visual-studio-2017-package-cache/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Cleaning up the Visual Studio 2017 package cache | Setup & Install by Heath Stewart [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/heaths/2017/04/19/cleaning-up-the-visual-studio-2017-package-cache/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") It’s Time to Reconsider Using Contracts -- Visual Studio Magazine [[visualstudiomagazine.com]](https://visualstudiomagazine.com/articles/2017/04/01/reconsider-using-contracts.aspx)
 

@@ -27,7 +27,7 @@
 
 [<img alt="Minko Gechev [mgechev]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mgechev.jpg">](https://t.co/7KvH8BhqZf "Minko Gechev [mgechev]") Radar which lets you trace the frame rate of your JavaScript application [[github.com]](https://github.com/mobz/lag-radar)[[twitter.com]](https://twitter.com/mgechev/status/979935407704952834/photo/1)
 
-[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") How to, w/ code: "Index starting points &amp; dataviz" by [@lenkiefer](http://twitter.com/lenkiefer) (👍 write up, too) [[buff.ly]](https://buff.ly/2k3lKOH)[#rstats](http://twitter.com/search?q=%23rstats)… [[twitter.com]](https://twitter.com/i/web/status/980265767001317376)
+[<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") How to, w/ code: "Index starting points & dataviz" by [@lenkiefer](http://twitter.com/lenkiefer) (👍 write up, too) [[buff.ly]](https://buff.ly/2k3lKOH)[#rstats](http://twitter.com/search?q=%23rstats)… [[twitter.com]](https://twitter.com/i/web/status/980265767001317376)
 
 [<img alt="Jenny Wong 🐝 [miss_jwo]" src="https://songhay.blob.core.windows.net/shared-social-twitter/miss_jwo.jpg">](https://t.co/Tb9mBjcLBe "Jenny Wong 🐝 [miss_jwo]") Dear developers, please stop assuming that everyone has amazing internet and it's cheap.
 
@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft.Identity.Client: [[github.com]](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") excited to see how [@jm_prieur](http://twitter.com/jm_prieur) and co. implement a cross-platform authentication login prompt for [@azure](http://twitter.com/azure) AD =&gt; [@JamesMontemagno](http://twitter.com/JamesMontemagno)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") excited to see how [@jm_prieur](http://twitter.com/jm_prieur) and co. implement a cross-platform authentication login prompt for [@azure](http://twitter.com/azure) AD => [@JamesMontemagno](http://twitter.com/JamesMontemagno)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@JamesMontemagno](http://twitter.com/JamesMontemagno)[@jm_prieur](http://twitter.com/jm_prieur)[@Azure](http://twitter.com/Azure) hey [@JamesMontemagno](http://twitter.com/JamesMontemagno) when, say, PowerShell running on Linux needs a login prompt… [[twitter.com]](https://twitter.com/i/web/status/979119415835836417)
 
@@ -81,7 +81,7 @@
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") why are some Microsoft NuGet packages still actively developed as "WindowsAzure"? [[nuget.org]](https://www.nuget.org/packages/WindowsAzure.Storage/)… [[twitter.com]](https://twitter.com/i/web/status/979446500274114561)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Duplicati 2.0: Free backup software to store encrypted backups online For Windows, macOS and Linux [[duplicati.com]](https://www.duplicati.com/) &lt;= [@TekThing](http://twitter.com/TekThing)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Duplicati 2.0: Free backup software to store encrypted backups online For Windows, macOS and Linux [[duplicati.com]](https://www.duplicati.com/) <= [@TekThing](http://twitter.com/TekThing)
 
 [<img alt="blackcomputeHER.org [blackcomputeHER]" src="https://songhay.blob.core.windows.net/shared-social-twitter/blackcomputeHER.jpg">](https://t.co/QGefgKfF8h "blackcomputeHER.org [blackcomputeHER]") 26 Women of Color Diversifying Entrepreneurship in Silicon Valley, Media, and Beyond [[vanityfair.com]](https://www.vanityfair.com/news/2018/03/women-of-color-diversifying-entrepreneurship-in-silicon-valley-media-and-beyond)… [[twitter.com]](https://twitter.com/i/web/status/979052911962574849)
 

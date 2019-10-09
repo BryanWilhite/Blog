@@ -89,6 +89,6 @@
 
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](https://t.co/UxCF5N4CtZ "Julie Lerman [julielerman]") when github is treated as a replacement for stackoverflow which is treated as a replacement for doing the most basic learning on the topic
 
-[<img alt="Rich Rogers [RichRogersHDS]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RichRogersHDS.jpg">](https://t.co/0hMHqujClN "Rich Rogers [RichRogersHDS]") Programmers force their brains to do things brains were never meant to do, &amp; every one of them is slowly going mad. [[stilldrinking.org]](http://www.stilldrinking.org/programming-sucks)
+[<img alt="Rich Rogers [RichRogersHDS]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RichRogersHDS.jpg">](https://t.co/0hMHqujClN "Rich Rogers [RichRogersHDS]") Programmers force their brains to do things brains were never meant to do, & every one of them is slowly going mad. [[stilldrinking.org]](http://www.stilldrinking.org/programming-sucks)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

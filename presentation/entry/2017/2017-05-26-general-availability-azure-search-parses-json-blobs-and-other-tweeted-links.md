@@ -31,7 +31,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Kevin Rich - Adding User Claims via API keys in WebApi 2 [[whoiskevinrich.com]](http://www.whoiskevinrich.com/adding-user-claims-via-api-keys-in-webapi-2)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core: MVC &amp; Web API Token Authentication Guide | Stormpath [[stormpath.com]](https://stormpath.com/blog/token-authentication-asp-net-core)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core: MVC & Web API Token Authentication Guide | Stormpath [[stormpath.com]](https://stormpath.com/blog/token-authentication-asp-net-core)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") From API key to user with [[asp.net]](http://ASP.NET) Web API - Maarten Balliauw {blog} [[blog.maartenballiauw.be]](https://blog.maartenballiauw.be/post/2012/10/18/from-api-key-to-user-with-aspnet-web-api.html)
 

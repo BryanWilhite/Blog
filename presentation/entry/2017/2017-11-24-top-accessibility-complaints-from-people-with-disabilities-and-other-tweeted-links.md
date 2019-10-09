@@ -55,11 +55,11 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") DotNetNerd's blog | [[asp.net]](http://ASP.NET) Core and Node together: JavaScript Services [[blog.dotnetnerd.dk]](http://blog.dotnetnerd.dk/post/2017/01/06/ASpNET-Core-and-Node-together-JavaScript-Services.aspx)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") What's new in Xamarin.Forms 2.4? [@DavidOrtinau](http://twitter.com/DavidOrtinau) introduces us to the latest &amp; greatest features:… [[twitter.com]](https://twitter.com/i/web/status/924028688945025024)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") What's new in Xamarin.Forms 2.4? [@DavidOrtinau](http://twitter.com/DavidOrtinau) introduces us to the latest & greatest features:… [[twitter.com]](https://twitter.com/i/web/status/924028688945025024)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Program.cs in [[asp.net]](http://ASP.NET) Core 2.0 - Shawn Wildermuth [[wildermuth.com]](https://wildermuth.com/2017/07/06/Program-cs-in-ASP-NET-Core-2-0)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Patterns for application development with [[asp.net]](http://ASP.NET) Core - Damian Edwards &amp; David Fowler [[youtube.com]](https://www.youtube.com/watch?v=x-C-CNBVTaY)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Patterns for application development with [[asp.net]](http://ASP.NET) Core - Damian Edwards & David Fowler [[youtube.com]](https://www.youtube.com/watch?v=x-C-CNBVTaY)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Faking Azure ID identity in [[asp.net]](http://ASP.NET) Core unit tests | Gunnar Peipman - Programming Blog [[gunnarpeipman.com]](http://gunnarpeipman.com/2017/07/aspnet-core-azure-ad-unit-test/)
 
@@ -85,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Core solution management via the command line interface | Joseph Woodward, Software Developer [[josephwoodward.co.uk]](http://josephwoodward.co.uk/2017/07/dotnet-core-solution-management-via-command-line-interface)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 8 Key Application Performance Metrics &amp; How to Measure Them [[stackify.com]](https://stackify.com/application-performance-metrics/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 8 Key Application Performance Metrics & How to Measure Them [[stackify.com]](https://stackify.com/application-performance-metrics/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Exploring data with F# type providers – Microsoft Faculty Connection [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/07/04/exploring-data-with-f-type-providers/)
 

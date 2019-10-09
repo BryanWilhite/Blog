@@ -13,23 +13,23 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-07-03-announcing-typescript-2-8-rc-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"npm install -g typescript     @rc      ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback:     [msft.social] 🎊 Great code-through by     @andrewheiss     \\\"Exploring Minard’s 1812 plot w/ ggplot2\\\"     [buff.ly]#rstats…     [twitter.com] When...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"npm install -g typescript     @rc      ...announcing TypeScript 2.8 RC. We'd <3 some early feedback:     [msft.social] 🎊 Great code-through by     @andrewheiss     \\\"Exploring Minard’s 1812 plot w/ ggplot2\\\"     [buff.ly]#rstats…     [twitter.com] When...\"\r\n}"
 }
 ---
 
 # “…announcing TypeScript 2.8 RC” and other Tweeted links…
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") npm install -g typescript [@rc](http://twitter.com/rc) ...announcing TypeScript 2.8 RC. We'd &lt;3 some early feedback: [[msft.social]](http://msft.social/Xr5pqK)
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") npm install -g typescript [@rc](http://twitter.com/rc) ...announcing TypeScript 2.8 RC. We'd <3 some early feedback: [[msft.social]](http://msft.social/Xr5pqK)
 
 [<img alt="Mara Averick [dataandme]" src="https://songhay.blob.core.windows.net/shared-social-twitter/dataandme.jpg">](https://t.co/ZANWJjC3FT "Mara Averick [dataandme]") 🎊 Great code-through by [@andrewheiss](http://twitter.com/andrewheiss) "Exploring Minard’s 1812 plot w/ ggplot2" [[buff.ly]](https://buff.ly/2xDvfpZ)[#rstats](http://twitter.com/search?q=%23rstats)… [[twitter.com]](https://twitter.com/i/web/status/977893384072388610)
 
-[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") When yarn was out, I got people at work &amp; ng-sydney meetup to use it the same day But now, it adds too little vs `… [[twitter.com]](https://twitter.com/i/web/status/978121360793747456)
+[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") When yarn was out, I got people at work & ng-sydney meetup to use it the same day But now, it adds too little vs `… [[twitter.com]](https://twitter.com/i/web/status/978121360793747456)
 
-[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d "Jen Simmons [jensimmons]") There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout &amp; graphic… [[twitter.com]](https://twitter.com/i/web/status/978720681948073986)
+[<img alt="Jen Simmons [jensimmons]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jensimmons.jpg">](https://t.co/8FEcRMJN4d "Jen Simmons [jensimmons]") There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout & graphic… [[twitter.com]](https://twitter.com/i/web/status/978720681948073986)
 
-[<img alt="Anders Liu [yangl900]" src="https://songhay.blob.core.windows.net/shared-social-twitter/yangl900.jpg">]( "Anders Liu [yangl900]") Drag &amp; drop to upload files to [@Azure](http://twitter.com/Azure) cloud shell. Hope you like it! [[twitter.com]](https://twitter.com/yangl900/status/978145899904778240/photo/1)
+[<img alt="Anders Liu [yangl900]" src="https://songhay.blob.core.windows.net/shared-social-twitter/yangl900.jpg">]( "Anders Liu [yangl900]") Drag & drop to upload files to [@Azure](http://twitter.com/Azure) cloud shell. Hope you like it! [[twitter.com]](https://twitter.com/yangl900/status/978145899904778240/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EQFEf7Q0scg?a) ngHouston - Intro to GraphQL &amp; Angular Apollo w/ Ed Pelc
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/EQFEf7Q0scg?a) ngHouston - Intro to GraphQL & Angular Apollo w/ Ed Pelc
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") GraphQL vs REST: Overview [[philsturgeon.uk]](https://philsturgeon.uk/api/2017/01/24/graphql-vs-rest-overview/)
 
@@ -37,7 +37,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/4kHPcDqTRfI?a) AngularNYC - Cloudinary + Angular - Prosper Otemuyiwa ( [@unicodeveloper](http://twitter.com/unicodeveloper))
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a case study of rich media on a low-bandwidth budget [[[youtu.be]](https://youtu.be/4kHPcDqTRfI?t=600)] =&gt; [@megafunkmega](http://twitter.com/megafunkmega) &lt;= [@JioCinema](http://twitter.com/JioCinema)[[twitter.com]](https://twitter.com/BryanWilhite/status/978697723070226432/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") a case study of rich media on a low-bandwidth budget [[[youtu.be]](https://youtu.be/4kHPcDqTRfI?t=600)] => [@megafunkmega](http://twitter.com/megafunkmega) <= [@JioCinema](http://twitter.com/JioCinema)[[twitter.com]](https://twitter.com/BryanWilhite/status/978697723070226432/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") recommended video players: Google Shaka [[[github.com]](https://github.com/google/shaka-player)] and Cloudinary [[[cloudinary.com]](https://cloudinary.com/)] [[twitter.com]](https://twitter.com/BryanWilhite/status/978699032708050944/photo/1)
 
@@ -87,7 +87,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/CrqYmErtA0k?a) Tech Bytes | Building the Flowers Bot
 
-[<img alt="x0rz [x0rz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/x0rz.jpg">](https://t.co/kXWHpfnvr3 "x0rz [x0rz]") Windows 7 Meltdown patch opened up a new vulnerability (on Win7 &amp; Win Serv 2008): arbitrary memory read &amp; write 😱… [[twitter.com]](https://twitter.com/i/web/status/978877832033128448)
+[<img alt="x0rz [x0rz]" src="https://songhay.blob.core.windows.net/shared-social-twitter/x0rz.jpg">](https://t.co/kXWHpfnvr3 "x0rz [x0rz]") Windows 7 Meltdown patch opened up a new vulnerability (on Win7 & Win Serv 2008): arbitrary memory read & write 😱… [[twitter.com]](https://twitter.com/i/web/status/978877832033128448)
 
 [<img alt="Kim Bieler [feadog]" src="https://songhay.blob.core.windows.net/shared-social-twitter/feadog.jpg">](http://t.co/zu4Qj3cf9K "Kim Bieler [feadog]")[@jboogie](http://twitter.com/jboogie) 1) It takes approximately 6 months for Jira to become the depressing repository of all the work you're not… [[twitter.com]](https://twitter.com/i/web/status/977326399433273344)
 
@@ -115,7 +115,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") wow, [@migueldeicaza](http://twitter.com/migueldeicaza) is not corporate-pussyfooting around: [[twitter.com]](https://twitter.com/search?q=facebook%20from%3Amigueldeicaza&src=typd)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Broad Financial: What is a Self-Directed Solo 401(k) &amp; How Can I Use a Solo 401(k) to Jumpstart My Retirement Savin… [[twitter.com]](https://twitter.com/i/web/status/978854361387470848)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Broad Financial: What is a Self-Directed Solo 401(k) & How Can I Use a Solo 401(k) to Jumpstart My Retirement Savin… [[twitter.com]](https://twitter.com/i/web/status/978854361387470848)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[youtube.com]](https://www.youtube.com/watch?v=ol_zN1nYgxc)
 

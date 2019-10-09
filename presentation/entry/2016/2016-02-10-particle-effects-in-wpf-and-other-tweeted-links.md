@@ -63,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtube.com]](https://www.youtube.com/watch?v=biY2qrkt0LA&feature=youtu.be&a) CES 2016: Lenovo Announces Yoga 900S Convertible Notebook
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtube.com]](https://www.youtube.com/watch?v=EQ5qzg4xZiQ&feature=youtu.be&a) How To Protect your PC &amp; Network with GlassWire
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video from [@barnacules](http://twitter.com/barnacules)[[youtube.com]](https://www.youtube.com/watch?v=EQ5qzg4xZiQ&feature=youtu.be&a) How To Protect your PC & Network with GlassWire
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Lumia 550 Now Available For Order From Microsoft Store In The US [[wmpoweruser.com]](http://wmpoweruser.com/lumia-550-now-available-for-order-from-microsoft-store-in-the-us/)
 

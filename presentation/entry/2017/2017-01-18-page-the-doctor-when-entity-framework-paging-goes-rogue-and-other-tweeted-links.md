@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Scaling Responsive Animations | CSS-Tricks [[ow.ly]](http://ow.ly/R4dM307hnXH)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top JavaScript Frameworks &amp; Topics to Learn in 2017 – JavaScript Scene – Medium [[ow.ly]](http://ow.ly/rJvf307ekpF)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Top JavaScript Frameworks & Topics to Learn in 2017 – JavaScript Scene – Medium [[ow.ly]](http://ow.ly/rJvf307ekpF)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Barbaric Tip of the Week: Learn Functional Programming in JavaScript with Professor Frisby [[ow.ly]](http://ow.ly/LuIG307jzqm) » [@Bizmonger](http://twitter.com/Bizmonger)
 
@@ -75,7 +75,7 @@
 
 [<img alt="Tiffany Brown [webinista]" src="https://songhay.blob.core.windows.net/shared-social-twitter/webinista.jpg">]( "Tiffany Brown [webinista]") Having deep domain knowledge doesn't mean you're smart. Or that you understand how the world works. This may be a subtweet.
 
-[<img alt="Uche Ogbuji [uogbuji]" src="https://songhay.blob.core.windows.net/shared-social-twitter/uogbuji.jpeg">](http://t.co/RjfzWMDSVc "Uche Ogbuji [uogbuji]") So true! "[Before Medium, there was Posterous. People loved it until Twitter bought it…&amp;…killed it, because money.]" [[bit.ly]](http://bit.ly/2i7qPmg)
+[<img alt="Uche Ogbuji [uogbuji]" src="https://songhay.blob.core.windows.net/shared-social-twitter/uogbuji.jpeg">](http://t.co/RjfzWMDSVc "Uche Ogbuji [uogbuji]") So true! "[Before Medium, there was Posterous. People loved it until Twitter bought it…&…killed it, because money.]" [[bit.ly]](http://bit.ly/2i7qPmg)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") For Better Meetings, Use Better Tools [[ow.ly]](http://ow.ly/ntHp307hoWH)
 
@@ -89,7 +89,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask HN: Why doesn't Adobe just kill the Flash Player? | Hacker News [[ow.ly]](http://ow.ly/4pMF307ekoC)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Are Remote Offices Becoming The New Normal? - Slashdot [[ow.ly]](http://ow.ly/Uzu7307ek6m) =&gt; [@Bizmonger](http://twitter.com/Bizmonger)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Are Remote Offices Becoming The New Normal? - Slashdot [[ow.ly]](http://ow.ly/Uzu7307ek6m) => [@Bizmonger](http://twitter.com/Bizmonger)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Management theory is becoming a compendium of dead ideas | The Economist [[ow.ly]](http://ow.ly/ICFO307dTwI)
 

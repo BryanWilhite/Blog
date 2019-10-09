@@ -75,7 +75,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The curious case of async, await, and IDisposable - Bill Wagner [[thebillwagner.com]](http://thebillwagner.com/Blog/Item/2017-05-03-ThecuriouscaseofasyncawaitandIDisposable)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") package management - What does: Error Broken count &gt;0 mean? - Ask Ubuntu [[askubuntu.com]](https://askubuntu.com/questions/263460/what-does-error-broken-count-0-mean)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") package management - What does: Error Broken count >0 mean? - Ask Ubuntu [[askubuntu.com]](https://askubuntu.com/questions/263460/what-does-error-broken-count-0-mean)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What are the "loose objects" that the Git GUI refers to? - Stack Overflow [[stackoverflow.com]](http://stackoverflow.com/questions/5709687/what-are-the-loose-objects-that-the-git-gui-refers-to)
 

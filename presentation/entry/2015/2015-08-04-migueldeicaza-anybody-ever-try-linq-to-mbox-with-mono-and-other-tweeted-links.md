@@ -77,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 9 New Windows 10 Keyboard Shortcuts You Should Know [[wired.com]](http://www.wired.com/2015/07/windows-10-keyboard-shortcuts/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving the local root: “Right click OneDrive in Taskbar &gt; Settings &gt; Unlink &gt; Then launch OneDrive again” [[winbeta.org]](http://www.winbeta.org/news/how-move-onedrive-folder-another-drive-windows-10-technical-preview)[#onedrive](http://search.twitter.com/search?q=%23onedrive)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") moving the local root: “Right click OneDrive in Taskbar > Settings > Unlink > Then launch OneDrive again” [[winbeta.org]](http://www.winbeta.org/news/how-move-onedrive-folder-another-drive-windows-10-technical-preview)[#onedrive](http://search.twitter.com/search?q=%23onedrive)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Open Source Is Going Even More Open—Because It Has To [[wired.com]](http://www.wired.com/2015/07/open-source-going-even-openbecause/)
 

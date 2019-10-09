@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) I liked a [@YouTube](http://twitter.com/@YouTube) video [[youtu.be]](http://youtu.be/Lb-Pnytoi-8?a) How to NOT get a 30K Firebase Bill
 
-[<img alt="Stuart Lang [stuartblang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/stuartblang.jpg">](https://t.co/cpzom3Rj3W) So happy to have Span&lt;T&gt; in F# 4.5, it's looking great! [#fsharp](http://twitter.com/search?q='%23fsharp)[[twitter.com]](https://twitter.com/stuartblang/status/1026527200277946369/photo/1)
+[<img alt="Stuart Lang [stuartblang]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/stuartblang.jpg">](https://t.co/cpzom3Rj3W) So happy to have `Span<T>` in F# 4.5, it's looking great! [#fsharp](http://twitter.com/search?q='%23fsharp)[[twitter.com]](https://twitter.com/stuartblang/status/1026527200277946369/photo/1)
 
 [<img alt="Martin Björkström [mholo65]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mholo65.jpg">](https://t.co/nRad7bVZ6V) Blogged: Announcing dotnet depends A .NET Core Global tool for exploring project dependencies. [[martinbjorkstrom.com]](https://martinbjorkstrom.com/posts/2018-08-06-announcing-dotnet-depends)
 
@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[nuget.org]](http://NuGet.org) starts repo-signing packages [[blog.nuget.org]](https://blog.nuget.org/20180810/Introducing-Repository-Signatures.html) “A repository signature is a code signing signature produced with an X.509 certificate. This signature is uniquely associated with a repository using custom metadata.”
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[krypt.co]](http://www.krypt.co): Let's make authentication easy &amp; secure [[twitter.com]](https://twitter.com/BryanWilhite/status/1026559319653855232/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[[krypt.co]](http://www.krypt.co): Let's make authentication easy & secure [[twitter.com]](https://twitter.com/BryanWilhite/status/1026559319653855232/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) “There are two ways you can use this new markdown functionality in PowerShell [Core]. Using Show-Markdown you can take markdown and display it as a VT100 encoded string right in the console.” [[ephos.github.io]](https://ephos.github.io/posts/2018-8-1-PowerShell-Markdown)[[twitter.com]](https://twitter.com/BryanWilhite/status/1026558351759499264/photo/1)
 

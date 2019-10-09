@@ -35,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Will we be flattening our HTML for CSS Grids? [[css-tricks.com]](https://css-tricks.com/will-flattening-html-css-grids/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 25 Best Free WordPress Themes Built With Bootstrap Framework For Business, Portfolio &amp; Personal Blogs – 2016 [[colorlib.com]](https://colorlib.com/wp/free-bootstrap-wordpress-themes/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 25 Best Free WordPress Themes Built With Bootstrap Framework For Business, Portfolio & Personal Blogs – 2016 [[colorlib.com]](https://colorlib.com/wp/free-bootstrap-wordpress-themes/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Storing and using secrets in Azure [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/dotnet/2016/10/03/storing-and-using-secrets-in-azure/)
 
@@ -85,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Google Wifi routers are little white pucks you can scatter throughout your house [[theverge.com]](http://www.theverge.com/2016/10/4/13157680/google-wifi-router-photos-hands-on)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") in defense of CG [[youtube.com]](https://www.youtube.com/watch?v=bL6hp8BKB24) &lt;= [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") in defense of CG [[youtube.com]](https://www.youtube.com/watch?v=bL6hp8BKB24) <= [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Adobe Releases Original Video Series Made Entirely of Stock Assets [[blogs.adobe.com]](http://blogs.adobe.com/creative/adobe-releases-original-video-series-made-entirely-of-stock-assets/)
 

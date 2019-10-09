@@ -53,7 +53,7 @@
 
 [<img alt="Stephen Wolfram [stephen_wolfram]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephen_wolfram.png">]( "Stephen Wolfram [stephen_wolfram]") <span>Mathematica 9 released today ... and it's big! [http://t.co/oWMygo2C](http://t.co/oWMygo2C)</span>
 
-[<img alt="Stephen Wolfram [stephen_wolfram]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephen_wolfram.png">]( "Stephen Wolfram [stephen_wolfram]") <span>RIP Richard Crandall (1947-2012): pioneer of experimental math &amp; Mathematica, and scientist to Steve Jobs [http://t.co/5LoRPT3Y](http://t.co/5LoRPT3Y)</span>
+[<img alt="Stephen Wolfram [stephen_wolfram]" src="https://songhay.blob.core.windows.net/shared-social-twitter/stephen_wolfram.png">]( "Stephen Wolfram [stephen_wolfram]") <span>RIP Richard Crandall (1947-2012): pioneer of experimental math & Mathematica, and scientist to Steve Jobs [http://t.co/5LoRPT3Y](http://t.co/5LoRPT3Y)</span>
 
 [<img alt="Terry White [terrylwhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrylwhite.jpeg">](http://terrywhite.com "Terry White [terrylwhite]") <span>. [#iOS](http://search.twitter.com/search?q=%23iOS) AppStore needs a refresh button. Luv how it says I have updates, but doesn’t show them 2 me unless I force quit [http://t.co/wloyHjhB](http://t.co/wloyHjhB)</span>
 

@@ -43,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Episode 193: Azure Redis Cache Premium Tier with Pranav Rastogi | Microsoft Azure Cloud Cover Show [[channel9.msdn.com]](https://channel9.msdn.com/Shows/Cloud+Cover/Episode-193-Azure-Redis-Cache-Premium-Tier-with-Pranav-Rastogi)
 
-[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]") BOOM -&gt; Introducing Open Live Writer, an open source fork of Windows Live Writer [[hanselman.com]](http://www.hanselman.com/blog/AnnouncingOpenLiveWriterAnOpenSourceForkOfWindowsLiveWriter.aspx)
+[<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](https://t.co/KWE5X1BBOh "Scott Hanselman [shanselman]") BOOM -> Introducing Open Live Writer, an open source fork of Windows Live Writer [[hanselman.com]](http://www.hanselman.com/blog/AnnouncingOpenLiveWriterAnOpenSourceForkOfWindowsLiveWriter.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure WTF# [[devjoy.com]](http://www.devjoy.com/2015/12/azure-wtf/)
 

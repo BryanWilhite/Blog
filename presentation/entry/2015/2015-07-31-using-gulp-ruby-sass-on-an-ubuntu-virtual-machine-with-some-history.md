@@ -25,7 +25,7 @@ Because my VM is so old (even though it is now upgraded to the latest LTS versio
 
 <blockquote>
 
-You must have Sass &gt;=3.4.
+You must have Sass >=3.4.
 
 </blockquote>
 

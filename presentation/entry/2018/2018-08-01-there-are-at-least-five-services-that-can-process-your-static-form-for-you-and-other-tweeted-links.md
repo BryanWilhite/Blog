@@ -1,7 +1,7 @@
 ---json
 {
   "documentId": 0,
-  "title": "“There are at least 🖐 five services that can process your static &lt;form&gt; for you” and other Tweeted links…",
+  "title": "“There are at least 🖐 five services that can process your static `<form>` for you” and other Tweeted links…",
   "documentShortName": "2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
   "fileName": "index.html",
   "path": "./entry/2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-08-01-there-are-at-least-five-services-that-can-process-your-static-form-for-you-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"There are at least 🖐 five services that can process your static &lt;form&gt; for you: ①       [pageclip.co]        ②…       [twitter.com] A Practical Guide to Angular Elements:       [nitayneeman.com] People keep asking me about CSS Grid \\\"best practices...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"There are at least 🖐 five services that can process your static `<form>` for you: ①       [pageclip.co]        ②…       [twitter.com] A Practical Guide to Angular Elements:       [nitayneeman.com] People keep asking me about CSS Grid \\\"best practices...\"\r\n}"
 }
 ---
 
-# “There are at least 🖐 five services that can process your static &lt;form&gt; for you” and other Tweeted links…
+# “There are at least 🖐 five services that can process your static `<form>` for you” and other Tweeted links…
 
-[<img alt="Chris Coyier [chriscoyier]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chriscoyier.jpg">](https://t.co/EYnTdtblV1 "Chris Coyier [chriscoyier]") There are at least 🖐 five services that can process your static &lt;form&gt; for you: ① [[pageclip.co]](https://pageclip.co/) ②… [[twitter.com]](https://twitter.com/i/web/status/985938790395953152)
+[<img alt="Chris Coyier [chriscoyier]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chriscoyier.jpg">](https://t.co/EYnTdtblV1 "Chris Coyier [chriscoyier]") There are at least 🖐 five services that can process your static `<form>` for you: ① [[pageclip.co]](https://pageclip.co/) ②… [[twitter.com]](https://twitter.com/i/web/status/985938790395953152)
 
 [<img alt="JavaScript Daily [JavaScriptDaily]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JavaScriptDaily.jpg">]( "JavaScript Daily [JavaScriptDaily]") A Practical Guide to Angular Elements: [[nitayneeman.com]](https://nitayneeman.com/posts/a-practical-guide-to-angular-elements/)
 
@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2013: Map-Set vs. Map-Merge [[oddbird.net]](http://oddbird.net/2013/10/19/map-merge/)[@mirisuzanne](http://twitter.com/mirisuzanne) [see also: [[sass-lang.com]](http://sass-lang.com/documentation/Sass/Script/Functions.html#map_merge-instance_method)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Segoe UI and Roboto— [@Microsoft](http://twitter.com/Microsoft) and [@Google](http://twitter.com/Google)—together in one, big font family. =&gt; [@ThomasBurleson](http://twitter.com/ThomasBurleson)[@John_Papa](http://twitter.com/John_Papa)… [[twitter.com]](https://twitter.com/i/web/status/986361875871879168)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Segoe UI and Roboto— [@Microsoft](http://twitter.com/Microsoft) and [@Google](http://twitter.com/Google)—together in one, big font family. => [@ThomasBurleson](http://twitter.com/ThomasBurleson)[@John_Papa](http://twitter.com/John_Papa)… [[twitter.com]](https://twitter.com/i/web/status/986361875871879168)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing Wolfram Presenter Tools [[shar.es]](https://shar.es/1L98QH) via [@WolframResearch](http://twitter.com/WolframResearch)
 

@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-02-23-loren-brichter-on-tweetie-2009-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Loren Brichter on Tweetie [2009] [youtu.be]@lorenb &lt;= @reneritchie Speech Recognition in Mono and .NET C# - CodeProject [codeproject.com] “Learn CSS Variables in 5 minutes” by @perborgen[medium.freecodecamp.org] Troubleshooting TLS / SSL communication...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Loren Brichter on Tweetie [2009] [youtu.be]@lorenb <= @reneritchie Speech Recognition in Mono and .NET C# - CodeProject [codeproject.com] “Learn CSS Variables in 5 minutes” by @perborgen[medium.freecodecamp.org] Troubleshooting TLS / SSL communication...\"\r\n}"
 }
 ---
 
 # “Loren Brichter on Tweetie [2009]” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Loren Brichter on Tweetie [2009] [[youtu.be]](https://youtu.be/7Zd3iNOXTow)[@lorenb](http://twitter.com/lorenb) &lt;= [@reneritchie](http://twitter.com/reneritchie)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Loren Brichter on Tweetie [2009] [[youtu.be]](https://youtu.be/7Zd3iNOXTow)[@lorenb](http://twitter.com/lorenb) <= [@reneritchie](http://twitter.com/reneritchie)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Speech Recognition in Mono and .NET C# - CodeProject [[codeproject.com]](https://www.codeproject.com/Articles/890117/Speech-Recognition-in-Mono-and-NET-Csharp)
 

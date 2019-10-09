@@ -43,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing custom domain HTTPS support with Azure CDN | Blog | Microsoft Azure [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/announcing-custom-domain-https-support-with-azure-cdn/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") builder.RegisterGeneric(typeof(IRequestHandler&lt;,&gt;)) .Named("handler", typeof(IRequestHandler&lt;,&gt;)); [[blog.bennymichielsen.be]](http://blog.bennymichielsen.be/2017/02/07/creating-solid-classes-with-autofac/)[#autofac](http://twitter.com/search?q=%23autofac)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") `builder.RegisterGeneric(typeof(IRequestHandler<,>)) .Named("handler", typeof(IRequestHandler<,>));` [[blog.bennymichielsen.be]](http://blog.bennymichielsen.be/2017/02/07/creating-solid-classes-with-autofac/)[#autofac](http://twitter.com/search?q=%23autofac)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Anti-Forgery Tokens and [[asp.net]](http://ASP.NET) Core APIs [[odetocode.com]](http://odetocode.com/blogs/scott/archive/2017/02/06/anti-forgery-tokens-and-asp-net-core-apis.aspx)
 
@@ -97,7 +97,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Most Mentioned Books On StackOverflow - Slashdot [[developers.slashdot.org]](https://developers.slashdot.org/story/17/02/08/1519234/the-most-mentioned-books-on-stackoverflow?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Is Humiliating Google &amp; Apple In The AI Wars [[forbes.com]](http://www.forbes.com/sites/jaymcgregor/2017/02/08/amazon-has-the-winning-ai-formula-for-beating-google-apple/#7c07b2db626e)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Is Humiliating Google & Apple In The AI Wars [[forbes.com]](http://www.forbes.com/sites/jaymcgregor/2017/02/08/amazon-has-the-winning-ai-formula-for-beating-google-apple/#7c07b2db626e)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The top 12 international cities for software engineers | TechBeacon [[techbeacon.com]](https://techbeacon.com/top-12-international-cities-software-engineers)
 

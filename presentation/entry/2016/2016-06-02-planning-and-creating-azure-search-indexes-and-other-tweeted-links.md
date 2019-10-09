@@ -31,7 +31,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How WebAPI does Parameter Binding [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/jmstall/2012/04/16/how-webapi-does-parameter-binding/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") to bypass [FromBody] binding/casting use var xml = await this.Request.Content.ReadAsStringAsync(); in public async Task&lt;IHttpActionResult&gt;
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") to bypass [FromBody] binding/casting use `var xml = await this.Request.Content.ReadAsStringAsync();` in `public async Task<IHttpActionResult>`
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Web API POST ([FromBody]XElement xml) signature works; ([FromBody]XDocument xml) or ([FromBody]string xml) do not.
 
@@ -45,7 +45,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Dawn of Agentive Technology: Chris Noessel on the UX of “Soft” AI [[blogs.adobe.com]](http://blogs.adobe.com/creativecloud/the-dawn-of-agentive-technology-the-ux-of-soft-ai-chris-noessel/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Write, Share &amp; Learn about UX [[thedigest.org]](https://thedigest.org/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Write, Share & Learn about UX [[thedigest.org]](https://thedigest.org/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “I’ve often hear two complaints when designing for accessibility.” [[mrmrs.io]](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
 

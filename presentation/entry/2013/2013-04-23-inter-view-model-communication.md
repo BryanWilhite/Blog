@@ -25,7 +25,7 @@ The `ObjectExtensions` class that I was previously using for a certain category 
 
 ## Related Links
 
-* “[The Common Service Locator from Microsoft Patterns &amp; Practices](http://www.fatagnus.com/the-common-service-locator-from-microsoft-patterns-practices/)”
+* “[The Common Service Locator from Microsoft Patterns & Practices](http://www.fatagnus.com/the-common-service-locator-from-microsoft-patterns-practices/)”
 * “[MVVM with Prism 101 – Part 5b: ServiceLocator vs Dependency Injection](http://www.developmentalmadness.com/archive/2009/11/02/mvvm-with-prism-101-ndash-part-5b-servicelocator-vs-depdency.aspx)”
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

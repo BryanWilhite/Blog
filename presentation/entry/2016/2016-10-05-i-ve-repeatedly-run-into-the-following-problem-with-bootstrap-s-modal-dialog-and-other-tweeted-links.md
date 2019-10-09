@@ -61,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/Kw_CpdPQVwA?a) The best Flickr app for Windows 10
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile Build 14393.189 Hands-on: Impressions, Issues &amp; Instal... [[youtu.be]](https://youtu.be/CtA01LqwRBs)[@maryjofoley](http://twitter.com/maryjofoley)[@Nokiapoweruser](http://twitter.com/Nokiapoweruser)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Windows 10 Mobile Build 14393.189 Hands-on: Impressions, Issues & Instal... [[youtu.be]](https://youtu.be/CtA01LqwRBs)[@maryjofoley](http://twitter.com/maryjofoley)[@Nokiapoweruser](http://twitter.com/Nokiapoweruser)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Desktop Bridge Update with Windows Developer CVP, Kevin Gallo (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Blogs/WindowsDev/Desktop-Bridge-Update-with-Windows-Developer-CVP-Kevin-Gallo) via [@ch9](http://twitter.com/ch9)
 

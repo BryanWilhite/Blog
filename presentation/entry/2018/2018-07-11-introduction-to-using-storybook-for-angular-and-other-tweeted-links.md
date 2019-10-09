@@ -35,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Joplin - an open source note taking and to-do application with synchronisation capabilities [[joplin.cozic.net]](http://joplin.cozic.net/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Gretta on making a social media interface for podcasts.” by [@realkimhansen](http://twitter.com/realkimhansen)[[medium.com]](https://medium.com/matter-driven-narrative/signl-fm-on-making-a-social-media-interface-for-podcasts-9e1d16667f1) &lt;= [@shanselman](http://twitter.com/shanselman)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Gretta on making a social media interface for podcasts.” by [@realkimhansen](http://twitter.com/realkimhansen)[[medium.com]](https://medium.com/matter-driven-narrative/signl-fm-on-making-a-social-media-interface-for-podcasts-9e1d16667f1) <= [@shanselman](http://twitter.com/shanselman)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") We Write CSS Like We Did in the 90s, and Yes, It’s Silly · An A List Apart Article [[alistapart.com]](http://alistapart.com/article/we-write-css-like-we-did-in-the-90s-and-yes-its-silly)
 
@@ -45,7 +45,7 @@
 
 [<img alt="John Arundel [bitfield]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bitfield.jpeg">](https://t.co/OfjPk1VNvq "John Arundel [bitfield]") "An AWS outage caused our website to be unavailable. So far, so straightforward, but there's one wrinkle: we don't… [[twitter.com]](https://twitter.com/i/web/status/973924754007699456)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure-Media-Services-Explorer [[t.co]](https://t.co/rONwZaliLu&lt;=)[@mingfeiy](http://twitter.com/mingfeiy)[@Azure](http://twitter.com/Azure)[[twitter.com]](https://twitter.com/BryanWilhite/status/974459483974848513/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure-Media-Services-Explorer [[t.co]](https://t.co/rONwZaliLu<=)[@mingfeiy](http://twitter.com/mingfeiy)[@Azure](http://twitter.com/Azure)[[twitter.com]](https://twitter.com/BryanWilhite/status/974459483974848513/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Azure Storage for [@code](http://twitter.com/code): “Classic Storage Accounts not supported.”😔 [[marketplace.visualstudio.com]](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)[[twitter.com]](https://twitter.com/BryanWilhite/status/974460769034108929/photo/1)
 
@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Functional Programming in C#: Map, Filter, and Reduce Your Way to Clean Code [[blog.submain.com]](https://blog.submain.com/csharp-functional-programming/) via [@SubMain](http://twitter.com/SubMain)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Semaphore and SemaphoreSlim [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/standard/threading/semaphore-and-semaphoreslim) &lt;= [@shanselman](http://twitter.com/shanselman)[@csharpfritz](http://twitter.com/csharpfritz)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Semaphore and SemaphoreSlim [[docs.microsoft.com]](https://docs.microsoft.com/en-us/dotnet/standard/threading/semaphore-and-semaphoreslim) <= [@shanselman](http://twitter.com/shanselman)[@csharpfritz](http://twitter.com/csharpfritz)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/a-BOSpxYJ9M?a) GOTO 2015 • Agile is Dead • Pragmatic Dave Thomas
 
@@ -95,7 +95,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@taraw](http://twitter.com/taraw)[@PacktPub](http://twitter.com/PacktPub) I had plans to do much of the work Jupyter can do in Mathematica notebooks. Really looking forward… [[twitter.com]](https://twitter.com/i/web/status/973234848314802176)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ah, the Oracle-Microsoft relationship in the .NET space: the gift that keeps on giving =&gt; [[stackoverflow.com]](https://stackoverflow.com/questions/3866275/why-am-i-getting-an-ora-01722-invalid-number)[[twitter.com]](https://twitter.com/BryanWilhite/status/974068960164327424/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ah, the Oracle-Microsoft relationship in the .NET space: the gift that keeps on giving => [[stackoverflow.com]](https://stackoverflow.com/questions/3866275/why-am-i-getting-an-ora-01722-invalid-number)[[twitter.com]](https://twitter.com/BryanWilhite/status/974068960164327424/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Samsung Electronics UN49MU7500 Curved 49-Inch 4K Ultra HD Smart LED TV (2017 Model) [[amazon.com]](https://www.amazon.com/Samsung-Electronics-UN49MU7500-Curved-49-Inch/dp/B06XGD4DBW?psc=1&SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06XGD4DBW)[[twitter.com]](https://twitter.com/BryanWilhite/status/974060932925071360/photo/1)
 

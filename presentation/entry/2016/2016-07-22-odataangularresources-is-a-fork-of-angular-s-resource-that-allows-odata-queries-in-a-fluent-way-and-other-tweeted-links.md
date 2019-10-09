@@ -41,7 +41,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Error Unable to resolve dependencies. 'Microsoft.ApplicationInsights 2.0.1' is not compatible with…” [[social.msdn.microsoft.com]](https://social.msdn.microsoft.com/Forums/en-US/21e6237a-c798-4cff-a156-6fa7be1bca6a/difficulty-upgrading-to-20?forum=ApplicationInsights)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") okay computer: Autofac.Mef &gt;3.0.3 is incompatible with Autofac.Extras.Attributed -is this due to obsolescence? [@autofac](http://twitter.com/autofac)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") okay computer: Autofac.Mef >3.0.3 is incompatible with Autofac.Extras.Attributed -is this due to obsolescence? [@autofac](http://twitter.com/autofac)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@shanselman](http://twitter.com/shanselman) has been doing this for years: `how to make gifs using vlc media player and gimp`[[sky-stealer.tumblr.com]](http://sky-stealer.tumblr.com/post/23440323246/how-to-make-gifs-using-vlc-media-player-and-gimp)
 

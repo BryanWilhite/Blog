@@ -47,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@MAGIX](http://twitter.com/MAGIX) Sound Forge Pro 11 inherits a nasty bug from [@Sony](http://twitter.com/Sony)[[songhayblog.azurewebsites.net]](http://songhayblog.azurewebsites.net/entry/magix-sound-forge-pro-11-inherits-a-nasty-bug-from-sony)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computational Audio [document your audio edits with [@WolframResearch](http://twitter.com/WolframResearch)!] [[ow.ly]](http://ow.ly/RabB305RTq4)[@ShadiAshnai](http://twitter.com/ShadiAshnai) =&gt; [@megafunkmega](http://twitter.com/megafunkmega), [@carlfranklin](http://twitter.com/carlfranklin)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Computational Audio [document your audio edits with [@WolframResearch](http://twitter.com/WolframResearch)!] [[ow.ly]](http://ow.ly/RabB305RTq4)[@ShadiAshnai](http://twitter.com/ShadiAshnai) => [@megafunkmega](http://twitter.com/megafunkmega), [@carlfranklin](http://twitter.com/carlfranklin)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") equation solving - Stop Mathematica from giving imaginary solutions - [@Mathematica](http://twitter.com/Mathematica) Stack Exchange [[ow.ly]](http://ow.ly/XIfZ305J1WF)
 
@@ -107,6 +107,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Tech firms shell out to hire and hoard talent [[ow.ly]](http://ow.ly/9Oja305PU1I)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask a Female Engineer: Employees with Kids and Relationships at Work [[ow.ly]](http://ow.ly/JoYU305BWU4) =&gt; [@iAyori](http://twitter.com/iAyori)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Ask a Female Engineer: Employees with Kids and Relationships at Work [[ow.ly]](http://ow.ly/JoYU305BWU4) => [@iAyori](http://twitter.com/iAyori)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

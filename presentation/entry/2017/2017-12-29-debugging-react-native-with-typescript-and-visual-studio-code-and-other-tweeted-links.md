@@ -29,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") angular.io: By using :host we can modify the style while loading the component [[stackoverflow.com]](https://stackoverflow.com/questions/40017615/angular-2-styling-router-outlet-to-have-width-100) [:host(test-selector)]
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") More CSS Charts, with Grid &amp; Custom Properties [[css-tricks.com]](https://css-tricks.com/css-charts-grid-custom-properties/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") More CSS Charts, with Grid & Custom Properties [[css-tricks.com]](https://css-tricks.com/css-charts-grid-custom-properties/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 40 Excellent SVG Tools and Dozens of Icon Sets [[noupe.com]](https://www.noupe.com/essentials/40-excellent-svg-tools-and-dozens-of-icon-sets.html)
 
@@ -43,7 +43,7 @@
 
 [<img alt="Mike_BeastCode🇸🇪 [Mike_BeastCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Mike_BeastCode.jpg">](https://t.co/yO3kM4a5mM "Mike_BeastCode🇸🇪 [Mike_BeastCode]") Don't you wish that you could rerun just affected tests with: npm run e2e:affected ... now you can! Check out… [[twitter.com]](https://twitter.com/i/web/status/946256256078979073)
 
-[<img alt="Matt Smith [AllThingsSmitty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AllThingsSmitty.jpg">](https://t.co/0cQ8eXScQt "Matt Smith [AllThingsSmitty]") ⚡️ Use [#CSS](http://twitter.com/search?q=%23CSS) attribute selectors to display links when &lt;a&gt; has no text value but the `href` has a link. 🙏🏻 [#FrontEnd](http://twitter.com/search?q=%23FrontEnd)… [[twitter.com]](https://twitter.com/i/web/status/946381631836901377)
+[<img alt="Matt Smith [AllThingsSmitty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/AllThingsSmitty.jpg">](https://t.co/0cQ8eXScQt "Matt Smith [AllThingsSmitty]") ⚡️ Use [#CSS](http://twitter.com/search?q=%23CSS) attribute selectors to display links when `<a>` has no text value but the `href` has a link. 🙏🏻 [#FrontEnd](http://twitter.com/search?q=%23FrontEnd)… [[twitter.com]](https://twitter.com/i/web/status/946381631836901377)
 
 [<img alt="CSS-Tricks [Real_CSS_Tricks]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Real_CSS_Tricks.jpeg">](http://t.co/MPUasUSEx1 "CSS-Tricks [Real_CSS_Tricks]") 11 Things I Learned Reading the CSS Grid Specification :: [[medium.freecodecamp.org]](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0) (Gets into some interesting thin… [[twitter.com]](https://twitter.com/i/web/status/944975979755327489)
 
@@ -61,7 +61,7 @@
 
 [<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]") We just released the 1st preview of the next update to [#VS2017](http://twitter.com/search?q=%23VS2017) version 15.6. See what's new and then don't forget t… [[twitter.com]](https://twitter.com/i/web/status/938876272670859264)
 
-[<img alt="Shubheksha 👩🏽‍💻 [ScribblingOn]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ScribblingOn.jpg">](https://t.co/po3r9GlS0z "Shubheksha 👩🏽‍💻 [ScribblingOn]") Installed this [@code](http://twitter.com/code) extension that colourizes matching sets of parens and crying thinking of all time I wasted &amp; h… [[twitter.com]](https://twitter.com/i/web/status/946036000265986049)
+[<img alt="Shubheksha 👩🏽‍💻 [ScribblingOn]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ScribblingOn.jpg">](https://t.co/po3r9GlS0z "Shubheksha 👩🏽‍💻 [ScribblingOn]") Installed this [@code](http://twitter.com/code) extension that colourizes matching sets of parens and crying thinking of all time I wasted & h… [[twitter.com]](https://twitter.com/i/web/status/946036000265986049)
 
 [<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://t.co/Z9qRiMlDWh "Gregory S Bledsoe [geek_king]") DevOps is merging with IT. There will be no IT that isn't DevOps. The power of DevOps will be simultaneously captured and lost.
 
@@ -85,7 +85,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") I liked a [@YouTube](http://twitter.com/YouTube) video [[youtu.be]](http://youtu.be/624S9ly09Xk?a) GOTO 2017 • A Practical Guide to Cybercrime • Richard Clayton
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 &amp; Amazon Glacier, with (STG304) [[youtube.com]](https://www.youtube.com/watch?v=QZpLNgFEWBo) » [@megafunkmega](http://twitter.com/megafunkmega), [@taraw](http://twitter.com/taraw)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") AWS re:Invent 2017: Deep Dive on Data Archiving in Amazon S3 & Amazon Glacier, with (STG304) [[youtube.com]](https://www.youtube.com/watch?v=QZpLNgFEWBo) » [@megafunkmega](http://twitter.com/megafunkmega), [@taraw](http://twitter.com/taraw)
 
 [<img alt="Tara [taraw]" src="https://songhay.blob.core.windows.net/shared-social-twitter/taraw.jpeg">](http://t.co/4HS7ZMeZq4 "Tara [taraw]") Wow...just saw some session feedback with the assumption of me NOT being an [#Engineer](http://twitter.com/search?q=%23Engineer) but that guy next to me WAS a… [[twitter.com]](https://twitter.com/i/web/status/939419349235924992)
 

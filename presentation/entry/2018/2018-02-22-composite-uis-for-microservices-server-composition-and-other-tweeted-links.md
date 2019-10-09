@@ -31,9 +31,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") An introduction to Azure Web Apps on Linux - Simple Talk [[red-gate.com]](https://www.red-gate.com/simple-talk/cloud/platform-as-a-service/introduction-azure-web-apps-linux/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ApiController =&gt; Controller IHttpActionResult =&gt; IActionResult ResponseType !=&gt; ProducesResponseType
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") ApiController => Controller IHttpActionResult => IActionResult ResponseType !=> ProducesResponseType
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RoutePrefix =&gt; Route
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") RoutePrefix => Route
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Claims-Based Authorization | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]") Did you know that every element of a test in [#MSTestV2](http://twitter.com/search?q=%23MSTestV2) can be extended. [[twitter.com]](https://twitter.com/pvlakshm/status/965590175731482626/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet Gallery | Microsoft.NETCore.TestHost 2.0.5 [[nuget.org]](https://www.nuget.org/packages/Microsoft.NETCore.TestHost/) [what is this used for?] &lt;= [@pvlakshm](http://twitter.com/pvlakshm)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuGet Gallery | Microsoft.NETCore.TestHost 2.0.5 [[nuget.org]](https://www.nuget.org/packages/Microsoft.NETCore.TestHost/) [what is this used for?] <= [@pvlakshm](http://twitter.com/pvlakshm)
 
 [<img alt="Pratap Lakshman [pvlakshm]" src="https://songhay.blob.core.windows.net/shared-social-twitter/pvlakshm.jpeg">]( "Pratap Lakshman [pvlakshm]")[@BryanWilhite](http://twitter.com/BryanWilhite) Please see here: [[github.com]](https://github.com/Microsoft/vstest-docs/blob/master/RFCs/0001-Test-Platform-Architecture.md).
 
@@ -65,7 +65,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Comparison of Four Algorithms Textbooks (2016) [[porgionesanke.wordpress.com]](https://porgionesanke.wordpress.com/2016/07/11/a-comparison-of-four-algorithms-textbooks/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why won't .Any() return false for a null set? =&gt; [@ericlippert](http://twitter.com/ericlippert), [@raboof](http://twitter.com/raboof)[[twitter.com]](https://twitter.com/BryanWilhite/status/965765814065377281/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Why won't .Any() return false for a null set? => [@ericlippert](http://twitter.com/ericlippert), [@raboof](http://twitter.com/raboof)[[twitter.com]](https://twitter.com/BryanWilhite/status/965765814065377281/photo/1)
 
 [<img alt="Eric Lippert [ericlippert]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ericlippert.jpeg">](http://t.co/Ey5NYAHA "Eric Lippert [ericlippert]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@raboof](http://twitter.com/raboof) Null is not an empty sequence, and code which treats null as an empty sequence is wrong. All… [[twitter.com]](https://twitter.com/i/web/status/965990785664495616)
 
@@ -73,7 +73,7 @@
 
 [<img alt="Eric Lippert [ericlippert]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ericlippert.jpeg">](http://t.co/Ey5NYAHA "Eric Lippert [ericlippert]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@raboof](http://twitter.com/raboof) I'm saying that it is wrong to represent an empty sequence with a null reference. I don't kno… [[twitter.com]](https://twitter.com/i/web/status/966025980782379008)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Yes, I think we both would prefer to work with Enumerable.Empty&lt;T&gt;() rather than null. But I d… [[twitter.com]](https://twitter.com/i/web/status/966035498983555072)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Yes, I think we both would prefer to work with `Enumerable.Empty<T>()` rather than null. But I d… [[twitter.com]](https://twitter.com/i/web/status/966035498983555072)
 
 [<img alt="mjwills [mjwills]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mjwills.jpg">](https://t.co/DOLBZUvjfD "mjwills [mjwills]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@ericlippert](http://twitter.com/ericlippert)[@raboof](http://twitter.com/raboof) Could you write your own 'NullOrAny' extension method?
 

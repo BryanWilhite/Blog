@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “With .NET 4.5 we have got concurrent garbage collection” [#wpf](http://twitter.com/search?q=%23wpf)[[geekswithblogs.net]](http://geekswithblogs.net/akraus1/archive/2016/04/14/174476.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “there doesn't appear to be a roadmap that we can peek at (not that I could find)” [@ayende](http://twitter.com/ayende) =&gt; [@shanselman](http://twitter.com/shanselman)[[ayende.com]](https://ayende.com/blog/173825/dazed-and-confused-the-state-of-the-core?Key=a8218e40-c605-4b39-8fa3-8de319bb862f)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “there doesn't appear to be a roadmap that we can peek at (not that I could find)” [@ayende](http://twitter.com/ayende) => [@shanselman](http://twitter.com/shanselman)[[ayende.com]](https://ayende.com/blog/173825/dazed-and-confused-the-state-of-the-core?Key=a8218e40-c605-4b39-8fa3-8de319bb862f)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “TrivialDB is a lightweight key/value json storage with persistence.” [#lodash](http://twitter.com/search?q=%23lodash)[[github.com]](https://github.com/Morgul/trivialdb)
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-07-06-behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Behind the Illusions - Impossibly High-Performance Layout Animations https://t.co/D8hPKmAXG7 Easy navigation between #aspnetcore Razor Page cshtml &amp; associated Page Model C# file via F7 keypress is now live i… https://t.co/YDtc01FpU3 Web Assembly... ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Behind the Illusions - Impossibly High-Performance Layout Animations https://t.co/D8hPKmAXG7 Easy navigation between #aspnetcore Razor Page cshtml & associated Page Model C# file via F7 keypress is now live i… https://t.co/YDtc01FpU3 Web Assembly... ...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.jpg">](https://t.co/AqIi91NbiM "Jonathan Torke [JonathanTorke]") Behind the Illusions - Impossibly High-Performance Layout Animations [https://t.co/D8hPKmAXG7](https://t.co/D8hPKmAXG7)
 
-[<img alt="Damian Edwards ⌚🥃👟💕 [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards ⌚🥃👟💕 [DamianEdwards]") Easy navigation between [#aspnetcore](http://twitter.com/search?q=%23aspnetcore) Razor Page cshtml &amp; associated Page Model C# file via F7 keypress is now live i… [https://t.co/YDtc01FpU3](https://t.co/YDtc01FpU3)
+[<img alt="Damian Edwards ⌚🥃👟💕 [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards ⌚🥃👟💕 [DamianEdwards]") Easy navigation between [#aspnetcore](http://twitter.com/search?q=%23aspnetcore) Razor Page cshtml & associated Page Model C# file via F7 keypress is now live i… [https://t.co/YDtc01FpU3](https://t.co/YDtc01FpU3)
 
 [<img alt="James Montemagno 🙈 [JamesMontemagno]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JamesMontemagno.jpg">](https://t.co/5USXLfbaf4 "James Montemagno 🙈 [JamesMontemagno]") Web Assembly... The new Silverlight that isn't like Silverlight at all and is a standard to run .NET and more in th… [https://t.co/AS3djNjyRx](https://t.co/AS3djNjyRx)
 
@@ -47,7 +47,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@DamianEdwards](http://twitter.com/DamianEdwards) can roll out of bed and know within seconds what is wrong with this IApplicationBuilder configurati… [https://t.co/Z0zxOoR2xr](https://t.co/Z0zxOoR2xr)
 
-[<img alt="Damian Edwards ⌚🥃👟💕 [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards ⌚🥃👟💕 [DamianEdwards]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@filip_woj](http://twitter.com/filip_woj)[@csharpfritz](http://twitter.com/csharpfritz) Try UseFileServer instead of UseStaticFiles &amp; UseDefaultFiles
+[<img alt="Damian Edwards ⌚🥃👟💕 [DamianEdwards]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DamianEdwards.jpg">](https://t.co/u0gR39330K "Damian Edwards ⌚🥃👟💕 [DamianEdwards]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@filip_woj](http://twitter.com/filip_woj)[@csharpfritz](http://twitter.com/csharpfritz) Try UseFileServer instead of UseStaticFiles & UseDefaultFiles
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Next Generation API-first CMS Create your content with powerful editing tools and access it from anywhere with a G… [https://t.co/8seiAA51Sb](https://t.co/8seiAA51Sb)
 
@@ -55,7 +55,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@isaac_abraham](http://twitter.com/isaac_abraham)[@_cartermp](http://twitter.com/_cartermp)[@selketjah](http://twitter.com/selketjah) And, yes, PMing (Pattern Matching) feels like it is way, way more than just th… [https://t.co/T4P1UhH9az](https://t.co/T4P1UhH9az)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “8 engineers is still the average sized team at [@awscloud](http://twitter.com/awscloud)” [https://t.co/ItRJb04Cam](https://t.co/ItRJb04Cam) &lt;= [@taraw](http://twitter.com/taraw)[https://t.co/yVXLDPVTvc](https://t.co/yVXLDPVTvc)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “8 engineers is still the average sized team at [@awscloud](http://twitter.com/awscloud)” [https://t.co/ItRJb04Cam](https://t.co/ItRJb04Cam) <= [@taraw](http://twitter.com/taraw)[https://t.co/yVXLDPVTvc](https://t.co/yVXLDPVTvc)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@davidfowl](http://twitter.com/davidfowl)[@code](http://twitter.com/code) just curious about what [@code](http://twitter.com/code) extensions you use, man; i just ran across this and got curious: [https://t.co/z0wQzXxRcq](https://t.co/z0wQzXxRcq)
 

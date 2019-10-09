@@ -61,7 +61,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Migrating a Virtual Machine from VMWare Workstation to Hyper-V [[blendmaster.net]](http://www.blendmaster.net/blog/2012/10/migrating-virtual-machine-from-vmware-workstation-to-hyper-v/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Toggling between Windows hyper-v &amp; VirtualBox [with bcdedit] [[kspviswa.wordpress.com]](https://kspviswa.wordpress.com/2016/04/09/toggling-between-windows-hyper-v-virtualbox/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Toggling between Windows hyper-v & VirtualBox [with bcdedit] [[kspviswa.wordpress.com]](https://kspviswa.wordpress.com/2016/04/09/toggling-between-windows-hyper-v-virtualbox/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") BCDEdit Command-Line Options [[technet.microsoft.com]](https://technet.microsoft.com/en-us/library/cc709667(v=ws.10).aspx)
 
@@ -103,7 +103,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Apple has begun to stop selling iTunes downloads [[shortlist.com]](http://www.shortlist.com/tech/apple-has-begun-to-stop-selling-downloads-on-itunes?galleryImage=2#gallery-2) via [@ShortList](http://twitter.com/ShortList)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") we need [@maryjofoley](http://twitter.com/maryjofoley) to get the numbers to compare Apple watch to the entire Windows mobile business =&gt; [@thurrott](http://twitter.com/thurrott), [@bdsams](http://twitter.com/bdsams)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") we need [@maryjofoley](http://twitter.com/maryjofoley) to get the numbers to compare Apple watch to the entire Windows mobile business => [@thurrott](http://twitter.com/thurrott), [@bdsams](http://twitter.com/bdsams)
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://t.co/qJf6Vbi9nq "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) think that's above my abilities. MS is doing pretty well on hiding its mobile/device numbers right now
 

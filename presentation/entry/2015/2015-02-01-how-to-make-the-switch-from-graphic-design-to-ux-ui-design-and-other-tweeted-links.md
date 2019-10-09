@@ -69,7 +69,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Combating the lava-layer anti-pattern with rolling refactoring | Jimmy Bogard's Blog [[lostechies.com]](https://lostechies.com/jimmybogard/2015/01/15/combating-the-lava-layer-anti-pattern-with-rolling-refactoring/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Fun with [[asp.net]](http://www.asp.net/) 5, Linux &amp; Docker [[blog.markrendle.net]](http://blog.markrendle.net/fun-with-asp-net-5-and-docker/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Fun with [[asp.net]](http://www.asp.net/) 5, Linux & Docker [[blog.markrendle.net]](http://blog.markrendle.net/fun-with-asp-net-5-and-docker/)
 
 [<img alt="S. Somasegar [SSomasegar]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SSomasegar.jpeg">](http://t.co/TUP2K5657h "S. Somasegar [SSomasegar]") Visual Studio is now part of Github Student Developer Pack [@GitHubEducation](http://twitter.com/GitHubEducation)[@MS_DreamSpark](http://twitter.com/MS_DreamSpark)[[blogs.msdn.com]](http://blogs.msdn.com/b/somasegar/archive/2015/01/12/microsoft-github-free-tools-for-student-developers.aspx)
 

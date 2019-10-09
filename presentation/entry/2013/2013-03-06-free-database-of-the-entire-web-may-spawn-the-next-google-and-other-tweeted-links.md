@@ -67,7 +67,7 @@
 
 [<img alt="Richard Seroter [rseroter]" src="https://songhay.blob.core.windows.net/shared-social-twitter/rseroter.png">](http://seroter.wordpress.com "Richard Seroter [rseroter]") <span>Cool breakdown of the Amazon website's fast, intelligent dropdown menu. Wish others did this! [http://t.co/talkDLXMZn](http://t.co/talkDLXMZn)</span>
 
-[<img alt="Dave Winer ☮ [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpeg">](http://davewiner.com/ "Dave Winer ☮ [davewiner]") <span>HTML/CSS Transitions &amp; Animations. [http://t.co/P1GdGIXY](http://t.co/P1GdGIXY)</span>
+[<img alt="Dave Winer ☮ [davewiner]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davewiner.jpeg">](http://davewiner.com/ "Dave Winer ☮ [davewiner]") <span>HTML/CSS Transitions & Animations. [http://t.co/P1GdGIXY](http://t.co/P1GdGIXY)</span>
 
 [<img alt="Kirupa Chinnathambi [kirupa]" src="https://songhay.blob.core.windows.net/shared-social-twitter/kirupa.png">](http://www.kirupa.com "Kirupa Chinnathambi [kirupa]") <span>Learn all about how to work with [#CSS](http://search.twitter.com/search?q=%23CSS) animations: [http://t.co/K7gvGXhT](http://t.co/K7gvGXhT) [#html5](http://search.twitter.com/search?q=%23html5) [#webdev](http://search.twitter.com/search?q=%23webdev)</span>
 

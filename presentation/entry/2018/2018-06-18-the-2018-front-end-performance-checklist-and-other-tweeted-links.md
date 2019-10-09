@@ -71,7 +71,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Advanced Algorithms (COMPSCI 224), Lecture 1 [[youtu.be]](https://youtu.be/0JUN9aDxVmI)[@minilek](http://twitter.com/minilek)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Auto-magically convert C# classes into yUML? [#35](http://twitter.com/search?q=%2335)[[t.co]](https://t.co/wGyJAVYeJ1&lt;=)[@jaime_olivaresf](http://twitter.com/jaime_olivaresf)[[twitter.com]](https://twitter.com/BryanWilhite/status/971941125664550912/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Auto-magically convert C# classes into yUML? [#35](http://twitter.com/search?q=%2335)[[t.co]](https://t.co/wGyJAVYeJ1<=)[@jaime_olivaresf](http://twitter.com/jaime_olivaresf)[[twitter.com]](https://twitter.com/BryanWilhite/status/971941125664550912/photo/1)
 
 [<img alt="Mark Anthony Neal [NewBlackMan]" src="https://songhay.blob.core.windows.net/shared-social-twitter/NewBlackMan.jpg">](https://t.co/33onarwPN1 "Mark Anthony Neal [NewBlackMan]") The End of Owning Music: How CDs and Downloads Died [[rol.st]](https://rol.st/2sWOx9Q) via [@RollingStone](http://twitter.com/RollingStone)
 
@@ -97,9 +97,9 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") from [@leolaporte](http://twitter.com/leolaporte): Femtocell [[en.wikipedia.org]](https://en.wikipedia.org/wiki/Femtocell)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bestselling Wilson Electronics (weBoost) Home &amp; Office Booster Kits [[wilsonamplifiers.com]](https://www.wilsonamplifiers.com/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bestselling Wilson Electronics (weBoost) Home & Office Booster Kits [[wilsonamplifiers.com]](https://www.wilsonamplifiers.com/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Universal Audio Arrow Audio Interface Review [[youtu.be]](https://youtu.be/YGB4KAx00Dw) =&gt; [@megafunkmega](http://twitter.com/megafunkmega)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Universal Audio Arrow Audio Interface Review [[youtu.be]](https://youtu.be/YGB4KAx00Dw) => [@megafunkmega](http://twitter.com/megafunkmega)
 
 [<img alt="Scott B. Weingart 🤹 [scott_bot]" src="https://songhay.blob.core.windows.net/shared-social-twitter/scott_bot.jpeg">](https://t.co/mGRjaTqbbT "Scott B. Weingart 🤹 [scott_bot]") Well this is surreal. I'm reading an article on social network analysis that calculates someone's morale based on t… [[twitter.com]](https://twitter.com/i/web/status/967250322887503872)
 

@@ -25,7 +25,7 @@
 
 [<img alt="Visual Studio Code [code]" src="https://songhay.blob.core.windows.net/shared-social-twitter/code.png">](http://t.co/MKVKzC9vu1 "Visual Studio Code [code]") We just shipped June with lots of new stuff! Rel Notes: [[code.visualstudio.com]](https://code.visualstudio.com/Updates). Download: [[code.visualstudio.com]](https://code.visualstudio.com/Download)[[twitter.com]](http://twitter.com/code/status/751181199372984320/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment =&gt; [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") currently under the impression that [@Azure](http://twitter.com/Azure) search is going to allow me to avoid Redis for the moment => [@chaosrealm4](http://twitter.com/chaosrealm4) does search use Redis?
 
 [<img alt="Eugene Shvets [chaosrealm4]" src="https://songhay.blob.core.windows.net/shared-social-twitter/chaosrealm4.jpeg">]( "Eugene Shvets [chaosrealm4]")[@BryanWilhite](http://twitter.com/BryanWilhite)[@Azure](http://twitter.com/Azure) No, Azure Search doesn't use Redis. However, some of our big customers w/heavy search loads front search with Redis
 
