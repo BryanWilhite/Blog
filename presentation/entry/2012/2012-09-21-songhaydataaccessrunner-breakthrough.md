@@ -55,7 +55,7 @@ It is the responsibility of the ResolveEventHandler for this event to return the
 For me, after over 15 years of .NET, this is the first event I’ve encountered that actually has a return value. Here’s a snippet that’s kind of cool to me right about now:
 
 ```c#
-AppDomain.CurrentDomain.AssemblyResolve += (s, e) =&gt;
+AppDomain.CurrentDomain.AssemblyResolve += (s, e) =>
 {
     if(assemblyDictionary == null) return null;
     if(configItem.DarConfigurationItemNameValuePairs == null) return null;
@@ -67,15 +67,15 @@ AppDomain.CurrentDomain.AssemblyResolve += (s, e) =&gt;
 };
 ```
 
-My `assemblyDictionary` object is my data-centric style in play. This object is a `Dictionary&lt;string, Assembly&gt;` that is loaded by DAR like this:
+My `assemblyDictionary` object is my data-centric style in play. This object is a `Dictionary<string, Assembly>` that is loaded by DAR like this:
 
 ```c#
 if(configItem.DarConfigurationItemNameValuePairs != null)
 {
-    assemblyDictionary = new Dictionary&lt;string,Assembly&gt;();
+    assemblyDictionary = new Dictionary<string,Assembly>();
     configItem.DarConfigurationItemNameValuePairs
-        .Where(i =&gt; i.Name.StartsWith("DependencyLoadFile"))
-        .ForEachInEnumerable(i =&gt;
+        .Where(i => i.Name.StartsWith("DependencyLoadFile"))
+        .ForEachInEnumerable(i =>
         {
             Console.WriteLine(string.Format("Trying to load dependency {0}...", i.Value));
             var dll = Assembly.LoadFile(i.Value);

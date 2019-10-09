@@ -27,7 +27,7 @@ This violation of DRY is, to me, due to the fact that the `ControlTemplate` cann
 
 * Any Visual State Manager `Storyboard` elements cannot be shared with the `StaticResource` markup extension (and Silverlight does not support `DynamicResource`).
 * The `vsm:VisualStateManager.VisualStateGroups` element cannot be shared in a `Style` (even though you can see `Setter Property="vsm:VisualState…"` in IntelliSense).
-* I thought declaring `&lt;Grid VisualStateManager.CustomVisualStateManager …&gt;` would help but nothing came from this.
+* I thought declaring `<Grid VisualStateManager.CustomVisualStateManager …>` would help but nothing came from this.
 
 What’s long-term educational about this unpleasantness is using this experience to really, *really* learn about the differences among `Control`, `ControlTemplate`, `ContentControl` and `ContentPresenter`. So as of this morning I understand that:
 

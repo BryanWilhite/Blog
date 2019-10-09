@@ -27,7 +27,7 @@
 
 [<img alt="The Verge [verge]" src="https://songhay.blob.core.windows.net/shared-social-twitter/verge.png">](http://t.co/W2SFxJeVK8 "The Verge [verge]") A new font based on Einstein's handwriting is being developed [[theverge.com]](http://www.theverge.com/2015/5/5/8553603/a-new-font-based-on-einsteins-handwriting-is-being-developed?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)[[twitter.com]](https://twitter.com/verge/status/595668878681845761/photo/1)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") OVF =&gt; How To Convert Virtual Machines Between VirtualBox and VMware [[howtogeek.com]](http://www.howtogeek.com/125640/how-to-convert-virtual-machines-between-virtualbox-and-vmware/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") OVF => How To Convert Virtual Machines Between VirtualBox and VMware [[howtogeek.com]](http://www.howtogeek.com/125640/how-to-convert-virtual-machines-between-virtualbox-and-vmware/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Virtualization Wars: VMware vs. Hyper V: Which is Right For Your Virtual Environment? [@blakejeckel](http://twitter.com/blakejeckel)[[storagecraft.com]](http://www.storagecraft.com/blog/virtualization-wars-vmware-vs-hyper-v-which-is-right-for-your-virtual-environment/)
 

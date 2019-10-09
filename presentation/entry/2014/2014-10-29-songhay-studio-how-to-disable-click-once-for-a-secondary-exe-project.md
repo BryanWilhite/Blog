@@ -35,10 +35,10 @@ A secondary EXE project is causing the error. In Visual Studio its `*.csproj` fi
 
 Under Project Properties:
 
-* Select **Application &gt; Icon and manifest &gt; Manifest:** Create application without a manifest
-* Select **Publish &gt; Install Mode and Settings &gt; The application is available online only**
-* Deselect **Publish &gt; Options… &gt; Deployment &gt; Open deployment web page after publish**
-* Deselect **Publish &gt; Options… &gt; Deployment &gt; Use ".deploy" file extension**
+* Select **Application > Icon and manifest > Manifest:** Create application without a manifest
+* Select **Publish > Install Mode and Settings > The application is available online only**
+* Deselect **Publish > Options… > Deployment > Open deployment web page after publish**
+* Deselect **Publish > Options… > Deployment > Use ".deploy" file extension**
 
 Disable any other Deployment Publish Options.
 

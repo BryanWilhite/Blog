@@ -1,7 +1,7 @@
 ---json
 {
   "documentId": 0,
-  "title": "“Aurelia Q&amp;A” and other Tweeted Links…",
+  "title": "“Aurelia Q&A” and other Tweeted Links…",
   "documentShortName": "2015-02-11-aurelia-q-amp-a-and-other-tweeted-links",
   "fileName": "index.html",
   "path": "./entry/2015-02-11-aurelia-qanda-and-other-tweeted-links",
@@ -13,15 +13,15 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-02-11-aurelia-q-amp-a-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Aurelia Q&amp;A [eisenbergeffect.bluespire.com]        he left the #AngularJS team to build #Aurelia, @EisenbergEffect =&gt; @DotNetRocksShow[dotnetrocks.com]        Smooth Scrolling without jQuery - [coderwall.com]        Ways and Advantages of Migratin...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Aurelia Q&A [eisenbergeffect.bluespire.com]        he left the #AngularJS team to build #Aurelia, @EisenbergEffect => @DotNetRocksShow[dotnetrocks.com]        Smooth Scrolling without jQuery - [coderwall.com]        Ways and Advantages of Migratin...\"\r\n}"
 }
 ---
 
-# “Aurelia Q&amp;A” and other Tweeted Links…
+# “Aurelia Q&A” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia Q&amp;A [[eisenbergeffect.bluespire.com]](http://eisenbergeffect.bluespire.com/aurelia-qa/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Aurelia Q&A [[eisenbergeffect.bluespire.com]](http://eisenbergeffect.bluespire.com/aurelia-qa/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") he left the [#AngularJS](http://search.twitter.com/search?q=%23AngularJS) team to build [#Aurelia](http://search.twitter.com/search?q=%23Aurelia), [@EisenbergEffect](http://twitter.com/EisenbergEffect) =&gt; [@DotNetRocksShow](http://twitter.com/DotNetRocksShow)[[dotnetrocks.com]](https://www.dotnetrocks.com/default.aspx?showNum=1097)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") he left the [#AngularJS](http://search.twitter.com/search?q=%23AngularJS) team to build [#Aurelia](http://search.twitter.com/search?q=%23Aurelia), [@EisenbergEffect](http://twitter.com/EisenbergEffect) => [@DotNetRocksShow](http://twitter.com/DotNetRocksShow)[[dotnetrocks.com]](https://www.dotnetrocks.com/default.aspx?showNum=1097)
 
 [<img alt="Jonathan Torke [JonathanTorke]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JonathanTorke.png">](http://t.co/os5uqU3MvE "Jonathan Torke [JonathanTorke]") Smooth Scrolling without jQuery - [[coderwall.com]](https://coderwall.com/p/hujlhg/smooth-scrolling-without-jquery)
 

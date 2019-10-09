@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-11-05-term-rewriting-in-javascript-for-fun-and-world-domination-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Term-Rewriting in JavaScript for Fun and World Domination - YouTube https://t.co/8uixcSgrDP (@shanselman, @davidfowl) =&gt; @lorentzframe  Have the Angular Team lost their marbles? http://t.co/JPJpjXj91v  Will Google Fonts Ever Be Shut Down? → http://t.c...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Term-Rewriting in JavaScript for Fun and World Domination - YouTube <https://t.co/8uixcSgrDP> (@shanselman, @davidfowl) => @lorentzframe  Have the Angular Team lost their marbles? <http://t.co/JPJpjXj91v>  Will Google Fonts Ever Be Shut Down? →...\"\r\n}"
 }
 ---
 
 # “Term-Rewriting in JavaScript for Fun and World Domination” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Term-Rewriting in JavaScript for Fun and World Domination - YouTube [https://t.co/8uixcSgrDP](https://t.co/8uixcSgrDP) ([@shanselman](http://twitter.com/shanselman), [@davidfowl](http://twitter.com/davidfowl)) =&gt; [@lorentzframe](http://twitter.com/lorentzframe)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Term-Rewriting in JavaScript for Fun and World Domination - YouTube [https://t.co/8uixcSgrDP](https://t.co/8uixcSgrDP) ([@shanselman](http://twitter.com/shanselman), [@davidfowl](http://twitter.com/davidfowl)) => [@lorentzframe](http://twitter.com/lorentzframe)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Have the Angular Team lost their marbles? [http://t.co/JPJpjXj91v](http://t.co/JPJpjXj91v)</span>
 

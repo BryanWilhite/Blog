@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-05-21-angular-js-1-x-grouping-and-sorting-json-driven-sets-with-underscore-js",
-  "tag": "{\r\n  \"extract\": \"The Angular JS documentation on orderBy surprisingly has all the information I need to sort data. It even shows how the reverse argument can be assigned to a variable. This allowed me to write markup like this: &lt;div data-ng-repeat=\\\"i in groups | order...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"The Angular JS documentation on orderBy surprisingly has all the information I need to sort data. It even shows how the reverse argument can be assigned to a variable. This allowed me to write markup like this:\"\r\n}"
 }
 ---
 
@@ -21,7 +21,9 @@
 
 The [Angular JS documentation](https://docs.angularjs.org/api/ng/filter/orderBy) on `orderBy` surprisingly has all the information I need to sort data. It even shows how the `reverse` argument can be assigned to a variable. This allowed me to write markup like this:
 
-&lt;div data-ng-repeat="i in groups | orderBy: 'groupName' : vm.indexGroupingSelected.sortDescending "&gt;…&lt;/div&gt;
+```html
+<div data-ng-repeat="i in groups | orderBy: 'groupName' : vm.indexGroupingSelected.sortDescending ">…</div>
+```
 
 When I use the variable `vm`, I am conventionally telling myself (because I’m a Microsoft, *MVVM* guy) that I am using my Angular *View Model* in Controller Scope (`$scope.vm`). Since I would like to follow my conventions, it would make sense to have `data-ng-repeat="i in vm.groups… "` but I’ve found that Angular does not see “dotted” objects in `ng-repeat` (there may be some 1.x release after `1.2.6 taco-salsafication` that fixes this)—so I have no choice but to use `$scope.groups`.
 
@@ -47,11 +49,11 @@ I need to use `pairs()` and `map()`) because the Underscore `_.groupBy()` functi
 
 My two code blocks above use `$scope.vm.indexGroupingSelected`. My use of *Selected* in the name of this View Model property makes sense when we see this Angular declaration:
 
-&lt;select
+<select
     data-ng-change='vm.setGroups()'
     data-ng-model="vm.indexGroupingSelected"
-    data-ng-options="i as i.label for i in options"&gt;
-&lt;/select&gt;
+    data-ng-options="i as i.label for i in options">
+</select>
 
 Declaring `ng-model` in a `select` element binds the currently selected option in `$scope.options`. Again, I notice that I cannot use `$scope.vm.options`—I *have to* use `$scope.options`. In my Angular Controller, I fill my options like this:
 

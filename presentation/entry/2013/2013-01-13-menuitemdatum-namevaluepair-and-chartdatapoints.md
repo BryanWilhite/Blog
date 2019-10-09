@@ -23,14 +23,15 @@ I developed `MenuItemDatum`, `NameValuePair` and `ChartDataPoints` as common dat
 
 Here’s a sample `ClientMetadata` class:
 
-public class
-    ClientMetadata
-    {
-        public IEnumerable&lt;NameValuePair&gt; Attributes { get; set; }
-        public IEnumerable&lt;MenuItemDatum&gt; MainMenu { get; set; }
-        public IEnumerable&lt;MenuItemDatum&gt; Departments { get; set; }
-        public IEnumerable&lt;ChartDataPoints&gt; ChartsData { get; set; }
-    }
+```c#
+public class ClientMetadata
+{
+    public IEnumerable<NameValuePair> Attributes { get; set; }
+    public IEnumerable<MenuItemDatum> MainMenu { get; set; }
+    public IEnumerable<MenuItemDatum> Departments { get; set; }
+    public IEnumerable<ChartDataPoints> ChartsData { get; set; }
+}
+```
 
 A `ClientMetadata` object passed over “the wire” hydrates the `ClientViewModel` in my Silverlight applications. This class definition intends to imply that:
 
@@ -44,10 +45,10 @@ We must remember that in English (and Latin) the word *data* denotes plural and 
 
 ## Why convert a NameValuePair into a Dictionary? It’s a XAML thing…
 
-To me, this XAML binding is very unusual but very useful: `Text = "{Binding FieldNames[MyCustomFieldName]}"`. This binding declares that there is a property within `DataContext` called `FieldNames` with a key called `MyCustomFieldName`. This `FieldNames` property is a `Dictionary&lt;string, string&gt;`.
+To me, this XAML binding is very unusual but very useful: `Text = "{Binding FieldNames[MyCustomFieldName]}"`. This binding declares that there is a property within `DataContext` called `FieldNames` with a key called `MyCustomFieldName`. This `FieldNames` property is a `Dictionary<string, string>`.
 
-I continually have forgotten since the release of <acronym title="Windows Communication Foundation">WCF</acronym> in 2007 that `Dictionary&lt;TKey, TValue&gt;` cannot be sent over the wire. I assume without being informed that `KeyedCollection&lt;TKey, TItem&gt;` was developed to address this issue (poorly—[because](http://msdn.microsoft.com/en-us/library/ms132438.aspx) “…unlike dictionaries, an element of `KeyedCollection&lt;TKey, TItem&gt;` is not a key/value pair; instead, the entire element is the value and the key is embedded within the value.”).
+I continually have forgotten since the release of <acronym title="Windows Communication Foundation">WCF</acronym> in 2007 that `Dictionary<TKey, TValue>` cannot be sent over the wire. I assume without being informed that `KeyedCollection<TKey, TItem>` was developed to address this issue (poorly—[because](http://msdn.microsoft.com/en-us/library/ms132438.aspx) “…unlike dictionaries, an element of `KeyedCollection<TKey, TItem>` is not a key/value pair; instead, the entire element is the value and the key is embedded within the value.”).
 
-My Band-Aid is to convert a set of `NameValuePair` into `Dictionary&lt;string, string&gt;` with an extension method. This is one way to address the problem of RIA Services lack of support for serializing `Dictionary&lt;T&gt;`. Once we have a Dictionary it can be bound to directly—in <acronym title="Extensible Application Markup Language">XAML</acronym>.
+My Band-Aid is to convert a set of `NameValuePair` into `Dictionary<string, string>` with an extension method. This is one way to address the problem of RIA Services lack of support for serializing `Dictionary<T>`. Once we have a Dictionary it can be bound to directly—in <acronym title="Extensible Application Markup Language">XAML</acronym>.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

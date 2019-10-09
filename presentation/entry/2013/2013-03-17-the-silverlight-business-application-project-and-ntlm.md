@@ -27,58 +27,68 @@ One unexpected takeaway from these notes is the assertion that we cannot have NT
 
 In conventional Silverlight `App` constructor, state:
 
+```c#
 var webContext = new WebContext();
-    webContext.Authentication = new WindowsAuthentication();
-    this.ApplicationLifetimeObjects.Add(webContext);
+webContext.Authentication = new WindowsAuthentication();
+this.ApplicationLifetimeObjects.Add(webContext);
+```
 
 In `App.Startup`, state:
 
+```c#
 WebContext.Current.Authentication.LoadUser(
-        operation =&gt; Messenger.Default.Send(operation), null);
+        operation => Messenger.Default.Send(operation), null);
+```
 
 The MVVM Light Messenger expects this registration:
 
-Messenger.Default.Register&lt;LoadUserOperation&gt;(this,
-        operation =&gt;
-        {
-            if (operation.HasError) return; //TODO: handle LoadUser() error.
-            if (operation.User == null) return;
-            var user = WebContext.Current.Authentication.User;
-            this.CurrentUserName = user.Identity.GetWindowsUserName();
-        });
+```c#
+Messenger.Default.Register<LoadUserOperation>(this,
+    operation =>
+    {
+        if (operation.HasError) return; //TODO: handle LoadUser() error.
+        if (operation.User == null) return;
+        var user = WebContext.Current.Authentication.User;
+        this.CurrentUserName = user.Identity.GetWindowsUserName();
+    });
+```
 
 …where `Identity.GetWindowsUserName()` is from [a custom extension method](http://pastebin.com/hmmEMmpg).
 
 In the `system.web` node of `web.config`, declare:
 
-&lt;authorization&gt;
-        &lt;deny users="?"/&gt;
-    &lt;/authorization&gt;
+```xml
+<authorization>
+        <deny users="?"/>
+    </authorization>
 
-&lt;authentication mode="Windows" /&gt;
-    &lt;membership&gt;
-        &lt;providers&gt;
-            &lt;clear/&gt;
-        &lt;/providers&gt;
-    &lt;/membership&gt;
-    &lt;roleManager enabled="false"&gt;
-        &lt;providers&gt;
-            &lt;clear/&gt;
-        &lt;/providers&gt;
-    &lt;/roleManager&gt;
-    &lt;profile&gt;
-        &lt;providers&gt;
-            &lt;clear/&gt;
-            &lt;add name="AspNetSqlProfileProvider"
+<authentication mode="Windows" />
+    <membership>
+        <providers>
+            <clear/>
+        </providers>
+    </membership>
+    <roleManager enabled="false">
+        <providers>
+            <clear/>
+        </providers>
+    </roleManager>
+    <profile>
+        <providers>
+            <clear/>
+            <add name="AspNetSqlProfileProvider"
                 type="System.Web.Profile.SqlProfileProvider"
                  connectionStringName="ApplicationServices"
-                 applicationName="./" /&gt;
-        &lt;/providers&gt;
-    &lt;/profile&gt;
+                 applicationName="./" />
+        </providers>
+    </profile>
+```
 
 …where `connectionStringName="ApplicationServices"` refers to:
 
-&lt;add name="ApplicationServices" connectionString="Data Source=MyDbServer;Initial Catalog=MyDb;User ID=MyUser;Password=my!pwd;MultipleActiveResultSets=true" /&gt;
+```xml
+<add name="ApplicationServices" connectionString="Data Source=MyDbServer;Initial Catalog=MyDb;User ID=MyUser;Password=my!pwd;MultipleActiveResultSets=true" />
+```
 
 …where the Data Source contains tables setup by the `aspnet_regsql.exe` tool, covered in “[Installing ASP.NET Membership services database in SQL Server Express 2008](http://weblogs.asp.net/sukumarraju/archive/2009/10/02/installing-asp-net-membership-services-database-in-sql-server-expreess.aspx).” (An attempt to avoid doing all of this work with the `AspNetSqlProfileProvider`, might lead one to use the `System.Web.Security.WindowsTokenRoleProvider`, I found ne success here.)
 
@@ -86,40 +96,45 @@ In the `system.web` node of `web.config`, declare:
 
 Visual studio will automatically generate `ServiceReferences.ClientConfig` during the **Add Service Reference…** process. In the `configuration\system.serviceModel` node of this document we might have this declaration:
 
-&lt;bindings&gt;
-        &lt;basicHttpBinding&gt;
-            &lt;binding name="BasicHttpBinding"
-                maxBufferSize="2147483647"
-
-maxReceivedMessageSize="2147483647"&gt;
-                &lt;security mode="None" /&gt;
-            &lt;/binding&gt;
-        &lt;/basicHttpBinding&gt;
-    &lt;/bindings&gt;
+```xml
+<bindings>
+    <basicHttpBinding>
+        <binding name="BasicHttpBinding"
+            maxBufferSize="2147483647"
+            maxReceivedMessageSize="2147483647">
+            <security mode="None" />
+        </binding>
+    </basicHttpBinding>
+</bindings>
+```
 
 To support NTLM, declare:
 
-&lt;bindings&gt;
-        &lt;basicHttpBinding&gt;
-            &lt;binding name="BasicHttpBinding"
-                maxBufferSize="2147483647"
-                maxReceivedMessageSize="2147483647"&gt;
-                &lt;security mode="TransportCredentialOnly" /&gt;
-            &lt;/binding&gt;
-        &lt;/basicHttpBinding&gt;
-    &lt;/bindings&gt;
+```xml
+<bindings>
+    <basicHttpBinding>
+        <binding name="BasicHttpBinding"
+            maxBufferSize="2147483647"
+            maxReceivedMessageSize="2147483647">
+            <security mode="TransportCredentialOnly" />
+        </binding>
+    </basicHttpBinding>
+</bindings>
+```
 
 Visual studio will automatically generate a `system.serviceModel` node in `web.config`, during the **Add Service Reference…** process. We must add a binding in `system.serviceModel\bindings` to complement the one declared for the Client in `ServiceReferences.ClientConfig`:
 
-&lt;bindings&gt;
-        &lt;basicHttpBinding&gt;
-            &lt;binding&gt;
-                &lt;security mode="TransportCredentialOnly"&gt;
-                    &lt;transport clientCredentialType="Windows"/&gt;
-                &lt;/security&gt;
-            &lt;/binding&gt;
-        &lt;/basicHttpBinding&gt;
-    &lt;/bindings&gt;
+```xml
+<bindings>
+    <basicHttpBinding>
+        <binding>
+            <security mode="TransportCredentialOnly">
+                <transport clientCredentialType="Windows"/>
+            </security>
+        </binding>
+    </basicHttpBinding>
+</bindings>
+```
 
 ## Setting up “Classic” NTLM Authentication on IIS 7.x
 

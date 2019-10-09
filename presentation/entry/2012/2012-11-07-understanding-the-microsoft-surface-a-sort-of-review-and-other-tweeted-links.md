@@ -43,7 +43,7 @@
 
 [<img alt="Scott Guthrie [scottgu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/scottgu.jpg">](http://weblogs.asp.net/scottgu "Scott Guthrie [scottgu]") <span>Good post from [@david_hayden](http://twitter.com/david_hayden) on the new [AllowAnonymous] attribute in [http://t.co/YWHGwOq6](http://t.co/YWHGwOq6) MVC 4: [http://t.co/AXSJlDNj](http://t.co/AXSJlDNj)</span>
 
-[<img alt="Jeremy Ashkenas [jashkenas]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jashkenas.jpeg">](http://documentcloud.org "Jeremy Ashkenas [jashkenas]") <span>After some "wild debate" ([https://t.co/Wz4MoNQ4](https://t.co/Wz4MoNQ4)), it looks like lexical-this fat arrows =&gt; are now in JS.next: [http://t.co/xeZkpH0D](http://t.co/xeZkpH0D)</span>
+[<img alt="Jeremy Ashkenas [jashkenas]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jashkenas.jpeg">](http://documentcloud.org "Jeremy Ashkenas [jashkenas]") <span>After some "wild debate" ([https://t.co/Wz4MoNQ4](https://t.co/Wz4MoNQ4)), it looks like lexical-this fat arrows => are now in JS.next: [http://t.co/xeZkpH0D](http://t.co/xeZkpH0D)</span>
 
 [<img alt="Damien Guard [damienguard]" src="https://songhay.blob.core.windows.net/shared-social-twitter/damienguard.jpeg">](http://damieng.com "Damien Guard [damienguard]") <span>Great article with animations showing how we can make programming easier to learn (and debug IMHO) [http://t.co/UV58Qwic](http://t.co/UV58Qwic)</span>
 

@@ -79,7 +79,7 @@
 
 [<img alt="Telerik [Telerik]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Telerik.jpeg">](http://www.telerik.com "Telerik [Telerik]") <span>New control for elegantly picking TimeSpan values on [#WindowsPhone](http://search.twitter.com/search?q=%23WindowsPhone): TimeSpanPicker [http://t.co/WypfjTrZ](http://t.co/WypfjTrZ)</span>
 
-[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://www.thedatafarm.com/blog "Julie Lerman [julielerman]") <span>don't forget about this video! -&gt; RT [@__avd](http://twitter.com/__avd): Video: Entity Framework 5 New Features Sneak Peek: [http://t.co/qoSTsFtX](http://t.co/qoSTsFtX)</span>
+[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://www.thedatafarm.com/blog "Julie Lerman [julielerman]") <span>don't forget about this video! -> RT [@__avd](http://twitter.com/__avd): Video: Entity Framework 5 New Features Sneak Peek: [http://t.co/qoSTsFtX](http://t.co/qoSTsFtX)</span>
 
 [<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>What They Don't Tell You About Public Speaking by [@holman](http://twitter.com/holman) [http://t.co/Hqn2is34](http://t.co/Hqn2is34)</span>
 

@@ -33,25 +33,27 @@ Should someone ever ask me, “What is the one NuGet package you cannot develop 
 
 So because of this warm, fuzzy ELMAH security blanket, I was inspired to write something like this:
 
-IOrderedQueryable&lt;Segment&gt; segments = null;
-    try
-    {
-        segments = GenericWebContext.GetTopSegments();
-    }
-    catch(AggregateException aex)
-    {
-        foreach(var ex in aex.Flatten().InnerExceptions)
-        {
-            if(HttpContext.Current != null)
-                Elmah.ErrorSignal.FromCurrentContext().Raise(ex);
-        }
-    }
-    catch(Exception ex)
+```c#
+IOrderedQueryable<Segment> segments = null;
+try
+{
+    segments = GenericWebContext.GetTopSegments();
+}
+catch(AggregateException aex)
+{
+    foreach(var ex in aex.Flatten().InnerExceptions)
     {
         if(HttpContext.Current != null)
             Elmah.ErrorSignal.FromCurrentContext().Raise(ex);
     }
-    return segments;
+}
+catch(Exception ex)
+{
+    if(HttpContext.Current != null)
+        Elmah.ErrorSignal.FromCurrentContext().Raise(ex);
+}
+return segments;
+```
 
 All because of ELMAH, the following programmer intents are implied:
 
@@ -61,6 +63,7 @@ All because of ELMAH, the following programmer intents are implied:
 * By default, finding out what really happened can only be done from the `localhost` of the Web Server where it happened—which makes security-conscious operations people smile with Remote-Desktop-addiction joy.
 
 Note that ELMAH works in `HttpContext.Current` this may suggest that another logging solution is needed for stuff happening outside of HTTP Context. This implementation detail happens to lead to the next item in my kit…
+
 <table class="WordWalkingStickTable"><tr><td>
 Related Links:
 </td></tr><tr><td>
@@ -70,15 +73,16 @@ Introductory article…
 </td></tr><tr><td>
 “[How to get ELMAH to work with ASP.NET MVC [HandleError] attribute?](http://stackoverflow.com/questions/766610/how-to-get-elmah-to-work-with-asp-net-mvc-handleerror-attribute)”
 </td><td>
+```c#
 protected override void OnException(ExceptionContext filterContext)
-    {
-        base.OnException(filterContext);
-        if (!filterContext.ExceptionHandled) return;
-        var httpContext = filterContext.HttpContext.ApplicationInstance.Context;
-        var signal = ErrorSignal.FromContext(httpContext);
-        signal.Raise(filterContext.Exception, httpContext);
-    }
-
+{
+    base.OnException(filterContext);
+    if (!filterContext.ExceptionHandled) return;
+    var httpContext = filterContext.HttpContext.ApplicationInstance.Context;
+    var signal = ErrorSignal.FromContext(httpContext);
+    signal.Raise(filterContext.Exception, httpContext);
+}
+```
 </td></tr><tr><td>
 “[ASP.NET MVC HandleError Attribute, Custom Error Pages and Logging Exceptions](http://blog.dantup.com/2009/04/aspnet-mvc-handleerror-attribute-custom.html)”
 </td><td>
@@ -125,20 +129,22 @@ I need Quartz.net when I need to run “back-end” jobs, automatically—accord
 
 There is a way to get strongly-typed objects directly from `web.config` (see “[How to: Create Custom Configuration Sections Using IConfigurationSectionHandler](http://msdn.microsoft.com/en-us/library/ms228056.aspx)”) but the technique recommended here *feels* faster and easier to understand: in the `MyApp.Models` namespace/project, I define an `ApplicationSettings` class with a constructor like this:
 
+```c#
 public ApplicationSettings()
-    {
-        var appSettings = ConfigurationManager.AppSettings;
-        var appSettingsKeys = appSettings.Keys.OfType&lt;string&gt;();
-        var key = "LatitudeLongitudeForCenturyCity";
-        if (appSettingsKeys.Contains(key))
-            this.LatitudeLongitudeForCenturyCity = new LatitudeLongitude(appSettings[key]);
-        key = "RemoteDocumentRequestInSeconds";
-        if (appSettingsKeys.Contains(key))
-            this.RemoteDocumentRequestInSeconds = Convert.ToInt32(appSettings[key]);
-        key = "UriForNoaaWeather";
-        if (appSettingsKeys.Contains(key))
-            this.UriForNoaaWeather = new Uri(appSettings[key], UriKind.Absolute);
-    }
+{
+    var appSettings = ConfigurationManager.AppSettings;
+    var appSettingsKeys = appSettings.Keys.OfType<string>();
+    var key = "LatitudeLongitudeForCenturyCity";
+    if (appSettingsKeys.Contains(key))
+        this.LatitudeLongitudeForCenturyCity = new LatitudeLongitude(appSettings[key]);
+    key = "RemoteDocumentRequestInSeconds";
+    if (appSettingsKeys.Contains(key))
+        this.RemoteDocumentRequestInSeconds = Convert.ToInt32(appSettings[key]);
+    key = "UriForNoaaWeather";
+    if (appSettingsKeys.Contains(key))
+        this.UriForNoaaWeather = new Uri(appSettings[key], UriKind.Absolute);
+}
+```
 
 Remember that `ConfigurationManager.AppSettings` is not just for Web applications.
 
@@ -153,6 +159,7 @@ When you create a new ASP.NET MVC 4 project, you’ll notice that a bunch of NuG
 </blockquote>
 
 My experience with Debian/Linux package manager culture encourages me to be excited about NuGet packages. And then there is this thing called [Chocolat](http://chocolatey.org/)…
+
 <table class="WordWalkingStickTable"><tr><td>
 Related Links:
 </td></tr><tr><td>
@@ -165,7 +172,7 @@ Horrible but not impossible. I prefer “Option 2: Put .aspx in all your route e
 “The cause of the problem is that the identity (e.g. NETWORK SERVICE) of the IIS application pool used to run the web application, needs read access to the application’s `web.config` file to be able to launch the ASP.NET worker process.”
 </td></tr></table>
 
-## ASP.NET MVC: Use HttpContext.Current.IsDebuggingEnabled…
+## ASP.NET MVC: Use `HttpContext.Current.IsDebuggingEnabled`…
 
 “[Automatically minify and combine JavaScript in Visual Studio](http://encosia.com/automatically-minify-and-combine-javascript-in-visual-studio/)” by Dave Ward introduced me to the importance of `HttpContext.Current.IsDebuggingEnabled`:
 
@@ -201,6 +208,7 @@ Their scope is both smaller and larger than CSLA. It is smaller, in that they do
 </blockquote>
 
 Today in my ASP.NET MVC projects I have a /Services folder where I expose my RIA Services. I prefer RIA services because I can use them with Silverlight and jQuery. There are UI controls from Telerik and Microsoft that exploit RIA conventions. I cover my RIA issues in detail in “[RIA Services and EF Entities](http://songhayblog.azurewebsites.net/entry/show/ria-services-and-ef-entities)” and “[Silverlight, Entity Framework and RIA Services Recipe](http://songhayblog.azurewebsites.net/entry/show/silverlight-entity-framework-and-ria-services-recipe).”
+
 <table class="WordWalkingStickTable"><tr><td>
 Related Links:
 </td></tr><tr><td>

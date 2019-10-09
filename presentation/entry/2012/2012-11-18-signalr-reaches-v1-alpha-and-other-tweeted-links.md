@@ -33,7 +33,7 @@
 
 [<img alt="Katrien De Graeve [katriendg]" src="https://songhay.blob.core.windows.net/shared-social-twitter/katriendg.jpeg">](http://blogs.msdn.com/katriend "Katrien De Graeve [katriendg]") <span>RT [@gisardo](http://twitter.com/gisardo) Some of the most beautiful [#HTML5](http://search.twitter.com/search?q=%23HTML5) demos, all in a video! [http://bit.ly/h5g2L4](http://bit.ly/h5g2L4) [#IE9](http://search.twitter.com/search?q=%23IE9)</span>
 
-[<img alt="bruce lawson [brucel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brucel.jpg">](http://www.brucelawson.co.uk "bruce lawson [brucel]") <span>Goodbye [#html5](http://search.twitter.com/search?q=%23html5) &lt;device&gt; and hello getUserMedia, &amp; Opera tech preview of device camera access from browser [http://bit.ly/gaXX1b](http://bit.ly/gaXX1b) [#bigmconf](http://search.twitter.com/search?q=%23bigmconf)</span>
+[<img alt="bruce lawson [brucel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/brucel.jpg">](http://www.brucelawson.co.uk "bruce lawson [brucel]") <span>Goodbye [#html5](http://search.twitter.com/search?q=%23html5) <device> and hello getUserMedia, &amp; Opera tech preview of device camera access from browser [http://bit.ly/gaXX1b](http://bit.ly/gaXX1b) [#bigmconf](http://search.twitter.com/search?q=%23bigmconf)</span>
 
 [<img alt="Michael Martin [problogdesign]" src="https://songhay.blob.core.windows.net/shared-social-twitter/problogdesign.png">](http://www.problogdesign.com/ "Michael Martin [problogdesign]") <span>Very cool way of speeding up page load speed on posts with a lot of comments [http://t.co/gC3PRCJ](http://t.co/gC3PRCJ)</span>
 

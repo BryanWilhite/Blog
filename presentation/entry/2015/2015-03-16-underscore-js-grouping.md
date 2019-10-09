@@ -21,7 +21,9 @@
 
 This [codepen.io sample](http://codepen.io/rasx/pen/BjCkH) does *not* reveal that `_.groupBy()` produces *an object* with properties (as group names) and a second property that’s an array, representing the named group. In Chrome, I’ve seen a *strong suggestion* that the property names are in ascending order by default so Angular JS can display them in this ‘order’ with the object-property syntax.
 
-&lt;div ng-repeat="(key, value) in myObj"&gt; ... &lt;/div&gt;
+```html
+<div ng-repeat="(key, value) in myObj"> ... </div>
+```
 
 But, [Angular people warn](https://docs.angularjs.org/api/ng/directive/ngRepeat) that Angular JS `orderBy` has no effect on this form:
 
@@ -33,6 +35,7 @@ We now rely on the order returned by the browser when running for key in myObj. 
 
 To me this effectively means that Underscore JS `_.groupBy()` output is incompatible with Angular JS. So I might have rolled out of bed this morning with the assumption that I can do this:
 
+```javascript
 $scope.groups = _($scope.vm.data)
         .groupBy(this.indexGroupingSelected.value);
 
@@ -49,16 +52,19 @@ $scope.groups = _($scope.vm.data)
             };
         })
         .value();
+```
 
 So, instead of that cool object-property syntax, we have plain-old Angular verbosity (that’s easier for me to understand six months from now):
 
-&lt;div data-ng-repeat="i in groups | orderBy: 'groupName' : true "&gt;
-        &lt;h2&gt;{{ i.groupName }}&lt;/h2&gt;
-        &lt;ul&gt;
-            &lt;li data-ng-repeat="j in i.group"&gt;
-                {{ j.DisplayText }}
-            &lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
+```html
+<div data-ng-repeat="i in groups | orderBy: 'groupName' : true ">
+    <h2>{{ i.groupName }}</h2>
+    <ul>
+        <li data-ng-repeat="j in i.group">
+            {{ j.DisplayText }}
+        </li>
+    </ul>
+</div>
+```
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

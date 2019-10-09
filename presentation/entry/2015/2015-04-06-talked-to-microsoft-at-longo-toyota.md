@@ -27,6 +27,7 @@ After the standard, “tell me a *little* bit about yourself” stuff (which I a
 
 This was not the answer told to me by the interviewer. This is not the answer I looked up on the Internet. My experience as a developer tells me that this *is* the answer. However, on the phone impromptu, I was *not* going remember that string has a `ToCharArray()` method and I was *not* going to remember that LINQ to objects has a `Distinct()` extension method. In fact, immediately after the interview, I pulled out my computer and wrote this solution in LINQPad within an hour:
 
+```c#
 var input = "Microsoft Windows";
     input.Dump("input");
 
@@ -34,18 +35,18 @@ var placeholder = "*";
 
 var duplicates = input
         .ToCharArray() //would never have remembered this on the call!
-        .Select((c,i) =&gt; new { Char=c, Index=i })
-        .GroupBy(i =&gt; i.Char) //should have remembered this!
-        .Where(i =&gt; i.Count() &gt; 1)
+        .Select((c,i) => new { Char=c, Index=i })
+        .GroupBy(i => i.Char) //should have remembered this!
+        .Where(i => i.Count() > 1)
         .ToArray();
 
 duplicates.Dump("duplicate data");
 
 var output = input;
 
-duplicates.ForEachInEnumerable(i =&gt;
+duplicates.ForEachInEnumerable(i =>
     {
-        i.Skip(1).ForEachInEnumerable(j =&gt;
+        i.Skip(1).ForEachInEnumerable(j =>
         {
             output = (j.Index &lt; output.Length) ?
                 output.Insert(j.Index, placeholder)
@@ -58,6 +59,7 @@ duplicates.ForEachInEnumerable(i =&gt;
 output.Dump("output with placeholder");
 
 output.Replace(placeholder, string.Empty).Dump("final output");
+```
 
 As one of my comments denote in the code above, I *should* have remembered `GroupBy()` because it was, as they say, right on “the tip of my tongue” (during the call)—but it was still involved in the *wrong* answer. According to the elite-programmer conceptual model of the interviewer, I definitely took too long to discover the wrong answer anyway.
 

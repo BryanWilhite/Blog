@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-08-19-visual-studio-ctp3-with-xunit-testing-for-vnext-projects-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Visual Studio CTP3! with xunit testing for vnext projects http://t.co/qcBPBzKqvK /cc @bradwilson  to me it's a server-side rendition of Silverlight =&gt; Introducing http://t.co/du79BQulzh vNext - http://t.co/suZ2SxJkrN @shanselman  @BryanWilhite I thoug...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Visual Studio CTP3! with xunit testing for vnext projects <http://t.co/qcBPBzKqvK> /cc @bradwilson  to me it's a server-side rendition of Silverlight => Introducing <http://t.co/du79BQulzh> vNext - <http://t.co/suZ2SxJkrN> @shanselman  @BryanWilhite I thoug...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="David Fowler [davidfowl]" src="https://songhay.blob.core.windows.net/shared-social-twitter/davidfowl.png">](http://t.co/XKK4NcPNdb "David Fowler [davidfowl]") <span>Visual Studio CTP3! with xunit testing for vnext projects [http://t.co/qcBPBzKqvK](http://t.co/qcBPBzKqvK) /cc [@bradwilson](http://twitter.com/bradwilson)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>to me it's a server-side rendition of Silverlight =&gt; Introducing [http://t.co/du79BQulzh](http://t.co/du79BQulzh) vNext - [http://t.co/suZ2SxJkrN](http://t.co/suZ2SxJkrN) [@shanselman](http://twitter.com/shanselman)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>to me it's a server-side rendition of Silverlight => Introducing [http://t.co/du79BQulzh](http://t.co/du79BQulzh) vNext - [http://t.co/suZ2SxJkrN](http://t.co/suZ2SxJkrN) [@shanselman](http://twitter.com/shanselman)</span>
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpeg">](http://t.co/YA3jkLZNsD "Scott Hanselman [shanselman]") <span>[@BryanWilhite](http://twitter.com/BryanWilhite) I thought your Silverlight comment was snark. Perhaps we are misunderstanding each other? Are you for or against?</span>
 
@@ -71,6 +71,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>XamDataGrid 101, Part 2 – Custom Colors | - [http://t.co/rtKGSA5NWO](http://t.co/rtKGSA5NWO)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Excellent! =&gt; Applying S.O.L.I.D. Principles in .NET/C# (Channel 9) [http://t.co/RqYqfcD40U](http://t.co/RqYqfcD40U) via [@ch9](http://twitter.com/ch9) [@SF_klug](http://twitter.com/SF_klug)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Excellent! => Applying S.O.L.I.D. Principles in .NET/C# (Channel 9) [http://t.co/RqYqfcD40U](http://t.co/RqYqfcD40U) via [@ch9](http://twitter.com/ch9) [@SF_klug](http://twitter.com/SF_klug)</span>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

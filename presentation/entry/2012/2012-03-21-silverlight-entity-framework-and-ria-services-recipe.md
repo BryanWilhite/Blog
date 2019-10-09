@@ -25,7 +25,7 @@ Here’s a short list for database-first `DbContext` with [RIA Services](http://
 * Generate the Entities with the database.
 * Generate a Web Project to host the `DbContext` class and the “Database Domain Service of T” class.
 * Write the `DbContext` class for the Entities. This had a gotcha for me (see below).
-* Write the “Database Domain Service of T” (`DbDomainService&lt;T&gt;`) for the `DbContext` class for the Entities.
+* Write the “Database Domain Service of T” (`DbDomainService<T>`) for the `DbContext` class for the Entities.
 * Build your client and “wire up” the client with the “Database Domain Service of T” (this step is supposed to be auto-magic).
 * Follow [@julielerman](https://twitter.com/)!
 
@@ -60,7 +60,7 @@ When you build the solution, RIA Services automatically generates a WebContext c
 
 </blockquote>
 
-When you attribute a method in this class extending `DbDomainService&lt;T&gt;` with, say, `[Invoke]`, it becomes a method that that returns `InvokeOperation&lt;T&gt;` on the client. Any methods in this class returning `IQueryable&lt;T&gt;` will translate into `LoadOperation&lt;T&gt;` on the client.
+When you attribute a method in this class extending `DbDomainService<T>` with, say, `[Invoke]`, it becomes a method that that returns `InvokeOperation<T>` on the client. Any methods in this class returning `IQueryable<T>` will translate into `LoadOperation<T>` on the client.
 
 **Build your client and “wire up” the client…** Generate Silverlight project with a **WCF RIA Services link** pointing at this ***.Web** project.
 

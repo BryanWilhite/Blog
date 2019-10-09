@@ -21,17 +21,19 @@
 
 The instance of `NavigationResult` in the “navigation callback” of `IRegionManager.RequestNavigate()` returned an “object reference not set to an instance of an object” (null reference) exception as Navigation failed “silently.” This exception disappeared after several hours of investigation when imperative Exports were removed:
 
+```c#
 #region builders:
 
 var rflContext = new RegistrationBuilder();
     rflContext
-        .ForType&lt;IndexView&gt;().Export&lt;IndexView&gt;(builder =&gt; builder.AsContractName("IndexView"));
+        .ForType<IndexView>().Export<IndexView>(builder => builder.AsContractName("IndexView"));
 
 var rflContextForModelContextModule = new RegistrationBuilder();
     rflContextForModelContextModule
-        .ForTypesDerivedFrom&lt;IRestModelContextService&gt;().Export&lt;IRestModelContextService&gt;();
+        .ForTypesDerivedFrom<IRestModelContextService>().Export<IRestModelContextService>();
 
 #endregion
+```
 
 Using attribute-based `Export` declarations stopped Navigation from failing silently.
 

@@ -31,7 +31,7 @@ First thing: MVVM as we now know it, encourages the use of what DDD folk call �
 
 * Build mutable, “presentation,” View Models that wrap the immutable server objects. The immutable DTOs are injected into the “presentation” View Model constructors. These presentation View Models can intercept “anemic” `RaisePropertyChanged()` events and interpret them into Domain-specific server requests (I designed and built this piece—not as hard as the other stuff)
 * Build a parent View Model that observes the “presentation” View Models and construct domain-specific requests from subsets of these “presentation” VMs (I also designed this bit).
-* Build a presentation collection based on `ObservableCollection&lt;T&gt;` to store these View Models and compare them with new DTOs (incoming as responses to my Domain-specific requests) injected via a “factory lambda” passed into the constructor of this collection.
+* Build a presentation collection based on `ObservableCollection<T>` to store these View Models and compare them with new DTOs (incoming as responses to my Domain-specific requests) injected via a “factory lambda” passed into the constructor of this collection.
 
 Based on Google/Bing searches over the last 12 months, I assume that I am one of the few people in the world who took the time to write about this problem publically (electronically). I look forward to being awaken from my delusions of grandeur when someone out there is kind enough to come forward and talk about their solution to this problem. Does [Reactive UI have something](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2011/10/10/reactive-extensions-for-net-talk-from-ddd-north.aspx) for MVVM anemia out of the box?
 

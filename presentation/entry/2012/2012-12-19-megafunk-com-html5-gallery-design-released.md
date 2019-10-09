@@ -29,7 +29,9 @@ Nevertheless, I should be pleased at the relative improvement over my earlier wo
 
 Overriding my preference for using `device-width`, this `meta` element is in play:
 
-&lt;meta name="viewport" content="width=528; height=device-height;" /&gt;
+```html
+<meta name="viewport" content="width=528; height=device-height;" />
+```
 
 Instead of making the MegaFunk.com menu responsive, a minimum width of `528px` is set to prevent the menu items from stacking. This causes pan-and-scan swiping and zooming on smartphones and even a little on the iPad.
 
@@ -52,8 +54,10 @@ In the case of my gallery, I use `readyMegaGallery``()`. This is called inside o
 ```javascript
 $(window.document).ready(function () {
     var flow = $('#GalleryContainer');
-    if (flow.length &gt; 0) {
-        $.getJSON('./data/browse.json').then(function (data) {
+    ```html
+    if (flow.length > 0) {
+        $.g```
+        etJSON('./data/browse.json').then(function (data) {
             galleryViewModel.setGalleries(data);
             readyMegaGallery(data);
         });

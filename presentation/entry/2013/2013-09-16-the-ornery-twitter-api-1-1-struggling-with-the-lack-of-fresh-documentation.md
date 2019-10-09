@@ -40,9 +40,9 @@ public ActionResult TwitterItems()
     var authorizer = this.GetLinqToTwitterCredentialsAndAuthorizer();
     var ctx = new TwitterContext(authorizer);
     var query = ctx.Favorites
-        .Where(i =&gt; i.Type == FavoritesType.Favorites)
-        .Where(i =&gt; i.Count == 50)
-        .Where(i =&gt; i.IncludeEntities == true);
+        .Where(i => i.Type == FavoritesType.Favorites)
+        .Where(i => i.Count == 50)
+        .Where(i => i.IncludeEntities == true);
     var count = query.Count();
     if (count == 0) throw new TwitterQueryException("No items were found.");
     var favorites = query.ToList();

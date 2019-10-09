@@ -29,7 +29,7 @@ A tuple (pro­nounced “two-pull”) is an ordered collection of data, and an e
 
 </blockquote>
 
-I am familiar with tuples from a .NET Generics point of view but what Yan is doing here is defining them from a data access point of view. So: we can see in this stackoverflow.com question, “[Return Tuple from EF select](http://stackoverflow.com/questions/2118688/return-tuple-from-ef-select),” that Entity Framework can work with tuples through LINQ to Objects. What would be interesting to me is seeing the way toward using tuples with the `SqlQuery&lt;T&gt;()` method of the Entity Framework. [Mark Zhou](http://www.markzhou.com/blog/post/2011/06/02/Use-dynamic-type-in-Entity-Framework-41-SqlQuery()-method.aspx) writes:
+I am familiar with tuples from a .NET Generics point of view but what Yan is doing here is defining them from a data access point of view. So: we can see in this stackoverflow.com question, “[Return Tuple from EF select](http://stackoverflow.com/questions/2118688/return-tuple-from-ef-select),” that Entity Framework can work with tuples through LINQ to Objects. What would be interesting to me is seeing the way toward using tuples with the `SqlQuery<T>()` method of the Entity Framework. [Mark Zhou](http://www.markzhou.com/blog/post/2011/06/02/Use-dynamic-type-in-Entity-Framework-41-SqlQuery()-method.aspx) writes:
 
 <blockquote>
 
@@ -53,13 +53,13 @@ FROM
 ORDER BY
     Title
 ";
-    var data = context.Database.SqlQuery&lt;Tuple&lt;int, string&gt;&gt;(sql);
+    var data = context.Database.SqlQuery<Tuple<int, string>>(sql);
     Assert.IsNotNull(data, "The expected data is not here.");
-    Assert.IsNotNull(data.Count() &gt; 0, "The expected data is not here.");
+    Assert.IsNotNull(data.Count() > 0, "The expected data is not here.");
 }
 ```
 
-It turns out that this test fails because `SqlQuery&lt;T&gt;()` requires types with parameter-less constructors. So I dropped back to this:
+It turns out that this test fails because `SqlQuery<T>()` requires types with parameter-less constructors. So I dropped back to this:
 
 ```c#
 [TestMethod]
@@ -75,17 +75,17 @@ FROM
 ORDER BY
     Title
 ";
-    var data = context.Database.SqlQuery&lt;TwoColumnProjection&lt;int, string&gt;&gt;(sql);
+    var data = context.Database.SqlQuery<TwoColumnProjection<int, string>>(sql);
     Assert.IsNotNull(data, "The expected data is not here.");
-    Assert.IsNotNull(data.Count() &gt; 0, "The expected data is not here.");
+    Assert.IsNotNull(data.Count() > 0, "The expected data is not here.");
 }
 ```
 
 [<img alt="Programming F#: A comprehensive guide for writing simple code to solve complex problems (Animal Guide)" src="http://ecx.images-amazon.com/images/I/41DsEYWRNML._SL160_.jpg" style="float:left;margin:16px;">](http://www.amazon.com/Programming-comprehensive-writing-complex-problems/dp/0596153643%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0596153643 "Programming F#: A comprehensive guide for writing simple code to solve complex problems (Animal Guide)")
 
-And this works! This success led me look into stuff like “[Understanding Tuples in .NET 4.0 and .NET 2.0/3.0/3.5](http://www.fidelitydesign.net/?p=71)” by Matthew Abbot, which actually shows me implementations of tuple that uses a parameter-less constructor. But what’s the advantage of this custom tuple implementation over my `TwoColumnProjection` class? I’m thinking I should just spit out `TwoColumnProjection&lt;&gt;` all the way to `FiveColumnProjection&lt;&gt;` and call it a day. These generic projection classes can be handy tools for dealing with legacy database tables that are not automatically represented by EF entities (e.g. a crappy many-to-many table without a primary key that I am unable to change for stupid-ass reasons or, more commonly, stored procedures projecting from a temporary table). It must be mentioned, however, that I am writing this without testing the level productivity of EF Complex Types—what Julie Lerman covers in “Importing Stored Procedures that Return Types Other than Entities” of the article, “[Stored Procedures in the Entity Framework](http://msdn.microsoft.com/en-us/data/gg699321.aspx).”
+And this works! This success led me look into stuff like “[Understanding Tuples in .NET 4.0 and .NET 2.0/3.0/3.5](http://www.fidelitydesign.net/?p=71)” by Matthew Abbot, which actually shows me implementations of tuple that uses a parameter-less constructor. But what’s the advantage of this custom tuple implementation over my `TwoColumnProjection` class? I’m thinking I should just spit out `TwoColumnProjection<>` all the way to `FiveColumnProjection<>` and call it a day. These generic projection classes can be handy tools for dealing with legacy database tables that are not automatically represented by EF entities (e.g. a crappy many-to-many table without a primary key that I am unable to change for stupid-ass reasons or, more commonly, stored procedures projecting from a temporary table). It must be mentioned, however, that I am writing this without testing the level productivity of EF Complex Types—what Julie Lerman covers in “Importing Stored Procedures that Return Types Other than Entities” of the article, “[Stored Procedures in the Entity Framework](http://msdn.microsoft.com/en-us/data/gg699321.aspx).”
 
-So what does this have to do with F#? Well, just like the [Chewbacca Defense](http://en.wikipedia.org/wiki/Chewbacca_defense), it turns out that it’s nothing… it has nothing to do with this case—because the tuples that ship from Microsoft are not currently supported by Entity Framework’s `SqlQuery&lt;T&gt;()`. This means that I can’t start using tuples as general-purpose data-transfer objects (with `SqlQuery&lt;T&gt;()`). This use of tuples would have encouraged me to use F# because tuple syntax in F# is so much simpler (but the implementation of EF in F# [looks weird](http://blogs.msdn.com/b/visualstudio/archive/2011/04/04/f-code-first-development-with-entity-framework-4-1.aspx) to me)… This crazy jaunt *did* help me see that I should use a bunch of generic projection classes.
+So what does this have to do with F#? Well, just like the [Chewbacca Defense](http://en.wikipedia.org/wiki/Chewbacca_defense), it turns out that it’s nothing… it has nothing to do with this case—because the tuples that ship from Microsoft are not currently supported by Entity Framework’s `SqlQuery<T>()`. This means that I can’t start using tuples as general-purpose data-transfer objects (with `SqlQuery<T>()`). This use of tuples would have encouraged me to use F# because tuple syntax in F# is so much simpler (but the implementation of EF in F# [looks weird](http://blogs.msdn.com/b/visualstudio/archive/2011/04/04/f-code-first-development-with-entity-framework-4-1.aspx) to me)… This crazy jaunt *did* help me see that I should use a bunch of generic projection classes.
 
 ## F# and the Linked List
 

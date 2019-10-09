@@ -55,7 +55,7 @@ It must be mentioned that BlogEngine.NET supports Windows Azure but almost all o
 
 ## JSON-encoding snarky-ness
 
-When I uploaded `Config.json` to Azure Blob Storage, I got Json.NET exceptions complaining about “line 1, position 1.” The fix for me was saving the JSON file in what Notepad++ calls “ANSI as UTF-8” (this format is obtained in Notepad++ via the **Encoding &gt; Encode in UTF without BOM** command). Evidently Json.NET was having BOM (Byte Order Mark) problems. I also noticed that `Config.json` was formatted with UNIX line endings—a side-effect of using GitHub.com without Phil Haack—so the BOM madness might be related to Git “goodness.”
+When I uploaded `Config.json` to Azure Blob Storage, I got Json.NET exceptions complaining about “line 1, position 1.” The fix for me was saving the JSON file in what Notepad++ calls “ANSI as UTF-8” (this format is obtained in Notepad++ via the **Encoding > Encode in UTF without BOM** command). Evidently Json.NET was having BOM (Byte Order Mark) problems. I also noticed that `Config.json` was formatted with UNIX line endings—a side-effect of using GitHub.com without Phil Haack—so the BOM madness might be related to Git “goodness.”
 
 To my typographic horror by the way, I noticed that the default, NBlog entry files were JSON in the ancient ANSI format! This explains why I had no BOM madness with these.
 

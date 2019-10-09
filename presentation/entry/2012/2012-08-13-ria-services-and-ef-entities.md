@@ -82,7 +82,7 @@ What this last quote twists me toward is the definite possibility that a Complex
 
 ## Do not forget to use System.ServiceModel.DomainServices.Client for the Client
 
-When you don’t use `System.ServiceModel.DomainServices.Client` on the Client, you will not be able to use LINQ extensions on `EntityQuery&lt;T&gt;`. …I don’t think most people still using RIA Services will run into this problem because this problem should appear when trying to re-factor a mature Silverlight project to support RIA Services. Following samples like “[WCF RIA Services](http://www.silverlight.net/learn/advanced-techniques/wcf-ria-services/wcf-ria-services-(silverlight-quickstart))” or “[Walkthrough: Creating a RIA Services Solution](http://msdn.microsoft.com/en-us/library/ee707376(VS.91).aspx)” where you check “Enable WCF RIA Services” in the “New Silverlight Application dialog box” should give you a client-side reference to `System.ServiceModel.DomainServices.Client` for free.
+When you don’t use `System.ServiceModel.DomainServices.Client` on the Client, you will not be able to use LINQ extensions on `EntityQuery<T>`. …I don’t think most people still using RIA Services will run into this problem because this problem should appear when trying to re-factor a mature Silverlight project to support RIA Services. Following samples like “[WCF RIA Services](http://www.silverlight.net/learn/advanced-techniques/wcf-ria-services/wcf-ria-services-(silverlight-quickstart))” or “[Walkthrough: Creating a RIA Services Solution](http://msdn.microsoft.com/en-us/library/ee707376(VS.91).aspx)” where you check “Enable WCF RIA Services” in the “New Silverlight Application dialog box” should give you a client-side reference to `System.ServiceModel.DomainServices.Client` for free.
 
 ## The standalone MetadataType classes can have members of type object for convenience.
 
@@ -128,7 +128,7 @@ An INVOKE-decorated method is exposed as JSON only if it has the property `HasSi
 
 This attribute decoration is the equivalent of `[HttpGet]` (with `JsonRequestBehavior.AllowGet`) in ASP.NET MVC.
 
-Sandrino’s work, by the way, helped me get rid of this error message:Parser Error Message: The CLR Type 'System.ServiceModel.DomainServices.Hosting.DomainServiceHostFactory' could not be loaded during service compilation.This was due to how the `&lt;%@ ServiceHost`` …&gt;` declaration is written in the *.svc file.
+Sandrino’s work, by the way, helped me get rid of this error message:Parser Error Message: The CLR Type 'System.ServiceModel.DomainServices.Hosting.DomainServiceHostFactory' could not be loaded during service compilation.This was due to how the `<%@ ServiceHost`` …>` declaration is written in the *.svc file.
 
 This wonderful ability to expose JSON from a RIA Service via a *.svc file is , by the way again, the solution to the problem surfaced in “[Can Generic types be returned from RIA Service[?]](http://forums.silverlight.net/t/208798.aspx/1).”
 

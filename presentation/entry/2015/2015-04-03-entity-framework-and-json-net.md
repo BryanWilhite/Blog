@@ -23,71 +23,83 @@ Converting code-first, EF6 Entity models to JSON (with JSON.NET) is more complic
 
 For me, there was no difference between this:
 
+```c#
 var segments = GetContext().Segments
-        .Include(i =&gt; i.ChildSegments)
-        .Where(i =&gt; (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
-        .OrderBy(i =&gt; i.SegmentName);
+        .Include(i => i.ChildSegments)
+        .Where(i => (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
+        .OrderBy(i => i.SegmentName);
+```
 
 …and this:
 
+```c#
 var segments = GetContext().Segments
-        .Include(i =&gt; i.ChildSegments)
-        .Include(i =&gt; i.ChildSegments)
-        .Where(i =&gt; (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
-        .OrderBy(i =&gt; i.SegmentName);
+        .Include(i => i.ChildSegments)
+        .Include(i => i.ChildSegments)
+        .Where(i => (i.ParentSegmentId == null) &amp;&amp; i.IsActive.HasValue &amp;&amp; i.IsActive.Value)
+        .OrderBy(i => i.SegmentName);
+```
 
 I did not bother run SQL Profiler and dissect the SQL but in both cases there were no “grandchild” segments. (By the way, it’s been a few years so I should help to mention that EF6 over SQL Server still does not support the Nullable extension method `GetValueOrDefault()`. So, for the example above, we see `i.IsActive.HasValue &amp;&amp; i.IsActive.Value` in place of `i.IsActive.GetValueOrDefault()`.)
 
 So my need for these “grandchild” segments suggests (correctly) that my `Segment` type has a “parent” `Segment`. This “self-join” can cause JSON.NET to throw a circular-reference exception and/or an out-of-memory exception (as it travels from parent to children—and children of children). Moreover, the `Segment` has a Documents collection (where each `Document` has a `Segment`—faithfully duplicated by JSON.NET until it runs out of memory!) To address these issues I have this:
 
+```c#
 var documentSettings = new JsonSerializerSettings
-    {
-        ContractResolver = new InterfaceContractResolver&lt;IDocument&gt;(),
-        PreserveReferencesHandling = PreserveReferencesHandling.None,
-        ReferenceLoopHandling = ReferenceLoopHandling.Ignore
-    };
+{
+    ContractResolver = new InterfaceContractResolver<IDocument>(),
+    PreserveReferencesHandling = PreserveReferencesHandling.None,
+    ReferenceLoopHandling = ReferenceLoopHandling.Ignore
+};
+```
 
-What stands out is my `InterfaceContractResolver&lt;IDocument&gt;`, taking the guidance from Newton-King’s “[Serialization using ContractResolver](http://www.newtonsoft.com/json/help/html/ContractResolver.htm).” I’ve defined this resolver to ‘filter’ my Entity model Document through `IDocument` (which defines no parent-child relations):
+What stands out is my `InterfaceContractResolver<IDocument>`, taking the guidance from Newton-King’s “[Serialization using ContractResolver](http://www.newtonsoft.com/json/help/html/ContractResolver.htm).” I’ve defined this resolver to ‘filter’ my Entity model Document through `IDocument` (which defines no parent-child relations):
 
-public class InterfaceContractResolver&lt;TInterface&gt; : DefaultContractResolver where TInterface : class
+```c#
+public class InterfaceContractResolver<TInterface> : DefaultContractResolver where TInterface : class
+{
+    protected override IList<JsonProperty> CreateProperties(Type type, MemberSerialization memberSerialization)
     {
-        protected override IList&lt;JsonProperty&gt; CreateProperties(Type type, MemberSerialization memberSerialization)
-        {
-            IList&lt;JsonProperty&gt; properties = base.CreateProperties(typeof(TInterface), memberSerialization);
-            return properties;
-        }
+        IList<JsonProperty> properties = base.CreateProperties(typeof(TInterface), memberSerialization);
+        return properties;
     }
+}
+```
 
 This looks straight forward when you want to do something like this:
 
-var rootDocuments = segment.ChildSegments.Select(k =&gt;
+```c#
+var rootDocuments = segment.ChildSegments.Select(k =>
     {
         var rootDocument = context.Documents
-            .Where(l =&gt; l.SegmentId == k.SegmentId)
-            .Where(l =&gt; l.IsActive.HasValue &amp;&amp; l.IsActive.Value)
-            .Where(l =&gt; l.IsRoot.HasValue &amp;&amp; l.IsRoot.Value)
+            .Where(l => l.SegmentId == k.SegmentId)
+            .Where(l => l.IsActive.HasValue &amp;&amp; l.IsActive.Value)
+            .Where(l => l.IsRoot.HasValue &amp;&amp; l.IsRoot.Value)
             .FirstOrDefault();
 
 var documentJson = JsonConvert.SerializeObject(rootDocument, documentSettings);
         return documentJson;
     })
     .ToArray();
+```
 
 But what I have here is an array of JSON strings—why did I do that? Well, it turns out that I cannot (it could just be me) configure JSON.NET to handle `enumerationOfDocuments` in this:
 
+```c#
 var json = JsonConvert.SerializeObject(new
-    {
-        SegmentId = segment.SegmentId,
-        SegmentName = segment.SegmentName,
-        SortOrdinal = segment.SortOrdinal,
-        CreateDate = segment.CreateDate,
-        ParentSegmentId = segment.ParentSegmentId,
-        ClientId = segment.ClientId,
-        IsActive = segment.IsActive,
-        ChildDocuments = enumerationOfDocuments,
-    });
+{
+    SegmentId = segment.SegmentId,
+    SegmentName = segment.SegmentName,
+    SortOrdinal = segment.SortOrdinal,
+    CreateDate = segment.CreateDate,
+    ParentSegmentId = segment.ParentSegmentId,
+    ClientId = segment.ClientId,
+    IsActive = segment.IsActive,
+    ChildDocuments = enumerationOfDocuments,
+});
+```
 
-Either it is not possible or I do not know how to extend `DefaultContractResolver` to deal with an object that has an `IEnumerable&lt;Document&gt;` property that should be ‘filtered’ into `IEnumerable&lt;IDocument&gt;`.
+Either it is not possible or I do not know how to extend `DefaultContractResolver` to deal with an object that has an `IEnumerable<Document>` property that should be ‘filtered’ into `IEnumerable<IDocument>`.
 
 So I’m resorting to old-fashioned string manipulation tricks to get around this limitation of me—or of JSON.NET.
 

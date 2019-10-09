@@ -52,8 +52,7 @@ public long MyNumericProperty
     set
     {
         this._myNumericProperty = value;
-        base.
-RaisePropertyChanged("MyNumericProperty")
+        base.RaisePropertyChanged("MyNumericProperty")
     }
 }
 ```
@@ -68,7 +67,7 @@ These lines are placed in the following View Model locations:
 * In a handler for an aggregated event (Prism) or messenger (MVVM Light).
 * In a commanding handler, implementing `ICommand`.
 * In a handler for a `DomainDataSource.SubmittedChanges` event (RIA Services).
-* In an element handler for an observable sequence (`IObservable&lt;T&gt;.Subscribe&lt;T&gt;()`).
+* In an element handler for an observable sequence (`IObservable<T>.Subscribe<T>()`).
 
 Knowing where (and when) to update data is both a science and an art. It is quite tragic when anti-patterns prevent such glorious exploration.
 
@@ -140,7 +139,7 @@ One of the foundational reasons to use MVVM is to have testable code. No “clea
 </td></tr><tr><td>
 “[MVVM Multiselect Listbox](http://www.gbogea.com/2010/01/02/mvvm-multiselect-listbox)”
 </td><td>
-This design by Gabriel Perez should work better than a similar control I built in 2012 because is features `SelectionItem&lt;T&gt;`—a powerful use of generics.
+This design by Gabriel Perez should work better than a similar control I built in 2012 because is features `SelectionItem<T>`—a powerful use of generics.
 </td></tr><tr><td>
 “[Wiring up View and Viewmodel in MVVM and Silverlight 4](http://blog.roboblob.com/2010/01/17/wiring-up-view-and-viewmodel-in-mvvm-and-silverlight-4-blendability-included/)”
 </td><td>
@@ -152,7 +151,7 @@ This design by Gabriel Perez should work better than a similar control I built i
 </td></tr><tr><td>
 “[[Asynchronous] MVVM… Stop the Dreaded Dead GUI Problem in WPF7](http://www.codeproject.com/Articles/123183/Asynchronus-MVVM-Stop-the-Dreaded-Dead-GUI-Problem)”
 </td><td>
-I’m pretty sure this article was written before `Task&lt;T&gt;` was generally available.
+I’m pretty sure this article was written before `Task<T>` was generally available.
 </td></tr><tr><td>
 “[NuGet packages for Mvvm Light](http://insomniacgeek.com/nuget-packages-for-mvvm-light/)”
 </td><td>
@@ -180,7 +179,7 @@ Another 2011 thing of interest.
 </td></tr><tr><td>
 “[Using CollectionViewSource in MVVM](http://social.msdn.microsoft.com/Forums/silverlight/en-US/29699048-3ecb-407e-a28c-cd826024fbb2/using-collectionviewsource-in-mvvm?forum=silverlightcontrols)”
 </td><td>
-This thread shows a sample that uses `CollectionViewSource` to wrap `ObservableCollection&lt;T&gt;`.
+This thread shows a sample that uses `CollectionViewSource` to wrap `ObservableCollection<T>`.
 </td></tr><tr><td>
 “[CollectionViewSource is crazy useful for binding to filtered Observable Collections on Windows Phone 8](http://www.hanselman.com/blog/CollectionViewSourceIsCrazyUsefulForBindingToFilteredObservableCollectionsOnWindowsPhone8.aspx)”
 </td><td>

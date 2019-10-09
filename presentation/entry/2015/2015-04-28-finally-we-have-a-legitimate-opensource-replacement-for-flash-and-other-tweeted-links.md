@@ -65,6 +65,6 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">DDD revisited [https://t.co/dxR4TMLdqE](https://t.co/dxR4TMLdqE)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">this fork worked for me =&gt; Convert-SQL-Server-to-SQLite [https://t.co/SGSOryFTL1](https://t.co/SGSOryFTL1) by [@elerch](http://twitter.com/elerch)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">this fork worked for me => Convert-SQL-Server-to-SQLite [https://t.co/SGSOryFTL1](https://t.co/SGSOryFTL1) by [@elerch](http://twitter.com/elerch)</span>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

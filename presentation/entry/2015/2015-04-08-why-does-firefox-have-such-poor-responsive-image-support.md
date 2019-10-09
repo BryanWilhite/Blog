@@ -22,7 +22,7 @@
 Based on my research of a less than an hour, there are three ways to approach responsive image support:
 
 * What Chris Coyier recommended last year: “[If you’re just changing resolutions, use srcset.](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)”
-* Use the `picture` element (but Chris warns, “…if you go down the `&lt;picture&gt;` with explicit sources, the browser **has to do exactly what you say** and not make choices for itself”).
+* Use the `picture` element (but Chris warns, “…if you go down the `<picture>` with explicit sources, the browser **has to do exactly what you say** and not make choices for itself”).
 * Use a polyfill (Chris recommends [Picturefill](http://scottjehl.github.io/picturefill/)—with a caveat: “[To Picturefill, or not to Picturefill](http://www.filamentgroup.com/lab/to-picturefill.html)”).
 
 So, yeah, my information is from last year. However, the `srcset` page from [today’s caniuse.com](https://caniuse.com/#feat=srcset) is still telling a bleak story of corporate-sponsored “innovation.” Try out `srcset` with my Code Pen:

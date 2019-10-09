@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-04-07-scripting-with-mono-s-embedded-api-channel-9-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"mastery =&gt; Scripting with Mono's Embedded API (Channel 9) [channel9.msdn.com]  via @sh4na       GoingNative 36: Cross-Platform Mobile Development in VS2015 | C9::GoingNative [channel9.msdn.com]        Node.js Tools for Visual Studio [visualstudio.com]...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"mastery => Scripting with Mono's Embedded API (Channel 9) [channel9.msdn.com]  via @sh4na       GoingNative 36: Cross-Platform Mobile Development in VS2015 | C9::GoingNative [channel9.msdn.com]        Node.js Tools for Visual Studio [visualstudio.com]...\"\r\n}"
 }
 ---
 
 # “Scripting with Mono’s Embedded API (Channel 9)” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") mastery =&gt; Scripting with Mono's Embedded API (Channel 9) [[channel9.msdn.com]](http://channel9.msdn.com/Events/dotnetConf/2015/Scripting-with-Monos-Embedded-API) via [@sh4na](http://twitter.com/sh4na)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") mastery => Scripting with Mono's Embedded API (Channel 9) [[channel9.msdn.com]](http://channel9.msdn.com/Events/dotnetConf/2015/Scripting-with-Monos-Embedded-API) via [@sh4na](http://twitter.com/sh4na)
 
 [<img alt="Microsoft Channel 9 [ch9]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ch9.png">](http://t.co/azjEhFytrz "Microsoft Channel 9 [ch9]") GoingNative 36: Cross-Platform Mobile Development in VS2015 | C9::GoingNative [[channel9.msdn.com]](http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-36-Cross-Platform-Mobile-Development-in-VS2015?WT.mc_id=dlvr_twitter_ch9)
 

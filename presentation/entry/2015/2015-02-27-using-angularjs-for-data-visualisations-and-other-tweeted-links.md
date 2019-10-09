@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft's Goals For Their New Web Rendering Engine [[tech.slashdot.org]](http://tech.slashdot.org/story/15/02/26/2042238/microsofts-goals-for-their-new-web-rendering-engine?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# solutions and more | Add context to IEnumerable&lt;&gt; elements [[siepman.nl]](http://www.siepman.nl/blog/post/2015/02/09/Add-context-to-IEnumerable-elements.aspx)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") C# solutions and more | Add context to IEnumerable<> elements [[siepman.nl]](http://www.siepman.nl/blog/post/2015/02/09/Add-context-to-IEnumerable-elements.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET Packaging mess - Ayende @ Rahien [[ayende.com]](http://ayende.com/blog/169857/net-packaging-mess) via [@ayende](http://twitter.com/ayende)
 

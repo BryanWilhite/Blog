@@ -13,17 +13,17 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-07-19-what-s-new-in-reactiveui-6-0-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt;  http://t.co/jD8UHWpe6y  Caching: the Good, the Bad and the Hype https://t.co/LwPqKJRUDV  It's live! ✏ Understanding #SVG Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preser...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"What's new in ReactiveUI 6.0: ReactiveCommand<T>  <http://t.co/jD8UHWpe6y>  Caching: the Good, the Bad and the Hype <https://t.co/LwPqKJRUDV>  It's live! ✏ Understanding #SVG Coordinate Systems & Transformations - The viewport, viewBox & preser...\"\r\n}"
 }
 ---
 
 # “What’s new in ReactiveUI 6.0” and other Tweeted Links…
 
-[<img alt="Paul Betts [paulcbetts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/paulcbetts.jpeg">](http://t.co/1tmHzDAFNm "Paul Betts [paulcbetts]") <span>What's new in ReactiveUI 6.0: ReactiveCommand&lt;T&gt; [http://t.co/jD8UHWpe6y](http://t.co/jD8UHWpe6y)</span>
+[<img alt="Paul Betts [paulcbetts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/paulcbetts.jpeg">](http://t.co/1tmHzDAFNm "Paul Betts [paulcbetts]") <span>What's new in ReactiveUI 6.0: ReactiveCommand<T> [http://t.co/jD8UHWpe6y](http://t.co/jD8UHWpe6y)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>Caching: the Good, the Bad and the Hype [https://t.co/LwPqKJRUDV](https://t.co/LwPqKJRUDV)</span>
 
-[<img alt="Sara Soueidan [SaraSoueidan]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SaraSoueidan.png">](http://t.co/tfgYPYsycN "Sara Soueidan [SaraSoueidan]") <span>It's live! ✏ Understanding [#SVG](http://search.twitter.com/search?q=%23SVG) Coordinate Systems &amp; Transformations - The viewport, viewBox &amp; preserveAspectRatio [http://t.co/8ywACxfPcU](http://t.co/8ywACxfPcU) =)</span>
+[<img alt="Sara Soueidan [SaraSoueidan]" src="https://songhay.blob.core.windows.net/shared-social-twitter/SaraSoueidan.png">](http://t.co/tfgYPYsycN "Sara Soueidan [SaraSoueidan]") <span>It's live! ✏ Understanding [#SVG](http://search.twitter.com/search?q=%23SVG) Coordinate Systems & Transformations - The viewport, viewBox & preserveAspectRatio [http://t.co/8ywACxfPcU](http://t.co/8ywACxfPcU) =)</span>
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://t.co/s5roAXuR0y "the kinte space [KinteSpace]") <span>Link without improving "their" search engine position | [http://t.co/6ImByDu7hW](http://t.co/6ImByDu7hW) [http://t.co/SOMuKP5UBJ](http://t.co/SOMuKP5UBJ)</span>
 
@@ -45,7 +45,7 @@
 
 [<img alt="Jeremy Likness [jeremylikness]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jeremylikness.png">](http://t.co/WRlhr12CpE "Jeremy Likness [jeremylikness]") <span>It's not all roses, or "Why we left [@AngularJS](http://twitter.com/AngularJS) for the server" [http://t.co/w3d3E6YozG](http://t.co/w3d3E6YozG) (Also known as "pick the right tool") [#Angularjs](http://search.twitter.com/search?q=%23Angularjs)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>GDG Silicon Valley: Dart Power Tools with Brad Rydzewski &amp; Matt Norris - YouTube [https://t.co/BHTWDzK0lK](https://t.co/BHTWDzK0lK)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>GDG Silicon Valley: Dart Power Tools with Brad Rydzewski & Matt Norris - YouTube [https://t.co/BHTWDzK0lK](https://t.co/BHTWDzK0lK)</span>
 
 [<img alt="Paolo Valdemarin [paolovalde]" src="https://songhay.blob.core.windows.net/shared-social-twitter/paolovalde.jpeg">](http://t.co/yk3k4dUsQ3 "Paolo Valdemarin [paolovalde]") <span>.[@davewiner](http://twitter.com/davewiner) is doing it again. “This is going to be incredible.” Yup. It is. [http://t.co/OlCsCGW5FM](http://t.co/OlCsCGW5FM)</span>
 
@@ -63,7 +63,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>How to install MySQLDumper on a CentOS VPS | [http://t.co/D5SHmDpRWX](http://t.co/D5SHmDpRWX) Linux VPS Hosting Blog [http://t.co/sTsr8VYVtH](http://t.co/sTsr8VYVtH)</span>
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>"AngularJS &amp; D3: Directives for Visualizations AngularJS &amp; D3" [http://t.co/DKphJneRWS](http://t.co/DKphJneRWS)</span>
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>"AngularJS & D3: Directives for Visualizations AngularJS & D3" [http://t.co/DKphJneRWS](http://t.co/DKphJneRWS)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") <span>AOC E1649FWU USB Monitor Unboxing (HD): [http://t.co/u1xkZviMS1](http://t.co/u1xkZviMS1) via [@youtube](http://twitter.com/youtube)</span>
 

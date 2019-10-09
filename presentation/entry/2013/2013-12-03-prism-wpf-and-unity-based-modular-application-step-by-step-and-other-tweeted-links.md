@@ -59,7 +59,7 @@
 
 [<img alt="Jeremy Likness [jeremylikness]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jeremylikness.png">](http://t.co/tv3balGz2r "Jeremy Likness [jeremylikness]") <span>.NET Framework 4.5.1 RTM [http://t.co/ijLHVmx3Je](http://t.co/ijLHVmx3Je)</span>
 
-[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://t.co/XnjXlnehzl "Julie Lerman [julielerman]") <span>Remember the promise that EF6 would release concurrently w VS2013? Go get it!! -&gt; [http://t.co/MbCR3rE4uz](http://t.co/MbCR3rE4uz) [#entityframework](http://search.twitter.com/search?q=%23entityframework)</span>
+[<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://t.co/XnjXlnehzl "Julie Lerman [julielerman]") <span>Remember the promise that EF6 would release concurrently w VS2013? Go get it!! -> [http://t.co/MbCR3rE4uz](http://t.co/MbCR3rE4uz) [#entityframework](http://search.twitter.com/search?q=%23entityframework)</span>
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/KevCQ5bvaW "Bryan D. Wilhite [BryanWilhite]") <span>Nokia Unveils Its First Ever Windows Tablet, The Lumia 2520 [http://t.co/EOIAlgBnlW](http://t.co/EOIAlgBnlW))</span>
 
