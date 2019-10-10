@@ -55,7 +55,7 @@ Ensuring chocolatey commands are on the path
 Ensuring chocolatey.nupkg is in the lib folder
 ```
 
-Here is the punch line: I never had a `C:\Chocolately` folder! My machine has a OneGet `C:\Packages `folder. However, the `choco.exe` installation appears to have successfully moved all Chocolatey packages from the folder to `C:\ProgramData\chocolatey`.
+Here is the punch line: I never had a `C:\Chocolately` folder! My machine has a OneGet `C:\Packages` folder. However, the `choco.exe` installation appears to have successfully moved all Chocolatey packages from the folder to `C:\ProgramData\chocolatey`.
 
 I find this command super-useful:
 

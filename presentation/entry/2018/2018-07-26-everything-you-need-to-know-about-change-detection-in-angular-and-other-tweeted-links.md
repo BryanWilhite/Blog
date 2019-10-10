@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using ViewChild in Angular to Access a Child Component, Directive or DOM Element: [[alligator.io]](https://alligator.io/angular/viewchild-access-component/)[@alligatorio](http://twitter.com/alligatorio) 🎉🐊
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The . [@angular](http://twitter.com/angular) docs strongly suggest that ` [@ViewChild](http://twitter.com/ViewChild)` only applies to Directive types: [[angular.io]](https://angular.io/api/core/ViewChild)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The . [@angular](http://twitter.com/angular) docs strongly suggest that `[@ViewChild](http://twitter.com/ViewChild)` only applies to Directive types: [[angular.io]](https://angular.io/api/core/ViewChild)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular CDK and Material in 2018 [version 6] [[youtube.com]](https://www.youtube.com/watch?v=v__RuD9RX3I)[@jelbourn](http://twitter.com/jelbourn)
 

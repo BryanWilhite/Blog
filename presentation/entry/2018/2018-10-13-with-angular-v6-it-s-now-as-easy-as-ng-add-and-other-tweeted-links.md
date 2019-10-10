@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-10-13-with-angular-v6-it-s-now-as-easy-as-ng-add-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"With Angular v6 it's now as easy as `ng add @angular/pwa`. 🌟🌞⚡ [twitter.com]       What's new in #Angular Release 6.0.0 🇬🇧. My article at @JAXenter shows:        🌴Treeshakable Providers       ⚡️Angular Elements (\\\"Web Components\\\")       📺Outlook to ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"With Angular v6 it's now as easy as ng add @angular/pwa. 🌟🌞⚡ [twitter.com]       What's new in #Angular Release 6.0.0 🇬🇧. My article at @JAXenter shows:        🌴Treeshakable Providers       ⚡️Angular Elements (\\\"Web Components\\\")       📺Outlook to ...\"\r\n}"
 }
 ---
 
@@ -61,7 +61,7 @@ groupBy() in Javascript [[consolelog.io]](https://www.consolelog.io/group-by-in-
 
 Adaptive Cards Overview - Adaptive Cards | Microsoft Docs [[docs.microsoft.com]](https://docs.microsoft.com/en-us/adaptive-cards/?WT.mc_id=twitter)
 
-I'm almost ready to move out of Angular JS and show up late to the [@angular](http://twitter.com/@angular) party once these [[asp.net]](http://ASP.NET) Core on [@Azure](http://twitter.com/@Azure) topics are addressed: * Error pages * Redirects * Deep links
+I'm almost ready to move out of Angular JS and show up late to the [@angular](http://twitter.com/@angular) party once these [[asp.net]](http://ASP.NET) Core on [@Azure](http://twitter.com/@Azure) topics are addressed: - Error pages - Redirects - Deep links
 
 Here is a snapshot of my Not Secure blog, running Angular JS. I notice that I am unable to upload this image to [@Flickr](http://twitter.com/@Flickr) because of [@SmugMug](http://twitter.com/@SmugMug) stuff and, yes, I am old. I look forward to upgrading it to [@angular](http://twitter.com/@angular) and making it secure. [[twitter.com]](https://twitter.com/BryanWilhite/status/992553367934193664/photo/1)
 

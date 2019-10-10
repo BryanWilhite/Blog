@@ -53,7 +53,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[@VisualStudio](http://twitter.com/VisualStudio) I used the phrase “routine plugin updates” to save time and prevent you asking that question. I am re… [[twitter.com]](https://twitter.com/i/web/status/859195220889550849)
 
-[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Understood. Please run the Log Collection Tool and share your ‘%temp%\[[vslogs.zip]](http://vslogs.zip)’ file with us via DM.
+[<img alt="Visual Studio [VisualStudio]" src="https://songhay.blob.core.windows.net/shared-social-twitter/VisualStudio.jpg">](http://t.co/OqnL9IGcUY "Visual Studio [VisualStudio]")[@BryanWilhite](http://twitter.com/BryanWilhite) Understood. Please run the Log Collection Tool and share your `%temp%\vslogs.zip` file with us via DM.
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 10 Best Java IDEs For Linux - LinuxAndUbuntu - Linux News | Apps Reviews | Linux Tutorials HowTo [[linuxandubuntu.com]](http://www.linuxandubuntu.com/home/10-best-java-ides-for-linux)
 

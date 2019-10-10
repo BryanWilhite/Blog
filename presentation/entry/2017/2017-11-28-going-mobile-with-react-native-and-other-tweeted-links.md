@@ -27,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") From JavaScript to Functional Web Development (part 1) [[medium.com]](https://medium.com/@iSetr/from-javascript-to-functional-web-development-part-1-c17b5c5fe260)
 
-[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") Regarding things like: ``` require("thing")(options) connect(thisthing)(thatthing) ``` [[twitter.com]](https://twitter.com/BenNadel/status/934753491339415552)
+[<img alt="Meligy 🅰️ ng-sydney [Meligy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Meligy.jpeg">](https://t.co/l318930X1B "Meligy 🅰️ ng-sydney [Meligy]") Regarding things like: `require("thing")(options) connect(thisthing)(thatthing)` [[twitter.com]](https://twitter.com/BenNadel/status/934753491339415552)
 
 [<img alt="Immo Landwerth [terrajobst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/terrajobst.jpg">](https://t.co/pfw9pKc4sL "Immo Landwerth [terrajobst]") JavaScript is the fast food of software: it's delicious, it's cheap, it's ubiquitous and it's also responsible for… [[twitter.com]](https://twitter.com/i/web/status/934212098342522880)
 

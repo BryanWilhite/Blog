@@ -19,7 +19,7 @@
 
 # “Angular 2 and ASP.NET Core—A Webcast” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 2 and [ASP.NET ](http://www.asp.net/) Core - A Webcast [[wildermuth.com]](http://wildermuth.com/2016/02/01/Angular_2_and_ASP_NET_Core_-_A_Webcast)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 2 and [ASP.NET](http://www.asp.net/) Core - A Webcast [[wildermuth.com]](http://wildermuth.com/2016/02/01/Angular_2_and_ASP_NET_Core_-_A_Webcast)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Angular 1.x to Angular 2 Quick Reference [[blogs.msmvps.com]](http://blogs.msmvps.com/deborahk/angular-1-x-to-angular-2-quick-reference/)
 
@@ -49,7 +49,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The final feature set of ECMAScript 2016 (ES7) [[2ality.com]](http://www.2ality.com/2016/01/ecmascript-2016.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HSTS Supercookies with [ASP.NET ](http://www.asp.net/)[[insidethecpu.com]](http://insidethecpu.com/2016/01/29/hsts-supercookies-with-asp-net/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") HSTS Supercookies with [ASP.NET](http://www.asp.net/)[[insidethecpu.com]](http://insidethecpu.com/2016/01/29/hsts-supercookies-with-asp-net/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Basics of Web Application Security [[martinfowler.com]](http://martinfowler.com/articles/web-security-basics.html)
 

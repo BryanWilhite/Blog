@@ -19,7 +19,7 @@
 
 # The Ornery Twitter API 1.1: Struggling with the Lack of Fresh Documentation
 
-The abstract “personality” of Twitter matches the curt, blunt tone coming from the current “leader” of Twitter, CEO Dick Costolo in “[Twitter’s CEO says a leader doesn’t care what people think and shouldn’t copy others](http://thenextweb.com/twitter/2013/09/09/twitters-ceo-says-an-effective-leader-doesnt-care-what-people-think-and-shouldnt-copy-others/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TheNextWeb+(The+Next+Web+All+Stories)” (by Ken Yeung). It took me a ridiculously large time to solve my problem with the Twitter API (version 1.1) because of Twitter culture not caring what I think (especially as a .NET developer).
+The abstract “personality” of Twitter matches the curt, blunt tone coming from the current “leader” of Twitter, CEO Dick Costolo in “[Twitter’s CEO says a leader doesn’t care what people think and shouldn’t copy others](https://bit.ly/2M70BPX)” (by Ken Yeung). It took me a ridiculously large time to solve my problem with the Twitter API (version 1.1) because of Twitter culture not caring what I think (especially as a .NET developer).
 
 I am not alone. Collectively, Twitter doesn’t care what Tom Scott of the [“dead” KloucheBag](http://www.tomscott.com/klouchebag/) thinks either:
 

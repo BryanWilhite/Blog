@@ -155,7 +155,7 @@ I am not quite sure that RIA services just works with the latest version of Azur
 ## Related Resources
 
 * “[WCF RIA Services](http://msdn.microsoft.com/en-us/library/ee707344(v=VS.91).aspx)”
-* “[MSDN Samples Gallery Getting Started—WCF RIA Services](http://code.msdn.microsoft.com/site/search?f[0].Type=Technology&f[0].Value=WCF RIA Services&f[1].Type=Affiliation&f[1].Value=Microsoft)”
+* “[MSDN Samples Gallery Getting Started—WCF RIA Services](https://code.msdn.microsoft.com/site/search?f[0].Type=Technology&f[0].Value=WCF%20RIA%20Services&f[1].Type=Affiliation&f[1].Value=Microsoft)”
 * “[Developing with WCF RIA Services Quickly and Effectively](http://channel9.msdn.com/Events/MIX/MIX10/CL09)”
 * “[What is .NET RIA Services?](http://blogs.msdn.com/b/brada/archive/2009/03/19/what-is-net-ria-services.aspx)”
 * “[MIX10 Talk—Slides and Code](http://www.nikhilk.net/RIA-Services-MIX10-Slides-Code.aspx)”

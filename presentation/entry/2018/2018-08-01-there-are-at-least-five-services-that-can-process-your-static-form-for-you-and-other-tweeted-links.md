@@ -73,9 +73,9 @@
 
 [<img alt="Filip W [filip_woj]" src="https://songhay.blob.core.windows.net/shared-social-twitter/filip_woj.jpg">](http://t.co/VCkinoHijZ "Filip W [filip_woj]") I haven't seen the official announcement (I presume it will come soon), but [[asp.net]](http://ASP.NET) Core 2.0.7 is o… [[twitter.com]](https://twitter.com/i/web/status/986214393242439682)
 
-[<img alt="Andrew Lock " sock"="" [andrewlocknet]"="" src="https://songhay.blob.core.windows.net/shared-social-twitter/andrewlocknet.jpg">](https://t.co/vQQmDSd1my "Andrew Lock "Sock" [andrewlocknet]") Blogged: Using an IActionFilter to read action method parameter values in ASP​.NET Core MVC [[buff.ly]](https://buff.ly/2ETsIuQ)[#aspnetcore](http://twitter.com/search?q=%23aspnetcore)
+[<img alt="Andrew Lock “sock” [andrewlocknet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/andrewlocknet.jpg">](https://t.co/vQQmDSd1my "Andrew Lock “Sock” [andrewlocknet]") Blogged: Using an IActionFilter to read action method parameter values in ASP​.NET Core MVC [[buff.ly]](https://buff.ly/2ETsIuQ)[#aspnetcore](http://twitter.com/search?q=%23aspnetcore)
 
-[<img alt="Adam Wright [awright18]" src="https://songhay.blob.core.windows.net/shared-social-twitter/awright18.jpg">]( "Adam Wright [awright18]")[@davidfowl](http://twitter.com/davidfowl)[[proto.actor]](http://Proto.actor) which works on .net core is pretty straight forward to use as well. [[github.com]](https://github.com/AsynkronIT/protoactor-dotnet)
+[<img alt="Adam Wright [awright18]" src="https://songhay.blob.core.windows.net/shared-social-twitter/awright18.jpg">](https://twitter.com/awright18 "Adam Wright [awright18]") [@davidfowl](http://twitter.com/davidfowl)[[proto.actor]](http://Proto.actor) which works on .net core is pretty straight forward to use as well. [[github.com]](https://github.com/AsynkronIT/protoactor-dotnet)
 
 [<img alt="Microsoft OneNote [msonenote]" src="https://songhay.blob.core.windows.net/shared-social-twitter/msonenote.jpg">](http://t.co/wzBkyeUbTU "Microsoft OneNote [msonenote]") Starting this fall, OneNote for Windows 10 will be included in Office 2019 and Office 365! Learn more about these c… [[twitter.com]](https://twitter.com/i/web/status/986636126466256896)
 
@@ -85,7 +85,7 @@
 
 [<img alt="Brian Beckman [lorentzframe]" src="https://songhay.blob.core.windows.net/shared-social-twitter/lorentzframe.jpg">](http://t.co/aC5mXb9iZQ "Brian Beckman [lorentzframe]") Python does it again: PEP 483 has a very clean, very short introduction to co- and contra-variance: [[python.org]](https://www.python.org/dev/peps/pep-0483/#covariance-and-contravariance)
 
-[<img alt="Tom Keane [tomwkeane]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tomwkeane.jpg">]( "Tom Keane [tomwkeane]") Now, more than ever, we believe privacy is a fundamental right. Here's Microsoft Azure's plan and timeline for mee… [[twitter.com]](https://twitter.com/i/web/status/986260803803205632)
+[<img alt="Tom Keane [tomwkeane]" src="https://songhay.blob.core.windows.net/shared-social-twitter/tomwkeane.jpg">](https://twitter.com/tomwkeane "Tom Keane [tomwkeane]") Now, more than ever, we believe privacy is a fundamental right. Here's Microsoft Azure's plan and timeline for mee… [[twitter.com]](https://twitter.com/i/web/status/986260803803205632)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Brief History of .NET Standard [[blog.xamarin.com]](https://blog.xamarin.com/history-dot-net-standard/)[@LBugnion](http://twitter.com/LBugnion)
 

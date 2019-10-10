@@ -25,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon's Thin Helvetica Syndrome: Font Anorexia vs. Kindle Readability [[news.slashdot.org]](http://news.slashdot.org/story/16/02/05/1727234/amazons-thin-helvetica-syndrome-font-anorexia-vs-kindle-readability?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Why Do I Still See [ASP.NET ](http://www.asp.net/) 5 in Various Official Places?" [@shanselman](http://twitter.com/shanselman)[@csharpfritz](http://twitter.com/csharpfritz)[[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Why Do I Still See [ASP.NET](http://www.asp.net/) 5 in Various Official Places?" [@shanselman](http://twitter.com/shanselman)[@csharpfritz](http://twitter.com/csharpfritz)[[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 9 cool web development tools - krmax44 Blog [[krmax44.de]](https://krmax44.de/2016/02/01/9-cool-website-development-tools/)
 
@@ -43,7 +43,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “ContentFiles in NuGet are static files that the.. client will make available through the project.lock.json file” [[blog.nuget.org]](http://blog.nuget.org/20160126/nuget-contentFiles-demystified.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Different Perspective on [ASP.NET ](http://www.asp.net/) Middleware [[odetocode.com]](http://odetocode.com/blogs/scott/archive/2016/02/01/a-different-perspective-on-asp-net-middleware.aspx)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Different Perspective on [ASP.NET](http://www.asp.net/) Middleware [[odetocode.com]](http://odetocode.com/blogs/scott/archive/2016/02/01/a-different-perspective-on-asp-net-middleware.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") "Debugging Unity 3D with VSCode" [@sh4na](http://twitter.com/sh4na)[[channel9.msdn.com]](https://channel9.msdn.com/coding4fun/blog/Debugging-Unity-3D-with-VSCode)
 

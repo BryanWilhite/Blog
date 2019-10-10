@@ -53,7 +53,7 @@ I have updated my sketchy TODO list below to assert that `Songhay.Blog`*can* mak
 
 Today the studio development schedule looks like this:
 
-* <del>get 11ty pipelines running with the FunkyKB</del> ✔
+* ~~get 11ty pipelines running with the FunkyKB~~ ✔
 * migrate Thunderbird email to new Hyper-V Ubuntu VM 🚜🚛🚛
 * update SonghaySystem.com with my new `@songhay/player-video-you-tube` and `@songhay/index` 📦
 * convert the Day Path blog to 11ty (with `@songhay/index` as a side-car app) 💪💡

@@ -45,13 +45,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Application Insights Telemetry in Glimpse [[blog.getglimpse.com]](http://blog.getglimpse.com/2015/12/15/application-insights-telemetry-in-glimpse/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Securing [ASP.NET ](http://www.asp.net/) Web API using Token Based Authentication and using it in Angular.js application [[dotnetcurry.com]](http://www.dotnetcurry.com/aspnet/1223/secure-aspnet-web-api-using-tokens-owin-angularjs)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Securing [ASP.NET](http://www.asp.net/) Web API using Token Based Authentication and using it in Angular.js application [[dotnetcurry.com]](http://www.dotnetcurry.com/aspnet/1223/secure-aspnet-web-api-using-tokens-owin-angularjs)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Publishing a [ASP.NET ](http://www.asp.net/) 5 Web-Application to IIS Locally [[blogs.msdn.com]](http://blogs.msdn.com/b/abhinaba/archive/2015/12/22/publishing-a-asp-net-5-web-application-to-iis-locally.aspx)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Publishing a [ASP.NET](http://www.asp.net/) 5 Web-Application to IIS Locally [[blogs.msdn.com]](http://blogs.msdn.com/b/abhinaba/archive/2015/12/22/publishing-a-asp-net-5-web-application-to-iis-locally.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Rocket and the App Container Spec • Kelsey Hightower [[youtube.com]](https://www.youtube.com/watch?v=M6B9BMYciIw&feature=youtu.be)[@pocintech](http://twitter.com/pocintech)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Closer Look at Various JSON Files in [ASP.NET ](http://www.asp.net/) 5 - CodeProject - [[codeproject.com]](http://www.codeproject.com/Articles/1065185/A-Closer-Look-at-Various-JSON-Files-in-ASP-NET)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") A Closer Look at Various JSON Files in [ASP.NET](http://www.asp.net/) 5 - CodeProject - [[codeproject.com]](http://www.codeproject.com/Articles/1065185/A-Closer-Look-at-Various-JSON-Files-in-ASP-NET)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") True Asynchronous I/O - CodeProject - [[codeproject.com]](http://www.codeproject.com/Articles/1067617/True-Asynchronous-I-O)
 
@@ -77,7 +77,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Era of Portable .NET - [[developer.telerik.com]](http://developer.telerik.com/featured/the-era-of-portable-net/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Practical multithreading in [ASP.NET ](http://www.asp.net/) - CodeProject - [[codeproject.com]](http://www.codeproject.com/Articles/1067678/Practical-multithreading-in-ASP-NET)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Practical multithreading in [ASP.NET](http://www.asp.net/) - CodeProject - [[codeproject.com]](http://www.codeproject.com/Articles/1067678/Practical-multithreading-in-ASP-NET)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Programming According to Wagner [[blendernation.com]](http://www.blendernation.com/2016/01/03/programming-according-wagner/)
 

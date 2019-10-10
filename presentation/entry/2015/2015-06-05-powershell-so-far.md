@@ -70,7 +70,7 @@ The piping to `sort` in `foreach` is possible only because of the rather non-obv
 
 <blockquote>
 
-…in the preceding command the hash table is sent as a single object; thus there’s nothing for the Sort-Object cmdlet to sort. If we want to sort a hash table by Name we need to use the `GetEnumerator `method, which effectively sends each entry in the hash table across the pipeline as a separate object…
+…in the preceding command the hash table is sent as a single object; thus there’s nothing for the Sort-Object cmdlet to sort. If we want to sort a hash table by Name we need to use the `GetEnumerator` method, which effectively sends each entry in the hash table across the pipeline as a separate object…
 
 </blockquote>
 

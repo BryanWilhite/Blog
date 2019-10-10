@@ -99,7 +99,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Linux creator explains why a truly secure computing platform will never exist [[bgr.com]](http://bgr.com/2015/09/25/linus-torvalds-quotes-interview-linux-security/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") sftp://{username[:password]}@{domain}/{path} [[askubuntu.com]](http://askubuntu.com/questions/129794/connect-ftp-sftp-in-dolphin-or-transfer-nautilus-bookmarks/291329#291329)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") `sftp://{username[:password]}@{domain}/{path}` [[askubuntu.com]](http://askubuntu.com/questions/129794/connect-ftp-sftp-in-dolphin-or-transfer-nautilus-bookmarks/291329#291329)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft To Help Indian Government To Bring Low-Cost Broadband Connectivity To 500,000 Villages [[wmpoweruser.com]](http://wmpoweruser.com/microsoft-to-help-indian-government-to-bring-low-cost-broadband-connectivity-to-500000-villages/)
 

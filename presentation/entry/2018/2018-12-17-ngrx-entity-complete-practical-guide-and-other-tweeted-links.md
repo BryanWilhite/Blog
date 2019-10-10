@@ -93,7 +93,7 @@
 
 [<img alt="A. Sharif [sharifsbeat]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/sharifsbeat.jpg">](https://twitter.com/sharifsbeat) Some random thoughts... Is broken software a reflection of... a broken culture? dysfunctional team dynamics? a broken business model? overestimating technical knowledge? a broken process? lack of product development knowledge? Is it a mix of all of these above? What else?
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@sharifsbeat](http://twitter.com/@sharifsbeat) * lack of a coherent, strategic technology portfolio * deliberate and irresponsible increase in technical debt as a brutish scheme to save money by allowing the enterprise to age
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz)[@sharifsbeat](http://twitter.com/@sharifsbeat) ✳ lack of a coherent, strategic technology portfolio ✳ deliberate and irresponsible increase in technical debt as a brutish scheme to save money by allowing the enterprise to age
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Paul Thurrott’s Short Takes: Microsoft Earnings Special Edition [[petri.com]](https://www.petri.com/paul-thurrotts-short-takes-microsoft-earnings-special-edition-9)
 

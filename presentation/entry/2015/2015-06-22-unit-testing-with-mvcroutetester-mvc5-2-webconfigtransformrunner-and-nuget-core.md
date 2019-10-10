@@ -23,7 +23,7 @@ After researching this, I understand why there are no articles entitled “Unit 
 
 So let me state the original desire, since the previous paragraph flippantly starts off somewhere in the middle: I want to unit-test XML document transforms (XDT) on my `Web.config` files and I want to test *attribute-based* MVC routes. I also want to use Visual Studio Test (`vstest.console.exe`) projects so automated-testing hipsters can howl at me with derisive laughter.
 
-### Testing with MvcRouteTester.Mvc5.2
+## Testing with MvcRouteTester.Mvc5.2
 
 Speaking of ease, my `ShouldRouteToIndexController()` Visual Studio Test method shows that I can test routes with just three lines of code:
 
@@ -75,7 +75,7 @@ The whole thing of needing a new build for each MVC version is a pain. We are in
 
 </blockquote>
 
-### Testing with WebConfigTransformRunner and Nuget.Core
+## Testing with WebConfigTransformRunner and Nuget.Core
 
 Eric Hexter gives us `WebConfigTransformRunner` as an `*.exe` via a NuGet package. Clearly this package is optimized for the command line. But I still wanted to use it for automated testing and clearly take my childish, one-line-of-code bragging rights. So I’ve wrapped up Eric’s runner in yet another reusable extension method `TestContext.ShouldTransformWebConfig()`, pictured below:
 [<img alt="TestContext.ShouldTransformWebConfig()" src="https://farm1.staticflickr.com/544/18947684476_d90890ebb3_z_d.jpg">](https://www.flickr.com/photos/wilhite/18947684476/in/dateposted-public/ "TestContext.ShouldTransformWebConfig()")
@@ -102,7 +102,7 @@ After `WebConfigTransformRunner` runs, its output is tested with the contents of
 //system.webServer/staticContent/mimeMap[@fileExtension='.opml']
 ```
 
-### Okay folks, one last extension method for today…
+## Okay folks, one last extension method for today…
 
 Do notice that none of these automated tests used absolute paths. All of the paths to set up the tests were relative. This is possible (in part) because I set up my Visual Studio projects folder like this:
 

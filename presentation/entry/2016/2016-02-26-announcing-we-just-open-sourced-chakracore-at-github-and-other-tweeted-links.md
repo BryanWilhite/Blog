@@ -25,7 +25,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Some Pretty Splendid SVG Links [[css-tricks.com]](https://css-tricks.com/svg-funsville-links/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Here come [ASP.NET ](http://www.asp.net/) Core 1.0 and .NET Core 1.0. [[zdnet.com]](http://www.zdnet.com/article/microsoft-rebrands-asp-net-5-net-core-5/#ftag=RSSbaffb68)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Here come [ASP.NET](http://www.asp.net/) Core 1.0 and .NET Core 1.0. [[zdnet.com]](http://www.zdnet.com/article/microsoft-rebrands-asp-net-5-net-core-5/#ftag=RSSbaffb68)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Announcing the Azure SDK 2.8.2 for .NET [[azure.microsoft.com]](https://azure.microsoft.com/en-us/blog/announcing-azure-sdk-2-8-2-for-net/)
 
@@ -57,7 +57,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “base64 image decode c# ” [[stackoverflow.com]](http://stackoverflow.com/questions/5083336/decoding-base64-image)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET ](http://www.asp.net/) 5 Logging using Trace Listeners and How-to Filter Log Entries [[codeproject.com]](http://www.codeproject.com/Articles/1073028/ASP-NET-Logging-using-Trace-Listeners-and-How-to-F)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET](http://www.asp.net/) 5 Logging using Trace Listeners and How-to Filter Log Entries [[codeproject.com]](http://www.codeproject.com/Articles/1073028/ASP-NET-Logging-using-Trace-Listeners-and-How-to-F)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Use TraceSource Efficiently [[codeproject.com]](http://www.codeproject.com/Tips/1071853/Use-TraceSource-Efficiently)
 

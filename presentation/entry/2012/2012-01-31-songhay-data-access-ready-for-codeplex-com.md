@@ -30,7 +30,7 @@ I actually need this for my current work:
 Now that the DAR stuff is cleanly separated from the `System.Data.Common` stuff, my generic data access routines that date back to .NET 2.0 is ready for the public.
 [<img alt="Songhay Data Access" src="http://farm8.staticflickr.com/7154/6762510791_99721a18ff_o.png">](http://songhaydataaccess.codeplex.com/ "Songhay Data Access")
 
-### Songhay Data Access
+## Songhay Data Access
 
 [Songhay Data Access](http://songhaydataaccess.codeplex.com/) is a set of static helper classes defining routines around `System.Data.Common`. As of this writing Songhay Data Access has been used with SQLite, MySQL and SQL Server, but, in theory, this set of libraries will work with *any* database that has an ADO.NET provider written for it.
 

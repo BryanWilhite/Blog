@@ -19,9 +19,9 @@
 
 # “What’s New and Coming For Glimpse” and other Tweeted Links…
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's New and Coming For Glimpse | [ASP.NET ](http://www.asp.net/) Fall Sessions [[channel9.msdn.com]](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/Whats-New-and-Coming-For-Glimpse)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") What's New and Coming For Glimpse | [ASP.NET](http://www.asp.net/) Fall Sessions [[channel9.msdn.com]](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/Whats-New-and-Coming-For-Glimpse)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer: [ASP.NET ](http://www.asp.net/) MVC4 WebApi route with file-name in it [[stackoverflow.com]](http://stackoverflow.com/questions/14664488/asp-net-mvc4-webapi-route-with-file-name-in-it/14664712?stw=2#14664712)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer: [ASP.NET](http://www.asp.net/) MVC4 WebApi route with file-name in it [[stackoverflow.com]](http://stackoverflow.com/questions/14664488/asp-net-mvc4-webapi-route-with-file-name-in-it/14664712?stw=2#14664712)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Upload and Download Files with Web API and Azure Blob Storage [[arcware.net]](http://arcware.net/upload-and-download-files-with-web-api-and-azure-blob-storage/) via [@arcware](http://twitter.com/arcware) .. [@shanselman](http://twitter.com/shanselman)
 

@@ -27,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Creating fluid and beautiful UI using the new Visual Layer (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/Windows/Developers-Guide-to-Windows-10-Version-1511/Creating-fluid-and-beautiful-UI-using-the-new-Visual-Layer) via [@ch9](http://twitter.com/ch9)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Modern Web Apps with [ASP.NET ](http://www.asp.net/) MVC 6 (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/MVC6--Web-API) via [@ch9](http://twitter.com/ch9)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Building Modern Web Apps with [ASP.NET](http://www.asp.net/) MVC 6 (Channel 9) [[channel9.msdn.com]](https://channel9.msdn.com/Events/ASPNET-Events/ASPNET-Fall-Sessions/MVC6--Web-API) via [@ch9](http://twitter.com/ch9)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Unexpected character encountered while parsing value [[stackoverflow.com]](http://stackoverflow.com/questions/23259173/unexpected-character-encountered-while-parsing-value/23259238?stw=2#23259238)
 
@@ -35,7 +35,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Answer:Calling Console.WriteLine from multiple threads [[stackoverflow.com]](http://stackoverflow.com/questions/1079980/calling-console-writeline-from-multiple-threads/1079990?stw=2#1079990)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Best practices for private config data and connection strings in configuration in [ASP.NET ](http://www.asp.net/) and Azure [[hanselman.com]](http://www.hanselman.com/blog/BestPracticesForPrivateConfigDataAndConnectionStringsInConfigurationInASPNETAndAzure.aspx)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Best practices for private config data and connection strings in configuration in [ASP.NET](http://www.asp.net/) and Azure [[hanselman.com]](http://www.hanselman.com/blog/BestPracticesForPrivateConfigDataAndConnectionStringsInConfigurationInASPNETAndAzure.aspx)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") mo.js: JavaScript Framework for Complex Animations [[noupe.com]](http://www.noupe.com/development/mo-js-javascript-framework-for-complex-animations-94506.html)
 
@@ -51,7 +51,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[internode.on.net]](http://www.internode.on.net/) 1/7/2016 - Mads Torgersen [[youtube.com]](https://www.youtube.com/watch?v=pwdxfY2Y2Ow&feature=youtu.be) via [@MadsTorgersen](http://twitter.com/MadsTorgersen)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET ](http://www.asp.net/) Community Standup - January 5th, 2016 - A NEW YEAR A NEW FRAMEWORK [[youtube.com]](https://www.youtube.com/watch?v=CJeWIWkhVow&feature=youtu.be) via [@YouTube](http://twitter.com/YouTube)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET](http://www.asp.net/) Community Standup - January 5th, 2016 - A NEW YEAR A NEW FRAMEWORK [[youtube.com]](https://www.youtube.com/watch?v=CJeWIWkhVow&feature=youtu.be) via [@YouTube](http://twitter.com/YouTube)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Box Sizing [[css-tricks.com]](https://css-tricks.com/box-sizing/) via [@real_css_tricks](http://twitter.com/real_css_tricks)
 

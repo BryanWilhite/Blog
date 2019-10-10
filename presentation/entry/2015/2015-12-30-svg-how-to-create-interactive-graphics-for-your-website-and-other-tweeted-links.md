@@ -67,7 +67,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NuProj adds a new project type to Visual Studio that let's you build NuGet packages. [[nuproj.net]](http://nuproj.net/documentation/)[#NuGet](http://search.twitter.com/search?q=%23NuGet)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET ](http://www.asp.net/) Web API Gets OData v4.0 Support, WCF Will Not [[infoq.com]](http://www.infoq.com/news/2014/03/asp-net-odata-4#.VmeMHIM1V5I.twitter)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[ASP.NET](http://www.asp.net/) Web API Gets OData v4.0 Support, WCF Will Not [[infoq.com]](http://www.infoq.com/news/2014/03/asp-net-odata-4#.VmeMHIM1V5I.twitter)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Hello Ghost! [@briannoyes](http://twitter.com/briannoyes)[[briannoyesblog.azurewebsites.net]](http://briannoyesblog.azurewebsites.net/2015/11/26/hello-ghost/)
 

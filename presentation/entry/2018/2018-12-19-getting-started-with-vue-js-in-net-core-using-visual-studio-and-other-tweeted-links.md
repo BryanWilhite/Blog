@@ -93,7 +93,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) .[@TalkPython](http://twitter.com/@TalkPython)[#171](http://twitter.com/search?q='%23171): Adam Rule uses [@ProjectJupyter](http://twitter.com/@ProjectJupyter) notebook to analyze ~1 million Jupyter notebooks on [@github](http://twitter.com/@github)[[talkpython.fm]](https://talkpython.fm/episodes/show/171/1m-jupyter-notebooks-analyzed)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) spoiler alert: * academic authority figures in the U.S. currently see Jupyter notebooks as lazy, informal work and place more value on slide presentations * the majority of notebooks are not written for public/formal/instructional consumption
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) spoiler alert: ✳ academic authority figures in the U.S. currently see Jupyter notebooks as lazy, informal work and place more value on slide presentations ✳ the majority of notebooks are not written for public/formal/instructional consumption
 
 [<img alt="Matt Marx [marxmatt]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/marxmatt.jpg">](https://t.co/P2bN4iqHEf) A good day for workers in Massachusetts! The MA legislature passed non-compete reform. After at least 8 separate hearings at the State House, it's hard to believe we are finally here. The 2-year non-compete I was blindsided with at my first job would be invalid under the new law.
 

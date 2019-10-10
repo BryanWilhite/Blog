@@ -83,7 +83,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) Beware of HackerRank [[linkedin.com]](https://www.linkedin.com/pulse/beware-hackerrank-richard-linnell/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “holy trinity” of computer science: * proof theory (logic) * type theory (programs) * category theory (algebra) —Robert Harper [[youtu.be]](https://youtu.be/ev7AYsLljxk?t=872)[[twitter.com]](https://twitter.com/BryanWilhite/status/1051379382814564352/photo/1)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) the “holy trinity” of computer science: ✳ proof theory (logic) ✳ type theory (programs) ✳ category theory (algebra) —Robert Harper [[youtu.be]](https://youtu.be/ev7AYsLljxk?t=872)[[twitter.com]](https://twitter.com/BryanWilhite/status/1051379382814564352/photo/1)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz) 6th HLF – Lecture: Leslie Lamport [[youtube.com]](https://www.youtube.com/watch?v=Fq5EQBFLEC8) [Heidelberg Laureate Forum]
 

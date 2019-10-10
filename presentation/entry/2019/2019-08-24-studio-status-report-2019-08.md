@@ -34,8 +34,8 @@
 *Daz3D AppHangTransient errors.* After serious suffering with the hardware woes above, I was very much looking forward to seeing Daz3D Studio 4.11.x running on this new hardware. Nope. 😶 Here are/were the suspicious issues that could be preventing Daz from running:
 
 * the PostgreSQL CMS is not starting
-* <del>the Radeon Virtual Super Resolution settings being on</del>
-* <del>the default paging file is too small for Daz3D (on the new system)</del>
+* ~~the Radeon Virtual Super Resolution settings being on~~
+* ~~the default paging file is too small for Daz3D (on the new system)~~
 * my old-ass Radeon R9 270X is not really working properly on the new MSI AMD X470 motherboard
 
 Until this issue is resolved, I can fall back to my Sager laptop (and an HDMI cable) to work with Daz3D there.😬😒
@@ -44,8 +44,8 @@ Until this issue is resolved, I can fall back to my Sager laptop (and an HDMI ca
 
 Today the studio development schedule looks like this:
 
-* <del>get 11ty pipelines running with the FunkyKB</del> ✔
-* <del>migrate Thunderbird email to new Hyper-V Ubuntu VM</del> ✔
+* ~~get 11ty pipelines running with the FunkyKB~~ ✔
+* ~~migrate Thunderbird email to new Hyper-V Ubuntu VM~~ ✔
 * move the kinté space blog to an 11ty pipeline (this has been another emergency *for years*) 🔥🚜🔨
 * update SonghaySystem.com with my new `@songhay/player-video-you-tube` and `@songhay/index` 📦
 * convert the Day Path blog to 11ty (with `@songhay/index` as a side-car app) 💪💡
