@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-06-27-greg-young-on-ddd-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo http://t.co/Q8PGaavi2O #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis & I created is now on @pluralsight! http://t.co/fQWsAPX4bX  not enjoying the docs on RichEdit...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Greg Young on DDD @ E-VAN 09 Feb 2009 on Vimeo <http://t.co/Q8PGaavi2O> #DDD  In case you missed it the Domain-Driven Design Fundamentals course that @ardalis & I created is now on @pluralsight! <http://t.co/fQWsAPX4bX>  not enjoying the docs on RichEdit...\"\r\n}"
 }
 ---
 

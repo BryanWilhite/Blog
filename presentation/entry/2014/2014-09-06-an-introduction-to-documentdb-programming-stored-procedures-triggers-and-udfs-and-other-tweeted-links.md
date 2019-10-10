@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-09-06-an-introduction-to-documentdb-programming-stored-procedures-triggers-and-udfs-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs http://t.co/PYV4nixHAw  You Can’t Fix the UX Without Fixing Everything http://t.co/lwr9XRjtVU #Product #Startup  A lovely new podcast about responsive design, titled, humm, ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"An introduction to DocumentDB programming: Stored procedures, triggers, and UDFs <http://t.co/PYV4nixHAw>  You Can’t Fix the UX Without Fixing Everything <http://t.co/lwr9XRjtVU> #Product #Startup  A lovely new podcast about responsive design, titled, humm, ...\"\r\n}"
 }
 ---
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-05-30-mobile-internet-comes-to-africa-in-a-big-way-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Mobile Internet Comes To Africa In A Big Way http://t.co/nljszWWNsp on @nprnews radio  Swagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers https://t.co/QbYx6hnE3x  jsAction: a tiny event delegation library http://t...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Mobile Internet Comes To Africa In A Big Way <http://t.co/nljszWWNsp> on @nprnews radio  Swagger: A simple, open standard for describing REST APIs with JSON | Reverb for Developers <https://t.co/QbYx6hnE3x>  jsAction: a tiny event delegation library <http://t...\>"\r\n}"
 }
 ---
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-07-07-getting-started-with-net-on-linux-and-other-mostly-owin-or-web-api-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Getting started with .NET on Linux http://t.co/lMOmAUYwau “Prior to today’s announcement, you needed to launch Docker on an Ubuntu Server…” http://t.co/bZYTfUz2Nx VYBAVA RAMADOSS Creating a mobile app with Famo.us and ManifoldJS - CodeProject - http://t....\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Getting started with .NET on Linux <http://t.co/lMOmAUYwau> “Prior to today’s announcement, you needed to launch Docker on an Ubuntu Server…” <http://t.co/bZYTfUz2Nx> VYBAVA RAMADOSS Creating a mobile app with Famo.us and ManifoldJS - CodeProject - <http://t....\>"\r\n}"
 }
 ---
 

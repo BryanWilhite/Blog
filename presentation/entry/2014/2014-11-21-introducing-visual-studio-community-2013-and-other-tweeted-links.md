@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-11-21-introducing-visual-studio-community-2013-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext & Azure @shanselman http://t.co/4jFYf1vlMI  Leaving Angular http://t.co/pbEQIRgbr0  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Introducing Visual Studio Community 2013 | Connect(); Microsoft Visual Studio vNext & Azure @shanselman <http://t.co/4jFYf1vlMI>  Leaving Angular <http://t.co/pbEQIRgbr0>  Microsoft Open Sources .NET – The History Behind the Announcement | Software Devel...\"\r\n}"
 }
 ---
 

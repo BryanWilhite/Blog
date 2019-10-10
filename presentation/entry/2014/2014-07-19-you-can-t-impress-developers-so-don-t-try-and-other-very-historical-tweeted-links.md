@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-07-19-you-can-t-impress-developers-so-don-t-try-and-other-very-historical-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"You can't impress developers. So don't try. http://t.co/D3QF9vl9Lx  Azure Is the Future of Microsoft http://t.co/chh8lf6FOL  Microsoft reportedly paying developers $100,000 or more to build apps http://t.co/OXQiPnTX3U  Windows 8 Theme Transitions - http:...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"You can't impress developers. So don't try. <http://t.co/D3QF9vl9Lx>  Azure Is the Future of Microsoft <http://t.co/chh8lf6FOL>  Microsoft reportedly paying developers $100,000 or more to build apps <http://t.co/OXQiPnTX3U>  Windows 8 Theme Transitions - http:...\"\r\n}"
 }
 ---
 

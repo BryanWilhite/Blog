@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-01-03-new-support-for-knockout-js-intellisense-inside-vs-2012-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Another post by @John_Papa on new support for Knockout.js Intellisense inside VS 2012: http://t.co/vdyMRa1P  Numeral.js - a #JavaScript library for formatting and manipulating numbers http://t.co/KTF0L9XA  More details on the SPA Template (RC) from the h...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Another post by @John_Papa on new support for Knockout.js Intellisense inside VS 2012: <http://t.co/vdyMRa1P>  Numeral.js - a #JavaScript library for formatting and manipulating numbers <http://t.co/KTF0L9XA>  More details on the SPA Template (RC) from the h...\"\r\n}"
 }
 ---
 

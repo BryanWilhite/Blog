@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-12-03-prism-wpf-and-unity-based-modular-application-step-by-step-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Prism, WPF and Unity based modular application step by step by Gerald Gomes http://t.co/iQINOhb4s0  Good news is that Amazon's delivering packages by robot drone. The bad news is the drones refuse to deliver anything but drone kits. #skynet  Looks like \\\"...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Prism, WPF and Unity based modular application step by step by Gerald Gomes <http://t.co/iQINOhb4s0>  Good news is that Amazon's delivering packages by robot drone. The bad news is the drones refuse to deliver anything but drone kits. #skynet  Looks like \\\"...\"\r\n}"
 }
 ---
 

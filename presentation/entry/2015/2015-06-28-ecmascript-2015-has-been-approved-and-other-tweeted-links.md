@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-06-28-ecmascript-2015-has-been-approved-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"ECMAScript 2015 Has Been Approved http://t.co/I4myfEd7x4   Top 10 web designing mistakes that turn off your users http://t.co/nvH3PGSWes   Google Chart Tools Directive Module for Angular JS https://t.co/bEHpL6f6p3   Answer: Combating AngularJS executing c...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"ECMAScript 2015 Has Been Approved <http://t.co/I4myfEd7x4>   Top 10 web designing mistakes that turn off your users <http://t.co/nvH3PGSWes>   Google Chart Tools Directive Module for Angular JS <https://t.co/bEHpL6f6p3>   Answer: Combating AngularJS executing c...\"\r\n}"
 }
 ---
 

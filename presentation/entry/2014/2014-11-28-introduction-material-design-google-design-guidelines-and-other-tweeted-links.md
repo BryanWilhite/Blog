@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-11-28-introduction-material-design-google-design-guidelines-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Introduction - Material design - Google design guidelines http://t.co/hXqcfSsahD @romafied  Sublime Text for Front End Developers http://t.co/dQ6EZDSMjS +@wesbos @chriscoyier  Devoxx 2014 Interviews: Intro to Polymer - YouTube https://t.co/RoJmKR8nxg  We...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Introduction - Material design - Google design guidelines <http://t.co/hXqcfSsahD> @romafied  Sublime Text for Front End Developers <http://t.co/dQ6EZDSMjS> +@wesbos @chriscoyier  Devoxx 2014 Interviews: Intro to Polymer - YouTube <https://t.co/RoJmKR8nxg>  We...\"\r\n}"
 }
 ---
 

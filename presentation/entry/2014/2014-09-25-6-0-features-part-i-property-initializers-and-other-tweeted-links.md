@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-09-25-6-0-features-part-i-property-initializers-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"C# 6.0 Features Part I : Property Initializers http://t.co/oN9IrRVj4q  C# 6.0 Features Part II : Primary Constructors http://t.co/3Al2okv7NZ  C# 6.0 Features Part 3: Declaration Expressions http://t.co/RGyMQLzplD  Microsoft's next version of Office inclu...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"C# 6.0 Features Part I : Property Initializers <http://t.co/oN9IrRVj4q>  C# 6.0 Features Part II : Primary Constructors <http://t.co/3Al2okv7NZ>  C# 6.0 Features Part 3: Declaration Expressions <http://t.co/RGyMQLzplD>  Microsoft's next version of Office inclu...\"\r\n}"
 }
 ---
 

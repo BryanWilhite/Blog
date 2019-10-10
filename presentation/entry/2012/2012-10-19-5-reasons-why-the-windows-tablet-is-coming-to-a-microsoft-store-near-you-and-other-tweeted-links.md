@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-10-19-5-reasons-why-the-windows-tablet-is-coming-to-a-microsoft-store-near-you-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You:  http://t.co/KXa9cgNR #windows8   Under the Surface: an inside look at how Microsoft's tablet came to be http://t.co/MNKMmRFH /via @winrumors   With Surface Tablet, Microsoft Takes...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"5 Reasons Why the Windows Tablet is coming to a Microsoft Store near You:  <http://t.co/KXa9cgNR> #windows8   Under the Surface: an inside look at how Microsoft's tablet came to be <http://t.co/MNKMmRFH> /via @winrumors   With Surface Tablet, Microsoft Takes...\"\r\n}"
 }
 ---
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-11-07-understanding-the-microsoft-surface-a-sort-of-review-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"RT @halberenson: Understanding the Microsoft Surface (a sort of Review) http://t.co/nsC5HLB4  See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN http://t.co/7yUrlUlw  RIP Microsoft ClearType Inventor Bill Hi...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"RT @halberenson: Understanding the Microsoft Surface (a sort of Review) <http://t.co/nsC5HLB4>  See my SlideShare Presentation on LinkedIn : Securing Back Office Business Processes with OpenVPN <http://t.co/7yUrlUlw>  RIP Microsoft ClearType Inventor Bill Hi...\"\r\n}"
 }
 ---
 

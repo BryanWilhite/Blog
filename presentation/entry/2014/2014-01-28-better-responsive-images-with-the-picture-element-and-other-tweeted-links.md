@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-01-28-better-responsive-images-with-the-picture-element-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Better Responsive Images With the picture Element | Nettuts+ http://t.co/SUKPf0MPLA via @nettuts  Ever thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: http://t.co/s5uM7OtEQY by @markodugonjic  Really @dell? No...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Better Responsive Images With the picture Element | Nettuts+ <http://t.co/SUKPf0MPLA> via @nettuts  Ever thought of UX design as a Swiss Army knife of Web design? Well, read this and you soon will: <http://t.co/s5uM7OtEQY> by @markodugonjic  Really @dell? No...\"\r\n}"
 }
 ---
 

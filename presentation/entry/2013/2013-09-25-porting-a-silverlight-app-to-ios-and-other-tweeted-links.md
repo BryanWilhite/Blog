@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-09-25-porting-a-silverlight-app-to-ios-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Nice step-by-step walkthrough by Nish on porting a Silverlight app to iOS: http://t.co/aTqRwgr4o9  “A time- and soul-sucking morass of polyfills and workarounds.” @lyzadanger http://t.co/O7ZbElnuvS  OK, 12:30AM, MVVM Light works on Xamarin.iOS just like ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Nice step-by-step walkthrough by Nish on porting a Silverlight app to iOS: <http://t.co/aTqRwgr4o9>  “A time- and soul-sucking morass of polyfills and workarounds.” @lyzadanger <http://t.co/O7ZbElnuvS>  OK, 12:30AM, MVVM Light works on Xamarin.iOS just like ...\"\r\n}"
 }
 ---
 

@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-05-22-why-does-c-use-utf-16-for-strings-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Why does C# use UTF-16 for strings? http://t.co/HlQzoFHW0q  So excited to be speaking at @MonkeySpaceConf in June 9-11! Schedule is at http://t.co/7CUAVoNBSX, you can find me on days 1 *and* 2!  Blogged: C# 6 - First Reactions; http://t.co/Ed2GPmaqev  Th...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Why does C# use UTF-16 for strings? <http://t.co/HlQzoFHW0q>  So excited to be speaking at @MonkeySpaceConf in June 9-11! Schedule is at <http://t.co/7CUAVoNBSX,> you can find me on days 1 *and* 2!  Blogged: C# 6 - First Reactions; <http://t.co/Ed2GPmaqev>  Th...\"\r\n}"
 }
 ---
 

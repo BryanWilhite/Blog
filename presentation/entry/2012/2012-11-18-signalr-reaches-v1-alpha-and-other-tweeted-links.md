@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-11-18-signalr-reaches-v1-alpha-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"#SignalR reaches v1 (alpha) http://t.co/4UsJ4af4   My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: http://t.co/rLgiGvHY   Microsoft's cloud buzzword of 2011: Hybrid: http://zd.net/g1HUDE   Amazon's new Cloud Drive rains...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"#SignalR reaches v1 (alpha) <http://t.co/4UsJ4af4>   My free, live WindowsAzureConf keynote is starting in 8 minutes.  Watch it online: <http://t.co/rLgiGvHY>   Microsoft's cloud buzzword of 2011: Hybrid: <http://zd.net/g1HUDE>   Amazon's new Cloud Drive rains...\"\r\n}"
 }
 ---
 

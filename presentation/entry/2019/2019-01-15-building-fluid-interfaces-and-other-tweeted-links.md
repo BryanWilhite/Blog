@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-01-15-building-fluid-interfaces-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Building Fluid Interfaces [medium.com] Who’s a UX writer? [invisionapp.com] How To Set an Apple Touch Icon for Any Site — All in the head: This week, Apple rolled out an update to the ... http://bit.ly/ms8Tui#ux Your CSS Layout Toolkit for 2019 [noti.st]...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Building Fluid Interfaces [medium.com] Who’s a UX writer? [invisionapp.com] How To Set an Apple Touch Icon for Any Site — All in the head: This week, Apple rolled out an update to the ... <http://bit.ly/ms8Tui>#ux Your CSS Layout Toolkit for 2019 [noti.st]...\"\r\n}"
 }
 ---
 

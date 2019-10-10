@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-11-11-windows-8-operating-under-the-influence-and-other-old-ass-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Windows 8: Operating Under the Influence http://t.co/s44SvQlc   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter & @jprosise that is LIVE on our site!  http://t.co/WK4jXcC2   Five Reasons why Windows 8 will be dead on ar...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Windows 8: Operating Under the Influence <http://t.co/s44SvQlc>   Watch “Intro to Using #Windows Runtime to Build #Metro Apps” from @jeffrichter & @jprosise that is LIVE on our site!  <http://t.co/WK4jXcC2>   Five Reasons why Windows 8 will be dead on ar...\"\r\n}"
 }
 ---
 

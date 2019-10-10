@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-03-30-introduction-to-basics-of-angular-1-4-newrouter-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Introduction to Basics of Angular 1.4 newRouter - CodeProject [codeproject.com]        Horror: Migrating Angular-UI-Router to Angular New Router http://t.co/9gFcF2OZO9[asp.net]  5 angularJS application using angular-ui-router | Software Engineering [dami...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Introduction to Basics of Angular 1.4 newRouter - CodeProject [codeproject.com]        Horror: Migrating Angular-UI-Router to Angular New Router <http://t.co/9gFcF2OZO9[asp.net]>  5 angularJS application using angular-ui-router | Software Engineering [dami...\"\r\n}"
 }
 ---
 

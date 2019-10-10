@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-06-06-looking-forward-microsoft-support-for-secure-shell-ssh-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs http://t.co/D8OCmZUQJZ   great bridge between LINQ and PS: \\\"PowerShell One-Liners: Collections, Hashtables, Arrays and Strings\\\" https://t.co/laO2...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs <http://t.co/D8OCmZUQJZ>   great bridge between LINQ and PS: \\\"PowerShell One-Liners: Collections, Hashtables, Arrays and Strings\\\" <https://t.co/laO2...\>"\r\n}"
 }
 ---
 

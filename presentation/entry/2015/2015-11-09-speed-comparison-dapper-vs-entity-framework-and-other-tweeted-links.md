@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-11-09-speed-comparison-dapper-vs-entity-framework-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Speed Comparison: Dapper vs Entity Framework [dontpaniclabs.com]  Performance: Entity Framework 7 vs. https://t.co/MQR6CyOD7R vs. raw [ado.net] [ppanyukov.github.io]  Doing Simple Things with ExpressionVisitor [pelebyte.net]  Dynamic LINQ Queries with Ex...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Speed Comparison: Dapper vs Entity Framework [dontpaniclabs.com]  Performance: Entity Framework 7 vs. <https://t.co/MQR6CyOD7R> vs. raw [ado.net] [ppanyukov.github.io]  Doing Simple Things with ExpressionVisitor [pelebyte.net]  Dynamic LINQ Queries with Ex...\"\r\n}"
 }
 ---
 

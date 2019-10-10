@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-10-23-xamarin-evolve-2014-session-recordings-now-available-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog http://t.co/IQhG0ISfxv  Creating Micro Screencasts, Hosted For Free http://t.co/l4YQAnRX7t #TDN  Career planning: What is your path? - Ayende @ Rahien http://t.co/mfGsYXVIO8  Career plan...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Xamarin Evolve 2014 Session Recordings Now Available | Xamarin Blog <http://t.co/IQhG0ISfxv>  Creating Micro Screencasts, Hosted For Free <http://t.co/l4YQAnRX7t> #TDN  Career planning: What is your path? - Ayende @ Rahien <http://t.co/mfGsYXVIO8>  Career plan...\"\r\n}"
 }
 ---
 

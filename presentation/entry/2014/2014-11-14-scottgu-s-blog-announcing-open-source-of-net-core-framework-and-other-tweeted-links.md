@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-11-14-scottgu-s-blog-announcing-open-source-of-net-core-framework-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ http://t.co/8ZBU3eP1E3  Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register http://t.co/hr3udmAIIV  Opening up Visu...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"ScottGu's Blog - Announcing Open Source of .NET Core Framework, .NET Core Distribution for Linux/OSXâ€¦ <http://t.co/8ZBU3eP1E3>  Microsoft .NET released from its Windows chains... but what ABOUT MONO? • The Register <http://t.co/hr3udmAIIV>  Opening up Visu...\"\r\n}"
 }
 ---
 

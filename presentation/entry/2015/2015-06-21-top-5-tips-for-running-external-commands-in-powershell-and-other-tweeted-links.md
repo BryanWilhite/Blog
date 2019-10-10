@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-06-21-top-5-tips-for-running-external-commands-in-powershell-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Top 5 tips for running external commands in Powershell http://t.co/HQ3yZZc7eI   Get-ItemProperty makes sense to me when explained in the context of Registry entries https://t.co/ipann95rAm   Applies To: Windows PowerShell 2.0, 3.0, 4.0, 5.0 #about_Functi...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Top 5 tips for running external commands in Powershell <http://t.co/HQ3yZZc7eI>   Get-ItemProperty makes sense to me when explained in the context of Registry entries <https://t.co/ipann95rAm>   Applies To: Windows PowerShell 2.0, 3.0, 4.0, 5.0 #about_Functi...\"\r\n}"
 }
 ---
 

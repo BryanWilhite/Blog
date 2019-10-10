@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2018-07-06-behind-the-illusions-impossibly-high-performance-layout-animations-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Behind the Illusions - Impossibly High-Performance Layout Animations https://t.co/D8hPKmAXG7 Easy navigation between #aspnetcore Razor Page cshtml & associated Page Model C# file via F7 keypress is now live i… https://t.co/YDtc01FpU3 Web Assembly... ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Behind the Illusions - Impossibly High-Performance Layout Animations <https://t.co/D8hPKmAXG7> Easy navigation between #aspnetcore Razor Page cshtml & associated Page Model C# file via F7 keypress is now live i… <https://t.co/YDtc01FpU3> Web Assembly... ...\"\r\n}"
 }
 ---
 

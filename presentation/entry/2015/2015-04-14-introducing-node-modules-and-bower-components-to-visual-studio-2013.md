@@ -91,7 +91,7 @@ In the same manner that Git folks have `.gitignore`, Microsoft’s TFS (finally!
 
 ```plaintext
 # info:
-# https://msdn.microsoft.com/en-us/library/ms245454.aspx?f=255&MSPPError=-2147217396#tfignore
+# <https://msdn.microsoft.com/en-us/library/ms245454.aspx?f=255&MSPPError=-2147217396>#tfignore
 \bower_components
 \node_modules
 \packages

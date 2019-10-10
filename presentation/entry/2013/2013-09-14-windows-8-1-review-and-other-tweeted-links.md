@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-09-14-windows-8-1-review-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Windows 8.1 Review - http://t.co/Mbq7uKahAB  Mark your calendars for Windows 8.1! http://t.co/kxbLef2ehw  For those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: http://t.co/qKKwexPg2t  Windows ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Windows 8.1 Review - <http://t.co/Mbq7uKahAB>  Mark your calendars for Windows 8.1! <http://t.co/kxbLef2ehw>  For those partners still at #wpc13, here's a rundown on who's in and who's out in Microsoft's just announced reorg: <http://t.co/qKKwexPg2t>  Windows ...\"\r\n}"
 }
 ---
 

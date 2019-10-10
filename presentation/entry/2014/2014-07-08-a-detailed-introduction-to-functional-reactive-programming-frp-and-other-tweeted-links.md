@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-07-08-a-detailed-introduction-to-functional-reactive-programming-frp-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"A detailed introduction to Functional Reactive Programming (FRP). https://t.co/VO1oJllae3 written by @andrestaltz  Watch the Keynote Address for the 2014 Release of Creative Cloud - YouTube https://t.co/XN8uAd4GqO  Apple and Google move computing forward...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"A detailed introduction to Functional Reactive Programming (FRP). <https://t.co/VO1oJllae3> written by @andrestaltz  Watch the Keynote Address for the 2014 Release of Creative Cloud - YouTube <https://t.co/XN8uAd4GqO>  Apple and Google move computing forward...\"\r\n}"
 }
 ---
 

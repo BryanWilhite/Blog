@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-02-02-get-the-tech-back-in-tech-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"@davewiner Dave Winer ☮  Scripting News: Get the tech back in tech.   &#160;@smashingmag Smashing Magazine   A nice overview: Tools for the next generation of Web applications - http://bit.ly/z8VVRi  @smashingmag Smashing Magazine   A very useful referen...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"@davewiner Dave Winer ☮  Scripting News: Get the tech back in tech.   &#160;@smashingmag Smashing Magazine   A nice overview: Tools for the next generation of Web applications - <http://bit.ly/z8VVRi>  @smashingmag Smashing Magazine   A very useful referen...\"\r\n}"
 }
 ---
 

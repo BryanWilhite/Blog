@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-01-01-integrating-angularjs-amp-three-js-two-patterns-one-app-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Integrating AngularJS & Three.js - Two Patterns, One App http://t.co/D7nEwuPSgD  Planning Angular 1.4 http://t.co/WNrDHXzrFh  Dive into Flexbox, by @_gsmith http://t.co/rTvAqKBZss #bocoup  http://t.co/rwcFExLe7m: a new site to find font deals and fre...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Integrating AngularJS & Three.js - Two Patterns, One App <http://t.co/D7nEwuPSgD>  Planning Angular 1.4 <http://t.co/WNrDHXzrFh>  Dive into Flexbox, by @_gsmith <http://t.co/rTvAqKBZss> #bocoup  <http://t.co/rwcFExLe7m:> a new site to find font deals and fre...\"\r\n}"
 }
 ---
 

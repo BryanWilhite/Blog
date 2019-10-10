@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-04-27-netflix-will-switch-from-silverlight-to-html5-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Netflix will switch from Silverlight to HTML5, explains what it's waiting for first http://t.co/cmMBb7lwae  Advanced Animations in WPF by Azim Zahir http://t.co/NmZCw4okKg  Every CG artist should watch this video on 'OpenSubDiv': http://t.co/8SfBn7tm0F G...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Netflix will switch from Silverlight to HTML5, explains what it's waiting for first <http://t.co/cmMBb7lwae>  Advanced Animations in WPF by Azim Zahir <http://t.co/NmZCw4okKg>  Every CG artist should watch this video on 'OpenSubDiv': <http://t.co/8SfBn7tm0F> G...\"\r\n}"
 }
 ---
 

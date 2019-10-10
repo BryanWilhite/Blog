@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-10-13-not-sure-if-you-want-to-install-windows-10-or-not-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Not sure if you want to install Windows 10 or not? I've done the work for you. Complete Video walkthrough here: https://t.co/9C13jnUNwy  Apple software quality ain't what it used to be. http://t.co/PGcXoPPARd  Symantec Splits to Focus on Growth Opportuni...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Not sure if you want to install Windows 10 or not? I've done the work for you. Complete Video walkthrough here: <https://t.co/9C13jnUNwy>  Apple software quality ain't what it used to be. <http://t.co/PGcXoPPARd>  Symantec Splits to Focus on Growth Opportuni...\"\r\n}"
 }
 ---
 

@@ -24,7 +24,7 @@ The internet tells me that `choco.exe` supports *updating* packages (while the s
 Install choice:
 
 ```console
-iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+iwr <https://chocolatey.org/install.ps1> -UseBasicParsing | iex
 ```
 
 First of all, the install process of `choco.exe` threatens to move the old packages from `C:\Chocolatey` to `C:\ProgramData\chocolatey` as this excerpt from the installation warns:

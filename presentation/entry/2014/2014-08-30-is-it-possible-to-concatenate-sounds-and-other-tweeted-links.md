@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-08-30-is-it-possible-to-concatenate-sounds-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Is it possible to concatenate sounds? - Mathematica Stack Exchange http://t.co/z3AucFDEJT  dials are so old school. new #digital interfaces are changing the future of #music http://t.co/RlBdCcLFE2 @WeAreROLI http://t.co/UzSmX6vl9B  Sony started as an ele...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Is it possible to concatenate sounds? - Mathematica Stack Exchange <http://t.co/z3AucFDEJT>  dials are so old school. new #digital interfaces are changing the future of #music <http://t.co/RlBdCcLFE2> @WeAreROLI <http://t.co/UzSmX6vl9B>  Sony started as an ele...\"\r\n}"
 }
 ---
 

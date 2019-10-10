@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2014-12-10-getting-started-with-shader-effects-in-wpf-and-other-links",
-  "tag": "{\r\n  \"extract\": \"Getting Started with Shader Effects in WPF - CodeProject http://t.co/dgZedcllL3  Windows Presentation Foundation Pixel Shader Effects Library http://t.co/LxHCF8yF2H  latest Shazzam blog post: http://t.co/vIe3DUmtQO  \\\"draw graphical paths with a gradient ...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Getting Started with Shader Effects in WPF - CodeProject <http://t.co/dgZedcllL3>  Windows Presentation Foundation Pixel Shader Effects Library <http://t.co/LxHCF8yF2H>  latest Shazzam blog post: <http://t.co/vIe3DUmtQO>  \\\"draw graphical paths with a gradient ...\"\r\n}"
 }
 ---
 

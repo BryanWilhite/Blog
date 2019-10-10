@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-06-25-package-mvcroutetester-mvc5-2-supports-attribute-mapping-cool-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"@AnthonySteele okay: Package MvcRouteTester.Mvc5.2 supports attribute mapping, cool!   Unit Testing MVC 4 routes using AttributeRouting and MvcRouteTester http://t.co/bQxr7TYGVP   @BryanWilhite Hi? Which MVC version are you using? I have been remiss abou...\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"@AnthonySteele okay: Package MvcRouteTester.Mvc5.2 supports attribute mapping, cool!   Unit Testing MVC 4 routes using AttributeRouting and MvcRouteTester <http://t.co/bQxr7TYGVP>   @BryanWilhite Hi? Which MVC version are you using? I have been remiss abou...\"\r\n}"
 }
 ---
 
