@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <meta name="description" content="{{ settings.description }}" />
+        <meta name="robots" content="index, follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta name="google-site-verification" content="MyXJp0qYgoTSi472GCarwPFWqvRZAo8khVV_FXV33tI" />
+        <meta name="msvalidate.01" content="9C08B066B4967EBE515E0CC7C146DE30" />
+
+        <base href="{{ settings.uri }}" />
+
+        <link rel="canonical" href="{{ settings.uri }}" />
+        <link rel="alternate" type="application/atom+xml" title="{{ settings.siteName }}" href="{{ settings.feed.path }}" />
+        <link rel="SHORTCUT ICON" href="{{ settings.uri }}images/favicon.ico" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+        <link href="{{ settings.uri }}styles/styles.min.css" rel="stylesheet" />
+
+        <script src="{{ settings.uri }}script/index.min.js"></script>
+
+        <title>{% if title %}{{ title }} - {% endif %}{{ settings.siteName }}</title>
+    </head>
+
+    <body class="mdc-typography">
+        <header class="mdc-top-app-bar mdc-top-app-bar--short">
+            <div class="mdc-top-app-bar__row">
+                <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                    <a href="{{ settings.uri }}" class="material-icons mdc-top-app-bar__navigation-icon">first_page</a>
+                    <span class="mdc-top-app-bar__title">{{ settings.siteName }}</span>
+                </section>
+                <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                    {{ settings.description }}
+                </section>
+            </div>
+        </header>
+        <main class="mdc-layout-grid" id="main-content">
+            {{ content }}
+        </main>
+        <footer>
+            <div class="col-sm-8">
+                {%- if modificationDate %}
+                <p>
+                    Last Reviewed:
+                    {{ modificationDate }}
+                </p>
+                {% endif -%}
+                <p>
+                    Another stone tribal move by <a class="welcome" href="{{ settings.uriCompany }}">Songhay System</a>
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <a href="http://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
+                    <span class="zocial twitter icon"></span>
+                </a>
+                <a href="{{ settings.feed.uri }}" target="_blank" title="Atom feed">
+                    <span class="zocial rss icon"></span>
+                </a>
+            </div>
+        </footer>
+    </body>
+
+</html>

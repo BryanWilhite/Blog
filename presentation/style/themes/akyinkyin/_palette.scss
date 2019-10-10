@@ -1,0 +1,85 @@
+@import '../../../../../node_modules/@angular/material/theming';
+/*
+    This palette is based on:
+    http://mcg.mbitson.com/#!?mcgpalette0=%23006633&themename=mat-akyinkyin-green
+*/
+
+$mat-akyinkyin-dark: (
+    50: #e4e5e4,
+    100: #bbbdbb,
+    200: #8e928e,
+    300: #616661,
+    400: #3f453f,
+    500: #1d241d,
+    600: #1a201a,
+    700: #151b15,
+    800: #111611,
+    900: #0a0d0a,
+    A100: #53ff53,
+    A200: #20ff20,
+    A400: #00ec00,
+    A700: #00d300,
+    contrast:
+        (
+            50: $dark-primary-text,
+            100: $dark-primary-text,
+            200: $dark-primary-text,
+            300: $light-primary-text,
+            400: $light-primary-text,
+            500: $light-primary-text,
+            600: $light-primary-text,
+            700: $light-primary-text,
+            800: $light-primary-text,
+            900: $light-primary-text,
+            A100: $dark-primary-text,
+            A200: $dark-primary-text,
+            A400: $dark-primary-text,
+            A700: $light-primary-text
+        )
+);
+$mat-akyinkyin-green: (
+    50: #e0ede7,
+    100: #b3d1c2,
+    200: #80b399,
+    300: #4d9470,
+    400: #267d52,
+    500: #006633,
+    600: #005e2e,
+    700: #005327,
+    800: #004920,
+    900: #003814,
+    A100: #6eff93,
+    A200: #3bff6c,
+    A400: #08ff46,
+    A700: #00ee3b,
+    contrast:
+        (
+            50: $dark-primary-text,
+            100: $dark-primary-text,
+            200: $dark-primary-text,
+            300: $light-primary-text,
+            400: $light-primary-text,
+            500: $light-primary-text,
+            600: $light-primary-text,
+            700: $light-primary-text,
+            800: $light-primary-text,
+            900: $light-primary-text,
+            A100: $dark-primary-text,
+            A200: $dark-primary-text,
+            A400: $dark-primary-text,
+            A700: $dark-primary-text
+        )
+);
+$akyinkyin-background: map-get($map: $mat-akyinkyin-dark, $key: 500);
+$akyinkyin-base: map-get($map: $mat-akyinkyin-green, $key: 500);
+$akyinkyin-dark-tone: map-get($map: $mat-akyinkyin-green, $key: 900);
+$akyinkyin-light-text: map-get($map: $mat-akyinkyin-green, $key: 50);
+$akyinkyin-light-tint: map-get($map: $mat-akyinkyin-green, $key: A700);
+/* This light-green tint was originally #00ff7e
+    but is conformed to the $mat-akyinkyin-green map. */
+$mat-dark-theme-background: map-merge(
+    $map1: $mat-dark-theme-background,
+    $map2: (background: $akyinkyin-background)
+);
+/* Customizing the `$mat-dark-theme-background` map
+    in the Material.io theming file. */

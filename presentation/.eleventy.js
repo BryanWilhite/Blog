@@ -11,10 +11,15 @@ module.exports = function (config) {
         return array.slice(0, n);
     });
 
+    config.addFilter('getExtract', (tag) => {
+        console.log({tag});
+        return 'hello world!';
+    });
+
     return {
         dir: {
             input: '.',
-            output: '../../day-path-blog/app',
+            output: '../../day-path/app',
             includes: 'templates'
         },
         htmlTemplateEngine: 'liquid',

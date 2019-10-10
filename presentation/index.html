@@ -1,5 +1,5 @@
 ---
-layout: layouts/entry.html
+layout: layouts/base.html
 ---
 <h1>{{ settings.siteName }}</h1>
 <h2>{{ settings.description }}</h2>
@@ -8,7 +8,7 @@ layout: layouts/entry.html
 {% for entry in lastThreeEntries %}
     <div class="entry">
         <h3><a href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
-        <p>{{ entry.templateContent | strip_html | remove: entry.data.title | strip | truncatewords: 42 }}</p>
+        <p>{{ entry.data.tag | getExtract }}</p>
     </div>
 {% endfor %}
 </section>
