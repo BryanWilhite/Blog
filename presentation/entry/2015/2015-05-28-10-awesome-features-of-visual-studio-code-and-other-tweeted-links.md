@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-05-28-10-awesome-features-of-visual-studio-code-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"10 Awesome Features of Visual Studio Code - <http://t.co/t4Fj7Sj0la>   New Blog Post: Office 2016 - An era comes to an end. <https://t.co/HmWdiKNShV>   Angular 1.4.0 - jaracimrman-existence <http://t.co/nmPGGTlsjP>   Angular 2 Template Syntax <http://t.co/1RIVf...\>"\r\n}"
+  "tag": "{\r\n  \"extract\": \"10 Awesome Features of Visual Studio Code - <http://t.co/t4Fj7Sj0la>   New Blog Post: Office 2016 - An era comes to an end. <https://t.co/HmWdiKNShV>   Angular 1.4.0 - jaracimrman-existence <http://t.co/nmPGGTlsjP>   Angular 2 Template Syntax...\"\r\n}"
 }
 ---
 

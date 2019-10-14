@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2012-10-13-web-essentials-1-4-for-visual-studio-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen #webdev <http://t.co/fmmmTufb>   <http://t.co/5HlsV0UU> is now available for your #WindowsAzure web sites. get started now for free! <http://t.co/gAkw...\>"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Web Essentials 1.4 for Visual Studio: Modernizr support, Minification, CSS/LESS outline, ... by @mkristensen #webdev <http://t.co/fmmmTufb>   <http://t.co/5HlsV0UU> is now available for your #WindowsAzure web sites. get started now for free!...\"\r\n}"
 }
 ---
 

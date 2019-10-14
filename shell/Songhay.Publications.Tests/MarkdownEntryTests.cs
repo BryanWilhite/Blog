@@ -155,6 +155,25 @@ namespace Songhay.Publications.Tests
             File.WriteAllText($"{entryRoot}/{entry.FrontMatter["clientId"]}.md", entry.ToFinalEdit());
         }
 
+        [Theory, InlineData("../../../../../presentation/entry", "*.md")]
+        public void ShouldValidateFrontMatter(string entryRoot, string filter)
+        {
+            // arrange
+            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            this._testOutputHelper.WriteLine($"Root {entryRoot}...");
+
+            var entryRootInfo = new DirectoryInfo(entryRoot);
+
+            // act
+            entryRootInfo
+                .GetFiles(filter, SearchOption.AllDirectories)
+                .ForEachInEnumerable(i =>
+                {
+                    this._testOutputHelper.WriteLine($"validating {i.Name}...");
+                    ValidateFrontMatter(i);
+                });
+        }
+
         void ShouldEditOneBlogEntry(FileInfo entryInfo)
         {
             this._testOutputHelper.WriteLine($"Entry {entryInfo.Name}...");
@@ -165,8 +184,8 @@ namespace Songhay.Publications.Tests
                     {
                         var content = i.Content;
 
-                        var inceptDate = i.FrontMatter.GetValue<DateTime>("inceptDate", throwException: false);
-                        if(inceptDate == default(DateTime))
+                        var inceptDate = i.FrontMatter.GetValue<DateTime>("inceptDate", throwException : false);
+                        if (inceptDate == default(DateTime))
                         {
                             this._testOutputHelper.WriteLine($"WARNING {nameof(inceptDate)} is not found. Skipping edit.");
                             return;

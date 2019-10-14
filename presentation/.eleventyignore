@@ -1,8 +1,8 @@
-env
 .gitignore
+env
 node_modules
 style/index-bundle.css
 style/index.css
-style/index.scss
+*.scss
 package.json
 README.md

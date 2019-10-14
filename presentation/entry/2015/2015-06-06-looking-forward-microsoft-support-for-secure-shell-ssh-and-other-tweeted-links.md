@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-06-06-looking-forward-microsoft-support-for-secure-shell-ssh-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs <http://t.co/D8OCmZUQJZ>   great bridge between LINQ and PS: \\\"PowerShell One-Liners: Collections, Hashtables, Arrays and Strings\\\" <https://t.co/laO2...\>"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs <http://t.co/D8OCmZUQJZ>   great bridge between LINQ and PS: “PowerShell One-Liners: Collections, Hashtables, Arrays and Strings”...\"\r\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Looking Forward: Microsoft Support for Secure Shell (SSH) - Windows PowerShell Blog - Site Home - MSDN Blogs [http://t.co/D8OCmZUQJZ](http://t.co/D8OCmZUQJZ)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") great bridge between LINQ and PS: "PowerShell One-Liners: Collections, Hashtables, Arrays and Strings" [https://t.co/laO2PristY](https://t.co/laO2PristY)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") great bridge between LINQ and PS: “PowerShell One-Liners: Collections, Hashtables, Arrays and Strings” [https://t.co/laO2PristY](https://t.co/laO2PristY)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Native alternative to wget in Windows PowerShell? [http://t.co/uHGZoX4TjX](http://t.co/uHGZoX4TjX)
 

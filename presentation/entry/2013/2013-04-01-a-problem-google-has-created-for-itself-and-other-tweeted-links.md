@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2013-04-01-a-problem-google-has-created-for-itself-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"James Fallows: A Problem Google Has Created for Itself. <http://t.co/Dvr9PB2CnL>  Most IT Admins Have Considered Quitting Due To Stress <http://t.co/9kNWtBaxDn>  Adobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHall <http://t.co/8fI...\>"\r\n}"
+  "tag": "{\r\n  \"extract\": \"James Fallows: A Problem Google Has Created for Itself. <http://t.co/Dvr9PB2CnL>  Most IT Admins Have Considered Quitting Due To Stress <http://t.co/9kNWtBaxDn>  Adobe's Flash Evangelist, Kevin Lynch, Jumps To Flash-Hater Apple by @BrianSHall...\"\r\n}"
 }
 ---
 

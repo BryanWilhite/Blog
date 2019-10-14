@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2015-01-07-this-year-s-8-smartest-ui-design-ideas-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"This Year's 8 Smartest UI Design Ideas: <http://t.co/TEMnU6Rhs1>  Making and Breaking UX Best Practices <http://t.co/hlkFcgX188>  Pretty damning article on Bezos and the Fire phone: <http://t.co/jnfaskS8Ec>  Still room on the Amazon bear bandwagon! <http://t.co...\>"\r\n}"
+  "tag": "{\r\n  \"extract\": \"This Year's 8 Smartest UI Design Ideas: <http://t.co/TEMnU6Rhs1>  Making and Breaking UX Best Practices <http://t.co/hlkFcgX188>  Pretty damning article on Bezos and the Fire phone: <http://t.co/jnfaskS8Ec>  Still room on the Amazon bear bandwagon!...\"\r\n}"
 }
 ---
 
