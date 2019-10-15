@@ -13,7 +13,7 @@ module.exports = function (config) {
 
     config.addFilter('getExtract', (tag) => {
         const jTag = JSON.parse(tag);
-        return tag.extract;
+        return jTag.extract;
     });
 
     return {
