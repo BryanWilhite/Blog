@@ -16,6 +16,8 @@ module.exports = function (config) {
         return jTag.extract;
     });
 
+    config.addPassthroughCopy("script/index.min.js");
+
     return {
         dir: {
             input: '.',
