@@ -12,8 +12,8 @@ module.exports = function (config) {
     });
 
     config.addFilter('getExtract', (tag) => {
-        console.log({tag});
-        return 'hello world!';
+        const jTag = JSON.parse(tag);
+        return tag.extract;
     });
 
     return {
