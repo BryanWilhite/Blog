@@ -16,8 +16,6 @@ module.exports = function (config) {
         return jTag.extract;
     });
 
-    config.addPassthroughCopy("script/index.min.js");
-
     return {
         dir: {
             input: '.',
@@ -26,6 +24,6 @@ module.exports = function (config) {
         },
         htmlTemplateEngine: 'liquid',
         markdownTemplateEngine: 'liquid',
-        templateFormats: ['html', 'md', 'css', 'liquid']
+        templateFormats: ['html', 'md', 'liquid']
     };
 };

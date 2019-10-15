@@ -5,27 +5,11 @@
     },
     "version": "0.0.1",
     "scripts": {
-        "index:cleancss": "npx cleancss -o ./style/index.min.css ./style/index-bundle.css",
-        "index:concat:css": "npx concat -o ./style/index-bundle.css ./node_modules/normalize.css/normalize.css ./node_modules/@material/typography/dist/mdc.typography.css ./node_modules/@material/layout-grid/dist/mdc.layout-grid.css ./node_modules/@material/top-app-bar/dist/mdc.top-app-bar.css ./node_modules/@material/list/dist/mdc.list.css ./style/index.css",
-        "index:concat:js": "npx concat -o ./script/index.min.js ./node_modules/@material/top-app-bar/dist/mdc.topAppBar.min.js ./node_modules/@material/list/dist/mdc.list.min.js",
-        "index:sass": "npx node-sass ./style/index.scss ./style/index.css",
-        "prebuild": "npm run index:sass && npm run index:concat:css && npm run index:concat:js && npm run index:cleancss",
         "build": "npx eleventy",
-        "markdownlint": "npx markdownlint --output markdownlint-output.txt entry/**/*.md",
-        "start": "npx eleventy --serve"
+        "markdownlint": "npx markdownlint --output markdownlint-output.txt entry/**/*.md"
     },
     "devDependencies": {
         "@11ty/eleventy": "^0.8.3",
-        "clean-css": "^4.2.1",
-        "concat": "^1.0.3",
-        "markdownlint-cli": "^0.18.0",
-        "node-sass": "^4.12.0"
-    },
-    "dependencies": {
-        "@material/layout-grid": "^0.41.0",
-        "@material/list": "^2.3.0",
-        "@material/top-app-bar": "^2.3.0",
-        "@material/typography": "^2.3.0",
-        "normalize.css": "^8.0.1"
+        "markdownlint-cli": "^0.18.0"
     }
 }
