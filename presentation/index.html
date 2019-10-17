@@ -2,14 +2,16 @@
 layout: layouts/base.html
 templateClass: tmpl-index
 ---
-<h1>{{ settings.siteName }}</h1>
-<h2>{{ settings.description }}</h2>
-{% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
-<section class="entries">
-{% for entry in lastThreeEntries %}
-    <div class="entry">
-        <h3><a class="index" href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
-        <p>{{ entry.data.tag | getExtract }}</p>
-    </div>
-{% endfor %}
-</section>
+<div class="mdc-layout-grid__cell--span-12">
+    <h1>{{ settings.siteName }}</h1>
+    <h2>{{ settings.description }}</h2>
+    {% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
+    <section class="entries">
+    {% for entry in lastThreeEntries %}
+        <div class="entry extract">
+            <h3><a class="index" href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
+            <p>{{ entry.data.tag | getExtract }}</p>
+        </div>
+    {% endfor %}
+    </section>
+</div>

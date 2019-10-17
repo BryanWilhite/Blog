@@ -2,11 +2,13 @@
 layout: layouts/base.html
 templateClass: tmpl-entry
 ---
-<section class="entry">
+<div class="mdc-layout-grid__cell--span-12">
+    <section class="entry">
 
-    {{ content }}
+        {{ content }}
 
-</section>
-<section class="meta">
-    <span class="entry-date"> <strong>incept date:</strong> {{ date | date: 'EEEE, MMMM d, y' }} </span>
-</section>
+    </section>
+    <section class="meta">
+        <span class="entry-date"> <strong>incept date:</strong> {{ date | date: 'EEEE, MMMM d, y' }} </span>
+    </section>
+</div>
