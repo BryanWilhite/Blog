@@ -28,7 +28,7 @@
         <title>{% if title %}{{ title }} - {% endif %}{{ settings.siteName }}</title>
     </head>
 
-    <body class="mdc-typography">
+    <body class="mdc-theme--background mdc-typography">
         <svg style="display:none;">
             <symbol viewBox="0 0 24 24" id="mdi_amazon_24px">
                 <!-- https://materialdesignicons.com/icon/amazon -->
@@ -110,7 +110,7 @@
                 {{ content }}
             </div>
         </main>
-        <footer class="mdc-layout-grid">
+        <footer class="mdc-layout-grid mdc-typography--caption">
             <div class="mdc-layout-grid__inner">
                 <div class="mdc-layout-grid__cell--span-8">
                     {%- if modificationDate %}

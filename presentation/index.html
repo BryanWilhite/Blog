@@ -4,12 +4,12 @@ templateClass: tmpl-index
 ---
 <div class="mdc-layout-grid__cell--span-12">
     <h1 class="site logo"><span class="prefix" >&gt;</span>Day Path<span class="suffix">_</span></h1>
-    <h2 class="site description">{{ settings.description }}</h2>
+    <h2 class="site description mdc-typography--subtitle1">{{ settings.description }}</h2>
     {% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
     <section class="entries">
     {% for entry in lastThreeEntries %}
         <div class="entry extract">
-            <h3><a class="index" href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
+            <h3 class="mdc-typography--headline3"><a class="index" href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
             <p>{{ entry.data.tag | getExtract }}</p>
         </div>
     {% endfor %}
