@@ -1,7 +1,10 @@
 {
     "author": {
         "name": "Bryan Wilhite",
-        "twitter": "BryanWilhite"
+        "github": "BryanWilhite",
+        "twitter": "BryanWilhite",
+        "uriAzureDevOps": "https://songhay.visualstudio.com/",
+        "uriAzurePortal": "https://portal.azure.com/"
     },
     "description": "my technical Blog ✒ for my studio",
     "feed": {
@@ -10,7 +13,7 @@
         "uri": "http://songhayblog.azurewebsites.net/entry/feed.xml",
         "id": "http://songhayblog.azurewebsites.net/"
     },
-    "siteName": "day path",
+    "siteName": "Day Path",
     "uri": "http://songhayblog.azurewebsites.net/",
     "uriCompany": "http://songhaysystem.com/"
 }

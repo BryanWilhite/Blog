@@ -68,15 +68,42 @@
             </symbol>
         </svg>
         <header class="mdc-top-app-bar mdc-top-app-bar--short">
+            {%- if templateClass == "tmpl-entry" %}
             <div class="mdc-top-app-bar__row">
                 <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
                     <a href="{{ root }}" class="material-icons mdc-top-app-bar__navigation-icon">first_page</a>
-                    <span class="mdc-top-app-bar__title">{{ settings.siteName }}</span>
+                    <span class="site logo mdc-top-app-bar__title"><span class="prefix">&gt;</span>Day Path<span class="suffix">_</span></span>
                 </section>
                 <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
                     {{ settings.description }}
                 </section>
             </div>
+            {% else -%}
+            <div class="mdc-top-app-bar__row">
+                <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+                    <a href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_azure_24px"></use>
+                        </svg>
+                    </a>
+                    <a href="{{ settings.author.uriAzureDevOps }}" target="_blank" title="Microsoft Azure DevOps">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_visual_studio_24px"></use>
+                        </svg>
+                    </a>
+                    <a href="http://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_twitter_24px"></use>
+                        </svg>
+                    </a>
+                    <a href="{{ settings.feed.uri }}" target="_blank" title="Atom feed">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_rss_24px"></use>
+                        </svg>
+                    </a>
+                </section>
+            </div>
+            {% endif -%}
         </header>
         <main class="mdc-layout-grid" id="main-content">
             <div class="mdc-layout-grid__inner">
@@ -97,6 +124,16 @@
                     </p>
                 </div>
                 <div class="mdc-layout-grid__cell--span-4">
+                    <a href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_azure_24px"></use>
+                        </svg>
+                    </a>
+                    <a href="{{ settings.author.uriAzureDevOps }}" target="_blank" title="Microsoft Azure DevOps">
+                        <svg class="svg-sprite">
+                            <use xlink:href="#mdi_visual_studio_24px"></use>
+                        </svg>
+                    </a>
                     <a href="http://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
                         <svg class="svg-sprite">
                             <use xlink:href="#mdi_twitter_24px"></use>
