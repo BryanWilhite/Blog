@@ -4,7 +4,9 @@
         "github": "BryanWilhite",
         "twitter": "BryanWilhite",
         "uriAzureDevOps": "https://songhay.visualstudio.com/",
-        "uriAzurePortal": "https://portal.azure.com/"
+        "uriAzurePortal": "https://portal.azure.com/",
+        "uriLinkedIn": "http://www.linkedin.com/in/wilhite",
+        "uriStackOverflow": "http://stackoverflow.com/users/22944/rasx"
     },
     "description": "a technical Blog ✒ for my little studio",
     "feed": {
