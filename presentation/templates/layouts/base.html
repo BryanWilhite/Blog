@@ -68,18 +68,16 @@
             </symbol>
         </svg>
         <header class="mdc-top-app-bar mdc-top-app-bar--short">
-            {%- if templateClass == "tmpl-entry" %}
             <div class="mdc-top-app-bar__row">
                 <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+                    {%- if templateClass == "tmpl-entry" %}
                     <a href="{{ root }}" class="material-icons mdc-top-app-bar__navigation-icon">first_page</a>
+                    {% endif -%}
                     <span class="site logo mdc-top-app-bar__title"><span class="prefix">&gt;</span>Day Path<span class="suffix">_</span></span>
                 </section>
                 <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
                     {{ settings.description }}
                 </section>
-            </div>
-            {% else -%}
-            <div class="mdc-top-app-bar__row">
                 <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
                     <a class="svg-sprite" href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
                         <svg class="svg-sprite">
@@ -103,7 +101,6 @@
                     </a>
                 </section>
             </div>
-            {% endif -%}
         </header>
         <main class="mdc-layout-grid" id="main-content">
             <div class="mdc-layout-grid__inner">
@@ -120,7 +117,7 @@
                     </p>
                     {% endif -%}
                     <p>
-                        Another stone tribal move by <a class="welcome" href="{{ settings.uriCompany }}">Songhay System</a>
+                        Another stone tribal move by <a class="index" href="{{ settings.uriCompany }}">Songhay System</a>
                     </p>
                 </div>
                 <div class="mdc-layout-grid__cell--span-4">

@@ -3,8 +3,6 @@ layout: layouts/base.html
 templateClass: tmpl-index
 ---
 <div class="mdc-layout-grid__cell--span-12">
-    <h1 class="site logo"><span class="prefix" >&gt;</span>Day Path<span class="suffix">_</span></h1>
-    <h2 class="site description mdc-typography--subtitle1">{{ settings.description }}</h2>
     {% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
     <section class="entries">
     {% for entry in lastThreeEntries %}
