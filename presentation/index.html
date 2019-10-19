@@ -4,7 +4,7 @@ templateClass: tmpl-index
 ---
 <div class="mdc-layout-grid__cell--span-12">
     {% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
-    <section class="entries mdc-top-app-bar--prominent-fixed-adjust">
+    <section class="entries">
     {% for entry in lastThreeEntries %}
         <div class="entry extract">
             <h3 class="mdc-typography--headline3"><a class="index" href="{{ settings.uri }}entry/{{ entry.data.documentShortName }}">{{ entry.data.title }}</a></h3>
