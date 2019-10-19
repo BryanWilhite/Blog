@@ -6,7 +6,7 @@
         "uriAzureDevOps": "https://songhay.visualstudio.com/",
         "uriAzurePortal": "https://portal.azure.com/"
     },
-    "description": "my technical Blog ✒ for my studio",
+    "description": "a technical Blog ✒ for my little studio",
     "feed": {
         "filename": "feed.xml",
         "path": "/entry/feed.xml",
