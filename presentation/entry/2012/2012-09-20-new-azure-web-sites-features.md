@@ -34,51 +34,50 @@ You pay for a shared mode web-site using the standard “pay as you go” model 
 With this announcement Microsoft is finally addressing a relatively ancient problem of how poorly Microsoft-based shared hosting competed with, say, DreamHost.com. We can complain and say that Microsoft has “over-engineered” its solution and it’s late—but plenty of people can say this about my work! In defense of Microsoft (and me)—like a multibillion dollar company actually needs defending—Microsoft has the best solution (better than Amazon offerings—and, to me, Google is just an advertising company with some custom Linux stuff that most “serious” Linux people don’t respect). Microsoft has a complete technical statement that coheres with the massive legacy load Microsoft has to carry (and I have quite a hefty legacy load too).
 
 This news from “the Gu” allows me to tabulate my plans for Azure migration:
-<
-table class="WordWalkingStickTable"><tr><td>
 
-wordwalkingstick.com
-[songhayindex.azurewebsites.net]
-<
-/td><td>
+<table class="WordWalkingStickTable"><tr><td>
+
+wordwalkingstick.com [songhayindex.azurewebsites.net]
+
+</td><td>
 
 Shared site with custom “naked” domain.
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 slbiggestbox.azurewebsites.net
-<
-/td><td>
+
+</td><td>
 
 Free site.
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 songhaywebformssample.azurewebsites.net
-<
-/td><td>
+
+</td><td>
 
 Free site.
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 daypath.wordwalkingstick.com
 [songhayblog.azurewebsites.net]
-<
-/td><td>
+
+</td><td>
 
 Shared site with custom subdomain.
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 songhaysystem.com
 [songhaysystem.azurewebsites.net]
-<
-/td><td>
+
+</td><td>
 
 Shared site with custom “naked” domain.
-<
-/td></tr></table>
+
+</td></tr></table>
 
 ## Phil Haack’s Old Hosting Service
 

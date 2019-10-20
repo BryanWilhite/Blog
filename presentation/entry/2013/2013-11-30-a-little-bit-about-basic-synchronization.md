@@ -158,43 +158,43 @@ This may be overkill someday but today I’m calling it educational.
 <table class="WordWalkingStickTable"><tr><td>
 
 “[Why is lock much slower than Monitor.TryEnter?](http://stackoverflow.com/questions/2416793/why-is-lock-much-slower-than-monitor-tryenter)”
-<
-/td><td>
+
+</td><td>
 
 “…it’s important to point out that lock and Monitor.TryEnter are not functionally equivalent.”
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[Asynchrony in C# 5: Deep Dive by Joe Albahari](http://yow.eventer.com/yow-2011-1004/asynchrony-in-c-5-deep-dive-by-joe-albahari-1067)”
-<
-/td><td>
+
+</td><td>
 
 A streaming talk from YOW 2011.
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[Threading in C#—Part 4—Advanced Threading](http://www.albahari.com/threading/part4.aspx)”
-<
-/td><td>
+
+</td><td>
 
 “Here’s how to use Wait and Pulse…”
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[Synchronization in async C# methods](http://www.dzhang.com/blog/2012/08/29/synchronization-in-async-csharp-methods)”
-<
-/td><td>
+
+</td><td>
 
 “The following results in a compile-time error because you cannot use `await` inside a `lock` block…”
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[Threading in C#—Part 2 - Basic Synchronization](http://www.albahari.com/threading/part2.aspx)”
-<
-/td><td>
+
+</td><td>
 
 “Only one thread can lock the synchronizing object (in this case, `_locker`) at a time, and any contending threads are blocked until the lock is released. If more than one thread contends the lock, they are queued on a ‘ready queue’ and granted the lock on a first-come, first-served basis (a caveat is that nuances in the behavior of Windows and the CLR mean that the fairness of the queue can sometimes be violated). ...C#’s `lock` statement is in fact a syntactic shortcut for a call to the methods `Monitor.Enter` and `Monitor.Exit`, with a try/finally block.”
-<
-/td></tr></table>
+
+</td></tr></table>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

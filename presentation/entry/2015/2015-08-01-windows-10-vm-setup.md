@@ -58,6 +58,7 @@ Set-ExecutionPolicy RemoteSigned
 ## Got Chocolatey?
 
 There are [several packages for Sublime Text 2/3](https://chocolatey.org/packages?q=sublime) but I’ll need to get back to this to make a detail-based decision on which ones to take.
+
 <table class="WordWalkingStickTable"><tr><td>
 Application
 </td><td>
@@ -65,37 +66,52 @@ Package?
 </td></tr><tr><td>
 Piriform Defraggler
 </td><td>
+
 [Defraggler 2.19.982](https://chocolatey.org/packages/defraggler) [ `defraggler` ]
+
 </td></tr><tr><td>
 CCleaner
 </td><td>
+
 [CCleaner 5.08.5308](https://chocolatey.org/packages/ccleaner) [ `ccleaner` ]
+
 </td></tr><tr><td>
 7-Zip
 </td><td>
+
 [7-Zip (Install) 9.38](https://chocolatey.org/packages/7zip.install) [ `7zip.install` ]
+
 </td></tr><tr><td>
 Sysinternals Suite
 </td><td>
+
 [Sysinternals 2015.07.20](https://chocolatey.org/packages/sysinternals) [ `sysinternals` ]
+
 </td></tr><tr><td>
 Microsoft Web Platform Installer
 </td><td>
+
 [WebPI (Platform Installer) 5.0](https://chocolatey.org/packages/webpi) [ `webpi` ]
+
 </td></tr><tr><td>
 cwRsync
 </td><td>
+
 [cwRsync Free edition 5.4.1](https://chocolatey.org/packages/cwrsync) [ `cwrsync` ]
+
 </td></tr><tr><td>
 Git (for Windows)
 </td><td>
+
 [Git (Install) 1.9.5.20150320](https://chocolatey.org/packages/git.install) [ `git.install` ]
 
 This package will not install the **Git Bash** shortcut from the original distribution on Windows 10. The shortcut target is `"%ProgramFiles(x86)%\Git\bin\sh.exe" --login -i`.
 </td></tr><tr><td>
 Node JS
 </td><td>
+
 [Node JS (Install) 0.12.7](https://chocolatey.org/packages/nodejs.install) [ `nodejs.install` ]
+
 </td></tr><tr><td>
 <span style="text-decoration:line-through;">CloudBerry Explorer</span>
 </td><td>
@@ -105,23 +121,33 @@ This package did not install correctly (for me) and it has not been approved by 
 </td></tr><tr><td>
 Notepad++
 </td><td>
+
 [Notepad++ 6.8](https://chocolatey.org/packages/notepadplusplus) [ `notepadplusplus` ]
+
 </td></tr><tr><td>
 FileZilla
 </td><td>
+
 [FileZilla 3.12.0.2](https://chocolatey.org/packages/filezilla) [ `filezilla` ]
+
 </td></tr><tr><td>
 WinMerge
 </td><td>
+
 [winmerge 2.14.0](https://chocolatey.org/packages/winmerge) [ `winmerge` ]
+
 </td></tr><tr><td>
 IrfanView
 </td><td>
+
 [IrfanView 4.38](https://chocolatey.org/packages/irfanview) [ `irfanview` ]
+
 </td></tr><tr><td>
 NAnt
 </td><td>
+
 [NAnt—A .NET Build Tool 0.92.1](https://chocolatey.org/packages/NAnt) [ `nant` ]
+
 </td></tr></table>
 
 ## ‘Unmanaged’ Utilities

@@ -49,22 +49,35 @@ It is my intent that all of these keys should be stored in `NavigationBookmarkDa
 ## Layer 2: Frame Eventing in Code Behind
 
 My [PasteBin.com code sample](http://pastebin.com/rGsCYRsS) shows (almost) all of the eventing required for a navigation `Frame`. The table below summarizes:
+
 <table class="WordWalkingStickTable"><tr><td>
+
 `ClientFrame.Navigated`
+
 </td><td>
+
 This event is primarily used to extract the `Page.NavigationService` from the `Frame.Content`. The Navigation Service is then used by the Client to support an application-wide “back button” command. The “back button” concept lives on quite strongly in Windows Phone (and Windows 8).
+
 </td></tr><tr><td>
+
 `ClientFrame.Navigating`
+
 </td><td>
+
 This event is handled to allow the application to cancel navigation. When a service layer is built into the application, this event can be used to start service calls related to the navigation target.
 
 The [data associated](http://msdn.microsoft.com/en-us/library/system.windows.navigation.navigatingcanceleventargs.aspx) with this event, `NavigatingCancelEventArgs`, can also be used to extract the target URI of navigation.
 
 Because I use MVVM Light, I have written an Extension Method, `Page.SendLightNavigationMessage()`, to allow this event to be handled in a decoupled manner, using the Messaging system in MVVM Light.
+
 </td></tr><tr><td>
+
 `ClientFrame.NavigationFailed`
+
 </td><td>
+
 The conventional error “window” is used here.
+
 </td></tr></table>
 
 ## Layer 3: `NavigationBookmarkData`
@@ -115,32 +128,59 @@ The “death” of Silverlight in general strongly suggests that `HtmlPage.Windo
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[Windows 8 Metro Style Apps – Implementing Navigation with XAML](http://www.markermetro.com/2011/11/technical/windows-8-metro-style-apps-implementing-navigation-with-xaml/)”
+
 </td><td>
+
 This article shows that Windows 8 app design goes ‘back’ to calling `Frame.Navigate()` directly.
+
 </td></tr><tr><td>
+
 “[Navigation in Silverlight Without Using Navigation Framework](http://www.c-sharpcorner.com/uploadfile/37db1d/navigation-in-silverlight-without-using-navigation-framework/)”
+
 </td><td>
+
 “Silverlight 3 introduces Navigation Framework which takes care of this, but let's first try to achieve navigation and state management without this framework; or you can say, the way it is done in Silverlight 2.”
+
 </td></tr><tr><td>
+
 “[On-demand loading of assemblies with Silverlight Navigation – Revisited for Silverlight 4 Beta](http://www.davidpoll.com/2010/02/01/on-demand-loading-of-assemblies-with-silverlight-navigation-revisited-for-silverlight-4-beta/)”
+
 </td><td>
+
 “With Silverlight 4’s INavigationContentLoader extensibility point, we can address this scenario much more effectively, and are no longer locked into the workarounds and strict constraints that Silverlight 3’s navigation feature placed on us. In this post, I’ll walk through the use of another ContentLoader I’ve been working on and look at how it simplifies building multi-xap applications.”
+
 </td></tr><tr><td>
+
 “[Using MEF in Metro-style applications](http://andyonwpf.blogspot.com/2012/04/using-mef-in-metro-style-applications.html)”
+
 </td><td>
+
 “The good news is that MEF is included in the .Net base class libraries as part of the Metro-style application profile so is included in-the-box for all such applications. Unfortunately if you look at the documentation you will see references to ‘Assembly.GetExecutingAssembly()’ that is not available in the Metro-profile…”
+
 </td></tr><tr><td>
+
 “[Navigation Overview](http://msdn.microsoft.com/en-us/library/ms750478.aspx) [.NET 4.5]”
+
 </td><td>
+
 Introduces the `NavigationWindow` and `FragmentNavigation` concepts.
+
 </td></tr><tr><td>
+
 “[WinRT: MVVM Navigation and a MVVM Example App](http://mikaelkoskinen.net/winrt-mvvm-navigation-and-a-mvvm-example-app/)”
+
 </td><td>
+
 “If you’re using some container to create your view models, the `NavigationService`-instance can be registered into it as a singleton. If you’re using a simple `ViewModelLocator` without a container, the `NavigationService` can be added as a property to the App-class and it can be accessed when creating the view models. In either case, the `NavigationService` should be passed to the VM through the constructor, after which navigation from a view model is a straightforward task.”
+
 </td></tr><tr><td>
+
 “[How to I get access NavigationService in a WIndows Phone app without going through a PhoneApplicationPage?](http://stackoverflow.com/questions/8751787/how-to-i-get-access-navigationservice-in-a-windows-phone-app-without-going-throu)”
+
 </td><td>
+
 “You can get it from the app’s `PhoneApplicationFrame`. It will be accessible from anywhere in the app since every Windows Phone app has a Frame.”
 
 ```c#
@@ -149,8 +189,11 @@ Introduces the `NavigationWindow` and `FragmentNavigation` concepts.
 ```
 
 </td></tr><tr><td>
+
 “[NavigationService for WinRT](http://dotnetbyexample.blogspot.com/2012/06/navigationservice-for-winrt.html)”
+
 </td><td>
+
 “So the string type methods allow you to specify the page to navigate by string. Before you all think I really lost my marbles this time, re-introducing weakly typed navigation just as the Windows team introduced strongly typed: I specifically added this as to allow navigation to be initiated from a `ViewModel` contained in an assembly not containing the XAML code. This also enables you to test code as well. This is the way I built my solutions for Windows Phone, and I intend to go on this way in Windows 8. ;-)”
 </td></tr></table>
 

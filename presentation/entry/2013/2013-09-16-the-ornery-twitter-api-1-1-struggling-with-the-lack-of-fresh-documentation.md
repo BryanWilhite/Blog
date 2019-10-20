@@ -96,70 +96,133 @@ The `OpenAuthorizationData` instance is of a little housekeeping class I use to 
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[How to get tweet’s HTML with LinqToTwitter?](http://stackoverflow.com/questions/7855347/how-to-get-tweets-html-with-linqtotwitter)”
+
 </td><td>
+
 I will need something like `TwitterExtensions` for a WPF version of my little project.
+
 </td></tr><tr><td>
+
 “[How to get HTML instead of plain text (Status.Text)](http://linqtotwitter.codeplex.com/discussions/449076)”
+
 </td><td>
+
 “There’s an `Entities` property that contains metadata for various parts of a tweet, including the Start and End character positions. One of those is `UrlEntities`, which you can use to determine where the URLs are in the tweet. With that, you can write code to arrange the entities and work backwards through the tweet to transform the text into HTML.”
+
 </td></tr><tr><td>
-“[Implementing Single User Authorization](https://linqtotwitter.codeplex.com/wikipage?title=Single User Authorization)”
+
+“[Implementing Single User Authorization](https://linqtotwitter.codeplex.com/wikipage?title=Single+User+Authorization)”
+
 </td><td>
+
 “The `SingleUserAuthorizer` allows you to fill in all of your credentials at one time, bypassing the user-centric authorization process. It's designed for application-only operations…”
+
 </td></tr><tr><td>
+
 “[How do I tweet, using the DotNetOpenAuth library?](http://stackoverflow.com/questions/2141251/how-do-i-tweet-using-the-dotnetopenauth-library)”
+
 </td><td>
+
 “…it would probably be much easier for you to download `LinqToTwitter`, which uses `DotNetOpenAuth` and offers an extensive Twitter library to do most/all the operations Twitter supports.”
+
 </td></tr><tr><td>
+
 “[TwitterConsumer.cs](https://github.com/DotNetOpenAuth/DotNetOpenAuth/blob/master/samples/DotNetOpenAuth.ApplicationBlock/OAuth1/TwitterConsumer.cs)”
+
 </td><td>
+
 I tried and failed to get something like this working on a Windows Azure Websites server (see also: “[2-legged OAuth with DotNetOpenAuth and Twitter. Getting a 401 error](http://stackoverflow.com/questions/15883368/2-legged-oauth-with-dotnetopenauth-and-twitter-getting-a-401-error)”).
+
 </td></tr><tr><td>
+
 “[Two tastes better together: Combining OpenID and OAuth with OpenID Connect](http://factoryjoe.com/blog/2010/05/16/combing-openid-and-oauth-with-openid-connect/)”
+
 </td><td>
+
 “OpenID, by design, favors the user rather than the relying party. In contrast, technologies like Facebook and Twitter Connect emphasize the benefits to relying parties. So while it might seem like an inconvenience to custom-tailor your personal privacy settings on Facebook, the liberal defaults are meant to make Facebook users’ accounts more valuable to relying parties than other, more privacy-preserving account configurations.”
+
 </td></tr><tr><td>
+
 “[Managing session state in Windows Azure: What are the options?](https://www.simple-talk.com/cloud/platform-as-a-service/managing-session-state-in-windows-azure-what-are-the-options/)”
+
 </td><td>
+
 When I was ignorant of the usefulness of `LinqToTwitter` and `SingleUserAuthorizer`, I assumed that I needed Session State support on Windows Azure to properly handle Twitter authentication and authorization. I thought that manually logging in to Twitter was the *only *way to access the REST API.
+
 </td></tr><tr><td>
+
 “[How to maintain session state in Window Azure](http://www.arunrana.net/2011/12/how-to-maintain-session-state-in-window.html)”
+
 </td><td>
+
 It turns out that I was quite pleased with my success with implementing session state with `TableStorageSessionStateProvider`. So this digression from my Twitter problems should pay off later.
+
 </td></tr><tr><td>
+
 “[Session State Provider for Windows Azure Cache](http://msdn.microsoft.com/en-us/library/windowsazure/gg185668.aspx)”
+
 </td><td>
+
 Table Storage worked for me: I do not recall getting this cache-based stuff up and running (see also: “[Introducing Windows Azure Caching](http://www.dotnetcurry.com/ShowArticle.aspx?ID=865)”).
+
 </td></tr><tr><td>
+
 “[Implementing OAuth for MVC Applications](http://linqtotwitter.codeplex.com/wikipage?title=Implementing OAuth for ASP.NET MVC&referringTitle=Learning to use OAuth)”
+
 </td><td>
+
 Even though this documentation is from `LinqToTwitter` people it was total fail for me. I assume that I could not get it to work because I am running MVC on Windows Azure.
+
 </td></tr><tr><td>
+
 “[Getting Twitter Access Secret using DotNetOpenAuth in MVC4](http://stackoverflow.com/questions/12198734/getting-twitter-access-secret-using-dotnetopenauth-in-mvc4)”
+
 </td><td>
+
 For a very large time I assumed that I could get things to working solely with `DotNetOpenAuth`. Nope. By the way, there is no official answer to this StackOverflow.com question. Also: it was this question that really helped me to distinguish between *authentication* and *authorization*: “The `DotNetOpenAuth.AspNet.Clients.TwitterClient` class only allows authentication, not authorization. So you wouldn't be able to post tweets as that user if you use that class. Instead, you can use `DotNetOpenAuth.ApplicationBlock.TwitterConsumer` [[http://nuget.org/packages/DotNetOpenAuth.ApplicationBlock](http://nuget.org/packages/DotNetOpenAuth.ApplicationBlock)], which does not share this limitation and you can even copy the source code for this type into your application and extend it as necessary.”
+
 </td></tr><tr><td>
+
 “[DotNetOpenAuth.AspNet Twitter,Facebook,Google,Microsoft,LinkedIn Authentication](https://coderwall.com/p/j9essg)”
+
 </td><td>
+
 I could not get this example to work on Windows Azure. I kept getting that 401 unauthorized error. This may be the right to mention that Twitter folk should save detailed error messages for developers available for viewing on dev.twitter.com.
+
 </td></tr><tr><td>
+
 “[OAuth with Verification in .NET](http://stackoverflow.com/questions/4002847/oauth-with-verification-in-net)”
+
 </td><td>
+
 “I agree with you. The open-source OAuth support classes available for .NET apps are hard to understand, overly complicated (how many methods are exposed by `DotNetOpenAuth`?), poorly designed (look at the methods with 10 string parameters in the `OAuthBase.cs` module from that google link you provided—there’s no state management at all), or otherwise unsatisfactory.”
+
 </td></tr><tr><td>
+
 “[How to Connect in Twitter API Using PHP](http://ronzohan.blogspot.com/2013/01/how-to-connect-in-twitter-using-php.html)”
+
 </td><td>
+
 Okay here is the punch line: the PHP code in this article modified slightly for my Windows Azure Websites server ran flawlessly. No problems whatsoever!
+
 </td></tr><tr><td>
+
 “[Multi-service Authentication the Easy Way](http://netitude.bc3tech.net/2013/02/22/multi-service-authentication-the-easy-way/)”
 
 “[Enabling Twitter OAuth For An Azure Mobile Service (Zumo) in a Windows 8 Game](http://www.dotnetcurry.com/ShowArticle.aspx?ID=860)”
+
 </td><td>
+
 A bunch of Windows 8 and Windows Azure links related to OAuth.
+
 </td></tr><tr><td>
+
 “[Parsing Twitter Usernames, Hashtags and URLs with JavaScript](http://www.simonwhatley.co.uk/parsing-twitter-usernames-hashtags-and-urls-with-javascript)”
+
 </td><td>
+
 I am using these techniques for the MVC version of my little app.
 </td></tr></table>
 

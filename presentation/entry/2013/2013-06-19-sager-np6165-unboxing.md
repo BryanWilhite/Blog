@@ -48,151 +48,151 @@ The touchpad fingerprint reader is not working correctly. I assume that it’s a
 <table class="WordWalkingStickTable"><tr><td>
 
 Display
-<
-/td><td>
+
+</td><td>
 
 15.6" Full HD LED-Backlit Display with Super Glossy Surface (1920 x 1080)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Video & Graphics Card
-<
-/td><td>
+
+</td><td>
 
 1GB GDDR5 Nvidia GeForce GT 650M GPU with Optimus Technology / Embedded Intel HD Graphics
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 CPU Processor
-<
-/td><td>
+
+</td><td>
 
 3rd Generation Intel® Core™ i5-3230M Processor (3MB L3 Cache, 2.60GHz)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Thermal Compound
-<
-/td><td>
+
+</td><td>
 
 Stock Standard Thermal Compound
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Operating System
-<
-/td><td>
+
+</td><td>
 
 Genuine MS Windows® 8 Professional 64-Bit Edition [$60.00]
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Memory
-<
-/td><td>
+
+</td><td>
 
 16GB Dual Channel DDR3 SDRAM at 1600MHz—2 X 8GB [$70.00]
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Primary Hard Disk Drive
-<
-/td><td>
+
+</td><td>
 
 120GB Intel 520 Series SATA3 Solid State Disk Drive [$100.00]
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 2nd Hard Disk Drive
-<
-/td><td>
+
+</td><td>
 
 750GB 7200rpm SATA2 Secondary Hard Disk Drive [$80.00]
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Optical Drive Bay—Optical Drive or Hard Disk Drive in Optical Drive Bay with Caddy case
-<
-/td><td>
+
+</td><td>
 
 8X DVD±R/RW/4X +DL Super-Multi Drive & Software
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Wireless Network Card
-<
-/td><td>
+
+</td><td>
 
 Internal 802.11 B+G+N Wireless LAN + Bluetooth Combo Module
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Primary Battery
-<
-/td><td>
+
+</td><td>
 
 Smart Li-ION Battery Pack
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Integrated Security Device
-<
-/td><td>
+
+</td><td>
 
 Fingerprint Reader
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Microsoft Office
-<
-/td><td>
+
+</td><td>
 
 Microsoft Office 2013 Trial—Included in Price
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Warranty
-<
-/td><td>
+
+</td><td>
 
 Sager 1 Year Limited Parts and Labor Warranty
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Additional Battery Pack
-<
-/td><td>
+
+</td><td>
 
 BAT-6165, NP6165 Smart Li-ION Battery Pack (6 Cell, 62.16Wh) [$95.00]
-<
-/td></tr></table>
+
+</td></tr></table>
 
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
 
 “[Know how to dismantle (take apart) a Sager 5760?](http://forum.notebookreview.com/sager-clevo/89844-know-how-dismantle-take-apart-sager-5760-a.html)”
-<
-/td><td>
+
+</td><td>
 
 “I have done many [dis-assemblies] and [re-assemblies] on Clevo notebooks, I would not recommend it to anyone unless if your warranty was up, or if you are confident with your skills (to not screw it up). If you are just curious about seeing [what’s] inside, you can open the panels on the bottom to see the [hard drive], ram, and CPU. But the rest is more difficult.”
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[Clevo W-Series PREMA BIOS MOD Review](http://forum.notebookreview.com/sager-clevo-reviews-owners-lounges/667818-clevo-w-series-prema-bios-mod-review-13.html) [page 13]”
-<
-/td><td>
+
+</td><td>
 
 “There is a little white plug with a red/black wire next to the hard drive bay and RAM. Pull it up and remove it, wait 30 seconds, and then plug it back in. It's the plug for the CMOS battery which you can see in this image, but usually hidden under the hard drive or SSD.”
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 “[I just reset my Sager notebook’s BIOS.](http://blog.throbs.net/2006/12/22/I+Just+Reset+My+Sager+Notebooks+BIOS.aspx)”
-<
-/td><td>
+
+</td><td>
 
 “If you feel comfortable, Try this, 1st unplug all the power remove the AC Adapter and the Battery. And open the bottom cover (see attachment picture) and unplug the CMOS-Battery’s wire (red & black crop by Green Color) for like 15sec. Then reconnect it back the wire then everything ACA and the Big Battery. See that will help.”
-<
-/td></tr></table>
+
+</td></tr></table>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

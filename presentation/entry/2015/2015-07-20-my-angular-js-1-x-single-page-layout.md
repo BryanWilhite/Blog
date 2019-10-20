@@ -47,29 +47,53 @@ See the Pen <a href='https://codepen.io/rasx/pen/gpjaoZ'>Angular: Multiple Templ
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[AngularJS: Communication Between Controllers](http://www.theroks.com/angularjs-communication-controllers/)”
+
 </td><td>
+
 Event-aggregation with `$broadcast` in an Angular Service.
+
 </td></tr><tr><td>
+
 “[Animating AngularJS Apps: ngView](https://scotch.io/tutorials/animating-angularjs-apps-ngview)”
+
 </td><td>
+
 I could not get the animations to work *well*. Not the UX I’m looking for…
+
 </td></tr><tr><td>
+
 “[UI-Router: Why many developers don’t use AngularJS’s built-in router](http://www.funnyant.com/angularjs-ui-router/)”
+
 </td><td>
+
 My solution is simpler, Angular-native and I do not expect to outgrow it.
+
 </td></tr><tr><td>
+
 “[AngularJS: Views vs. Directives](http://jan.varwig.org/archive/angularjs-views-vs-directives)”
+
 </td><td>
+
 Is not `ng-view` a Directive?
+
 </td></tr><tr><td>
+
 “[Mastering the Scope of the Directives in AngularJS](http://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)”
+
 </td><td>
+
 The few written works on Angular JS that help me understand the deep innards of this beast.
+
 </td></tr><tr><td>
+
 “[Angular.js directives—Difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)”
+
 </td><td>
+
 Another one of those *aha!* articles.
+
 </td></tr></table>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

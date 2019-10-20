@@ -117,76 +117,147 @@ One of the foundational reasons to use MVVM is to have testable code. No “clea
 ## Related Resources
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[Automatically implementing INotifyPropertyChanged](http://www.postsharp.net/model/inotifypropertychanged)”
+
 </td><td>
+
 “Binding objects to the UI is a large and tedious task. You must implement `INotifyPropertyChanged` on every property that needs to be bound. You need to ensure that the underlying property getter correctly raises events so that the View knows that changes have occurred. The larger your codebase, the more work there is.”
+
 </td></tr><tr><td>
+
 “[Writing a Testable Presentation Layer with MVVM](http://msdn.microsoft.com/en-us/magazine/dn463790.aspx)”
+
 </td><td>
+
 “If you want to write a testable application, it really helps to plan ahead. You’ll want to design your application’s architecture so it’s conducive to unit testing. Static methods, sealed classes, database access, and Web service calls all can make your app difficult or impossible to unit test.”
+
 </td></tr><tr><td>
+
 “[Maximizing the Visual Designer’s Usage with Design-Time Data](http://msdn.microsoft.com/en-us/magazine/dn169081.aspx)”
+
 </td><td>
+
 “The design-time `DataService` is cleanly separated from the rest of the code, in its own source file, and, as you’ll see a little later in this article, you can exclude this source file from the Release build of your application.”
+
 </td></tr><tr><td>
+
 “[MVVM Reference Implementation [Prism]](http://msdn.microsoft.com/en-us/library/gg405492(v=pandp.40).aspx)”
+
 </td><td>
+
 “Because MEF is being used to import the view models (parts), parameters (such as context) cannot be passed. If you need to pass state for an object that will be created by MEF, you need to set the value for the current state for the type of the context object.”
+
 </td></tr><tr><td>
+
 [EasyNetQ](http://easynetq.com/)
+
 </td><td>
+
 “Watch the author, Mike Hadlow, giving a [demo of EasyNetQ at QCon London](http://www.infoq.com/presentations/RabbitMQ-NET-EasyNetQ). And listen to Mike talking about EasyNetQ on [Dot Net Rocks](http://www.dotnetrocks.com/default.aspx?ShowNum=848).”
+
 </td></tr><tr><td>
+
 “[MVVM Multiselect Listbox](http://www.gbogea.com/2010/01/02/mvvm-multiselect-listbox)”
+
 </td><td>
+
 This design by Gabriel Perez should work better than a similar control I built in 2012 because is features `SelectionItem<T>`—a powerful use of generics.
+
 </td></tr><tr><td>
+
 “[Wiring up View and Viewmodel in MVVM and Silverlight 4](http://blog.roboblob.com/2010/01/17/wiring-up-view-and-viewmodel-in-mvvm-and-silverlight-4-blendability-included/)”
+
 </td><td>
-“In MVVMLight `ViewModelLocator` is [usually] defined in `App.Xaml.cs` as global resource (and therefore created on application startup). Also design-time and runtime versions of `ViewModel `instances in `ViewModelClass` are defined as static properties and therefore also created when `ViewModelLocator` class is first used. Also those static `ViewModels` are then shared between multiple views which is in my opinion simply wrong.”
+
+“In MVVMLight `ViewModelLocator` is [usually] defined in `App.Xaml.cs` as global resource (and therefore created on application startup). Also design-time and runtime versions of `ViewModel` instances in `ViewModelClass` are defined as static properties and therefore also created when `ViewModelLocator` class is first used. Also those static `ViewModels` are then shared between multiple views which is in my opinion simply wrong.”
+
 </td></tr><tr><td>
+
 “[WPF, Model-View-ViewModel (MVVM), MEF and other Acronyms](http://consultingblogs.emc.com/davidwynne/archive/2009/05/22/wpf-model-view-viewmodel-mvvm-mef-and-other-acronyms.aspx)”
+
 </td><td>
+
 “We wanted to have more or less the same execution, but with MEF pulling the strings. We wanted to be able to set the DataContext of a View in its XAML so Resharper can resolve it and give you IntelliSense to the associated ViewModel in XAML which is really handy. We were also quite keen to try and get rid of the ServiceLocater class if possible, which is basically continually growing boiler plate code.”
+
 </td></tr><tr><td>
+
 “[[Asynchronous] MVVM… Stop the Dreaded Dead GUI Problem in WPF7](http://www.codeproject.com/Articles/123183/Asynchronus-MVVM-Stop-the-Dreaded-Dead-GUI-Problem)”
+
 </td><td>
+
 I’m pretty sure this article was written before `Task<T>` was generally available.
+
 </td></tr><tr><td>
+
 “[NuGet packages for Mvvm Light](http://insomniacgeek.com/nuget-packages-for-mvvm-light/)”
+
 </td><td>
+
 I did have a issues with MVVM Light moving from SL4 to SL5.
+
 </td></tr><tr><td>
+
 “[How to Disable silverlight configuration dialog which appears on right click in a MVVM silverlight 4.0 application.](http://www.codeproject.com/KB/silverlight/DisableSilverlightContext.aspx)”
+
 </td><td>
+
 “The solution presented in this article uses the right click event handler exposed in the silverlight 4 version and will not work in the previous versions of the silverlight. The solution is to add an event handler to the mouse right button down event in the application startup method.In the event handler we set the ishandled property to true.This essentially prevents the event from bubbling up all the way to the silverlight plugin.”
+
 </td></tr><tr><td>
+
 “[WPF Validation with Attributes and IDataErrorInfo interface in MVVM](http://weblogs.asp.net/marianor/archive/2009/04/17/wpf-validation-with-attributes-and-idataerrorinfo-interface-in-mvvm.aspx)”
+
 </td><td>
-“WPF provides validation infrastructure for binding scenarios through `IDataErrorInfo `interface. Basically you have to implement the `Item[columnName]` property putting the validation logic for each property in your Model (or `ModelView`) requiring validation. From XAML you need to set `ValidatesOnDataErrors` to true and decide when you want the binding invoke the validation logic (through `UpdateSourceTrigger`).”
+
+“WPF provides validation infrastructure for binding scenarios through `IDataErrorInfo` interface. Basically you have to implement the `Item[columnName]` property putting the validation logic for each property in your Model (or `ModelView`) requiring validation. From XAML you need to set `ValidatesOnDataErrors` to true and decide when you want the binding invoke the validation logic (through `UpdateSourceTrigger`).”
+
 </td></tr><tr><td>
+
 “[Walkthrough: Consuming OData with MVVM for Windows Phone](http://msdn.microsoft.com/en-us/library/windowsphone/develop/hh394007(v=vs.105).aspx)”
+
 </td><td>
+
 I thought this was of interest in 2011.
+
 </td></tr><tr><td>
+
 “[Unit Testable WCF Web Services in MVVM and Silverlight 4](http://blog.roboblob.com/2010/04/11/unit-testable-wcf-web-services-in-mvvm-and-silverlight-4/)”
+
 </td><td>
+
 Another 2011 thing of interest.
+
 </td></tr><tr><td>
+
 “[UpdateSourceTrigger Enumeration](http://msdn.microsoft.com/en-us/library/system.windows.data.updatesourcetrigger(v=vs.110).aspx)”
+
 </td><td>
+
 “The default `UpdateSourceTrigger` value of the binding target property. The default value for most dependency properties is `PropertyChanged`, while the [Text](http://msdn.microsoft.com/en-us/library/system.windows.controls.textbox.text(v=vs.110).aspx) property has a default value of `LostFocus`.”
+
 </td></tr><tr><td>
+
 “[Using CollectionViewSource in MVVM](http://social.msdn.microsoft.com/Forums/silverlight/en-US/29699048-3ecb-407e-a28c-cd826024fbb2/using-collectionviewsource-in-mvvm?forum=silverlightcontrols)”
+
 </td><td>
+
 This thread shows a sample that uses `CollectionViewSource` to wrap `ObservableCollection<T>`.
+
 </td></tr><tr><td>
+
 “[CollectionViewSource is crazy useful for binding to filtered Observable Collections on Windows Phone 8](http://www.hanselman.com/blog/CollectionViewSourceIsCrazyUsefulForBindingToFilteredObservableCollectionsOnWindowsPhone8.aspx)”
+
 </td><td>
+
 “Turns out, though, that WPF folks have been using this for YEARS. Here’s [Beth Massi talking about CollectionViewSource in 2008](http://blogs.msdn.com/b/bethmassi/archive/2008/11/07/loading-data-and-binding-controls-in-wpf-with-collectionviewsource.aspx), for crying out loud (as I discover it a half-decade later on the phone.)”
+
 </td></tr><tr><td>
+
 “[Deferring ListCollectionView filter updates for a responsive UI](http://www.codeproject.com/Articles/32426/Deferring-ListCollectionView-filter-updates-for-a)”
+
 </td><td>
+
 “The solution presented here is to defer updates to the `Filterproperty` until the user has likely finished typing. The trick is to find a simple way to guess when this is.”
 </td></tr></table>
 

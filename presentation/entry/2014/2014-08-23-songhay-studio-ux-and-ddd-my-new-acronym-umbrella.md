@@ -38,28 +38,51 @@ Based on Google/Bing searches over the last 12 months, I assume that I am one of
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[The power of immutability in a Rich Domain Model](http://www.gridshore.nl/2009/04/06/the-power-of-immutability-in-a-rich-domain-model/)”
+
 </td><td>
+
 “As many other developers, I’ve been used to the fat service layer and the anemic domain model of the transaction script pattern. In that programming model, immutability is pretty much as rare as a Dodo… As many other developers, I’ve been used to the fat service layer and the anemic domain model of the transaction script pattern. In that programming model, immutability is pretty much as rare as a Dodo”
+
 </td></tr><tr><td>
+
 “[Developing Core Business Applications with Domain-Driven Design (DDD) and Microsoft .NET](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B311)”
+
 </td><td>
+
 “Domain-driven design (DDD) has proven to be an invaluable tool when developing applications in high complexity domains. In this presentation we look at DDD in general and discuss some of the main concepts such as ubiquitous language, different architecture approaches, and strategic patterns such as bounded context….” — [@JimmyNilsson](https://twitter.com/JimmyNilsson)
+
 </td></tr><tr><td>
+
 “[Domain Driven Design—Eric Evans](https://www.youtube.com/watch?v=7MaYeudL9yo)”
+
 </td><td>
+
 Eric Evans is not wearing a hot mic during this talk so the audio is bad.
+
 </td></tr><tr><td>
+
 “[Unleash your Domain with CQRS + Event Sourcing (Greg Young)](https://vimeo.com/31645099)”
+
 </td><td>
+
 “Getters and Setters are a domain smell…” —[Greg Young](http://goodenoughsoftware.net/author/gregfyoung/)
+
 </td></tr><tr><td>
+
 “[‘Reactive Extensions for .NET’ talk from DDD North](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2011/10/10/reactive-extensions-for-net-talk-from-ddd-north.aspx)”
+
 </td><td>
+
 “[[@mtaulty](https://twitter.com/mtaulty)] Nice work. Good introduction to Rx.”
+
 </td></tr><tr><td>
+
 ‘[Our Legacy as Modern Media](http://kintespace.com/rasx55.html)’
+
 </td><td>
+
 “In his [2010 talk on the Natural User Interface](http://channel9.msdn.com/posts/TechTalk-NUI-Whats-in-a-Name), [Bill Buxton](https://twitter.com/wasbuxton) damn near begs his audience to not be impressed with the technology in the iPhone and similar mobile devices. He shows the audience a digital watch from the 1970s with a touch interface to illustrate how little has been accomplished in decades.”
 </td></tr></table>
 

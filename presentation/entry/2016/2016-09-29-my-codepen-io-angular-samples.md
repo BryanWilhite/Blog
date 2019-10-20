@@ -25,200 +25,200 @@ Organizing in the studio! This handmade rollup of my CodePen.io pens must be don
 
 <table class="WordWalkingStickTable"><tr><td>
 
-Angular: $sce.trustAsResourceUrl
-<
-/td><td>
+Angular: `$sce.trustAsResourceUrl`
+
+</td><td>
 
 [http://codepen.io/rasx/pen/ykDGi](http://codepen.io/rasx/pen/ykDGi)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: 1.2.x Animation (part 1)
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/hgnDq](http://codepen.io/rasx/pen/hgnDq)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular JS 1.x `providers`
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/qZeaGz](http://codepen.io/rasx/pen/qZeaGz)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular JS 1.4.x `decorators`
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/XdvYJy](http://codepen.io/rasx/pen/XdvYJy)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Fading between Blocks
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/fjoaC](http://codepen.io/rasx/pen/fjoaC)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Image Viewer
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/lFAaC](http://codepen.io/rasx/pen/lFAaC)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Image Viewer with Effects
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/qjGDw](http://codepen.io/rasx/pen/qjGDw)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Multiple Templates
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/jgirc](http://codepen.io/rasx/pen/jgirc)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Multiple Templates w/ ngRoute and ngAnimate
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/qdKoMY](http://codepen.io/rasx/pen/qdKoMY)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: Multiple Templates w/ ngRoute, ngAnimate and a Directive
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/gpjaoZ](http://codepen.io/rasx/pen/gpjaoZ)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular: ngIf
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/fFzwy](http://codepen.io/rasx/pen/fFzwy)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular UI: ASP.NET Default Page
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/zxdJQK](http://codepen.io/rasx/pen/zxdJQK)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular UI: jumbotron with background image
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/oXMPMV](http://codepen.io/rasx/pen/oXMPMV)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular UI: pagination
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/xGadEB](http://codepen.io/rasx/pen/xGadEB)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Angular UI: ui-sortable with bootstrap
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/myBGQB](http://codepen.io/rasx/pen/myBGQB)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Display Data by Selected Group with Underscore and AngularJS
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/XJJKYX](http://codepen.io/rasx/pen/XJJKYX)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Embedding Code Pen and GitHub Content in an Angular Template
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/xGaXrN](http://codepen.io/rasx/pen/xGaXrN)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 form validation with ngMessages
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/bVVjPW](http://codepen.io/rasx/pen/bVVjPW)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 odetocode.com: Group and Display Data with Underscore and AngularJS
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/BjCkH](http://codepen.io/rasx/pen/BjCkH)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 odetocode.com: Using ngOptions In AngularJS (part 2)
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/azzZEZ](http://codepen.io/rasx/pen/azzZEZ)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 odetocode.com: Using ngOptions In AngularJS
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/VYYZEa](http://codepen.io/rasx/pen/VYYZEa)
-<
-/td></tr></table>
+
+</td></tr></table>
 
 ## Hand-synched Angular pens:
 
 <table class="WordWalkingStickTable"><tr><td>
 
 b-roll progressive audio presentation API
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/XXWWLz](http://codepen.io/rasx/pen/XXWWLz)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 Songhay Studio: Day Path Index Layout with Grouping
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/rVMJVW](http://codepen.io/rasx/pen/rVMJVW)
-<
-/td></tr><tr><td>
+
+</td></tr><tr><td>
 
 YouTube Data API Responsive Angular Directive
-<
-/td><td>
+
+</td><td>
 
 [http://codepen.io/rasx/pen/gMpGWN](http://codepen.io/rasx/pen/gMpGWN)
-<
-/td></tr></table>
+
+</td></tr></table>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)

@@ -158,40 +158,75 @@ Do not confuse `SqlFunctions` with `EntityFunctions`.
 ## Related Links
 
 <table class="WordWalkingStickTable"><tr><td>
+
 “[Subquery Fundamentals](http://msdn.microsoft.com/en-us/library/ms189575(v=sql.105).aspx)”
+
 </td><td>
+
 “A subquery is a query that is nested inside a `SELECT`, `INSERT`, `UPDATE`, or `DELETE` statement, or inside another subquery. A subquery can be used anywhere an expression is allowed.” This feature in SQL Server is actually ‘new’ to me—I’ve got to get out of the pre-2005 timeframe!
+
 </td></tr><tr><td>
+
 “[Using Joins](http://msdn.microsoft.com/en-us/library/ms191472(v=sql.105).aspx)”
+
 </td><td>
+
 I never hurts to review for those rote-memorization, sophomoric interview questions!
+
 </td></tr><tr><td>
+
 “[Functional difference between ‘NOT IN’ vs ‘NOT EXISTS’ clauses](http://ramanisandeep.net/2009/04/18/functional-difference-between-“not-in”-vs-“not-exists”-clauses/)”
+
 </td><td>
+
 “When using ‘NOT IN’, the query performs nested full table scans, whereas for ‘NOT EXISTS’, query can use an index within the sub-query.”
+
 </td></tr><tr><td>
+
 “[Composable and Efficient LINQ Queries](http://destructothedevilcat.wordpress.com/2009/02/15/composable-and-efficient-linq-queries/)”
+
 </td><td>
+
 “Whether you come from a functional, procedural, or object oriented background, it’s always a good idea to promote code reuse as much as possible.”
+
 </td></tr><tr><td>
+
 “[[Entity Framework] Using Include with lambda expressions](http://www.thomaslevesque.com/2010/10/03/entity-framework-using-include-with-lambda-expressions/)”
+
 </td><td>
+
 “However, there’s something that really bothers me with this Include method: the property path is passed as a string. This approach has two major drawbacks…”
+
 </td></tr><tr><td>
+
 “[Avoiding NotSupportedException with IQueryable](http://odetocode.com/Blogs/scott/archive/2012/03/19/avoiding-notsupportedexception-with-iqueryable.aspx)”
+
 </td><td>
+
 …my painful introduction to store expressions…
+
 </td></tr><tr><td>
+
 “[Canonical Functions](http://msdn.microsoft.com/en-us/library/bb738626.aspx)”
+
 </td><td>
+
 Somebody should make a cool, info-graphical poster of these…
+
 </td></tr><tr><td>
+
 “[Stop using AutoMapper in your Data Access Code](http://www.devtrends.co.uk/blog/stop-using-automapper-in-your-data-access-code)”
+
 </td><td>
+
 “Whilst I am a big fan of AutoMapper and use it in most projects I work on, especially for Domain to ViewModel mapping, when [it] comes to data access code, AutoMapper is not so useful. To put it simply, AutoMapper only works with in memory data, not the `IQueryable` interface which is more typically used in DAL scenarios.”
+
 </td></tr><tr><td>
+
 “[Entity Framework Code First DbContext Checks the ConnectionString During Compile? - Stack Overflow](http://stackoverflow.com/questions/7598242/entity-framework-code-first-dbcontext-checks-the-connectionstring-during-compile)”
+
 </td><td>
+
 Research inspired by the “Failed to get the `MetadataWorkspace` for the `DbContext` type” error…
 
 According [to Jeff Handley](http://jeffhandley.com/archive/2011/06/30/RIAServicesCodeFirst.aspx): “WCF RIA Services instantiates a `DbContext` at design time and build time, not only at runtime… In order to generate code into your Silverlight project, RIA Services has to inspect your `DbContext` at build time in order to get the entity types that are available.”

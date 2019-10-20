@@ -20,6 +20,7 @@
 # For Windows 10, I have a bunch of free-as-in-baby Ubuntu bash shells to maintain…
 
 These are the bash shells of the Songhay System:
+
 <table class="WordWalkingStickTable"><tr><td>
 **Machine Name**
 </td><td>
