@@ -24,7 +24,7 @@ permalink: entry/feed.xml
         <link href="{{ entryId }}" />
         <updated>{{ entry.data.date }}</updated>
         <content type="html">
-            {{ entry.data.tag | getExtract }}
+            {{ entry.data.tag | getExtract | escape_once }}
         </content>
     </entry>
     {%- endfor %}
