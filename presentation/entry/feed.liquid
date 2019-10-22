@@ -11,8 +11,8 @@ permalink: entry/feed.xml
     <title type="text">{{ settings.siteName }}</title>
     <subtitle type="text">{{ settings.description }}</subtitle>
 
-    {% assign lastSevenEntries = collections.entries | blogHead: 14 %}
-    {% assign firstEntry = collections.entries | first -%}
+    {% assign lastSevenEntries = collections.entries | blogHead: 14 -%}
+    {%- assign firstEntry = collections.entries | first -%}
     <updated>{{ firstEntry.data.modificationDate }}</updated>
     <id>{{ settings.feed.uri }}</id>
 
