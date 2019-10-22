@@ -1,18 +1,20 @@
 ---
-date: Last Modified
 eleventyExcludeFromCollections: true
 layout: no.html
 permalink: entry/feed.xml
 ---
-<?xml version="1.0" encoding="utf-8"?><feed
+<?xml version="1.0" encoding="utf-8"?>
+<feed
     xmlns="http://www.w3.org/2005/Atom"
     xml:lang="en-US"
     xml:base="{{ settings.feed.uri }}">
     <title type="text">{{ settings.siteName }}</title>
     <subtitle type="text">{{ settings.description }}</subtitle>
 
-    {% assign lastSevenEntries = collections.entries | blogHead: 14 -%}
-    <updated>{{ date }}</updated>
+    {% assign lastSevenEntries = collections.entries | blogHead: 14 %}
+    {% assign firstEntry = collections.entries | first -%}
+    <updated>{{ firstEntry.data.modificationDate }}</updated>
+    <id>{{ settings.feed.uri }}</id>
 
     <link rel="alternate" href="{{ settings.uri }}" />
     <link rel="self" href="{{ settings.feed.uri }}" />
