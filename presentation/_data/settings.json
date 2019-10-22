@@ -1,4 +1,5 @@
 {
+    "eleventy": { "version": "0.8.3" },
     "author": {
         "name": "Bryan Wilhite",
         "github": "BryanWilhite",

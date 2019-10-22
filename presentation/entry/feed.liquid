@@ -1,28 +1,36 @@
 ---
+date: Last Modified
 eleventyExcludeFromCollections: true
 layout: no.html
 permalink: entry/feed.xml
 ---
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><feed
+    xmlns="http://www.w3.org/2005/Atom"
+    xml:lang="en-US"
+    xml:base="{{ settings.feed.uri }}">
+    <title type="text">{{ settings.siteName }}</title>
+    <subtitle type="text">{{ settings.description }}</subtitle>
 
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>{{ settings.siteName }}</title>
-    <subtitle>{{ settings.description }}</subtitle>
-    <link href="{{ settings.feed.uri }}" rel="self" />
-    <link href="{{ settings.uri }}" />
-    <id>{{ settings.feed.id }}</id>
-    <author>
-        <name>{{ settings.author.name }}</name>
-    </author>
     {% assign lastSevenEntries = collections.entries | blogHead: 14 -%}
-    {%- for entry in lastSevenEntries -%}
+    <updated>{{ date }}</updated>
+
+    <link rel="alternate" href="{{ settings.uri }}" />
+    <link rel="self" href="{{ settings.feed.uri }}" />
+
+    <generator uri="https://www.11ty.io/" version="{{ settings.eleventy.version }}">eleventy</generator>
+
+    {% for entry in lastSevenEntries -%}
     <entry>
         {% assign entryUrl = entry.url | remove_first: "/" -%}
         {%- assign entryId = settings.feed.id | append: entryUrl -%}
-        <id>{{ entryId }}</id>
+        <author>
+            <name>{{ settings.author.name }}</name>
+        </author>
         <title>{{ entry.data.title | escape_once }}</title>
+        <id>{{ entryId }}</id>
         <link href="{{ entryId }}" />
-        <updated>{{ entry.data.date }}</updated>
+        <updated>{{ entry.data.modificationDate }}</updated>
+        <published>{{ entry.data.date }}</published>
         <content type="html">
             {{ entry.data.tag | getExtract | escape_once }}
         </content>
