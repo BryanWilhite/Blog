@@ -17,6 +17,7 @@ namespace Songhay.Publications.Tests
         internal static string GetExtractFromMarkDown(string source, int length)
         {
             source = Markdown.ToPlainText(source);
+            source = Regex.Replace(source, "[\r\n]+", " ");
             return (source.Length > length) ?
                 string.Concat(source.Substring(0, length), "…")
                 :
@@ -142,10 +143,10 @@ namespace Songhay.Publications.Tests
 
                     var extract = GetExtractFromMarkDown(i.Content, 255);
                     var tagToken = i.FrontMatter["tag"];
-                    i.FrontMatter["tag"] = (tagToken == null) ?
-                        JObject.FromObject(new { extract }).ToString()
-                        :
+                    i.FrontMatter["tag"] = tagToken.HasValues ?
                         GetUpdatedTagExtract(tagToken.GetValue<string>(), extract)
+                        :
+                        JObject.FromObject(new { extract }).ToString()
                         ;
                 })
                 .ToFinalEdit();
