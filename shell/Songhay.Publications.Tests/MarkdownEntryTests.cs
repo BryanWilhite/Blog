@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using Markdig;
 using Newtonsoft.Json.Linq;
 using Songhay.Extensions;
 using Songhay.Publications.Extensions;
@@ -13,6 +14,15 @@ namespace Songhay.Publications.Tests
 {
     public class MarkdownEntryTests
     {
+        internal static string GetExtractFromMarkDown(string source, int length)
+        {
+            source = Markdown.ToPlainText(source);
+            return (source.Length > length) ?
+                string.Concat(source.Substring(0, length), "…")
+                :
+                source;
+        }
+
         internal static string ProcessParagraph(string p, ITestOutputHelper helper)
         {
             MatchEvaluator ReplaceMatchGroupOneWithEmptyString = (Match m) =>
@@ -109,6 +119,40 @@ namespace Songhay.Publications.Tests
             this._testOutputHelper = helper;
         }
 
+        [Theory, InlineData(
+            "../../../../../presentation-drafts/2019-10-23-studio-status-report-2019-10.md")]
+        public void ShouldAddBlogEntryExtract(string entryPath)
+        {
+            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+
+            var entryPathInfo = new FileInfo(entryPath);
+
+            this._testOutputHelper.WriteLine($"Root {entryPathInfo.FullName}...");
+
+            var finalEdit = entryPathInfo
+                .ToMarkdownEntry()
+                .WithEdit(i =>
+                {
+                    string GetUpdatedTagExtract(string s, string e)
+                    {
+                        var jO = JObject.Parse(s);
+                        jO["extract"] = e;
+                        return jO.ToString();
+                    }
+
+                    var extract = GetExtractFromMarkDown(i.Content, 255);
+                    var tagToken = i.FrontMatter["tag"];
+                    i.FrontMatter["tag"] = (tagToken == null) ?
+                        JObject.FromObject(new { extract }).ToString()
+                        :
+                        GetUpdatedTagExtract(tagToken.GetValue<string>(), extract)
+                        ;
+                })
+                .ToFinalEdit();
+
+            File.WriteAllText(entryPathInfo.FullName, $"{finalEdit}");
+        }
+
         [Theory, InlineData("../../../../../presentation/entry")]
         public void ShouldEditBlogEntries(string entryRoot)
         {
@@ -141,7 +185,7 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "My Last Reasons to Write")]
+            "studio status report: 2019-10")]
         public void ShouldGenerateEntry(string entryRoot, string title)
         {
             // arrange
