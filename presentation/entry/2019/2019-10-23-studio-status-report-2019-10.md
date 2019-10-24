@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-10-23-studio-status-report-2019-10",
-  "tag": "{\r\n  \"extract\": \"studio status report: 2019-10 month 10 was about re-releasing this Blog My old Blog repo and a new day-path repo finally free me from the mineshaft 🐰🕳 I dug for myself filled with PHP, WordPress, Matt Mullenweg’s old socks and my over-enthusiasm for Ang…\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"month 10 was about re-releasing this Blog My old Blog repo and a new day-path repo finally free me from the mineshaft 🐰🕳 I dug for myself filled with PHP, WordPress, Matt Mullenweg’s old socks and my over-enthusiasm for Angular. I assume that I can live…\"\r\n}"
 }
 ---
 

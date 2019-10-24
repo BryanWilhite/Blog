@@ -120,7 +120,7 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation/2019/2019-10-23-studio-status-report-2019-10.md")]
+            "../../../../../presentation/entry/2019/2019-10-23-studio-status-report-2019-10.md")]
         public void ShouldAddBlogEntryExtract(string entryPath)
         {
             entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
