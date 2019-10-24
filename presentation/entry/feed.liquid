@@ -30,7 +30,7 @@ permalink: entry/feed.xml
         </author>
         <title>{{ entry.data.title | escape_once }}</title>
         <id>{{ entryId }}</id>
-        <link href="{{ entryId }}" />
+        <link rel="alternate" type="text/html" href="{{ entryId }}" />
         <updated>{{ entry.data.modificationDate }}</updated>
         <published>{{ entry.data.date }}</published>
         <content type="html">
