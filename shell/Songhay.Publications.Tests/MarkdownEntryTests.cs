@@ -14,14 +14,13 @@ namespace Songhay.Publications.Tests
 {
     public class MarkdownEntryTests
     {
-        internal static string GetExtractFromMarkDown(string source, int length)
+        internal static string GetExtractFromMarkdown(MarkdownEntry entry, int length)
         {
-            source = Markdown.ToPlainText(source);
-            source = Regex.Replace(source, "[\r\n]+", " ");
-            return (source.Length > length) ?
-                string.Concat(source.Substring(0, length), "…")
-                :
-                source;
+            var content = entry.ToParagraphs().Skip(1).Aggregate((a, i) => $"{a} {i}");
+            content = Markdown.ToPlainText(content);
+            return (content.Length > length) ?
+                string.Concat(content.Substring(0, length), "…") :
+                content;
         }
 
         internal static string ProcessParagraph(string p, ITestOutputHelper helper)
@@ -121,7 +120,7 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation-drafts/2019-10-23-studio-status-report-2019-10.md")]
+            "../../../../../presentation/2019/2019-10-23-studio-status-report-2019-10.md")]
         public void ShouldAddBlogEntryExtract(string entryPath)
         {
             entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
@@ -141,13 +140,11 @@ namespace Songhay.Publications.Tests
                         return jO.ToString();
                     }
 
-                    var extract = GetExtractFromMarkDown(i.Content, 255);
+                    var extract = GetExtractFromMarkdown(i, 255);
                     var tagToken = i.FrontMatter["tag"];
                     i.FrontMatter["tag"] = tagToken.HasValues ?
-                        GetUpdatedTagExtract(tagToken.GetValue<string>(), extract)
-                        :
-                        JObject.FromObject(new { extract }).ToString()
-                        ;
+                        GetUpdatedTagExtract(tagToken.GetValue<string>(), extract) :
+                        JObject.FromObject(new { extract }).ToString();
                 })
                 .ToFinalEdit();
 
