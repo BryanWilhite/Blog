@@ -11,6 +11,12 @@ module.exports = function (config) {
         return array.slice(0, n);
     });
 
+    config.addFilter('formatEntryUri', (uri) => {
+        const forwardSlash = '/';
+        const a = uri.split(forwardSlash);
+        return a.filter(i => (i && (i.length > 0))).join(forwardSlash);
+    });
+
     config.addFilter('getExtract', (tag) => {
         const jTag = JSON.parse(tag);
         return jTag.extract;

@@ -23,11 +23,11 @@ permalink: entry/feed.xml
 
     {% for entry in lastSevenEntries -%}
     <entry>
-        {% assign entryUrl = entry.url | remove_first: "/" -%}
+        {% assign entryUrl = entry.url | formatEntryUri -%}
         {%- assign entryId = settings.feed.id | append: entryUrl -%}
         <title>{{ entry.data.title | escape_once }}</title>
-        <link href="{{ entryId | remove_last: "/" }}" />
-        <link rel="alternate" type="text/html" href="{{ entryId }}index.html" />
+        <link href="{{ entryId }}" />
+        <link rel="alternate" type="text/html" href="{{ entryId }}/index.html" />
         <id>{{ entryId }}</id>
         <updated>{{ entry.data.modificationDate }}</updated>
         <summary>
