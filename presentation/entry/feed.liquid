@@ -21,7 +21,7 @@ permalink: entry/feed.xml
 
     <generator uri="https://www.11ty.io/" version="{{ settings.eleventy.version }}">eleventy</generator>
 
-    {% for entry in lastSevenEntries -%}
+    {%- for entry in lastSevenEntries %}
     <entry>
         {% assign entryUrl = entry.url | formatEntryUri -%}
         {%- assign entryId = settings.feed.id | append: entryUrl -%}
