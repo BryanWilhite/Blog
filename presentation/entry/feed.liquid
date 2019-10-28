@@ -25,17 +25,18 @@ permalink: entry/feed.xml
     <entry>
         {% assign entryUrl = entry.url | remove_first: "/" -%}
         {%- assign entryId = settings.feed.id | append: entryUrl -%}
+        <title>{{ entry.data.title | escape_once }}</title>
+        <link href="{{ entryId | remove_last: "/" }}" />
+        <link rel="alternate" type="text/html" href="{{ entryId }}index.html" />
+        <id>{{ entryId }}</id>
+        <updated>{{ entry.data.modificationDate }}</updated>
+        <summary>
+            {{ entry.data.tag | getExtract | escape_once }}
+        </summary>
         <author>
             <name>{{ settings.author.name }}</name>
         </author>
-        <title>{{ entry.data.title | escape_once }}</title>
-        <id>{{ entryId }}</id>
-        <link rel="alternate" type="text/html" href="{{ entryId }}" />
-        <updated>{{ entry.data.modificationDate }}</updated>
         <published>{{ entry.data.date }}</published>
-        <content type="html">
-            {{ entry.data.tag | getExtract | escape_once }}
-        </content>
     </entry>
     {%- endfor %}
 </feed>
