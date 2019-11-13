@@ -183,7 +183,7 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "studio status report: 2019-10")]
+            "studio status report: 2019-11")]
         public void ShouldGenerateEntry(string entryRoot, string title)
         {
             // arrange
