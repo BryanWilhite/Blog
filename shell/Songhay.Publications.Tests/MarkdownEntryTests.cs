@@ -197,6 +197,33 @@ namespace Songhay.Publications.Tests
             File.WriteAllText($"{entryRoot}/{entry.FrontMatter["clientId"]}.md", entry.ToFinalEdit());
         }
 
+        [Theory, InlineData(
+            "../../../../../presentation-drafts",
+            "../../../../../presentation",
+            "2019-11-12-studio-status-report-2019-11.md")]
+        public void ShouldPublishEntry(string entryRoot, string presentationRoot, string fileName)
+        {
+            // arrange
+            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            presentationRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, presentationRoot);
+            var rootInfo = new DirectoryInfo(entryRoot);
+            var draftEntry = rootInfo.GetFiles()
+                .First(i => i.Name.EqualsInvariant(fileName))
+                .ToMarkdownEntry();
+            var inceptDate = draftEntry.FrontMatter.GetValue<DateTime>("date");
+            var now = DateTime.Now;
+
+            // act
+            if((now - inceptDate).Days >=1)
+            {
+                var title = draftEntry.FrontMatter.GetValue<string>("title");
+                var tag = draftEntry.FrontMatter.GetValue<string>("tag", throwException: false);
+                // draftEntry.WithNew11tyFrontMatter(title, now, presentationRoot, tag);
+            }
+
+            // assert
+        }
+
         [Theory, InlineData("../../../../../presentation/entry", "*.md")]
         public void ShouldValidateFrontMatter(string entryRoot, string filter)
         {
