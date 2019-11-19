@@ -19,7 +19,7 @@
 
 # studio status report: 2019-11
 
-## month 11 is about day job 🐰🕳 the Tweeted Links Builder
+## month 11 is about a day-job 🐰🕳 and the Tweeted Links Builder
 
 The day job leads me to lodge some issues, reminding me to revive and research a few things:
 
