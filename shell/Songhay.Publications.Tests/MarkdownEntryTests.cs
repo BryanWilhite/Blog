@@ -15,7 +15,7 @@ namespace Songhay.Publications.Tests
     public class MarkdownEntryTests
     {
         internal static string GetExtractFromMarkdown(MarkdownEntry entry, int length)
-        {//TODO: move to Publications Core 🚜
+        { //TODO: move to Publications Core 🚜
             var content = entry.ToParagraphs().Skip(1).Aggregate((a, i) => $"{a} {i}");
             content = Markdown.ToPlainText(content);
             return (content.Length > length) ?
@@ -133,14 +133,17 @@ namespace Songhay.Publications.Tests
                 .ToMarkdownEntry()
                 .WithEdit(i =>
                 {
-                    string GetUpdatedTagExtract(string s, string e)
+                    string UpdateExtractAndReturnTag(string s, string e)
                     {
                         var extractPropertyName = "extract";
-                        var jO = JObject.Parse(s);
 
-                        if(!jO.HasProperty(extractPropertyName))
+                        var jO = s.TrimStart().StartsWith('{') ?
+                            JObject.Parse(s) :
+                            JObject.FromObject(new { legacy = s });
+
+                        if (!jO.HasProperty(extractPropertyName))
                         {
-                            throw new FormatException($"The expected property name, `{extractPropertyName}`, is not here.");
+                            jO.Add(extractPropertyName, null);
                         }
 
                         jO[extractPropertyName] = e;
@@ -148,11 +151,12 @@ namespace Songhay.Publications.Tests
                     }
 
                     var tagPropertyName = "tag";
+                    var tagToken = i.FrontMatter.GetValue<JToken>(tagPropertyName);
+
                     var extract = GetExtractFromMarkdown(i, 255);
-                    var tagToken = i.FrontMatter[tagPropertyName];
 
                     i.FrontMatter[tagPropertyName] = tagToken.HasValues ?
-                        GetUpdatedTagExtract(tagToken.GetValue<string>(), extract) :
+                        UpdateExtractAndReturnTag(tagToken.GetValue<string>(), extract) :
                         JObject.FromObject(new { extract }).ToString();
                 })
                 .ToFinalEdit();
