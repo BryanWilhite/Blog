@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-11-18-studio-status-report-2019-11",
-  "tag": "{\n  \"extract\": \"month 11 is about day job 🐰🕳 the Tweeted Links Builder The day job leads me to lodge some issues, reminding me to revive and research a few things: * https://github.com/BryanWilhite/Blog/issues/15\\nhttps://github.com/BryanWilhite/Blog/issues/20 The switc…\"\n}"
+  "tag": "{\n  \"extract\": \"month 11 is about a day-job 🐰🕳 and the Tweeted Links Builder The day job leads me to lodge some issues, reminding me to revive and research a few things: * https://github.com/BryanWilhite/Blog/issues/15\\nhttps://github.com/BryanWilhite/Blog/issues/20 The…\"\n}"
 }
 ---
 
