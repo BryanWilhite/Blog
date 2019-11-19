@@ -15,7 +15,7 @@ namespace Songhay.Publications.Tests
     public class MarkdownEntryTests
     {
         internal static string GetExtractFromMarkdown(MarkdownEntry entry, int length)
-        {
+        {//TODO: move to Publications Core 🚜
             var content = entry.ToParagraphs().Skip(1).Aggregate((a, i) => $"{a} {i}");
             content = Markdown.ToPlainText(content);
             return (content.Length > length) ?
@@ -120,7 +120,7 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation/entry/2019/2019-10-23-studio-status-report-2019-10.md")]
+            "../../../../../presentation/entry/2019/2019-11-18-studio-status-report-2019-11.md")]
         public void ShouldAddBlogEntryExtract(string entryPath)
         {
             entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
@@ -135,14 +135,23 @@ namespace Songhay.Publications.Tests
                 {
                     string GetUpdatedTagExtract(string s, string e)
                     {
+                        var extractPropertyName = "extract";
                         var jO = JObject.Parse(s);
-                        jO["extract"] = e;
+
+                        if(!jO.HasProperty(extractPropertyName))
+                        {
+                            throw new FormatException($"The expected property name, `{extractPropertyName}`, is not here.");
+                        }
+
+                        jO[extractPropertyName] = e;
                         return jO.ToString();
                     }
 
+                    var tagPropertyName = "tag";
                     var extract = GetExtractFromMarkdown(i, 255);
-                    var tagToken = i.FrontMatter["tag"];
-                    i.FrontMatter["tag"] = tagToken.HasValues ?
+                    var tagToken = i.FrontMatter[tagPropertyName];
+
+                    i.FrontMatter[tagPropertyName] = tagToken.HasValues ?
                         GetUpdatedTagExtract(tagToken.GetValue<string>(), extract) :
                         JObject.FromObject(new { extract }).ToString();
                 })
