@@ -191,7 +191,8 @@ namespace Songhay.Publications.Tests
 
             // act
             var entry = new MarkdownEntry()
-                .WithNew11tyFrontMatter(title, DateTime.Now, path: "./entry/", tag : null);
+                .WithNew11tyFrontMatter(title, DateTime.Now, path: "./entry/", tag : null)
+                .WithContentHeader();
 
             // assert
             File.WriteAllText($"{entryRoot}/{entry.FrontMatter["clientId"]}.md", entry.ToFinalEdit());
@@ -199,27 +200,31 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "../../../../../presentation",
+            "../../../../../presentation/entry",
             "2019-11-12-studio-status-report-2019-11.md")]
         public void ShouldPublishEntry(string entryRoot, string presentationRoot, string fileName)
         {
             // arrange
             entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
             presentationRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, presentationRoot);
+            presentationRoot = FrameworkFileUtility.GetCombinedPath(presentationRoot, DateTime.Now.Year.ToString());
+
             var rootInfo = new DirectoryInfo(entryRoot);
-            var draftEntry = rootInfo.GetFiles()
-                .First(i => i.Name.EqualsInvariant(fileName))
-                .ToMarkdownEntry();
+            var draftInfo = rootInfo.GetFiles().First(i => i.Name.EqualsInvariant(fileName));
+            var draftEntry = draftInfo.ToMarkdownEntry();
             var inceptDate = draftEntry.FrontMatter.GetValue<DateTime>("date");
             var now = DateTime.Now;
 
             // act
-            if((now - inceptDate).Days >=1)
+            if ((now - inceptDate).Days >= 1)
             {
                 var title = draftEntry.FrontMatter.GetValue<string>("title");
-                var tag = draftEntry.FrontMatter.GetValue<string>("tag", throwException: false);
-                // draftEntry.WithNew11tyFrontMatter(title, now, presentationRoot, tag);
+                var tag = draftEntry.FrontMatter.GetValue<string>("tag", throwException : false);
+                draftEntry.WithNew11tyFrontMatter(title, now, presentationRoot, tag);
             }
+
+            File.WriteAllText(FrameworkFileUtility.GetCombinedPath(presentationRoot, $"{draftEntry.FrontMatter.GetValue<string>("clientId")}.md"), draftEntry.ToFinalEdit());
+            draftInfo.Delete();
 
             // assert
         }

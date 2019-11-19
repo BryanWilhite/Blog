@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2019-11",
-  "documentShortName": "2019-11-12-studio-status-report-2019-11",
+  "documentShortName": "2019-11-18-studio-status-report-2019-11",
   "fileName": "index.html",
-  "path": "./entry/2019-11-12-studio-status-report-2019-11",
-  "date": "2019-11-13T00:05:31.367Z",
-  "modificationDate": "2019-11-13T00:05:31.367Z",
+  "path": "e:\\~sourceRoot\\Blog\\presentation\\entry\\20192019-11-18-studio-status-report-2019-11",
+  "date": "2019-11-19T01:08:12.552Z",
+  "modificationDate": "2019-11-19T01:08:12.552Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2019-11-12-studio-status-report-2019-11",
+  "clientId": "2019-11-18-studio-status-report-2019-11",
   "tag": null
 }
 ---
