@@ -14,15 +14,6 @@ namespace Songhay.Publications.Tests
 {
     public class MarkdownEntryTests
     {
-        internal static string GetExtractFromMarkdown(MarkdownEntry entry, int length)
-        { //TODO: move to Publications Core 🚜
-            var content = entry.ToParagraphs().Skip(1).Aggregate((a, i) => $"{a} {i}");
-            content = Markdown.ToPlainText(content);
-            return (content.Length > length) ?
-                string.Concat(content.Substring(0, length), "…") :
-                content;
-        }
-
         internal static string ProcessParagraph(string p, ITestOutputHelper helper)
         {
             MatchEvaluator ReplaceMatchGroupOneWithEmptyString = (Match m) =>
@@ -121,7 +112,7 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation/entry/2019/2019-11-18-studio-status-report-2019-11.md")]
-        public void ShouldAddBlogEntryExtract(string entryPath)
+        public void ShouldAddEntryExtract(string entryPath)
         {
             entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
 
@@ -131,34 +122,7 @@ namespace Songhay.Publications.Tests
 
             var finalEdit = entryPathInfo
                 .ToMarkdownEntry()
-                .WithEdit(i =>
-                {
-                    string UpdateExtractAndReturnTag(string s, string e)
-                    {
-                        var extractPropertyName = "extract";
-
-                        var jO = s.TrimStart().StartsWith('{') ?
-                            JObject.Parse(s) :
-                            JObject.FromObject(new { legacy = s });
-
-                        if (!jO.HasProperty(extractPropertyName))
-                        {
-                            jO.Add(extractPropertyName, null);
-                        }
-
-                        jO[extractPropertyName] = e;
-                        return jO.ToString();
-                    }
-
-                    var tagPropertyName = "tag";
-                    var tagToken = i.FrontMatter.GetValue<JToken>(tagPropertyName);
-
-                    var extract = GetExtractFromMarkdown(i, 255);
-
-                    i.FrontMatter[tagPropertyName] = tagToken.HasValues ?
-                        UpdateExtractAndReturnTag(tagToken.GetValue<string>(), extract) :
-                        JObject.FromObject(new { extract }).ToString();
-                })
+                .With11tyExtract(255)
                 .ToFinalEdit();
 
             File.WriteAllText(entryPathInfo.FullName, $"{finalEdit}");
@@ -203,12 +167,10 @@ namespace Songhay.Publications.Tests
             entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
 
             // act
-            var entry = new MarkdownEntry()
-                .WithNew11tyFrontMatter(title, DateTime.Now, path: "./entry/", tag : null)
-                .WithContentHeader();
+            var entry = MarkdownEntryUtility.GenerateEntryFor11ty(entryRoot, title);
 
             // assert
-            File.WriteAllText($"{entryRoot}/{entry.FrontMatter["clientId"]}.md", entry.ToFinalEdit());
+            Assert.NotNull(entry);
         }
 
         [Theory, InlineData(
@@ -222,24 +184,11 @@ namespace Songhay.Publications.Tests
             presentationRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, presentationRoot);
             presentationRoot = FrameworkFileUtility.GetCombinedPath(presentationRoot, DateTime.Now.Year.ToString());
 
-            var rootInfo = new DirectoryInfo(entryRoot);
-            var draftInfo = rootInfo.GetFiles().First(i => i.Name.EqualsInvariant(fileName));
-            var draftEntry = draftInfo.ToMarkdownEntry();
-            var inceptDate = draftEntry.FrontMatter.GetValue<DateTime>("date");
-            var now = DateTime.Now;
-
             // act
-            if ((now - inceptDate).Days >= 1)
-            {
-                var title = draftEntry.FrontMatter.GetValue<string>("title");
-                var tag = draftEntry.FrontMatter.GetValue<string>("tag", throwException : false);
-                draftEntry.WithNew11tyFrontMatter(title, now, presentationRoot, tag);
-            }
-
-            File.WriteAllText(FrameworkFileUtility.GetCombinedPath(presentationRoot, $"{draftEntry.FrontMatter.GetValue<string>("clientId")}.md"), draftEntry.ToFinalEdit());
-            draftInfo.Delete();
+            var path = MarkdownEntryUtility.PublishEntryFor11ty(entryRoot, presentationRoot, fileName);
 
             // assert
+            Assert.True(File.Exists(path));
         }
 
         [Theory, InlineData("../../../../../presentation/entry", "*.md")]
