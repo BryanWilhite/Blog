@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 using Songhay.Extensions;
 using Songhay.Publications.Extensions;
@@ -155,6 +156,29 @@ namespace Songhay.Publications.Tests
 
             // act
             ShouldEditOneBlogEntry(entryPathInfo);
+        }
+
+        [Theory, InlineData(
+            "../../../../../presentation-drafts",
+            "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md",
+            "t.co")]
+        public void ShouldExpandUris(string entryRoot, string fileName, string twitterHost)
+        {
+            var entryRootInfo = new DirectoryInfo(FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot));
+            var entryInfo = entryRootInfo.GetFiles().First(i => i.Name.EqualsInvariant(fileName));
+            var entry = entryInfo.ToMarkdownEntry();
+            var matches = Regex.Matches(entry.Content, $@"https*://{twitterHost}[^ \]\)]+");
+            var uris = matches.Select(i => new Uri(i.Value)).Distinct().ToArray();
+            var tasks = uris.Select(i => i.ToExpandedUriPairAsync()).ToArray();
+
+            Task.WaitAll(tasks);
+
+            var findChangeSet = tasks.Select(i => i.Result).ToDictionary(k => k.Key, v => v.Value);
+
+            foreach(var pair in findChangeSet)
+                entry.Content = entry.Content.Replace(pair.Key.OriginalString, pair.Value.OriginalString);
+
+            File.WriteAllText(entryInfo.FullName, entry.ToFinalEdit());
         }
 
         [Theory, InlineData(
