@@ -2,7 +2,6 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Markdig;
 using Newtonsoft.Json.Linq;
 using Songhay.Extensions;
 using Songhay.Publications.Extensions;
@@ -160,7 +159,7 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "studio status report: 2019-11")]
+            "“Why I stopped using NGRX” and other tweeted links…")]
         public void ShouldGenerateEntry(string entryRoot, string title)
         {
             // arrange
