@@ -22,38 +22,38 @@
 <div class="tweet" data-status-id="1130914847938502700">
 
 [<img alt="Denis Levkov [DenisLevkov9]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DenisLevkov9.jpg" />](https://twitter.com/DenisLevkov9)
-Why I stopped using NGRX by the great wizard of none [https://t.co/2qFg6xmzBc](https://t.co/2qFg6xmzBc)
+Why I stopped using NGRX by the great wizard of none [https://link.medium.com/AS542V3uSW](https://link.medium.com/AS542V3uSW)
 
 </div>
 <div class="tweet" data-status-id="465532297098567700">
 
-[<img alt="yosh [yoshuawuyts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/yoshuawuyts.jpg" />](https://t.co/MhgRXDsaKE)
-Would be great if IE adopted css-supports, they're the reason it exists -[http://t.co/i5DZPUfGRd](http://t.co/i5DZPUfGRd) - [http://t.co/bX5rCBtW8Q](http://t.co/bX5rCBtW8Q)
+[<img alt="yosh [yoshuawuyts]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/yoshuawuyts.jpg" />](https://blog.yoshuawuyts.com/)
+Would be great if IE adopted css-supports, they're the reason it exists -[http://davidwalsh.name/css-supports](http://davidwalsh.name/css-supports) - [http://caniuse.com/#search=@supports](http://caniuse.com/#search=@supports)
 
 </div>
 <div class="tweet" data-status-id="1155832658678575000">
 
-[<img alt="Typearture [typearture]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/typearture.jpg" />](https://t.co/tfw7z2Edp5)
-For the viewport height transition I needed another example, thankfully I knew a perfect fit! [https://t.co/tt7EVcnt6j](https://t.co/tt7EVcnt6j)
+[<img alt="Typearture [typearture]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/typearture.jpg" />](http://www.typearture.com/)
+For the viewport height transition I needed another example, thankfully I knew a perfect fit! [https://twitter.com/typearture/status/1155832658678575104/video/1](https://twitter.com/typearture/status/1155832658678575104/video/1)
 
 </div>
 <div class="tweet" data-status-id="1124437228443373600">
 
-[<img alt="The Real Brian Piercy [brianpiercy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianpiercy.jpg" />](https://t.co/bVRaAdEYBh)
-Why the PDF Is Secretly the World's Most Important File Format | Motherboard.Vice [https://t.co/Q1nNNPu0ax](https://t.co/Q1nNNPu0ax) [https://t.co/QGnn0iIA2p](https://t.co/QGnn0iIA2p)
+[<img alt="The Real Brian Piercy [brianpiercy]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/brianpiercy.jpg" />](http://www.linkedin.com/in/brianpiercy)
+Why the PDF Is Secretly the World's Most Important File Format | Motherboard.Vice [https://www.vice.com/en_us/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format](https://www.vice.com/en_us/article/pam43n/why-the-pdf-is-secretly-the-worlds-most-important-file-format) [https://twitter.com/brianpiercy/status/1124437228443373568/photo/1](https://twitter.com/brianpiercy/status/1124437228443373568/photo/1)
 
 </div>
 <div class="tweet" data-status-id="1191953389183275000">
 
-[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/headinthebox.jpeg" />](http://t.co/LX6r9PgJAw)
+[<img alt="Erik Meijer [headinthebox]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/headinthebox.jpeg" />](http://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist))
 I always thought linear regression was a lie. It took me forever to validate that I am not the only one ;-)
 
-[https://t.co/FEVzmEXFkC](https://t.co/FEVzmEXFkC)
+[https://en.wikipedia.org/wiki/Errors-in-variables_models](https://en.wikipedia.org/wiki/Errors-in-variables_models)
 
 </div>
 <div class="tweet" data-status-id="1152928713375408000">
 
-[<img alt="Fermat's Library [fermatslibrary]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/fermatslibrary.png" />](https://t.co/4pXiyaVZ4Y)
+[<img alt="Fermat's Library [fermatslibrary]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/fermatslibrary.png" />](http://fermatslibrary.com/)
 A visual proof that
 1/4 + 1/4² + 1/4³ + ... = 1/3
 
@@ -70,25 +70,25 @@ A visual proof that
 <div class="tweet" data-status-id="1121252775411748900">
 
 [<img alt="pirata_innamorata [v4vent]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/v4vent.jpg" />](https://twitter.com/v4vent)
-Speech synthesis from neural decoding of spoken sentences [https://t.co/dG1H4zZ9Yx](https://t.co/dG1H4zZ9Yx)
+Speech synthesis from neural decoding of spoken sentences [https://www.nature.com/articles/s41586-019-1119-1](https://www.nature.com/articles/s41586-019-1119-1)
 
 </div>
 <div class="tweet" data-status-id="1149075885892485100">
 
-[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg" />](https://t.co/QYHvGE7Gju)
-In case you wondered what a CTO does. 🤣🤣🤣 [@markrussinovich](https://twitter.com/@markrussinovich) [https://t.co/FPBjrtthHo](https://t.co/FPBjrtthHo)
+[<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/jsnover.jpg" />](http://jsnover.com/)
+In case you wondered what a CTO does. 🤣🤣🤣 [@markrussinovich](https://twitter.com/@markrussinovich) [https://twitter.com/jsnover/status/1149075885892485121/photo/1](https://twitter.com/jsnover/status/1149075885892485121/photo/1)
 
 </div>
 <div class="tweet" data-status-id="1126489605413326800">
 
-[<img alt="Mark Russinovich [markrussinovich]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/markrussinovich.jpg" />](https://t.co/BJ4Ib1CWli)
-I’ve read and looked at many books on quantum computing. The one that stands out by far for conciseness and simplicity while covering all the important concepts and algorithms is Quantum Computing for Everyone by Chris Bernhardt [https://t.co/MNjOucFXFk](https://t.co/MNjOucFXFk)
+[<img alt="Mark Russinovich [markrussinovich]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/markrussinovich.jpg" />](http://www.markrussinovich.com/)
+I’ve read and looked at many books on quantum computing. The one that stands out by far for conciseness and simplicity while covering all the important concepts and algorithms is Quantum Computing for Everyone by Chris Bernhardt [https://www.amazon.com/Quantum-Computing-Everyone-MIT-Press/dp/0262039257/ref=sr_1_1_sspa?crid=1ZY3982UBPPPD&keywords=quantum+computing+for+everyone&qid=1557410616&s=books&sprefix=Quantum+computi%2Cstripbooks%2C200&sr=1-1-spons&psc=1](https://www.amazon.com/Quantum-Computing-Everyone-MIT-Press/dp/0262039257/ref=sr_1_1_sspa?crid=1ZY3982UBPPPD&keywords=quantum+computing+for+everyone&qid=1557410616&s=books&sprefix=Quantum+computi%2Cstripbooks%2C200&sr=1-1-spons&psc=1)
 
 </div>
 <div class="tweet" data-status-id="1148605782243663900">
 
-[<img alt="Shakim [shakimdev]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/shakimdev.jpg" />](https://t.co/X3EvdOkc2i)
-I GOT THE JOB!!!! 💪🏿💪🏿 [https://t.co/BMsyPREmP5](https://t.co/BMsyPREmP5)
+[<img alt="Shakim [shakimdev]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/shakimdev.jpg" />](http://tinyurl.com/htmlcss2019)
+I GOT THE JOB!!!! 💪🏿💪🏿 [https://twitter.com/shakimdev/status/1148605782243663875/photo/1](https://twitter.com/shakimdev/status/1148605782243663875/photo/1)
 
 </div>
 <div class="tweet" data-status-id="1135217700177940500">
