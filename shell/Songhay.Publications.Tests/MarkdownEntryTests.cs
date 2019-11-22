@@ -199,7 +199,7 @@ namespace Songhay.Publications.Tests
         [Theory, InlineData(
             "../../../../../presentation-drafts",
             "../../../../../presentation/entry",
-            "2019-11-12-studio-status-report-2019-11.md")]
+            "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md")]
         public void ShouldPublishEntry(string entryRoot, string presentationRoot, string fileName)
         {
             // arrange
