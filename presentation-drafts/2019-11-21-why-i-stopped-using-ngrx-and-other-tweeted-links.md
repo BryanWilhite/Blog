@@ -91,3 +91,9 @@ I’ve read and looked at many books on quantum computing. The one that stands o
 I GOT THE JOB!!!! 💪🏿💪🏿 [https://t.co/BMsyPREmP5](https://t.co/BMsyPREmP5)
 
 </div>
+<div class="tweet" data-status-id="1135217700177940500">
+
+[<img alt="Emma Wedekind 🐞 [EmmaWedekind]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/EmmaWedekind.jpg" />](https://twitter.com/EmmaWedekind)
+It’s okay if you can’t attend tech conferences, it doesn’t make you less of a developer. Conferences are expensive when you factor in tickets, travel, accommodation and food. Don’t be ashamed if you can’t afford it, you’re not alone ❤️
+
+</div>
