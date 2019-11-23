@@ -111,7 +111,7 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation/entry/2019/2019-11-18-studio-status-report-2019-11.md")]
+            "../../../../../presentation/entry/2019/2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md")]
         public void ShouldAddEntryExtract(string entryPath)
         {
             entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);

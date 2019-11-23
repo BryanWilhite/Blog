@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "tag": "{\r\n  \"extract\": \" <div class=\\\"tweet\\\" data-status-id=\\\"1130914847938502700\\\"> [<img alt=\\\"Denis Levkov [DenisLevkov9]\\\" src=\\\"https://songhay.blob.core.windows.net:443/shared-social-twitter/DenisLevkov9.jpg\\\" />](https://twitter.com/DenisLevkov9)\\nWhy I stopped using NGRX by the …\"\r\n}"
 }
 ---
 
