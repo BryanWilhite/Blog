@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \" <div class=\\\"tweet\\\" data-status-id=\\\"1130914847938502700\\\"> [<img alt=\\\"Denis Levkov [DenisLevkov9]\\\" src=\\\"https://songhay.blob.core.windows.net:443/shared-social-twitter/DenisLevkov9.jpg\\\" />](https://twitter.com/DenisLevkov9)\\nWhy I stopped using NGRX by the …\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Why I stopped using NGRX by the great wizard of none https://link.medium.com/AS542V3uSW\\nWould be great if IE adopted css-supports, they're the reason it exists -http://davidwalsh.name/css-supports - http://caniuse.com/#search=@supports\\nFor the viewport he…\"\r\n}"
 }
 ---
 
