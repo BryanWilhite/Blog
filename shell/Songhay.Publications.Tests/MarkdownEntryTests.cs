@@ -183,7 +183,7 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "“Why I stopped using NGRX” and other tweeted links…")]
+            "Flippant Remarks about Responsive Images")]
         public void ShouldGenerateEntry(string entryRoot, string title)
         {
             // arrange
