@@ -184,13 +184,13 @@ namespace Songhay.Publications.Tests
         [Theory, InlineData(
             "../../../../../presentation-drafts",
             "Flippant Remarks about Responsive Images")]
-        public void ShouldGenerateEntry(string entryRoot, string title)
+        public void ShouldGenerateEntry(string entryDraftRoot, string title)
         {
             // arrange
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            entryDraftRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryDraftRoot);
 
             // act
-            var entry = MarkdownEntryUtility.GenerateEntryFor11ty(entryRoot, title);
+            var entry = MarkdownEntryUtility.GenerateEntryFor11ty(entryDraftRoot, title);
 
             // assert
             Assert.NotNull(entry);
