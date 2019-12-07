@@ -119,6 +119,34 @@
                 ]
             },
             "problemMatcher": []
+        },
+        {
+            "label": "Songhay Publications Shell [with current opened settings file]",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}/shell"
+            },
+            "linux": {
+                "command": "Songhay.Publications.Shell",
+                "args": [
+                    "MarkdownEntryActivity",
+                    "--base-path",
+                    "${workspaceFolder}/shell",
+                    "--settings-file",
+                    "${fileBasename}"
+                ]
+            },
+            "windows": {
+                "command": "Songhay.Publications.Shell",
+                "args": [
+                    "MarkdownEntryActivity",
+                    "--base-path",
+                    "${workspaceFolder}/shell",
+                    "--settings-file",
+                    "${fileBasename}"
+                ]
+            },
+            "problemMatcher": []
         }
     ]
 }
