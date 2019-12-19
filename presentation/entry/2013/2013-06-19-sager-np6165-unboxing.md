@@ -21,7 +21,12 @@
 
 Four years ago I wrote a five-part series about my first Sager notebook: “[Sager NP7680 Unboxing](http://kintespace.com/rasxlog/?p=1477),” “[Sager NP7680 Unboxing: the Box](http://kintespace.com/rasxlog/?p=1525),” “[Sager NP7680 Unboxing: The Packing Tape](http://kintespace.com/rasxlog/?p=1563),” “[Sager NP7680 Unboxing: Special Keys and the Fingerprint Reader](http://kintespace.com/rasxlog/?p=1601)” and “[Sager NP7680 Unboxing: Explicit SPDIF Support!](http://kintespace.com/rasxlog/?p=1673)” I guess I was five times more interested in blogging five years ago as I see only *one* Blog post about my new Sager NP6165 (or Clevo W150ER)!
 
+<div style="text-align:center">
+
 [<img alt="Sager NP6165 Unboxing" src="http://farm8.staticflickr.com/7452/8759650188_aa12459c58.jpg">](http://www.flickr.com/photos/wilhite/8759650188/ "Sager NP6165 Unboxing")
+
+</div>
+
 
 ## First, the old Sager…
 
@@ -32,13 +37,21 @@ My old Sager aged very well. Those ‘stiff keys’ I complained about the help 
 
 ## New Chiclet Keyboard
 
+<div style="text-align:center">
+
 [<img alt="Sager NP6165 Unboxing" src="http://farm6.staticflickr.com/5461/8759649938_1e74033011.jpg">](http://www.flickr.com/photos/wilhite/8759649938/ "Sager NP6165 Unboxing")
+
+</div>
 
 The [Chiclet keyboard](http://en.wikipedia.org/wiki/Chiclet_keyboard) design is now no longer a premium feature I suppose; this much, much better design has finally trickled down to my lowly price point. It’s a loud and clear answer to my one and only persistent complaint about my old Sager. I do, however, have to get used to the new layout—especially the way the numeric/navigation keys are arranged on the right side. Overall this is an improvement.
 
 ## Windows-8-Ready Touchpad
 
+<div style="text-align:center">
+
 [<img alt="Sager NP6165 Unboxing" src="http://farm4.staticflickr.com/3706/8759650052_923d8121cc.jpg">](http://www.flickr.com/photos/wilhite/8759650052/ "Sager NP6165 Unboxing")
+
+</div>
 
 The Sager NP6165 touchpad supports Windows 8 pinches and swipes. It is, of course, small. I find myself accidentally swiping to show charms when all I wanted was to see a horizontal scroll. I look forward to experimenting with larger Windows-8-friendly input surfaces because I am not keen on touching my screens with my fingers.
 
