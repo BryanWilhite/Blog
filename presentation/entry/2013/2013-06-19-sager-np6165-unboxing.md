@@ -20,6 +20,7 @@
 # Sager NP6165 Unboxing
 
 Four years ago I wrote a five-part series about my first Sager notebook: “[Sager NP7680 Unboxing](http://kintespace.com/rasxlog/?p=1477),” “[Sager NP7680 Unboxing: the Box](http://kintespace.com/rasxlog/?p=1525),” “[Sager NP7680 Unboxing: The Packing Tape](http://kintespace.com/rasxlog/?p=1563),” “[Sager NP7680 Unboxing: Special Keys and the Fingerprint Reader](http://kintespace.com/rasxlog/?p=1601)” and “[Sager NP7680 Unboxing: Explicit SPDIF Support!](http://kintespace.com/rasxlog/?p=1673)” I guess I was five times more interested in blogging five years ago as I see only *one* Blog post about my new Sager NP6165 (or Clevo W150ER)!
+
 [<img alt="Sager NP6165 Unboxing" src="http://farm8.staticflickr.com/7452/8759650188_aa12459c58.jpg">](http://www.flickr.com/photos/wilhite/8759650188/ "Sager NP6165 Unboxing")
 
 ## First, the old Sager…
