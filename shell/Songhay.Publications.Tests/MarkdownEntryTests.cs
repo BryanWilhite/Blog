@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -160,22 +161,40 @@ namespace Songhay.Publications.Tests
 
         [Theory, InlineData(
             "../../../../../presentation-drafts",
-            "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md",
+            "2019-12-23-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links.md",
             "t.co")]
-        public void ShouldExpandUris(string entryRoot, string fileName, string twitterHost)
+        public void ShouldExpandUris(string entryRoot, string fileName, string collapsedHost)
         {
             var entryRootInfo = new DirectoryInfo(FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot));
             var entryInfo = entryRootInfo.GetFiles().First(i => i.Name.EqualsInvariant(fileName));
+
             var entry = entryInfo.ToMarkdownEntry();
-            var matches = Regex.Matches(entry.Content, $@"https*://{twitterHost}[^ \]\)]+");
-            var uris = matches.Select(i => new Uri(i.Value)).Distinct().ToArray();
-            var tasks = uris.Select(i => i.ToExpandedUriPairAsync()).ToArray();
+            var matches = Regex.Matches(entry.Content, $@"https*://{collapsedHost}[^ \]\)]+");
+            var uris = matches.OfType<Match>().Select(i => new Uri(i.Value)).Distinct().ToArray();
+            var tasks = uris.Select(async i =>
+            {
+                this._testOutputHelper.WriteLine($"expanding `{i.OriginalString}`...");
+                KeyValuePair<Uri, Uri> pair;
+                try
+                {
+                    pair = await i.ToExpandedUriPairAsync();
+                }
+                catch (Exception ex)
+                {
+                    this._testOutputHelper.WriteLine($"failed to expand `{i.OriginalString}`.");
+                    this._testOutputHelper.WriteLine($"    {ex.GetType().Name}");
+                    this._testOutputHelper.WriteLine($"    {nameof(ex.Message)}: {ex.Message}");
+                    throw;
+                }
+
+                return pair;
+            }).ToArray();
 
             Task.WaitAll(tasks);
 
             var findChangeSet = tasks.Select(i => i.Result).ToDictionary(k => k.Key, v => v.Value);
 
-            foreach(var pair in findChangeSet)
+            foreach (var pair in findChangeSet)
                 entry.Content = entry.Content.Replace(pair.Key.OriginalString, pair.Value.OriginalString);
 
             File.WriteAllText(entryInfo.FullName, entry.ToFinalEdit());
