@@ -213,7 +213,7 @@ The Era of General Purpose Computers is Ending [#gpu](https://twitter.com/search
 <div class="tweet" data-status-id="1092788257719570400">
 
 [<img alt="Tim Warner [TechTrainerTim]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/TechTrainerTim.png" />](https://techtrainertim.com/)
-I use a white desktop background when I need to take interface screenshots. This freeware allows you to change the desktop icon text color and other stuff. | Iconoid - Hide and show desktop icons, make transparent backgrounds [http://ow.ly/Mws430nAqiu](http://ow.ly/Mws430nAqiu)
+I use a white desktop background when I need to take interface screenshots. This freeware allows you to change the desktop icon text color and other stuff. | Iconoid - Hide and show desktop icons, make transparent backgrounds [https://www.sillysot.com/](https://www.sillysot.com/)
 
 </div>
 <div class="tweet" data-status-id="1092894766189039600">

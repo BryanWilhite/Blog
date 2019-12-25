@@ -5,8 +5,8 @@
   "documentShortName": "2016-10-19-is-jquery-still-relevant-and-other-tweeted-links",
   "fileName": "index.html",
   "path": "./entry/2016-10-19-is-jquery-still-relevant-and-other-tweeted-links",
-  "date": "2016-10-19T22:27:10.510Z",
-  "modificationDate": "2016-10-19T22:27:10.510Z",
+  "date": "2016-10-19T22:27:10.51Z",
+  "modificationDate": "2016-10-19T22:27:10.51Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
@@ -29,7 +29,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) vnext: “we have moved the entire JS language service to a satellite Node.js process” [[blogs.msdn.microsoft.com]](https://blogs.msdn.microsoft.com/visualstudio/2016/10/12/reduced-out-of-memory-crashes-in-visual-studio-15/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core 1.0 - Configure Application Insights - CodeProject [[ow.ly]](http://ow.ly/8gvL305gsyL)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]")[[asp.net]](http://ASP.NET) Core 1.0 - Configure Application Insights - CodeProject [[ow.ly]](https://www.codeproject.com/Tips/1139662/ASP-NET-Core-Configure-Application-Insights)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “This site is fully copied from [[youmightnotneedjquery.com]](http://youmightnotneedjquery.com)” [[youmightnotneedjs.com]](http://youmightnotneedjs.com/)
 
@@ -39,17 +39,17 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Next, there are work accounts known as ‘Azure Active Directory accounts.’” [[redmondmag.com]](https://redmondmag.com/articles/2016/09/15/microsoft-account-overlap-solution.aspx)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Teaming With VMware Is the Latest Sign the Cloud Has Won | WIRED [[ow.ly]](http://ow.ly/Y7V5305ay0o)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Amazon Teaming With VMware Is the Latest Sign the Cloud Has Won | WIRED [[ow.ly]](https://www.wired.com/2016/10/amazon-teaming-vmware-latest-sign-cloud-won/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") The Open Guide to Amazon Web Services [[github.com]](https://github.com/open-guides/og-aws)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") at least two out-of-process caches are needed to get distributed caching going [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1360)[@carlfranklin](http://twitter.com/carlfranklin)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using the Desktop Bridge | Visual Studio Toolbox | Channel 9 [[ow.ly]](http://ow.ly/ZzgE305816d)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Using the Desktop Bridge | Visual Studio Toolbox | Channel 9 [[ow.ly]](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Using-the-Desktop-Bridge)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Calling UWP APIs from a Desktop Application [@mtaulty](http://twitter.com/mtaulty)[[mtaulty.com]](https://mtaulty.com/2016/10/11/calling-uwp-apis-from-a-desktop-application/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to use Krita for animation | [[opensource.com]](http://Opensource.com)[[ow.ly]](http://ow.ly/6ddM305awY5)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") How to use Krita for animation | [[opensource.com]](http://Opensource.com)[[ow.ly]](https://opensource.com/life/16/10/animation-krita)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “OS X has long had USB Audio 2.0 class drivers..making Macs the industry standard choice in recording studios.” [[petri.com]](https://www.petri.com/native-usb-audio-2-0-coming-windows-10)
 
@@ -59,25 +59,25 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .NET on Linux – bye, Windows 10 [[piotrgankiewicz.com]](http://piotrgankiewicz.com/2016/10/17/net-on-linux-bye-windows-10/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data Points - Run EF Core on Both .NET Framework and .NET Core [[ow.ly]](http://ow.ly/OIsG305cCkv)[@julielerman](http://twitter.com/julielerman)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Data Points - Run EF Core on Both .NET Framework and .NET Core [[ow.ly]](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/october/data-points-run-ef-core-on-both-net-framework-and-net-core)[@julielerman](http://twitter.com/julielerman)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “As of .NET 4, there is a `Enum.TryParse<T>` method. It supports Flags enumerations out of the box“ [[ow.ly]](http://ow.ly/q64v305cF3G)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “As of .NET 4, there is a `Enum.TryParse<T>` method. It supports Flags enumerations out of the box“ [[ow.ly]](https://stackoverflow.com/questions/2745320/enum-tryparse-with-flags-attribute)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Songhay Studio: .NET Standard with Songhay.Standard.Core - Went with .NET Standard 1.2. These are the consequen... [[ow.ly]](http://ow.ly/KQ0b505qmgS)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Songhay Studio: .NET Standard with Songhay.Standard.Core - Went with .NET Standard 1.2. These are the consequen... [[ow.ly]](http://songhayblog.azurewebsites.net/#/entry/songhay-studio-net-standard-with-songhay-standard-core)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “So where can you find .NET Core projects to learn from?” [[jonhilton.net]](https://jonhilton.net/2016/10/12/learning-dotnet-core-by-example/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") .[@VisualStudio](http://twitter.com/VisualStudio) Writing component cache... Composing MEF graph... Preparing Solution...
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UML Designers have been removed; Layer Designer now supports live architectural analysis [[ow.ly]](http://ow.ly/vP2c305gsnS)[@VisualStudio](http://twitter.com/VisualStudio)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") UML Designers have been removed; Layer Designer now supports live architectural analysis [[ow.ly]](https://devblogs.microsoft.com/devops/uml-designers-have-been-removed-layer-designer-now-supports-live-architectural-analysis/)[@VisualStudio](http://twitter.com/VisualStudio)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Machine Learning Is the New Statistics [[danielmiessler.com]](https://danielmiessler.com/blog/machine-learning-new-statistics/)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Yarn is a new package manager that replaces some of what npm does” [[css-tricks.com]](https://css-tricks.com/yarn/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NYPD looking to upgrade 36,000 phones to Windows 10 Mobile - MSPoweruser [[ow.ly]](http://ow.ly/xu5g305axFT)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") NYPD looking to upgrade 36,000 phones to Windows 10 Mobile - MSPoweruser [[ow.ly]](https://mspoweruser.com/nypd-looking-to-upgrade-36000-phones-to-windows-10-mobile/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") This weird rubber keyboard is actually an entire Windows PC - The Verge [[ow.ly]](http://ow.ly/HtRQ305awGw)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") This weird rubber keyboard is actually an entire Windows PC - The Verge [[ow.ly]](https://www.theverge.com/circuitbreaker/2016/10/13/13274558/vensmile-k8-flexible-rubber-keyboard-windows-10-computer)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Thanks for the memory: How cheap RAM changes computing [[arstechnica.co.uk]](http://arstechnica.co.uk/gadgets/2016/10/how-cheap-ram-changes-computing/)
 
@@ -85,13 +85,13 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Mathematical Limits to Software Estimation [[scribblethink.org]](http://scribblethink.org/Work/Softestim/softestim.html)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project delays: why good software estimates are impossible – Christian M. Mackeprang [[ow.ly]](http://ow.ly/ShZu305cCmN)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Project delays: why good software estimates are impossible – Christian M. Mackeprang [[ow.ly]](https://chrismm.com/blog/project-delays-why-software-estimates/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016 Has Been an Ugly Year For Tech Layoffs, and It's Going To Get Worse, Says Analyst - Slashdot [[ow.ly]](http://ow.ly/hg12305cCxj)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") 2016 Has Been an Ugly Year For Tech Layoffs, and It's Going To Get Worse, Says Analyst - Slashdot [[ow.ly]](https://news.slashdot.org/story/16/10/14/1613238/2016-has-been-an-ugly-year-for-tech-layoffs-and-its-going-to-get-worse-says-analyst?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Peter Higgs: I wouldn't be productive enough for today's academic system (2013) [[theguardian.com]](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft, The Security Company - [[thurrott.com]](http://Thurrott.com)[[ow.ly]](http://ow.ly/hBRT305cb3z)[@Bradsams](http://twitter.com/Bradsams)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Microsoft, The Security Company - [[thurrott.com]](http://Thurrott.com)[[ow.ly]](https://www.thurrott.com/windows/windows-10/83177/microsoft-security-company-premium)[@Bradsams](http://twitter.com/Bradsams)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Joel Spolsky Talks About Building Stack Overflow and Values Developers Care About [[channel9.msdn.com]](https://channel9.msdn.com/Blogs/Seth-Juarez/Joel-Spolsky-Talks-About-Building-Stack-Overflow-and-Values-Developers-Care-About)
 

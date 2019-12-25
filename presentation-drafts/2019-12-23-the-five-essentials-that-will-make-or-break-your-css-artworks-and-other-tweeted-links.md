@@ -22,7 +22,7 @@
 <div class="tweet" data-status-id="1101825744559321100">
 
 [<img alt="TAXI [designtaxi]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/designtaxi.png" />](http://www.designtaxi.com/)
-The five essentials that will make or break your CSS artworks [http://ow.ly/AQGJ50m9R8n](http://ow.ly/AQGJ50m9R8n)
+The five essentials that will make or break your CSS artworks [https://designtaxi.com/news/403658/UI-Engineer-Behind-Popular-CSS-Paintings-Shows-You-How-To-Create-Your-Own/](https://designtaxi.com/news/403658/UI-Engineer-Behind-Popular-CSS-Paintings-Shows-You-How-To-Create-Your-Own/)
 
 </div>
 <div class="tweet" data-status-id="1100921258839953400">
@@ -270,7 +270,7 @@ Integrated Terminal does not display prompt when started [https://github.com/Mic
 <div class="tweet" data-status-id="1102988463404650500">
 
 [<img alt="Ambient Intelligence [Ambient_Intel]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/Ambient_Intel.jpg" />](http://ambientintelligence.global/)
-Radical Change Is Coming To [#DataScience](https://twitter.com/search?q='%23DataScience') Jobs [http://ow.ly/djRT30nUblT](http://ow.ly/djRT30nUblT)
+Radical Change Is Coming To [#DataScience](https://twitter.com/search?q='%23DataScience') Jobs [https://www.forbes.com/sites/forbestechcouncil/2019/03/01/radical-change-is-coming-to-data-science-jobs/#63f274dfccc5](https://www.forbes.com/sites/forbestechcouncil/2019/03/01/radical-change-is-coming-to-data-science-jobs/#63f274dfccc5)
 [#machinelearning](https://twitter.com/search?q='%23machinelearning') [#AI](https://twitter.com/search?q='%23AI') [#artificalintelligence](https://twitter.com/search?q='%23artificalintelligence') [#iot](https://twitter.com/search?q='%23iot') [https://twitter.com/Ambient_Intel/status/1102988463404650497/photo/1](https://twitter.com/Ambient_Intel/status/1102988463404650497/photo/1)
 
 </div>

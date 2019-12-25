@@ -27,7 +27,7 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “JavaScript development has been simplistic compared to other environments” [@reybango](http://twitter.com/reybango)[[blog.reybango.com]](http://blog.reybango.com/2016/10/07/you-cant-get-comfortable-in-web-development-anymore/)
 
-[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bots as the Next UX: Expanding Your Apps with Conversation | Microsoft Machine Learning & Data Science Summit 2016 [[ow.ly]](http://ow.ly/c6sG3055UYZ)
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") Bots as the Next UX: Expanding Your Apps with Conversation | Microsoft Machine Learning & Data Science Summit 2016 [[ow.ly]](https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS14)
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://t.co/UNdqV0Z1zz "Bryan D. Wilhite [BryanWilhite]") “Cards organize information into chunks of content, and users appreciate chunked content” [[smashingmagazine.com]](https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/)
 
