@@ -160,15 +160,15 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation-drafts",
-            "2019-12-23-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links.md",
-            "t.co")]
-        public void ShouldExpandUris(string entryRoot, string fileName, string collapsedHost)
+            "../../../../../presentation/entry/2016/2016-10-27-material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links.md",
+            "ow.ly")]
+        public void ShouldExpandUris(string entryPath, string collapsedHost)
         {
-            var entryRootInfo = new DirectoryInfo(FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot));
-            var entryInfo = entryRootInfo.GetFiles().First(i => i.Name.EqualsInvariant(fileName));
+            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
 
-            var entry = entryInfo.ToMarkdownEntry();
+            var entryPathInfo = new FileInfo(entryPath);
+
+            var entry = entryPathInfo.ToMarkdownEntry();
             var matches = Regex.Matches(entry.Content, $@"https*://{collapsedHost}[^ \]\)]+");
             var uris = matches.OfType<Match>().Select(i => new Uri(i.Value)).Distinct().ToArray();
             var tasks = uris.Select(async i =>
@@ -197,7 +197,7 @@ namespace Songhay.Publications.Tests
             foreach (var pair in findChangeSet)
                 entry.Content = entry.Content.Replace(pair.Key.OriginalString, pair.Value.OriginalString);
 
-            File.WriteAllText(entryInfo.FullName, entry.ToFinalEdit());
+            File.WriteAllText(entryPathInfo.FullName, entry.ToFinalEdit());
         }
 
         [Theory, InlineData(
