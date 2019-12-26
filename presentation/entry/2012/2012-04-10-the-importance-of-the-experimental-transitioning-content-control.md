@@ -5,8 +5,8 @@
   "documentShortName": "2012-04-10-the-importance-of-the-experimental-transitioning-content-control",
   "fileName": "index.html",
   "path": "./entry/2012-04-10-the-importance-of-the-experimental-transitioning-content-control",
-  "date": "2012-04-10T18:34:00.000Z",
-  "modificationDate": "2012-04-10T18:34:00.000Z",
+  "date": "2012-04-10T18:34:00Z",
+  "modificationDate": "2012-04-10T18:34:00Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
@@ -20,6 +20,7 @@
 # The Importance of the “Experimental” Transitioning Content Control
 
 The `TransitioningContentControl`, developed by [Ruurd Boeke](https://twitter.com/), is one of the few Silverlight controls striving for what I am calling “data-driven animation.” You can load content from a database—let’s say an Observable Collection of data—, display one item from this Collection in the `TransitioningContentControl` and then *transition* to the next item in the Collection—to be displayed in the `TransitioningContentControl`. This transition is, by default, a story-board animation. Awe… some!
+
 [<img alt="TransitioningContentControl with UserControl Collection Sample" src="http://farm6.staticflickr.com/5034/7065171509_b2503321d3.jpg">](http://wordwalkingstick.com/silverlightbiggestbox/ "TransitioningContentControl with UserControl Collection Sample")
 
 ## Workflow…

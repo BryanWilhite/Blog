@@ -15,6 +15,49 @@ namespace Songhay.Publications.Tests
 {
     public class MarkdownEntryTests
     {
+        public static void ExpandUris(string entryPath, string collapsedHost, ITestOutputHelper testOutputHelper)
+        {
+            if (!File.Exists(entryPath))
+                throw new FileNotFoundException($"The expected file, `{entryPath},` is not here.");
+
+            var entryInfo = new FileInfo(entryPath);
+
+            testOutputHelper.WriteLine($"{nameof(MarkdownEntryTests)}: expanding `{collapsedHost}` URIs in `{entryInfo.Name}`...");
+
+            var entry = entryInfo.ToMarkdownEntry();
+            var matches = Regex.Matches(entry.Content, $@"https*://{collapsedHost}[^ \]\)]+");
+            var uris = matches.OfType<Match>().Select(i => new Uri(i.Value)).Distinct().ToArray();
+            async Task<KeyValuePair<Uri, Uri> ?> ExpandUriPairAsync(Uri expandableUri)
+            {
+                KeyValuePair<Uri, Uri> ? nullable = null;
+                try
+                {
+                    testOutputHelper.WriteLine($"{nameof(MarkdownEntryTests)}: expanding `{expandableUri.OriginalString}`...");
+                    nullable = await expandableUri.ToExpandedUriPairAsync();
+                    testOutputHelper.WriteLine($"{nameof(MarkdownEntryTests)}: expanded `{nullable.Value.Key.OriginalString}` to `{nullable.Value.Value.OriginalString}`.");
+                }
+                catch (Exception ex)
+                {
+                    testOutputHelper.WriteLine($"{ex.GetType().Name}: {ex.Message}");
+                    testOutputHelper.WriteLine(ex.StackTrace);
+                }
+
+                return nullable;
+            }
+
+            var tasks = uris.Select(ExpandUriPairAsync).Where(i => i.Result.HasValue).ToArray();
+
+            Task.WaitAll(tasks);
+
+            var findChangeSet = tasks.Select(i => i.Result.Value).ToDictionary(k => k.Key, v => v.Value);
+
+            foreach (var pair in findChangeSet)
+                entry.Content = entry.Content.Replace(pair.Key.OriginalString, pair.Value.OriginalString);
+
+            testOutputHelper.WriteLine($"{nameof(MarkdownEntryTests)}: saving `{entryInfo.Name}`...");
+            File.WriteAllText(entryInfo.FullName, entry.ToFinalEdit());
+        }
+
         internal static string ProcessParagraph(string p, ITestOutputHelper helper)
         {
             MatchEvaluator ReplaceMatchGroupOneWithEmptyString = (Match m) =>
@@ -160,44 +203,18 @@ namespace Songhay.Publications.Tests
         }
 
         [Theory, InlineData(
-            "../../../../../presentation/entry/2016/2016-10-27-material-design-in-xaml-toolkit-an-introduction-and-other-tweeted-links.md",
-            "ow.ly")]
-        public void ShouldExpandUris(string entryPath, string collapsedHost)
+            "../../../../../presentation/entry",
+            "t.co")]
+        public void ShouldExpandUris(string entryRoot, string collapsedHost)
         {
-            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            var entryRootInfo = new DirectoryInfo(entryRoot);
 
-            var entryPathInfo = new FileInfo(entryPath);
+            this._testOutputHelper.WriteLine($"Root {entryRootInfo.FullName}...");
 
-            var entry = entryPathInfo.ToMarkdownEntry();
-            var matches = Regex.Matches(entry.Content, $@"https*://{collapsedHost}[^ \]\)]+");
-            var uris = matches.OfType<Match>().Select(i => new Uri(i.Value)).Distinct().ToArray();
-            var tasks = uris.Select(async i =>
-            {
-                this._testOutputHelper.WriteLine($"expanding `{i.OriginalString}`...");
-                KeyValuePair<Uri, Uri> pair;
-                try
-                {
-                    pair = await i.ToExpandedUriPairAsync();
-                }
-                catch (Exception ex)
-                {
-                    this._testOutputHelper.WriteLine($"failed to expand `{i.OriginalString}`.");
-                    this._testOutputHelper.WriteLine($"    {ex.GetType().Name}");
-                    this._testOutputHelper.WriteLine($"    {nameof(ex.Message)}: {ex.Message}");
-                    throw;
-                }
-
-                return pair;
-            }).ToArray();
-
-            Task.WaitAll(tasks);
-
-            var findChangeSet = tasks.Select(i => i.Result).ToDictionary(k => k.Key, v => v.Value);
-
-            foreach (var pair in findChangeSet)
-                entry.Content = entry.Content.Replace(pair.Key.OriginalString, pair.Value.OriginalString);
-
-            File.WriteAllText(entryPathInfo.FullName, entry.ToFinalEdit());
+            entryRootInfo
+                .GetFiles("*.md", SearchOption.AllDirectories)
+                .ForEachInEnumerable(fileInfo => ExpandUris(fileInfo.FullName, collapsedHost, this._testOutputHelper));
         }
 
         [Theory, InlineData(
