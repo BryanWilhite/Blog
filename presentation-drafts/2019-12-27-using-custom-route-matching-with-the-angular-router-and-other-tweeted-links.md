@@ -73,19 +73,19 @@ I am so keen to get more developers involved in the work of actually improving a
 <div class="tweet" data-status-id="1105930134186532900">
 
 [<img alt="Dan Abramov [dan_abramov]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dan_abramov.jpg" />](http://overreacted.io/)
-Overlooked pattern: using classes from a function component with useRef Hook.
+Overlooked pattern: using classes from a function component with `useRef` Hook.
 
-function MyThing() {
-  const ref = useRef()
-  if (!ref.current) {
-    ref.current = new MyClass()
-  }
-  // ...
-}
+    function MyThing() {
+      const ref = useRef()
+      if (!ref.current) {
+        ref.current = new MyClass()
+      }
+      // ...
+    }
 
-class MyClass {
-  // ...
-}
+    class MyClass {
+      // ...
+    }
 
 Why? For imperative logic like jQuery plugins or logging.
 
