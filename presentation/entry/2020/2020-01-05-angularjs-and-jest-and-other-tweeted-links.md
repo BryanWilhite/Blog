@@ -2,18 +2,18 @@
 {
   "documentId": 0,
   "title": "“AngularJS and Jest” and other tweeted links…",
-  "documentShortName": "2019-12-23-angularjs-and-jest-and-other-tweeted-links",
+  "documentShortName": "2020-01-05-angularjs-and-jest-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2019-12-23-angularjs-and-jest-and-other-tweeted-links",
-  "date": "2019-12-23T23:23:57.643Z",
-  "modificationDate": "2019-12-23T23:23:57.643Z",
+  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-05-angularjs-and-jest-and-other-tweeted-links",
+  "date": "2020-01-05T23:50:19.341Z",
+  "modificationDate": "2020-01-05T23:50:19.341Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2019-12-23-angularjs-and-jest-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "clientId": "2020-01-05-angularjs-and-jest-and-other-tweeted-links",
+  "tag": "{\r\n  \"extract\": \"AngularJS and Jest. Three steps to improve your legacy frontend tests\\nhttps://blog.softwaremill.com/angularjs-and-jest-three-steps-to-improve-your-legacy-frontend-tests-90674c0017e4?gi=f75beabaa831\\nThis really getting a little too much, React Hooks people…\"\r\n}"
 }
 ---
 

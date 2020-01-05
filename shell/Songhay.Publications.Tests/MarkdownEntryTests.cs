@@ -235,7 +235,7 @@ namespace Songhay.Publications.Tests
         [Theory, InlineData(
             "../../../../../presentation-drafts",
             "../../../../../presentation/entry",
-            "2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md")]
+            "2019-12-23-angularjs-and-jest-and-other-tweeted-links.md")]
         public void ShouldPublishEntry(string entryRoot, string presentationRoot, string fileName)
         {
             // arrange
