@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“The five essentials that will make or break your CSS artworks” and other tweeted links…",
-  "documentShortName": "2019-12-23-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
+  "documentShortName": "2020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2019-12-23-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
-  "date": "2019-12-24T03:41:16.402Z",
-  "modificationDate": "2019-12-24T03:41:16.402Z",
+  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
+  "date": "2020-01-07T00:51:13.526Z",
+  "modificationDate": "2020-01-07T00:51:13.526Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2019-12-23-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
+  "clientId": "2020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"The five essentials that will make or break your CSS artworks https://t.co/PowRkkVhBP\\nThe CSS Working Group agreed this morning on adding many math functions. We now have: - calc()\\nmin()\\nmax()\\nclamp()\\nsin()\\ncos()\\ntan()\\nacos()\\nasin()\\natan()\\natan2()\\nhypot()…\"\r\n}"
 }
 ---
