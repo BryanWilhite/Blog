@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Using Custom Route Matching with the Angular Router” and other tweeted links…",
-  "documentShortName": "2019-12-27-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
+  "documentShortName": "2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2019-12-27-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
-  "date": "2019-12-28T04:46:46.293Z",
-  "modificationDate": "2019-12-28T04:46:46.293Z",
+  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
+  "date": "2020-01-08T06:07:25.738Z",
+  "modificationDate": "2020-01-08T06:07:25.738Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2019-12-27-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
+  "clientId": "2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"\"\r\n}"
 }
 ---
