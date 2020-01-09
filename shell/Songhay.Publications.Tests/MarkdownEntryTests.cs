@@ -250,6 +250,41 @@ namespace Songhay.Publications.Tests
             Assert.True(File.Exists(path));
         }
 
+        [Theory]
+        [InlineData(
+            "../../../../../presentation/entry/2020/2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links.md",
+            new [] { '\uD83D', '\uDC68', '\uDCBB', '\uDC40', '\uDCE2', '\uDD25', '\uDE2C', '\uDE07' },
+            "\\uD83D,\\uDC68,\\uDCBB,\\uDC40,\\uDCE2,\\uDD25,\\uDE2C,\\uDE07"
+        )]
+        public void ShouldRemoveUnsupportedCharacters(string entryPath, char[] chars, string charList)
+        {
+            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+
+            var entryPathInfo = new FileInfo(entryPath);
+
+            this._testOutputHelper.WriteLine($"Root {entryPathInfo.FullName}...");
+
+            var finalEdit = entryPathInfo
+                .ToMarkdownEntry()
+                .WithEdit(i =>
+                {
+                    var zip = charList.Split(',').Zip(chars, (s, c) => new { s, c });
+                    zip.ForEachInEnumerable(pair =>
+                    {
+                        var matches = Regex.Matches(i.Content, pair.c.ToString());
+                        var count = matches.Count();
+                        if (count > 0)
+                        {
+                            this._testOutputHelper.WriteLine($"`{pair.s}` found {count} times.");
+                            i.Content = i.Content.Replace(pair.c, '\0');
+                        }
+                    });
+                })
+                .ToFinalEdit();
+
+            File.WriteAllText(entryPathInfo.FullName, $"{finalEdit}");
+        }
+
         [Theory, InlineData("../../../../../presentation/entry", "*.md")]
         public void ShouldValidateFrontMatter(string entryRoot, string filter)
         {
