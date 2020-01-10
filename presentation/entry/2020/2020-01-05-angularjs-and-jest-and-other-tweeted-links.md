@@ -4,7 +4,7 @@
   "title": "“AngularJS and Jest” and other tweeted links…",
   "documentShortName": "2020-01-05-angularjs-and-jest-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-05-angularjs-and-jest-and-other-tweeted-links",
+  "path": "./entry/2020-01-05-angularjs-and-jest-and-other-tweeted-links",
   "date": "2020-01-05T23:50:19.341Z",
   "modificationDate": "2020-01-05T23:50:19.341Z",
   "templateId": 0,

@@ -4,7 +4,7 @@
   "title": "“Using Custom Route Matching with the Angular Router” and other tweeted links…",
   "documentShortName": "2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
+  "path": "./entry/2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
   "date": "2020-01-08T06:07:25.738Z",
   "modificationDate": "2020-01-08T06:07:25.738Z",
   "templateId": 0,
@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"\Using Custom Route Matching with the #Angular Router ✍🏿👀📢 https://link.medium.com/H6B59RCWoV"\r\n}"
+  "tag": "{\r\n  \"extract\": \"\Using Custom Route Matching with the #Angular Router ✍🏿👀📢 https://link.medium.com/H6B59RCWoV\"\r\n}"
 }
 ---
 

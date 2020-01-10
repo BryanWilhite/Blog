@@ -4,7 +4,7 @@
   "title": "“The five essentials that will make or break your CSS artworks” and other tweeted links…",
   "documentShortName": "2020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
+  "path": "./entry/2020-01-06-the-five-essentials-that-will-make-or-break-your-css-artworks-and-other-tweeted-links",
   "date": "2020-01-07T00:51:13.526Z",
   "modificationDate": "2020-01-07T00:51:13.526Z",
   "templateId": 0,

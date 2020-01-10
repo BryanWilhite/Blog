@@ -4,7 +4,7 @@
   "title": "“Watch this INCREDIBLE video of @jensimmons talking about Intrinsic Web Design” and other tweeted links…",
   "documentShortName": "2020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
+  "path": "./entry/2020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
   "date": "2020-01-10T03:30:51.496Z",
   "modificationDate": "2020-01-10T03:30:51.496Z",
   "templateId": 0,
