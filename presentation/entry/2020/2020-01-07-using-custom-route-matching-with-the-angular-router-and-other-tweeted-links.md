@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2020-01-07-using-custom-route-matching-with-the-angular-router-and-other-tweeted-links",
-  "tag": "{\r\n  \"extract\": \"\Using Custom Route Matching with the #Angular Router ✍🏿👀📢 https://link.medium.com/H6B59RCWoV\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"Using Custom Route Matching with the #Angular Router ✍🏿👀📢 https://link.medium.com/H6B59RCWoV\"\r\n}"
 }
 ---
 
