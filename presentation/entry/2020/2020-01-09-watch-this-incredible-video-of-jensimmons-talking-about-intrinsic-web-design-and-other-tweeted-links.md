@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Watch this INCREDIBLE video of @jensimmons talking about Intrinsic Web Design” and other tweeted links…",
-  "documentShortName": "2020-01-05-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
+  "documentShortName": "2020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-05-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
-  "date": "2020-01-05T23:41:35.549Z",
-  "modificationDate": "2020-01-05T23:41:35.549Z",
+  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
+  "date": "2020-01-10T03:30:51.496Z",
+  "modificationDate": "2020-01-10T03:30:51.496Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-05-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
+  "clientId": "2020-01-09-watch-this-incredible-video-of-jensimmons-talking-about-intrinsic-web-design-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"Watch this INCREDIBLE video of @jensimmons talking about Intrinsic Web Design at @aneventapart https://vimeo.com/316326187 if you’re interested in CSS Grid and the new era of web layout. Every time I think I know a lot about Grid, I always learn more from…\"\r\n}"
 }
 ---
