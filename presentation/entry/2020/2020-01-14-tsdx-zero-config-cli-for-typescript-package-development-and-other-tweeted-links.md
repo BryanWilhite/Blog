@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“tsdx: Zero-config CLI for TypeScript package development” and other tweeted links…",
-  "documentShortName": "2020-01-06-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
+  "documentShortName": "2020-01-14-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-06-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
-  "date": "2020-01-07T00:18:56.551Z",
-  "modificationDate": "2020-01-07T00:18:56.551Z",
+  "path": "D:\\~shares\\sourceRoot\\Blog\\presentation\\entry\\20202020-01-14-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
+  "date": "2020-01-14T18:24:23.707Z",
+  "modificationDate": "2020-01-14T18:24:23.707Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-06-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
+  "clientId": "2020-01-14-tsdx-zero-config-cli-for-typescript-package-development-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"tsdx: Zero-config CLI for TypeScript package development #javascript ★267 https://github.com/jaredpalmer/tsdx https://twitter.com/GithubTrending/status/1123064673098661888/photo/1\\nNew CSS video https://www.youtube.com/watch?v=TIx8koZP-Mk \\\"Learn to Integra…\"\r\n}"
 }
 ---
