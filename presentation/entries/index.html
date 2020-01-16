@@ -1,29 +1,45 @@
 ---
-layout: layouts/base.html
-templateClass: tmpl-entries-index
-
 pagination:
     alias: entries
     data: collections.entries
     size: 100
     reverse: true
 ---
+<!DOCTYPE html>
+<html lang="en">
+    {% assign pageNumber = pagination.pageNumber -%}
+    {%- assign pageCount = pagination.hrefs.length -%}
+    {%- assign root = "../../" -%}
+    {%- if pageNumber == 0 -%}
+    {%- assign root = "../" -%}
+    {%- endif -%}
 
-{%- assign pageNumber = pagination.pageNumber -%}
-{%- assign pageCount = pagination.hrefs.length -%}
-<div class="pagination mdc-typography--headline3">
-    {%- if pagination.previousPageHref -%}
-    <a class="material-icons" href="{{ pagination.firstPageHref }}" title="first page">first_page</a>
-    <a class="material-icons" href="{{ pagination.previousPageHref }}" title="previous page">arrow_back_ios</a>
-    {%- endif -%}
-    <span class="position">{{ pageNumber | plus: 1 }} / {{ pageCount }}</span>
-    {%- if pagination.nextPageHref -%}
-    <a class="material-icons" href="{{ pagination.nextPageHref }}" title="next page">arrow_forward_ios</a>
-    <a class="material-icons" href="{{ pagination.lastPageHref }}" title="last page">last_page</a>
-    {%- endif -%}
-</div>
-<ol class="pagination mdc-list mdc-typography--headline4">
-    {%- for entry in entries %}
-    <li class="mdc-list-item"><a href="{{ settings.url }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
-    {% endfor -%}
-</ol>
+    {% include snippets/head %}
+    
+    <body class="mdc-theme--background mdc-typography">
+        {% include snippets/svg-data %}
+        {% include snippets/body-header %}
+        <main class="mdc-layout-grid mdc-top-app-bar--prominent-fixed-adjust" id="main-content">
+            <div class="mdc-layout-grid__inner">
+                <div class="pagination mdc-typography--headline3">
+                    {%- if pagination.previousPageHref -%}
+                    <a class="material-icons" href="{{ pagination.firstPageHref }}" title="first page">first_page</a>
+                    <a class="material-icons" href="{{ pagination.previousPageHref }}" title="previous page">arrow_back_ios</a>
+                    {%- endif -%}
+                    <span class="position">{{ pageNumber | plus: 1 }} / {{ pageCount }}</span>
+                    {%- if pagination.nextPageHref -%}
+                    <a class="material-icons" href="{{ pagination.nextPageHref }}" title="next page">arrow_forward_ios</a>
+                    <a class="material-icons" href="{{ pagination.lastPageHref }}" title="last page">last_page</a>
+                    {%- endif -%}
+                </div>
+                <ol class="pagination mdc-list mdc-typography--headline4">
+                    {%- for entry in entries %}
+                    <li class="mdc-list-item"><a href="{{ settings.uri }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
+                    {% endfor -%}
+                </ol>
+            </div>
+        </main>
+        {% include snippets/body-footer %}
+    </body>
+
+</html>
