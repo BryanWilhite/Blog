@@ -38,7 +38,7 @@ pagination:
                             {%- for entry in entries -%}
                             {%- assign currentYearMonth = entry.data.clientId | slice: 0, 7 -%}
                             {%- if yearMonth != currentYearMonth -%}
-                            <li class="mdc-list-item header mdc-typography--headline4">{{ currentYearMonth }}</li>
+                            <li id="{{ currentYearMonth }}" class="mdc-list-item header mdc-typography--headline4">{{ currentYearMonth }}</li>
                             {%- endif %}
                             <li class="mdc-list-item mdc-typography--body1"><a href="{{ root }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
                             {% assign yearMonth = entry.data.clientId | slice: 0, 7 -%}
