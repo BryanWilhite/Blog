@@ -15,7 +15,6 @@ pagination:
     {%- endif -%}
 
     {% include snippets/head %}
-    
     <body class="mdc-theme--background mdc-typography">
         {% include snippets/svg-data %}
         {% include snippets/body-header %}
@@ -34,7 +33,7 @@ pagination:
                 </div>
                 <ol class="pagination mdc-list mdc-typography--headline4">
                     {%- for entry in entries %}
-                    <li class="mdc-list-item"><a href="{{ settings.uri }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
+                    <li class="mdc-list-item"><a href="{{ root }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
                     {% endfor -%}
                 </ol>
             </div>
