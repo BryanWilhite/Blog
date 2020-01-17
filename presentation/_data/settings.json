@@ -1,5 +1,7 @@
 {
-    "eleventy": { "version": "0.8.3" },
+    "eleventy": {
+        "version": "0.8.3"
+    },
     "author": {
         "name": "Bryan Wilhite",
         "github": "BryanWilhite",
@@ -17,6 +19,9 @@
         "id": "http://songhayblog.azurewebsites.net/"
     },
     "siteName": "Day Path",
+    "sitePagination": {
+        "size": 100
+    },
     "uri": "http://songhayblog.azurewebsites.net/",
     "uriCompany": "http://songhaysystem.com/"
 }

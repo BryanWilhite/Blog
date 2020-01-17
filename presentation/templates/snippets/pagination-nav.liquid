@@ -1,0 +1,24 @@
+<nav>
+    <ol class="pagination mdc-list">
+        {%- assign yearMonth = '' -%}
+        {%- assign pageNumber = 0 -%}
+        {%- for entry in collections.entries -%}
+            {%- assign currentYearMonth = entry.data.clientId | slice: 0, 7 -%}
+            {%- if yearMonth != currentYearMonth -%}
+                {%- case pageNumber -%}
+                    {%- when 0 -%}
+        <li class="mdc-list-item mdc-typography--body1"><a href="{{ root }}entries/#{{ currentYearMonth }}">{{ currentYearMonth }}</a></li>
+
+                    {%- else -%}
+        <li class="mdc-list-item mdc-typography--body1"><a href="{{ root }}entries/{{ pageNumber }}/#{{ currentYearMonth }}">{{ currentYearMonth }}</a></li>
+
+                {%- endcase -%}
+            {%- endif -%}
+            {% assign yearMonth = entry.data.clientId | slice: 0, 7 -%}
+            {%- assign pageMod = forloop.index | modulo: settings.sitePagination.size -%}
+            {%- if pageMod <= 0 -%}
+                {%- assign pageNumber = pageNumber | plus: 1 -%}
+            {%- endif -%}
+        {%- endfor -%}
+    </ol>
+</nav>
