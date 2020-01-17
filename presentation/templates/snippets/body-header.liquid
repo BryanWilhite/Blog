@@ -1,47 +1,47 @@
-        <header class="mdc-top-app-bar mdc-top-app-bar--prominent">
-            <div class="mdc-top-app-bar__row">
-                <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
-                    {%- if templateClass == "tmpl-entry" %}
-                    <a href="{{ root }}" class="material-icons mdc-top-app-bar__navigation-icon">first_page</a>
-                    {% endif -%}
-                    <span class="site logo mdc-top-app-bar__title"><span class="prefix">&gt;</span><span class="infix">Day Path</span><span class="suffix">_</span></span>
-                </section>
-                <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
-                    <a class="svg-sprite" href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_azure_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="{{ settings.author.uriAzureDevOps }}" target="_blank" title="Microsoft Azure DevOps">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_visual_studio_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="https://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_twitter_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="{{ settings.author.uriLinkedIn }}" target="_blank" title="@{{ settings.author.twitter }}">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_linkedin_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="{{ settings.author.uriStackOverflow }}" target="_blank" title="@{{ settings.author.twitter }}">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_stack_overflow_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="https://github.com/{{ settings.author.github }}" target="_blank" title="@{{ settings.author.twitter }}">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_github_circle_24px"></use>
-                        </svg>
-                    </a>
-                    <a class="svg-sprite" href="{{ settings.feed.uri }}" target="_blank" title="Atom feed">
-                        <svg class="svg-sprite">
-                            <use xlink:href="#mdi_rss_24px"></use>
-                        </svg>
-                    </a>
-                </section>
-            </div>
-        </header>
+<header class="mdc-top-app-bar mdc-top-app-bar--prominent">
+    <div class="mdc-top-app-bar__row">
+        <section class="mdc-top-app-bar__section mdc-top-app-bar__section--align-start">
+            {%- if templateClass == "tmpl-entry" %}
+            <a href="{{ root }}" class="material-icons mdc-top-app-bar__navigation-icon">first_page</a>
+            {% endif -%}
+            <span class="site logo mdc-top-app-bar__title"><span class="prefix">&gt;</span><span class="infix">Day Path</span><span class="suffix">_</span></span>
+        </section>
+        <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+            <a class="svg-sprite" href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_azure_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="{{ settings.author.uriAzureDevOps }}" target="_blank" title="Microsoft Azure DevOps">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_visual_studio_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="https://twitter.com/{{ settings.author.twitter }}" target="_blank" title="@{{ settings.author.twitter }}">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_twitter_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="{{ settings.author.uriLinkedIn }}" target="_blank" title="@{{ settings.author.twitter }}">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_linkedin_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="{{ settings.author.uriStackOverflow }}" target="_blank" title="@{{ settings.author.twitter }}">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_stack_overflow_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="https://github.com/{{ settings.author.github }}" target="_blank" title="@{{ settings.author.twitter }}">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_github_circle_24px"></use>
+                </svg>
+            </a>
+            <a class="svg-sprite" href="{{ settings.feed.uri }}" target="_blank" title="Atom feed">
+                <svg class="svg-sprite">
+                    <use xlink:href="#mdi_rss_24px"></use>
+                </svg>
+            </a>
+        </section>
+    </div>
+</header>
