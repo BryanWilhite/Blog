@@ -14,10 +14,10 @@ pagination:
     {%- assign root = "../" -%}
     {%- endif -%}
 
-    {% include snippets/head %}
+{% include snippets/head %}
     <body class="mdc-theme--background mdc-typography">
-        {% include snippets/svg-data %}
-        {% include snippets/body-header %}
+{% include snippets/svg-data %}
+{% include snippets/body-header %}
         <main class="mdc-layout-grid mdc-top-app-bar--prominent-fixed-adjust" id="main-content">
             <div class="mdc-layout-grid__inner">
                 <div class="mdc-layout-grid__cell--span-12">
@@ -48,7 +48,6 @@ pagination:
                 </div>
             </div>
         </main>
-        {% include snippets/body-footer %}
+{% include snippets/body-footer %}
     </body>
-
 </html>
