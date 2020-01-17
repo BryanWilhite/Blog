@@ -33,7 +33,7 @@ pagination:
                             <a class="material-icons" href="{{ pagination.lastPageHref }}" title="last page">last_page</a>
                             {%- endif -%}
                         </div>
-                        <ol class="pagination mdc-list">
+                        <ul class="pagination mdc-list">
                             {% assign yearMonth = '' -%}
                             {%- for entry in entries -%}
                             {%- assign currentYearMonth = entry.data.clientId | slice: 0, 7 -%}
@@ -43,7 +43,7 @@ pagination:
                             <li class="mdc-list-item mdc-typography--body1"><a href="{{ root }}entry/{{ entry.data.clientId }}">{{ entry.data.title }}</a></li>
                             {% assign yearMonth = entry.data.clientId | slice: 0, 7 -%}
                             {%- endfor -%}
-                        </ol>
+                        </ul>
                     </section>
                 </div>
             </div>

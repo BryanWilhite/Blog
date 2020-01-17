@@ -1,5 +1,5 @@
 <nav>
-    <ol class="pagination mdc-list">
+    <ul class="pagination mdc-list">
         {%- assign yearMonth = '' -%}
         {%- assign pageNumber = 0 -%}
         {%- for entry in collections.entries -%}
@@ -20,5 +20,5 @@
                 {%- assign pageNumber = pageNumber | plus: 1 -%}
             {%- endif -%}
         {%- endfor -%}
-    </ol>
+    </ul>
 </nav>
