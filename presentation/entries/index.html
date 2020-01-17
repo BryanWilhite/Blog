@@ -2,7 +2,7 @@
 pagination:
     alias: entries
     data: collections.entries
-    size: settings.sitePagination.size
+    size: 100
     reverse: true
 ---
 <!DOCTYPE html>
@@ -15,7 +15,6 @@ pagination:
     {%- endif -%}
 
     {% include snippets/head %}
-
     <body class="mdc-theme--background mdc-typography">
         {% include snippets/svg-data %}
         {% include snippets/body-header %}
