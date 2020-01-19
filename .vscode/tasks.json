@@ -127,8 +127,9 @@
                 "cwd": "${workspaceFolder}/shell"
             },
             "linux": {
-                "command": "Songhay.Publications.Shell",
+                "command": "dotnet",
                 "args": [
+                    "~/appRoot/songhay/publications/Songhay.Publications.Shell.dll",
                     "MarkdownEntryActivity",
                     "--base-path",
                     "${workspaceFolder}/shell",
