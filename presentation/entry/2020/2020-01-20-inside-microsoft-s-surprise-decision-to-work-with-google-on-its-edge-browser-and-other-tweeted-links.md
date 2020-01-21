@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Inside Microsoft’s surprise decision to work with Google on its Edge browser” and other tweeted links…",
-  "documentShortName": "2020-01-09-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
+  "documentShortName": "2020-01-20-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-09-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
-  "date": "2020-01-10T03:23:58.72Z",
-  "modificationDate": "2020-01-10T03:23:58.72Z",
+  "path": "./entry/2020-01-20-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
+  "date": "2020-01-21T01:48:21.243Z",
+  "modificationDate": "2020-01-21T01:48:21.243Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-09-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
+  "clientId": "2020-01-20-inside-microsoft-s-surprise-decision-to-work-with-google-on-its-edge-browser-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"Inside Microsoft’s surprise decision to work with Google on its Edge browser http://bit.ly/2J1rFQ9 https://twitter.com/TravisBDriver/status/1125432683885154304/photo/1\\nA project showcasing Vietnamese typography and @fontofthemonth http://vietnamesetypogra…\"\r\n}"
 }
 ---
