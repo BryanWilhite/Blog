@@ -2,18 +2,18 @@
 {
   "documentId": 0,
   "title": "flippant remarks about my use of design patterns",
-  "documentShortName": "2020-01-11-flippant-remarks-about-my-use-of-design-patterns",
+  "documentShortName": "2020-01-22-flippant-remarks-about-my-use-of-design-patterns",
   "fileName": "index.html",
-  "path": "./entry/2020-01-11-flippant-remarks-about-my-use-of-design-patterns",
-  "date": "2020-01-11T20:44:02.271Z",
-  "modificationDate": "2020-01-11T20:44:02.271Z",
+  "path": "./entry/2020-01-22-flippant-remarks-about-my-use-of-design-patterns",
+  "date": "2020-01-22T23:32:16.041Z",
+  "modificationDate": "2020-01-22T23:32:16.041Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-11-flippant-remarks-about-my-use-of-design-patterns",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "clientId": "2020-01-22-flippant-remarks-about-my-use-of-design-patterns",
+  "tag": "{\n  \"extract\": \"Seasoned YouTuber Derek Banas has a design patterns series that I think I should watch at least once a year to stay in shape. This exercise should inspire me to answer these very healthy questions: - What design patterns am I using regularly?\\nWhat design �\"\n}"
 }
 ---
 

@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“overview of Promise combinators Promise.all, Promise.any, Promise.race, Promise.allSettled” and other tweeted links…",
-  "documentShortName": "2020-01-19-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
+  "documentShortName": "2020-01-22-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-19-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
-  "date": "2020-01-19T18:53:31.569Z",
-  "modificationDate": "2020-01-19T18:53:31.569Z",
+  "path": "./entry/2020-01-22-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
+  "date": "2020-01-22T23:29:47.848Z",
+  "modificationDate": "2020-01-22T23:29:47.848Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-19-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
+  "clientId": "2020-01-22-overview-of-promise-combinators-promise-all-promise-any-promise-race-promise-allsettled-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"nice quick overview of Promise combinators\\nPromise.all, Promise.any, Promise.race, Promise.allSettled\\nhttps://v8.dev/features/promise-combinators #javascript\\nHow to get #TypeScript errors and completions in supported editors and on the command line withou…\"\r\n}"
 }
 ---
