@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Is CSS a programming language?” and other tweeted links…",
-  "documentShortName": "2020-01-16-is-css-a-programming-language-and-other-tweeted-links",
+  "documentShortName": "2020-01-21-is-css-a-programming-language-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-16-is-css-a-programming-language-and-other-tweeted-links",
-  "date": "2020-01-17T04:15:15.735Z",
-  "modificationDate": "2020-01-17T04:15:15.735Z",
+  "path": "./entry/2020-01-21-is-css-a-programming-language-and-other-tweeted-links",
+  "date": "2020-01-22T00:58:05.759Z",
+  "modificationDate": "2020-01-22T00:58:05.759Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-16-is-css-a-programming-language-and-other-tweeted-links",
+  "clientId": "2020-01-21-is-css-a-programming-language-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"Is CSS a programming language? I think @laras126 has the answer\\n#css #programming #webdevelopment https://www.youtube.com/watch?v=cCeqH6m_K20&feature=youtu.be\\nGreat courses to learn stuff: ↬ CSS Animations\\nhttps://css-animations.io/ ↬ Grid Garden\\nhttps://…\"\r\n}"
 }
 ---
