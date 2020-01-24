@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“It’s time to unleash `ngx-template-streams`” and other tweeted links…",
-  "documentShortName": "2020-01-21-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
+  "documentShortName": "2020-01-24-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-21-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
-  "date": "2020-01-21T17:19:55.22Z",
-  "modificationDate": "2020-01-21T17:19:55.22Z",
+  "path": "./entry/2020-01-24-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
+  "date": "2020-01-24T18:49:33.213Z",
+  "modificationDate": "2020-01-24T18:49:33.213Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-21-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
+  "clientId": "2020-01-24-it-s-time-to-unleash-ngx-template-streams-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"📢 ANNOUNCEMENT 📢 It's time to unleash ngx-template-streams, a library that supercharges your @Angular templates with Observables and lets you define event streams from any DOM event including component outputs. 🎉🔥🙌😱 It's fully open source! Happy str…\"\r\n}"
 }
 ---
