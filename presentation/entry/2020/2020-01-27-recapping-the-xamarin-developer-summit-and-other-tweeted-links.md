@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Recapping the Xamarin Developer Summit” and other tweeted links…",
-  "documentShortName": "2020-01-22-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
+  "documentShortName": "2020-01-27-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-22-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
-  "date": "2020-01-22T16:44:16.441Z",
-  "modificationDate": "2020-01-22T16:44:16.441Z",
+  "path": "./entry/2020-01-27-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
+  "date": "2020-01-27T19:14:07.798Z",
+  "modificationDate": "2020-01-27T19:14:07.798Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-22-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
+  "clientId": "2020-01-27-recapping-the-xamarin-developer-summit-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"Recapping the Xamarin Developer Summit by Maddy Leger. #Xamarin #devconference https://devblogs.microsoft.com/xamarin/recapping-xamarin-developer-summit/?_lrsc=842e9325-e980-4870-a930-ef048f5b0323&utm_campaign=elevate&utm_source=twitter&utm_medium=social\\n…\"\r\n}"
 }
 ---
