@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“`:focus-within` is SO useful” and other tweeted links…",
-  "documentShortName": "2020-01-24-focus-within-is-so-useful-and-other-tweeted-links",
+  "documentShortName": "2020-01-29-focus-within-is-so-useful-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-24-focus-within-is-so-useful-and-other-tweeted-links",
-  "date": "2020-01-24T17:33:27.642Z",
-  "modificationDate": "2020-01-24T17:33:27.642Z",
+  "path": "./entry/2020-01-29-focus-within-is-so-useful-and-other-tweeted-links",
+  "date": "2020-01-29T22:38:53.877Z",
+  "modificationDate": "2020-01-29T22:38:53.877Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-24-focus-within-is-so-useful-and-other-tweeted-links",
+  "clientId": "2020-01-29-focus-within-is-so-useful-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \":focus-within is SO useful. Really great selector.  Our Almanac entry: https://css-tricks.com/almanac/selectors/f/focus-within/\\nRecent from @davidwalshblog https://davidwalsh.name/css-focus-within A note though! Careful not to use in comma-separated selec…\"\r\n}"
 }
 ---
