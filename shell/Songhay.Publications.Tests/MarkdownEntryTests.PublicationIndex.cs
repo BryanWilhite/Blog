@@ -29,10 +29,12 @@ namespace Songhay.Publications.Tests
                 {
                     extract = JObject.Parse(jO.GetValue<string>("tag")).GetValue<string>("extract"),
                     clientId = jO.GetValue<string>("clientId"),
+                    inceptDate = jO.GetValue<string>("date"),
+                    modificationDate = jO.GetValue<string>("modificationDate"),
                     title = jO.GetValue<string>("title")
                 }))
                 .ToArray();
-            
+
             var jA = new JArray(frontMatterDocuments);
             File.WriteAllText(jsonRootInfo.FindFile(indexFileName).FullName, jA.ToString());
         }
