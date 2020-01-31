@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“The (not so) hidden cost of sharing code between iOS and Android” and other tweeted links…",
-  "documentShortName": "2020-01-26-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
+  "documentShortName": "2020-01-31-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-26-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
-  "date": "2020-01-26T17:53:41.526Z",
-  "modificationDate": "2020-01-26T17:53:41.526Z",
+  "path": "./entry/2020-01-31-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
+  "date": "2020-01-31T19:07:22.656Z",
+  "modificationDate": "2020-01-31T19:07:22.656Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-26-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
+  "clientId": "2020-01-31-the-not-so-hidden-cost-of-sharing-code-between-ios-and-android-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"The (not so) hidden cost of sharing code between iOS and Android https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android/\\nSome of my favorite learning resources: - @FrontendMasters for long-form content\\n@egghe…\"\r\n}"
 }
 ---
