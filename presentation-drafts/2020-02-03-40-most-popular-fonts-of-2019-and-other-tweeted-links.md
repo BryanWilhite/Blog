@@ -35,6 +35,12 @@ The new [@blender_org](https://twitter.com/@blender_org) Blender update is here!
 [https://www.blendernation.com/2019/11/21/blender-2-81-is-out-check-out-the-top-10-features-here/](https://www.blendernation.com/2019/11/21/blender-2-81-is-out-check-out-the-top-10-features-here/)
 
 </div>
+<div class="tweet" data-status-id="1209564196779614200">
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg" />](http://t.co/UNdqV0Z1zz)
+A constantly updated collection of beautiful svg images that you can use completely free and without attribution. [https://t.co/QPANqdumKL](https://t.co/QPANqdumKL) [https://t.co/ltXOvmnCWn](https://t.co/ltXOvmnCWn)
+
+</div>
 <div class="tweet" data-status-id="1204989820302327800">
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg" />](http://songhayblog.azurewebsites.net/)
@@ -58,6 +64,12 @@ Microsoft's chromium based Edge to roll out on Windows 10 via Windows Update [ht
 THE BEST WEBSITE DESIGNS IN 2019 [https://designbump.com/the-best-website-designs-in-2019/](https://designbump.com/the-best-website-designs-in-2019/) [https://twitter.com/BryanWilhite/status/1207808781628739585/photo/1](https://twitter.com/BryanWilhite/status/1207808781628739585/photo/1)
 
 </div>
+<div class="tweet" data-status-id="1209560427421667300">
+
+[<img alt="MalibuJack [aktivematrix]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/aktivematrix.jpg" />](https://t.co/TKIMfCwGtm)
+Randy Suess, Computer Bulletin Board Inventor, Dies at 74 [#makers](https://twitter.com/search?q='%23makers') [#diy](https://twitter.com/search?q='%23diy') [https://t.co/3itI3bvURL](https://t.co/3itI3bvURL) [https://t.co/HzuvG2aH2m](https://t.co/HzuvG2aH2m)
+
+</div>
 <div class="tweet" data-status-id="1199784969444479000">
 
 [<img alt="Tech Junkie [techjunkiejh]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/techjunkiejh.png" />](http://www.techjunkieblog.com/)
@@ -74,6 +86,12 @@ Microsoft has turned Outlook into a Progressive Web App [http://bit.ly/2XQ8Ynd](
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg" />](http://songhayblog.azurewebsites.net/)
 Announcing the general availability of Azure Ultra Disk Storage [https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-ultra-disk-storage/](https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-ultra-disk-storage/)
+
+</div>
+<div class="tweet" data-status-id="1209564717238276000">
+
+[<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg" />](http://t.co/UNdqV0Z1zz)
+Webmention is a simple way to notify any URL when you link to it from your site. [https://t.co/yH2UAUXbc2](https://t.co/yH2UAUXbc2) [https://t.co/j3GkKIWjtp](https://t.co/j3GkKIWjtp)
 
 </div>
 <div class="tweet" data-status-id="1201963096388120600">
@@ -116,6 +134,12 @@ People have asked me why I’m learning golang. I learn new things because it us
 
 [<img alt="Doug Brown, DBA [dougbrownDBA]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/dougbrownDBA.jpg" />](https://www.dougbrowndba.com/)
 Just how popular is Kubernetes? [http://dlvr.it/RJk4jQ](http://dlvr.it/RJk4jQ) [https://twitter.com/dougbrownDBA/status/1197266645145620480/photo/1](https://twitter.com/dougbrownDBA/status/1197266645145620480/photo/1)
+
+</div>
+<div class="tweet" data-status-id="1209224951452094500">
+
+[<img alt="MSPoweruser [mspoweruser]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/mspoweruser.jpg" />](https://t.co/BQ6Nk6yKdx)
+Dropbox for Windows has an unfixed Zero-day vulnerability - [https://t.co/HcBIa6q52a](https://t.co/HcBIa6q52a) [https://t.co/9EhtnfKpoP](https://t.co/9EhtnfKpoP)
 
 </div>
 <div class="tweet" data-status-id="1201743904061694000">
