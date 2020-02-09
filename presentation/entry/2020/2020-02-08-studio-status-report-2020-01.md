@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2020-01",
-  "documentShortName": "2020-01-22-studio-status-report-2020-01",
+  "documentShortName": "2020-02-08-studio-status-report-2020-01",
   "fileName": "index.html",
-  "path": "./entry/2020-01-22-studio-status-report-2020-01",
-  "date": "2020-01-23T01:41:30.824Z",
-  "modificationDate": "2020-01-23T01:41:30.824Z",
+  "path": "./entry/2020-02-08-studio-status-report-2020-01",
+  "date": "2020-02-09T03:06:25.321Z",
+  "modificationDate": "2020-02-09T03:06:25.321Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-22-studio-status-report-2020-01",
+  "clientId": "2020-02-08-studio-status-report-2020-01",
   "tag": "{\r\n  \"extract\": \"the first month of 2020 is about achieving desired expressive power with eleventy GitHub issue, “add flat entries/ (index) and groupings by year,” records my progress with generating Blog sites with eleventy: > “Tips for Using Snippets in Your Shopify The…\"\r\n}"
 }
 ---
