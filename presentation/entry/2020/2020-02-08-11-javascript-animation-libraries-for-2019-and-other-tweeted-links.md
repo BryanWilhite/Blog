@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“11 JavaScript Animation Libraries For 2019” and other tweeted links…",
-  "documentShortName": "2020-01-28-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
+  "documentShortName": "2020-02-08-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-28-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
-  "date": "2020-01-29T02:01:23.185Z",
-  "modificationDate": "2020-01-29T02:01:23.185Z",
+  "path": "./entry/2020-02-08-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
+  "date": "2020-02-09T03:08:05.496Z",
+  "modificationDate": "2020-02-09T03:08:05.496Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-28-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
+  "clientId": "2020-02-08-11-javascript-animation-libraries-for-2019-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"11 JavaScript Animation Libraries For 2019 by Jonathan Saring https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59?gi=ed70256906e8\\nReally excited about the improved UX around Promises! I forget to await things all the time 😅\\nAnn…\"\r\n}"
 }
 ---
