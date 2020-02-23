@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“Introducing .NET Core Windows Forms Designer Preview 1” and other tweeted links…",
-  "documentShortName": "2020-01-30-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
+  "documentShortName": "2020-02-22-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-01-30-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
-  "date": "2020-01-30T22:39:54.261Z",
-  "modificationDate": "2020-01-30T22:39:54.261Z",
+  "path": "./entry/2020-02-22-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
+  "date": "2020-02-23T03:03:08.237Z",
+  "modificationDate": "2020-02-23T03:03:08.237Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-01-30-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
+  "clientId": "2020-02-22-introducing-net-core-windows-forms-designer-preview-1-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"Introducing .NET Core Windows Forms Designer Preview 1 | .NET Blog #BreakingNews #games #rdt http://dlvr.it/RFHMxT https://twitter.com/GoodVibra/status/1179081053958328320/photo/1\\nWhat’s New in 2019 Volume 3: Xamarin.Forms WPF https://www.syncfusion.com/b…\"\r\n}"
 }
 ---
