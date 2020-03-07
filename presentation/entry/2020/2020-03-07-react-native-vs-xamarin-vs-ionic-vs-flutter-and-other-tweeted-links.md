@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“React Native Vs. Xamarin Vs. Ionic Vs. Flutter” and other tweeted links…",
-  "documentShortName": "2020-02-01-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
+  "documentShortName": "2020-03-07-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-02-01-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
-  "date": "2020-02-01T18:24:07.974Z",
-  "modificationDate": "2020-02-01T18:24:07.974Z",
+  "path": "./entry/2020-03-07-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
+  "date": "2020-03-07T22:39:49.580Z",
+  "modificationDate": "2020-03-07T22:39:49.580Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-02-01-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
+  "clientId": "2020-03-07-react-native-vs-xamarin-vs-ionic-vs-flutter-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"React Native Vs. Xamarin Vs. Ionic Vs. Flutter: Which Is Best For Cross-Platform Mobile App Development?\\nhttps://www.apptunix.com/blog/frameworks-cross-platform-mobile-app-development/?utm_source=Facebook&utm_medium=Cross%20platform%20,Group4,%2030-04-201…\"\r\n}"
 }
 ---
