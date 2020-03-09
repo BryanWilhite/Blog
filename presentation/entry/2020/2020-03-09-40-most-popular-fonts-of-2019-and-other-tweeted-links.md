@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "“40 Most Popular Fonts of 2019” and other tweeted links…",
-  "documentShortName": "2020-02-03-40-most-popular-fonts-of-2019-and-other-tweeted-links",
+  "documentShortName": "2020-03-09-40-most-popular-fonts-of-2019-and-other-tweeted-links",
   "fileName": "index.html",
-  "path": "./entry/2020-02-03-40-most-popular-fonts-of-2019-and-other-tweeted-links",
-  "date": "2020-02-04T04:56:09.018Z",
-  "modificationDate": "2020-02-04T04:56:09.018Z",
+  "path": "./entry/2020-03-09-40-most-popular-fonts-of-2019-and-other-tweeted-links",
+  "date": "2020-03-09T18:00:28.303Z",
+  "modificationDate": "2020-03-09T18:00:28.303Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-02-03-40-most-popular-fonts-of-2019-and-other-tweeted-links",
+  "clientId": "2020-03-09-40-most-popular-fonts-of-2019-and-other-tweeted-links",
   "tag": "{\r\n  \"extract\": \"40 Most Popular Fonts of 2019 https://design.tutsplus.com/articles/40-most-popular-fonts-of-2019--cms-34190 https://twitter.com/MediaLoot/status/1206289832907100161/photo/1\\nThe new @blender_org Blender update is here! Can't wait to take the new features f…\"\r\n}"
 }
 ---
