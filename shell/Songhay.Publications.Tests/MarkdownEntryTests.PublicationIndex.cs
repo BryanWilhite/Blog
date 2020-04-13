@@ -1,8 +1,12 @@
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json.Linq;
+using Songhay.Cloud.BlobStorage.Extensions;
 using Songhay.Extensions;
+using Songhay.Models;
 using Songhay.Publications.Extensions;
 using Songhay.Tests;
 using Xunit;
@@ -55,6 +59,35 @@ namespace Songhay.Publications.Tests
 
             var jA = new JArray(frontMatterDocuments);
             File.WriteAllText(jsonRootInfo.FindFile(indexFileName).FullName, jA.ToString());
+        }
+
+        [Theory]
+        [ProjectFileData(typeof(MarkdownEntryTests),
+            new object[] { "day-path-blog" },
+            "../../../json/index.c.json")]
+        public async Task ShouldUploadCompressedIndex(string blobContainerName, FileInfo compressedIndexInfo)
+        {
+            var basePath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, "../../../");
+            var builder = new ConfigurationBuilder()
+                .SetBasePath(basePath)
+                .AddJsonFile("app-settings.songhay-system.json", optional : false, reloadOnChange : true);
+
+            var meta = new ProgramMetadata();
+            builder.Build().Bind(nameof(ProgramMetadata), meta);
+            var cloudStorageAccount = meta.GetCloudStorageAccount("SonghayCloudStorage", "general-purpose-v1");
+
+            await cloudStorageAccount.UploadBlobAsync(compressedIndexInfo.FullName, blobContainerName, blobContainerPath : string.Empty);
+
+            var containerReference = cloudStorageAccount.GetContainerReference(blobContainerName);
+            var blobReference = containerReference.GetBlockBlobReference(compressedIndexInfo.Name);
+
+            Assert.NotNull(blobReference);
+
+            blobReference.Properties.CacheControl = "max-age=864000,public,must-revalidate";
+            blobReference.Properties.ContentEncoding = "gzip";
+            blobReference.Properties.ContentType = MimeTypes.ApplicationJson;
+
+            await blobReference.SetPropertiesAsync();
         }
     }
 }

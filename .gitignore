@@ -1,3 +1,6 @@
+# Songhay System settings
+app-settings.*.json
+
 /shell/localhost-gen-web/runtimes
 /shell/localhost-gen-web/**/*.dll
 /shell/localhost-gen-web/**/*.json
