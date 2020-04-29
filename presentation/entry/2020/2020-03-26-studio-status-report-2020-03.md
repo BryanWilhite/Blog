@@ -51,15 +51,15 @@ As of today, my first `IActivityWithTask<JObject, JObject>` class supports five 
 
 Today, the studio development schedule looks like this:
 
-* ~~build out `Songhay.Player.Activities` and plug into Azure Functions~~ ✔
-* ~~build out `Songhay.Social.Activities` (automated social-media posting) and plug into Azure Functions~~ 🤖🌩
-* ~~address `Songhay.Player.Activities` _O_(_n_) problem 🤖🌩~~
-* build lunr index experience 🏗
-* use `@songhay/index` as a side-car app for “Day Path” and “the rasx() context” 🚛📦
-* add Stills API to `Songhay.Player` (b-roll player) 🕸🌩
-* use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
-* modernize the kinté hits page into a progressive web app 💄✨
-* convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
-* use the learnings of previous work to upgrade and re-release the kinté space 🚀
+- ~~build out `Songhay.Player.Activities` and plug into Azure Functions~~ ✔
+- ~~build out `Songhay.Social.Activities` (automated social-media posting) and plug into Azure Functions~~ 🤖🌩
+- ~~address `Songhay.Player.Activities` _O_(_n_) problem 🤖🌩~~
+- build lunr index experience 🏗
+- use `@songhay/index` as a side-car app for “Day Path” and “the rasx() context” 🚛📦
+- add Stills API to `Songhay.Player` (b-roll player) 🕸🌩
+- use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
+- modernize the kinté hits page into a progressive web app 💄✨
+- convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
+- use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
