@@ -6,7 +6,7 @@
             {% endif -%}
             <span class="site logo mdc-top-app-bar__title"><span class="prefix">&gt;</span><span class="infix">Day Path</span><span class="suffix">_</span></span>
         </section>
-        <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+        <section class="site links mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
             <a class="svg-sprite" href="{{ settings.author.uriAzurePortal }}" target="_blank" title="Microsoft Azure Portal">
                 <svg class="svg-sprite">
                     <use xlink:href="#mdi_azure_24px"></use>
@@ -45,15 +45,14 @@
         </section>
     </div>
     <div class="mdc-top-app-bar__row">
-        <section class="description mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
+        <section class="site search mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
             <rx-input-autocomplete
                 inputId="lunr-input"
                 cssSuggestionAlignment="left"
                 cssSuggestionSelectedContainer="border: solid red;"
                 cssSuggestionSelectedCommand="font-weight: bold;"
                 cssWidth="16em"
-                placeholder="search titles"
-                required="false">
+                placeholder="search titles">
             </rx-input-autocomplete>
         </section>
     </div>
