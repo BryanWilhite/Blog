@@ -47,12 +47,10 @@
     <div class="mdc-top-app-bar__row">
         <section class="site search mdc-top-app-bar__section mdc-top-app-bar__section--align-end">
             <rx-input-autocomplete
-                inputId="lunr-input"
-                cssSuggestionAlignment="left"
-                cssSuggestionSelectedContainer="border: solid red;"
-                cssSuggestionSelectedCommand="font-weight: bold;"
-                cssWidth="32em"
-                placeholder="search titles">
+                inputId="site-search"
+                maxSuggestions="10"
+                minInput="3"
+                placeholder="enter here">
             </rx-input-autocomplete>
         </section>
     </div>
