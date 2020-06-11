@@ -1,6 +1,6 @@
 {
     "eleventy": {
-        "version": "0.8.3"
+        "version": "0.10.0"
     },
     "author": {
         "name": "Bryan Wilhite",
