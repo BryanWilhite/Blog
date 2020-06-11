@@ -61,5 +61,8 @@
         "MD035": false,
         "MD036": false, //emphasis used instead of header
         "MD041": false //first line in file should be a top-level header
-    }
+    },
+    "pasteImage.insertPattern": "${imageSyntaxPrefix}../presentation/image/${imageFileName}${imageSyntaxSuffix}",
+    "pasteImage.namePrefix": "day-path-",
+    "pasteImage.path": "${projectRoot}/presentation/image/"
 }

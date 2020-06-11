@@ -19,6 +19,6 @@
 
 # my blogging workflow for 2020 is all about `11ty` (eleventy)
 
-
+![authoring workflow](../presentation/image/day-path-2020-06-11-14-56-01.png)
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
