@@ -59,7 +59,7 @@ The [GitHub project for the `1.0.3` release](https://github.com/BryanWilhite/Son
 
 ## why build all of this?
 
-**My Markdown front matter is _mine_.** Many of the alternatives to what I’ve built here _must_ have opinionated front matter.
+**My Markdown front matter is _mine_.** Many of the alternatives to what I’ve built here _must_ have opinionated front matter. [`eleventy-plugin-blog`](https://github.com/sielay/eleventy-plugin-blog) is an example of this.
 
 **Building on Typescript and C# is a priority.** What I assume is the leader in this [Jamstack](https://jamstack.org/) space, Jekyll, is built on Ruby.
 
