@@ -21,7 +21,7 @@
 
 As of this writing, my Blogging workflow looks like this:
 
-![authoring workflow](../presentation/image/day-path-2020-06-11-14-56-01.png)
+![authoring workflow](../../image/day-path-2020-06-11-14-56-01.png)
 
 Above, we see _the author_ (me ✍🏾) generating Markdown in one repository and using [11ty.dev](https://www.11ty.dev/) (eleventy) to write/overwrite files in another. These are the authoring repo and the Presentation repo, respectively. For this Blog post being read (by you) right now:
 
@@ -49,11 +49,11 @@ By convention, `settings.json` data flow to the template type configured for ele
 
 Liquid has a [snippets concept](https://shopify.dev/tutorials/develop-theme-templates#snippets) that allows me to break down a template into smaller chunks. The following diagram is trying to show `settings.json` data flowing into several `*.liquid` snippets:
 
-![eleventy `settings.json` data flow](../presentation/image/day-path-2020-06-12-14-06-49.png)
+![eleventy `settings.json` data flow](../../image/day-path-2020-06-12-14-06-49.png)
 
 When we first try out eleventy and after we enjoy its [zero-config feature](https://www.11ty.dev/docs/resources/#zero-config), we focus on the `.eleventy.js` file [📖 [docs](https://www.11ty.dev/docs/config/)]. My primary need for for this file was to define [a collection](https://www.11ty.dev/docs/collections/) of Markdown files under my conventional `entry/` directory. The magic of eleventy is its ability to load all of these Markdown files into memory (which feels [not quite scalable](https://github.com/11ty/eleventy/issues/695#issuecomment-532896598)) and render HTML in the specified `output` location:
 
-![eleventy collection flow](../presentation/image/day-path-2020-06-12-14-10-28.png)
+![eleventy collection flow](../../image/day-path-2020-06-12-14-10-28.png)
 
 My other conventional directory, `entries/`, shown above, takes advantage of the [front matter](https://www.11ty.dev/docs/data-frontmatter/) in the Markdown entries to render [pagination](https://www.11ty.dev/docs/pagination/#paging-a-collection).
 
@@ -63,13 +63,13 @@ The Presentation repo depends on over 100MB of `npm` packages and is concerned w
 
 ### Typescript flow
 
-![Presentation repo Typescript flow](../presentation/image/day-path-2020-06-11-19-59-11.png)
+![Presentation repo Typescript flow](../../image/day-path-2020-06-11-19-59-11.png)
 
 The `presentation/templates/snippets/head.liquid` snippet shown in the eleventy flow diagram above references both `scripts.min.js` and `styles.min.css`.
 
 ### Sass flow
 
-![Presentation repo Sass flow](../presentation/image/day-path-2020-06-11-20-05-03.png)
+![Presentation repo Sass flow](../../image/day-path-2020-06-11-20-05-03.png)
 
 ## why build all of this?
 
