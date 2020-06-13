@@ -30,6 +30,6 @@ module.exports = function (config) {
         },
         htmlTemplateEngine: 'liquid',
         markdownTemplateEngine: 'liquid',
-        templateFormats: ['html', 'md', 'liquid']
+        templateFormats: ['html', 'md', 'liquid', 'png']
     };
 };
