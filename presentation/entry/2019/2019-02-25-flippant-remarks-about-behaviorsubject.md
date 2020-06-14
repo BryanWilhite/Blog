@@ -37,7 +37,7 @@ Jure Bajt developed `rxjs-observable-store` [[GitHub](https://github.com/jurebaj
 
 To avoid the overhead of managing Bajt’s offering as a package, [this](https://github.com/jurebajt/rxjs-observable-store/blob/master/src/store.ts) is the essential:
 
-```typescript
+```ts
 import {Observable, BehaviorSubject} from 'rxjs';
 
 export class Store<T> {
