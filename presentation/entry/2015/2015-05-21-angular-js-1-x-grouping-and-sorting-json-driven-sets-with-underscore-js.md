@@ -49,11 +49,13 @@ I need to use `pairs()` and `map()`) because the Underscore `_.groupBy()` functi
 
 My two code blocks above use `$scope.vm.indexGroupingSelected`. My use of *Selected* in the name of this View Model property makes sense when we see this Angular declaration:
 
+```html
 <select
     data-ng-change='vm.setGroups()'
     data-ng-model="vm.indexGroupingSelected"
     data-ng-options="i as i.label for i in options">
 </select>
+```
 
 Declaring `ng-model` in a `select` element binds the currently selected option in `$scope.options`. Again, I notice that I cannot use `$scope.vm.options`—I *have to* use `$scope.options`. In my Angular Controller, I fill my options like this:
 
@@ -69,7 +71,7 @@ $scope.options = [{
 }];
 ```
 
-This use of `sortDescending` in the options is awesome to me. Because the Angular `orderBy` expression supports not only variables but also “dotting down” objects used as variables my life was made a bit easier. This Angular feature allows me to control sorting data in ascending or descending order *with *data.
+This use of `sortDescending` in the options is awesome to me. Because the Angular `orderBy` expression supports not only variables but also “dotting down” objects used as variables my life was made a bit easier. This Angular feature allows me to control sorting data in ascending or descending order *with* data.
 
 Check out [the full CodePen](http://codepen.io/rasx/pen/XJYJye):
 
