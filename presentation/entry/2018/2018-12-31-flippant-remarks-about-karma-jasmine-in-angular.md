@@ -75,7 +75,7 @@ The auto-generated test above might be for a component with an HTML file like th
 
 By default, the test will likely throw a very verbose error like this:
 
-```console
+```shell
 Failed: Template parse errors:
         'app-my-child' is not a known element:
         1. If 'app-my-child' is an Angular component, then verify that it is part of this module.

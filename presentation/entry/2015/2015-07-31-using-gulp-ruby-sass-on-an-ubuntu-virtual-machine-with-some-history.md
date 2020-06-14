@@ -31,7 +31,7 @@ You must have Sass >=3.4.
 
 Of course it took me hours to figure this out (in part because no errors our any output appeared) but I needed to [run two commands](http://askubuntu.com/questions/92468/how-do-i-update-to-the-latest-version-of-sass/92471?stw=2) to get `gulp-ruby-sass` to work properly:
 
-```console
+```bash
 sudo gem uninstall -Iax haml-edge
 sudo gem install sass --pre
 ```

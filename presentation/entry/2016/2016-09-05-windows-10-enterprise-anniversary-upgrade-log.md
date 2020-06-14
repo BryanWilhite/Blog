@@ -61,7 +61,7 @@ At line:1 char:1
 
 The `cloudberryexplorer.azurestorage` package also failed to install with the irresponsibly cryptic:
 
-```console
+```powershell
 Install-Package : Process Exited with non-successful exit code cmd.exe : 1
 
 At line:5 char:47
@@ -77,7 +77,7 @@ I did notice that `Install-Package` supports a `-Destination` parameter for *som
 
 The [installation of the Linux subsystem](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) is standard.
 
-```console
+```bash
 sudo apt-get update
 sudo apt-get autoremove
 sudo aptitude safe-upgrade
@@ -95,7 +95,7 @@ history -c && history -w && exit
 
 It may not be necessary to *manually* install these for gulp:
 
-```console
+```bash
 sudo npm install gulp-concat
 sudo npm install gulp-minify-css
 sudo npm install gulp-sass

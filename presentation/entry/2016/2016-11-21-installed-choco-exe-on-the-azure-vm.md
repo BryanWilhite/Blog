@@ -23,13 +23,13 @@ The internet tells me that `choco.exe` supports *updating* packages (while the s
 
 Install choice:
 
-```console
+```powershell
 iwr <https://chocolatey.org/install.ps1> -UseBasicParsing | iex
 ```
 
 First of all, the install process of `choco.exe` threatens to move the old packages from `C:\Chocolatey` to `C:\ProgramData\chocolatey` as this excerpt from the installation warns:
 
-```console
+```shell
 Creating Chocolatey folders if they do not already exist.
 WARNING: You can safely ignore errors related to missing log files when upgrading from a version of Chocolatey less than 0.9.9.
 'Batch file could not be found' is also safe to ignore.
@@ -59,13 +59,13 @@ Here is the punch line: I never had a `C:\Chocolately` folder! My machine has a 
 
 I find this command super-useful:
 
-```console
+```shell
 choco upgrade all -y --whatif
 ```
 
 This what-if mode report gives me option to upgrade everything or be a bit extra-careful and upgrade packages one by one. Today, I am seeing this:
 
-```console
+```shell
 Chocolatey can upgrade 10/18 packages. 0 packages failed.
 See the log for details (C:\ProgramData\chocolatey\logs\chocolatey.log).
 ```
@@ -85,13 +85,13 @@ Can upgrade:
 
 This is the other command that is super-useful:
 
-```console
+```shell
 choco list -localonly –all
 ```
 
 This displays output like this:
 
-```console
+```shell
 Chocolatey v0.10.3
 7zip.install 16.02.0.20160811
 autohotkey.portable 1.1.24.02
@@ -122,13 +122,13 @@ sysinternals 2016.08.29
 
 There two things I am seeing in this output. First, I see that the upgrade functionality of `choco.exe` is not much better than the standard (OneGet) stuff because an update simply stacks a new version of the package next to the old one. This implies that I still have to manually uninstall the old package by version number (unless there is some kind of cool command-line option to avoid this) with this:
 
-```console
+```shell
 choco uninstall git git.install --version 2.10.1
 ```
 
 The results I am seeing from this command does not make me feel great:
 
-```console
+```shell
 Chocolatey v0.10.3
 Uninstalling the following packages:
 git;git.install
@@ -145,7 +145,7 @@ Failures
 
 Today, Chocolatey is not a sweet experience—especially for any package paired with an `*.install` package. All of the unpaired packages were uninstalled as expected and this is list of locally installed packages:
 
-```console
+```shell
 Chocolatey v0.10.3
 7zip.install 16.02.0.20160811
 autohotkey.portable 1.1.24.02
@@ -171,7 +171,7 @@ sysinternals 2016.08.29
 
 Finally, I am assuming for the moment that I need to make sure that there is only *one* version of these packages *at all times* to avoid getting another class of errors:
 
-```console
+```shell
 chocolatey-core.extension 1.0
 chocolatey-fosshub.extension 0.2.0
 chocolatey-uninstall.extension 1.1.0

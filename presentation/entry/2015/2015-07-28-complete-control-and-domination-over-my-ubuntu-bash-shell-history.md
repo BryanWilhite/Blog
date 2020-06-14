@@ -23,19 +23,19 @@ I’m not going to explain why because billions of people on this planet do not 
 
 These three commands solve the issue:
 
-```console
+```bash
 history -c && history -w && exit
 ```
 
 What is better is to save the ‘messy’ history before clearing the buffer:
 
-```console
+```bash
 history -w ~/Desktop/history_bak.txt
 ```
 
 What I am fond of doing is sorting `history_bak.txt` and removing duplicates—like this:
 
-```console
+```bash
 sort history_bak.txt | uniq > history_bak_tmp.txt
 ```
 

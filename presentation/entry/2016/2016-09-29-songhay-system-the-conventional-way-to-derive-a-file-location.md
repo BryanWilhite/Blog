@@ -41,19 +41,19 @@ if (!File.Exists(myPath)) throw new FileNotFoundException("The expected file is 
 
 Where `FrameworkAssemblyUtility.GetPathFromAssembly()` method is part of my `SonghayCore` source code [on GitHub](https://github.com/BryanWilhite/SonghayCore/blob/master/Songhay/FrameworkAssemblyUtility.cs). It may help to mention that this utility method supports relative paths like this:
 
-```console
+```plaintext
 ..\..\foo\bar\my-file.json
 ```
 
 …as well as the typical ones like this:
 
-```console
+```plaintext
 \foo\bar\my-file.json
 ```
 
 …and the ‘properly-formatted’ ones like this:
 
-```console
+```plaintext
 foo\bar\my-file.json
 ```
 
@@ -61,13 +61,13 @@ The parent directory characters (`..\`) are telling my utility method to move to
 
 Also, should a non-relative path (a *rooted* path) be passed to `FrameworkAssemblyUtility.GetPathFromAssembly()`, an exception will be thrown so this will not work:
 
-```console
+```plaintext
 c:\foo\bar\my-file.json
 ```
 
 By the way, I’ve noticed that paths like this actually work in Windows:
 
-```console
+```plaintext
 c:\foo\bar\..\..\parent\my-file.json
 ```
 

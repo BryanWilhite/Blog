@@ -34,7 +34,7 @@ This means `Autofac.Mef` was erroneously upgraded *by me* to version 4.0, breaki
 
 The drama does not end there. We also have this:
 
-```console
+```shell
 'Autofac.Owin 4.0.0' is not compatible with 'Autofac.Mvc5.Owin 3.1.0 constraint: Autofac.Owin (>= 3.1.0 && < 4.0.0)', 'Autofac.WebApi2.Owin 3.3.0 constraint: Autofac.Owin (>= 3.1.0 && < 4.0.0)'. 0
 ```
 

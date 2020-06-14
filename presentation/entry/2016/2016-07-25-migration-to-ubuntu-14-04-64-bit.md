@@ -23,7 +23,7 @@ This machine is set up with 14.04 LTS 64-bit on a single 32GB virtual drive. I d
 
 These are the initial command line things done:
 
-```console
+```bash
 sudo apt-get install unity-tweak-tool
 gsettings set org.gnome.desktop.interface cursor-size 48
 gedit ~/.Xresources
@@ -31,7 +31,7 @@ gedit ~/.Xresources
 
 The `.Xresources` file has one line: `Xcursor.size: 48`. The Unity Tweak Tool allows me to set a global font size in the UI. And, speaking of fonts, I am in need of this:
 
-```console
+```bash
 sudo apt-get install ttf-mscorefonts-installer
 ```
 
@@ -45,14 +45,14 @@ The Ubuntu Software Center installed: Chromium, Firefox, Thunderbird, Blender, G
 
 To mirror the A2 Hosting server, I start with these commands:
 
-```console
+```bash
 sudo apt-get install tasksel
 sudo tasksel
 ```
 
 Then I use `tasksel` to setup a LAMP server. I then setup [a MySQL database for my WordPress](https://codex.wordpress.org/Installing_WordPress) site, starting with `mysql --prompt="\v\\h\\d\_(\U)>" -u root -p`. Then `apache2` is groomed with these:
 
-```console
+```bash
 sudo a2enmod actions
 sudo a2enmod headers
 sudo gedit /etc/apache2/apache2.conf
@@ -72,7 +72,7 @@ However, I do notice that I am able to cut and paste between VMWare Host and Gue
 
 I am told that the [Common Internet File System](https://technet.microsoft.com/en-us/library/cc939973.aspx) (CIFS) is the improvement over the Server Message Block (SMB) protocol. So I need to use this to mount (under `/mnt`) host shares, following “Mounting Windows Share on Ubuntu 14.04”:
 
-```console
+```bash
 sudo apt-get install cifs-utils
 sudo mount //Windows10/foo -t cifs -o uid=1000,gid=1000,username=winUser /mnt/foo
 ```
@@ -83,7 +83,7 @@ I notice that I need to `sudo mkdir /mnt/foo` first. (Also the user `winUser` is
 
 “[How to Share Folders in Ubuntu & Access them from Windows 7](http://www.digitalcitizen.life/how-access-ubuntu-shared-folders-windows-7)” is a decent introduction to mounting Ubuntu from Windows. I found these shell commands necessary:
 
-```console
+```bash
 apt-get install -y samba samba-common python-glade2 system-config-samba
 sudo apt-get install libpam-smbpass
 ```

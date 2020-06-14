@@ -59,8 +59,12 @@ The Twitter REST API documentation should introduce itself to newbies by priorit
 
 Once a Twitter application is defined I suggest starting with cURL by selecting the OAuth Tool for the application and press the **See OAuth signature for this request** button. Greg Williams details this in “[Using Twitter’s OAuth Tool](http://greglib.org/using-twitters-oauth-tool/).” From my Ubuntu command line, we have verification that Twitter is working with your account:
 
-```console
-curl --get 'https://api.twitter.com/1.1/favorites/list.json' --data 'count=2&screen_name=BryanWilhite' --header 'Authorization: OAuth oauth_consumer_key="[your key]", oauth_nonce="[nonce]", oauth_signature="[signature]", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1373088858", oauth_token="[token]", oauth_version="1.0"' –verbose
+```bash
+curl ^
+    --get 'https://api.twitter.com/1.1/favorites/list.json' ^
+    --data 'count=2&screen_name=BryanWilhite' ^
+    --header 'Authorization: OAuth oauth_consumer_key="[your key]", oauth_nonce="[nonce]", oauth_signature="[signature]", oauth_signature_method="HMAC-SHA1", oauth_timestamp="1373088858", oauth_token="[token]", oauth_version="1.0"' ^
+    –verbose
 ```
 
 This cURL statement is altered from the one provided by Twitter as it is retrieving just two of my Favorites from my account with get operation, `--get 'https://api.twitter.com/1.1/favorites/list.json'`, with data parameter, `--data 'count=2&screen_name=BryanWilhite'`. The rest of the cURL statement comes from Twitter.

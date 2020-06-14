@@ -71,7 +71,7 @@ The table is telling me immediately that the physical-hardware Bash shell enviro
 
 Since I am *not* a Linux nerd, these are the Bash commands I know I need to run at least once a month (six times over):
 
-```console
+```bash
 sudo apt-get update
 sudo apt-get dist-upgrade
 sudo apt-get upgrade

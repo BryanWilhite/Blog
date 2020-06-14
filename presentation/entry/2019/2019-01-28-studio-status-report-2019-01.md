@@ -39,7 +39,7 @@ Microsoft’s Edward Thomson [did not get back to me](https://twitter.com/ethoms
 
 The ‘git on Windows is not working with GitHub credentials’ error is still alive and well:
 
-```console
+```shell
 git push <shows GitHub authentication prompt>
 fatal: MissingMethodException encountered.
     Method not found: 'System.Threading.Tasks.Task`1<System.Net.Http.HttpResponseMessage> Microsoft.Alm.Authentication.INetwork.HttpPostAsync(Microsoft.Alm.Authentication.TargetUri, System.Net.Http.HttpContent, Microsoft.Alm.Authentication.NetworkRequestOptions)'.

@@ -170,7 +170,7 @@ Come work on [http://mybinder.org/](http://mybinder.org/) they said, it'll be fu
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg" />](http://songhayblog.azurewebsites.net/)
 the [@azure](https://twitter.com/@azure) folks cannot keep up with the [@aspnet](https://twitter.com/@aspnet) folks because `ErrorCode = '0x80004005' : 80008096` tells me so => [@DamianEdwards](https://twitter.com/@DamianEdwards), [@davidfowl](https://twitter.com/@davidfowl) 
 
-```console
+```plaintext
 'dotnet .\[https://t.co/tD2bn3IZED.dll](https://t.co/tD2bn3IZED.dll)', ErrorCode = '0x80004005' : 80008096
 ``` [https://twitter.com/BryanWilhite/status/1153384920540073984/photo/1](https://twitter.com/BryanWilhite/status/1153384920540073984/photo/1)
 

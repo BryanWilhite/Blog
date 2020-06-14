@@ -21,7 +21,7 @@
 
 My conventional drive E:\ (`SonghayHomeDrive`) has been moved to this new virtual machine (VM). This move migrated the serious permission problems I was trying to ignore on my last VM. My 2009 FunkyKB article, “[Windows Server 2008: Notes on Moving a Hard Drive to a New Machine; Orphaned SIDs; TAKEOWN.EXE; ICACLS.EXE; Get-Acl; Set-Acl](http://songhaysystem.com/kb/number/2076072285/subject/winos),” would have helped a great deal to get the problem fixed instead of ignored. The first two steps mentioned in this article were definitely needed. In addition, I took a screenshot of this command:
 
-```console
+```powershell
 ICACLS \myRootShareFolder ^
     /grant SYSTEM: (CI) (OI) (IO) (F) ^
     /grant Administrators: (CI) (OI) (IO) (F) ^
@@ -34,7 +34,7 @@ ICACLS \myRootShareFolder ^
 
 Taking this new pattern with my 2009 notes, we might work with this script:
 
-```console
+```powershell
 TAKEOWN /f E:\myRootShareFolder /a
 ICACLS E:\myRootShareFolder /reset /t
 ICACLS \myRootShareFolder ^

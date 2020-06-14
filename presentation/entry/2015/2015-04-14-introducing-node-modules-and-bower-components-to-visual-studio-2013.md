@@ -46,7 +46,7 @@ The first two folders, `\nodejs` and `\npm`, come by default after doing the ins
 
 (This is a bit of overkill, but it’s a reminder that I can change the location of the default bower components folder.) Now, I can run that classic line in the “Install Bower” section of [http://bower.io/](http://bower.io/) and my other basic packages:
 
-```console
+```bash
 npm install -g bower
 npm install -g bower-json
 npm install -g gulp

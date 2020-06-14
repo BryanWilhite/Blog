@@ -25,7 +25,7 @@ Install one of the recommended Ruby installers [at rubyinstaller.org](http://rub
 
 Use the **Start Command Prompt with Ruby** shortcut and enter the same command as you would on Linux:
 
-```console
+```shell
 gem install sass --pre
 ```
 
@@ -33,19 +33,19 @@ gem install sass --pre
 
 Click the **Environment Variables…** button under System Properties and append this:
 
-```console
+```plaintext
 ;C:\Ruby22-x64\bin
 ```
 
 Note: you should not have to do this when you check that ‘update path option’ in the ruby installer. This appended path allows us to call sass directly (from the conventional `\styles` folder), for development:
 
-```console
+```shell
 sass _body.scss styles.css -E utf-8
 ```
 
 …and production:
 
-```console
+```shell
 sass _body.scss styles.min.css --style=compressed -E utf-8
 ```
 

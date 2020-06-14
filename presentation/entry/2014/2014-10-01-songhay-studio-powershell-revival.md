@@ -25,7 +25,7 @@ Here’s what I have of late:
 
 ## How to Display Free Memory: `(Get-WMIObject Win32_OperatingSystem)|Get-Member|Out-Host –Paging`
 
-```console
+```powershell
 (Get-WMIObject Win32_OperatingSystem).FreePhysicalMemory.ToString("#,###,000")
 
 (Get-WMIObject Win32_OperatingSystem).TotalVisibleMemorySize.ToString("#,###,000")

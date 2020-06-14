@@ -25,7 +25,7 @@ Last month [I called](http://songhayblog.azurewebsites.net/entry/2020-02-23-stud
 
 The clear and present error message was:
 
-```console
+```plaintext
 A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
 ```
 
