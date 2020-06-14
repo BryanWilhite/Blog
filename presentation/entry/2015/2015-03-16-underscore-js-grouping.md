@@ -35,7 +35,7 @@ We now rely on the order returned by the browser when running for key in myObj. 
 
 To me this effectively means that Underscore JS `_.groupBy()` output is incompatible with Angular JS. So I might have rolled out of bed this morning with the assumption that I can do this:
 
-```javascript
+```js
 $scope.groups = _($scope.vm.data)
         .groupBy(this.indexGroupingSelected.value);
 

@@ -29,7 +29,7 @@ When I use the variable `vm`, I am conventionally telling myself (because I’m 
 
 Now, the angular documentation does *not* talk about how to fill `$scope.groups`—to me this is an Underscore thing. I use `_.chain()` (with `pairs()` and `map()`) in `$scope.vm.setGroups()` to fill `$scope.groups`:
 
-```javascript
+```js
 setGroups: function() {
     $scope.groups = _($scope.vm.data)
         .chain()
@@ -57,7 +57,7 @@ My two code blocks above use `$scope.vm.indexGroupingSelected`. My use of *Selec
 
 Declaring `ng-model` in a `select` element binds the currently selected option in `$scope.options`. Again, I notice that I cannot use `$scope.vm.options`—I *have to* use `$scope.options`. In my Angular Controller, I fill my options like this:
 
-```javascript
+```js
 $scope.options = [{
     label: 'by Date',
     sortDescending: true,

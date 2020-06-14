@@ -51,7 +51,7 @@ A very powerful concept (for me at the moment) that allows me to break blocks of
 
 In the case of my gallery, I use `readyMegaGallery``()`. This is called inside of `$(window.document).ready(``)` like this:
 
-```javascript
+```js
 $(window.document).ready(function () {
     var flow = $('#GalleryContainer');
     ```html
