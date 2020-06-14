@@ -35,8 +35,10 @@ Here’s what I have of late:
 PM> Get-Package -Updates | ConvertTo-Html | Out-File ("{0}\Desktop" -f (Get-Item Env:\USERPROFILE).Value)*   Use tab key for IntelliSense (can be mixed up with ctrl+space).
 ```
 
-* Enter `Get-Package -Updates` to see what’s out of date in Solution.
-* Use `Install-Package -IgnoreDependencies` to prevent ‘excessive’ dependencies from being added to a project.
-* Package Manager Reference: [http://docs.nuget.org/docs/reference/package-manager-console-powershell-reference](http://docs.nuget.org/docs/reference/package-manager-console-powershell-reference)[<img alt="Things to do at the Microsoft Store with my youngest son" src="https://farm3.staticflickr.com/2828/9217848637_7dc13155ff_z_d.jpg">](https://www.flickr.com/photos/wilhite/9217848637/in/set-72157625087343217 "Things to do at the Microsoft Store with my youngest son")
+- Enter `Get-Package -Updates` to see what’s out of date in Solution.
+- Use `Install-Package -IgnoreDependencies` to prevent ‘excessive’ dependencies from being added to a project.
+- Package Manager Reference: [http://docs.nuget.org/docs/reference/package-manager-console-powershell-reference](http://docs.nuget.org/docs/reference/package-manager-console-powershell-reference)
+
+[<img alt="Things to do at the Microsoft Store with my youngest son" src="https://farm3.staticflickr.com/2828/9217848637_7dc13155ff_z_d.jpg">](https://www.flickr.com/photos/wilhite/9217848637/in/set-72157625087343217 "Things to do at the Microsoft Store with my youngest son")
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
