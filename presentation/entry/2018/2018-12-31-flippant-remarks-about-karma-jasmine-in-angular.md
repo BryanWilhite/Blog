@@ -35,7 +35,7 @@ One, [small introduction to Karma-Jasmine](https://github.com/BryanWilhite/nodej
 
 Unless the `--spec=false` option is explicitly used, `ng generate component` [[docs](https://angular.io/cli/generate#component)] will auto-generate a Jasmine spec file like this:
 
-```typescript
+```ts
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { MyComponent } from './my.component';
@@ -70,9 +70,7 @@ One way to easily be confused by the Karma-Jasmine combo is not really, really u
 The auto-generated test above might be for a component with an HTML file like this:
 
 ```html
-<span class="kw"><div</span><span class="ot"> class=</span><span class="st">"css-class"</span><span class="kw">></span>]()<span class="kw"><app-my-child</span><span class="ot"> [prop1]=</span><span class="st">"foo.bar"</span><span class="ot"> [prop2]=</span><span class="st">"fuBar.prop3"</span><span class="kw">></app-my-child></span>]()[<span class="kw"></div></span>]()</code>
-
-</div>
+<app-my-child [prop1]="foo.bar" [prop2]="fuBar.prop3"></app-my-child>
 ```
 
 By default, the test will likely throw a very verbose error like this:
@@ -86,7 +84,7 @@ Failed: Template parse errors:
 
 We need to tell our `TestBed` to ignore “custom” elements like `app-my-child`:
 
-```typescript
+```ts
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
@@ -127,7 +125,7 @@ The `NO_ERRORS_SCHEMA` remedy might be followed by another, more mysterious Jasm
 
 What is happening in our HTML example above is the null value of `foo` in the binding `foo.bar` and the null value of `fuBar` in the binding `fuBar.prop3`. The typescript of a component backing these bindings might look like this:
 
-```typescript
+```ts
 import { Component, OnInit } from '@angular/core';
 import { FooService } from '../../services/foo.service';
 
@@ -150,7 +148,7 @@ ngOnInit() {
 
 We see that `fuBar` is an `@Input` property and `foo` is injected as a service. To address these members of the component, we update our Jasmine spec:
 
-```typescript
+```ts
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
@@ -190,7 +188,7 @@ describe(MyComponent.name, () => {
 
 This updated spec should still throw the same cryptic error, `[object ErrorEvent] thrown`, because, while we *did* address `fuBar`, we did *not* provide a value for `FooService`. It is often useful to provide a null value for a service to show that the service might not be necessary and should be removed from the component. Let’s flippantly provide a value for `FooService`:
 
-```typescript
+```ts
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
@@ -232,7 +230,7 @@ describe(MyComponent.name, () => {
 
 The spec should now be valid. Now we can actually specify an interesting behavior (write an actual test). Let’s test whether `foo.loadBar()` was called by *spying* on it. We can replace `fooService` with the value of `createSpyObj()` [[docs](https://jasmine.github.io/api/2.8/jasmine.html#.createSpyObj)]:
 
-```typescript
+```ts
 import { NO_ERRORS_SCHEMA } from '@angular/core';
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
@@ -287,12 +285,12 @@ In typescript, `fooService` will be of type `any`. So, when we see the `calls` o
 Had our HTML been like this:
 
 ```html
-<div class="css-class"><app-my-child prop1]="foo?.bar" prop2="fuBar?.prop3"></app-my-child></div>
+<app-my-child prop1]="foo?.bar" prop2="fuBar?.prop3"></app-my-child>
 ```
 
 We could have avoided writing these lines of spec code:
 
-```typescript
+```ts
 fooService.bar = null;
 …
 component.fuBar = { prop3: null };
@@ -308,7 +306,7 @@ In my example above, you see me explicitly setting the value of `fuBar`. To test
 
 I am very, very certain that Angular team does not recommend constructing a mock inline as we have seen above:
 
-```typescript
+```ts
 const loadBarMethodName = 'loadBar';
 const fooService = jasmine.createSpyObj(FooService.Name, [loadBarMethodName]);
 fooService.bar = null;
@@ -324,7 +322,7 @@ Commenting out `fixture.detectChanges()` in specs might prevent the spec from th
 
 When a test for a service is generated (with `ng generate service` [[docs](https://angular.io/cli/generate#service)]) the main difference is the use of `inject` (also from the Angular team):
 
-```typescript
+```ts
 it('should be created', inject([MyService], (service: MyService) => {
     expect(service).toBeTruthy();
 }));
@@ -332,7 +330,7 @@ it('should be created', inject([MyService], (service: MyService) => {
 
 The other difference is that you cannot use `overrideComponent` for a service spec; set `providers` in `configureTestingModule`:
 
-```typescript
+```ts
 beforeEach(async(() => {
     TestBed.configureTestingModule({
         imports: [HttpClientTestingModule, RouterTestingModule],
