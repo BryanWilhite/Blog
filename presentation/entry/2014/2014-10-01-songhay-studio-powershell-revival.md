@@ -23,7 +23,7 @@
 
 Here’s what I have of late:
 
-## How to Display Free Memory: `(Get-WMIObject Win32_OperatingSystem)|Get-Member|Out-Host –Paging`
+## How to Display Free Memory: <code>(Get-WMIObject Win32_OperatingSystem)|Get-Member|Out-Host –Paging</code>
 
 ```powershell
 (Get-WMIObject Win32_OperatingSystem).FreePhysicalMemory.ToString("#,###,000")
