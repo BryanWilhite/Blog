@@ -31,7 +31,7 @@ What we see in the gist is an Angular service with three methods: `cacheData()`,
 
 These two lines of code represent the “secret sauce” of this dirt-simple design:
 
-```javascript
+```js
 var cachedResponse = this.getDataFromCache(uri);
 return cachedResponse? $q.when(cachedResponse) : $http.get(uri).then(…);
 ```
@@ -42,7 +42,7 @@ That last line—that ternary operation featuring `$q.when()` ([from Angular JS]
 
 I started using `ngView` to *avoid* delving into building my own directives. In “[My Angular JS 1.x single-page layout](http://songhayblog.azurewebsites.net/),” I am making myself familiar with the need to use *very* simple custom directives—typically header and footer directives, wrapping `ngView`—to give me a little headroom in layout expressiveness. Here’s an example of a header Directive:
 
-```javascript
+```js
 var doHeaderDirective = function () {
     return {
         restrict: "E",
@@ -78,7 +78,7 @@ My little [gist about paging and sorting](https://gist.github.com/BryanWilhite/5
 
 The Pagination Service has only one expectation for the data it uses: the data must be an array. The `start()` method starts pagination and it called from the controller:
 
-```javascript
+```js
 $scope.clientVM.dataService.loadData("index-" + indexMetaId).then(function (response) {
     that.data = _(response.data.ChildDocuments)
         .chain()
@@ -118,7 +118,7 @@ data-ng-repeat="i in groups | filter:vm.filterGroups
 
 In this particular case, the filter function is part of a View Model that is entirely devoted to filtering:
 
-```javascript
+```js
 $scope.vm = {
     filterExpression: null,
     filterGroup: function (data) {
