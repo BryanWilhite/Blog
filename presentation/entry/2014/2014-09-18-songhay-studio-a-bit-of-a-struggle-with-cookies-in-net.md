@@ -44,7 +44,7 @@ My flippant remarks above flippantly reveal that there are (at least) three diff
 
 So here in the studio, I had to use cookies, following my own guidance. On the server side I defined `ClientCookieWrapper`. This class has a public `SetCookie()` method and a private `GetCookie()` method. The intent behind these accessors is to say, ‘Use `SetCookie()` in a service call to update/generate/delete cookies; use `GetCookie()` to fill in `ClientCookieWrapper` properties specific to the application domain. Here’s what `ClientCookieWrapper.SetCookie()` looks like:
 
-```c#
+```cs
 public void SetCookie(string selected)
 {
     var cookieValue = this._defaultCookieValue.Replace(":selected=", "=");

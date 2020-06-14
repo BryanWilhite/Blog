@@ -54,7 +54,7 @@ It is the responsibility of the ResolveEventHandler for this event to return the
 
 For me, after over 15 years of .NET, this is the first event I’ve encountered that actually has a return value. Here’s a snippet that’s kind of cool to me right about now:
 
-```c#
+```cs
 AppDomain.CurrentDomain.AssemblyResolve += (s, e) =>
 {
     if(assemblyDictionary == null) return null;
@@ -69,7 +69,7 @@ AppDomain.CurrentDomain.AssemblyResolve += (s, e) =>
 
 My `assemblyDictionary` object is my data-centric style in play. This object is a `Dictionary<string, Assembly>` that is loaded by DAR like this:
 
-```c#
+```cs
 if(configItem.DarConfigurationItemNameValuePairs != null)
 {
     assemblyDictionary = new Dictionary<string,Assembly>();

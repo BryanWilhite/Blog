@@ -27,7 +27,7 @@ So let me state the original desire, since the previous paragraph flippantly sta
 
 Speaking of ease, my `ShouldRouteToIndexController()` Visual Studio Test method shows that I can test routes with just three lines of code:
 
-```c#
+```cs
 [TestMethod]
 [TestProperty("jsonPath", @"Songhay.Blog.Tests\ShouldRouteToIndexController.json")]
 public void ShouldRouteToIndexController()
@@ -123,7 +123,7 @@ I am sure that Microsoft have very great reasoning around why Visual Studio pref
 
 This conventional folder layout leads to my last extension method for today, `TestContext.ShouldGetProjectsFolder()`. It is used in both the tests mentioned in this article. This is a simple wrapper around one of my very old utility-class (or “helper” class) methods `FrameworkAssemblyUtility.GetAssemblyDirectory()` (a simple wrapper around `Path.GetDirectoryName(targetAssembly.Location)`):
 
-```c#
+```cs
 /// <summary>
 /// Test context extensions: should get projects folder.
 /// </summary>

@@ -29,7 +29,7 @@ Experimenting with this little button allows me to choose how I should approach 
 
 I need to [list Playlist Item data](https://developers.google.com/youtube/v3/docs/playlists/list) by the `playlistId` associated with the Channel under my account. This can be done without OAuth with my Server API Key. The `playlistId` value comes from `contentDetails` associated with the JSON returned [listing by Channel](https://developers.google.com/youtube/v3/docs/channels/list). From a JSON.NET point of view, the search for `playlistId` looks like this:
 
-```c#
+```cs
 var playlistId = jA[0]["contentDetails"]["relatedPlaylists"]["uploads"].Value<string>();
 ```
 
@@ -37,7 +37,7 @@ It does not matter what `jA[0]` is apart from being the first element in a JSON.
 
 Once I have the `playlistId` I can run a nasty, out-of-fashion VSTEST like this:
 
-```c#
+```cs
 [TestMethod]
 [TestProperty("channelPlaylistId", "UUp4cuWZKxR5ZNbcWrP1DozA")
 [TestProperty("googleServerApiKey", "XXXXXXXXX")]
@@ -64,7 +64,7 @@ The methods `DownloadToString()` and `EscapeInterpolation()` are my personal cra
 
 None of the above is possible without a Channel ID. The quickest way I know how to get a bunch of these IDs is by reading my own subscription data. This is the part that will require OAuth so I have to run something like this in Visual Studio (using `Google.Apis`, `Google.Apis.Auth` and `Google.Apis.YouTube.v3` NuGet packages):
 
-```c#
+```cs
 [TestMethod]
 [TestProperty("googleClientMetadataFile", "GoogleClientMetadata.json")]
 [TestProperty("googleSubscriptionsFile", "GoogleSubscriptions.json")]

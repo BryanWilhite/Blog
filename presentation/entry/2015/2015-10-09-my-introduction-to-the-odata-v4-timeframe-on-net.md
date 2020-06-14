@@ -31,7 +31,7 @@ I have turned to [a LINQPad file (as a GitHub gist)](https://gist.github.com/Bry
 
 The `Microsoft.Owin.SelfHost` (with `Microsoft.Owin`, `Microsoft.AspNet.WebApi.Owin`, and `Owin`) Nuget Package gives us an in-memory, tiny server. This means server code can be tested from a .NET web server that is completely independent of IIS or IIS Express. When I attempt to show this new technology to .NET veterans, oftentimes this technology is so radically different (and just too simple) that it’s hard to understand what’s being said! It may be better to show rather than tell. The gist above shows just how simple the standard [OWIN](http://owin.org/) implementation is to use:
 
-```c#
+```cs
 var baseAddress = "http://localhost:9000/";
 var client = new HttpClient();
 try
@@ -62,7 +62,7 @@ finally
 
 The single call `WebApp.Start<Startup>()` our way into OWIN. The class definition `Startup` has one, conventional method, `Configuration()`, that handles `HttpConfiguration` just like the conventional ASP.NET MVC `*Config` static classes in the `App_Start` folder. Our OData concerns for [EDM model](http://chriswoodruff.com/2011/12/04/31-days-of-odata-day-3-odata-entity-data-model/) building and routing are handled in this `Startup.Configuration()` method:
 
-```c#
+```cs
 var builder = new ODataConventionModelBuilder();
 builder
     .EntitySet<Product>("Product")

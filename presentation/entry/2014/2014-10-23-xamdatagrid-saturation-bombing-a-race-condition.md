@@ -23,7 +23,7 @@ Everything I am going to write in this post is based on the assumption that any 
 
 I can use Prism-based messaging to send the “current” `FilteredInDataItems` payload to the backing View Model for processing—in my squalid case, the ‘processing’ has to do with setting the background color of rows (by setting a View Model Boolean “flag”) based on irregular data (not on regular position). In Prism parlance we “publish” a message (or “event”—which is a questionable term to me), it follows that I have `BombFilteredInDataItems()` in my view hosting the `XamDataGrid`:
 
-```c#
+```cs
 void BombFilteredInDataItems(string key)
 {
     Action sendPrismMessage = () =>

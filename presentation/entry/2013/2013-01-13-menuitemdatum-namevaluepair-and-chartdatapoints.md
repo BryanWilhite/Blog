@@ -23,7 +23,7 @@ I developed `MenuItemDatum`, `NameValuePair` and `ChartDataPoints` as common dat
 
 Here’s a sample `ClientMetadata` class:
 
-```c#
+```cs
 public class ClientMetadata
 {
     public IEnumerable<NameValuePair> Attributes { get; set; }

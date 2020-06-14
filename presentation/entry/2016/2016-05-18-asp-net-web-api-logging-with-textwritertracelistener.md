@@ -47,7 +47,7 @@ Install NuGet package `Microsoft.AspNet.WebApi.Tracing`.
 
 Add this line to `WebApiConfig.Register()`:
 
-```c#
+```cs
 config.EnableSystemDiagnosticsTracing();
 ```
 

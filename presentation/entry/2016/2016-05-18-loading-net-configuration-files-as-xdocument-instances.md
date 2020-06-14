@@ -23,13 +23,13 @@ There is the general-purpose `ConfigurationManager` but there is also the HTTP-c
 
 Now it *is* possible to use `WebConfigurationManager.OpenWebConfiguration()` to load a config file on a remote server. But this operation is technically in the context of Remote Administration and requires enabling this feature in IIS. So this single statement requires a lot of work:
 
-```c#
+```cs
 var config = WebConfigurationManager.OpenWebConfiguration(null, "dev.site.com", null, "REMOTE.ONE.AD");
 ```
 
 …when all you want to do is this:
 
-```c#
+```cs
 var d = XDocument.Load(@"\\REMOTE.ONE.AD\www\Web.config");
 ```
 

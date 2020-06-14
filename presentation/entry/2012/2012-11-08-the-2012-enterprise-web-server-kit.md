@@ -33,7 +33,7 @@ Should someone ever ask me, “What is the one NuGet package you cannot develop 
 
 So because of this warm, fuzzy ELMAH security blanket, I was inspired to write something like this:
 
-```c#
+```cs
 IOrderedQueryable<Segment> segments = null;
 try
 {
@@ -82,7 +82,7 @@ Introductory article…
 
 </td><td>
 
-```c#
+```cs
 protected override void OnException(ExceptionContext filterContext)
 {
     base.OnException(filterContext);
@@ -159,7 +159,7 @@ I need Quartz.net when I need to run “back-end” jobs, automatically—accord
 
 There is a way to get strongly-typed objects directly from `web.config` (see “[How to: Create Custom Configuration Sections Using IConfigurationSectionHandler](http://msdn.microsoft.com/en-us/library/ms228056.aspx)”) but the technique recommended here *feels* faster and easier to understand: in the `MyApp.Models` namespace/project, I define an `ApplicationSettings` class with a constructor like this:
 
-```c#
+```cs
 public ApplicationSettings()
 {
     var appSettings = ConfigurationManager.AppSettings;

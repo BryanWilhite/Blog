@@ -45,7 +45,7 @@ In our terrifying code sample above we can see that `MyNumericProperty` has a fa
 
 My years of experience with building XAML applications saw *no* need for calling `RaisePropertyChanged()` outside of its setter. This means that my bind-able properties always look like this:
 
-```c#
+```cs
 public long MyNumericProperty
 {
     get { return this._myNumericProperty; }

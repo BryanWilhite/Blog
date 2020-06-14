@@ -32,7 +32,7 @@ The `SonghayCore` Project is essentially the .NET 4+ version of the Songhay Proj
 
 By the way, folks, that collection I wrote looks like this:
 
-```c#
+```cs
 using System.Collections.ObjectModel;
 namespace Songhay.Collections
 {

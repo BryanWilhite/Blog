@@ -47,7 +47,7 @@ Currently `AppDataService` [[GitHub](https://github.com/BryanWilhite/Songhay.Das
 
 `AppDataService` was re-factored, adding the `loadJson()` method [[ref](https://github.com/BryanWilhite/Songhay.Dashboard/issues/16#issuecomment-418229660)] so it can be used like this:
 
-```c#
+```cs
 @Injectable()
     export class YouTubePresentationDataServices {
         constructor(client: Http) {

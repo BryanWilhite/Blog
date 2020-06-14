@@ -34,7 +34,7 @@ We can see why this class can be so huge when it concerns itself with the Comman
 
 Inside of `ClientViewModel.RiaOperations.cs` are a bunch of RIA Services calls. My tendency these days is to centralize *all* RIA service calls in this file. My service calls are private methods with the prefix `DoRiaOperationFor`. So for “classic” Silverlight at the beginning of the Visual Studio 2010 timeframe, we would have this:
 
-```c#
+```cs
 void DoRiaOperationForCustomerApproval(IEnumerable<Customer> data)
 {
     var operation = context.DoCustomerApprovals(data);
@@ -51,7 +51,7 @@ We see that `DoRiaOperationForCustomerApproval()` approves customers. After the 
 
 Since `DoRiaOperationForCustomerApproval()` is not run in parallel with other operations, we can see that using the Task Parallel Library is not very helpful:
 
-```c#
+```cs
 void DoRiaOperationForCustomerApproval(IEnumerable<Customer> data)
 {
     context.DoCustomerApprovals(data).AsTask()
@@ -69,7 +69,7 @@ The syntax looks almost the same as the event-based pattern out of the box. But 
 
 After installing the NuGet package, `Microsoft.CompilerServices.AsyncTargetingPack`, I can use Kyle’s extension method to obtain this pattern:
 
-```c#
+```cs
 async void DoRiaOperationForCustomerApproval(IEnumerable<Customer> data)
 {
     var task = await context.DoCustomerApprovals(data).AsTask();

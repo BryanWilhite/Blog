@@ -21,7 +21,7 @@
 
 The instance of `NavigationResult` in the “navigation callback” of `IRegionManager.RequestNavigate()` returned an “object reference not set to an instance of an object” (null reference) exception as Navigation failed “silently.” This exception disappeared after several hours of investigation when imperative Exports were removed:
 
-```c#
+```cs
 #region builders:
 
 var rflContext = new RegistrationBuilder();

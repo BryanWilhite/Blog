@@ -39,7 +39,7 @@ I am familiar with tuples from a .NET Generics point of view but what Yan is doi
 
 However, in the middle of writing/rambling this stuff I dropped off and ran a test:
 
-```c#
+```cs
 [TestMethod]
 public void ShouldSelectIntoTuples()
 {
@@ -61,7 +61,7 @@ ORDER BY
 
 It turns out that this test fails because `SqlQuery<T>()` requires types with parameter-less constructors. So I dropped back to this:
 
-```c#
+```cs
 [TestMethod]
 public void ShouldSelectIntoProjectionClass()
 {

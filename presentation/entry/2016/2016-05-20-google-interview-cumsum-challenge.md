@@ -27,7 +27,7 @@ Microsoft products like [Typescript](https://www.typescriptlang.org/) are being 
 
 As is customary, after my failure during the interview, I took some time with LINQPad to solve the problem alone. The interviewer supplied me with the signature of this function and two examples of output:
 
-```c#
+```cs
 //cumsum(int[] array, int startPos, int count);
 var set = new[] { 4, 1, 0, 3, 2 };
 cumsum(set, 3, 4) == new[] { 3, 5, 9, 10 };
@@ -36,7 +36,7 @@ cumsum(set, 4, 2) == new[] { 2, 6 };
 
 He also mentioned that `count` can extend beyond the upper bound of the array, leading me to add that the logic should *wrap around* the end of the array, pulling items from the beginning. I stated *within the allotted time* of the interview that I would work on developing a generic function that can perform this ‘wrap’ operation. What I failed to do was produce this function seconds after my statement (which means that I am not worthy of Google). Anyway, this is my wrapping extension method using LINQ:
 
-```c#
+```cs
 public static IEnumerable<T> Wrap<T>(this IEnumerable<T> enumerable, int startPos, int count)
 {
     if (enumerable == null) return Enumerable.Empty<T>();
@@ -51,20 +51,20 @@ public static IEnumerable<T> Wrap<T>(this IEnumerable<T> enumerable, int startPo
 
 In LINQPad I can run this:
 
-```c#
+```cs
 var set = new[] { 4, 1, 0, 3, 2 };
 set.Wrap(3, 4).Dump();
 ```
 
 and `Dump()` out this:
 
-```c#
+```cs
 new[] { 3, 2, 4, 1 }
 ```
 
 Now, I have no idea why anyone would want to do this because I am not an R programmer or a serious student of statistics (and it has been decades since I wrote the words *Eigen values*). My ignorance does not stop me from moving to the next step in the form of another LINQ extension method:
 
-```c#
+```cs
 public static IEnumerable<Tint> ToCulmulativeSum(this IEnumerable<Tint> enumerable, int startPos, int count)
 {
     if (enumerable == null) return Enumerable.Empty<Tint>();
@@ -77,7 +77,7 @@ public static IEnumerable<Tint> ToCulmulativeSum(this IEnumerable<Tint> enumerab
 
 This `ToCulmulativeSum()` method is the correct solution by my standards—but, as whined about earlier, it is not sufficient for Google. In order to be a “smart” developer, I would have to implement every single LINQ extension method used in the examples above. Money cannot buy everything and this is intellectually (and aesthetically) satisfying enough for me:
 
-```c#
+```cs
 var set = new[] { 4, 1, 0, 3, 2 };
 set.ToCulmulativeSum(3, 4).Dump();
 set.ToCulmulativeSum(4, 2).Dump();

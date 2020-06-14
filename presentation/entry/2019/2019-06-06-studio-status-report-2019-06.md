@@ -61,7 +61,7 @@ My renewed interest in Sway was announced [in a month-5 tweet](https://twitter.c
 
 ## how to download an MP3 file from Azure BLOB Storage with ASP.NET Core 2.2
 
-```c#
+```cs
 /// <summary>
 /// Gets the presentation BLOB for progressive audio.
 /// </summary>
@@ -85,7 +85,7 @@ public async Task<IActionResult> GetPresentationBlobForProgressiveAudio(string p
 
 The most important line here is:
 
-```c#
+```cs
 if (result.BlobStream.Position > 0) result.BlobStream.Seek(0, SeekOrigin.Begin);
 ```
 

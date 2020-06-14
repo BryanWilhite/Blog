@@ -36,7 +36,7 @@ As of today, it is not possible to use the Azure Portal to generate an `azureblo
 
 I am not a Test-Driven Development type of guy but I do have opinions and I like to be as clean and neat as possible. All of these quirks drive me to mention the need to `DELETE` the things I `POST` to Azure for the need to undo any mistake I might make. So here is my “confusing” way to `DELETE`:
 
-```c#
+```cs
 [TestCategory("Integration")]
 [TestMethod]
 [TestProperty("apiBase", "https://my-azure.search.windows.net")]
@@ -77,13 +77,13 @@ https://my-azure.search.windows.net/{componentName}/{itemName}?api-version=2015-
 
 When we change this line:
 
-```c#
+```cs
 request.Method = "DELETE";
 ```
 
 …to this:
 
-```c#
+```cs
 request.Method = "GET";
 ```
 

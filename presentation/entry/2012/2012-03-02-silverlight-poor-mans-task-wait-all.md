@@ -27,7 +27,7 @@ Silverlight 4 does not have the Task Parallel Library. [According to Danny Shih]
 
 My scribble looks like this:
 
-```c#
+```cs
 var asyncOperationsList = new bool[] { false, false };
 var asyncOperationsComplete = new Action(() =>
 {
@@ -60,7 +60,7 @@ this.AddToAggregateCatalog(
 
 I then formalized my hack with this limited-edition, commemorative class:
 
-```c#
+```cs
 /// <summary>
 /// Defines the grouping and completion-tracking of asynchronous operations.
 /// </summary>
@@ -100,7 +100,7 @@ public class AsyncOperationGroup
 
 So now my code-smell wafts like this:
 
-```c#
+```cs
 byte numberOfOperations = 2;
 var catalogs = new DeploymentCatalog[numberOfOperations];
 var operations = new AsyncOperationGroup(numberOfOperations,

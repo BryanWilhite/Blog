@@ -28,7 +28,7 @@ FontFamily="/MyApp;component/Resources/Fonts/#MyFont"
 
 We can express the above imperatively (or “programmatically”) in C#:
 
-```c#
+```cs
 myInstance.FontFamily = new FontFamily(new Uri("pack://application:,,,/", UriKind.Absolute), "/MyApp;component/Resources/Fonts/#MyFont");
 
 myInstance.FontSize = (double)(new FontSizeConverter()).ConvertFrom("96pt");

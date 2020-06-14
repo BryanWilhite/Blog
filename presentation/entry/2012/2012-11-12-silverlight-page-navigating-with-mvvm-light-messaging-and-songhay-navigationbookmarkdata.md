@@ -114,7 +114,7 @@ All Navigation commands are ‘tested’ by `NavigationBookmarkData` to determin
 
 My Generic Web Editor Navigation Frame handles the `Frame.Navigating` event by sending an MVVM Light message of type `LightNavigationMessage<NavigatingCancelEventArgs>`. This event is fired by typing in a hash location in the browser or by an internal Navigation command. My conventional `LightNavigationMessage<T>` checks the location to determine whether it is “well formed”; when it is well-formed then the location is parsed. The message is received in the Client View Model like this:
 
-```c#
+```cs
 Messenger.Default.Register<LightNavigationMessage<NavigatingCancelEventArgs>>(this,
         message =>
         {

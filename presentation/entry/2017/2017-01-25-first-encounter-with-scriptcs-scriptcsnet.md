@@ -25,7 +25,7 @@ scriptcs is useful to me when it just works on Windows *and* Linux. I understand
 
 **The current scriptcs release has no concept of “present working directory.”** Glenn (?) let me know [via @scriptcsnet](https://twitter.com/scriptcsnet/status/822746581761859584) that “it’s coming in 0.17.0, avail in our dev branch…” I wrote a workaround that Glenn is *not* impressed with `EnvironmentUtilities.GetScriptFolder()`, interrogating command-line arguments:
 
-```c#
+```cs
 using System.IO;
 public static class EnvironmentUtilities
 {
@@ -59,7 +59,7 @@ public static class EnvironmentUtilities
 
 **The current scriptcs release cannot handle NuGet 3.x.** Glenn informed me [via @scriptcsnet](https://twitter.com/scriptcsnet/status/824083354249105412) that a fix for this should be on the dev branch. This issue exists for me on both Windows and Linux (and I am using the dev branch on Linux.) I have a horrible workaround for this that involves raiding NuGet package folders (under C# projects) for .NET Standard-ish DLLs and shoving them into a `\scriptcs-bin` folder, allowing me to use the Rosyln-derived `#r` directive. Here is my ‘loader’ script, chock full of these directives:
 
-```c#
+```cs
 #r "Newtonsoft.Json.dll"
 #r "System.IO"
 #r "System.Runtime.dll"
@@ -74,7 +74,7 @@ pubContext.GenerateChapters();
 
 **scriptcs or Rosyln cannot properly parse classes with private members on Linux.** A class as simple as the following will not ‘compile’ (or interpret) properly on Linux:
 
-```c#
+```cs
 public class Foo
 {
     public string Fubar { get; set; }
@@ -86,7 +86,7 @@ I kept getting an `ArgumentOutOfRangeException` error message that can easily ma
 
 I saw the error go away when I did this:
 
-```c#
+```cs
 public class Foo
 {
     public string Fubar { get; set; }
@@ -96,7 +96,7 @@ public class Foo
 
 but *not* this:
 
-```c#
+```cs
 public class Foo
 {
     public string Fubar { get; set; }

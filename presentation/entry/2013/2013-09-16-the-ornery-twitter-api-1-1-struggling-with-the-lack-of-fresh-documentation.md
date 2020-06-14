@@ -33,7 +33,7 @@ What Tom is saying here is not exactly true: what he might say after a little Tw
 
 So: for a .NET developer like me who make apps that don’t matter I recommend installing the NuGet Package `LinqToTwitter` and then doing a little something like this (in ASP.NET MVC space):
 
-```c#
+```cs
 [HttpPost]
 public ActionResult TwitterItems()
 {
@@ -73,7 +73,7 @@ Most of the ‘comical’ misery with Twitter comes in generating the Authorizat
 
 It took me months to find that the authorizer for my limited needs is the `SingleUserAuthorizer` (which should be called—according to Twitter documentation—“application-only-authorizer”?) From my ASP.NET MVC example above we have:
 
-```c#
+```cs
 ITwitterAuthorizer GetLinqToTwitterCredentialsAndAuthorizer()
 {
     var data = new OpenAuthorizationData(ConfigurationManager.AppSettings);

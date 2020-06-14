@@ -28,7 +28,7 @@ In general-purpose programming frameworks there is often not one “right” way
 
 Here is a C# sketch:
 
-```c#
+```cs
 traceSource.TraceVerbose("looking for file: {0}...", myPath);
 if (!File.Exists(myPath))
 {

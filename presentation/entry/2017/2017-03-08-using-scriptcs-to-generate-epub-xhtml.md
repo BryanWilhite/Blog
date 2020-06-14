@@ -31,7 +31,7 @@ My EPUB pipeline starts with an EPUB “seed” based on the handmade set of fil
 
 My scriptcs approach therefore is a combination of reading and editing the EPUB seed using publication metadata in a JSON file and a collection of XHTML templates. This automation starts with `generate-epub.csx`, intending to summarize the automation:
 
-```c#
+```cs
 #load "scriptcs-epub-utility.csx"
 #load "scriptcs-environment-utility.csx"
 #load "scriptcs-markdown-utility.csx"

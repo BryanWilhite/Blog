@@ -27,7 +27,7 @@ After the standard, “tell me a *little* bit about yourself” stuff (which I a
 
 This was not the answer told to me by the interviewer. This is not the answer I looked up on the Internet. My experience as a developer tells me that this *is* the answer. However, on the phone impromptu, I was *not* going remember that string has a `ToCharArray()` method and I was *not* going to remember that LINQ to objects has a `Distinct()` extension method. In fact, immediately after the interview, I pulled out my computer and wrote this solution in LINQPad within an hour:
 
-```c#
+```cs
 var input = "Microsoft Windows";
     input.Dump("input");
 

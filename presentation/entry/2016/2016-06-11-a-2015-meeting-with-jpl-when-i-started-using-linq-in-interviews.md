@@ -33,7 +33,7 @@ So here is the first JPL question:
 
 This is my answer (written in LINQPad):
 
-```c#
+```cs
 Enumerable
     .Range(1, 100)
     .Select(i =>
@@ -63,7 +63,7 @@ Next question:
 
 The first issue is to flatten the tree structure. This can be done with recursion. In C#, we can define an extension method like this:
 
-```c#
+```cs
 public static IEnumerable<TSource> Flatten<TSource>(this IEnumerable<TSource> source, Func<TSource, IEnumerable<TSource>> childGetter)
 {
     if (source == null) return Enumerable.Empty<TSource>();
@@ -79,7 +79,7 @@ public static IEnumerable<TSource> Flatten<TSource>(this IEnumerable<TSource> so
 
 I suppose with a near-infinite tree, we can use `Lazy<TSource>` instead of just `TSource` denoted above. `TSource` is, of course, the type of the tree structure. Let's say `TSource` is `MenuDisplayItemModel`:
 
-```c#
+```cs
 var tree = new []
 {
     new MenuDisplayItemModel

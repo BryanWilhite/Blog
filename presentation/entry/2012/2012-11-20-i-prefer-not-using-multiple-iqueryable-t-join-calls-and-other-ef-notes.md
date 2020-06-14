@@ -29,7 +29,7 @@ I haven’t checked with [Julie Lerman](http://msdn.microsoft.com/en-us/magazine
 
 I have yet to find a situation where I *need* to use `IQueryable<T>.Join()`. This is because (so far) I’ve been tempted to use joins to perform lookups. My problem with this temptation is what I call the ‘cascading anonymous object’ effect—because one rarely does more than one lookup one will be tempted to write multiple `Join()` calls—very messy:
 
-```c#
+```cs
 var ctx = GetContext();
     var statusIdsQuery = ctx.OrderStatuses
         .Select(i => i.OrderStatusId);
@@ -77,7 +77,7 @@ Do you see all that `i.join.join` stuff? Yeesh. This might make a programmer pro
 
 This is my attempt at elegance:
 
-```c#
+```cs
 var ctx = GetContext();
     var statusIdsQuery = ctx.OrderStatuses
         .Select(i => i.OrderStatusId);

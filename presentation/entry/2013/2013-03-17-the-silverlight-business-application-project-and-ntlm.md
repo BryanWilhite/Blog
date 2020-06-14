@@ -27,7 +27,7 @@ One unexpected takeaway from these notes is the assertion that we cannot have NT
 
 In conventional Silverlight `App` constructor, state:
 
-```c#
+```cs
 var webContext = new WebContext();
 webContext.Authentication = new WindowsAuthentication();
 this.ApplicationLifetimeObjects.Add(webContext);
@@ -35,14 +35,14 @@ this.ApplicationLifetimeObjects.Add(webContext);
 
 In `App.Startup`, state:
 
-```c#
+```cs
 WebContext.Current.Authentication.LoadUser(
         operation => Messenger.Default.Send(operation), null);
 ```
 
 The MVVM Light Messenger expects this registration:
 
-```c#
+```cs
 Messenger.Default.Register<LoadUserOperation>(this,
     operation =>
     {

@@ -39,7 +39,7 @@ The way this is done is by building a new [`Swashbuckle.Swagger.Schema`](https:/
 
 I have centralized this code in extension methods. So, for `consumes`, I have this extension method:
 
-```c#
+```cs
 public static Parameter WithAbbreviatedSchema(this Parameter parameter)
 {
     if (parameter == null) return null;
@@ -53,7 +53,7 @@ return parameter;
 
 For `produces`, I have:
 
-```c#
+```cs
 public static Response WithAbbreviatedSchema(this Response response)
 {
     if (response == null) return null;
@@ -67,7 +67,7 @@ return response;
 
 This simple pattern I am showing leads to, “What the hell is `SetAbbreviatedSchema()`?” Here is the answer:
 
-```c#
+```cs
 public static void SetAbbreviatedSchema(this Schema schema, bool isConsumingSchema)
 {
     if (schema == null) return;
@@ -110,7 +110,7 @@ public static void SetAbbreviatedSchema(this Schema schema, bool isConsumingSche
 
 All of these extension methods are wonderful but Swashbuckle will ignore all of this work for `consumes` unless we make sure that `Parameter.schema.@ref` is set to `null`. This, for me, leads to a final extension method:
 
-```c#
+```cs
 public static Parameter WitNullSchemaReference(this Parameter parameter)
 {
     if (parameter == null) return null;
@@ -122,7 +122,7 @@ public static Parameter WitNullSchemaReference(this Parameter parameter)
 
 We can now return to the implementation of `IOperationFilter`, `SwaggerContentTypeOperationFilter`, from [my previous post](http://songhayblog.azurewebsites.net/entry/using-swashbuckle-to-support-swaggerfied-xml-production-and-consumption) with its `ApplyConsumption()` method:
 
-```c#
+```cs
 static void ApplyConsumption(SwaggerContentTypeAttribute swaggerAttribute, Parameter swaggerParameter)
 {
     switch (swaggerAttribute.Tag)
@@ -136,7 +136,7 @@ static void ApplyConsumption(SwaggerContentTypeAttribute swaggerAttribute, Param
 
 and its `ApplyProduction()` method:
 
-```c#
+```cs
 static void ApplyProduction(SwaggerContentTypeAttribute swaggerAttribute, Operation operation)
 {
     Response okResponse = null;
@@ -156,7 +156,7 @@ if (okResponse != null) operation.responses.Add(okResponse.To200Pair());
 
 Now, for the question, “What is going on with that `topLevelTitle` variable in `SetAbbreviatedSchema()`?” This question refers to this (shown above):
 
-```c#
+```cs
 var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
 ```
 

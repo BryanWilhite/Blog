@@ -88,7 +88,7 @@ Back in 2012, in “[Silverlight Page Navigating with MVVM Light Messaging and S
 
 It’s the `NavigationBookmarkData` that can be used to determine whether a Navigation should or should not be cancelled. My `ClientViewModel` has concerns for Messaging and Navigating. Messaging logic supports the `LightNavigationMessage<NavigatingCancelEventArgs>` sent by Client `UserControl`. Navigating logic handles this ‘light-navigation’ message by evaluating it with the `NavigationBookmarkData`. A rough sketch of the handler illustrates:
 
-```c#
+```cs
 void HandleClientNavigating(LightNavigationMessage<NavigatingCancelEventArgs> message)
 {
     navigationBookmarks.SetBookmarkContext(message.TargetLocation);
@@ -112,7 +112,7 @@ However, when it is clear that the “bookmark” (or the navigation target loca
 
 MVVM Commanding is what starts the funky Navigation going through each layer of our onion. The commanding eventually reaches logic that looks like this:
 
-```c#
+```cs
 void DoNavigation(string category, int id)
 {
     var format = this._bookmarks.GetPatternForGetDataFormat();
@@ -183,7 +183,7 @@ Introduces the `NavigationWindow` and `FragmentNavigation` concepts.
 
 “You can get it from the app’s `PhoneApplicationFrame`. It will be accessible from anywhere in the app since every Windows Phone app has a Frame.”
 
-```c#
+```cs
 ((PhoneApplicationFrame)Application.Current
         .RootVisual).Navigate(...);
 ```

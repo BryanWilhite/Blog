@@ -23,7 +23,7 @@ Converting code-first, EF6 Entity models to JSON (with JSON.NET) is more complic
 
 For me, there was no difference between this:
 
-```c#
+```cs
 var segments = GetContext().Segments
         .Include(i => i.ChildSegments)
         .Where(i => (i.ParentSegmentId == null) && i.IsActive.HasValue && i.IsActive.Value)
@@ -32,7 +32,7 @@ var segments = GetContext().Segments
 
 …and this:
 
-```c#
+```cs
 var segments = GetContext().Segments
         .Include(i => i.ChildSegments)
         .Include(i => i.ChildSegments)
@@ -44,7 +44,7 @@ I did not bother run SQL Profiler and dissect the SQL but in both cases there we
 
 So my need for these “grandchild” segments suggests (correctly) that my `Segment` type has a “parent” `Segment`. This “self-join” can cause JSON.NET to throw a circular-reference exception and/or an out-of-memory exception (as it travels from parent to children—and children of children). Moreover, the `Segment` has a Documents collection (where each `Document` has a `Segment`—faithfully duplicated by JSON.NET until it runs out of memory!) To address these issues I have this:
 
-```c#
+```cs
 var documentSettings = new JsonSerializerSettings
 {
     ContractResolver = new InterfaceContractResolver<IDocument>(),
@@ -55,7 +55,7 @@ var documentSettings = new JsonSerializerSettings
 
 What stands out is my `InterfaceContractResolver<IDocument>`, taking the guidance from Newton-King’s “[Serialization using ContractResolver](http://www.newtonsoft.com/json/help/html/ContractResolver.htm).” I’ve defined this resolver to ‘filter’ my Entity model Document through `IDocument` (which defines no parent-child relations):
 
-```c#
+```cs
 public class InterfaceContractResolver<TInterface> : DefaultContractResolver where TInterface : class
 {
     protected override IList<JsonProperty> CreateProperties(Type type, MemberSerialization memberSerialization)
@@ -68,7 +68,7 @@ public class InterfaceContractResolver<TInterface> : DefaultContractResolver whe
 
 This looks straight forward when you want to do something like this:
 
-```c#
+```cs
 var rootDocuments = segment.ChildSegments.Select(k =>
     {
         var rootDocument = context.Documents
@@ -85,7 +85,7 @@ var documentJson = JsonConvert.SerializeObject(rootDocument, documentSettings);
 
 But what I have here is an array of JSON strings—why did I do that? Well, it turns out that I cannot (it could just be me) configure JSON.NET to handle `enumerationOfDocuments` in this:
 
-```c#
+```cs
 var json = JsonConvert.SerializeObject(new
 {
     SegmentId = segment.SegmentId,

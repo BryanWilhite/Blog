@@ -43,7 +43,7 @@ By staring at a chart via [Immo Landwerth](https://twitter.com/terrajobst) I sav
 
 The equivalent of the MEF `[Export(IFoo)]` declaration for type `Foo` is this statement:
 
-```c#
+```cs
 this._container.RegisterType<IFoo, Foo>(new ContainerControlledLifetimeManager());
 ```
 
@@ -53,7 +53,7 @@ It is important to use `ContainerControlledLifetimeManager` to match the static-
 
 With Unity in play, there is a need to register a view for navigation in `IModule.Initialize()`:
 
-```c#
+```cs
 this._container.RegisterTypeForNavigation<FooView>();
 ```
 
@@ -75,7 +75,7 @@ My experience informs me that there is no special Prism code needed in the View 
 
 Now, there was a time when I preferred the C#-equivalent of this XAML declaration (stated in the constructor of the View):
 
-```c#
+```cs
 ViewModelLocator.SetAutoWireViewModel(this, true);
 ```
 
@@ -85,19 +85,19 @@ BTW: Brian Lagunas has written [a code sample to show how to change the default 
 
 Like an animal, [I have written `GetInstance()` extension methods](https://github.com/BryanWilhite/Songhay.Mvvm/blob/master/Songhay.Mvvm/Extensions/IViewExtensions.cs) intended to be used to a View that needs to find its View Model in the IoC container Microsoft calls `ServiceLocator.Current`. So, when the View Model (say `IFooViewModel`) is instanced first I make this statement in the constructor of the View:
 
-```c#
+```cs
 this.GetInstance<IFooViewModel>();
 ```
 
 Sometimes several View models are grouped in the IoC container under one interface (say `IEditorViewModel`). I can now use `nameof` to get the right View-Model instance for the right View.
 
-```c#
+```cs
 this.GetInstance<IEditorViewModel>($"{nameof(FooView)}Model");
 ```
 
 Or, to reduce performance for the sake of copy-and-paste, I have done this:
 
-```c#
+```cs
 this.GetInstance<IEditorViewModel>($"{this.GetType().Name}Model");
 ```
 

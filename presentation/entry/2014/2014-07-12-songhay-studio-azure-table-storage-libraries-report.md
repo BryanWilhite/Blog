@@ -33,7 +33,7 @@ First of all, there is no real Partition Key design strategy. More on this later
 
 Because of the versions used above, the ‘old way’ (the “Data Context” way) of working with ATS is in effect. For example, [the old way](http://blogs.msdn.com/b/windowsazurestorage/archive/2010/11/06/how-to-get-most-out-of-windows-azure-tables.aspx) of retrieving a document:
 
-```c#
+```cs
 var tableClient = account.CreateCloudTableClient();
 
 var context = tableClient.GetDataServiceContext();
@@ -47,7 +47,7 @@ var document = query
 
 Here would be the ‘new’ (verbose-but-systematically-honest) way:
 
-```c#
+```cs
 var tableClient = account.CreateCloudTableClient();
 
 var tableReference = tableClient.GetTableReference("TableStorageDocument");
