@@ -1,7 +1,26 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <meta name="description" content="{{ settings.description }}" />
+
+    <meta property="og:site_name" content="{{ settings:siteName }}" />
+    <meta name="twitter:card" value="summary" />
+    <meta name="twitter:site" content="@{{ settings:author.twitter }}" />
+    <meta name="twitter:creator" content="@{{ settings:author.twitter }}" />
+
+    {% if title -%}
+    <meta property="og:title" content="{{ title }}" />
+    <meta name="twitter:title" content="{{ title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ settings.uri }}" />
+    <meta property="og:image" content="{{ settings.uriLogo }}" />
+    {%- endif -%}
+    {%- if tag -%}
+    {%- assign extract = tag | getExtract -%}
+    <meta name="description" content="{{ extract | default: settings.description }}" />
+    <meta property="og:description" content="{{ extract | default: settings.description }}" />
+    <meta name="twitter:description" content="{{ extract | default: settings.description }}" />
+    {%- endif -%}
+
     <meta name="robots" content="index, follow" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 

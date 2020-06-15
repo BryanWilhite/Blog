@@ -23,5 +23,6 @@
         "size": 100
     },
     "uri": "http://songhayblog.azurewebsites.net/",
-    "uriCompany": "http://songhaysystem.com/"
+    "uriCompany": "http://songhaysystem.com/",
+    "uriLogo": "https://songhaystorage.blob.core.windows.net/studio-public/songhay_icon.png"
 }
