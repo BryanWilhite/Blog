@@ -10,6 +10,7 @@
     },
     "devDependencies": {
         "@11ty/eleventy": "^0.10.0",
+        "eleventy-xml-plugin": "^0.1.0",
         "markdownlint-cli": "^0.22.0"
     }
 }

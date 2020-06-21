@@ -1,42 +1,34 @@
 ---
-eleventyExcludeFromCollections: true
-layout: no.html
 permalink: entry/feed.xml
 ---
+{%- assign lastSevenEntries = collections.entries | blogHead: 14 -%}
 <?xml version="1.0" encoding="utf-8"?>
-<feed
-    xmlns="http://www.w3.org/2005/Atom"
-    xml:lang="en-US"
-    xml:base="{{ settings.feed.uri }}">
-    <title type="text">{{ settings.siteName }}</title>
-    <subtitle type="text">{{ settings.description }}</subtitle>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en-US" xml:base="{{ settings.feed.uri }}">
+    <channel>
+        <title>{{ settings.siteName }}</title>
+        <description>{{ settings.description }}</description>
 
-    {% assign lastSevenEntries = collections.entries | blogHead: 14 -%}
-    {%- assign firstEntry = collections.entries | first -%}
-    <updated>{{ firstEntry.data.modificationDate }}</updated>
-    <id>{{ settings.feed.uri }}</id>
+        <link>{{ settings.uri }}</link>
+        <atom:link href="{{ settings.feed.uri }}" rel="self" type="application/rss+xml" />
+        {%- assign firstEntry = collections.entries | first -%}
+        <pubDate>{{ firstEntry.data.modificationDate }}</pubDate>
+        <lastBuildDate>{{ page.date | date_to_rfc822 }}</lastBuildDate>
 
-    <link rel="alternate" href="{{ settings.uri }}" />
-    <link rel="self" href="{{ settings.feed.uri }}" />
-
-    <generator uri="https://www.11ty.io/" version="{{ settings.eleventy.version }}">eleventy</generator>
-
-    {%- for entry in lastSevenEntries %}
-    <entry>
-        {% assign entryUrl = entry.url | formatEntryUri -%}
-        {%- assign entryId = settings.feed.id | append: entryUrl -%}
-        <title>{{ entry.data.title | escape_once }}</title>
-        <link href="{{ entryId }}" />
-        <link rel="alternate" type="text/html" href="{{ entryId }}/index.html" />
-        <id>{{ entryId }}</id>
-        <updated>{{ entry.data.modificationDate }}</updated>
-        <summary>
-            {{ entry.data.tag | getExtract | escape_once }}
-        </summary>
-        <author>
-            <name>{{ settings.author.name }}</name>
-        </author>
-        <published>{{ entry.data.date }}</published>
-    </entry>
-    {%- endfor %}
-</feed>
+        {%- for entry in lastSevenEntries %}
+        <item>
+            {% assign entryUrl = entry.url | formatEntryUri -%}
+            {%- assign entryId = settings.feed.id | append: entryUrl -%}
+            <title>{{ entry.data.title | escape_once }}</title>
+            <link>{{ entryId }}</link>
+            <description>
+                {{ entry.data.tag | getExtract | escape_once }}
+            </description>
+            <author>
+                <name>{{ settings.author.name }}</name>
+            </author>
+            <guid isPermaLink="true">{{ entryId }}</guid>
+            <pubDate>{{ entry.data.date }}</pubDate>
+        </item>
+        {%- endfor %}
+    </channel>
+</rss>
