@@ -25,11 +25,9 @@ permalink: entry/feed.xml
             <description>
                 {{ entry.data.tag | getExtract | escape_once }}
             </description>
-            <author>
-                <name>{{ settings.author.name }}</name>
-            </author>
+            <author>{{ settings.author.name }}</author>
             <guid isPermaLink="true">{{ entryId }}</guid>
-            <pubDate>{{ entry.data.date }}</pubDate>
+            <pubDate>{{ entry.data.date | date_to_rfc822 }}</pubDate>
         </item>
         {%- endfor %}
     </channel>
