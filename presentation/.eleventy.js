@@ -1,4 +1,7 @@
+const moment = require('moment');
+
 module.exports = function (config) {
+
     config.addCollection('entries', collection => {
         return collection.getFilteredByGlob('entry/**/*.md');
     });
@@ -20,6 +23,12 @@ module.exports = function (config) {
     config.addFilter('getExtract', (tag) => {
         const jTag = JSON.parse(tag);
         return jTag.extract;
+    });
+
+    config.addFilter('getRfc822Date', (date) => {
+        // 📖 https://gist.github.com/tleen/5109955
+        const rfc822Date = moment(date).format('ddd, DD MMM YYYY HH:mm:ss ZZ');
+        return rfc822Date;
     });
 
     return {

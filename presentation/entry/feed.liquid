@@ -14,7 +14,7 @@ permalink: entry/feed.xml
         <atom:link href="{{ settings.feed.uri }}" rel="self" type="application/rss+xml" />
         {%- assign firstEntry = collections.entries | first -%}
         <pubDate>{{ firstEntry.data.modificationDate }}</pubDate>
-        <lastBuildDate>{{ page.date | date_to_rfc822 }}</lastBuildDate>
+        <lastBuildDate>{{ page.date | getRfc822Date }}</lastBuildDate>
 
         {%- for entry in lastSevenEntries %}
         <item>
@@ -25,9 +25,9 @@ permalink: entry/feed.xml
             <description>
                 {{ entry.data.tag | getExtract | escape_once }}
             </description>
-            <author>{{ settings.author.name }}</author>
+            <author>{{ settings.author.email }}</author>
             <guid isPermaLink="true">{{ entryId }}</guid>
-            <pubDate>{{ entry.data.date | date_to_rfc822 }}</pubDate>
+            <pubDate>{{ entry.data.date | getRfc822Date }}</pubDate>
         </item>
         {%- endfor %}
     </channel>
