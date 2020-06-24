@@ -49,7 +49,7 @@ These are the Paste Image settings (at the folder level) for this Blog:
 
 ## Studio packages dependent on `SonghayCore`
 
-![Studio packages dependent on `SonghayCore`](../presentation/image/day-path-2020-06-23-18-22-10.png)
+![Studio packages dependent on `SonghayCore`](../../image/day-path-2020-06-23-18-22-10.png)
 
 - `SonghayCore.MSTest` will retire upon the move to .NET Core 3.x
 - `Songhay.DataAccess` is in serious need of a revival
