@@ -1,6 +1,6 @@
 {
     "eleventy": {
-        "version": "0.10.0"
+        "version": "0.8.3"
     },
     "author": {
         "email": "bryan.wilhite@gmail.com",
