@@ -121,7 +121,36 @@
             "problemMatcher": []
         },
         {
-            "label": "Songhay Publications Shell [with current opened settings file]",
+            "label": "Songhay Publications Shell [IndexActivity, with current opened settings file]",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}/shell"
+            },
+            "linux": {
+                "command": "dotnet",
+                "args": [
+                    "~/appRoot/songhay/publications/Songhay.Publications.Shell.dll",
+                    "IndexActivity",
+                    "--base-path",
+                    "${workspaceFolder}/shell",
+                    "--settings-file",
+                    "${fileBasename}"
+                ]
+            },
+            "windows": {
+                "command": "Songhay.Publications.Shell",
+                "args": [
+                    "IndexActivity",
+                    "--base-path",
+                    "${workspaceFolder}\\shell",
+                    "--settings-file",
+                    "${fileBasename}"
+                ]
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Songhay Publications Shell [MarkdownEntryActivity, with current opened settings file]",
             "type": "shell",
             "options": {
                 "cwd": "${workspaceFolder}/shell"
@@ -142,7 +171,7 @@
                 "args": [
                     "MarkdownEntryActivity",
                     "--base-path",
-                    "${workspaceFolder}/shell",
+                    "${workspaceFolder}\\shell",
                     "--settings-file",
                     "${fileBasename}"
                 ]

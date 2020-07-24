@@ -1,0 +1,5 @@
+{
+  "command": "GenerateCompressed11tyIndex",
+  "indexRoot": "./shell/Songhay.Publications.Tests/json",
+  "indexFileName": "index.json"
+}
