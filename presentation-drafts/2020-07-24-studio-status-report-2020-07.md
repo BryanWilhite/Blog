@@ -21,19 +21,19 @@
 
 ## month 7 of 2020 has been about building the `lunr` experience into _the rasx() context_
 
-The `lunr` index UX is now a fact of life in the Songhay Studio. The Blog-entry index for _the rasx() context_ is so large that [a 1000-entry partition threshold](https://github.com/BryanWilhite/Songhay.Publications/issues/19) has to added in `Songhay.Publications`. My [comment from June](https://github.com/BryanWilhite/Songhay.Publications/issues/16#issuecomment-648441162) should be revised a bit:
+The `lunr` index UX is now a fact of life in the Songhay Studio. The Blog-entry index for _the rasx() context_ is so large that [a 1000-entry partition threshold](https://github.com/BryanWilhite/Songhay.Publications/issues/19) was added in `Songhay.Publications`. My [comment from June](https://github.com/BryanWilhite/Songhay.Publications/issues/16#issuecomment-648441162) should be revised a bit:
 
 - `lunr` indices will be partitioned by entry count
 - the Shadow-DOM, document-centric `lunr` experience uses the latest partition only
 - the SPA-based experience should load/unload multiple indices, paging through by time and supporting break-out by category/tag
 
-This SPA-based experience, the ‘side-car app’ listed below, was pushed down a bit in the development schedule sketch.
+This SPA-based (Angular) experience, the ‘side-car app’ listed below, was pushed down a bit in the development schedule sketch. I expect that adding category/tag support to the entry index—and updating the ‘side-car app’—will not be trivial. A [task](https://github.com/BryanWilhite/Songhay.Publications/issues/22) has been added to start addressing this issue.
 
 ## confronting the Stills API
 
-My little development schedule is now prioritizing the Stills API. The `lunr` stuff is big but the still API is _huge_. Without a backend supporting responsive images in a dat-driven way, I will continue to refuse to use images for Web design in this Studio. This refusal prevents me from building a portfolio. Not having a portfolio prevents me from courting entire work-for-hire markets.
+My little development schedule is now prioritizing the Stills API. The `lunr` stuff is big but the still API is _huge_. Without a backend supporting responsive images in a data-driven way, I will continue to refuse to use images for Web design in this Studio. This refusal prevents me from building a portfolio. Not having a portfolio prevents me from courting entire work-for-hire markets.
 
-Success here could be so effective that the need for Flickr or a Google Photos (which I do not use) will be optional. It could also be so ineffective that it is only a small stepping stone toward yet another larger goal (like how to incorporate third-party CDNs into the Studio).
+Success here could be so effective that the need for Flickr or a Google Photos (which I do not use) will be profoundly optional. It could also be so ineffective that it is only a small stepping stone toward yet another larger goal (like how to incorporate third-party CDNs into the Studio). [Cloudflare](https://www.cloudflare.com/cdn/)? [Just Azure](https://azure.microsoft.com/en-us/services/cdn/)?
 
 What is quite clear is that the Stills API has been needed for quite some time. This little block of HTML that is over five-years old tells the tale:
 
