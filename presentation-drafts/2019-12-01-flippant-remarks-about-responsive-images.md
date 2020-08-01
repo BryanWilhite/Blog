@@ -29,6 +29,28 @@ In 2017, a [learnedia.com article](https://learnedia.com/responsive-images-srcse
 
 >In case you are using `<picture>` element, you are strictly telling browser which image to use on different viewport widths. …This is different because **now browser won’t make a decision on it’s own** which image to serve. That is useful when you are serving different images on different viewport widths. It could also be variations of the same image cropped differently to look better on some devices.
 
+## looking at `srcset` and `sizes`
+
+With the focus provided above we can now look through the reference material:
+
+> `srcset` is a string which identifies one or more image candidate strings, separated using commas (`,`) each specifying image resources to use under given circumstances. Each image candidate string contains an image URL and an optional width or pixel density descriptor that indicates the conditions under which that candidate should be used instead of the image specified by the `src` property. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset)
+
+By reading this reference material, I am inspired to sketch out a data transfer object (DTO) for responsive images:
+
+![ImageCandidate data transfer object](../presentation/image/day-path-2020-07-31-22-39-28.png)
+
+> The `srcset` property, along with the `sizes` property, are a crucial component in designing responsive web sites, as they can be used together to make pages that use appropriate images for the rendering situation. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset)
+
+It is a bit of challenge to describe in words when `srcset` and `sizes` should be used together. But first, the MDN reference entry introduces `sizes`:
+
+> `sizes` allows you to specify the layout width of the image for each of a list of media conditions. This provides the ability to automatically select among different images—even images of different orientations or aspect ratios—as the document state changes to match different media conditions. Each condition is specified using the same conditional format used by media queries. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes)
+
+The DTO for `sizes` might be this:
+
+![CssLength data transfer object](../presentation/image/day-path-2020-07-31-23-28-58.png)
+
+where `CssLength` represents [CSS length](https://developer.mozilla.org/en-US/docs/Web/CSS/length).
+
 ## Related Links
 
 - “[Responsive Images—The `srcset` and `sizes` Attributes](https://bitsofco.de/the-srcset-and-sizes-attributes/)”
