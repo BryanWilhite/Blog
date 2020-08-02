@@ -102,5 +102,11 @@ Such an API could expose data that can be transformed into `srcset` (`sizes`) de
 - “[Sometimes `sizes` is quite important.](https://css-tricks.com/sometimes-sizes-is-quite-important/)”
 - “[Don’t use `<picture>` (most of the time)](https://cloudfour.com/thinks/dont-use-picture-most-of-the-time/)”
 - “[Responsive Full Background Image Using CSS](https://www.webfx.com/blog/web-design/responsive-background-image/)”
+- “[Planning for Responsive Images](https://css-tricks.com/planning-for-responsive-images/)”
+- “[Responsive Images—Serve Scaled Images](https://www.keycdn.com/blog/responsive-images)”
+- “[How to use responsive images](https://blog.ycombinator.com/how-to-use-responsive-images/)”
+- “[Responsive Images—6 Simple Ways](https://benmarshall.me/responsive-images/)”
+- <https://responsivebreakpoints.com/>
+- <http://responsiveimages.org/>
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
