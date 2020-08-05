@@ -49,7 +49,7 @@ With the focus provided above, we can now look through the reference material:
 
 By reading this reference material, I am inspired to sketch out a [data transfer object](https://en.wikipedia.org/wiki/Data_transfer_object) (DTO) for responsive images:
 
-![ImageCandidate data transfer object](../presentation/image/day-path-2020-07-31-22-39-28.png)
+![ImageCandidate data transfer object](../../image/day-path-2020-07-31-22-39-28.png)
 
 > The `srcset` property, along with the `sizes` property, are a crucial component in designing responsive web sites, as they can be used together to make pages that use appropriate images for the rendering situation. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset)
 
@@ -59,11 +59,11 @@ It is considered a bit of challenge to describe when `srcset` and `sizes` should
 
 The DTO for `sizes` might be this:
 
-![ImageSize data transfer object with CssLength](../presentation/image/day-path-2020-07-31-23-28-58.png)
+![ImageSize data transfer object with CssLength](../../image/day-path-2020-07-31-23-28-58.png)
 
 where `CssLength` represents [CSS length](https://developer.mozilla.org/en-US/docs/Web/CSS/length). Or we can avoid struggling with units in a programming paradigm not optimized for it and just use strings (like before in `ImageCandidate`):
 
-![ImageSize data transfer object](../presentation/image/day-path-2020-08-04-20-22-46.png)
+![ImageSize data transfer object](../../image/day-path-2020-08-04-20-22-46.png)
 
 ## when `srcset` and `sizes` should be used together
 
