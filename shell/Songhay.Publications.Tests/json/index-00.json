@@ -1,5 +1,12 @@
 [
   {
+    "extract": "Self-identifying 10x developer, Ire Aderinokun (@ireaderinokun) was one of earliest writers on the subject of responsive images that addressed its combinatorial complexities in an actionable way. In 2016, with “Responsive Images—The srcset and sizes Attri…",
+    "clientId": "2020-08-04-flippant-remarks-about-responsive-images",
+    "inceptDate": "08/05/2020 03:32:39",
+    "modificationDate": "08/05/2020 03:32:39",
+    "title": "Flippant Remarks about Responsive Images"
+  },
+  {
     "extract": "month 7 of 2020 has been about building the lunr experience into the rasx() context The lunr index UX is now a fact of life in the Songhay Studio. The Blog-entry index for the rasx() context is so large that a 1000-entry partition threshold has to added i…",
     "clientId": "2020-07-24-studio-status-report-2020-07",
     "inceptDate": "07/24/2020 18:16:45",
