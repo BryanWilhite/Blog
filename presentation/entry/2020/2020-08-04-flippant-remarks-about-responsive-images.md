@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "Flippant Remarks about Responsive Images",
-  "documentShortName": "2019-12-01-flippant-remarks-about-responsive-images",
+  "documentShortName": "2020-08-04-flippant-remarks-about-responsive-images",
   "fileName": "index.html",
-  "path": "./entry/2019-12-01-flippant-remarks-about-responsive-images",
-  "date": "2019-12-02T03:46:16.975Z",
-  "modificationDate": "2019-12-02T03:46:16.975Z",
+  "path": "./entry/2020-08-04-flippant-remarks-about-responsive-images",
+  "date": "2020-08-05T03:32:39.592Z",
+  "modificationDate": "2020-08-05T03:32:39.592Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2019-12-01-flippant-remarks-about-responsive-images",
+  "clientId": "2020-08-04-flippant-remarks-about-responsive-images",
   "tag": "{\n  \"extract\": \"Self-identifying 10x developer, Ire Aderinokun (@ireaderinokun) was one of earliest writers on the subject of responsive images that addressed its combinatorial complexities in an actionable way. In 2016, with “Responsive Images—The srcset and sizes Attri…\"\n}"
 }
 ---
