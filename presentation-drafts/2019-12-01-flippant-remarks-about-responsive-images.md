@@ -39,29 +39,31 @@ The point that Chris was trying to make is that most of the time responsive imag
   alt="yah" />
 ```
 
-Everything related to responsive images beyond this direct relationship with the viewport (including the use of `picture`) should be considered “advanced topics.”
+Everything related to responsive images beyond this linear, directly proportional relationship with the viewport (including the use of `picture`) should be considered “advanced topics.”
 
 ## looking at `srcset` and `sizes`
 
-With the focus provided above we can now look through the reference material:
+With the focus provided above, we can now look through the reference material:
 
 > `srcset` is a string which identifies one or more image candidate strings, separated using commas (`,`) each specifying image resources to use under given circumstances. Each image candidate string contains an image URL and an optional width or pixel density descriptor that indicates the conditions under which that candidate should be used instead of the image specified by the `src` property. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset)
 
-By reading this reference material, I am inspired to sketch out a data transfer object (DTO) for responsive images:
+By reading this reference material, I am inspired to sketch out a [data transfer object](https://en.wikipedia.org/wiki/Data_transfer_object) (DTO) for responsive images:
 
 ![ImageCandidate data transfer object](../presentation/image/day-path-2020-07-31-22-39-28.png)
 
 > The `srcset` property, along with the `sizes` property, are a crucial component in designing responsive web sites, as they can be used together to make pages that use appropriate images for the rendering situation. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset)
 
-It is a bit of challenge to describe in words when `srcset` and `sizes` should be used together. But first, the MDN reference entry introduces `sizes`:
+It is considered a bit of challenge to describe when `srcset` and `sizes` should be used together. But before we get back to that, the MDN reference entry introduces `sizes`:
 
 > `sizes` allows you to specify the layout width of the image for each of a list of media conditions. This provides the ability to automatically select among different images—even images of different orientations or aspect ratios—as the document state changes to match different media conditions. Each condition is specified using the same conditional format used by media queries. —[MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes)
 
 The DTO for `sizes` might be this:
 
-![CssLength data transfer object](../presentation/image/day-path-2020-07-31-23-28-58.png)
+![ImageSize data transfer object with CssLength](../presentation/image/day-path-2020-07-31-23-28-58.png)
 
-where `CssLength` represents [CSS length](https://developer.mozilla.org/en-US/docs/Web/CSS/length).
+where `CssLength` represents [CSS length](https://developer.mozilla.org/en-US/docs/Web/CSS/length). Or we can avoid struggling with units in a programming paradigm not optimized for it and just use strings (like before in `ImageCandidate`):
+
+![ImageSize data transfer object](../presentation/image/day-path-2020-08-04-20-22-46.png)
 
 ## when `srcset` and `sizes` should be used together
 
@@ -86,6 +88,8 @@ However, what if you want to show _more_, smaller images (e.g. `food-small.jpg`)
   sizes="(min-width: 600px) 160px, 320px"
 />
 ```
+
+This `img` declaration with `sizes` breaks the linear, directly proportional relationship Chris was telling us about earlier.
 
 ## what about all of those DTOs?
 
