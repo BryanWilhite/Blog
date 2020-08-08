@@ -59,5 +59,6 @@ In terms of my _personal_ education (which I have always found to be more import
 - “[Billionaires Like Warren Buffett, Jeff Bezos and Mark Cuban Live by Ancient Stoic Philosophy](https://www.entrepreneur.com/article/325577)”
 - “[The Three Things I Have Done about Failing in Job Interviews](http://songhayblog.azurewebsites.net/entry/2017-12-01-the-three-things-i-have-done-about-failing-in-job-interviews/)”
 - “[Talked to Microsoft …at Longo Toyota!](http://songhayblog.azurewebsites.net/entry/2015-04-06-talked-to-microsoft-at-longo-toyota/)”
+- “[Nietzsche on the Stoics](http://throughablogdarkly.blogspot.com/2012/10/nietzsche-on-stoics.html)”
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
