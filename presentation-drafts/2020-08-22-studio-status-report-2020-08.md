@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2020-08-22-studio-status-report-2020-08",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 8 of 2020 has been about defining types for the b-roll player stills API, slowly At the beginning of month 8, I published “Flippant Remarks about Responsive Images” where I ask myself, What about all of those DTOs? The Songhay.Player.Models work tha…\"\n}"
 }
 ---
 
@@ -91,5 +91,18 @@ The `ResponsiveImage` DTOs as JSON would look like this:
 What is next for the stills API is a solution for the [Open Graph](https://ogp.me/) Image (`og:image`). This API should not require custom types. I am currently seeing a dictionary (`Dictionary<string,string>`), governed by a simple rule:
 
 ![Open Graph API flow](../presentation/image/day-path-2020-08-22-19-48-08.png)
+
+## sketching out a development schedule (revision 10)
+
+The schedule of the month:
+
+- add Stills API to `Songhay.Player` (b-roll player) 🕸🌩
+- consider upgrading to .NET 3.0
+- use `@songhay/index` as a side-car app for “Day Path” and “the rasx() context” 🚛📦
+- add proposed [content Web component](https://github.com/BryanWilhite/songhay-web-components/issues/10)
+- use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
+- modernize the kinté hits page into a progressive web app 💄✨
+- convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
+- use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
