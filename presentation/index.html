@@ -3,7 +3,7 @@ layout: layouts/base.html
 templateClass: tmpl-index
 ---
 <div class="mdc-layout-grid__cell--span-8">
-    {% assign lastThreeEntries = collections.entries | blogHead: 3 -%}
+    {% assign lastThreeEntries = collections.entries | blogHead: 7 -%}
     <section class="entries">
     {% for entry in lastThreeEntries %}
         <div class="entry extract">
