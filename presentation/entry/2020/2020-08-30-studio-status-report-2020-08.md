@@ -23,7 +23,7 @@
 
 At the beginning of month 8, I published “[Flippant Remarks about Responsive Images](http://songhayblog.azurewebsites.net/entry/2020-08-04-flippant-remarks-about-responsive-images/)” where I ask myself, What about all of those DTOs? The `Songhay.Player.Models` work that followed yields these:
 
-![`Songhay.Player.Models` DTOs](../presentation/image/day-path-2020-08-22-18-21-58.png)
+![`Songhay.Player.Models` DTOs](../../image/day-path-2020-08-22-18-21-58.png)
 
 The `ResponsiveImage` DTOs as JSON would look like this:
 
@@ -128,7 +128,7 @@ The widths of responsive banner images are of course governed by the table above
 
 What is next for the stills API is a solution for the [Open Graph](https://ogp.me/) Image (`og:image`). This API should not require custom types. I am currently seeing a dictionary (`Dictionary<string,string>`), governed by a simple rule:
 
-![Open Graph API flow](../presentation/image/day-path-2020-08-22-19-48-08.png)
+![Open Graph API flow](../../image/day-path-2020-08-22-19-48-08.png)
 
 ## sketching out a development schedule (revision 11)
 
