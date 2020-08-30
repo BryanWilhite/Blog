@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2020-08",
-  "documentShortName": "2020-08-22-studio-status-report-2020-08",
+  "documentShortName": "2020-08-30-studio-status-report-2020-08",
   "fileName": "index.html",
-  "path": "./entry/2020-08-22-studio-status-report-2020-08",
-  "date": "2020-08-23T00:46:35.822Z",
-  "modificationDate": "2020-08-23T00:46:35.822Z",
+  "path": "./entry/2020-08-30-studio-status-report-2020-08",
+  "date": "2020-08-30T22:33:04.711Z",
+  "modificationDate": "2020-08-30T22:33:04.711Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-08-22-studio-status-report-2020-08",
+  "clientId": "2020-08-30-studio-status-report-2020-08",
   "tag": "{\n  \"extract\": \"month 8 of 2020 has been about defining types for the b-roll player stills API, slowly At the beginning of month 8, I published “Flippant Remarks about Responsive Images” where I ask myself, What about all of those DTOs? The Songhay.Player.Models work tha…\"\n}"
 }
 ---
