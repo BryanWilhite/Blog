@@ -114,6 +114,16 @@ also:
 
 📖 <https://influencermarketinghub.com/twitter-image-size/>
 
+## responsive banner images and the rule of thirds
+
+The widths of responsive banner images are of course governed by the table above. The heights I assert might do well under the cinematic [rule of thirds](https://en.wikipedia.org/wiki/Rule_of_thirds). And when these heights are too tall, I recommend halving them. The following table summarizes:
+
+| resolution | standard |
+|-|-|
+| `640x213` | VGA |
+| `1280x240` | 720p |
+| `1920x360` | Full HD |
+
 ## b-roll Open Graph API
 
 What is next for the stills API is a solution for the [Open Graph](https://ogp.me/) Image (`og:image`). This API should not require custom types. I am currently seeing a dictionary (`Dictionary<string,string>`), governed by a simple rule:
