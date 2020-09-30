@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 9 of 2020 was about exploding into the world of Python It is a misunderstanding to assume that the inclusion of Python in my studio is about learning a new programming language for the sake of some kind of polyglot discipline. In my studio, Python i…",
+    "clientId": "2020-09-29-studio-status-report-2020-09",
+    "inceptDate": "09/29/2020 16:34:36",
+    "modificationDate": "09/29/2020 16:34:36",
+    "title": "studio status report: 2020-09"
+  },
+  {
     "extract": "month 8 of 2020 has been about defining types for the b-roll player stills API, slowly At the beginning of month 8, I published “Flippant Remarks about Responsive Images” where I ask myself, What about all of those DTOs? The Songhay.Player.Models work tha…",
     "clientId": "2020-08-30-studio-status-report-2020-08",
     "inceptDate": "08/30/2020 22:33:04",
