@@ -1,5 +1,19 @@
 [
   {
+    "extract": "month 10 of 2020 was about making Jupyter notes and reviving Node.js-based repositories I spent a lot of time this month documenting things about Studio machines that most pros would memorize. For every studio machine, there is now a notebook about key sh…",
+    "clientId": "2020-10-30-studio-status-report-2020-10",
+    "inceptDate": "10/31/2020 00:49:49",
+    "modificationDate": "10/31/2020 00:49:49",
+    "title": "studio status report: 2020-10"
+  },
+  {
+    "extract": "Who is old enough to remember what progressive enhancement is? This term is a relic from the Web 1.0 days, ending about 16 years ago. Web 1.0 will forever be marginalized by the billions made from Web 2.0 and beyond. Post-Web-1.0 is about loading a near-i…",
+    "clientId": "2020-10-30-a-return-to-progressive-enhancement-with-lithtml-and-11ty-eleven-ty",
+    "inceptDate": "10/31/2020 00:47:44",
+    "modificationDate": "10/31/2020 00:47:44",
+    "title": "A Return to Progressive Enhancement with LitHtml and `11ty` (@eleven_ty)"
+  },
+  {
     "extract": "month 9 of 2020 was about exploding into the world of Python It is a misunderstanding to assume that the inclusion of Python in my studio is about learning a new programming language for the sake of some kind of polyglot discipline. In my studio, Python i…",
     "clientId": "2020-09-29-studio-status-report-2020-09",
     "inceptDate": "09/29/2020 16:34:36",
