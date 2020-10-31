@@ -7,14 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Html2Markdown" Version="3.3.1.407" />
-    <PackageReference Include="markdig" Version="0.18.3" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
-    <PackageReference Include="Songhay.Cloud.BlobStorage" Version="3.0.12" />
-    <PackageReference Include="Songhay.Publications" Version="1.0.14" />
-    <PackageReference Include="SonghayCore.xUnit" Version="3.0.19" />
+    <PackageReference Include="Html2Markdown" Version="3.4.0.414" />
+    <PackageReference Include="markdig" Version="0.22.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.1" />
+    <PackageReference Include="Songhay.Cloud.BlobStorage" Version="3.0.14" />
+    <PackageReference Include="Songhay.Publications" Version="1.0.16" />
+    <PackageReference Include="SonghayCore.xUnit" Version="3.0.21" />
     <PackageReference Include="xunit" Version="2.4.1" />
-    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.1" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
