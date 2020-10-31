@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2020-06-21-a-return-to-progressive-enhancement-with-lithtml-and-11ty-eleven-ty",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "tag": "{\n  \"extract\": \"Who is old enough to remember what progressive enhancement is? This term is a relic from the Web 1.0 days, ending about 16 years ago. Web 1.0 will forever be marginalized by the billions made from Web 2.0 and beyond. Post-Web-1.0 is about loading a near-i…\"\n}"
 }
 ---
 
