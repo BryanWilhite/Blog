@@ -43,7 +43,7 @@ The `srcset` and `sizes` data used for the layout can be used as a control for a
 
 Deciding where to build these layouts was not a trivial task. This is largely because I forgot about my investment in <https://rasx-node-js.netlify.app/>. To cut down on all this forgetting, I turned to more documentation:
 
-![Songhay App Services](rasxlog/image/songhay-app-services.png)
+![Songhay App Services](../../image/songhay-app-services.png)
 
 where the asterisk in `.scm.azurewebsites.net/*/job-` stands for `api/triggeredwebjobs`.
 
