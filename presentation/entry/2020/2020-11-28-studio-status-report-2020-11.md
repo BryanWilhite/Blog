@@ -54,7 +54,17 @@ where `body`, `section.main` and `footer` are selecting [CSS grid](https://devel
 
 `div.mdc-top-app-bar` will have a `fixed` position which causes its height to collapse to `0`. One way to avoid this collapse is to select identical `min-height` pixel values for `header` and `mdc-top-app-bar`.
 
-`div.mdc-top-app-bar` will have to support transparency which led me into studying the difference between `hsla()` and `#rrggbbaa`.
+`div.mdc-top-app-bar` will have to support transparency which led me into studying the differences between `hsla()` and `#rrggbbaa`.
+
+## the day-job ‘pressures’ feature advances in Angular
+
+[Akita](https://github.com/datorama/akita) and `ui-router` [[GitHub](https://ui-router.github.io/ng2/)] are the leading topics of study for the day job. While `ui-router` is a relatively ancient technology that I would have ignored on my own, I can see how it is attractive for features like routing without updating the browser location.
+
+Akita is not an Angular technology. It is a data management solution that is a step above the use of `BehaviorSubject` [[Blog](http://songhayblog.azurewebsites.net/entry/2019-02-25-flippant-remarks-about-behaviorsubject/)]. Significant time was invested investigating Akita in the form of StackBlitz samples:
+
+- <https://stackblitz.com/edit/the-akita-store>
+- <https://stackblitz.com/edit/akita-with-reactive-form>
+- <https://stackblitz.com/edit/akita-with-reactive-forms-and-navigation>
 
 ## sketching out a development schedule (revision 11)
 
