@@ -215,6 +215,10 @@ interface IndexEntry extends Partial<Segment> {
 }
 ```
 
-I made [a little manual test](https://stackblitz.com/edit/songhay-index-entry) to verify whether this type is working.
+I made [a little manual test](https://stackblitz.com/edit/songhay-index-entry) to verify that this interface is working.
+
+## distinguishing the search index from the Publications Index
+
+New issues for project have been opened
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
