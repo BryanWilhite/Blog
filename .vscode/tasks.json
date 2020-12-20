@@ -4,7 +4,7 @@
         {
             "label": "build",
             "command": "dotnet",
-            "type": "process",
+            "type": "shell",
             "args": [
                 "build",
                 "${workspaceFolder}/shell/Songhay.Publications.Tests/Songhay.Publications.Tests.csproj",
@@ -16,7 +16,7 @@
         {
             "label": "publish",
             "command": "dotnet",
-            "type": "process",
+            "type": "shell",
             "args": [
                 "publish",
                 "${workspaceFolder}/shell/Songhay.Publications.Tests/Songhay.Publications.Tests.csproj",
@@ -28,7 +28,7 @@
         {
             "label": "watch",
             "command": "dotnet",
-            "type": "process",
+            "type": "shell",
             "args": [
                 "watch",
                 "run",
@@ -41,7 +41,7 @@
         {
             "label": "dotnet: build",
             "command": "dotnet",
-            "type": "process",
+            "type": "shell",
             "args": [
                 "build",
                 "${workspaceFolder}/shell/Songhay.Publications.Tests/Songhay.Publications.Tests.csproj"

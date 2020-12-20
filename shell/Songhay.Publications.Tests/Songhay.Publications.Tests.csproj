@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Html2Markdown" Version="3.4.0.414" />
-    <PackageReference Include="markdig" Version="0.22.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.1" />
+    <PackageReference Include="markdig" Version="0.22.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.3" />
     <PackageReference Include="Songhay.Cloud.BlobStorage" Version="3.0.14" />
     <PackageReference Include="Songhay.Publications" Version="1.0.16" />
     <PackageReference Include="SonghayCore.xUnit" Version="3.0.21" />
