@@ -13,13 +13,21 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2020-12-13-songhay-publications-and-the-concept-of-the-index",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"What you are reading now is a Songhay Publication, this Blog. A Songhay Publication centers around the Document [GitHub]. Several Document instances can be grouped under one or more Segment [GitHub] instances. Further up the hierarchy, a Segment can group…\"\n}"
 }
 ---
 
 # Songhay Publications and the Concept of the Index
 
-What you are reading now is a Songhay Publication, this Blog website. A Songhay Publication centers around the `Document` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Document.cs)]. Several `Document` instances can be grouped under one or more `Segment` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Segment.cs)] instances. Further up the hierarchy, a `Segment` can group other `Segment` instances.
+What you are reading now is a Songhay Publication, this Blog. A Songhay Publication centers around the `Document` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Document.cs)]. Several `Document` instances can be grouped under one or more `Segment` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Segment.cs)] instances. Further up the hierarchy, a `Segment` can group other `Segment` instances. Here is a diagram of the `Segment`, the `Document` (and the `Fragment`) to confuse almost everyone including me:
+
+![Songhay Publications Class Diagram](../presentation/image/day-path-2020-12-23-19-16-03.png)
+
+Some of the confusion comes from legacy [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) concerns, specifically the use of `ICollection<T>` and other _association_ properties. When I simplify my life with small-scale use of static JSON files, we can remove our concern for defining associations. Moreover, my small-scale use of Markdown eliminates the need (almost entirely) for `Fragment`. After all of this removing and eliminating, at least _I_ can understand why I have the core interfaces, `ISegment` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/ISegment.cs)] and `IDocument` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/IDocument.cs)], of Songhay Publications:
+
+![Songhay Publications Interfaces](../presentation/image/day-path-2020-12-23-19-39-37.png)
+
+## the Web Publication Index
 
 Compiling a collection of `Segment` groups into a file renders an _Index_. Meanwhile, in the real world, [there is the confusion](https://english.stackexchange.com/questions/45555/is-a-table-of-contents-an-index) between a “table of contents” and an _Index_. As of this writing in the Songhay studio, we avoid this confusion by defining an _Index_ here and looking forward to defining a Keyword Index (which is a real-world index).
 
@@ -217,8 +225,8 @@ interface IndexEntry extends Partial<Segment> {
 
 I made [a little manual test](https://stackblitz.com/edit/songhay-index-entry) to verify that this interface is working.
 
-## distinguishing the search index from the Publications Index
+## distinguishing the search index from the Publication Index
 
-New issues for project have been opened
+I have opened [an issue in the Publications repo](https://github.com/BryanWilhite/Songhay.Publications/issues/23) because I introduced the _Index_ concept to Songhay Publications to refer to a Search Index. [My work on a lunr search index at the beginning of this year](https://github.com/BryanWilhite/Blog/issues/25) was very exciting but lost site of the bigger picture: a search Index must be distinguished from Publication Index.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
