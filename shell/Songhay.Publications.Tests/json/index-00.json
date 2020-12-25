@@ -1,5 +1,12 @@
 [
   {
+    "extract": "What you are reading now is a Songhay Publication, this Blog. A Songhay Publication centers around the Document [GitHub]. Several Document instances can be grouped under one or more Segment [GitHub] instances. Further up the hierarchy, a Segment can group…",
+    "clientId": "2020-12-24-songhay-publications-and-the-concept-of-the-index",
+    "inceptDate": "12/25/2020 02:07:04",
+    "modificationDate": "12/25/2020 02:07:04",
+    "title": "Songhay Publications and the Concept of the Index"
+  },
+  {
     "extract": "month 11 of 2020 was about squeezing very little schedule progress between day-job pressures The ‘schedule progress’ (see “development schedule” below) was miniscule but progress toward being modern and professional about Web design and development is sig…",
     "clientId": "2020-11-28-studio-status-report-2020-11",
     "inceptDate": "11/29/2020 03:32:01",
