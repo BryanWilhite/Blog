@@ -1,18 +1,18 @@
 ---json
 {
   "documentId": 0,
-  "segmentName": "Songhay Publications and the Concept of the Index",
-  "documentShortName": "2020-12-13-songhay-publications-and-the-concept-of-the-index",
+  "title": "Songhay Publications and the Concept of the Index",
+  "documentShortName": "2020-12-24-songhay-publications-and-the-concept-of-the-index",
   "fileName": "index.html",
-  "path": "./entry/2020-12-13-songhay-publications-and-the-concept-of-the-index",
-  "date": "2020-12-14T01:22:02.437Z",
-  "modificationDate": "2020-12-14T01:22:02.437Z",
+  "path": "./entry/2020-12-24-songhay-publications-and-the-concept-of-the-index",
+  "date": "2020-12-25T02:07:04.715Z",
+  "modificationDate": "2020-12-25T02:07:04.715Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-12-13-songhay-publications-and-the-concept-of-the-index",
+  "clientId": "2020-12-24-songhay-publications-and-the-concept-of-the-index",
   "tag": "{\n  \"extract\": \"What you are reading now is a Songhay Publication, this Blog. A Songhay Publication centers around the Document [GitHub]. Several Document instances can be grouped under one or more Segment [GitHub] instances. Further up the hierarchy, a Segment can group…\"\n}"
 }
 ---
@@ -21,11 +21,11 @@
 
 What you are reading now is a Songhay Publication, this Blog. A Songhay Publication centers around the `Document` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Document.cs)]. Several `Document` instances can be grouped under one or more `Segment` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/Segment.cs)] instances. Further up the hierarchy, a `Segment` can group other `Segment` instances. Here is a diagram of the `Segment`, the `Document` (and the `Fragment`) to confuse almost everyone including me:
 
-![Songhay Publications Class Diagram](../presentation/image/day-path-2020-12-23-19-16-03.png)
+![Songhay Publications Class Diagram](../../image/day-path-2020-12-23-19-16-03.png)
 
 Some of the confusion comes from legacy [Entity Framework](https://docs.microsoft.com/en-us/aspnet/entity-framework) concerns, specifically the use of `ICollection<T>` and other _association_ properties. When I simplify my life with small-scale use of static JSON files, we can remove our concern for defining associations. Moreover, my small-scale use of Markdown eliminates the need (almost entirely) for `Fragment`. After all of this removing and eliminating, at least _I_ can understand why I have the core interfaces, `ISegment` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/ISegment.cs)] and `IDocument` [[GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Models/IDocument.cs)], of Songhay Publications:
 
-![Songhay Publications Interfaces](../presentation/image/day-path-2020-12-23-19-39-37.png)
+![Songhay Publications Interfaces](../../image/day-path-2020-12-23-19-39-37.png)
 
 ## the Web Publication Index
 
