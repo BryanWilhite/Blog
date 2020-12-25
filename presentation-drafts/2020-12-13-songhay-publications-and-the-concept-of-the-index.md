@@ -227,6 +227,41 @@ I made [a little manual test](https://stackblitz.com/edit/songhay-index-entry) t
 
 ## distinguishing the search index from the Publication Index
 
-I have opened [an issue in the Publications repo](https://github.com/BryanWilhite/Songhay.Publications/issues/23) because I introduced the _Index_ concept to Songhay Publications to refer to a Search Index. [My work on a lunr search index at the beginning of this year](https://github.com/BryanWilhite/Blog/issues/25) was very exciting but lost site of the bigger picture: a search Index must be distinguished from Publication Index.
+I have opened [an issue in the Publications repo](https://github.com/BryanWilhite/Songhay.Publications/issues/23) because I introduced the _Index_ concept to Songhay Publications to refer to a _search_ Index. [My work on a lunr search index at the beginning of this year](https://github.com/BryanWilhite/Blog/issues/25) was and is very exciting but lost sight of the bigger picture: a search Index must be distinguished from the Publication Index being introduced here.
+
+Why can’t this search index be related to the Publication Index? Let us take a look at the lunr search index in use as of this writing:
+
+```json
+[
+  {
+    "extract": "...",
+    "clientId": "..",
+    "inceptDate": "...",
+    "modificationDate": "...",
+    "title": "..."
+  },
+  {
+    "extract": "...",
+    "clientId": "..",
+    "inceptDate": "...",
+    "modificationDate": "...",
+    "title": "..."
+  },
+]
+```
+
+It is clear that what we are looking at is an array of `Partial<Document>` with this `extract` property tacked on. (The `inceptDate` property, by the way, maps to the `createDate` property on `Document`; there is [an issue out there](https://github.com/BryanWilhite/Songhay.Publications/issues/27) addressing this weirdness).
+
+Songhay Publications has [a method for producing an extract](https://github.com/BryanWilhite/Songhay.Publications/blob/master/Songhay.Publications/Extensions/MarkdownEntryExtensions.cs#L85) from `Document`. So it is quite clear that a search index is a very simplified form of our new Publications Index.
+
+Again, in Typescript we can formally and precisely define the `SearchIndexEntry`:
+
+```typescript
+interface SearchIndexEntry extends Partial<Document> {
+  string extract;
+}
+```
+
+By writing this, I see now that I can replace the `LunrIndexEntry` [I have defined for this Blog Publication](https://github.com/BryanWilhite/day-path/blob/master/src/ts/models/lunr-index-entry.ts) with the more generalized `SearchIndexEntry`.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
