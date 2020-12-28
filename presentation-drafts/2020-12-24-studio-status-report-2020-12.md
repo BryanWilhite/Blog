@@ -21,7 +21,7 @@
 
 ## month 12 of 2020 was about _the data_ behind the Index layout
 
-I have always been fractal with the rabbit holes 🐇🕳 I may break things but I do not move “fast.” I got “lost” this month in formally thinking about the data I would be using to drive the display of [the index layout work](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts) from last month.
+I have always been fractal with the rabbit holes 🐇🕳 [🐇🕳 [🐇🕳]…] I may “break” things but I do not move “fast.” I got “lost” this month in formally thinking about the data I would be using to drive the display of [the index layout work](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts) from last month.
 
 I have written “[Songhay Publications and the Concept of the Index](http://songhayblog.azurewebsites.net/entry/2020-12-24-songhay-publications-and-the-concept-of-the-index/)” to really think about Index data. This discussion with myself produced these Studio novelties:
 
@@ -36,9 +36,11 @@ interface SearchIndexEntry extends Partial<Document> {
 }
 ```
 
+I have [an issue out](https://github.com/BryanWilhite/songhay-core/issues/24) for this.
+
 ## the first dedicated Linux workstations in the Studio
 
-For most of 2018 and almost all of 2019, I suffered with Hyper-V-related and VirtualBox-related crashes in Windows 10. I assume these crashes were largely related to my use of AMD-based hardware. Nevertheless, I took these rude interruptions as a prompt for me to move my Ubuntu-desktop-based workflows (featuring Visual Studio Code) to real hardware. I have been experimenting with Linux on Windows-hosted VMs since the early 2000s. The time to move on was long gone: I went with the ASUS PB50 Barebone MiniPC with AMD Ryzen 7 3750H [[NewEgg](https://www.newegg.com/asus-pb50-bbr009md/p/N82E16856110195?Description=ryzen%20mini%20pc&cm_re=ryzen_mini%20pc-_-9SIAB94BEN4139-_-Product), [Amazon](https://www.amazon.com/ASUS-Integrated-Radeon-DisplayPort-Bluetooth-PB50-BBR009MD/dp/B081B5QTCY/ref=pd_di_sccai_1/144-7585039-8084019?_encoding=UTF8&pd_rd_i=B081B5QTCY&pd_rd_r=2afe08bc-a6cd-401f-945c-18ad7d585ff8&pd_rd_w=HdGbL&pd_rd_wg=DT0zi&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=43VPS6PTTGJ1KMY54JQV&psc=1&refRID=43VPS6PTTGJ1KMY54JQV)].
+For most of 2018 and almost all of 2019, I suffered with Hyper-V-related and VirtualBox-related crashes in Windows 10. I assume these crashes were largely related to my use of AMD-based hardware with Microsoft’s 21<sup>st</sup>-century virtual machine technology. Nevertheless, I took these rude interruptions as a prompt for me to move my Ubuntu-desktop-based workflows (featuring Visual Studio Code) to _real_ hardware. I have been experimenting with Linux on Windows-hosted VMs since the early 2000s. The time to move on was long gone: I went with the ASUS PB50 Barebone MiniPC with AMD Ryzen 7 3750H [[NewEgg](https://www.newegg.com/asus-pb50-bbr009md/p/N82E16856110195?Description=ryzen%20mini%20pc&cm_re=ryzen_mini%20pc-_-9SIAB94BEN4139-_-Product), [Amazon](https://www.amazon.com/ASUS-Integrated-Radeon-DisplayPort-Bluetooth-PB50-BBR009MD/dp/B081B5QTCY/ref=pd_di_sccai_1/144-7585039-8084019?_encoding=UTF8&pd_rd_i=B081B5QTCY&pd_rd_r=2afe08bc-a6cd-401f-945c-18ad7d585ff8&pd_rd_w=HdGbL&pd_rd_wg=DT0zi&pf_rd_p=c9443270-b914-4430-a90b-72e3e7e784e0&pf_rd_r=43VPS6PTTGJ1KMY54JQV&psc=1&refRID=43VPS6PTTGJ1KMY54JQV)].
 
 ## the ‘pressure’ is on to upgrade to .NET 5
 
@@ -69,12 +71,12 @@ Unless I am deeply mistaken—and I _can_ be deeply mistaken, having the latest 
 
 BTW: since recruiters ask me this question too often, I need to recall that I probably started using the .NET Framework in 2003 when version 1.1 was released [[Wikipedia](https://en.wikipedia.org/wiki/.NET_Framework_version_history)].
 
-## sketching out a development schedule (revision 11)
+## sketching out a development schedule (revision 12)
 
 The schedule of the month:
 
+- upgrade to .NET Core ~~3.0~~ 5.0 📦↑
 - add Stills API to `Songhay.Player` (b-roll player) 🕸🌩
-- consider upgrading to .NET Core 3.0
 - use `@songhay/index` as a side-car app for “Day Path” and “the rasx() context” 🚛📦
 - add proposed [content Web component](https://github.com/BryanWilhite/songhay-web-components/issues/10)
 - use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
