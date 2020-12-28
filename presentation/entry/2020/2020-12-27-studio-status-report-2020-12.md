@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2020-12",
-  "documentShortName": "2020-12-24-studio-status-report-2020-12",
+  "documentShortName": "2020-12-27-studio-status-report-2020-12",
   "fileName": "index.html",
-  "path": "./entry/2020-12-24-studio-status-report-2020-12",
-  "date": "2020-12-25T01:01:14.984Z",
-  "modificationDate": "2020-12-25T01:01:14.984Z",
+  "path": "./entry/2020-12-27-studio-status-report-2020-12",
+  "date": "2020-12-28T00:25:10.286Z",
+  "modificationDate": "2020-12-28T00:25:10.286Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2020-12-24-studio-status-report-2020-12",
+  "clientId": "2020-12-27-studio-status-report-2020-12",
   "tag": "{\n  \"extract\": \"month 12 of 2020 was about the data behind the Index layout I have always been fractal with the rabbit holes 🐇🕳 I may break things but I do not move “fast.” I got “lost” this month in formally thinking about the data I would be using to drive the displa…\"\n}"
 }
 ---
