@@ -1,0 +1,398 @@
+[
+  {
+    "SegmentId": "1",
+    "SegmentName": "Enterprise Data Solutions",
+    "SortOrdinal": "1",
+    "CreateDate": "2002-10-16T10:32:56.8570000",
+    "ParentSegmentId": null,
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "2",
+    "SegmentName": "Digital Media Production",
+    "SortOrdinal": "2",
+    "CreateDate": "2002-10-16T10:33:15.4930000",
+    "ParentSegmentId": null,
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "3",
+    "SegmentName": "The Funky Knowledge Base",
+    "SortOrdinal": "3",
+    "CreateDate": "2002-10-16T10:33:00.0000000",
+    "ParentSegmentId": null,
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "9",
+    "SegmentName": "Cascading Style Sheets Highlights",
+    "SortOrdinal": null,
+    "CreateDate": "1999-01-10T20:47:49.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "10",
+    "SegmentName": "DHTML Highlights",
+    "SortOrdinal": null,
+    "CreateDate": "1999-01-10T20:47:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "11",
+    "SegmentName": "Crystal Reports DDF Builder ",
+    "SortOrdinal": null,
+    "CreateDate": "1999-01-10T20:47:49.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "13",
+    "SegmentName": "Songhay System",
+    "SortOrdinal": "4",
+    "CreateDate": "2002-10-29T21:51:42.2000000",
+    "ParentSegmentId": null,
+    "ClientId": "",
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "14",
+    "SegmentName": "Digital Compositing for NTSC Broadcast Segments with Sonic Foundry Vegas Video 3.0",
+    "SortOrdinal": null,
+    "CreateDate": "2002-11-14T10:10:27.3500000",
+    "ParentSegmentId": "2",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "15",
+    "SegmentName": "Developing a Customized COM Object for ADO",
+    "SortOrdinal": null,
+    "CreateDate": "2002-11-26T15:34:31.2870000",
+    "ParentSegmentId": "1",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "16",
+    "SegmentName": "XHTML Schemas in Word 2003 Documents",
+    "SortOrdinal": null,
+    "CreateDate": "2005-01-15T00:56:16.0830000",
+    "ParentSegmentId": "1",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "17",
+    "SegmentName": "JavaScript Regular Expressions",
+    "SortOrdinal": null,
+    "CreateDate": "2005-02-09T21:57:51.2270000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "20",
+    "SegmentName": "Sage Feeds (OPML)",
+    "SortOrdinal": null,
+    "CreateDate": "2005-02-09T23:08:15.5500000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "22",
+    "SegmentName": "AJaX Highlights",
+    "SortOrdinal": null,
+    "CreateDate": "2005-12-01T15:39:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "37",
+    "SegmentName": "tinyMCE Sample",
+    "SortOrdinal": null,
+    "CreateDate": "2007-05-06T18:17:24.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "38",
+    "SegmentName": "Carousel Demo (billwscott.com)",
+    "SortOrdinal": null,
+    "CreateDate": "2009-04-06T19:55:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "39",
+    "SegmentName": "Lightbox Demo (huddletogether.com)",
+    "SortOrdinal": null,
+    "CreateDate": "2009-04-06T21:48:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "40",
+    "SegmentName": "SimpleViewer Demo (airtightinteractive.com)",
+    "SortOrdinal": null,
+    "CreateDate": "2009-04-06T21:51:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "41",
+    "SegmentName": "YouTube Chromeless Player Demo",
+    "SortOrdinal": null,
+    "CreateDate": "2009-04-06T21:52:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "42",
+    "SegmentName": "YUI Charts Demo",
+    "SortOrdinal": null,
+    "CreateDate": "2009-04-06T22:09:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "False"
+  },
+  {
+    "SegmentId": "53",
+    "SegmentName": "jQuery Samples",
+    "SortOrdinal": null,
+    "CreateDate": "2009-11-09T12:34:00.0000000",
+    "ParentSegmentId": "3",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "62",
+    "SegmentName": "Graphic Design Issues",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.0600000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "63",
+    "SegmentName": "Access 2.x",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.0830000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "64",
+    "SegmentName": "Access 97",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.0870000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "65",
+    "SegmentName": "Audio/Video",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.0930000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "66",
+    "SegmentName": "Hardware Issues",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.0970000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "67",
+    "SegmentName": "HTML, XHTML and Scripting",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1000000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "68",
+    "SegmentName": "Internetworking Issues",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1070000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "69",
+    "SegmentName": "Java Technologies",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1070000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "70",
+    "SegmentName": "Projects",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1100000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "71",
+    "SegmentName": "Songhay System",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1130000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "72",
+    "SegmentName": "SQL and Database Management Systems",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1200000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "73",
+    "SegmentName": "Linux/Unix Issues",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1230000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "74",
+    "SegmentName": "Visual Basic 4.0",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1230000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "75",
+    "SegmentName": "Visual Basic 5.0",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1300000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "76",
+    "SegmentName": "Visual Basic for Applications",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1300000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "77",
+    "SegmentName": "Visual Studio 6.0",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1330000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "79",
+    "SegmentName": "Windows OS",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1330000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "80",
+    "SegmentName": "kintespace.com",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1330000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "81",
+    "SegmentName": "Health and Finance Issues",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1330000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "83",
+    "SegmentName": ".NET Framework",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1330000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "84",
+    "SegmentName": "XML Technologies",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1370000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "85",
+    "SegmentName": "Office Applications",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1370000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "86",
+    "SegmentName": "Deep and Profound Study",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:48:41.1400000",
+    "ParentSegmentId": "101",
+    "ClientId": null,
+    "IsActive": "True"
+  },
+  {
+    "SegmentId": "101",
+    "SegmentName": "The Funky Knowledgebase",
+    "SortOrdinal": null,
+    "CreateDate": "2010-06-12T19:13:22.3930000",
+    "ParentSegmentId": null,
+    "ClientId": null,
+    "IsActive": "True"
+  }
+]
