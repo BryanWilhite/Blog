@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2021-01",
-  "documentShortName": "2021-01-23-studio-status-report-2021-01",
+  "documentShortName": "2021-01-30-studio-status-report-2021-01",
   "fileName": "index.html",
-  "path": "./entry/2021-01-23-studio-status-report-2021-01",
-  "date": "2021-01-24T04:27:07.709Z",
-  "modificationDate": "2021-01-24T04:27:07.709Z",
+  "path": "./entry/2021-01-30-studio-status-report-2021-01",
+  "date": "2021-01-31T01:34:34.759Z",
+  "modificationDate": "2021-01-31T01:34:34.759Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-01-23-studio-status-report-2021-01",
+  "clientId": "2021-01-30-studio-status-report-2021-01",
   "tag": "{\n  \"extract\": \"month 01 of 2021 was about upgrading the core Studio packages to .NET 5.0 Yes, I did it. 🐇🕳 I am wasting too much your/my sweet time but the Studio needed to upgrade to .NET 3.0—and I waited so long that the Studio needed to upgrade to .NET 5.0. The fol…\"\n}"
 }
 ---
