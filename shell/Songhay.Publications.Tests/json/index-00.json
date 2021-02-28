@@ -1,5 +1,19 @@
 [
   {
+    "extract": "month 02 of 2021 was about eleventy (11ty.dev) index layout I have spent months complaining about being stuck on the Stills API. This month is no exception but it is now clear that I am not breaking out the ‘sibling’ work items correctly. My work on the e…",
+    "clientId": "2021-02-27-studio-status-report-2021-02",
+    "inceptDate": "02/28/2021 02:23:03",
+    "modificationDate": "02/28/2021 02:23:03",
+    "title": "studio status report: 2021-02"
+  },
+  {
+    "extract": "month 01 of 2021 was about upgrading the core Studio packages to .NET 5.0 Yes, I did it. 🐇🕳 I am wasting too much your/my sweet time but the Studio needed to upgrade to .NET 3.0—and I waited so long that the Studio needed to upgrade to .NET 5.0. The fol…",
+    "clientId": "2021-01-30-studio-status-report-2021-01",
+    "inceptDate": "01/31/2021 01:34:34",
+    "modificationDate": "01/31/2021 01:34:34",
+    "title": "studio status report: 2021-01"
+  },
+  {
     "extract": "month 12 of 2020 was about the data behind the Index layout I have always been fractal with the rabbit holes 🐇🕳 I may break things but I do not move “fast.” I got “lost” this month in formally thinking about the data I would be using to drive the displa…",
     "clientId": "2020-12-27-studio-status-report-2020-12",
     "inceptDate": "12/28/2020 00:25:10",

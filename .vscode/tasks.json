@@ -130,7 +130,7 @@
                 "command": "dotnet",
                 "args": [
                     "~/appRoot/songhay/publications/Songhay.Publications.Shell.dll",
-                    "IndexActivity",
+                    "SearchIndexActivity",
                     "--base-path",
                     "${workspaceFolder}/shell",
                     "--settings-file",
@@ -140,7 +140,7 @@
             "windows": {
                 "command": "Songhay.Publications.Shell",
                 "args": [
-                    "IndexActivity",
+                    "SearchIndexActivity",
                     "--base-path",
                     "${workspaceFolder}\\shell",
                     "--settings-file",
