@@ -35,10 +35,10 @@ namespace Songhay.Publications.Tests
             "../../../../../presentation/entry", "../../../json", "index.json")]
         public void ShouldGenerateIndex(string entryRoot, string jsonRoot, string indexFileName)
         {
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            entryRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
             var entryRootInfo = new DirectoryInfo(entryRoot);
 
-            jsonRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
+            jsonRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
             Assert.True(Directory.Exists(jsonRoot));
             var jsonRootInfo = new DirectoryInfo(jsonRoot);
 
@@ -67,7 +67,7 @@ namespace Songhay.Publications.Tests
             "../../../json/index.c.json")]
         public async Task ShouldUploadCompressedIndex(string blobContainerName, FileInfo compressedIndexInfo)
         {
-            var basePath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, "../../../");
+            var basePath = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, "../../../");
             var builder = new ConfigurationBuilder()
                 .SetBasePath(basePath)
                 .AddJsonFile("app-settings.songhay-system.json", optional : false, reloadOnChange : true);

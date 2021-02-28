@@ -50,10 +50,10 @@ namespace Songhay.Publications.Tests
         [InlineData("../../../../../shell", "../../../json", "index.json")]
         public void ShouldMigrateLegacy(string shellRoot, string jsonRoot, string indexName)
         {
-            shellRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, shellRoot);
+            shellRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, shellRoot);
             Assert.True(Directory.Exists(shellRoot));
 
-            jsonRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
+            jsonRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
             Assert.True(Directory.Exists(jsonRoot));
 
             var shellRootInfo = new DirectoryInfo(shellRoot);
@@ -143,13 +143,13 @@ namespace Songhay.Publications.Tests
             "../../../json", "index.json")]
         public void ShouldMigrateLegacyFromAzS(string shellRoot, string azsRoot, string jsonRoot, string indexName)
         {
-            shellRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, shellRoot);
+            shellRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, shellRoot);
             Assert.True(Directory.Exists(shellRoot));
 
-            azsRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, azsRoot);
+            azsRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, azsRoot);
             Assert.True(Directory.Exists(azsRoot));
 
-            jsonRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
+            jsonRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, jsonRoot);
             Assert.True(Directory.Exists(jsonRoot));
 
             var shellRootInfo = new DirectoryInfo(shellRoot);

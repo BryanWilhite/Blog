@@ -113,7 +113,7 @@ namespace Songhay.Publications.Tests
         public void ShouldEditBlogEntries(string entryRoot)
         {
             // arrange
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            entryRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
 
             var entryRootInfo = new DirectoryInfo(entryRoot);
 
@@ -129,7 +129,7 @@ namespace Songhay.Publications.Tests
         public void ShouldEditBlogEntry(string entryPath)
         {
             // arrange
-            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+            entryPath = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
 
             var entryPathInfo = new FileInfo(entryPath);
 
@@ -147,7 +147,7 @@ namespace Songhay.Publications.Tests
         )]
         public void ShouldRemoveUnsupportedCharacters(string entryPath, char[] chars, string charList)
         {
-            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+            entryPath = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
 
             var entryPathInfo = new FileInfo(entryPath);
 
@@ -178,7 +178,7 @@ namespace Songhay.Publications.Tests
         public void ShouldValidateFrontMatter(string entryRoot, string filter)
         {
             // arrange
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            entryRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
             this._testOutputHelper.WriteLine($"Root {entryRoot}...");
 
             var entryRootInfo = new DirectoryInfo(entryRoot);

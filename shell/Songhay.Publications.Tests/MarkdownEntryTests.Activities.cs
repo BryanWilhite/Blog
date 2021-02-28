@@ -60,7 +60,7 @@ namespace Songhay.Publications.Tests
             "../../../../../presentation/entry/2019/2019-11-21-why-i-stopped-using-ngrx-and-other-tweeted-links.md")]
         public void ShouldAddEntryExtract(string entryPath)
         {
-            entryPath = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
+            entryPath = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryPath);
 
             var entryPathInfo = new FileInfo(entryPath);
 
@@ -79,7 +79,7 @@ namespace Songhay.Publications.Tests
             "t.co")]
         public void ShouldExpandUris(string entryRoot, string collapsedHost)
         {
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            entryRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
             var entryRootInfo = new DirectoryInfo(entryRoot);
 
             this._testOutputHelper.WriteLine($"Root {entryRootInfo.FullName}...");
@@ -95,7 +95,7 @@ namespace Songhay.Publications.Tests
         public void ShouldGenerateEntry(string entryDraftRoot, string title)
         {
             // arrange
-            entryDraftRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryDraftRoot);
+            entryDraftRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryDraftRoot);
 
             // act
             var entry = MarkdownEntryUtility.GenerateEntryFor11ty(entryDraftRoot, title);
@@ -111,9 +111,9 @@ namespace Songhay.Publications.Tests
         public void ShouldPublishEntry(string entryRoot, string presentationRoot, string fileName)
         {
             // arrange
-            entryRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
-            presentationRoot = FrameworkAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, presentationRoot);
-            presentationRoot = FrameworkFileUtility.GetCombinedPath(presentationRoot, DateTime.Now.Year.ToString());
+            entryRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, entryRoot);
+            presentationRoot = ProgramAssemblyUtility.GetPathFromAssembly(this.GetType().Assembly, presentationRoot);
+            presentationRoot = ProgramFileUtility.GetCombinedPath(presentationRoot, DateTime.Now.Year.ToString());
 
             // act
             var path = MarkdownEntryUtility.PublishEntryFor11ty(entryRoot, presentationRoot, fileName);

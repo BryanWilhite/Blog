@@ -1,18 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Html2Markdown" Version="3.4.0.414" />
-    <PackageReference Include="markdig" Version="0.22.1" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.3" />
-    <PackageReference Include="Songhay.Cloud.BlobStorage" Version="3.0.14" />
-    <PackageReference Include="Songhay.Publications" Version="1.0.16" />
-    <PackageReference Include="SonghayCore.xUnit" Version="3.0.21" />
+    <PackageReference Include="Html2Markdown" Version="4.0.0.427" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.1" />
+    <PackageReference Include="Songhay.Cloud.BlobStorage" Version="5.0.0" />
+    <PackageReference Include="Songhay.Publications" Version="5.1.1" />
+    <PackageReference Include="SonghayCore.xUnit" Version="5.0.0" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
