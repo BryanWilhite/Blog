@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2021-02-27-studio-status-report-2021-02",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 02 of 2021 was about eleventy (11ty.dev) index layout I have spent months complaining about being stuck on the Stills API. This month is no exception but it is now clear that I am not breaking out the ‘sibling’ work items correctly. My work on the e…\"\n}"
 }
 ---
 
