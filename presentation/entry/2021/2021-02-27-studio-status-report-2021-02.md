@@ -21,15 +21,22 @@
 
 ## month 02 of 2021 was about eleventy (11ty.dev) index layout
 
-I have spent months complaining about being stuck on the Stills API. This month is no exception but it is now clear that I am not breaking out the ‘sibling’ work items correctly. My work on the [eleventy (11ty.dev) index layout](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts/index-11ty#readme) should have been listed before (or immediately after) the Stills API item in my development schedule below.
+I have spent months complaining about being stuck on the Stills API (about a few months less than _fifteen_ months). This month is no exception but it is now clear that I am not breaking out the ‘sibling’ work items correctly. My work on the [eleventy (11ty.dev) index layout](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts/index-11ty#readme) should have been listed before (or immediately after) the Stills API item in my development schedule below.
 
 This work is a significant breakthrough! It establishes the Publication Index in the realm of eleventy, making the upgrade of kintespace.com technically possible (with help forthcoming from LiteDB [🐙🐈 [GitHub](https://github.com/mbdavid/litedb)]).
 
-## building a formly sample
+## my first full-stack sample, featuring formly
 
-The day job breakthrough for month 02 is my [new Angular forms sample](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-web-mvc-angular-forms#readme) over the .NET 5.0 flavor of ASP.NET. I am slightly embarrassed to have waited so long in my career to make an HTML forms showcase for myself—because the elevator pitch for the SPA in general and Angular in particular is the Web forms development experience.
+The day-job breakthrough for month 02 is my [new Angular forms sample](https://github.com/BryanWilhite/dotnet-core/tree/master/dotnet-web-mvc-angular-forms#readme) over the .NET 5.0 flavor of ASP.NET. I am slightly embarrassed to have waited so long in my full-stack-developer career to make an HTML forms showcase for myself—because the elevator pitch for the SPA in general and Angular in particular is the Web-forms pipeline experience.
 
-[formly](https://formly.dev/) (and perhaps later [form.io](https://www.form.io/)) is the catalyst for my motivation to work on this bread-and-butter stack. Thanks to [Abdellatif Ait boudad](https://github.com/aitboudad) for building a server-based, JSON-driven solution to generate Angular forms!
+When my last day-job contract ended, I was inspired to go through a retrospective which led to these highlights:
+
+- Akita (used on the job) [🐙🐈 [GitHub](https://github.com/datorama/akita)]
+- `ui-router` (used on the job) [🐙🐈 [GitHub](https://github.com/ui-router/angular)]
+- SubSink (used on the job) [🐙🐈 [GitHub](https://github.com/wardbell/subsink)]
+- formly [🐙🐈 [GitHub](https://github.com/ngx-formly/ngx-formly)]
+
+[formly](https://formly.dev/) (and perhaps later [form.io](https://www.form.io/)) supplies the motivation to work on my first full-stack demo. Thanks to [Abdellatif Ait boudad](https://github.com/aitboudad) for building a server-based, JSON-driven solution to generate Angular forms!
 
 ## seeing the end of `Newtonsoft.Json`
 
