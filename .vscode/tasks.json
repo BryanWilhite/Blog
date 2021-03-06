@@ -121,7 +121,7 @@
             "problemMatcher": []
         },
         {
-            "label": "Songhay Publications Shell [IndexActivity, with current opened settings file]",
+            "label": "Songhay Publications Shell [SearchIndexActivity, with current opened settings file]",
             "type": "shell",
             "options": {
                 "cwd": "${workspaceFolder}/shell"
