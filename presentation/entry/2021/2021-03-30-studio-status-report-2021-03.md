@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2021-03",
-  "documentShortName": "2021-03-28-studio-status-report-2021-03",
+  "documentShortName": "2021-03-30-studio-status-report-2021-03",
   "fileName": "index.html",
-  "path": "./entry/2021-03-28-studio-status-report-2021-03",
-  "date": "2021-03-28T22:48:37.448Z",
-  "modificationDate": "2021-03-28T22:48:37.448Z",
+  "path": "./entry/2021-03-30-studio-status-report-2021-03",
+  "date": "2021-03-31T02:10:43.258Z",
+  "modificationDate": "2021-03-31T02:10:43.258Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-03-28-studio-status-report-2021-03",
+  "clientId": "2021-03-30-studio-status-report-2021-03",
   "tag": "{\n  \"extract\": \"month 03 of 2021 was about regrouping around Publications The phrase ‘regrouping around Publications’ is a fluffy cloud of words 🌩 hovering over hard changes: - retiring the private Songhay.GenericWeb repo 🚜🔥 and building out the private Songhay.Public…\"\n}"
 }
 ---
@@ -32,7 +32,7 @@ The phrase ‘regrouping around Publications’ is a fluffy cloud of words 🌩 
 
 After over 20 years the terms `gen-web` and `GenericWeb` are no more! This change represents the move away from relational data support and repository-patterning as an ongoing study. Ironically, I am using an ER diagram to sketch out the document-database, no-SQL schema that should be the future of this Studio:
 
-![the document-database, no-SQL schema](../presentation/image/day-path-2021-03-29-19-17-04.png)
+![the document-database, no-SQL schema](../../image/day-path-2021-03-29-19-17-04.png)
 
 Some subtle points:
 
