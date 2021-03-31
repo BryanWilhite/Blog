@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 03 of 2021 was about regrouping around Publications The phrase ‘regrouping around Publications’ is a fluffy cloud of words 🌩 hovering over hard changes: - retiring the private Songhay.GenericWeb repo 🚜🔥 and building out the private Songhay.Public…",
+    "clientId": "2021-03-30-studio-status-report-2021-03",
+    "inceptDate": "03/31/2021 02:10:43",
+    "modificationDate": "03/31/2021 02:10:43",
+    "title": "studio status report: 2021-03"
+  },
+  {
     "extract": "month 02 of 2021 was about eleventy (11ty.dev) index layout I have spent months complaining about being stuck on the Stills API. This month is no exception but it is now clear that I am not breaking out the ‘sibling’ work items correctly. My work on the e…",
     "clientId": "2021-02-27-studio-status-report-2021-02",
     "inceptDate": "02/28/2021 02:23:03",
