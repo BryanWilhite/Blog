@@ -2,6 +2,20 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "powershell: upload Blog search indices",
+            "type": "shell",
+            "command": "powershell",
+            "args": [
+                "-ExecutionPolicy",
+                "RemoteSigned",
+                "-NoProfile",
+                "-File",
+                "${workspaceFolder}/shell/ps1/Upload-StorageAccountContainer.ps1",
+                "../../../Songhay.Shell/json/app-settings.songhay-system.json"
+            ],
+            "problemMatcher": []
+        },
+        {
             "label": "build",
             "command": "dotnet",
             "type": "shell",

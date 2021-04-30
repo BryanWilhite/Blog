@@ -1,21 +1,18 @@
 Push-Location $PSScriptRoot
 
-$accountName = "songhaystorage"
-$containerName = "day-path-blog"
+$jsonPath = $args[0]
 
-$accountKey = "o9yYN8V5A/JqdJAjPpZj9AN3PizChq6Y697kld5681Tqe+GgzB8BqtdF6DaPj3yLfoP0DFW2BD1CxMhiYBTPWg=="
+if (-not(Test-Path $jsonPath)) {
+    Write-Warning "Cannot find path $jsonPath. Exiting script."
+    exit
+}
 
-$path = "..\Songhay.Publications.Tests\json"
+$settings = Get-Content -Path $jsonPath | ConvertFrom-Json
 
-Get-ChildItem -Path $path -Filter "index-*.c.json" | `
-    ForEach-Object {
-        &az storage blob upload --container-name $containerName `
-        --file $_.FullName `
-        --name $_.Name `
-        --account-key $accountKey `
-        --account-name $accountName `
-        --auth-mode key `
-        --content-cache-control "max-age=864000,public,must-revalidate" `
-        --content-encoding "gzip" `
-        --content-type "application/json"
-    }
+$azStorageCnn = $settings.ProgramMetadata.CloudStorageSet.SonghayCloudStorage."general-purpose-v1"
+
+&az storage blob upload-batch `
+    --connection-string $azStorageCnn `
+    --destination day-path-blog `
+    --pattern "index-*.c.json" `
+    --source ../Songhay.Publications.Tests/json

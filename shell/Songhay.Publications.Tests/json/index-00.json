@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 04 of 2021 was about prepping a Core Release and ripping the guts out of Songhay.Player The SonghayCore version 5.1.0 release is almost complete. According to me, this release is mainly about addressing System.Text.Json support but there are other m…",
+    "clientId": "2021-04-28-studio-status-report-2021-04",
+    "inceptDate": "04/28/2021 23:28:20",
+    "modificationDate": "04/28/2021 23:28:20",
+    "title": "studio status report: 2021-04"
+  },
+  {
     "extract": "month 03 of 2021 was about regrouping around Publications The phrase ‘regrouping around Publications’ is a fluffy cloud of words 🌩 hovering over hard changes: - retiring the private Songhay.GenericWeb repo 🚜🔥 and building out the private Songhay.Public…",
     "clientId": "2021-03-30-studio-status-report-2021-03",
     "inceptDate": "03/31/2021 02:10:43",
