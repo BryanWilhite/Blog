@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2021-05-24-studio-status-report-2021-05",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 05 of 2021 was about getting the b-roll player and LiteDB working in the Studio The latest addition to b-roll player technology is a NuGet package called Polly [GitHub] which allows the b-roll player to define formal retry policies with respect to c…\"\n}"
 }
 ---
 
