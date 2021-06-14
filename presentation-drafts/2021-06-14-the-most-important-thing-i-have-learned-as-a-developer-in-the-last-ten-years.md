@@ -29,7 +29,7 @@ I my world of agile-like software development, this translates to:
 2. code.
 3. refer to the artifact produced by step 1.
 
-That step _1_ up there is the most important thing I have learned as a developer in the last ten years. In my agile-like situations, during a sprint we get _cards_. A card (or a ticket) will have a description and acceptance criteria (when I am lucky). I now see that it is my responsibility to turn that acceptance criteria into a _card plan_.
+That step _1_ up there is the most important thing I have learned as a developer in the last ten years. In my agile-like situations, during a sprint we get _cards_. A card (or a ticket) will have a description and [acceptance criteria](https://jelvix.com/blog/user-stories-acceptance-criteria) (when I am lucky). I now see that it is my responsibility to turn that acceptance criteria into a _card plan_.
 
 My card plan is a declaration to the team (and to the entire company) of what I intend to do. By clearly defining this planning step, I am defining a metric that answers the question, How long does it take to develop a plan for a card? Based on my decades of experience it should take me less than six hours to write a plan _when I am working with professionals_. When I am working with rock stars, the plan should already be written (or the plan writes itself).
 
@@ -69,5 +69,9 @@ These are filed under [Empirical Process Control](https://www.scrumstudy.com/why
 Almost every agile-ish organization is ‘forced’ to define units of work to be done in a clearly defined work period (_sprint_). This helps to prevent leadership from changing the work that needs to be done without warning (which happened quite a bit before my pre-agile-ish days).
 
 However, I use the term agile-ish because my post-agile-manifesto work history is littered with companies that routinely violate the clearly defined work period, placing pressure on developers instead of product owners/stakeholders. There is a double meaning to the phrase “push beyond the boundaries” which can romantically suggest a passionate quest for innovation or can be an ask for human beings to destroy their work-life balance without mercy _for years_. Too many organizations are caught up in the romance and eagerly look for a chance to “push beyond the boundaries” which can translate into giving team members _too much_ work to do. Having enough time to actually _plan_ what you are going to do is a red flag for these toxic people that you do not have enough work. These people are garbage, of course.
+
+## how does your card plan write itself?
+
+When the acceptance criteria uses domain names (or business terminology) that maps directly to source-control artifacts, the card plan writes itself. In my ignorance, I assume that [SpecFlow and Gherkin](https://specflow.org/learn/gherkin/) can automate this process. In my current day job, there is the promise (or very strong suggestion) that I will have the opportunity to look into this technology further.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
