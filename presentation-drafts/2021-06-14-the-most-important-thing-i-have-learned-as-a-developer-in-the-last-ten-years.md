@@ -27,19 +27,20 @@ I my world of agile-like software development, this translates to:
 
 1. tell them what/where you are going to code.
 2. code.
-3. remind them of step 1.
+3. refer to the artifact produced by step 1.
 
 That step _1_ up there is the most important thing I have learned as a developer in the last ten years. In my agile-like situations, during a sprint we get _cards_. A card (or a ticket) will have a description and acceptance criteria (when I am lucky). I now see that it is my responsibility to turn that acceptance criteria into a _card plan_.
 
 My card plan is a declaration to the team (and to the entire company) of what I intend to do. By clearly defining this planning step, I am defining a metric that answers the question, How long does it take to develop a plan for a card? Based on my decades of experience it should take me less than six hours to write a plan _when I am working with professionals_. When I am working with rock stars, the plan should already be written (or the plan writes itself).
 
-But lets get back to my real world: when the card plan takes over 24 hours and management signals that I am the problem that is how I know I am surrounded by enemies and I should leave the company as soon as possible. In my retroactive speculation, I can imagine managers from my sordid past pulling moves like:
+But lets get back to my real world: when the card plan takes over 24 hours and management signals that _I_ am the problem that is how I know I am surrounded by well-compensated enemies/fools and I should leave the company as soon as possible. In my retroactive speculation, I can imagine managers from my sordid past pulling moves like:
 
+- suggesting that we are in a state of emergency and we should be _doing_ instead of writing which a luxury for those not about to go out of business (apparently, for last 10 years)
 - suggesting that, because I am a _senior_ developer, the need to write out this plan is a sign of weakness and reeks of an impostor
 - feeling like it is a waste of time to write out these plans (for a narcissist who designed a _very proprietary_, monolithic system over _a period of years_) and within 90 days a _senior_ developer should “get up to speed” without any help (no face-to-face questions really answered, no documentation, no unit tests, no product training materials)
 - when a bug breaks out related my work, _not_ going back to read my card plan to see my plans were _not_ related to the bug which implies the story needed to be rewritten and the Product Owner(s) are in error
 - immediately assuming that these plans would be too detailed and lengthy instead of curt, precise summaries, literally documenting how a developer’s knowledge of the system is increasing because _it is harder to write something short_ rather than rambling on
-- insisting that we “talked” about what needed to be done and taking the time write down what was talked about is just a waste of time (because “everyone” has an on-command, intimate memory of what was said when “we live and breathe” this everyday as there is no other “life” but this office building)
+- insisting that we “talked” about what needed to be done and taking the time write down what was talked about is just a waste of time (because “everyone” has an on-command, intimate memory of what was said when “we live and breathe” this everyday as there is no other “life” but our time in this office building)
 
 So the point I am trying to make is that I have spent most of my adult, work-for-hire “life” _non_-working with people who were eager to blame me (as I am usually the outsider in so many ways) when shit went wrong instead of taking a humble look at themselves _first_. [According to people who are not me](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/),
 
@@ -54,5 +55,19 @@ My card plan is also a way to find out whether I am an idiot faster as well (of 
 ## um, can a PR _duplicate_ your card plan?
 
 This is a passive-aggressive, science-fiction, time-traveling question asked by an asshole who does not like to write in human readable languages. The answer to this fantastic (as in science-fiction _fantasy_) question is _yes_. In fact, a PR (a [pull request](https://de.wikipedia.org/wiki/Pull_Request)) can be proof that a card plan worked which means it is effectively a _duplicate_ of a card plan. But the card plan is meant for humans to read and is used as a historical journal entry to uncover and measure units of work. It is also a warning in place sent to the people in charge of what is about to happen while the PR records what actually happened (assuming the [commit comments](https://chris.beams.io/posts/git-commit/) are excellent). In the world of unit testing, this is _expected_ and _actual_, respectively.
+
+## er, why do you say “agile-ish”
+
+Sadly, kids, most “normal” Americans are in management (or they leave the industry) before the end of their second decade as a software developer. Few would agree, but I argue that this is case because few organizations have agile values at the core. The agile values I have been hinting at in the artifact you are reading here are:
+
+- Transparency
+- Artifacts
+- Inspection
+
+These are filed under [Empirical Process Control](https://www.scrumstudy.com/whyscrum/scrum-empirical-process-control). In most of the organizations I have experienced, transparency is forced on the organization through some third-party investigation which can escalate to litigation.
+
+Almost every agile-ish organization is ‘forced’ to define units of work to be done in a clearly defined work period (_sprint_). This helps to prevent leadership from changing the work that needs to be done without warning (which happened quite a bit before my pre-agile-ish days).
+
+However, I use the term agile-ish because my post-agile-manifesto work history is littered with companies that routinely violate the clearly defined work period, placing pressure on developers instead of product owners/stakeholders. There is a double meaning to the phrase “push beyond the boundaries” which can romantically suggest a passionate quest for innovation or can be an ask for human beings to destroy their work-life balance without mercy _for years_. Too many organizations are caught up in the romance and eagerly look for a chance to “push beyond the boundaries” which can translate into giving team members _too much_ work to do. Having enough time to actually _plan_ what you are going to do is a red flag for these toxic people that you do not have enough work. These people are garbage, of course.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
