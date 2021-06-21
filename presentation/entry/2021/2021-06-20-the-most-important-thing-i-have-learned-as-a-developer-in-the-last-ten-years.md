@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "the most important thing I have learned as a developer in the last ten years",
-  "documentShortName": "2021-06-14-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
+  "documentShortName": "2021-06-20-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
   "fileName": "index.html",
-  "path": "./entry/2021-06-14-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
-  "date": "2021-06-14T18:38:14.822Z",
-  "modificationDate": "2021-06-14T18:38:14.822Z",
+  "path": "./entry/2021-06-20-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
+  "date": "2021-06-21T00:58:31.005Z",
+  "modificationDate": "2021-06-21T00:58:31.005Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-06-14-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
+  "clientId": "2021-06-20-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
   "tag": "{\n  \"extract\": \"I will truly be very, very blessed to have 10 more years of life on this Earth as a productive software developer. The most important thing I have learned as a developer in the last ten years is not some engineering technique. It is more of a communicatio…\"\n}"
 }
 ---
@@ -42,13 +42,13 @@ But let’s get back to my real world: when the card plan takes over 24 hours an
 - immediately assuming that these plans would be too detailed and lengthy instead of curt, precise summaries, literally documenting how a developer’s knowledge of the system is increasing because _it is harder to write something short_ rather than rambling on
 - insisting that we “talked” about what needed to be done and taking the time write down what was talked about is just a waste of time (because “everyone” has an on-command, intimate memory of what was said when “we live and breathe” this everyday as there is no other “life” but our time in this office building)
 
-So the point I am trying to make is that I have spent most of my adult, work-for-hire “life” _non_-working with people who were eager to blame me (as I am usually the outsider in so many ways) when _Scheiße_ went wrong instead of taking a humble look at themselves and their long-time colleagues _first_. Usually, I am hired help the team do something they have never done before (largely because a previous employee with my skills and more left the company—which should be a red flag to me); _rarely_ am I hired to do something that someone else already present can do (or wants to do). I actually consider this redundancy a privilege. Others may call it _expensive_.
+So the point I am trying to make is that I have spent most of my adult, work-for-hire “life” _non_-working with people who were eager to blame me (as I am usually the outsider in so many ways) when [_Scheiße_](https://dictionary.cambridge.org/dictionary/german-english/scheisse) went wrong instead of taking a humble look at themselves and their long-time colleagues _first_. Usually, I am hired help the team do something they have never done before (largely because a previous employee with my skills and more left the company—which should be a red flag to me); _rarely_ am I hired to do something that someone else already present can do (or wants to do). I actually consider this redundancy a privilege. Others may call it _expensive_.
 
 [According to people who are not me](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/),
 
 > Developers spend most of their time figuring the system out.
 
-My card planning step is a simple, measurable recognition of this unromantic reality. And it is too tempting for incumbent management (and their seconds in command) to accuse a new developer of being stupid rather than admit that their system is [AFU](https://en.wikipedia.org/wiki/Military_slang) (and too neglected) to figure out _easily_. When you or someone under your watch designed a system that your tool vendor would consider “experimental” at best or hostile to the vendor road-map at worst, then your [_Scheiße_](https://dictionary.cambridge.org/dictionary/german-english/scheisse) is _probably_ AFU. When your service-oriented architecture is not taking advantage of [the true intent behind microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI), then your _Scheiße_ is _probably_ AFU. When you release pre-alpha-ish code to me (featuring recursive calls to [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp)) with optimistic expectations around me writing unit tests for it in about a day (longer than eight hours), then your _Scheiße_ is _probably_ AFU. This is, I flippantly assume, what one manager (who is actually quite a brilliant chap) described as my [probalistic thinking](https://en.wikipedia.org/wiki/Probabilistic_logic).
+My card planning step is a simple, measurable recognition of this unromantic reality. And it is too tempting for incumbent management (and their seconds in command) to accuse a new developer of being stupid rather than admit that their system is [AFU](https://en.wikipedia.org/wiki/Military_slang) (and too neglected) to figure out _easily_. When you or someone under your watch designed a system that your tool vendor would consider “experimental” at best or hostile to the vendor road-map at worst, then your _Scheiße_ is _probably_ AFU. When your service-oriented architecture is not taking advantage of [the true intent behind microservices](https://www.youtube.com/watch?v=zzMLg3Ys5vI), then your _Scheiße_ is _probably_ AFU. When you release pre-alpha-ish code to me (featuring recursive calls to [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp)) with optimistic expectations around me writing unit tests for it in about a day (longer than eight hours), then your _Scheiße_ is _probably_ AFU. This is, I flippantly assume, what one manager (who is actually quite a brilliant chap) described as my [probalistic thinking](https://en.wikipedia.org/wiki/Probabilistic_logic).
 
 I have worked with [_arschlöcher_](https://en.wiktionary.org/wiki/Arschloch) who would have prevented me from publishing my card plan in an inter-departmental forum (like [JIRA](https://en.wikipedia.org/wiki/Jira_(software))) because it would reveal to non-technical people what is actually going on. In my new-guy ignorance, I would be unaware that some “embellishments” were in play and my transparency would be seen as a hostile act of sabotage instead of something inclusive and constructive. And, by the way, one hostile act of sabotage deserves another. Had I known about this technique earlier in my career, it would have been easier to find these _arschlöcher_ faster.
 
