@@ -1,5 +1,12 @@
 [
   {
+    "extract": "I will truly be very, very blessed to have 10 more years of life on this Earth as a productive software developer. The most important thing I have learned as a developer in the last ten years is not some engineering technique. It is more of a communicatio…",
+    "clientId": "2021-06-20-the-most-important-thing-i-have-learned-as-a-developer-in-the-last-ten-years",
+    "inceptDate": "06/21/2021 00:58:31",
+    "modificationDate": "06/21/2021 00:58:31",
+    "title": "the most important thing I have learned as a developer in the last ten years"
+  },
+  {
     "extract": "month 05 of 2021 was about getting the b-roll player and LiteDB working in the Studio The latest addition to b-roll player technology is a NuGet package called Polly [GitHub] which allows the b-roll player to define formal retry policies with respect to c…",
     "clientId": "2021-05-24-studio-status-report-2021-05",
     "inceptDate": "05/24/2021 18:50:26",
