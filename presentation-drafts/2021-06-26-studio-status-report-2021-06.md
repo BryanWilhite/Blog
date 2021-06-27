@@ -43,25 +43,25 @@ The following table will summarize the `IActivity`-related types in `SonghayCore
 
 ### Azure Storage REST API support in `SonghayCore`
 
-Issues [#118](https://github.com/BryanWilhite/SonghayCore/issues/118) and [#125](https://github.com/BryanWilhite/SonghayCore/issues/125) (a bug 🐛) mark the advent of [Azure Storage REST API](https://docs.microsoft.com/en-us/rest/api/storageservices/) support in `SonghayCore`. This is huge news!
+Issues [#118](https://github.com/BryanWilhite/SonghayCore/issues/118) and [#125](https://github.com/BryanWilhite/SonghayCore/issues/125) (a bug 🐛) mark the advent of [Azure Storage REST API](https://docs.microsoft.com/en-us/rest/api/storageservices/) support in `SonghayCore`. This is huge news! It is my introduction to [Shared Key Authorization](https://docs.microsoft.com/en-us/rest/api/storageservices/authorize-with-shared-key) which I currently refuse to believe is a Microsoft-only technique. I assume that this form of REST authorization is a gateway to industry-wide practices that a “friendly” SDK can hide.
 
-One file, `HttpRequestMessageExtensions.AzureStorage.cs` [[GitHub](https://github.com/BryanWilhite/SonghayCore/blob/master/SonghayCore/Extensions/HttpRequestMessageExtensions.AzureStorage.cs)] of less than 200 lines of code (excluding XML docs), replaces the _entire_ `Songhay.Cloud.BlobStorage` 📦 package! (This is largely because there was never a need for that much functionality in the [Azure Storage SDK](https://www.nuget.org/packages/Azure.Storage.Blobs/).)
+One file, `HttpRequestMessageExtensions.AzureStorage.cs` [[GitHub](https://github.com/BryanWilhite/SonghayCore/blob/master/SonghayCore/Extensions/HttpRequestMessageExtensions.AzureStorage.cs)] of less than 200 lines of code (excluding XML docs), replaces the _entire_ `Songhay.Cloud.BlobStorage` 📦 package! (This is largely because there was never a need for that much functionality in the [Azure Storage SDK](https://www.nuget.org/packages/Azure.Storage.Blobs/).) The `Songhay.Cloud.BlobStorage` repo will drift at sea for a while and will be archived later. This move lines up with [my previous statement](http://songhayblog.azurewebsites.net/entry/2021-03-30-studio-status-report-2021-03/) about moving away from ‘repository-patterning as an ongoing study.’
 
 ### bringing b-roll Activities to center stage
 
-Just a few months ago, b-roll player logic sat in an ASP.NET Core API and in `Songhay,Player.Activities`. This is an undesired arrangement as an API layer should call logic _inside_ of `Songhay,Player.Activities`. The development schedule sketch (below) is revised to show this work (“centralize all `Songhay.Player` logic under Activities”).
+Just a few months ago, b-roll player logic sat in an ASP.NET Core API and in `Songhay,Player.Activities`. This is an undesired arrangement as an API layer should call logic _inside_ of `Songhay,Player.Activities`. The development schedule sketch (below) is revised to show this work (“centralize all `Songhay.Player` logic under Activities”) as done.
 
-Much of this work was made possible by the Azure Storage REST API support added to the Core and increasing my understanding of [progressive download](https://en.wikipedia.org/wiki/Progressive_download), specifically my understanding of the `Stream.CopyTo` method [[📖 docs](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.copyto?view=net-5.0)]. I admit that there _was_ the ignorant temptation to load MP3 files into memory in a `byte` array but this is _not_ scalable from a memory-allocation point of view.
+Much of this work was made possible by the Azure Storage REST API support added to the Core and increasing my understanding of [progressive download](https://en.wikipedia.org/wiki/Progressive_download), specifically my understanding of the `Stream.CopyTo` method [[📖 docs](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream.copyto?view=net-5.0)]. I admit that there _was_ the ignorant temptation to load MP3 files into server memory in a `byte` array but such extravagant and naïve allocations _not_ scalable.
 
-This work on progressive download via explicit use of `Stream` brings b-roll player functionality completely inside of Activities instead of depending on a Web server underlying `Stream`.
+This work on progressive download via explicit use of `Stream` brings b-roll player functionality completely inside of Activities instead of depending on a server layer’s underlying `Stream`.
 
 ## what i learned about explicit use of `Stream`
 
-The intent of `IActivity` and the interfaces that descend from it is to brightly and clearly define how to process input and output.
+The intent of `IActivity` and the interfaces that descend from it is to brightly and clearly define how to process _input_ and _output_.
 
-However, when a `Stream` is either input or output is will likely be closed (unusable) at runtime. Unless I am deeply mistaken, `Stream` is the only type that is totally devoted to *thoughput*. Unless I am deeply mistaken again, my intent to handle thoughput is indicated by passing around the strategy `Action<Stream>`.
+However, when a `Stream` is either input or output, it will likely be closed (unusable) at runtime when crossing the boundary where it was allocated. Unless I am deeply mistaken, `Stream` is the only type that is totally devoted to *throughput*. Unless I am deeply mistaken again, my intent to handle throughput is indicated by passing around the strategy `Action<Stream>`.
 
-There is the temptation to stay devoted to `IActivity`-based contracts and express this:
+There is the temptation to stay devoted to existing `IActivity`-based contracts and express this:
 
 ```csharp
 public class ProgressiveAudioActivity : IActivityWithTask<(ProgramArgs args, streamAction Action<Stream>)>
@@ -69,7 +69,7 @@ public class ProgressiveAudioActivity : IActivityWithTask<(ProgramArgs args, str
 }
 ```
 
-But this tuple input will not work (probably) on the command-line level. Another approach is to avoid `Stream` I/O entirely and return the object ‘hosting’ the stream:
+But this tuple input will not work (conveniently) on the command-line level. Another approach is to avoid `Stream` I/O entirely and return the object ‘hosting’ the stream:
 
 ```csharp
 public class PresentationStorageActivity : IActivityWithTask<ProgramArgs, HttpResponseMessage>
@@ -77,9 +77,9 @@ public class PresentationStorageActivity : IActivityWithTask<ProgramArgs, HttpRe
 }
 ```
 
-But I think this approach is failure to understand that [passing around](https://stackoverflow.com/questions/4085939/who-should-call-dispose-on-idisposable-objects-when-passed-into-another-object) an `IDisposable` is only possible when `using` is never used and I think this is a recipe for a memory-leak disaster.
+But I think this approach is failure to understand that [passing around](https://stackoverflow.com/questions/4085939/who-should-call-dispose-on-idisposable-objects-when-passed-into-another-object) an `IDisposable` is only possible when `using` is never used and I think this delicate handling is a recipe for a memory-leak disaster.
 
-So my interim solution is to define `public async Task DownloadStreamAsync(string presentationKey, string fileName, Action<Stream> streamAction)` as a quick and dirty way to make *throughput* available in Activities not running from the command line.
+So my interim solution is to define `public async Task DownloadStreamAsync(string presentationKey, string fileName, Action<Stream> streamAction)` as a quick and dirty way to make *throughput* available in Activities _not_ running from the command line.
 
 Later, this could be formalized in contracts like:
 
@@ -95,7 +95,7 @@ public interface IActivityWithTaskThroughput<IDisposable> : IActivity
 }
 ```
 
-By chaining `IActivity` contracts, command-line support should be possible. And, yes, I was deeply mistaken: any class implementing `IDisposable` should be regarded as *thoughput*.
+By chaining `IActivity` contracts, command-line support should be possible. And, yes, I was deeply mistaken: _any_ class implementing `IDisposable` should be regarded as *throughput*.
 
 BTW, this is what I mean by ‘chaining `IActivity` contracts’:
 
