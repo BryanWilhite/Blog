@@ -76,10 +76,10 @@ However, I use the term agile-ish because my post-agile-manifesto work history i
 
 ## my card plan addresses the distraction problem
 
-One famous complaint in the software development world is around [distractions](https://www.ironistic.com/the-cost-of-distractions-on-developers/). The high cost of commercial real estate means developers will work in environments full of acoustic distractions—let alone organizational distractions like being invited to too many meetings. Blocking out what is supposed to be a relatively small time to plan actual work leaves me with simple TODO list that I can blindly follow _most_ of the tme while being jostled around by distractions. It follows that this planning revelation of mine also represents a _compromise_ with the typical environmental disasters of the modern workplace.
+One famous complaint in the software development world is around [distractions](https://www.ironistic.com/the-cost-of-distractions-on-developers/). The high cost of commercial real estate means developers will work in environments full of acoustic distractions—let alone organizational distractions like being invited to too many meetings. Blocking out what is supposed to be a relatively small time to plan actual work leaves me with a simple TODO list that I can cling to _most_ of the time—while being jostled around by distractions surrounding my team. It follows that this planning revelation of mine also represents a _compromise_ with the typical environmental disasters of the modern, barbaric workplace.
 
 ## how does your card plan write itself?
 
-When the acceptance criteria uses domain names (or business terminology) that maps directly to source-control artifacts, the card plan writes itself. In my ignorance, I assume that [SpecFlow and Gherkin](https://specflow.org/learn/gherkin/) can automate this process. In my current day job, there is the promise (or very strong suggestion) that I will have the opportunity to look into this technology further. Maybe not.
+When the acceptance criteria uses domain names (or business terminology) that maps directly to source-control artifacts, the card plan writes itself. In my ignorance, I assume that [SpecFlow and Gherkin](https://specflow.org/learn/gherkin/) can automate and accelerate this process. In my current day job, there is the promise (or very strong suggestion) that I will have the opportunity to look into this technology further in a team setting. Maybe not.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
