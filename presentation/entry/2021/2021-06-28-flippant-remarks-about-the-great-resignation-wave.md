@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "flippant remarks about the “great resignation” wave",
-  "documentShortName": "2021-06-14-flippant-remarks-about-the-great-resignation-wave",
+  "documentShortName": "2021-06-28-flippant-remarks-about-the-great-resignation-wave",
   "fileName": "index.html",
-  "path": "./entry/2021-06-14-flippant-remarks-about-the-great-resignation-wave",
-  "date": "2021-06-14T14:38:42.902Z",
-  "modificationDate": "2021-06-14T14:38:42.902Z",
+  "path": "./entry/2021-06-28-flippant-remarks-about-the-great-resignation-wave",
+  "date": "2021-06-28T18:43:12.367Z",
+  "modificationDate": "2021-06-28T18:43:12.367Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-06-14-flippant-remarks-about-the-great-resignation-wave",
+  "clientId": "2021-06-28-flippant-remarks-about-the-great-resignation-wave",
   "tag": "{\n  \"extract\": \"2011 was the year working remotely became a reality for me. It lasted for about four months. That was when I learned about the first caveat around working remotely: some companies allow working remotely solely for financial reasons: they simply cannot aff…\"\n}"
 }
 ---
