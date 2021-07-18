@@ -29,7 +29,7 @@ Some of the confusion comes from legacy [Entity Framework](https://docs.microsof
 
 ## the Web Publication Index
 
-Compiling a collection of `Segment` groups into a file renders an _Index_. Meanwhile, in the real world, [there is the confusion](https://english.stackexchange.com/questions/45555/is-a-table-of-contents-an-index) between a “table of contents” and an _Index_. As of this writing in the Songhay studio, we avoid this confusion by defining an _Index_ here and looking forward to defining a Keyword Index (which is a real-world index).
+Compiling a collection of `ISegment` groups into a file renders an _Publication Index_. Meanwhile, in the real world, [there is the confusion](https://english.stackexchange.com/questions/45555/is-a-table-of-contents-an-index) between a “table of contents” and an _Index_. As of this writing in the Songhay studio, we avoid this confusion by defining an _Index_ here and looking forward to defining a Keyword Index (which is a real-world index).
 
 All of this fantastic thinking about the Index comes from [my work](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts) on rendering a Web Publication Index in HTML. I have been working on the visual design of two kinds of Index layouts:
 
@@ -262,6 +262,6 @@ interface SearchIndexEntry extends Partial<Document> {
 }
 ```
 
-By writing this, I see now that I can replace the `LunrIndexEntry` [I have defined for this Blog Publication](https://github.com/BryanWilhite/day-path/blob/master/src/ts/models/lunr-index-entry.ts) with the more generalized `SearchIndexEntry`.
+By writing this, I see now that I can replace the `LunrIndexEntry` [I have defined for this Blog Publication](https://github.com/BryanWilhite/day-path/blob/251af3b421424cf8a47af56eed82db9041442a12/src/ts/models/lunr-index-entry.ts) with the more generalized `SearchIndexEntry`.
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
