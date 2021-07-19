@@ -37,7 +37,7 @@ interface SearchIndexEntry extends Partial<Document> {
 | repo | language | remarks |
 |- |- |-
 | `songhay-core` | Typescript | consumed in Day Path and rasx() context Blogs by lunrjs, client-side search UX |
-| `Songhay.Publications` | C# | `Songhay.Publications.Activities.GenerateSearchIndexFrom11tyEntries()`
+| `Songhay.Publications` | C# | `Songhay.Publications.Activities.GenerateSearchIndexFrom11tyEntries()` |
 
 ## Publications Index Entry
 
@@ -51,6 +51,6 @@ interface IndexEntry extends Partial<Segment> {
 | repo | language | remarks |
 |- |- |-
 | `songhay-core` | Typescript | consumed by Publication Index layouts [[GitHub](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts)] |
-| `Songhay.Publications` | C# | `ISegmentExtensions.ToPublicationIndexEntryJObject()`
+| `Songhay.Publications` | C# | `ISegmentExtensions.ToPublicationIndexEntryJObject()` |
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
