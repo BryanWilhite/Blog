@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio-status-report-2021-07",
-  "documentShortName": "2021-07-06-studio-status-report-2021-07",
+  "documentShortName": "2021-07-25-studio-status-report-2021-07",
   "fileName": "index.html",
-  "path": "./entry/2021-07-06-studio-status-report-2021-07",
-  "date": "2021-07-07T02:32:32.931Z",
-  "modificationDate": "2021-07-07T02:32:32.931Z",
+  "path": "./entry/2021-07-25-studio-status-report-2021-07",
+  "date": "2021-07-25T21:08:46.211Z",
+  "modificationDate": "2021-07-25T21:08:46.211Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-07-06-studio-status-report-2021-07",
+  "clientId": "2021-07-25-studio-status-report-2021-07",
   "tag": "{\n  \"extract\": \"month 07 of 2021 was about moving kintespace.com to a new server and day-job drama The hosting service for kintespace.com effectively forced me to take yet another discount and move to a new Ubuntu server. The discount went from a turn-of-the-century ~$50…\"\n}"
 }
 ---
