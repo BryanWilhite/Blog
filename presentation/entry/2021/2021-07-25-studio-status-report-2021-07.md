@@ -1,7 +1,7 @@
 ---json
 {
   "documentId": 0,
-  "title": "studio-status-report-2021-07",
+  "title": "studio status report: 2021-07",
   "documentShortName": "2021-07-25-studio-status-report-2021-07",
   "fileName": "index.html",
   "path": "./entry/2021-07-25-studio-status-report-2021-07",
@@ -17,7 +17,7 @@
 }
 ---
 
-# studio-status-report-2021-07
+# studio status report: 2021-07
 
 ## month 07 of 2021 was about moving kintespace.com to a new server and day-job drama
 
