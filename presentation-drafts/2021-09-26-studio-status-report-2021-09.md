@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2021-09-26-studio-status-report-2021-09",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"month 09 of 2021 was about restoring kintespace.com hits data collection and other Studio chores The day job is kicking my ass. Period. My Studio work is broken up into small fragments as my large projects suffer neglect: - kintespace.com: salvaging hits…\"\r\n}"
 }
 ---
 
