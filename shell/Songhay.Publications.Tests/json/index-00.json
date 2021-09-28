@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 09 of 2021 was about restoring kintespace.com hits data collection and other Studio chores The day job is kicking my ass. Period. My Studio work is broken up into small fragments as my large projects suffer neglect: - kintespace.com: salvaging hits…",
+    "clientId": "2021-09-26-studio-status-report-2021-09",
+    "inceptDate": "09/26/2021 18:30:21",
+    "modificationDate": "09/26/2021 18:30:21",
+    "title": "studio status report: 2021-09"
+  },
+  {
     "extract": "month 08 of 2021 was about SpecFlow (day job), F# notes and losing hits data for kintespace.com First, the horrible news: my forced migration to a new server for kintespace.com led to the loss of hits data for month 7 and pieces of month 8 (I think). This…",
     "clientId": "2021-08-30-studio-status-report-2021-08",
     "inceptDate": "08/30/2021 16:20:32",
