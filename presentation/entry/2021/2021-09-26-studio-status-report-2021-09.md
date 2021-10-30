@@ -94,8 +94,6 @@ The packages other than `ts-mocha` and `ts-lint` cannot be upgraded because of r
 
 There might be a way to use Typescript with `mocha` without needing `ts-mocha`.
 
-## 
-
 ## sketching out a development schedule (revision 18)
 
 The schedule of the month:
