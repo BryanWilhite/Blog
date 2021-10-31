@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2021-10-30-studio-status-report-2021-10",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "tag": "{\n  \"extract\": \"month 10 of 2021 was about using BenchmarkDotNet at the day job The day job is still kicking my ass. However, the beating was more self-inflicted and about adding a second, desired skill to my ridiculously-long resume. It took almost a decade at UCLA to a…\"\n}"
 }
 ---
 
