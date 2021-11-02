@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 10 of 2021 was about using BenchmarkDotNet at the day job The day job is still kicking my ass. However, the beating was more self-inflicted and about adding a second, desired skill to my ridiculously-long resume. It took almost a decade at UCLA to a…",
+    "clientId": "2021-10-30-studio-status-report-2021-10",
+    "inceptDate": "10/30/2021 17:10:00",
+    "modificationDate": "10/30/2021 17:10:00",
+    "title": "studio status report: 2021-10"
+  },
+  {
     "extract": "month 09 of 2021 was about restoring kintespace.com hits data collection and other Studio chores The day job is kicking my ass. Period. My Studio work is broken up into small fragments as my large projects suffer neglect: - kintespace.com: salvaging hits…",
     "clientId": "2021-09-26-studio-status-report-2021-09",
     "inceptDate": "09/26/2021 18:30:21",
