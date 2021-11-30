@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2021-11-28-studio-status-report-2021-11",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 11 of 2021 was about discovering why F# is a core Publication language This is my third month of making mention of my public study of F#. For the last two months I assumed that my study of F# would be a background, far-flung-future thing, helping me…\"\n}"
 }
 ---
 
@@ -21,7 +21,7 @@
 
 ## month 11 of 2021 was about discovering why F# is a core Publication language
 
-This is my third month of making mention of [my public study of F#](https://github.com/BryanWilhite/jupyter-central/tree/master/get-programming-with-f-sharp). For the last two months I assumed that my study of F# would be a background, far-flung-future thing, helping me to _think_ about how to get “real” work done (better). Then [I learned about F# discriminated unions](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/21-modeling-relationships-in-f-sharp.ipynb) (DUs) and yet another layer of proverbial of scales fell from my eyes. Trying to explain DUs to the c-like language world (which is effectively “everyone”) is like trying to explain why a ‘dialect’ of regular-expression syntax is useful for expressing class hierarchies. What? _Exactly._
+This is my third month of making mention of [my public study of F#](https://github.com/BryanWilhite/jupyter-central/tree/master/get-programming-with-f-sharp). For the last two months I assumed that my study of F# would be a background, far-flung-future thing, helping me to _think_ about how to get “real” work done (better). Then [I learned about F# discriminated unions](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/21-modeling-relationships-in-f-sharp.ipynb) (DUs) and yet another layer of proverbial of scales fell from my eyes. Trying to explain DUs to the c-like language world (which is effectively “everyone” who “codes”) is like trying to explain why a ‘dialect’ of regular-expression syntax is useful for expressing class hierarchies. What? _Exactly._
 
 This huge revelation leads me in a few directions:
 
@@ -35,11 +35,13 @@ These F#-based moves have the following repercussions:
 - the `@songhay/index` work in Angular will likely be translated into Bolero and NuGet-packaged
 - plans for `@songhay/player-audio-???` will likely be moved toward Bolero
 
-I had no idea that my study of F# would be so disruptive!
+I had no idea that my study of F# would be so disruptive! I am not sure that my relatively new `songhay-core` [[GitHub](https://github.com/BryanWilhite/songhay-core)] project will _not_ be deleted.
 
 ## i have learned that my Python work with `pyo` on Linux is not possible by default
 
-On Ubuntu, we have PulseAudio for general audio needs and JACK for high-performance, professional applications. `pyo` requires JACK but it is not installed by default the version of Ubuntu in use in my studio (20.04).
+On Ubuntu, we have PulseAudio for general audio needs and JACK for high-performance, professional applications. `pyo` requires JACK but it is not installed by default the version of Ubuntu in use in my studio (20.04). The Linux audio-production world is [eagerly watching](https://www.youtube.com/watch?v=3Z_b8VayU4g) the release of [Pipewire](https://pipewire.org/) as the solution for running PulseAudio and JACK side by side.
+
+I have started [a Python-based study of audio](https://github.com/BryanWilhite/jupyter-central/tree/master/python-audio) that basically starts off with stuff we can do with PulseAudio.
 
 ## sketching out a development schedule (revision 19)
 
