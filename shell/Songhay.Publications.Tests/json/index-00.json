@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 11 of 2021 was about discovering why F# is a core Publication language This is my third month of making mention of my public study of F#. For the last two months I assumed that my study of F# would be a background, far-flung-future thing, helping me…",
+    "clientId": "2021-11-28-studio-status-report-2021-11",
+    "inceptDate": "11/28/2021 18:40:01",
+    "modificationDate": "11/28/2021 18:40:01",
+    "title": "studio status report: 2021-11"
+  },
+  {
     "extract": "month 10 of 2021 was about using BenchmarkDotNet at the day job The day job is still kicking my ass. However, the beating was more self-inflicted and about adding a second, desired skill to my ridiculously-long resume. It took almost a decade at UCLA to a…",
     "clientId": "2021-10-30-studio-status-report-2021-10",
     "inceptDate": "10/30/2021 17:10:00",
