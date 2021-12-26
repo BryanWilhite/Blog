@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 12 of 2021 was about working the development schedule No new distractions for month 12: most of the non-day-job time was spent on the project associated with new version of SonghaySystem.com. This project of massive change has progressed quite smoot…",
+    "clientId": "2021-12-26-studio-status-report-2021-12",
+    "inceptDate": "12/26/2021 17:52:57",
+    "modificationDate": "12/26/2021 17:52:57",
+    "title": "studio status report: 2021-12"
+  },
+  {
     "extract": "month 11 of 2021 was about discovering why F# is a core Publication language This is my third month of making mention of my public study of F#. For the last two months I assumed that my study of F# would be a background, far-flung-future thing, helping me…",
     "clientId": "2021-11-28-studio-status-report-2021-11",
     "inceptDate": "11/28/2021 18:40:01",
