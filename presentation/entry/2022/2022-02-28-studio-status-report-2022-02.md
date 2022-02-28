@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2022-02-28-studio-status-report-2022-02",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 2 of 2022 was about day-job Azure Functions and Studio Blazor For the day-job, I had the privilege of revisiting Azure Functions. Basically, this ‘allowed’ me to write a research/recommendations document based on two Studio READMEs…\"\n}"
 }
 ---
 
