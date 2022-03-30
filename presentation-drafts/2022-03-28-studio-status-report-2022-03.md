@@ -29,7 +29,30 @@ Meanwhile back in the Studio, I made [a commit](https://github.com/BryanWilhite/
 Program.mkProgram init update view
 ```
 
-This may seem obvious to every other Elmish developer on Earth but it was not clear to me that `Bolero.ElmishComponent<_,_>` does not have its own `update`-`view` cycle. Hey Bryan: there is only one `update`-`view` cycle and it is on the Elmish `Program` level. What this means (super-obviously) is that, yes, we can define a `view` function on the Elmish Component level but it must be chained to the `Program`-level `view` function. However, trying to make an `update` function on the Elmish Component level held me up for _days_. The elegant simplicity was overwhelming! This [commit](https://github.com/BryanWilhite/Songhay.Dashboard/commit/2af72056000847aece9a82e503f3ea793131b5b5) I made represents the realization that an `updateModel` function was needed (for my design) instead of a child `update` function—again, I’ll explain why later.
+This may seem obvious to every other Elmish developer on Earth but it was not clear to me that `Bolero.ElmishComponent<_,_>` does not have its own `update`-`view` cycle. Hey Bryan: there is only one `update`-`view` cycle and it is on the Elmish `Program` level. What this means (super-obviously) is that, yes, we can define a `view` function on the Elmish Component level but it must be ‘chained’ to the `Program`-level `view` function. However, trying to make an `update` function on the Elmish Component level held me up for _days_. The elegant simplicity was overwhelming! This [commit](https://github.com/BryanWilhite/Songhay.Dashboard/commit/2af72056000847aece9a82e503f3ea793131b5b5) I made represents the realization that an `updateModel` function was needed (for my design) instead of a child `update` function—again, I’ll explain why later.
+
+## month 3 of 2022 was also about learning how to use `webpack` to release JavaScript libraries for CDNs
+
+Retrospectively, is makes sense that _first thing_ most `webpack` users would do is bundle a JavaScript library for <acronym title="Content Delivery Network">CDN</acronym> usage with, say, [unpkg](https://unpkg.com/). Here in Bryan-world, this is like the _last_ thing I am doing with `webpack`. For example, my `songhay` [library](https://www.npmjs.com/package/songhay), was originally intended to be compiled/bundled in a TypeScript project. So `webpack` was originally needed for its generation of `*.d.ts` files for the Typescript-project IDE experience. My secondary need for `webpack` is to bundle the output of these Typescript projects into _one_ minimized file for production release.
+
+It was not until _this month_ that I realized the super obvious: I could not use `songhay` on a site like CodePen—and I needed CodePen to help me with my Bolero work, prototyping the responsive thumbnail experience for the b-roll player. On CodePen, I modified this experience by starting with:
+
+1. [thumbnails](https://codepen.io/rasx/pen/rNYQowe) with jQuery
+2. [thumbnails](https://codepen.io/rasx/pen/popzXxm) with modern, native JavaScript
+3. [thumbnails](https://codepen.io/rasx/pen/mdpdqwW) with the `songhay` [library](https://www.npmjs.com/package/songhay)
+
+Now I can experiment with #3 by translating it into Bolero. CodePen can finally see `songhay` with this URI: <https://unpkg.com/songhay@0.3.1/dist/songhay.js>. This was all made possible with [the following](https://github.com/BryanWilhite/songhay-core/blob/8456414e4dc135c13d714ea0502e2fbdd250f1f6/webpack.config.js#L35) `webpack.config.js` setting:
+
+```javascript
+const outputLibraryConfig = {
+    library: {
+        name: 'rx',
+        type: 'var',
+    },
+};
+```
+
+As of this writing, the `webpack` folks document `output.library` under [the configuration section of their documentation](https://webpack.js.org/configuration/output/#outputlibrary). When a novice first uses `webpack`, they might read the [concepts section of the documentation](https://webpack.js.org/concepts/#output) and never see `output.library` (which is what I did).
 
 ## selected Studio notes from month 3
 
