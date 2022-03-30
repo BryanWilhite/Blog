@@ -69,6 +69,28 @@ That `DateTime.TryParse` expression above is but one example of how much F# reco
 
 Another great example of this dedication is the foundational `Option.ofNullable` function [ 📖 [docs](https://fsharp.github.io/fsharp-core-docs/reference/fsharp-core-optionmodule.html#ofNullable)] which supports `Nullable<T>` [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-6.0)].
 
+## before you resort to interfaces or `Func<T>`/`Action<T>` delegates, just pass a function
+
+Again, F\# bends over backwards for .NET APIs—so it _does_ support interfaces, `Func<T>` [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/api/system.func-1?view=net-6.0)] and `Action<T>` [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/api/system.action-1?view=net-6.0)]. But this great support can confuse a novice F# developer (like me).
+
+For example, the following F# function is not necessary (when this function will only be used by F# expressions):
+
+```fsharp
+let sayHello (hf: Func<string>) = hf.Invoke() |> printfn "%s"
+
+Func<string>(fun () -> "hi") |> sayHello //invocation prints "hi"
+```
+
+We can express an equivalent without `Func<string>`:
+
+```fsharp
+let sayHello (hf: unit -> string) = hf() |> printfn "%s"
+
+(fun () -> "hi") |> sayHello //invocation prints "hi"
+```
+
+We see that we are passing a `unit -> string` type into `sayHello` in the latter example. This use of a type is just as effective as an interface or .NET generic delegates. F# wants us to find ways to express intent with types _before_ resorting to interfaces or classes.
+
 ## F\# does _not_ really need LINQ
 
 Because I enjoy using [LINQ](https://en.wikipedia.org/wiki/Language_Integrated_Query) in C# so much, I made [an extensive study of why F# does not really need LINQ](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/15-working-with-collections-in-fsharp.ipynb) during my reading of [_Get Programming with F#_](https://www.manning.com/books/get-programming-with-f-sharp).
