@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2022-03",
-  "documentShortName": "2022-03-28-studio-status-report-2022-03",
+  "documentShortName": "2022-03-30-studio-status-report-2022-03",
   "fileName": "index.html",
-  "path": "./entry/2022-03-28-studio-status-report-2022-03",
-  "date": "2022-03-29T00:22:57.102Z",
-  "modificationDate": "2022-03-29T00:22:57.102Z",
+  "path": "./entry/2022-03-30-studio-status-report-2022-03",
+  "date": "2022-03-30T19:54:04.929Z",
+  "modificationDate": "2022-03-30T19:54:04.929Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2022-03-28-studio-status-report-2022-03",
+  "clientId": "2022-03-30-studio-status-report-2022-03",
   "tag": "{\n  \"extract\": \"month 3 of 2022 was about learning how to use Elmish components and quitting the day-job I did not quit my day job in order to work on the project that I have been working on for the last five months. That would not be a wise financial decision. And there…\"\n}"
 }
 ---
