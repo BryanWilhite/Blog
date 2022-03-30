@@ -39,11 +39,11 @@ With sincere thanks to the people with the names above, let me now get flippant:
 
 ## shut up and start with the `|>` operator
 
-One of the many things Isaac Abraham does well, is let us know that we should not get intimidated by the massive “[Symbol and operator reference](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/symbol-and-operator-reference/).” We should start with the forward pipeline function, `|>` and see how it functions with the last argument of a [curried function](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/posts/currying.html).
+One of the many things Isaac Abraham does well, is let us know that we should not get intimidated by the massive “[Symbol and operator reference](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/symbol-and-operator-reference/).” We should start with the forward pipeline operator, `|>`, and see how it works with the last argument of a [curried function](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/posts/currying.html) (keep reading and see below).
 
 ## you are _not_ writing statements in F\#
 
-In F# you are writing _expressions_. For the veteran C# developer, this might sound like you would be writing everything as [expression lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions), making [expression trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/). I recommend asking Don Syme about this but to me this sounds right except there is no clunky `Expression<TDelegate>` syntax (and your expression can be separated by line breaks and whitespace).
+In F# you are writing _expressions_. For the veteran C# developer, this might sound like you would be writing everything as [expression lambdas](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions), making [expression trees](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/). I recommend asking Don Syme about this but to me this sounds right except there is no clunky `Expression<TDelegate>` syntax (and your expressions can be separated by line breaks and whitespace).
 
 To really drive home the fact that F# is expression based is the lack of a `return` keyword (except when you are using `async` or `task` blocks [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/async)]). The last line of your expression is the _return_ value of an F# function (when you are returning nothing—or what we call `void` in C#—we return `()`, the `unit` [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/unit-type)] expression).
 
@@ -53,7 +53,7 @@ Should you “hate” the importance of whitespace in Python then you will “ha
 
 ## tuples are first-class citizens in F\#
 
-My Isaac-Abraham-led [study of tuples in F#](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/09-shaping-data-with-tuples.ipynb) shows me that tuples are _fundamental_ to F#. The use of commas in F# is probably expressing a tuple like in this typical, `DateTime.TryParse` expression:
+My Isaac-Abraham-led [study of tuples in F#](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/09-shaping-data-with-tuples.ipynb) shows me that tuples are _fundamental_ to F#. The use of commas in F# is probably expressing a tuple like the two tuples in this typical, `DateTime.TryParse` expression:
 
 ```fsharp
 match DateTime.TryParse dateTimeString with
@@ -65,7 +65,7 @@ All .NET `TryParse` patterns decompose into tuples in F#.
 
 ## F\# bends over backwards for .NET APIs
 
-That `DateTime.TryParse` expression above is but one example of how much F# recognizes the existence of .NET. It would be a mistake to assume that F# wants to escape or trivialize the .NET ecosystem. It would be better to assume that F# deviates from .NET when it “has not been invented yet” for the CLR. For example, the [Hindley-Milner (HM) type system](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system) has not been invented yet for .NET but it is the beating heart of F# (see “many of the recent developments in C# were inspired by F\#” below).
+That `DateTime.TryParse` expression above is but one example of how much F# recognizes the existence of .NET. It would be a mistake to assume that F# wants to escape or trivialize the .NET ecosystem. It would be better to assume that F# deviates from .NET when it “has not been invented yet” for the <acronym title="Common Language Runtime">CLR</acronym> [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/standard/clr)]. For example, the [Hindley-Milner (HM) type system](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system) has not been invented yet for .NET but it is the beating heart of F# (see “many of the recent developments in C# were inspired by F\#” below).
 
 Another great example of this dedication is the foundational `Option.ofNullable` function [ 📖 [docs](https://fsharp.github.io/fsharp-core-docs/reference/fsharp-core-optionmodule.html#ofNullable)] which supports `Nullable<T>` [ 📖 [docs](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-6.0)].
 
@@ -103,12 +103,15 @@ According to the great Scott Wlaschin [@ScottWlaschin](https://twitter.com/Scott
 >
 >—“[F# for Fun and Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/posts/conciseness-functions-as-building-blocks.html)”
 
-In my opinion, libraries like `Giraffe.ViewEngine` [[GitHub](https://github.com/giraffe-fsharp/Giraffe.ViewEngine#html-elements-and-attributes)] should be in _every_ presentation, showing off the DSL features of F# (Don Syme, by the way, does do this but we need others to do more). When we couple these F# HTML DSLs with Microsoft’s take on [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) which is [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), one (like me) will immediately want to see how F# is married to Blazor. Accordingly, I am currently experimenting with [Bolero](https://fsbolero.io/), a project led by [Loïc Denuzière](https://www.linkedin.com/in/tarmil/) [@_Tarmil](https://twitter.com/Tarmil_).
+In my opinion, libraries like `Giraffe.ViewEngine` [[GitHub](https://github.com/giraffe-fsharp/Giraffe.ViewEngine#html-elements-and-attributes)] should be in _every_ presentation, showing off the DSL features of F#. (Don Syme, by the way, _does_ refer to HTML DSLs when he presents but we need more presenters with more references). When we couple these F# HTML DSLs with Microsoft’s take on [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) which is [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor), one (like me) will immediately want to see how F# is married to Blazor. Accordingly, I am currently experimenting with [Bolero](https://fsbolero.io/), a project led by [Loïc Denuzière](https://www.linkedin.com/in/tarmil/) [@_Tarmil](https://twitter.com/Tarmil_).
 
-## many of the recent developments in C# were inspired by F\#
+When we couple these HTML DSLs with an F#-to-JavaScript compiler like [Fable](https://fable.io/), we can get honest with ourselves and admit just how much we are very-seasoned-but-not-very-fond of working in an `npm`-based JavaScript ecosystem where you have to run `npm-check` [ 📦 [package](https://www.npmjs.com/package/npm-check)] every three weeks.
 
-Here is an incomplete list of features in C# that _clearly_ come from F#:
+## many of the recent developments in C\# were inspired by F\#
 
+Here is an incomplete list of features in C# that _clearly_ ‘come from’ F#:
+
+- [Records](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/record)
 - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching) (but I think C# has more features)
 - [Discards](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards)
 - [Tuple Deconstruction](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct)
@@ -121,7 +124,7 @@ While reading Isaac Abraham’s book (mentioned previously), [I was led away fro
 
 ## two words: _discriminated unions_
 
-A long-time C# developer would see nothing like _discriminated unions_ (DUs) of F# unless one delves [into Typescript](https://medium.com/@ahsan.ayaz/understanding-discriminated-unions-in-typescript-1ccc0e053cf5). My notes on F# DUs should drag the typical C# developer through the “muck” or through progressive transformation:
+A long-time C-like-language developer in the Microsoft meta-verse would see nothing like the _discriminated unions_ (DUs) of F# unless one delves [into Typescript](https://medium.com/@ahsan.ayaz/understanding-discriminated-unions-in-typescript-1ccc0e053cf5). My notes on F# DUs should drag the typical C# developer through the “muck” or through progressive transformation:
 
 - “[Modeling relationships in F#](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/21-modeling-relationships-in-f-sharp.ipynb)”
 - “[Business rules as code](https://github.com/BryanWilhite/jupyter-central/blob/master/get-programming-with-f-sharp/23-business-rules-as-code.ipynb)”
@@ -131,11 +134,26 @@ Here is my cryptic-or-stupid sound bite about DUs: _Did you ever want to define 
 
 ## when you love seeing your C\# class files in alphabetical order then F\# will pinch at you
 
-F# code depends on _order_. F# modules and their contents must appear _in order of dependency_. This means an IDE supporting F# development must allow you to drag and drop files in the correct order, edit the `*.fsproj` directly or, sadly, pinch at you.
+F# code depends on _order_. F# modules and their contents must appear _in order of dependency_. This means an IDE supporting F# development must allow you to drag and drop files in the correct order, edit the `*.fsproj` directly or, sadly, pinch at you. I dare not dream of an IDE that can use background-compilation magic to _automatically_ reorder `*.fs*` files for you!
+
+This limitation on the IDE experience alone may be the reason why folks just cannot switch to F# from working with C# in Visual Studio _exclusively_. This was relatively easy for me because I spent years with Visual Studio Code which brought me closer to the file system while the flagship, Visual Studio, is designed to ‘hide’ the file system from the beginner programmer in a friendly way.
+
+## F\# will immediately eliminate at least two categories of cross-cutting unit tests
+
+Two categories of unit tests will never have to be written for an F# project:
+
+- testing for `null`
+- testing for exceptions
+
+Instead of having these tests cross-cutting everywhere almost randomly, these categories of tests would be implied and confined under a clearly-defined ‘input transformation layer’ which is three words I have just smashed together on the fly while writing this sentence. In other words, F# encourages us to define and confine a ‘layer’ in our application where untrusted input is processed. This layer should be relatively small compared to the rest of the Solution. Untrusted input can be `null` or throw exceptions and our input transformation code is meant to defend against this with `Option` and `Result`. Currently, I am naming a domain-specific function, `fromInput`, as a convention to express input transformation.
+
+What is more sophisticated is how we are encouraged to use types in F# to eliminate even _more_ categories of unit tests. Isaac Abraham explores this in his book [_Get Programming with F#_](https://www.manning.com/books/get-programming-with-f-sharp).
+
+Also, for you lovers of xUnit in the world of C#, check out [FsUnit](http://fsprojects.github.io/FsUnit/). And, as we get intimate with `Option` and `Result`, [Ody Mbegbu](https://www.linkedin.com/in/ody-mbegbu/) [@odytrice](https://twitter.com/odytrice) recommends `FsToolkit.ErrorHandling` [[GitHub](https://github.com/demystifyfp/FsToolkit.ErrorHandling)] which I find extremely helpful.
 
 ## while day-jobbing in C\#, lean toward functional style
 
-I have spent most of the last 20 years writing in C# but I was naturally biased toward functional style. I used to think this was a personal, almost _aesthetic_ preference until Brian Beckman made me realize that this is also a _strategic_ preference for the sake of maintainability and clarity.
+I have spent most of the last 20 years writing in C# but I was naturally biased toward functional style. I used to think this was a personal, almost _aesthetic_ preference until [Brian Beckman](https://www.linkedin.com/in/brianbeckman/) [@lorentzframe](https://twitter.com/lorentzframe) made me realize that this is also a _strategic_ preference for the sake of professional maintainability and clarity.
 
 In a typical C# code review, I should be looking for these functional-style corrections:
 
