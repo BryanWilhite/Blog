@@ -16,5 +16,6 @@ $azStorageCnn = $settings.ProgramMetadata.CloudStorageSet.SonghayCloudStorage."g
     --content-encoding gzip `
     --content-type "applicaton/json" `
     --destination day-path-blog `
+    --overwrite `
     --pattern "index-*.c.json" `
     --source ../Songhay.Publications.Tests/json

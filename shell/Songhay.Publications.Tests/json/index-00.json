@@ -1,5 +1,26 @@
 [
   {
+    "extract": "month 3 of 2022 was about learning how to use Elmish components and quitting the day-job I did not quit my day job in order to work on the project that I have been working on for the last five months. That would not be a wise financial decision. And there…",
+    "clientId": "2022-03-30-studio-status-report-2022-03",
+    "inceptDate": "03/30/2022 19:54:04",
+    "modificationDate": "03/30/2022 19:54:04",
+    "title": "studio status report: 2022-03"
+  },
+  {
+    "extract": "F# is the end. This feels like the kind of programming language for an old Microsoft dog like me, retiring to learn new tricks. Before I go on and probably say something not very smart, let me thank the folks that helped me on my F# journey (in order of a…",
+    "clientId": "2022-03-30-flippant-remarks-about-f",
+    "inceptDate": "03/30/2022 19:53:02",
+    "modificationDate": "03/30/2022 19:53:02",
+    "title": "flippant remarks about F#"
+  },
+  {
+    "extract": "month 2 of 2022 was about day-job Azure Functions and Studio Blazor For the day-job, I had the privilege of revisiting Azure Functions. Basically, this ‘allowed’ me to write a research/recommendations document based on two Studio READMEs…",
+    "clientId": "2022-02-28-studio-status-report-2022-02",
+    "inceptDate": "02/28/2022 19:12:57",
+    "modificationDate": "02/28/2022 19:12:57",
+    "title": "studio status report: 2022-02"
+  },
+  {
     "extract": "month 1 of 2022 was about staying on the development schedule but wading slowly through F# The project associated with new version of SonghaySystem.com has one issue that is supersaturated with commits. This issue represents the following highlights: - bu…",
     "clientId": "2022-01-30-studio-status-report-2022-01",
     "inceptDate": "01/31/2022 01:54:14",
