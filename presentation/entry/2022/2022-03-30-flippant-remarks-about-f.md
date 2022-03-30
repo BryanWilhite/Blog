@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "flippant remarks about F#",
-  "documentShortName": "2022-03-28-flippant-remarks-about-f",
+  "documentShortName": "2022-03-30-flippant-remarks-about-f",
   "fileName": "index.html",
-  "path": "./entry/2022-03-28-flippant-remarks-about-f",
-  "date": "2022-03-29T00:23:21.345Z",
-  "modificationDate": "2022-03-29T00:23:21.345Z",
+  "path": "./entry/2022-03-30-flippant-remarks-about-f",
+  "date": "2022-03-30T19:53:02.448Z",
+  "modificationDate": "2022-03-30T19:53:02.448Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2022-03-28-flippant-remarks-about-f",
+  "clientId": "2022-03-30-flippant-remarks-about-f",
   "tag": "{\n  \"extract\": \"F# is the end. This feels like the kind of programming language for an old Microsoft dog like me, retiring to learn new tricks. Before I go on and probably say something not very smart, let me thank the folks that helped me on my F# journey (in order of a…\"\n}"
 }
 ---
