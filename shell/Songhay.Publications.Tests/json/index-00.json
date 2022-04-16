@@ -1,5 +1,12 @@
 [
   {
+    "extract": "These flippant remarks are biased toward my experience with Angular animations which kept me away from working with CSS animations directly. My 21st century return to CSS animations is laced with disappointment. What should be found here in this document…",
+    "clientId": "2022-04-15-flippant-remarks-about-css-animations",
+    "inceptDate": "04/16/2022 04:57:45",
+    "modificationDate": "04/16/2022 04:57:45",
+    "title": "flippant remarks about CSS animations"
+  },
+  {
     "extract": "month 3 of 2022 was about learning how to use Elmish components and quitting the day-job I did not quit my day job in order to work on the project that I have been working on for the last five months. That would not be a wise financial decision. And there…",
     "clientId": "2022-03-30-studio-status-report-2022-03",
     "inceptDate": "03/30/2022 19:54:04",
