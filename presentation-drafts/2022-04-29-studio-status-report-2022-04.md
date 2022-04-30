@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2022-04-29-studio-status-report-2022-04",
-  "tag": "{\r\n  \"extract\": \"\"\r\n}"
+  "tag": "{\r\n  \"extract\": \"month 4 of 2022 was about the greatest weakness of Blazor and more day-job learnings There are no more known technical blockers in the way of completing the  project associated with new version of SonghaySystem.com. This is great news! However, the unders…\"\r\n}"
 }
 ---
 
