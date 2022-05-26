@@ -80,7 +80,7 @@ Srinivasa Ramanujan can be considered offensive to an ‘ordered’ interviewer 
 
 “Think different.” Nah…
 
-I am very proud and pleased to know that having a “recognized authority” advocating for me and having skilled acting/presentation training _are_ impressive feathers in one’s team-player cap—but these not debilitatingly important to me. And, so far (for the last 24 years), these are not so important to “the industry” such that I cannot find any senior-level-like software development role.
+I am very proud and pleased to know that having a “recognized authority” advocating for me and having skilled acting/presentation training _are_ impressive feathers in one’s team-player cap—but these decorations are not debilitatingly important to me. And, so far (for the last 24 years), these are not so important to “the industry” such that I cannot find any senior-level-like software development role.
 
 ## related links
 
