@@ -93,7 +93,7 @@ let myButton (label: option<string>) =
 
 The schedule of the month:
 
-- complete [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com 📜🚜🔨
+- complete [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com 📜🚜🔨
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐

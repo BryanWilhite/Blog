@@ -21,7 +21,7 @@
 
 ## month 3 of 2022 was about learning how to use Elmish components and quitting the day-job
 
-I did _not_ quit my day job in order to work on the [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) that I have been working on for the last five months. That would not be a wise financial decision. And there really is no need for me go into detail about why I quit. The essentialist question to ask is, Did my day job have anything to do with current Studio work? And my answer is, Not really. Nevertheless, the gig was a great learning experience until is wasn’t.
+I did _not_ quit my day job in order to work on the [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) that I have been working on for the last five months. That would not be a wise financial decision. And there really is no need for me go into detail about why I quit. The essentialist question to ask is, Did my day job have anything to do with current Studio work? And my answer is, Not really. Nevertheless, the gig was a great learning experience until is wasn’t.
 
 Meanwhile back in the Studio, I made [a commit](https://github.com/BryanWilhite/Songhay.Dashboard/commit/2af72056000847aece9a82e503f3ea793131b5b5) that represents a new understanding of not just how to use `Bolero.ElmishComponent<_,_>` but how to package `Bolero.ElmishComponent<_,_>` types in a separate F# project for the sake of reusability. I intend to write about this hard-won revelation soon but, in the mean time, let us remind ourselves that an [Elmish](https://elmish.github.io/) program defines a conventional `update`-`view` cycle with an expression like this:
 
@@ -85,7 +85,7 @@ Wow. There are over 94 `tsconfig*.json` files (which I find hard to believe), [a
 
 The schedule of the month:
 
-- complete [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com 📜🚜🔨
+- complete [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com 📜🚜🔨
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐

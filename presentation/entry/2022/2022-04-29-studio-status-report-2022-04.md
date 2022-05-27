@@ -21,7 +21,7 @@
 
 ## month 4 of 2022 was about the greatest weakness of Blazor and more day-job learnings
 
-There are no more known _technical_ blockers in the way of completing the  [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com. This is great news! However, the underside of this news is my discovery of the greatest weakness (to me) of Blazor: [Blazor only has one thread](https://github.com/dotnet/aspnetcore/issues/14253#issuecomment-534118256) even though [WebAssembly has more](https://web.dev/webassembly-threads/).
+There are no more known _technical_ blockers in the way of completing the  [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com. This is great news! However, the underside of this news is my discovery of the greatest weakness (to me) of Blazor: [Blazor only has one thread](https://github.com/dotnet/aspnetcore/issues/14253#issuecomment-534118256) even though [WebAssembly has more](https://web.dev/webassembly-threads/).
 
 As of seven days ago, [Dan Roth is optimistic](https://github.com/dotnet/aspnetcore/issues/17730#issuecomment-1106583704) that Blazor will support multi-threading in a near-future release. This should prevent me from looking into things like BlazorWorker [[GitHub](https://github.com/Tewr/BlazorWorker)].
 
@@ -119,7 +119,7 @@ When the day-job folks turn down some third-party vertical like [Forms.io](https
 
 The schedule of the month:
 
-- complete [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com 📜🚜🔨
+- complete [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com 📜🚜🔨
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐

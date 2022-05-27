@@ -21,7 +21,7 @@
 
 ## month 12 of 2021 was about working the development schedule
 
-No new distractions for month 12: most of the non-day-job time was spent on the [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com. This project of [massive change](http://songhayblog.azurewebsites.net/entry/2021-11-28-studio-status-report-2021-11) has progressed quite smoothly with only one serious challenge out there looming: running ASP.NET Kestrel as a reverse-proxy server behind Apache. This Apache stuff would be needed for that new version of kintespace.com listed in the development schedule below.
+No new distractions for month 12: most of the non-day-job time was spent on the [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com. This project of [massive change](http://songhayblog.azurewebsites.net/entry/2021-11-28-studio-status-report-2021-11) has progressed quite smoothly with only one serious challenge out there looming: running ASP.NET Kestrel as a reverse-proxy server behind Apache. This Apache stuff would be needed for that new version of kintespace.com listed in the development schedule below.
 
 ## “How To Install An ASP.NET Core In .NET 5 App On Ubuntu 20.04”
 
@@ -40,7 +40,7 @@ In other Studio news, most of my collection of VHS tapes from mostly the 1990s i
 The schedule of the month:
 
 - ~~build SonghaySystem.com as a first Bolero project for my Studio 🖼~~
-- complete [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com 📜🚜🔨
+- complete [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com 📜🚜🔨
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐

@@ -21,7 +21,7 @@
 
 ## month 1 of 2022 was about staying on the development schedule but wading slowly through F\#
 
-The [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com has [one issue](https://github.com/BryanWilhite/Songhay.Dashboard/issues/76) that is supersaturated with commits. This issue represents the following highlights:
+The [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com has [one issue](https://github.com/BryanWilhite/Songhay.Dashboard/issues/76) that is supersaturated with commits. This issue represents the following highlights:
 
 - building xUnit F# test projects
 - using all the features listed on the [Bolero](https://fsbolero.io/) cereal box
@@ -87,7 +87,7 @@ video: <https://www.youtube.com/watch?v=k_c-ErPaYa8>
 
 The schedule of the month:
 
-- complete [project](https://github.com/BryanWilhite/songhay-dashboard/projects/1) associated with new version of SonghaySystem.com 📜🚜🔨
+- complete [project](https://github.com/BryanWilhite/Songhay.Dashboard/projects/2) associated with new version of SonghaySystem.com 📜🚜🔨
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
