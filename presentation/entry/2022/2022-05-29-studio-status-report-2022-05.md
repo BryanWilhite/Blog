@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2022-05",
-  "documentShortName": "2022-05-26-studio-status-report-2022-05",
+  "documentShortName": "2022-05-29-studio-status-report-2022-05",
   "fileName": "index.html",
-  "path": "./entry/2022-05-26-studio-status-report-2022-05",
-  "date": "2022-05-27T01:49:05.915Z",
-  "modificationDate": "2022-05-27T01:49:05.915Z",
+  "path": "./entry/2022-05-29-studio-status-report-2022-05",
+  "date": "2022-05-29T18:53:33.556Z",
+  "modificationDate": "2022-05-29T18:53:33.556Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2022-05-26-studio-status-report-2022-05",
+  "clientId": "2022-05-29-studio-status-report-2022-05",
   "tag": "{\n  \"extract\": \"month 5 of 2022 was about releasing SonghaySystem.com and addressing my deprecated DevOps pipelines For about eight months during 2021 I planned to release an eleventy version of SonghaySystem.com. A GitHub project at  represents this intent. This elevent…\"\n}"
 }
 ---
