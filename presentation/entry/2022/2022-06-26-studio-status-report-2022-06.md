@@ -71,6 +71,7 @@ The schedule of the month:
 - switch Studio from Material Design to Bulma 💄 ➡️ 💄✨
 - revise/update `Songhay.HelloWorlds.Activities` [[GitHub](https://github.com/BryanWilhite/Songhay.HelloWorlds.Activities)] with current Studio knowledge of ASP.NET and Azure Functions
 - document how to run ASP.NET via Apache on Linux for future version of kintespace.com 📖
+- document the public APIs of Songhay System (and somehow automate this process) 📖
 
 This 22<sup>nd</sup> revision is huge change with renewed focus! Finally, efforts toward a new kintespace.com are *officially* on the list!
 
@@ -112,11 +113,11 @@ Almost all of these crises require dull grunt work except for running ASP.NET vi
 
 <https://docs.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?tabs=apex%2Cportal>
 
-![SonghaySystem.com HTTPS info](../presentation/image/day-path-2022-06-26-13-00-15.png)
+![SonghaySystem.com HTTPS info](../../image/day-path-2022-06-26-13-00-15.png)
 
 It looks like I am back to old Microsoft pricing from the 1990s:
 
-![Microsoft pricing](../presentation/image/day-path-2022-06-26-13-01-11.png)
+![Microsoft pricing](../../image/day-path-2022-06-26-13-01-11.png)
 
 50 bucks a month just to have “free” SSL?
 
