@@ -95,15 +95,17 @@ The schedule of the month:
 
 ### ASP.NET: Host ASP.NET Core on Linux with Apache
 
+![Microsoft docs](../../image/day-path-2022-08-06-13-20-15.png)
+
 <https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-apache?view=aspnetcore-7.0>
 
 >The app can also be published as a [self-contained deployment](https://docs.microsoft.com/en-us/dotnet/core/deploying/#self-contained-deployments-scd) if you prefer not to maintain the .NET Core runtime on the server.
 
-![99015291dbc66b6de28cdf4ae9fbb577.png](:/393d24d77b264044b1d5e1782474663c)
+![Microsoft docs](../../image/day-path-2022-08-06-13-21-01.png)
 
 The Microsoft docs do not cover this important part:
 
-![01f86546c4e7235c064472d7066cf071.png](:/0e77348c59ca4550b2571f0339c1c15c)
+![howtogeek.com article](../../image/day-path-2022-08-06-13-22-00.png)
 
 <https://www.howtogeek.com/devops/how-to-set-up-a-reverse-proxy-with-apache/>
 
