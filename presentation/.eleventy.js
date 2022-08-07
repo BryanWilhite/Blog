@@ -1,6 +1,8 @@
 const moment = require('moment');
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 module.exports = function (config) {
+    config.addPlugin(UpgradeHelper);
 
     config.addCollection('entries', collection => {
         return collection.getFilteredByGlob('entry/**/*.md');
@@ -31,11 +33,15 @@ module.exports = function (config) {
         return rfc822Date;
     });
 
+    config.setDataDeepMerge(false);
+    config.setLiquidOptions({ dynamicPartials: false, strictFilters: false });
+
     return {
         dir: {
+            data: '_data',
+            includes: 'templates',
             input: '.',
             output: '../../day-path/app',
-            includes: 'templates'
         },
         htmlTemplateEngine: 'liquid',
         markdownTemplateEngine: 'liquid',

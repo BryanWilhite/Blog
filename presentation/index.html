@@ -2,6 +2,7 @@
 layout: layouts/base.html
 templateClass: tmpl-index
 ---
+
 <div class="mdc-layout-grid__cell--span-8">
     {% assign lastThreeEntries = collections.entries | blogHead: 7 -%}
     <section class="entries">
@@ -14,5 +15,5 @@ templateClass: tmpl-index
     </section>
 </div>
 <div class="entries mdc-layout-grid__cell--span-4">
-{% include snippets/pagination-nav %}
+{% render snippets/pagination-nav, root: root, settings: settings, collections: collections %}
 </div>

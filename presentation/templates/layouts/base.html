@@ -5,17 +5,17 @@
     {%- assign root = "../../" -%}
     {%- endif -%}
 
-{% include snippets/head %}
+{% render snippets/head, root: root, settings: settings, title: title, tag: tag, clientId: clientId %}
 
     <body class="mdc-theme--background mdc-typography">
-{% include snippets/svg-data %}
-{% include snippets/body-header %}
+{% render snippets/svg-data %}
+{% render snippets/body-header, root: root, settings: settings, templateClass: templateClass %}
         <main class="mdc-layout-grid mdc-top-app-bar--prominent-fixed-adjust" id="main-content">
             <div class="mdc-layout-grid__inner">
                 {{ content }}
             </div>
         </main>
-{% include snippets/body-footer %}
+{% render snippets/body-footer, root: root, settings: settings, modificationDate: modificationDate, templateClass: templateClass %}
     </body>
 
 </html>
