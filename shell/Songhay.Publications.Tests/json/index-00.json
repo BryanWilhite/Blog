@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 07 of 2022 was about releasing Songhay.Modules.Publications 📦🚀 and switching to Obsidian The release of Songhay.Modules.Publications [GitHub] is summarized by the README on the repo itself: >The original intent of this project is the support of da…",
+    "clientId": "2022-08-28-studio-status-report-2022-08",
+    "inceptDate": "08/28/2022 19:49:41",
+    "modificationDate": "08/28/2022 19:49:41",
+    "title": "studio status report: 2022-08"
+  },
+  {
     "extract": "month 07 of 2022 was about upgrading the Studio to .NET6 Sketching out a development schedule last month there was an item for revision 22 called “upgrade the Studio to .NET 6 📦🔼.” I removed that item for his month because what actually happened was the…",
     "clientId": "2022-07-29-studio-status-report-2022-07",
     "inceptDate": "07/29/2022 21:59:12",

@@ -59,11 +59,11 @@ This is me using [[primitive obsession]] instead of <acronym title="Data Transfe
 
 I purposely left the `[[]]` (double-brackets) in the excerpt from my notes above to indicate that I have switched to [Obsidian](https://obsidian.md/) away from Joplin. The thing that should ‘sell’ Obsidian to most people is the [graph view](https://help.obsidian.md/Plugins/Graph+view):
 
-![Obsidian graph view](../presentation/image/day-path-2022-08-28-13-17-36.png)
+![Obsidian graph view](../../image/day-path-2022-08-28-13-17-36.png)
 
-This is literally showing me what my month 08 looks like. I can filter this graph down to *obsidian* and see five days where I wrote about Obsidian:
+This is literally showing me what my month 08 looks like. I can filter this graph down to *obsidian* and see about five days of writing about Obsidian:
 
-![Obsidian graph view, filtered](../presentation/image/day-path-2022-08-28-13-23-21.png)
+![Obsidian graph view, filtered](../../image/day-path-2022-08-28-13-23-21.png)
 
 BTW: 🎥 I recommend the [Nicole van der Hoeven YouTube channel](https://www.youtube.com/c/NicolevanderHoeven) for Obsidian users.
 
@@ -100,7 +100,7 @@ This realization also implies that `Songhay.Publications.KinteSpace` will be my 
 
 This [table](https://slaveoftime.github.io/Fun.Blazor.Docs/documents/About) from the Fun Blazor folks is not taking into account that [[Bolero]] now uses <acronym title="Computation Expression">CE</acronym>-based rendering:
 
-![Fun Blazor Benchmarks table](../presentation/image/day-path-2022-08-28-13-43-37.png)
+![Fun Blazor Benchmarks table](../../image/day-path-2022-08-28-13-43-37.png)
 
 And, by the way, I am still a bit shaken about how much faster ‘naked’ Blazor is (C# Blazor). Anyway, I probably do not need to worry about Fun Blazor because I was thinking that Fun Blazor was ‘more minimal’ than Bolero when it is not. I tend to forget about [the client-side-only Bolero](https://github.com/fsbolero/Bolero/issues/128) (which is the direct replacement of Angular) because it has no [[prerendering]] features. This functionality is important for `Songhay.Dashboard` but not at all important for my [progressive enhancement](http://songhayblog.azurewebsites.net/entry/2020-10-30-a-return-to-progressive-enhancement-with-lithtml-and-11ty-eleven-ty/) design with [[eleventy]] 💡
 
