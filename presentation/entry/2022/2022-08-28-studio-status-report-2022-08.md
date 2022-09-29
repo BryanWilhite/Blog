@@ -13,13 +13,13 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2022-08-28-studio-status-report-2022-08",
-  "tag": "{\n  \"extract\": \"month 07 of 2022 was about releasing Songhay.Modules.Publications 📦🚀 and switching to Obsidian The release of Songhay.Modules.Publications [GitHub] is summarized by the README on the repo itself: >The original intent of this project is the support of da…\"\n}"
+  "tag": "{\n  \"extract\": \"month 08 of 2022 was about releasing Songhay.Modules.Publications 📦🚀 and switching to Obsidian The release of Songhay.Modules.Publications [GitHub] is summarized by the README on the repo itself: >The original intent of this project is the support of da…\"\n}"
 }
 ---
 
 # studio status report: 2022-08
 
-## month 07 of 2022 was about releasing `Songhay.Modules.Publications` 📦🚀 and switching to Obsidian
+## month 08 of 2022 was about releasing `Songhay.Modules.Publications` 📦🚀 and switching to Obsidian
 
 The release of `Songhay.Modules.Publications` [[GitHub](https://github.com/BryanWilhite/Songhay.Modules.Publications)] is summarized by the [README](https://github.com/BryanWilhite/Songhay.Modules.Publications#readme) on the repo itself:
 
