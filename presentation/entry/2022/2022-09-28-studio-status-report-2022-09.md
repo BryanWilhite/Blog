@@ -23,7 +23,7 @@
 
 My switch to Obsidian last month has led to my use of [Excalidraw](https://excalidraw.com/) this month which allows me to draw out the entire Songhay System (in three ragged columns):
 
-![Excalidraw drawing of the Songhay System](../presentation/image/day-path-2022-09-28-13-29-56.png)
+![Excalidraw drawing of the Songhay System](../../image/day-path-2022-09-28-13-29-56.png)
 
 - the first column represents cores, mirrors and shells
 - the second column represents APIs, cloud jobs and shell automation
@@ -40,7 +40,7 @@ The release of these packages represent the end of ‘Presentation work’ being
 
 Here is the Obsidian view of the month:
 
-![the Obsidian view of the month](../presentation/image/day-path-2022-09-28-18-22-27.png)
+![the Obsidian view of the month](../../image/day-path-2022-09-28-18-22-27.png)
 
 Here are some selected notes from the graph above:
 
@@ -61,7 +61,7 @@ This drawing clearly shows that:
 
 There are five places where you see the construction worker stick man that looks like this:
 
-![the construction worker stick man](../presentation/image/day-path-2022-09-28-18-30-23.png)
+![the construction worker stick man](../../image/day-path-2022-09-28-18-30-23.png)
 
 ### F♯: while writing a <acronym title="Domain-Specific Language">DSL</acronym> for Bulma I see an alternative to `option`…
 
@@ -75,11 +75,11 @@ type CssClassesOrEmpty =
 
 Instead of seeing `None` and `Some`, we see something like this:
 
-![an alternative to `option`](../presentation/image/day-path-2022-09-28-18-34-19.png)
+![an alternative to `option`](../../image/day-path-2022-09-28-18-34-19.png)
 
 Inside `bulmaTile`, we can see the `match` expression handling this `*OrEmpty` type:
 
-![the `match` expression handling](../presentation/image/day-path-2022-09-28-18-36-21.png)
+![the `match` expression handling](../../image/day-path-2022-09-28-18-36-21.png)
 
 The only snag immediately jumping out at me is the `Has` union type which could namespace-collide with other `Has` types in other discriminated unions.
 
@@ -89,13 +89,13 @@ This is hard work in the middle of the worst heat wave of my adult life and I am
 
 Apart from the `*Utility` modules, `Songhay.Modules.Bolero` uses types and modules to express my understanding of HTML and CSS, filtered by what is actually needed from HTML and CSS based on my experience and bias toward minimalism:
 
-![the JetBrains Rider IDE, showing the `Songhay.Modules.Bolero` project](../presentation/image/day-path-2022-09-28-18-39-29.png)
+![the JetBrains Rider IDE, showing the `Songhay.Modules.Bolero` project](../../image/day-path-2022-09-28-18-39-29.png)
 
 ### Thu Vu introduces me to Panel
 
 A [video](https://www.youtube.com/watch?v=uhxiXOTKzfs) from Thu Vu introduces me to [Panel](https://panel.holoviz.org/):
 
-![panel.holoviz.org](../presentation/image/day-path-2022-09-28-18-43-19.png)
+![panel.holoviz.org](../../image/day-path-2022-09-28-18-43-19.png)
 
 This looks like the way forward toward a new kinté hits page!
 
