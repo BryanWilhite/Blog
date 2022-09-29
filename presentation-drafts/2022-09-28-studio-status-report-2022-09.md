@@ -99,15 +99,17 @@ A [video](https://www.youtube.com/watch?v=uhxiXOTKzfs) from Thu Vu introduces me
 
 This looks like the way forward toward a new kinté hits page!
 
-## sketching out a development schedule (revision 24)
+## sketching out a development schedule (revision 25)
 
 The schedule of the month:
 
 - ~~release NuGet package for `Songhay.Modules.Bolero`~~ 📦🚀
 - ~~release NuGet package for `Songhay.Player.YouTube`~~ 📦🚀
-- generate a new repo with proposed name, `Songhay.Player.ProgressiveAudio` ✨🚧
+- generate a new repo with proposed name, `Songhay.Player.ProgressiveAudio`, ✨🚧 and add a GitHub Project
+- change `Songhay.Player.YouTube` to support kinté space presentations 🔨 🚜✨
+- replace the Angular app in `http://kintespace.com/player.html` with a Bolero app 🚜🔥
 - generate Publication indices from LiteDB for `Songhay.Publications.KinteSpace`
-- generate a new repo with proposed name, `Songhay.Modules.Bolero.Index` ✨🚧
+- generate a new repo with proposed name, `Songhay.Modules.Bolero.Index` ✨🚧 and add a GitHub Project
 - switch Studio from Material Design to Bulma 💄 ➡️ 💄✨
 
 @[BryanWilhite](https://twitter.com/BryanWilhite)
