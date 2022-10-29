@@ -29,7 +29,7 @@ The release of `AzureBlobStorageRestApiUtility` (see [issue #149](https://github
 
 ## what month 10 looked like
 
-![Obsidian Graph View of month 10](../presentation/image/day-path-2022-10-29-12-45-13.png)
+![Obsidian Graph View of month 10](../../image/day-path-2022-10-29-12-45-13.png)
 
 Month 10 highlights:
 
@@ -52,7 +52,7 @@ Step zero, before the secrets bit, is replacing PowerShell-based Azure Storage c
 
 The `dotnet pack` command will save a NuGet package to the relative path specified below:
 
-![.NET *.csproj markup](../presentation/image/day-path-2022-10-29-14-07-08.png)
+![.NET *.csproj markup](../../image/day-path-2022-10-29-14-07-08.png)
 
 To install globally for the CLI, we use the following command, punctuated by the namespace, `Weather.Cli`, of the packaged app:
 
@@ -71,7 +71,7 @@ I assume the [[b-roll player]] will leverage lazy loading to switch among player
 
 ## some of my code is kind of famous this week
 
-![sergeytihon.com F# weekly](../presentation/image/day-path-2022-10-29-14-12-44.png)
+![sergeytihon.com F# weekly](../../image/day-path-2022-10-29-14-12-44.png)
 
 <https://sergeytihon.com/2022/10/01/f-weekly-39-2022-fsharp-systemtextjson-1-0-fable-4-theta/>
 

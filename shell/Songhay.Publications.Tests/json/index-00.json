@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 10 of 2022 was about releasing AzureBlobStorageRestApiUtility and planning to release AzureKeyVaultRestApiUtility The release of AzureBlobStorageRestApiUtility (see issue #149) establishes one of two Azure utilities that are fundamental to the “clou…",
+    "clientId": "2022-10-29-studio-status-report-2022-10",
+    "inceptDate": "10/29/2022 19:05:13",
+    "modificationDate": "10/29/2022 19:05:13",
+    "title": "studio status report: 2022-10"
+  },
+  {
     "extract": "month 09 of 2022 was about releasing Songhay.Modules.Bolero and Songhay.Player.YouTube My switch to Obsidian last month has led to my use of Excalidraw this month which allows me to draw out the entire Songhay System (in three ragged columns): Excalidraw…",
     "clientId": "2022-09-28-studio-status-report-2022-09",
     "inceptDate": "09/28/2022 19:08:44",
