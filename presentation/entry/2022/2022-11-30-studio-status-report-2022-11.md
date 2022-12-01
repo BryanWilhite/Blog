@@ -27,13 +27,13 @@ A huge chunk of this month was invested in learning how to upload (or, better, _
 
 ## what month 11 looked like
 
-![Obsidian Graph View of month 11](../presentation/image/day-path-2022-11-30-17-18-34.png)
+![Obsidian Graph View of month 11](../../image/day-path-2022-11-30-17-18-34.png)
 
 Month 11 highlights:
 
 ## Blazor: the Songhay Studio Floor _can_ make cross-domain requests✅
 
-![Firefox DevTools](../presentation/image/day-path-2022-11-30-17-35-44.png)
+![Firefox DevTools](../../image/day-path-2022-11-30-17-35-44.png)
 
 I assume that Blazor is handling all the <acronym title="# Cross-Origin Resource Sharing">CORS</acronym> stuff for me as long as the `BaseAddress` is constructed:
 

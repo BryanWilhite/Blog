@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 11 of 2022 was about installing Studio ‘floors’ Songhay.StudioFloor.Client [GitHub] is the first Bolero-based Studio ‘floor,’ intending to demonstrate/document the Blazor/Bolero components of this repo. A side effect of this work is the  Songhay.Pla…",
+    "clientId": "2022-11-30-studio-status-report-2022-11",
+    "inceptDate": "11/30/2022 23:49:36",
+    "modificationDate": "11/30/2022 23:49:36",
+    "title": "studio status report: 2022-11"
+  },
+  {
     "extract": "month 10 of 2022 was about releasing AzureBlobStorageRestApiUtility and planning to release AzureKeyVaultRestApiUtility The release of AzureBlobStorageRestApiUtility (see issue #149) establishes one of two Azure utilities that are fundamental to the “clou…",
     "clientId": "2022-10-29-studio-status-report-2022-10",
     "inceptDate": "10/29/2022 19:05:13",
