@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2022-12",
-  "documentShortName": "2022-12-26-studio-status-report-2022-12",
+  "documentShortName": "2022-12-30-studio-status-report-2022-12",
   "fileName": "index.html",
-  "path": "./entry/2022-12-26-studio-status-report-2022-12",
-  "date": "2022-12-26T20:30:59.696Z",
-  "modificationDate": "2022-12-26T20:30:59.696Z",
+  "path": "./entry/2022-12-30-studio-status-report-2022-12",
+  "date": "2022-12-30T20:59:02.134Z",
+  "modificationDate": "2022-12-30T20:59:02.134Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2022-12-26-studio-status-report-2022-12",
+  "clientId": "2022-12-30-studio-status-report-2022-12",
   "tag": "{\n  \"extract\": \"month 12 of 2022 was about taking a vacation and Songhay.Player.ProgressiveAudio The day job energy provided me with a third (?) opportunity in my adult life to take half of the last month of the year off which is sitting around the “home office.” Month 1…\"\n}"
 }
 ---
@@ -23,7 +23,7 @@
 
 The day job energy provided me with a third (?) opportunity in my adult life to take half of the last month of the year off which is sitting around the “home office.” Month 12 saw the “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://github.com/users/BryanWilhite/projects/9) get underway which is a very, very significant milestone. The _Progressive Audio_ name is at the top of the Obsidian Graph View:
 
-![Obsidian Graph View](../presentation/image/day-path-2022-12-30-12-29-09.png)
+![Obsidian Graph View](../../image/day-path-2022-12-30-12-29-09.png)
 
 Let’s drill into the Graph above with selected highlights:
 
@@ -75,7 +75,7 @@ Version 4.x of `FsToolkit.ErrorHandling` will likely resolve the [[2022-11-08#F�
 
 The next version of `FsToolkit.ErrorHandling` requires [[dotnet|.NET]] 7.0:
 
-![NuGet packages in JetBrains Rider](../presentation/image/day-path-2022-12-30-12-44-19.png)
+![NuGet packages in JetBrains Rider](../../image/day-path-2022-12-30-12-44-19.png)
 
 ## while the tech world was “in love” with…
 
@@ -109,15 +109,15 @@ The next version of `FsToolkit.ErrorHandling` requires [[dotnet|.NET]] 7.0:
 
 The [[Songhay Player for Progressive Audio]] should feature two controls, (i) the volume bar:
 
-![chalkboard: the volume bar](../presentation/image/day-path-2022-12-30-12-50-16.png)
+![chalkboard: the volume bar](../../image/day-path-2022-12-30-12-50-16.png)
 
-![chalkboard: the volume bar, mute](../presentation/image/day-path-2022-12-30-12-51-12.png)
+![chalkboard: the volume bar, mute](../../image/day-path-2022-12-30-12-51-12.png)
 
 And (ii) the play-progress bar:
 
-![chalkboard: the play-progress bar](../presentation/image/day-path-2022-12-30-12-52-21.png)
+![chalkboard: the play-progress bar](../../image/day-path-2022-12-30-12-52-21.png)
 
-![chalkboard: the play-progress bar, playing](../presentation/image/day-path-2022-12-30-12-53-52.png)
+![chalkboard: the play-progress bar, playing](../../image/day-path-2022-12-30-12-53-52.png)
 
 Both of these controls are horizontal lines that can responsively collapse to take up less horizontal space by hiding the progress bar.
 
