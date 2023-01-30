@@ -28,7 +28,7 @@ The “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://gith
 
 A third sample is planned, demonstrating how a playlist of progressive audio files should be presented. These three pieces will work together to guide me toward how to build a WebAssembly-based product in Bolero/F#. For this month, like last month, the _Progressive Audio_ name is at the top of the Obsidian Graph View:
 
-![Obsidian Graph View](../presentation/image/day-path-2023-01-29-16-15-08.png)
+![Obsidian Graph View](../../image/day-path-2023-01-29-16-15-08.png)
 
 The size of this graph is embarrassingly smaller than that of last month. At the bottom of the graph is the new Studio topic, _travel_. Not a small amount of time was spent researching how to arrange travel in the 21<sup>st</sup> century as the following excerpts of Obsidian notes reveal:
 
@@ -114,11 +114,11 @@ Mode                 LastWriteTime         Length Name
 
 The following is showing me that `data-` attributes work best when they are read-only:
 
-![Firefox](../presentation/image/day-path-2023-01-29-16-31-34.png)
+![Firefox](../../image/day-path-2023-01-29-16-31-34.png)
 
 I assumed that click behavior was being attenuated by `window` animation calls —but, by a process of elimination, I can see this is a `DomStringMap` mutation-delay problem:
 
-![JavaScript](../presentation/image/day-path-2023-01-29-16-33-03.png)
+![JavaScript](../../image/day-path-2023-01-29-16-33-03.png)
 
 There _must_ be a lag when setting `button.dataset.playing`.
 
