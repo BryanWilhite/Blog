@@ -33,9 +33,9 @@ Visually, we have these three bits:
 
 <div style="text-align:center">
 
-![play/pause control](../presentation/image/day-path-2023-02-25-14-10-44.png)
-![volume control](../presentation/image/day-path-2023-02-25-14-11-31.png)
-![MP3 playlist](../presentation/image/day-path-2023-02-25-14-09-56.png)
+![play/pause control](../../image/day-path-2023-02-25-14-10-44.png)
+![volume control](../../image/day-path-2023-02-25-14-11-31.png)
+![MP3 playlist](../../image/day-path-2023-02-25-14-09-56.png)
 
 </div>
 
@@ -45,7 +45,7 @@ It was important to do this work in ‘pure’ HTML (and plain-vanilla JavaScrip
 
 This juggling of UI technologies leads to the ‘loads of research’ mentioned above—and there should be separate blog post entitled “sorting Blazor, Photino, Uno and Avalonia” coming out soon to delve into what I regard as the state of the art. A sharp eye should be able to find _Blazor_, _Photino_, _Uno_ and _Avalonia_ in the Obsidian graph of the month:
 
-![the Obsidian graph of the month](../presentation/image/day-path-2023-02-25-14-22-38.png)
+![the Obsidian graph of the month](../../image/day-path-2023-02-25-14-22-38.png)
 
 Selected notes from the month follow:
 
@@ -57,7 +57,7 @@ Loïc Denuzière merged a fix for [my bug](https://github.com/fsbolero/Bolero/is
 
 <https://github.com/AvaloniaCommunity/Material.Avalonia>
 
-![Material.Avalonia](../presentation/image/day-path-2023-02-25-14-35-05.png)
+![Material.Avalonia](../../image/day-path-2023-02-25-14-35-05.png)
 
 ## [[Songhay Publications]]: comics nerd verifies that Amazon has effectively destroyed Comixology, specifically its guided view player
 
