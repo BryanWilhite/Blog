@@ -1,5 +1,19 @@
 [
   {
+    "extract": "month 03 of 2023 was about faster progress on Songhay.Player.ProgressiveAudio and some F# revelations The “Songhay.Player.ProgressiveAudio release 6.0.0” project is underway and moving much faster. The JSON-traversal work is solidified and a clear pattern…",
+    "clientId": "2023-03-30-studio-status-report-2023-03",
+    "inceptDate": "03/31/2023 02:27:32",
+    "modificationDate": "03/31/2023 02:27:32",
+    "title": "studio status report: 2023-03"
+  },
+  {
+    "extract": "This is my first bit of prose officially recognizing that something has happened in the .NET desktop GUI space after the fall of the .NET Framework. There is life after WPF and here is one awakening to a new, cross-platform world. ## Avalonia The Avalonia…",
+    "clientId": "2023-03-21-sorting-blazor-photino-uno-and-avalonia",
+    "inceptDate": "03/22/2023 01:14:27",
+    "modificationDate": "03/22/2023 01:14:27",
+    "title": "sorting Blazor, Photino, Uno and Avalonia"
+  },
+  {
     "extract": "month 02 of 2023 was still about slow progress on Songhay.Player.ProgressiveAudio and loads of research The “Songhay.Player.ProgressiveAudio release 6.0.0” project is still underway in large part because I spent at least 15 hours this month watching three…",
     "clientId": "2023-02-25-studio-status-report-2023-02",
     "inceptDate": "02/25/2023 21:51:03",
