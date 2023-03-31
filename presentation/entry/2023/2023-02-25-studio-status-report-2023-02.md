@@ -43,7 +43,7 @@ It was important to do this work in ‘pure’ HTML (and plain-vanilla JavaScrip
 
 ## “sorting Blazor, Photino, Uno and Avalonia”
 
-This juggling of UI technologies leads to the ‘loads of research’ mentioned above—and there should be separate blog post entitled “sorting Blazor, Photino, Uno and Avalonia” coming out soon to delve into what I regard as the state of the art. A sharp eye should be able to find _Blazor_, _Photino_, _Uno_ and _Avalonia_ in the Obsidian graph of the month:
+This juggling of UI technologies leads to the ‘loads of research’ mentioned above—and there should be separate blog post entitled “[sorting Blazor, Photino, Uno and Avalonia](http://songhayblog.azurewebsites.net/entry/2023-03-21-sorting-blazor-photino-uno-and-avalonia)” ~~coming out soon~~ to delve into what I regard as the state of the art. A sharp eye should be able to find _Blazor_, _Photino_, _Uno_ and _Avalonia_ in the Obsidian graph of the month:
 
 ![the Obsidian graph of the month](../../image/day-path-2023-02-25-14-22-38.png)
 

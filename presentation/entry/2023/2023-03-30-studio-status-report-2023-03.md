@@ -34,7 +34,7 @@ The inside comedy here is that the removal of all of these files from `Songhay.P
 
 ## the Obsidian graph view of the month
 
-![the Obsidian graph view of the month](../presentation/image/day-path-2023-03-30-20-18-10.png)
+![the Obsidian graph view of the month](../../image/day-path-2023-03-30-20-18-10.png)
 
 There is a huge node (above) representing 3/24. On the 24<sup>th</sup> I wrote a pretty lengthy entry about the Studio “stick man” (excerpt below) which is a consequence of discovering how much [the Obsidian canvas](https://www.youtube.com/watch?v=rPescoJzcFA) allows me to visualize what is _in_ the Studio compared to my [previous work](http://songhayblog.azurewebsites.net/entry/2022-09-28-studio-status-report-2022-09/) with Excalidraw (which is now _incorporated_ in this new Canvas approach).
 
