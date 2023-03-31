@@ -101,9 +101,14 @@ A GUID `UNIQUEIDENTIFER` column is the equivalent of a primary key in the 2020�
 - “[What are the best practices for using a GUID as a primary key, specifically regarding performance?](https://stackoverflow.com/questions/11938044/what-are-the-best-practices-for-using-a-guid-as-a-primary-key-specifically-rega)”
 - “[Look-up Tables in SQL](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/look-up-tables-in-sql/)”
 
-## sketching out a development schedule (revision 29)
+## sketching out development projects
 
-The schedule of the month:
+The current, unfinished public projects on GitHub:
+
+- finish the “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://github.com/users/BryanWilhite/projects/9)
+- start the “`SonghayCore` 📦✨ release 6.0.5” [project](https://github.com/users/BryanWilhite/projects/7)
+
+The proposed project items:
 
 - add kinté space presentations support to `Songhay.Player.YouTube` 🔨 🚜✨
 - replace the Angular app in `http://kintespace.com/player.html` with a Bolero app 🚜🔥
