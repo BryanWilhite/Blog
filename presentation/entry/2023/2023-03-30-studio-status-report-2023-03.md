@@ -53,12 +53,16 @@ The stick man on the Canvas shows just how many manual processes I have on my pl
 
 ## [[Cloudflare]] Tunnel is better than VPN?
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=ZvIdFs3M5ic">
         <img alt="You Need to Learn This! Cloudflare Tunnel Easy Tutorial" src="https://img.youtube.com/vi/ZvIdFs3M5ic/maxresdefault.jpg" width="480" />
     </a>
     <p><small>You Need to Learn This! Cloudflare Tunnel Easy Tutorial</small></p>
 </figure>
+
+</div>
 
 >The difference with [[Cloudflare]] Tunnels vs. your traditional VPN is that you don’t have to open ports in your firewall. With VPN, you connect into your VPN server (or sometimes directly to your router) through a hole that you’ve poked in your firewall.
 >
