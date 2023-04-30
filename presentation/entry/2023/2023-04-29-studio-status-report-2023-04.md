@@ -21,13 +21,13 @@
 
 ## month 04 of 2023 was about slower progress on `Songhay.Player.ProgressiveAudio` and some Studio upgrades
 
-The “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://github.com/users/BryanWilhite/projects/9) is finally looking like it is winding down. The JSON data is now at the surface of the UI and what remains is just layout that will be guided by previous work. My selected notes below will mention more details on this.
+The “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://github.com/users/BryanWilhite/projects/9) is finally looking like it is winding down. The JSON data is now at the surface of the UI and what remains is installing a CSS strategy that is similar to the old one but uses CSS variables. There is [a currently open issue](https://github.com/BryanWilhite/Songhay.Player.ProgressiveAudio/issues/3) that will capture the work done here.
 
-The big distracting upgrade in the Studio includes the acquisition of an M-Audio Oxygen Pro 25 MIDI controller. A move like this was held back for years and I finally made that move! My selected notes below will, again, mention more details on this.
+The big distracting upgrade in the Studio includes the acquisition of an M-Audio Oxygen Pro 25 MIDI controller. A move like this was held back for years and I finally made that move! The other major piece missing from Studio life is centered upon the use of [Blender](https://www.blender.org/).
 
-The Obsidian graph for this month lights up with musical technology references:
+The Obsidian graph for this month lights up with music technology references:
 
-![the Obsidian graph for this month](../presentation/image/day-path-2023-04-29-19-47-36.png)
+![the Obsidian graph for this month](../../image/day-path-2023-04-29-19-47-36.png)
 
 There should be some life left for me after the re-release of kintespace.com—and such a life will require more personal music projects of mine and motion-picture soundtracks.
 
@@ -37,7 +37,7 @@ Selected Studio notes:
 
 [According to sweetwater.com](https://www.sweetwater.com/c513--25-key_MIDI_Controllers?sb=popular&params=eyJmYWNldCI6eyJUeXBlIG9mIEtleXMiOlsiU2VtaS13ZWlnaHRlZCJdfX0), there are four 25-key controllers:
 
-![sweetwater.com](../presentation/image/day-path-2023-04-29-19-56-10.png)
+![sweetwater.com](../../image/day-path-2023-04-29-19-56-10.png)
 
 M-Audio stands out because:
 
@@ -145,7 +145,7 @@ An [obscure forum post](https://learn.microsoft.com/en-us/answers/questions/8495
 
 <div style="text-align:center">
 
-![obscure forum post](../presentation/image/day-path-2023-04-29-20-03-29.png)
+![obscure forum post](../../image/day-path-2023-04-29-20-03-29.png)
 
 </div>
 
@@ -153,7 +153,7 @@ Additionally, a [table published by Microsoft](https://learn.microsoft.com/en-us
 
 <div style="text-align:center">
 
-![table published by Microsoft](../presentation/image/day-path-2023-04-29-20-04-28.png)
+![table published by Microsoft](../../image/day-path-2023-04-29-20-04-28.png)
 
 </div>
 
@@ -241,7 +241,7 @@ The Studio needs to use external <acronym title="Solid State Drive">SSD</acronym
 
 <div style="text-align:center">
 
-![VCV packaged as an open source VST](../presentation/image/day-path-2023-04-29-20-12-38.png)
+![VCV packaged as an open source VST](../../image/day-path-2023-04-29-20-12-38.png)
 
 </div>
 
