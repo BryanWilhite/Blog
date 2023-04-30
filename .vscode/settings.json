@@ -69,5 +69,6 @@
     },
     "pasteImage.insertPattern": "${imageSyntaxPrefix}../presentation/image/${imageFileName}${imageSyntaxSuffix}",
     "pasteImage.namePrefix": "day-path-",
-    "pasteImage.path": "${projectRoot}/presentation/image/"
+    "pasteImage.path": "${projectRoot}/presentation/image/",
+    "FSharp.suggestGitignore": false
 }
