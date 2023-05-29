@@ -25,17 +25,17 @@ The “`Songhay.Player.ProgressiveAudio` release 6.0.0” [project](https://gith
 
 The “distractions” away from finishing the `Songhay.Player.ProgressiveAudio` project are reflected in the density of the Obsidian graph for this month:
 
-![the Obsidian graph for this month](../presentation/image/day-path-2023-05-28-19-12-15.png)
+![the Obsidian graph for this month](../../image/day-path-2023-05-28-19-12-15.png)
 
 Ideally, my selection of Obsidian journal notes for this month will reveal what was so “distracting”:
 
 ## [[Songhay Player - Progressive Audio (F♯)]]: not-so-fond memories of fudging manifest values
 
-![Azure DevOps screenshot](../presentation/image/day-path-2023-05-28-19-16-13.png)
+![Azure DevOps screenshot](../../image/day-path-2023-05-28-19-16-13.png)
 
 Here in the 21<sup>st</sup> century this the new way:
 
-![JetBrains Rider screenshot](../presentation/image/day-path-2023-05-28-19-17-13.png)
+![JetBrains Rider screenshot](../../image/day-path-2023-05-28-19-17-13.png)
 
 ## the [[Bulma]] modal does not work with a fixed `navbar`
 
@@ -43,7 +43,7 @@ The [[Bulma]] fixed `navbar` \[📖 [docs](https://bulma.io/documentation/compon
 
 On the desktop, the current recommendation is to use the [[Bulma]] `message` experience as `modal-content`:
 
-![Progressive Audio app on Studio Floor](../presentation/image/day-path-2023-05-28-19-19-20.png)
+![Progressive Audio app on Studio Floor](../../image/day-path-2023-05-28-19-19-20.png)
 
 The `message` close button (strangely called `delete`) invites the user to click closer to the actual message displayed instead of hunting for “a simple cross located in the top right corner.”
 
@@ -53,19 +53,19 @@ The `message` close button (strangely called `delete`) invites the user to click
 
 This screenshot is from my first [notebook](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/csharp/twitter/core-tweet.ipynb) that loads Studio secrets from an environment variable:
 
-![`CoreTweet` in Jupyter notebook](../presentation/image/day-path-2023-05-28-19-24-48.png)
+![`CoreTweet` in Jupyter notebook](../../image/day-path-2023-05-28-19-24-48.png)
 \[🔗 [GitHub](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/csharp/twitter/core-tweet.ipynb) \]
 
 `CoreTweet` is recommended by what’s left of Twitter:
 
-![developer.twitter.com page](../presentation/image/day-path-2023-05-28-19-26-34.png)
+![developer.twitter.com page](../../image/day-path-2023-05-28-19-26-34.png)
 \[🔗 [link](https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2) \]
 
 ## [[Bolero]]: lessons learned from building `YouTubeFigureElmishComponent`
 
 This is either a last gasp or the beginning of an actual lifestyle:
 
-![YouTube Figure component](../presentation/image/day-path-2023-05-28-19-28-25.png)
+![YouTube Figure component](../../image/day-path-2023-05-28-19-28-25.png)
 
 This is the `YouTubeFigureElmishComponent` \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Dashboard/blob/main/Songhay.Dashboard.Client/Components/YouTubeFigureElmishComponent.fs) \]—now live at [SonghaySystem.com](https://songhaysystem.com/yt/figure)—which is based on [a CodePen](https://codepen.io/rasx/pen/gOjGQOv) of mine.
 
@@ -76,12 +76,12 @@ The greatest lesson learned with this accomplishment is how to implement [bindin
 
 Because of this, the `select` element needs the `on.change` event handler:
 
-![Bolero `on.change` event handler](../presentation/image/day-path-2023-05-28-19-30-35.png)
+![Bolero `on.change` event handler](../../image/day-path-2023-05-28-19-30-35.png)
 \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Dashboard/blob/810935a7041e5fc74b393e1b1b2acaef1453a6db/Songhay.Dashboard.Client/Components/YouTubeFigureElmishComponent.fs#L49) \]
 
 The JavaScript work done for [the CodePen](https://codepen.io/rasx/pen/gOjGQOv) informs how [[Bolero]] calls out to the [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API):
 
-![Bolero calling the Clipboard API](../presentation/image/day-path-2023-05-28-19-31-45.png)
+![Bolero calling the Clipboard API](../../image/day-path-2023-05-28-19-31-45.png)
 \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Dashboard/blob/810935a7041e5fc74b393e1b1b2acaef1453a6db/Songhay.Dashboard.Client/Components/ContentBlockProgramComponent.fs#L37) \]
 
 The [[Elmish]] message call is needed to copy the title and link of the YouTube video to the clipboard for pasting into social media. The `jsRuntime.InvokeVoidAsync` invocation needs to be wrapped up in a function and sent to [[Songhay Modules Bolero (F♯)]] \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Modules.Bolero) \] #to-do
@@ -126,7 +126,7 @@ The `update` function shown above is suggesting that for every [[Elmish]] compon
 
 Adding a conventional `blazorServices` property:
 
-![`StudioFloor` model](../presentation/image/day-path-2023-05-28-19-40-16.png)
+![`StudioFloor` model](../../image/day-path-2023-05-28-19-40-16.png)
 
 The advantages of this move include:
 
@@ -136,15 +136,15 @@ The advantages of this move include:
 
 We can also see how this move simplifies the [[Elmish]] `Program` member:
 
-![`Program` member](../presentation/image/day-path-2023-05-28-19-41-24.png)
+![`Program` member](../../image/day-path-2023-05-28-19-41-24.png)
 
 Without this move the `update` function undergoes partial application to ‘hide’ the passing of services from the `Program.mkProgram` function.
 
 ## [[Bolero]]: the `pcu` is mostly about getting [[Elmish]] commands
 
-![the `pcu` in the Elmish `update` function](../presentation/image/day-path-2023-05-28-19-45-41.png)
+![the `pcu` in the Elmish `update` function](../../image/day-path-2023-05-28-19-45-41.png)
 
-![tweet from Bryan Wilhite](../presentation/image/day-path-2023-05-28-19-47-37.png)
+![tweet from Bryan Wilhite](../../image/day-path-2023-05-28-19-47-37.png)
 
 ### the significance of `pcu.getCommandForYt`
 
@@ -188,7 +188,7 @@ These are not expected:
 
 This error message is a clue:
 
-![Photino error](../presentation/image/day-path-2023-05-28-19-54-11.png)
+![Photino error](../../image/day-path-2023-05-28-19-54-11.png)
 
 ```console
 [Error] Error: Failed to start platform. Reason: RuntimeError: Out of bounds memory access (evaluating 'func.apply(null,cArgs)')
@@ -246,7 +246,7 @@ A search that led to “[Edge Command Line Arguments](https://textslashplain.com
 
 Many days ago in this month—miserably late in the night—I successfully authenticated against the [[Microsoft Graph]] using `DeviceCodeCredentialOptions` \[🔗 [GitHub](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/csharp/microsoft-graph-to-azure.ipynb) \] and `ClientSecretCredential` \[🔗 [GitHub](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/csharp/microsoft-graph-app-only.ipynb) \]. What remained a challenge until today was _authorization_. This failure is characterized by `AuthorizationPermissionMismatch` error codes and “Caller is not authorized to perform action on resource” messages:
 
-![Jupyter notebook](../presentation/image/day-path-2023-05-28-19-58-39.png)
+![Jupyter notebook](../../image/day-path-2023-05-28-19-58-39.png)
 
 The `DeviceCodeCredentialOptions` approach is based on “[Microsoft identity platform and the OAuth 2.0 client credentials flow](https://learn.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)” and provides great <acronym title="User Experience">UX</acronym> for manual/desktop applications.
 
@@ -261,7 +261,7 @@ The `ClientSecretCredential` approach is not recommended by [[Microsoft]] becaus
 
 Today, I set up a new key vault under <acronym title="Role-Based Access Control">RBAC</acronym> which means the **Access policies** feature is disabled:
 
-![Azure key vault blade](../presentation/image/day-path-2023-05-28-20-02-23.png)
+![Azure key vault blade](../../image/day-path-2023-05-28-20-02-23.png)
 
 The motivation to set up a new vault was based on the suspicion that the [[Azure]] kids are not handling their own breaking changes correctly—possibly leaving older resources mysteriously non-responsive to maintenance.
 
