@@ -1,8 +1,6 @@
 const moment = require('moment');
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 module.exports = function (config) {
-    config.addPlugin(UpgradeHelper);
 
     config.addCollection('entries', collection => {
         return collection.getFilteredByGlob('entry/**/*.md');

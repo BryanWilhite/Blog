@@ -34,7 +34,7 @@ The completion of the projects above will allow the `Songhay.Player.ProgressiveA
 
 Quite coherently, Bolero (at the upper left below) hovers prominently in the Obsidian graph for month 06:
 
-![Obsidian graph for month 06](../presentation/image/day-path-2023-07-02-11-04-45.png)
+![Obsidian graph for month 06](../../image/day-path-2023-07-02-11-04-45.png)
 
 What follows are selections under this graph:
 
@@ -73,15 +73,15 @@ The tree-shaking 🍂 features of [[webpack]] are supposed to make the associate
 
 Today the [[Typescript]] pipeline was installed:
 
-![the Typescript pipeline](../presentation/image/day-path-2023-07-02-11-18-31.png)
+![the Typescript pipeline](../../image/day-path-2023-07-02-11-18-31.png)
 
 The [tree-shaking](https://webpack.js.org/guides/tree-shaking/) experiment is successful… but the bandwidth savings is (to me) small. The entire [[Songhay Core (Typescript)]] optimized distribution is about 11 KB:
 
-![songhay.min.js Properties](../presentation/image/day-path-2023-07-02-11-19-33.png)
+![songhay.min.js Properties](../../image/day-path-2023-07-02-11-19-33.png)
 
 Tree-shaking it down to the types used by [[Songhay Modules Bolero (F♯)]] cuts the size in half:
 
-![songhay-modules-bolero.min.js Properties](../presentation/image/day-path-2023-07-02-11-20-49.png)
+![songhay-modules-bolero.min.js Properties](../../image/day-path-2023-07-02-11-20-49.png)
 
 But half of 11 KB is small from something already small. Ideally, all of this work will be an emotional boost for those happy few that will actually care about the [[Bolero]] story in this Studio 😐
 
@@ -93,17 +93,17 @@ Continuing on from [[2023-06-26#Bolero and `JSInvokable`|before]]…
 
 The [[Typescript]] stack for the [[Songhay Studio Floor]] of [[Songhay Modules Bolero (F♯)]] has a new addition: the `npm` [package](## @types/blazor__javascript-interop) `@types/blazor__javascript-interop` which adds hinting for the `DotNet` “namespace”:
 
-![StudioFloorUtility](../presentation/image/day-path-2023-07-02-11-30-39.png)
+![StudioFloorUtility](../../image/day-path-2023-07-02-11-30-39.png)
 
 “[Using JavaScript Interop in Blazor](https://chrissainty.com/using-javascript-interop-in-razor-components-and-blazor/)” by Chris Sainty finally shows me `DotNet` in action while [the official docs](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/call-dotnet-from-javascript?view=aspnetcore-7.0#invoke-a-static-net-method) made me think `DotNet` was not a ‘real’ object.
 
 Following the Sainty article, I have a preference for the “instance method” invocation as shown above with the `instance` variable passed into `StudioFloorUtility.runMyAnimation`. This `instance` instance will call `getNextX` which is a [[dotnet|.NET]] member of the [[Elmish]] component displaying the button that will call `runMyAnimation`:
 
-![JSInvokable](../presentation/image/day-path-2023-07-02-11-31-55.png)
+![JSInvokable](../../image/day-path-2023-07-02-11-31-55.png)
 
 `eComp.componentRef` (from line 145 above) contains the instance needed to callback to the [[WebAssembly]] code. A call to `StudioFloorUtility.runMyAnimation` starts this process:
 
-![call to `StudioFloorUtility.runMyAnimation`](../presentation/image/day-path-2023-07-02-11-33-04.png)
+![call to `StudioFloorUtility.runMyAnimation`](../../image/day-path-2023-07-02-11-33-04.png)
 
 The process is:
 
