@@ -27,13 +27,13 @@ The leading cause of my delays are new discoveries in the Studio. My selected Ob
 
 ## selected Obsidian notes
 
-![Obsidian graph view, month 07](../presentation/image/day-path-2023-07-30-11-10-50.png)
+![Obsidian graph view, month 07](../../image/day-path-2023-07-30-11-10-50.png)
 
 ## [[Songhay Modules Bolero (F♯)]]: yes, it is _all_ working but…
 
 …centralizing a `[<JSInvokable>]` method in a dedicated class like this:
 
-![`[<JSInvokable>]` method in a dedicated class](../presentation/image/day-path-2023-07-30-11-13-38.png)
+![`[<JSInvokable>]` method in a dedicated class](../../image/day-path-2023-07-30-11-13-38.png)
 
 …does _not_ work when we are expecting the state of `f` to change ‘by reference’ which is why I do not recommend using a type like this even though [it has been recommended by others](https://github.com/fsbolero/Bolero/issues/32#issuecomment-788973275).
 
@@ -72,13 +72,13 @@ The following seven files need to be explored in, say, a [[Jupyter]] notebook fo
 
 Is this just temporary or just more of the end❓
 
-![[[Twitter]] frame is dead](../presentation/image/day-path-2023-07-30-11-18-00.png)
+![[[Twitter]] frame is dead](../../image/day-path-2023-07-30-11-18-00.png)
 
 ## yes, [[Microsoft Edge]] was broken yesterday…
 
 …and today it looks like it was fixed:
 
-![[[Microsoft Edge]] was broken yesterday](../presentation/image/day-path-2023-07-30-11-19-26.png)
+![[[Microsoft Edge]] was broken yesterday](../../image/day-path-2023-07-30-11-19-26.png)
 
 I assume the [[Canonical]] people broke something the [[Microsoft]] people depended on. And, because I blindly update [[Ubuntu]] every day with `ucaresystem-core`, there was a day or two of inconvenience.
 
@@ -166,7 +166,7 @@ This experiment shows that <acronym title="Scalable Vector Graphics">SVG</acrony
 
 However, [[Songhay Dashboard (F♯, C♯)]] is out there in production doing stuff like this:
 
-![[[Songhay Dashboard (F♯, C♯)]] SVG(../presentation/image/day-path-2023-07-30-11-24-27.png)
+![[[Songhay Dashboard (F♯, C♯)]] SVG(../../image/day-path-2023-07-30-11-24-27.png)
 
 
 >[!question]
@@ -249,7 +249,7 @@ Now I can ask the <acronym title="Scalable Vector Graphics">SVG</acronym> questi
 
 Sarah’s `viewBox` [demo](https://www.sarasoueidan.com/demos/interactive-svg-coordinate-system/) needs to be added to the [[Songhay Dashboard (F♯, C♯)]] #to-do 
 
-![Sarah’s `viewBox`](../presentation/image/day-path-2023-07-30-11-26-19.png)
+![Sarah’s `viewBox`](../../image/day-path-2023-07-30-11-26-19.png)
 
 ## the word _scalable_ in <acronym title="Scalable Vector Graphics">SVG</acronym> comes with complications
 
