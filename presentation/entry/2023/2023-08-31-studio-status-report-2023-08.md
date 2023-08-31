@@ -23,7 +23,7 @@
 
 I do not need to talk to myself about “[the definition of done](https://www.scrum.org/resources/what-definition-done).” Yes, `Songhay.Player.ProgressiveAudio` release 6.0.0” [[GitHub]](https://github.com/users/BryanWilhite/projects/9) is _still_ incomplete but a major blocker that was in the way of completion is done 🎊
 
-The major blocker was about `Presentation` credits data (from my ancient relationship with [Microsoft InfoPath](https://en.wikipedia.org/wiki/Microsoft_InfoPath)) being ‘too unstructured.’ I knew about this issue as early as _three_ months ago (see “[there is more than one `Presentation` credits HTML micro-format](http://songhayblog.azurewebsites.net/entry/2023-05-28-studio-status-report-2023-05/)”). However, I wasted my time by approaching the challenge with regular expressions as the solution. I explored this `Regex`-based angle in [an abandoned Jupyter notebook](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/fsharp/json/songhay-presentation-credits.ipynb) which was abandoned when I remembered one my classic architectural principles:
+The major blocker was about `Presentation` credits data (from my ancient relationship with [Microsoft InfoPath](https://en.wikipedia.org/wiki/Microsoft_InfoPath)) being ‘too unstructured.’ I knew about this issue as early as _three_ months ago (see “[there is more than one `Presentation` credits HTML micro-format](http://songhayblog.azurewebsites.net/entry/2023-05-28-studio-status-report-2023-05/)”). However, I wasted my time by approaching the challenge with regular expressions as the solution. I explored this `Regex`-based angle in [an abandoned Jupyter notebook](https://github.com/BryanWilhite/jupyter-central/blob/master/funkykb/fsharp/json/songhay-presentation-credits.ipynb) which was abandoned when I remembered one of my classic architectural principles:
 
 >Prefer <acronym title="Extensible Hypertext Markup Language">XHTML</acronym> over <acronym title="HyperText Markup Language">HTML</acronym> which will allow the declarative <acronym title="User Interface">UI</acronym> to be _processed_ as data.
 
@@ -35,7 +35,7 @@ Unlike [the tangled density of three months ago](http://songhayblog.azurewebsite
 
 <div style="text-align:center">
 
-![the Obsidian graph for this month](../presentation/image/day-path-2023-08-31-10-22-16.png)
+![the Obsidian graph for this month](../../image/day-path-2023-08-31-10-22-16.png)
 
 </div>
 
@@ -53,7 +53,7 @@ Today I choose option _2_ which starts with the means of passing `dispatch` with
 
 <div style="text-align:center">
 
-![passing `dispatch` with case `InitializeElmishServices`](../presentation/image/day-path-2023-08-31-10-27-31.png)
+![passing `dispatch` with case `InitializeElmishServices`](../../image/day-path-2023-08-31-10-27-31.png)
 
 </div>
 
@@ -61,7 +61,7 @@ This message will be used to pass `dispatch` to the conventional [[Elmish]] `mod
 
 <div style="text-align:center">
 
-![`dispatch` to the conventional Elmish `model`](../presentation/image/day-path-2023-08-31-10-28-42.png)
+![`dispatch` to the conventional Elmish `model`](../../image/day-path-2023-08-31-10-28-42.png)
 
 </div>
 
@@ -72,7 +72,7 @@ An annoying side effect of this structural equality issue is this mess:
 
 <div style="text-align:center">
 
-![`ShouldRender` override](../presentation/image/day-path-2023-08-31-10-40-12.png)
+![`ShouldRender` override](../../image/day-path-2023-08-31-10-40-12.png)
 
 </div>
 
@@ -85,7 +85,7 @@ Then the `dispatch` instance is dispatched in the top-level component:
 
 <div style="text-align:center">
 
-![`View` override](../presentation/image/day-path-2023-08-31-10-42-05.png)
+![`View` override](../../image/day-path-2023-08-31-10-42-05.png)
 
 </div>
 
@@ -96,7 +96,7 @@ The [[Elmish]] update chain responds to this dispatch:
 
 <div style="text-align:center">
 
-![`updateModel` method](../presentation/image/day-path-2023-08-31-10-58-47.png)
+![`updateModel` method](../../image/day-path-2023-08-31-10-58-47.png)
 
 </div>
 
@@ -104,7 +104,7 @@ Now, finally, the dispatcher on `model` can be used in the browser-driven animat
 
 <div style="text-align:center">
 
-![`animateAsync` method](../presentation/image/day-path-2023-08-31-10-59-41.png)
+![`animateAsync` method](../../image/day-path-2023-08-31-10-59-41.png)
 
 </div>
 
@@ -114,7 +114,7 @@ My option _1_ [[2023-08-05#Songhay Player - Progressive Audio (F♯) adding `Pro
 
 <div style="text-align:center">
 
-![`ProgressiveAudioModel`](../presentation/image/day-path-2023-08-31-11-10-51.png)
+![`ProgressiveAudioModel`](../../image/day-path-2023-08-31-11-10-51.png)
 
 </div>
 
@@ -158,7 +158,7 @@ By switching over to TLS (or HTTPS) my Azure App Service bill skyrocketed event 
 
 <div style="text-align:center">
 
-![Microsoft feedback](../presentation/image/day-path-2023-08-31-11-17-54.png)
+![Microsoft feedback](../../image/day-path-2023-08-31-11-17-54.png)
 
 </div>
 
