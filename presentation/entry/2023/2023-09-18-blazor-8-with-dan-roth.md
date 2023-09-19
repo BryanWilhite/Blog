@@ -25,7 +25,7 @@ This Visual Studio Live! 2023 video calls out the following highlights:
 - apply the `@rendermode` attribute to Blazor components
 - the “Blazor Web App” template
 - `RazorComponentResult` for ASP.NET <acronym title="Model View Controller">MVC</acronym>❓
-- will a future version of Blazor replace eleventy]]❓
+- will a future version of Blazor replace eleventy❓
 - Blazor 8 will stop sending `*.dll` files to the browser
 - Blazor sections for parent-child component rendering
 
@@ -91,7 +91,7 @@ The older ways of doing this sort of thing are covered in:
 - “[How To Convert An MVC Project Into A Blazor Application Project](https://www.c-sharpcorner.com/article/how-to-convert-an-mvc-project-into-a-blazor-application-project/)”
 - “[Migrating from MVC to Blazor](https://www.telerik.com/blogs/migrating-mvc-to-blazor)”
 
-## wow, will a future version of Blazor replace eleventy]]❓
+## wow, will a future version of Blazor replace eleventy❓
 
 A future version of Blazor components may “generate static <acronym title="HyperText Markup Language">HTML</acronym> content”:
 
