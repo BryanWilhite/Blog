@@ -109,4 +109,4 @@
 
 [<img alt="Brian Greene [bgreene]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bgreene.jpeg">](http://briangreene.org/ "Brian Greene [bgreene]") Happy 453rd birthday to William Shakespeare. His collective works: 5 MB. My inbox: 30,000 times larger, mostly unre… [[twitter.com]](https://twitter.com/i/web/status/856225982356873216)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

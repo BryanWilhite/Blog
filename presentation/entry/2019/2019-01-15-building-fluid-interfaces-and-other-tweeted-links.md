@@ -113,4 +113,4 @@
 
 [<img alt="Laura Machan [recruiterscouch]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/recruiterscouch.png">](http://www.recruiterscouch.wordpress.com/) Will AI take over recruitment? No. Not ever. Amazon scraps secret AI recruiting tool that showed bias against women [[reut.rs]](https://reut.rs/2Od9fPr)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -48,4 +48,4 @@ namespace Songhay.Collections
 
 Based on precious hours of research, I assume that these, scant 13 lines of code is the appropriate alternative to the quite serious business dating back to 2009 in “[Implementing IEnumerable and IEnumerator](http://brendan.enrick.com/post/Implementing-IEnumerable-and-IEnumerator.aspx).” Even farther back on the timeline, in 2007, a Microsoft MVP from Skopje, Macedonia wrote “[DecimalCollection](http://sharpsource.blogspot.com/2007/05/decimalcollection.html).” This post shows how a custom collection should be based on `CollectionBase`. However, in this part of the 21<sup>st</sup> century, `CollectionBase` is considered [obsolete](http://stackoverflow.com/questions/5704776/is-the-collectionbase-class-still-supported) under the influence of generics.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

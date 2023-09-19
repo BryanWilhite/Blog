@@ -98,4 +98,4 @@ ASP.NET MVC support.
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") A 5-step process for hiring tech talent [[opensource.com]](https://opensource.com/life/16/5/oscon-bitnami-erica-brescia)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

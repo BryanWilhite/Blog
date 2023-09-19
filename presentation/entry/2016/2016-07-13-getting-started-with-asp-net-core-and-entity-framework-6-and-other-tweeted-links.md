@@ -87,4 +87,4 @@
 
 [<img alt="Stuart Butler [trebortrauts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/trebortrauts.jpg">]( "Stuart Butler [trebortrauts]") Lovely art history of computers [[theguardian.com]](https://www.theguardian.com/technology/2016/may/29/early-computers-design-apple-docubyte-photography) thought you may enjoy [@wasbuxton](http://twitter.com/wasbuxton) !
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

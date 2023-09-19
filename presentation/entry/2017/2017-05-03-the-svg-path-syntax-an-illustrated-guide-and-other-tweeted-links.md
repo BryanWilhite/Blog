@@ -97,4 +97,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") If you purchased anything from a Microsoft Store they may owe you $100 - MSPoweruser [[mspoweruser.com]](https://mspoweruser.com/purchased-anything-microsoft-store-may-owe-100/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Things Programmers Should Never Say : "Who wrote this awful code!" · Things.Random [[shubhamjain.co]](https://shubhamjain.co/2017/02/25/things-programmers-should-never-say--who-wrote-this-awful-code/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

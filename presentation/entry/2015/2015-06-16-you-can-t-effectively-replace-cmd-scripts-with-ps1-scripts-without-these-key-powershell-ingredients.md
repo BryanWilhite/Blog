@@ -77,4 +77,4 @@ function Restore-PermissionsForWebServerGroup($Path)
 
 I really should have listed this as #1. This `&` operator is the bridge to the CMD past on the way to a PowerShell future!
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

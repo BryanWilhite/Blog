@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Increased cycling infrastructure leads to 75 per cent crash rate decrease in some U.S. cities, says study [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/increased-cycling-infrastructure-leads-75-per-cent-crash-rate-decrease-u-s-cities-says-study-329920)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

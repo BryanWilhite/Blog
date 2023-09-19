@@ -81,4 +81,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") How to Animate a Battle in Blender [@megafunkmega](http://twitter.com/megafunkmega)[[blendernation.com]](http://www.blendernation.com/2015/08/20/how-to-animate-a-battle-in-blender/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

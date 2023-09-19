@@ -91,4 +91,4 @@
 
 [<img alt="Rob Eisenberg [EisenbergEffect]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EisenbergEffect.jpg">](http://www.robeisenberg.com/ "Rob Eisenberg [EisenbergEffect]") Got passion for the Web & shipping online UX? Join my team as a Web UX PM [[careers.microsoft.com]](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=320525&jlang=EN&pp=SS) or Web UX Sr. PM [[careers.microsoft.com]](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=320858&jlang=en&pp=ss)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

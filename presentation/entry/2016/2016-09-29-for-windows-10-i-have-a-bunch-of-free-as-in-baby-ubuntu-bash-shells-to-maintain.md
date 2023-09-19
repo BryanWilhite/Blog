@@ -81,4 +81,4 @@ sudo apt-get autoclean
 
 I think I have the order wrong. I should see “[Package management with APT](https://help.ubuntu.com/community/AptGet/Howto)” and “[What Kind of Maintenance Do I Need to Do On My Linux PC?](http://lifehacker.com/5817282/what-kind-of-maintenance-do-i-need-to-do-on-my-linux-pc)” for detail. According to “[How to maintain a ‘clean’ Ubuntu](https://www.howtoforge.com/tutorial/how-to-maintain-a-clean-ubuntu/)” I might want to try `ucaresystem` and just be done with it in one command—but will it break something in Windows 10?.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

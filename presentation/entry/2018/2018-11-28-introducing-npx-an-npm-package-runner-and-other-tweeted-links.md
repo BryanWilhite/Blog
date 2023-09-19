@@ -113,4 +113,4 @@
 
 [<img alt="Kelsey Hightower [kelseyhightower]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/kelseyhightower.jpg">](https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/106678312289948845134/posts&followup=https://plus.google.com/106678312289948845134/posts) Twelve years. Still happy. [[twitter.com]](https://twitter.com/kelseyhightower/status/1008130016905814016/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

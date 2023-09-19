@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) “Comparing dates of commits, it looked like Rush [from Microsoft] kept copying changes from Lerna days after they were made. Rewritten using this weird event system they added.” [[threadreaderapp.com]](https://threadreaderapp.com/thread/1002696910266773505.html)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

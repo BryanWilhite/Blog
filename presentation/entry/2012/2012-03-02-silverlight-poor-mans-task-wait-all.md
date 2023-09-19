@@ -134,4 +134,4 @@ catalogs[1] = CompositionUtility.DownloadCatalog(uri1,
 
 So, now I have my first real-world reason why Silverlight 5 is desirable.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

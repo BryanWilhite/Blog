@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) “Every medium-to-large company I have worked at has asserted ownership of everything I build, at work or away from work, using my own equipment, on my own time—it doesn't matter.” [[news.ycombinator.com]](https://news.ycombinator.com/item?id=18077766) => [@megafunkmega](http://twitter.com/@megafunkmega)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The Search for the Universe’s Missing Antimatter Remains Annoyingly Nebulous [[wired.com]](https://www.wired.com/2017/04/hunt-universes-missing-antimatter/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

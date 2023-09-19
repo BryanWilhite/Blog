@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Time for an Update? The State of U.S. Government Websites [[blogs.adobe.com]](http://blogs.adobe.com/adobeingovernment/time-for-an-update-the-state-of-u-s-government-websites)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

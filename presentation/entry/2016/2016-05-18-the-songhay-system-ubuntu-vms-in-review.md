@@ -37,4 +37,4 @@ Over a decade ago the macro-virus outbreak made Outlook and other desktop email 
 
 In “[Songhay Studio: second printing of ‘the adolescence of the cool,’ my chapbook, will be based on open source software](http://kintespace.com/rasxlog/?p=3508),” I’m celebrating the use of tools like Scribus and GIMP to design publications. This does not mean that I would not be tempted to rent Adobe After Effects from Adobe but I must take precautions and support “open” alternatives.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

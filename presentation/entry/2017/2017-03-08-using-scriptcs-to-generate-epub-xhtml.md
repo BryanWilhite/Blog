@@ -68,4 +68,4 @@ The screenshot below shows the layout of the EPUB assets (along with the print-p
 
 Assuming that I have a future, I will go into detail about this intent and this layout for the EPUB pipeline in subsequent Blog posts.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

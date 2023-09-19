@@ -47,4 +47,4 @@ Start-Sleep -Seconds 5
 Move-Item -Confirm -Destination $root -Path $document
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

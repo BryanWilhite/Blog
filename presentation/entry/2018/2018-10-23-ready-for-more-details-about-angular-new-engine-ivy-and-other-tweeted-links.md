@@ -113,4 +113,4 @@
 
 [<img alt="Janessa Lantz [janessalantz]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/janessalantz.jpg">](null) Are we surprised that a key phrase in Uber's job description is "whatever it takes"? [[twitter.com]](https://twitter.com/janessalantz/status/996860109161680897/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

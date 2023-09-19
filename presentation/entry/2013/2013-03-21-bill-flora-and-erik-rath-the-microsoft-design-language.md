@@ -34,4 +34,4 @@ I’ve just seen [Bill Flora](http://vimeo.com/56764845) on Seattle’s [Creativ
 
 Watching this talk along with [Laurent Bugnion’s talk](http://blog.galasoft.ch/archive/2013/03/10/session-material-from-techdays-be-and-nl.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+galasoft+(Laurent+Bugnion+(GalaSoft))) should give a complete introduction to this brave new world that is so very old. It is old because the heart of the design language comes from print. My personal approach to design has been under the influence of print design—specifically typography. For over a decade, I could only attempt (and fail often) to express this print influence through the use of Cascading Style Sheets in the context of Web Development. Now, because of the work of Bill Flora and Erik Rath (and Bill Hill—and Bill Buxton—and others), I have a platform-space that promises to marry the most elegant design philosophy with the most powerful data access tools on the planet.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

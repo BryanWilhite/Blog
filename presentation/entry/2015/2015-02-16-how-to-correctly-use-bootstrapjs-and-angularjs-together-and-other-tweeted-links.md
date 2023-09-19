@@ -63,4 +63,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Why building highly scalable applications is hard – Part 1/2 [[blogs.msdn.com]](http://blogs.msdn.com/b/mcsuksoldev/archive/2015/01/22/why-building-highly-scalable-applications-is-hard-part-1.aspx)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

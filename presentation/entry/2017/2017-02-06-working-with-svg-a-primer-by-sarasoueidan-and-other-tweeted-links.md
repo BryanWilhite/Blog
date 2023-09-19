@@ -99,4 +99,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Restoring Sanity to the Office [[m.signalvnoise.com]](https://m.signalvnoise.com/restoring-sanity-to-the-office-d9d35dd8689e#.853ybcyml)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -83,4 +83,4 @@ Shared site with custom “naked” domain.
 
 I’m currently running wordwalkingstick.com with the same hosting company serving Phil Haack’s blog. I chose this host because I thought Phil chose this company carefully—but after using this host for a little over year it seems that Phil just said “whatever, it’s cheap and more reliable than others.” Windows Azure is special. Some of the best people in the entire IT industry are working on it. To me this is Scott Guthrie’s (and Mark Russinovich’s) master opus—never just “whatever.”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

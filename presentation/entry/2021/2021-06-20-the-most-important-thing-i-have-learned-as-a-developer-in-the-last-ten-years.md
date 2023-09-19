@@ -82,4 +82,4 @@ One famous complaint in the software development world is around [distractions](
 
 When the acceptance criteria uses domain names (or business terminology) that maps directly to source-control artifacts, the card plan writes itself. In my ignorance, I assume that [SpecFlow and Gherkin](https://specflow.org/learn/gherkin/) can automate and accelerate this process. In my current day job, there is the promise (or very strong suggestion) that I will have the opportunity to look into this technology further in a team setting. Maybe not.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

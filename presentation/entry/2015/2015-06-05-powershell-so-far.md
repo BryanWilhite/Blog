@@ -237,4 +237,4 @@ $configPath = "$($Element.PhysicalPath)\Web.config"
 
 By the way, resorting to `Select-Xml` to read a value (or the value is empty/null) because `Get-WebConfigurationValue` is not working could mean that the `web.config` is not valid with respect to IIS (try browsing the site as a brute-force way to ‘validate’ `web.config`).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

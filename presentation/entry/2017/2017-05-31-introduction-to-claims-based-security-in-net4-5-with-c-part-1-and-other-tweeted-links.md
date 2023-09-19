@@ -99,4 +99,4 @@
 
 [<img alt="Adam C. Engst [adamengst]" src="https://songhay.blob.core.windows.net/shared-social-twitter/adamengst.jpg">](http://tidbits.com/adam/ "Adam C. Engst [adamengst]")[@BryanWilhite](http://twitter.com/BryanWilhite) It's important stuff that even technical people often don't think about...
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

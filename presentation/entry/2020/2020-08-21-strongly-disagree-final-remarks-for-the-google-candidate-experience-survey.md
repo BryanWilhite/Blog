@@ -91,4 +91,4 @@ I am very proud and pleased to know that having a “recognized authority” adv
 - “[Talked to Microsoft …at Longo Toyota!](http://songhayblog.azurewebsites.net/entry/2015-04-06-talked-to-microsoft-at-longo-toyota/)”
 - “[Nietzsche on the Stoics](http://throughablogdarkly.blogspot.com/2012/10/nietzsche-on-stoics.html)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

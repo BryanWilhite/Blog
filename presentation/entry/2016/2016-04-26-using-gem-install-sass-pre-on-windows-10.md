@@ -53,4 +53,4 @@ sass _body.scss styles.min.css --style=compressed -E utf-8
 
 Note the encoding option `-E` is needed to force UTF-8 output—evidently, [a sass-on-Windows issue](http://blog.pixelastic.com/2014/09/06/compass-utf-8-encoding-on-windows/).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

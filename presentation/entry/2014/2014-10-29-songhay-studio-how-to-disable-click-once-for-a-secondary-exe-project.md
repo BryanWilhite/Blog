@@ -42,4 +42,4 @@ Under Project Properties:
 
 Disable any other Deployment Publish Options.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

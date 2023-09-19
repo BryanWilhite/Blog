@@ -43,4 +43,4 @@ This `XDocument` fallback technique looks like a replacement for the `file` attr
 
 …where `appSettings.config` is *not* a full configuration file—it would have a root element `appSettings`). The [documentation](https://msdn.microsoft.com/en-us/library/ms228154(v=vs.100).aspx) for this declaration insists that the path must be relative but experience shows me that absolute paths work—even UNCs. To further summarize, distract and confuse, it must be mentioned that `file` declaration is not the same as `configSource` attribute declaration ([see MSDN](https://msdn.microsoft.com/en-us/library/system.configuration.sectioninformation.configsource(v=vs.110).aspx)).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

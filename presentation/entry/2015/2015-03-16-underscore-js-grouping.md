@@ -67,4 +67,4 @@ So, instead of that cool object-property syntax, we have plain-old Angular verbo
 </div>
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

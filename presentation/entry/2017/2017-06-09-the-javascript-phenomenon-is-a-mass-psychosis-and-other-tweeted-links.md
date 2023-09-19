@@ -101,4 +101,4 @@
 
 [<img alt="Rob Majteles [treehcapital]" src="https://songhay.blob.core.windows.net/shared-social-twitter/treehcapital.jpg">](http://www.treehousecapital.com/ "Rob Majteles [treehcapital]") Terrific interview with [@bradfordcross](http://twitter.com/bradfordcross)[[architecht.io]](https://architecht.io/bradford-cross-on-fintech-automation-bot-overload-and-how-to-build-an-ai-startup-dd8abdffbfb8)[[twitter.com]](https://twitter.com/treehcapital/status/871754055663484928/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -59,4 +59,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") really? i HAVE to keep clicking the downoad button again and again until 3GB comes? [#steam](http://search.twitter.com/search?q=%23steam)[#Borderlands](http://search.twitter.com/search?q=%23Borderlands) ..for my son [[steamcommunity.com]](http://steamcommunity.com/discussions/forum/1/35221031552090106/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

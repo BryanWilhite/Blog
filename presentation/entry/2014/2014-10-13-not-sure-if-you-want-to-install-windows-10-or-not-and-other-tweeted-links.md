@@ -51,4 +51,4 @@
 
 [<img alt="Damian Madray [themadray]" src="https://songhay.blob.core.windows.net/shared-social-twitter/themadray.jpg">](http://damian.is/ "Damian Madray [themadray]") <span>How Bad UX Killed Jenny — [http://buff.ly/1ymcR2b](http://buff.ly/1ymcR2b)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

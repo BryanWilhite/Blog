@@ -51,4 +51,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Paul Hudak, Co-creator of Haskell, Has Died [[developers.slashdot.org]](http://developers.slashdot.org/story/15/04/30/1830256/paul-hudak-co-creator-of-haskell-has-died?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

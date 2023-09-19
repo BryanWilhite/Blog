@@ -27,4 +27,4 @@ To work around this situation, select **Edit Project File** and change `OutputTy
 
 Surely this issue is fixed in Visual Studio 2013? Right?
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -34,4 +34,4 @@ I have been listening to Immo Landwerth (and [corresponding with him](https://tw
 
 According to [Channel 9](https://channel9.msdn.com/Blogs/Seth-Juarez/What-is-NET-Standard) and [YouTube](https://www.youtube.com/watch?v=eCEczPk0qkc) videos I’ve watched from Microsoft, we should skip over 1.5 and 1.6 (to avoid breaking changes) to .NET Standard 2.0 when we need to go beyond .NET Standard 1.4. Immo Landwerth says that .NET Standard 1.x is a subset of .NET Core and 2.0 represents “taking a step back” and incorporating as many platforms (including Xamarin) into a standard.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

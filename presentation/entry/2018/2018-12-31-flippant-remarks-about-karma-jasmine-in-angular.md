@@ -345,4 +345,4 @@ When the `NullInjectorError: No provider for HttpClient!` error is thrown, the k
 
 There is a similar Karma-Jasmine error that should lead us to importing `RouterTestingModule` as described in “[Using Jasmine framework to test Angular Router](https://medium.com/burak-tasci/using-jasmine-framework-to-test-angular-router-b568a232efed)” by Burak Tasci.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

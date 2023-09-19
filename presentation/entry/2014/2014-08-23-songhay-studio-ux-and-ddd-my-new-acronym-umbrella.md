@@ -86,4 +86,4 @@ Eric Evans is not wearing a hot mic during this talk so the audio is bad.
 “In his [2010 talk on the Natural User Interface](http://channel9.msdn.com/posts/TechTalk-NUI-Whats-in-a-Name), [Bill Buxton](https://twitter.com/wasbuxton) damn near begs his audience to not be impressed with the technology in the iPhone and similar mobile devices. He shows the audience a digital watch from the 1970s with a touch interface to illustrate how little has been accomplished in decades.”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

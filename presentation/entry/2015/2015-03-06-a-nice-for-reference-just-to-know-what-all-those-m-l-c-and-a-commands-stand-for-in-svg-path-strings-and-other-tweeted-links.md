@@ -77,4 +77,4 @@
 
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://blog.codinghorror.com/ "Jeff Atwood [codinghorror]") I wince every time I see the word "CoffeeScript" now.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -54,4 +54,4 @@ Finally, the Neo-Flex® Mobile MediaCenter UHD can hold up to 80-inch monitors:
 
 This model is actually less expensive than the Neo-Flex® WideView WorkSpace in part because (I assume) it does not support LiFeKinnex Technology and the tray does not have retractable surfaces for a mouse.  
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

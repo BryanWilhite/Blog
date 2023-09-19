@@ -154,4 +154,4 @@ The schedule of the month:
 - switch Studio from Material Design to Bulma 💄 ▶️ 💄✨
 - use the learnings of previous work in Bolero to upgrade and re-release the kinté space 🚀
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

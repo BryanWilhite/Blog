@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Batman: Arkham Knight is still broken on PC, so WB is offering full refunds [[theverge.com]](http://www.theverge.com/2015/11/2/9657734/batman-arkham-knight-pc-broken-refunds)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -99,4 +99,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Einstein’s theory about gravitational waves could be confirmed tomorrow [[theverge.com]](http://www.theverge.com/2016/2/10/10958154/einstein-gravitational-waves-ligo-discovery-announcement-live-stream)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

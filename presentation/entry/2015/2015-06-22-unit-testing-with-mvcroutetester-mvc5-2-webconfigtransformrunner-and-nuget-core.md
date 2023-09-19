@@ -142,4 +142,4 @@ public static string ShouldGetProjectsFolder(this TestContext context, Type type
 
 I am embarrassed to admit that it took me *years* to really trim the cognitive load to write something as straight-forward as `ShouldGetProjectsFolder()`. It will be reused in all of my automated tests that depend on static files—I prefer this approach over the ceremony around [Deployment Item](https://msdn.microsoft.com/en-us/library/ms182475.aspx) setup.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

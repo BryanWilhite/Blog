@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) This heat wave's so bad it's even slowing down U.S. stock trades [[bloomberg.com]](https://www.bloomberg.com/news/articles/2018-07-03/this-heat-wave-s-so-bad-it-s-even-slowing-down-u-s-stock-trades) via [@markets](http://twitter.com/@markets)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

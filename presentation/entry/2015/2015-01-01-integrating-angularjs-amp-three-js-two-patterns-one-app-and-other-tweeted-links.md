@@ -65,4 +65,4 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://kintespace.com/ "the kinte space [KinteSpace]") <span>15 Smart Design Books to Inspire You in 2015 [http://feeds.wired.com/c/35185/f/661370/s/41e1abcd/sc/4/l/0L0Swired0N0C20A140C120C150Esmart0Edesign0Ebooks0Einspire0E20A150C/story01.htm](http://feeds.wired.com/c/35185/f/661370/s/41e1abcd/sc/4/l/0L0Swired0N0C20A140C120C150Esmart0Edesign0Ebooks0Einspire0E20A150C/story01.htm)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

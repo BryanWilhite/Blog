@@ -126,4 +126,4 @@ You may alternatively use an inline element with .small in place of any `<small>
 
 </blockquote>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

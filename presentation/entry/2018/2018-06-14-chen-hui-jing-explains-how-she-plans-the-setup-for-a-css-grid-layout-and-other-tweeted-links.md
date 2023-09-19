@@ -111,4 +111,4 @@
 
 [<img alt="Julie Lerman [julielerman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/julielerman.jpeg">](http://about.me/julielerman "Julie Lerman [julielerman]") So I finally met [@TechNoahlogy](http://twitter.com/TechNoahlogy) and OMG they're real! [[twitter.com]](https://twitter.com/julielerman/status/971273409341657088/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

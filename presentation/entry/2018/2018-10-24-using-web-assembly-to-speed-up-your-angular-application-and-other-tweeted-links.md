@@ -105,4 +105,4 @@
 
 [<img alt="loydcase [loydcase]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/loydcase.jpg">](http://uncertainty.com/) You never know when you might have to put out a crotch fire. [[twitter.com]](https://twitter.com/loydcase/status/998844105814953984/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

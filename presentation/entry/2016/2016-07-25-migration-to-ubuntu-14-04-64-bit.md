@@ -90,4 +90,4 @@ sudo apt-get install libpam-smbpass
 
 It is important to not enable anonymous access to your share—say, `/foo`. So in Windows it will be found at [\\UBUNTU\foo](file://ubuntu/foo) after filling in the credentials.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -28,4 +28,4 @@
 
 The [Neo-Flex Mobile MediaCenter](http://www.ergotron.com/ProductsDetails/tabid/65/PRDID/425/language/en-US/Default.aspx) is sold on Amazon.com as the video states but the lowest prices I’ve seen so far are [on Provantage.com](http://www.provantage.com/ergotron-24-191-085~7ERGT0M2.htm?source=googleps).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

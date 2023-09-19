@@ -230,4 +230,4 @@ A bunch of Windows 8 and Windows Azure links related to OAuth.
 I am using these techniques for the MVC version of my little app.
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -89,4 +89,4 @@ The interesting thing about [Blazor Hybrid](https://learn.microsoft.com/en-us/as
 - “[Episode 95 - Avalonia UI with Dan Walmsley](https://dotnetcore.show/episode-95-avalonia-ui-with-dan-walmsley/)”
 - “[Episode 60 - Uno Platform With Jérôme Laban](https://dotnetcore.show/episode-60-uno-platform-with-jerome-laban/)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

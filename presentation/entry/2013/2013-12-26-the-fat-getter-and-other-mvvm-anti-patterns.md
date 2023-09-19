@@ -261,4 +261,4 @@ This thread shows a sample that uses `CollectionViewSource` to wrap `ObservableC
 “The solution presented here is to defer updates to the `Filterproperty` until the user has likely finished typing. The trick is to find a simple way to guess when this is.”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

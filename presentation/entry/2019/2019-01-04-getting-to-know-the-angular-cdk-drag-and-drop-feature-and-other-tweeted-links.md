@@ -99,4 +99,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) .[@shanselman](http://twitter.com/@shanselman) is respecting the Bill Gates maxim to use DATA to characterize a population of systems: [[hanselminutes.com]](https://hanselminutes.com/648/accelerate-the-state-of-dev-ops-with-dr-nicole-forsgren)[@nicolefv](http://twitter.com/@nicolefv) blows me away with this fact: IT moves fast _successfully_ by making *small* testable changes => [@bizmonger](http://twitter.com/@bizmonger)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

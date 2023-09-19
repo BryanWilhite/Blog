@@ -93,4 +93,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") SleepBus Service between San Francisco and Los Angeles Plans to Disrupt Existing Options [[travelcodex.com]](http://www.travelcodex.com/2016/04/sleepbus-san-francisco-los-angeles/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

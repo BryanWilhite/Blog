@@ -91,4 +91,4 @@
 
 [<img alt="Rich Rogers [RichRogersHDS]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RichRogersHDS.jpg">](https://www.linkedin.com/in/richrogers "Rich Rogers [RichRogersHDS]") Programmers force their brains to do things brains were never meant to do, & every one of them is slowly going mad. [[stilldrinking.org]](http://www.stilldrinking.org/programming-sucks)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

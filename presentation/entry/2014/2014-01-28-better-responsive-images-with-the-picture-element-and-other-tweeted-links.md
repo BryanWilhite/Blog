@@ -81,4 +81,4 @@
 
 [<img alt="africatechie [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "africatechie [africatechie]") <span>The main culprits for startups' diversity problem? Investors [http://bit.ly/1i54zRB](http://bit.ly/1i54zRB) cc: [@digundiv](http://twitter.com/digundiv) [@women2](http://twitter.com/women2)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

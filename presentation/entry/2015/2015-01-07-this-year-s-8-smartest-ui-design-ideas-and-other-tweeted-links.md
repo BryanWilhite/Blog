@@ -31,4 +31,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>LayoutTransform vs. RenderTransform in WPF [http://patconroy.wordpress.com/2009/03/24/layouttransform-vs-rendertransform-in-wpf/](http://patconroy.wordpress.com/2009/03/24/layouttransform-vs-rendertransform-in-wpf/)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

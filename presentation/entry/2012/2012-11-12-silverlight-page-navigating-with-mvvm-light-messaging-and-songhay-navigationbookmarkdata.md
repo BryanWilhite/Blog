@@ -231,4 +231,4 @@ This might have changed since Silverlight 2: “…I decided to have another loo
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

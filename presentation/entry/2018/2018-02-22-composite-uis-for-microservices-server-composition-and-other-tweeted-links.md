@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") How Microsoft turns their incompetence into my problem [[linkedin.com]](https://www.linkedin.com/pulse/how-microsoft-turns-incompetence-my-problem-mark-schouten/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

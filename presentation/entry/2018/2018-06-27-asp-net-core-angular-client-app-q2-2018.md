@@ -72,4 +72,4 @@ This arrangement completely separates the contents of `ClientApp` from the rest 
 <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

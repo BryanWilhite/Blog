@@ -85,4 +85,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>i know it's a from a year ago but [@sh4na](http://twitter.com/sh4na) never told me about it :{ ..Andreia Gaita - Inside Mono for Android [http://vimeo.com/43529195](http://vimeo.com/43529195)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

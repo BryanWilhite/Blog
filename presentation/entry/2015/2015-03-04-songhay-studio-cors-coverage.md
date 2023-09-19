@@ -49,4 +49,4 @@ Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
 
 I am currently experimenting with CORS as I continue the work toward re-releasing kintespace.com. It’s interesting [to see](http://codepen.io/rasx/pen/ykDGi) that Angular JS, its `$sce.trustAsResourceUrl()` method, can be used to load XHTML5 files directly into another web page. Simultaneously, Web API can be used to load static XHTML5 files, shred them into JSON and (Redis?) cache them for repurposing.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

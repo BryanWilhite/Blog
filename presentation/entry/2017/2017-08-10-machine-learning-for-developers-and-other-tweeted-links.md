@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") IBM says remote working is great. As long as you are not working for IBM [[thenextweb.com]](https://thenextweb.com/insider/2017/05/08/ibm-remote-working-panel/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

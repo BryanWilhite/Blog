@@ -119,4 +119,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]")[@Bizmonger](http://twitter.com/Bizmonger) Now I do agree that most North Americans born after 1990 do not want my "free" feedback but eventually t… [[twitter.com]](https://twitter.com/i/web/status/976816632570920961)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

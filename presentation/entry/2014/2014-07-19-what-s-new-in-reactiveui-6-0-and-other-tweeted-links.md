@@ -69,4 +69,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Most ATMs Are Still Running Windows XP--Which Is About to Die Off [http://gizmodo.com/most-atms-are-still-running-windows-xp-which-is-about-1503367754](http://gizmodo.com/most-atms-are-still-running-windows-xp-which-is-about-1503367754)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

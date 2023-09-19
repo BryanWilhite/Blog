@@ -29,4 +29,4 @@ Victor was one of the few people *in the world* outside of Microsoft that was *v
 * “[All of my Silverlight/WP7 Video Tutorials in One Place (Updated 02.11.11)](http://www.windowspresentationfoundation.com/?p=712)”
 * “[Victor Gaudioso talks Silverlight 4 with Murray Gordon at MIX10](http://channel9.msdn.com/Blogs/jodonnell/Victor-Gaudioso-talks-Silverlight-4-with-Murray-Gordon-at-MIX10)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

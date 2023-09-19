@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") GitHubber wants to revive the first Unix in a PDP-7 emulator [[theregister.co.uk]](http://www.theregister.co.uk/2016/02/29/githubber_wants_to_revive_the_first_unix_in_a_pdp7_emulator/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

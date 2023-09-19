@@ -73,4 +73,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Excellent! => Applying S.O.L.I.D. Principles in .NET/C# (Channel 9) [http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B315](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014/DEV-B315) via [@ch9](http://twitter.com/ch9) [@SF_klug](http://twitter.com/SF_klug)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

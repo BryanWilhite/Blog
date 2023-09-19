@@ -103,4 +103,4 @@
 
 [<img alt="Mike Street [MrMikeStreet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MrMikeStreet.jpg">](http://smartbrownvoices.com/ "Mike Street [MrMikeStreet]") Why Jobs in Tech for African American's Should Matter to Everyone w/ [@Anjuan](http://twitter.com/Anjuan)[[smartbrownvoices.com]](http://smartbrownvoices.com/podcast/jobs-tech-african-american-matter-everyone-w-anjuan/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

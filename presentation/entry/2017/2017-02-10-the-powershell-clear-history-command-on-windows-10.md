@@ -33,4 +33,4 @@ I see that `HistorySavePath` leads here:
 
 Opening this file and deleting the contents does what `Clear-History` is supposed to do—and it gives me the opportunity to make notes on any commands I might have entered in the heat of the moment for future, cooler use.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

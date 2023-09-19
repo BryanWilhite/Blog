@@ -264,4 +264,4 @@ interface SearchIndexEntry extends Partial<Document> {
 
 By writing this, I see now that I can replace the `LunrIndexEntry` [I have defined for this Blog Publication](https://github.com/BryanWilhite/day-path/blob/251af3b421424cf8a47af56eed82db9041442a12/src/ts/models/lunr-index-entry.ts) with the more generalized `SearchIndexEntry`.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

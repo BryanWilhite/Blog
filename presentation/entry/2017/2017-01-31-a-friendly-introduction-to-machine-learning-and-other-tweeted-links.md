@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Melba Roy - Female Computer | Melba Roy headed the group of … | Flickr [[flickr.com]](https://www.flickr.com/photos/nasacommons/9467783474/in/dateposted/) => [@iAyori](http://twitter.com/iAyori),… [[twitter.com]](https://twitter.com/i/web/status/824667138854187010)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

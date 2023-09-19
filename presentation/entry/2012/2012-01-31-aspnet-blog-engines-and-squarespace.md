@@ -29,4 +29,4 @@ Hi wired world. This is my first entry for this new blog—so it makes a bit of 
 * There’s AtomSite: “AtomSite is built with extensible web standards that unleash your social website and blog…” This system runs on <acronym title="Extensible Hypertext Markup Language">XHTML</acronym>—and the latest entry in the AtomSite.net blog is from 4/2010. There is an <acronym title="Extensible Markup Language">XML</acronym> version of HTML 5—so I’m sure there’s something going on there in the future.
 * Like AtomSite, BlogEngine.NET does not require a database (I prefer this for the feeling of lightness and ease of maintenance). I installed this twice—once through my Host control panel and then again through FTP (because my host did not have an up-to-date version of BlogEngine.NET). BlogEngine.NET installed without any problems (my only challenge had to do with enabling write access to a folder because data is persisted in XML files).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

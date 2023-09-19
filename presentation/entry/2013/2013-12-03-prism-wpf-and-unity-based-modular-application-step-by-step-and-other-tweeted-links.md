@@ -105,4 +105,4 @@
 
 [<img alt="Heath Howard [nattyman512]" src="https://songhay.blob.core.windows.net/shared-social-twitter/nattyman512.jpg">](http://www.webdesignbusinessbuilder.com/ "Heath Howard [nattyman512]") <span>Charming Website Designs with Minimal Coloring: Best Practice [http://ow.ly/2ApoO5](http://ow.ly/2ApoO5)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) "wouldn't it be fun to chat with J. Edgar Hoover?" [#MSBuild](http://twitter.com/search?q='%23MSBuild) folks need some history lessons <= [@taraw](http://twitter.com/@taraw) => [@shanselman](http://twitter.com/@shanselman)[[twitter.com]](https://twitter.com/BryanWilhite/status/993642693099114496/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

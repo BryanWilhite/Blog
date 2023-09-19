@@ -109,4 +109,4 @@
 
 [<img alt="Rob Eisenberg [EisenbergEffect]" src="https://songhay.blob.core.windows.net/shared-social-twitter/EisenbergEffect.jpg">](http://www.robeisenberg.com/ "Rob Eisenberg [EisenbergEffect]") If your first instinct when you encounter a deficiency in an OSS project is to tear it down rather than build it up… [[twitter.com]](https://twitter.com/i/web/status/950746528569638912)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

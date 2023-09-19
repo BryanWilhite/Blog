@@ -78,4 +78,4 @@ I’ve spent most of my IT career away from visual design and user experience re
 
 I look forward to cranking it up more.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

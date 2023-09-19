@@ -282,4 +282,4 @@ Beyond the “common,” typographic glyphs I have these frequently-used Latin g
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

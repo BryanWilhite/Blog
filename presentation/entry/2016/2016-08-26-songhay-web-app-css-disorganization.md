@@ -40,4 +40,4 @@ A CSS folder would be filled with a set of files like these:/content/styles
     /styles.css
     /styles.min.cssThe `styles-foo-app.*.css` files are redundant subsets of `styles.*.css` files to allow sharing CSS with external Web apps. The `_layout*.css` files can also be `_layout*.scss` files for `gulp-ruby-sass` or its equivalent.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

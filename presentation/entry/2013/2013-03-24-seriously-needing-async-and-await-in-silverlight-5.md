@@ -83,4 +83,4 @@ What `async` and `await` gives me is a *flat* representation of my intentions. W
 
 Welcome to 2012 in the year 2013. Silverlight is dead. Long live Silverlight.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

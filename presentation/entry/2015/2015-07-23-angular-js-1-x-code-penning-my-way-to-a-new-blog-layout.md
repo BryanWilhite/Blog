@@ -52,4 +52,4 @@ So what I am seeing here is an ‘armadillo’ index grouping (each collapsed Ac
 
 First, I had to work with NBlog (to actually see MVC in real life) and see the need to generate an index offline instead of generating one on the fly (especially from static JSON data). Second, I had to choose an HTML5 App platform which left me stuck with Angular 1.x (with no plans/desire to move to Angular 2.x, respecting [the public observations of Rob Eisenberg](http://eisenbergeffect.bluespire.com/leaving-angular/)). Third was my move away from [960.gs](http://960.gs/) to Bootstrap (it took me quite some time to realize that Bootstrap is not just a grid system but a *responsive* [grid system](http://getbootstrap.com/css/)). Fourth, I had to choose CodePen.io over jsFiddle. Sixth is surely a bunch of personal-life issues not worth mentioning here…
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

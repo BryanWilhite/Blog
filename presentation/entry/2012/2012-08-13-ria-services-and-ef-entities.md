@@ -174,4 +174,4 @@ I am not quite sure that RIA services just works with the latest version of Azur
 * “[Simple WCF Ria Services EF 4.1 Scaffolding](http://blog.larud.net/archive/2011/07/04/simple-wcf-ria-services-ef-4-1-scaffolding-aspx)”
 * “[ASP.NET WebAPI: Getting Started with MVC4 and WebAPI](http://www.codeproject.com/Articles/344078/ASP-NET-WebAPI-Getting-Started-with-MVC4-and-WebAP)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

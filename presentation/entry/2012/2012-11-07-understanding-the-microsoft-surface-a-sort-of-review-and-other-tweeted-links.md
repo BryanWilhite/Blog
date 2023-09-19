@@ -115,4 +115,4 @@
 
 [<img alt="Mark Berry [markab]" src="https://songhay.blob.core.windows.net/shared-social-twitter/markab.png">]( "Mark Berry [markab]") <span>I can't state this enough: Programmers don't burn out on hard work, they burn out on change-with-the-wind directives and not 'shipping'.</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

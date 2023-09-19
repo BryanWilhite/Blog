@@ -99,4 +99,4 @@
 
 [<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://www.linkedin.com/in/gregbledsoe "Gregory S Bledsoe [geek_king]") Higgs Boson is thrown out of a catholic church. Boson turns around and says, "Without me you can't have mass!"
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

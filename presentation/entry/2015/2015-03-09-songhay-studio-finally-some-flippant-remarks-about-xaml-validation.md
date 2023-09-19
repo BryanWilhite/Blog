@@ -35,4 +35,4 @@ I also have a LINQPad exploration of Windows-controls Validation as a GitHub Gis
 
 <script src="https://gist.github.com/BryanWilhite/32afb5672824160d56de.js"></script>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

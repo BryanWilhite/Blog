@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") I do everything PHP kid posted on the left except: * "forgive others" (such that a dumb-ass knows i "forgave" them… [[twitter.com]](https://twitter.com/i/web/status/980896164982661120)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

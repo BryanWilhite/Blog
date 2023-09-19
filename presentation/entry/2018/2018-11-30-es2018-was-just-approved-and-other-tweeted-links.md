@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) The best employees are not the agreeable ones, according to Adam Grant [[work.qz.com]](https://work.qz.com/1309735/) via [@QuartzAtWork](http://twitter.com/@QuartzAtWork)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

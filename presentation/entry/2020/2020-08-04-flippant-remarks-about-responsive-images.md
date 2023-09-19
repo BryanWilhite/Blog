@@ -113,4 +113,4 @@ Such an API could expose data that can be transformed into `srcset` (`sizes`) de
 - <https://responsivebreakpoints.com/>
 - <http://responsiveimages.org/>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

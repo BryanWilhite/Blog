@@ -105,4 +105,4 @@ My [Plantronics M50](http://www.amazon.com/Plantronics-M50-Bluetooth-Headset-Pac
 “Not sure why these things cost so much. It's basically a base Nokia charging puck inside a bag, big deal. These things should be selling for $60 max IMO. Charging time seems to be on par with when I use my USB cable but just hassle free. I wish the wall plug portion was a bit more [svelte] but whatever.”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

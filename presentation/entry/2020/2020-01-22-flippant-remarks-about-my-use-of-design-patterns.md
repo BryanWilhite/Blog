@@ -77,4 +77,4 @@ The [producer-consumer problem](https://en.wikipedia.org/wiki/Producer%E2%80%93c
 
 Decoupling asynchronously in my life implies that I am building for the cloud. And, sadly, there is a whole new bag of [cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/#catalog-of-patterns).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

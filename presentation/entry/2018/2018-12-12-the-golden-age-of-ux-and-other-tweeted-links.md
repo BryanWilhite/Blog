@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) 80 Percent of IT Decision Makers Say Outdated Tech is Holding Them Back [@slashdot](http://twitter.com/@slashdot) - [[rpx.me]](http://rpx.me/lOddm)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

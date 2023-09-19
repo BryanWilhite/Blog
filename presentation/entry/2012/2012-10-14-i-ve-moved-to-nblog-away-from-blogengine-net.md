@@ -82,4 +82,4 @@ For my benefit (because I’m not forking on GitHub.com right about now), here a
 
 BTW: “[BlogEngine.NET and Windows Azure Web Sites](http://blogs.msdn.com/b/webdev/archive/2012/10/12/blogengine-net-and-windows-azure-web-sites.aspx)”—I find the timing of this news hilarious…
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

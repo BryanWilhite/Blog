@@ -77,4 +77,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") "Why I no longer contribute to StackOverflow" [[michael.richter.name]](http://michael.richter.name/blogs/awhy-i-no-longer-contribute-to-stackoverflow)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

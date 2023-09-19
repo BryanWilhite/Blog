@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") After 23 years, the Apple II gets another OS update [[arstechnica.com]](http://arstechnica.com/information-technology/2016/09/after-23-years-the-apple-ii-gets-another-os-update/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

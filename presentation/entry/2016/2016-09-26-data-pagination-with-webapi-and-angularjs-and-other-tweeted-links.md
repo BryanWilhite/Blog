@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Joe Sutter, who guided creation of the Boeing 747, has died [[nytimes.com]](http://www.nytimes.com/2016/09/02/business/joe-sutter-dead.html)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

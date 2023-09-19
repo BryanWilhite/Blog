@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") “Latex, memory foam, and waterbed mattresses receive the highest approval ratings, respectively.” [[thebest-mattress.org]](http://www.thebest-mattress.org/best-and-worst-mattresses-2015-edition/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

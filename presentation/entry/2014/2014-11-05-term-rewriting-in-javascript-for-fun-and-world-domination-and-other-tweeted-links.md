@@ -53,4 +53,4 @@
 
 [<img alt="ReadWrite [RWW]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RWW.jpeg">](http://www.readwrite.com/ "ReadWrite [RWW]") <span>It turns out "boring" is a critical feature in a database [http://spr.ly/6012qsxg](http://spr.ly/6012qsxg)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

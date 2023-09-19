@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) How did hacker Adrian Lamo die? Medical examiner couldn’t figure it out [[arstechnica.com]](https://arstechnica.com/?post_type=post&p=1323687)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

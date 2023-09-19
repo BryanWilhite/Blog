@@ -81,4 +81,4 @@ The `presentation/templates/snippets/head.liquid` snippet shown in the eleventy 
 
 **Using Visual Studio Code as a word processor is _not_ strange to me.** I am such a long-time Microsoft Word user that I have used [VBA](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office), followed by [VSTO](https://docs.microsoft.com/en-us/visualstudio/vsto/office-solutions-development-overview-vsto?view=vs-2019). I have tried to use Word in particular and Microsoft Office in general as _my_ publishing platform. This did not work out for me. I currently have more respect for _text_ than the 20<sup>th</sup>-century-based graphical experience of the typical Office offering (this includes Open Source alternatives as well).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

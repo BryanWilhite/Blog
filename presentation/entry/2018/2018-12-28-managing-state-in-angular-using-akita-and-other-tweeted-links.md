@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) my [@TataMotors](http://twitter.com/@TataMotors) experiment is, sadly, over😑🦆 [[twitter.com]](https://twitter.com/BryanWilhite/status/1032085081429438465/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

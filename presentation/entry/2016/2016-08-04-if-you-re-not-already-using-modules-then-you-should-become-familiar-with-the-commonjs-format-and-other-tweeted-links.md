@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") “most people who start their own businesses discover that they are the worst boss they ever had” [[cucumber.io]](https://cucumber.io/blog/2016/05/23/cucumber-ltd-story-so-far)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

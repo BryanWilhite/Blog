@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) “Security is a process, not a project—it’s never done. We will continue to work to improve the security of the npm Registry and the code you write, and we’re excited by what’s in the works in coming weeks and months.” [[blog.npmjs.org]](https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure)[[twitter.com]](https://twitter.com/BryanWilhite/status/1023985421422714881/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

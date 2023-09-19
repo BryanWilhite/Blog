@@ -109,4 +109,4 @@
 
 [<img alt="Jacqueline [JackieMJensen]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JackieMJensen.jpg">](https://www.youtube.com/watch?v=ZeKBquRKa-w "Jacqueline [JackieMJensen]") Remember the $86 million license plate scanner that an Australian developer replicated in just 57 lines of code? [[buff.ly]](https://buff.ly/2yO9dVM)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

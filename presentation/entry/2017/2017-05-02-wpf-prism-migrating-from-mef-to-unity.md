@@ -109,4 +109,4 @@ My only concerns are these:
 
 - My real-world experience with [strangulation](http://agilefromthegroundup.blogspot.com/2011/03/strangulation-pattern-of-choice-for.html) of some rather horrifying WPF applications absolutely requires the use of this anti-pattern when I use Prism to run legacy crap next to the new crap.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

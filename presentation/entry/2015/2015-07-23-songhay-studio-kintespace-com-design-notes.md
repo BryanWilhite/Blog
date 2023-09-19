@@ -51,4 +51,4 @@ See the Pen <a href='https://codepen.io/rasx/pen/dPoPbV'>kintespace.com index la
 
 The intent here is to make the background image fill a box by default and fill the entire screen on “small devices.”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

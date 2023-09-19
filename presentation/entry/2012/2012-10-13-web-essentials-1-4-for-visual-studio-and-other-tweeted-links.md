@@ -75,4 +75,4 @@
 
 [<img alt="Jesse Liberty [JesseLiberty]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JesseLiberty.png">](http://JesseLiberty.com "Jesse Liberty [JesseLiberty]") <span>Windows 8–Who Cares? [http://goo.gl/fb/m4UbT](http://goo.gl/fb/m4UbT)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

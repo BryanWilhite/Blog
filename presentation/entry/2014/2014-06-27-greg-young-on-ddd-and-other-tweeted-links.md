@@ -69,4 +69,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>'Narcissists' perform best in job interviews according to study - [http://telegraph.feedsportal.com/c/32726/f/568301/s/3b8d2cb8/sc/36/l/0L0Stelegraph0O0Cnews0Cnewstopics0Chowaboutthat0C10A90A28560CNarcissists0Eperform0Ebest0Ein0Ejob0Einterviews0Eaccording0Eto0Estudy0Bhtml/story01.htm](http://telegraph.feedsportal.com/c/32726/f/568301/s/3b8d2cb8/sc/36/l/0L0Stelegraph0O0Cnews0Cnewstopics0Chowaboutthat0C10A90A28560CNarcissists0Eperform0Ebest0Ein0Ejob0Einterviews0Eaccording0Eto0Estudy0Bhtml/story01.htm)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

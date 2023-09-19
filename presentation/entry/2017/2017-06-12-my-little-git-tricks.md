@@ -70,4 +70,4 @@ git remote update
 git status
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -96,4 +96,4 @@ Another one of those *aha!* articles.
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

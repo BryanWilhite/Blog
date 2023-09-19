@@ -292,4 +292,4 @@ The Telerik `RadDomainDataSource` uses similar filtering patterns to this Silver
 “When using this with VS 2012 I get this design time error: "The type 'EventToCommand' from assembly 'GalaSoft.MvvmLight.Extras.SL5' is built with an older version of the Blend SDK, and is not supported in a Silverlight 5 project." I installed the 4.0.23.4 package, but My assemblies are still versioned 4.0.23.35578....did I miss something?”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

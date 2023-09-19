@@ -45,4 +45,4 @@ Using MVVM Light messaging or Prism eventing to send a portion of a View (e.g. a
 
 There were a handful of cases where I struggled with `RadGridView` issues and ended up taking that piece of the grid and sending it to the View Model for processing. After working with WPF for over a year such an impasse has not emerged at all.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

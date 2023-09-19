@@ -25,4 +25,4 @@ My daughter spilled a bottle of kombucha on my trackball by kicking over the ope
 
 She tries to stay up with the computer playing Minecraft… I thought for a moment the computer caught some malware through my daughter’s locked down Windows 8.1 account—not impossible but unlikely. But what was happening out of the ordinary was caused by the signal coming from the damaged mouse. Once I turned the mouse off the weirdness went away…
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

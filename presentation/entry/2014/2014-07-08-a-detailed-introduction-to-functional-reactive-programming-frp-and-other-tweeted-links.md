@@ -67,4 +67,4 @@
 
 [<img alt="Jon Skeet [jonskeet]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonskeet.jpg">](http://csharpindepth.com/ "Jon Skeet [jonskeet]") <span>I find it immensely frustrating when the majority of a question's answers are incorrect, e.g. [http://stackoverflow.com/questions/22321272](http://stackoverflow.com/questions/22321272)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

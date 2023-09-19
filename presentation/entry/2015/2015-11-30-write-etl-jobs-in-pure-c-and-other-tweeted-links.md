@@ -111,4 +111,4 @@
 
 [<img alt="Jeff Atwood [codinghorror]" src="https://songhay.blob.core.windows.net/shared-social-twitter/codinghorror.png">](http://blog.codinghorror.com/ "Jeff Atwood [codinghorror]") "performant" is not a word [[blog.codinghorror.com]](http://blog.codinghorror.com/canonicalization-not-just-for-popes/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -117,4 +117,4 @@
 
 [<img alt="Heather Lee Presha [PreshaProps]" src="https://songhay.blob.core.windows.net/shared-social-twitter/PreshaProps.jpeg">](http://hopefulhomebuyers.com/ "Heather Lee Presha [PreshaProps]")[@BryanWilhite](http://twitter.com/BryanWilhite) also try [[invitationhomes.com]](http://invitationhomes.com)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

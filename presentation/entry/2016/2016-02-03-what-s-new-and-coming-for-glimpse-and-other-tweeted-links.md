@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Andy Weir, Author of 'The Martian,' Is Writing a Novel Set On the Moon [[news.slashdot.org]](http://news.slashdot.org/story/15/12/19/2040200/andy-weir-author-of-the-martian-is-writing-a-novel-set-on-the-moon?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

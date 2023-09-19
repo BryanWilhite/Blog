@@ -103,4 +103,4 @@ Either it is not possible or I do not know how to extend `DefaultContractResolve
 
 So I’m resorting to old-fashioned string manipulation tricks to get around this limitation of me—or of JSON.NET.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

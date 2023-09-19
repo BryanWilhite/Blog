@@ -162,4 +162,4 @@ var topLevelTitle = isConsumingSchema ? "in:PAYLOAD" : "out:PAYLOAD";
 
 This line is a hack to get around the current situation with Swagger/Swashbuckle where `Schema` definitions are considered duplicates when they have the same `Schema.title`.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

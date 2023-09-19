@@ -63,4 +63,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>How To Debug Data Binding Issues in WPF [http://spin.atomicobject.com/2013/12/11/wpf-data-binding-debug/#.VIEXMZSdTn8.twitter](http://spin.atomicobject.com/2013/12/11/wpf-data-binding-debug/#.VIEXMZSdTn8.twitter)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

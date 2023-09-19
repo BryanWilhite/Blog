@@ -79,4 +79,4 @@ The schedule of the month:
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
 - use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

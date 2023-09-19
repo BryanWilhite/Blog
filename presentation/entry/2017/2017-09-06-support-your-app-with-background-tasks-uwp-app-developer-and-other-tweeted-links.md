@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Suggestions and Tips for attending your first tech conference - Scott Hanselman [[hanselman.com]](https://www.hanselman.com/blog/SuggestionsAndTipsForAttendingYourFirstTechConference.aspx)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

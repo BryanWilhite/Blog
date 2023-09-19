@@ -53,4 +53,4 @@ interface IndexEntry extends Partial<Segment> {
 | `songhay-core` | Typescript | consumed by Publication Index layouts [[GitHub](https://github.com/BryanWilhite/nodejs/tree/master/responsive-layouts)] |
 | `Songhay.Publications` | C# | `ISegmentExtensions.ToPublicationIndexEntryJObject()` |
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

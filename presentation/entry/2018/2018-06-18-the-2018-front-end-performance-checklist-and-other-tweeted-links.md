@@ -117,4 +117,4 @@
 
 [<img alt="Dr. Yana Weinstein [doctorwhy]" src="https://songhay.blob.core.windows.net/shared-social-twitter/doctorwhy.jpg">](http://yanaweinstein.com/ "Dr. Yana Weinstein [doctorwhy]") Someone told me early on in my career: This isn’t some kind of magical higher calling. It’s just a job like any o… [[twitter.com]](https://twitter.com/i/web/status/1008043723010297856)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

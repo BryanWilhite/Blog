@@ -57,4 +57,4 @@ So I tried for several days to avoid using this control by trying several techni
 * “[ItemsControl.Items must not be a UIElement type when an ItemTemplate is set.](http://forums.silverlight.net/t/195397.aspx/1)” This error came to me from trying to bind the currently selected item of a `ListBox` to a `UserControl` (which inherits `UIElement`).
 * “`InitialTag` Specify the tag that this element will appear to come from. Select Element for a stand-alone scenario. Select `DataContext` for a data-bound scenario. The `FluidMoveBehavior` action will attempt to locate an element that has been previously tagged with the same data using a `FluidMoveSetTagBehavior` action.” [[MSDN](http://msdn.microsoft.com/en-us/library/ff723946(v=expression.40).aspx)]
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

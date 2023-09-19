@@ -55,4 +55,4 @@
 
 [<img alt="The Onion [TheOnion]" src="https://songhay.blob.core.windows.net/shared-social-twitter/TheOnion.jpeg">](http://www.theonion.com/ "The Onion [TheOnion]") Man Brings Lunch From Home To Cut Down On Small Joys [[theonion.com]](http://www.theonion.com/article/man-brings-lunch-from-home-to-cut-down-on-small-jo-37912)[[twitter.com]](https://twitter.com/TheOnion/status/562294297936924673/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

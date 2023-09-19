@@ -107,4 +107,4 @@
 
 [<img alt="Digital Trends [DigitalTrends]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/DigitalTrends.jpg">](http://www.digitaltrends.com/) .[@NASA](http://twitter.com/@NASA) is reinventing the wheel. Here's why. [#Space](http://twitter.com/search?q='%23Space)[#NASA](http://twitter.com/search?q='%23NASA)[#Mars](http://twitter.com/search?q='%23Mars)[#Lunar](http://twitter.com/search?q='%23Lunar)[[twitter.com]](https://twitter.com/DigitalTrends/status/1071461831489830912/video/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

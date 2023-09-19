@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") recommended by [@ColliderVideo](http://twitter.com/ColliderVideo) Jedi Council on Kindle: Bloodline (Star Wars) by Claudia Gray [[amazon.com]](http://www.amazon.com/Bloodline-Star-Wars-Claudia-Gray-ebook/dp/B00Z3G1VU4%3FSubscriptionId%3D1SW6D7X6ZXXR92KVX0G2%26tag%3Dthekintespacec00%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00Z3G1VU4)[[twitter.com]](http://twitter.com/BryanWilhite/status/728457100599271424/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

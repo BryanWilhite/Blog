@@ -95,4 +95,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Public speaking with [@shanselman](http://twitter.com/shanselman), Kendra Havens, [@LadyNaggaga](http://twitter.com/LadyNaggaga), [@kuhlenhuth](http://twitter.com/kuhlenhuth), and [@DonovanBrown](http://twitter.com/DonovanBrown) | [@ch9](http://twitter.com/ch9)[[channel9.msdn.com]](https://channel9.msdn.com/Shows/On-NET/Public-speaking-with-Scott-Hanselman-Kendra-Havens-Maria-Naggaga-Nakanwagi-Kasey-Uhlenhuth-and-Donov)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

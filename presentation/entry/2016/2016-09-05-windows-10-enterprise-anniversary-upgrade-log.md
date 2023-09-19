@@ -103,4 +103,4 @@ sudo npm install map-stream
 sudo npm install vinyl-fs
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

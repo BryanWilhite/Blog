@@ -103,4 +103,4 @@
 
 [<img alt="Hrant H Papazian [hhpapazian]" src="https://songhay.blob.core.windows.net/shared-social-twitter/hhpapazian.jpeg">](http://themicrofoundry.com/ "Hrant H Papazian [hhpapazian]") Clicktivism isn't just for humans... [[twitter.com]](https://twitter.com/EnglishRussia1/status/862661011882561537)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

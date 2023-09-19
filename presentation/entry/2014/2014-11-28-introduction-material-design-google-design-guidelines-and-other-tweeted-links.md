@@ -49,4 +49,4 @@
 
 [<img alt="Jonathan Sampson [jonathansampson]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jonathansampson.png">](http://sampson.ms/ "Jonathan Sampson [jonathansampson]") <span>Stack Overflow supplants MSDN as official platform for Internet Explorer Web Development support. [https://social.msdn.microsoft.com/Forums/ie/en-US/8ba70824-dba2-4425-bc75-247c2c29bde1/ie-web-development-support-moving-to-stack-overflow?forum=iewebdevelopment](https://social.msdn.microsoft.com/Forums/ie/en-US/8ba70824-dba2-4425-bc75-247c2c29bde1/ie-web-development-support-moving-to-stack-overflow?forum=iewebdevelopment)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

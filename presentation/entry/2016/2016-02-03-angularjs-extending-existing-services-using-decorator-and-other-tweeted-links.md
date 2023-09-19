@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") TOP CASES OF 2015 [[youtube.com]](https://www.youtube.com/watch?v=bA5D6KqA8w8&feature=youtu.be) via [@hardwarecanucks](http://twitter.com/hardwarecanucks)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

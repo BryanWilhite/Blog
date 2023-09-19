@@ -95,4 +95,4 @@ It may be of interest to mention that I would likely not be able to solve this p
 * “[countless times I was refused even an interview because I didn’t have a computer science degree](http://techcrunch.com/2016/05/10/please-dont-learn-to-code/)”
 * “[Thoughts on Take Home Interviews](http://www.elidedbranches.com/2016/05/brief-thoughts-on-take-home-interviews.html)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

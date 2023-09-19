@@ -39,4 +39,4 @@ Apart from the confusion mentioned, it looks like Angular JS 1.x has no support 
 * AngularJS Form Validation with `ngMessages` [[scotch.io]](https://scotch.io/tutorials/angularjs-form-validation-with-ngmessages)
 * Handling Checkboxes and Radio Buttons in Angular Forms [[scotch.io]](https://scotch.io/tutorials/handling-checkboxes-and-radio-buttons-in-angular-forms)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

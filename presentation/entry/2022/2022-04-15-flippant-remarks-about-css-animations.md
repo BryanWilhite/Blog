@@ -146,4 +146,4 @@ It might be useful to compare this standard API with [Angular animations](https:
 | [CSS: fade in down sequence](https://codepen.io/gabrieleromanato/pen/xVYdRp) | an excellent use case for `animation-delay`
 | [Looping text with CSS fade animation](https://codepen.io/bekahmcdonald/pen/vYBXMOZ) | this approach, with all those `span` elements declared would do well in a data-driven rendering scenario (e.g. Blazor) |
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -26,4 +26,4 @@ My instinctive move is to start prettying up the file by hand (because I’m usu
 
 This brute force will minimize the lines of markup used and force all attributes to one line (unless there is a line break inside of an attribute value). This is most hostile to top-level (namespace) attributes. This is a trade-off when there’s no fancy, third-party plugins around.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

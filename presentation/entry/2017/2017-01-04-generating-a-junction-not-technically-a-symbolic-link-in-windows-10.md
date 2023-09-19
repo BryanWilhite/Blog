@@ -42,4 +42,4 @@ I will note that I attempted to use the `mklink /d` switch (on a pre-summer-of-2
 * “[Creating a Symbolic Link using PowerShell](http://learn-powershell.net/2013/07/16/creating-a-symbolic-link-using-powershell/)”
 * “[How to Create and Use Links with MKLINK in Windows](http://www.sevenforums.com/tutorials/278262-mklink-create-use-links-windows.html)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

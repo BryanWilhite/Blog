@@ -41,4 +41,4 @@ PM> Get-Package -Updates | ConvertTo-Html | Out-File ("{0}\Desktop" -f (Get-Item
 
 [<img alt="Things to do at the Microsoft Store with my youngest son" src="https://farm3.staticflickr.com/2828/9217848637_7dc13155ff_z_d.jpg">](https://www.flickr.com/photos/wilhite/9217848637/in/set-72157625087343217 "Things to do at the Microsoft Store with my youngest son")
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -97,4 +97,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") another [@shanselman](http://twitter.com/shanselman) mission: get us a Web Font with all Microsoft logos, starting with the new Azure logo! [I am not being sarcastic.]
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

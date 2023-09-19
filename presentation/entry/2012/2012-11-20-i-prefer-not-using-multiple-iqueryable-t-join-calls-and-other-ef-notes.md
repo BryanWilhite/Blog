@@ -234,4 +234,4 @@ According [to Jeff Handley](http://jeffhandley.com/archive/2011/06/30/RIAService
 Also from [somebody at Microsoft](http://varunpuranik.wordpress.com/2011/06/29/wcf-ria-services-support-for-ef-4-1-and-ef-code-first/): “…The difference between EF CodeFirst stand alone and with RIA Services is that we initialize a new `DbContext` at design time as well. …If the connection string is not valid or the connection can't be established you apparently get the exception you mentioned.”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

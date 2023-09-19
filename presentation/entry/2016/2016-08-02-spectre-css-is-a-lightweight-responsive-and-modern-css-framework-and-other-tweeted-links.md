@@ -99,4 +99,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") you, [@sh4na](http://twitter.com/sh4na), continue to be awesome! [[hanselminutes.com]](http://hanselminutes.com/480/virtual-reality-today-with-andreia-gaita)[@shanselman](http://twitter.com/shanselman)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

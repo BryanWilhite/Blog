@@ -95,4 +95,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") GitHub Issues Do's and Don'ts [[medium.com]](https://medium.com/@jhchen/45-github-issues-dos-and-donts-dfec9ab4b612)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -37,4 +37,4 @@
 
 [<img alt="Aaron Skonnard [skonnard]" src="https://songhay.blob.core.windows.net/shared-social-twitter/skonnard.jpeg">](http://about.me/skonnard "Aaron Skonnard [skonnard]") <span>Awesome post by my cofounder [@keithbrown42](http://twitter.com/keithbrown42) on immutability, which explains why Clojure is on the rise today [http://ow.ly/mneH1](http://ow.ly/mneH1)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

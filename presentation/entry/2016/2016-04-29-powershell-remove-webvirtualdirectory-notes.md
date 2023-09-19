@@ -40,4 +40,4 @@ Remove-WebVirtualDirectory -Name . -Application $app.AppName -Site $site.name -V
 
 This is super-non-intuitive to me. Also it may help to mention that, as of this writing, the `-Name` and the `-Application` parameters are required (which implies a mistake in the documentation or something else non-intuitive that has to be memorized involving the `-Name` parameter).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

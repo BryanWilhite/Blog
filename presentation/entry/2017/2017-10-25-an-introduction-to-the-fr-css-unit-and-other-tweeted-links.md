@@ -103,4 +103,4 @@
 
 [<img alt="BikinginLA [bikinginla]" src="https://songhay.blob.core.windows.net/shared-social-twitter/bikinginla.jpg">](http://www.bikinginla.com/ "BikinginLA [bikinginla]") This is what keeps me up at night. just found out a 72-year old bike rider was killed near 6th and Hauser Sept. 1, 2016. Not a peep in news.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

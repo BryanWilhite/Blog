@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Twitter Is Killing Twitter to Save Twitter [http://www.wired.com/2015/06/twitter-project-lightning-timeline/](http://www.wired.com/2015/06/twitter-project-lightning-timeline/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

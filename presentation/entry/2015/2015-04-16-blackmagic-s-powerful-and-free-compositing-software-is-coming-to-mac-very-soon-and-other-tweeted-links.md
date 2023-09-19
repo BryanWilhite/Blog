@@ -43,4 +43,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">Stack Overflow Developer Survey 2015: The Results [http://blog.stackoverflow.com/2015/04/stack-overflow-developer-survey-2015-the-results/](http://blog.stackoverflow.com/2015/04/stack-overflow-developer-survey-2015-the-results/)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

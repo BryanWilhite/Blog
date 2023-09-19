@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The e-waste mountains – in pictures [[ow.ly]](https://www.theguardian.com/global-development-professionals-network/gallery/2016/oct/18/the-e-waste-reduce-waste-old-technology-mountains-in-pictures?platform=hootsuite)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

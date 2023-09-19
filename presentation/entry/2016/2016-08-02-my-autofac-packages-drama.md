@@ -40,4 +40,4 @@ The drama does not end there. We also have this:
 
 This is basically saying that `Autofac.Mef` and `Autofac.Owin` are in the same boat. The penalty for forgetting this is breaking the B-Roll player in production (which is my fault because I should *at least* run the site locally before publishing—and then consider upgrading my Azure App to a more professional tier).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

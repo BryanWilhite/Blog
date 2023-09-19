@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/)[@tastapod](http://twitter.com/@tastapod) An organization that can continually leverage the talent of its developer resources is quite rare in my experience. It follows that there will be downtime where people are effectively being paid retainer fees while leadership waits for the next set of talent-marching orders.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

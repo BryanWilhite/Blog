@@ -45,4 +45,4 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://kintespace.com/ "the kinte space [KinteSpace]") Adobe Design Achievement Awards Winners Go Far [[blogs.adobe.com]](http://blogs.adobe.com/education/2015/03/30/adobe-design-achievement-awards-winners-go-far/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

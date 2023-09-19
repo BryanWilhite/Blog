@@ -185,4 +185,4 @@ My `HttpWebRequest` stuff here is not “confusing” it is more likely to be co
 * “[Get started with Azure Search in the portal](https://azure.microsoft.com/en-us/documentation/articles/search-get-started-portal/)” by Heidi Steen
 * “[Query your Azure Search index using the REST API](https://azure.microsoft.com/en-us/documentation/articles/search-query-rest-api/)” by Ashish Makadia
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

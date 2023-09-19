@@ -59,4 +59,4 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://kintespace.com/ "the kinte space [KinteSpace]") <span>you're face to interface with the man who sold the world [#zuck](http://search.twitter.com/search?q=%23zuck)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

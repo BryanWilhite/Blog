@@ -87,4 +87,4 @@ The schedule of the month:
 - generate a new repo with proposed name, `Songhay.Modules.Bolero.Index` ✨🚧 and add a GitHub Project
 - switch Studio from Material Design to Bulma 💄 ➡️ 💄✨
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

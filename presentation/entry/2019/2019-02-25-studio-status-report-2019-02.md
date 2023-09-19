@@ -42,4 +42,4 @@ This misery has [led me to understand](https://github.com/BryanWilhite/songhay-n
 
 The ‘git on Windows is not working with GitHub credentials’ error (mentioned [last month](http://songhayblog.azurewebsites.net/blog/entry/studio-status-report-2019-01)) is peculiar to one machine. I set up a new Windows 10 VM recently and *do not* have this issue. This leads me to wonder how to completely clean/reset the Windows 10 credentials stack.
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Poll: More And More Tech Workers Say They Plan To Leave Their Jobs To Go Elsewhere In The Country [[sfist.com]](http://sfist.com/2016/07/07/turns_out_most_tech_workers_dont_th.php)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

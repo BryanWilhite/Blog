@@ -53,4 +53,4 @@ After upgrading the phone to the Windows “Anniversary” update there has been
 * “[Windows 10 Mobile is still on less than 12% of Windows Phones](http://mspoweruser.com/windows-10-mobile-still-less-12-windows-phones/)”
 * “[Windows 10 Mobile Anniversary Update’s scaling is broken on some devices](http://mspoweruser.com/windows-10-mobile-anniversary-updates-scaling-is-broken-on-some-devices/)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

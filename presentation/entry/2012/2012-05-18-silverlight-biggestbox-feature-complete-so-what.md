@@ -47,4 +47,4 @@ And now… my exclamation of confidence:
 
 Meh.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

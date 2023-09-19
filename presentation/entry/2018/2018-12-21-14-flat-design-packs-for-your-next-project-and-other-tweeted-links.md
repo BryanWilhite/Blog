@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) Tesla’s chief vehicle engineer returns to Apple [[theverge.com]](https://www.theverge.com/2018/8/10/17673712/doug-field-apple-tesla-project-titan?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=twitter) via [@Verge](http://twitter.com/@Verge)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

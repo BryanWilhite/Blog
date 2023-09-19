@@ -49,4 +49,4 @@ I have this “weird” expectation that my history file will settle down into a
 * “[How to clear bash history completely?](http://askubuntu.com/questions/191999/how-to-clear-bash-history-completely/331655)”
 * “[How to View bash shell history and Change bash history file size in Ubuntu](http://www.ubuntugeek.com/how-to-view-bash-shell-history-and-change-bash-history-file-size-in-ubuntu.html)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

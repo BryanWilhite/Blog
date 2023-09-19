@@ -64,4 +64,4 @@ It *feels* like I am planning to continue my read of [*The Algorithm Design Manu
 
 The Skiena read is punctuated by exercises that *will* lead me back to jupyter notebooks. It should help to regard this Blog entry as my survey of the lay of the land, allowing me to withdraw and focus on *my* comfort zone of self-study. There is no pleasing of others.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

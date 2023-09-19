@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") .[@pvlakshm](http://twitter.com/pvlakshm) could you take 5mins and peek at my TestContextExtensions.cs? [[gist.github.com]](https://gist.github.com/BryanWilhite/0d84b6fe156a690eff5231406fd00770) -obsolete stuff there? thx!
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

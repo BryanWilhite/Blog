@@ -111,4 +111,4 @@
 
 [<img alt="Programming Wisdom [CodeWisdom]" src="https://songhay.blob.core.windows.net/shared-social-twitter/CodeWisdom.jpg">]( "Programming Wisdom [CodeWisdom]") “Falling in love with code means falling in love with problem solving and being a part of a forever ongoing conversation.” - Kathryn Barrett
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

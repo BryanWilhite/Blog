@@ -67,4 +67,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Is IQueryable poisoning your interfaces? - The Activity Designer - Site Home - MSDN Blogs [http://blogs.msdn.com/b/tilovell/archive/2014/09/15/is-iqueryable-poisoning-your-interfaces.aspx](http://blogs.msdn.com/b/tilovell/archive/2014/09/15/is-iqueryable-poisoning-your-interfaces.aspx)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

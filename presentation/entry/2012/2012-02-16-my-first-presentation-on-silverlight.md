@@ -31,4 +31,4 @@ Wow! Let’s see:
 
 Nevertheless, I think I got a little better presenting towards the end of the talk. I actually have [another talk tonight](http://kintespace.com/rasxlog/?p=2745) with Dr. Shani Byard (@MessageMediaEd)—I won’t be on Silverlight let’s see how that goes.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

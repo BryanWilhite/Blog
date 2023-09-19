@@ -101,4 +101,4 @@
 
 [<img alt="Alex Nedelcu [alexelcu]" src="https://songhay.blob.core.windows.net/shared-social-twitter/alexelcu.jpg">](https://alexn.org/ "Alex Nedelcu [alexelcu]") Sure, but some of the worst engineers are blocking the use of capable tools, equating complexity with unfamiliarity… [[twitter.com]](https://twitter.com/i/web/status/963347216382529536)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

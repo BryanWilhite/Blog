@@ -60,4 +60,4 @@ The promise here is that Angular can be considered a _destination_ for Web Compo
 - “[9 Web Components UI Libraries You Should Know in 2020](https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103)”
 - “[Web Components will replace your frontend framework](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -38,4 +38,4 @@ As always the source code for this stuff is [at CodePlex.com](http://slbiggestbo
 * “[Silverlight 3: Template Binding vs. Relative Binding](http://blogs.msdn.com/b/marlat/archive/2009/05/13/silverlight-3-template-binding-vs-relative-binding.aspx)”
 * “[Silverlight Custom Control—Number Tumbler](http://www.codeproject.com/Articles/35930/Silverlight-Custom-Control-Number-Tumbler)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

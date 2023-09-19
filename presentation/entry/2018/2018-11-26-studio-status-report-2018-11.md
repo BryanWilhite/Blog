@@ -50,4 +50,4 @@ Username for 'https://github.com':
 
 Searching the web for these error messages brings back very little. I currently assume that the ultimate solution is to switch to SSH on Windows.
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

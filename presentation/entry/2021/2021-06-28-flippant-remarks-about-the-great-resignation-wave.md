@@ -45,4 +45,4 @@ From 2011 to 2020, I survived the hostility and willful ignorance of remote work
 
 People literally had to _die_ for me to see a remote-first developer world for the months of 2020 and 2021. I will be astonished to see 2022 offering the same. Most modern American companies are built on sales and marketing—and sales and marketing mean pressing the flesh of potential customers (complete strangers). To disclose that you dislike meeting strangers against your will (intrinsic motivation), is to disclose a moral deficiency to most of these evangelical people. Like a racist, these evangelicals are not scientifically accurate or intellectually precise _by design_: when you say (mostly non-verbally) you dislike meeting complete strangers _on a daily basis_ they willfully and eagerly assume you dislike _all people_. Once they convince themselves of this, then it becomes easy for them to dehumanize you and commit acts of [at-will-employment](https://en.wikipedia.org/wiki/At-will_employment) evil. In my American experience, it’s been violence by default.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

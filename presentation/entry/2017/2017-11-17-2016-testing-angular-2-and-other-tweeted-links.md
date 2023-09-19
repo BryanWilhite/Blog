@@ -105,4 +105,4 @@
 
 [<img alt="Dr Eugenia Cheng [DrEugeniaCheng]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DrEugeniaCheng.jpg">](http://www.eugeniacheng.com/ "Dr Eugenia Cheng [DrEugeniaCheng]") That is from 2015 but the old syllabus is here if you're interested (mostly I've only made logistical changes since… [[twitter.com]](https://twitter.com/i/web/status/931256981075185664)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

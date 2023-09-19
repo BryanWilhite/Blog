@@ -69,4 +69,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The Programmers Who Want To Get Rid of Software Estimates [[developers.slashdot.org]](http://developers.slashdot.org/story/15/02/26/2025205/the-programmers-who-want-to-get-rid-of-software-estimates?utm_source=rss1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

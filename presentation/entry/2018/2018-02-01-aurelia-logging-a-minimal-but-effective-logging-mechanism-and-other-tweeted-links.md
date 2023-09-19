@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") BDD in Action: Behavior-driven development for the whole software lifecycle [[amazon.com]](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=161729165X)[[twitter.com]](https://twitter.com/BryanWilhite/status/955540924288794624/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

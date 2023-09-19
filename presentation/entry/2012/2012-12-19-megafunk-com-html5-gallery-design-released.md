@@ -73,4 +73,4 @@ I mistakenly thought that `jQuery.next()` would select the next sibling matching
 
 Another awesome first for me is `jQuery.index()`. My approach to responsive design is to build a grid system out of *tiles*. Locating these arrays of tiles by an *index* is solved by `jQuery.index()`. I will need more tile tricks that are inspired by classic file explorers that group, sort and filter.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

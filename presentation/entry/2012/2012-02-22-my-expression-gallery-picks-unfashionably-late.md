@@ -85,4 +85,4 @@ From the Individual Eleven—er—Jose Luis Latorre…
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

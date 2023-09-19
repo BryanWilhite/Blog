@@ -29,4 +29,4 @@ I have no informal approach toward stateful business rules. This is actually gre
 * “[Doing it wrong: getters and setters](http://typicalprogrammer.com/doing-it-wrong-getters-and-setters/)”
 * “[Songhay Studio: UX and DDD, my new acronym umbrella…](http://songhayblog.azurewebsites.net/entry/songhay-studio-ux-and-ddd-my-new-acronym-umbrella)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

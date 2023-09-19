@@ -61,4 +61,4 @@
 
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpg">](http://wildermuth.com/ "Shawn Wildermuth [ShawnWildermuth]") I really hate it when a site creates a completely new, well thought out UI to their website, and only apply it to the first three pages
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

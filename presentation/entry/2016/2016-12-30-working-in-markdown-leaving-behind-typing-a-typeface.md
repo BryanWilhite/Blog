@@ -35,4 +35,4 @@ pandoc test.html -o test.md --parse-raw
 
 This is an attempt to convert HTML to Markdown. I have not tried this bit yet. As of this writing, the HTML you see in [this post is generated from markdown in my GitHub repository](https://github.com/BryanWilhite/Blog/blob/master/2016-12/Working%20in%20markdown%2C%20leaving%20behind%20typing%20a%20typeface.md).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

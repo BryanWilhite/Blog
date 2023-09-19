@@ -136,4 +136,4 @@ if(Test-Path -Path Env:COMPUTERNAME) {
 }
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

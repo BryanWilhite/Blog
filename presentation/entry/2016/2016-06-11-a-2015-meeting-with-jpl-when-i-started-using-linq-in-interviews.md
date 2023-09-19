@@ -115,4 +115,4 @@ This interview was the first time I took the opportunity to use LINQ. I plan to 
 
 All of these dismissals work in my favor (even though such a thing is not pleasant) it allows me to truly escape a “bad cultural fit.”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

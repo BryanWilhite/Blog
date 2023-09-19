@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) so the more functional and viable issue here is my relationship to corporate travel rather than my historical relationship with dysfunctional, self-hating, MSFT-based orgs; SoCal (specifically West Los Angeles) is not a hotbed of MSFT-based, fullstack love
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

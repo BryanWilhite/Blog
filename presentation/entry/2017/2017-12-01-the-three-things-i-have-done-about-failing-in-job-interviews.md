@@ -97,4 +97,4 @@ Yes, the question was from a technology that I have not worked with daily in ove
 * “[The Job Interview Will Soon Be Dead. Here’s What the Top Companies Are Replacing It With](https://www.inc.com/marcel-schwantes/science-81-percent-of-people-lie-in-job-interviews-heres-what-top-companies-are-.html)”
 * “[I once failed an interview because I said that humility was important to success…](https://twitter.com/i/web/status/929367789470699520)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

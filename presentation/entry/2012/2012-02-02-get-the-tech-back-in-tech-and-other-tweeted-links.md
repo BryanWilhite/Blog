@@ -111,4 +111,4 @@ Tip 424: IntelliSense for [<s>#</s>**PHP**](https://twitter.com/#%21/search?q=%2
 
 A few simple requests for developers who make Twitter clients. [http://r2.ly/6va5](http://r2.ly/6va5)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") the look of the software in the dashboard seems quite familiar to me-did I work on this last year? [[youtube.com]](https://www.youtube.com/watch?v=uW8TNDkVr8A)[@megafunkmega](http://twitter.com/megafunkmega)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

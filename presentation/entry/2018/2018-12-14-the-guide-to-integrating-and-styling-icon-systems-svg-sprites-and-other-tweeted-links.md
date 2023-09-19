@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) “I like my condo with extensive green walkways, pool, tennis courts and the exorbitant fee that pays for a management company to take care of all of this.” [[news.ycombinator.com]](https://news.ycombinator.com/item?id=17522160)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

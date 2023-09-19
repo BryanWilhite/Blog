@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Hyundai teases Ioniq, its upcoming Prius competitor [[theverge.com]](http://www.theverge.com/2015/12/7/9865014/hyundai-ioniq-electric-ev-plug-in-hybrid)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

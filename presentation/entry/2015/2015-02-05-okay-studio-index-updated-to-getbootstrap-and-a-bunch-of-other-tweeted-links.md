@@ -95,4 +95,4 @@
 
 [<img alt="John Legere [JohnLegere]" src="https://songhay.blob.core.windows.net/shared-social-twitter/JohnLegere.jpeg">](http://instagram.com/johnlegere "John Legere [JohnLegere]") This is huge news for [@twitter](http://twitter.com/twitter) and [@google](http://twitter.com/google)... [[bloomberg.com]](http://www.bloomberg.com/news/articles/2015-02-05/twitter-said-to-reach-deal-for-tweets-in-google-search-results)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

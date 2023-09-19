@@ -81,4 +81,4 @@
 
 [<img alt="Charlie Kindel [ckindel]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ckindel.jpeg">](http://ceklog.kindel.com "Charlie Kindel [ckindel]") <span>"Kids, don’t believe the startup hype: Why you should join a big company first" [http://buff.ly/XWbTDt](http://buff.ly/XWbTDt) by the awesome [@joshaledgard](http://twitter.com/joshaledgard)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

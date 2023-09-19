@@ -166,4 +166,4 @@ The schedule of the month:
 - switch Studio from Material Design to Bulma 💄 ➡️ 💄✨
 - ~~revise/update `Songhay.HelloWorlds.Activities` [[GitHub](https://github.com/BryanWilhite/Songhay.HelloWorlds.Activities)] with current Studio knowledge of ASP.NET and Azure Functions~~
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

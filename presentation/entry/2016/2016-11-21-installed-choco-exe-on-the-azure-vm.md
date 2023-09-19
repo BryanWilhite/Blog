@@ -183,4 +183,4 @@ mm-choco.extension 0.0.3
 - [Commands Reference](https://chocolatey.org/docs/commands-reference)
 - [PowerShellGet and PackageManagement in PowerShell Gallery and GitHub](https://blogs.msdn.microsoft.com/powershell/2016/09/29/powershellget-and-packagemanagement-in-powershell-gallery-and-github/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

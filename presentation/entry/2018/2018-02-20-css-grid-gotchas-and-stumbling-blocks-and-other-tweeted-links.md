@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Steve Wozniak: Net Neutrality Rollback 'Will End the Internet As We Know It' [[yro.slashdot.org]](https://yro.slashdot.org/story/17/09/30/0240204/steve-wozniak-net-neutrality-rollback-will-end-the-internet-as-we-know-it?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -63,4 +63,4 @@
 
 [<img alt="Amazing Maps™ [amazingmap]" src="https://songhay.blob.core.windows.net/shared-social-twitter/amazingmap.jpeg">]( "Amazing Maps™ [amazingmap]") Amazingly comprehensive map of every country in the world that uses the MMDDYYYY format [https://twitter.com/amazingmap/status/599931666803597312/photo/1](https://twitter.com/amazingmap/status/599931666803597312/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

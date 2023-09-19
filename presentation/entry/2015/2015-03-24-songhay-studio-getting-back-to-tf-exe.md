@@ -40,4 +40,4 @@ I do remind myself that there exists [Microsoft Visual Studio Team Foundation Se
 
 I’ll need another note for my [Slick SVN](https://sliksvn.com/support-category/sliksvn-client/) hooks into my CodePlex stuff!
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -40,4 +40,4 @@ This Control is so complex, it’s worth my time to list a few highlights:
 * Consider declarations for `FieldLayoutSettings` for `SelectionTypeCell`, `SelectionTypeField` and `SelectionTypeRecord` (all set to `Extended`) when trying to allow selecting grid rows over editing data.
 * Declare `FieldLayoutSettings.SortEvaluationMode="UseCollectionView"` to drive sorting from an `ICollectionView` instance in the View Model.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

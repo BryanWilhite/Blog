@@ -27,4 +27,4 @@ This personal imbalance between my art/science and my technical craft is the ove
 
 The typical self-described “technical” person would appreciate that a headline with the name *Silverlight* in it is rather “old”—and it overlooks my decades of investment in X/HTML and CSS—and years of joyous work with jQuery. The release of [Breeze.js](http://www.breezejs.com/) (and [mocha](http://visionmedia.github.com/mocha/)) makes it possible for me to see end-to-end (server-to-client) conceptual equivalency between Silverlight and HTML/JavaScript. I still prefer Silverlight (for ‘extremely complex’ UI) but it’s honest and inclusive to roll my Silverlight work under the headline ‘Service-Oriented User Interface Consultant’ with my HTML-based practice.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

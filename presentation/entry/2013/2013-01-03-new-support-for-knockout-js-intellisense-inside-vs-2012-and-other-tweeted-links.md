@@ -63,4 +63,4 @@
 
 [<img alt="Elijah Manor [elijahmanor]" src="https://songhay.blob.core.windows.net/shared-social-twitter/elijahmanor.jpeg">](http://elijahmanor.com "Elijah Manor [elijahmanor]") <span>75% off all of [@JetBrains](http://twitter.com/JetBrains) Software: WebStorm, RubyMine, ReSharper, AppCode, dotCover, ... [http://j.mp/Vb1262](http://j.mp/Vb1262)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

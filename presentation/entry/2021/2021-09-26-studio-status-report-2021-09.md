@@ -108,4 +108,4 @@ The schedule of the month:
 - use the learnings from existing npm packages to build `@songhay/player-audio-???` 📦✨
 - convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

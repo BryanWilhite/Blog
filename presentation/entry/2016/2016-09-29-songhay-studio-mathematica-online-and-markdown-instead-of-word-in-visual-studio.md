@@ -29,4 +29,4 @@ When I am doing work-for-hire in the enterprise, I’ve developed the *thoughtfu
 
 What might be ironic comes from the temptation to bundle a bunch of Markdown files in, say, a ZIP file to bundle documentation to check into source control. This Markdown ZIP bundling would be exactly what is going on in a .DOCX Open XML file.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

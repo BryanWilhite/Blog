@@ -67,4 +67,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]")[@donasarkar](http://twitter.com/donasarkar) Mine is: "They Came Before Columbus" by Ivan van Sertima which introduced to me how naming conventions… [[twitter.com]](https://twitter.com/i/web/status/981913793646112769)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

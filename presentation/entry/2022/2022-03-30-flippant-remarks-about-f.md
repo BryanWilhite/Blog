@@ -170,4 +170,4 @@ In a typical C# code review, I should be looking for these functional-style corr
 | the team is uncomfortable with throwing exceptions deep in the stack and would rather use ‘railways’ to bubble them up with fine/granular control | consider using a C# implementation of `Result<>` like what is available in [Functional Extensions for C#](https://github.com/vkhorikov/CSharpFunctionalExtensions) which introduces the concept of [Railway Oriented Programming](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/posts/recipe-part2.html) which is a step above the famous [“fluent” C# style](https://www.red-gate.com/simple-talk/development/dotnet-development/fluent-code-in-c/) |
 | a team member is called out for [primitive obsession](https://www.arhohuttunen.com/primitive-obsession/) | F# is actually [designed for primitive obsession](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/posts/designing-with-types-single-case-dus.html) but [there are ways to approach it constructively in C#](https://enterprisecraftsmanship.com/posts/functional-c-primitive-obsession/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

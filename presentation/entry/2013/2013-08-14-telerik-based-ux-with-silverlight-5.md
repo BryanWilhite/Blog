@@ -25,4 +25,4 @@
 
 </div>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

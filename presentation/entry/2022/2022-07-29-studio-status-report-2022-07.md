@@ -117,4 +117,4 @@ This 2022 document makes mention of `AzureExtensions.Swashbuckle` [[GitHub](http
 
 The slight discomfort with `AzureExtensions.Swashbuckle` is that it is *not* coming from Microsoft. I am seeing no Azure Functions equivalent of “[Get started with Swashbuckle and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-6.0&tabs=visual-studio)” which feels like the same old story of getting ahead of Microsoft until Microsoft catches up and likely forces a re-factor of everything!
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

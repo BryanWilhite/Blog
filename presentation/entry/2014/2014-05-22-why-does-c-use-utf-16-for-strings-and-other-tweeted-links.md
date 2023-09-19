@@ -95,4 +95,4 @@
 
 [<img alt="Andreia Gaita [sh4na]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sh4na.jpeg">](http://blog.worldofcoding.com/ "Andreia Gaita [sh4na]") <span>So MS says that, since Hotmail is theirs, a court order to search an account would be like searching themselves, so no need for one. wtf??</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -93,4 +93,4 @@
 
 [<img alt="Sigrid Vandenweghe [Sissi_kaizerin]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Sissi_kaizerin.jpeg">]( "Sigrid Vandenweghe [Sissi_kaizerin]") <span>UI Designers Must Read: 27 years of Windows user interface (& why Windows 8 looks like Windows 8) [http://blogs.msdn.com/b/b8/archive/2012/05/18/creating-the-windows-8-user-experience.aspx](http://blogs.msdn.com/b/b8/archive/2012/05/18/creating-the-windows-8-user-experience.aspx)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

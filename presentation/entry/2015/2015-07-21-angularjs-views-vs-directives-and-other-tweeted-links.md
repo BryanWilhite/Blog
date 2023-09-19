@@ -81,4 +81,4 @@
 
 [<img alt="Adam Schuld [ElGrecode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ElGrecode.jpeg">](http://www.designgumption.com/ "Adam Schuld [ElGrecode]") Internet Explorer vs Murder rate [[twitter.com]](https://twitter.com/ElGrecode/status/621325095399600128/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

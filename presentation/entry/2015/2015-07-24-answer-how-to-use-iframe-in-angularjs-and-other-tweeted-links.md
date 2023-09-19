@@ -93,4 +93,4 @@
 
 [<img alt="Twfeed [twfeed]" src="https://songhay.blob.core.windows.net/shared-social-twitter/twfeed.png">](http://twitterfeed.com/ "Twfeed [twfeed]") Yahoo! Pipes End-of-life announcement [[blog.twitterfeed.com]](http://blog.twitterfeed.com/post/120761787559/yahoo-pipes-end-of-life-announcement#_=_)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

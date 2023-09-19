@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") New Kids on the Block: Understanding Developers Entering the Workforce Today [[stackoverflow.blog]](https://stackoverflow.blog/2017/06/12/new-kids-block-understanding-developers-entering-workforce-today/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

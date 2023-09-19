@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") What Graduate School in Theoretical Physics Is Really Like [[nautil.us]](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

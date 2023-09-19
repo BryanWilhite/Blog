@@ -113,4 +113,4 @@
 
 [<img alt="420 Cyber, Inc. [420Cyber]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/420Cyber.jpg">](https://420cyber.com/) The Rise of Remote, and Demise of San Francisco [[dlvr.it]](http://dlvr.it/QqNnCl)[[twitter.com]](https://twitter.com/420Cyber/status/1058844781369942016/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

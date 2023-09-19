@@ -51,4 +51,4 @@ So these last few, squalid paragraphs of mine strongly suggest (to me) that line
 
 What I have learned (in the last year) is that companies are *forced* to be more flexible and reasonable with it’s IT employees’ physical location and sub-hour timeliness when the company plans to form teams across time zones for multiple projects. This is different from those ‘small, poor’ companies (with less than one project) I’ve worked for in the past—these are larger companies who formally/fiscally plan to operate *daily* (on multiple projects) with multi-time-zone teams *for years*. Such a company does not need a static/formal work-at-home/telecommuting policy. They will either kill their employees by sleep deprivation or get loose about where their people are and when they are doing it—as long as the project deliverables show up on schedule.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -115,4 +115,4 @@
 
 [<img alt="Adam Khan [Khanoisseur]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Khanoisseur.jpg">](https://www.amazon.com/Hack-Bird-Counterintuitive-Strategies-Entrepreneurs/dp/1549804219 "Adam Khan [Khanoisseur]") Intuit, maker of TurboTax, spent $11.5 million - more than Apple, Amazon - lobbying the government, including to ki… [[twitter.com]](https://twitter.com/i/web/status/961805509513814016)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

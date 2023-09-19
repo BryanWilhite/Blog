@@ -73,4 +73,4 @@ c:\foo\bar\..\..\parent\my-file.json
 
 …as long as there is a folder called `\parent` *two directories* above `\bar`. I assume this must have come to Windows sometime after Windows NT. My code currently does not support this format.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

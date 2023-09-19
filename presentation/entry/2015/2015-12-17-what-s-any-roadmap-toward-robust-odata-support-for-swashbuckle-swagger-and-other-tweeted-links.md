@@ -105,4 +105,4 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://kintespace.com/ "the kinte space [KinteSpace]") player, player? [[brollplayer.azurewebsites.net]](http://brollplayer.azurewebsites.net/)[@megafunkmega](http://twitter.com/megafunkmega)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

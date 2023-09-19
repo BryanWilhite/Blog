@@ -37,4 +37,4 @@ var rflContextForModelContextModule = new RegistrationBuilder();
 
 Using attribute-based `Export` declarations stopped Navigation from failing silently.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") YouTube Red will launch on Oct. 28 with ad-free videos and more for $12.99 a month [@megafunkmega](http://twitter.com/megafunkmega)[[imore.com]](http://www.imore.com/youtube-red-will-launch-oct-28-ad-free-videos-and-more-12-month)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

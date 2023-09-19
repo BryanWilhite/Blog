@@ -64,4 +64,4 @@ This, then, allows me to call `System.Windows.DataObject.GetData("CSV")` which r
 
 …where `XXXX` is added for this public demonstration.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

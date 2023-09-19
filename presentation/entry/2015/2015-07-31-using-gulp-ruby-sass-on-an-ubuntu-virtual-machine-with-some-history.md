@@ -42,4 +42,4 @@ I’ve saved my `gulpfile.js` as a GitHub Gist, showing use of `gulp-rename` and
 
 This, by the way, is the Gulp file for a future version of kintespace.com.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

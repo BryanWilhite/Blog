@@ -97,4 +97,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") You Are Not The Code You Write – Hacker Noon [[hackernoon.com]](https://hackernoon.com/you-are-not-the-code-you-write-e54f02876ca3)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

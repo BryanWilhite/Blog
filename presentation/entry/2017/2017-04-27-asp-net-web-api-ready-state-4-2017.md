@@ -39,4 +39,4 @@ And now the punchline: All of these learnings have to migrated to ASP.NET Core. 
 * “[An Introduction to Claims](https://msdn.microsoft.com/en-us/library/ff359101.aspx)”
 * “[Raffaele Rialdi on Security in ASP.NET Core](https://channel9.msdn.com/Blogs/Technology-and-Friends/tf426)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

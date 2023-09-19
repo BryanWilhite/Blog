@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") my first NuGet package (yes, very late to the party) [[nuget.org]](https://www.nuget.org/packages/SonghayCore/)[[twitter.com]](https://twitter.com/BryanWilhite/status/768946970891124736/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

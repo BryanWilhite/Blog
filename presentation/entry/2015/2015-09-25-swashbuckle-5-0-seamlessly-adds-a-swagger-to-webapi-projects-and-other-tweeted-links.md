@@ -47,4 +47,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") at about 01:50:00 Bjarne Stroustrup explains carefully why most tech people are *trained* to be narrow-minded asses [[youtube.com]](https://www.youtube.com/watch?v=ZO0PXYMVGSU)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -183,4 +183,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Microsoft’s new Windows Phones aren’t going to sell, but that’s part of the plan [[theverge.com]](http://www.theverge.com/2015/10/5/9453471/microsoft-lumia-windows-10-phone-expectations)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

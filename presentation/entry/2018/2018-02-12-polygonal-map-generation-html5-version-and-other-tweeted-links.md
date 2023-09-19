@@ -101,4 +101,4 @@
 
 [<img alt="blackwomenintech [BWiTLA]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BWiTLA.jpeg">](http://www.blackwomenintech.org/ "blackwomenintech [BWiTLA]") Diversity/Inclusion has become an industry in itself with little to show by way of progress, IMO... Too Many Medioc… [[twitter.com]](https://twitter.com/i/web/status/962893875672223744)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

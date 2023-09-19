@@ -45,4 +45,4 @@ Today the studio development schedule looks like this:
 * modernize the kinté hits page into a progressive web app 💄✨
 * use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

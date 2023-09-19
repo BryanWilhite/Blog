@@ -87,4 +87,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") How immigration has affected the tech world - The Verge [[theverge.com]](http://www.theverge.com/2017/2/2/14484346/ctrl-walt-delete-podcast-tech-immigration-samsung-curved-screen)[@waltmossberg](http://twitter.com/waltmossberg) [podcast]
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

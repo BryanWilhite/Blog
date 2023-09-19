@@ -107,4 +107,4 @@
 
 [<img alt="Rafferty Jackson [raffjack]" src="https://songhay.blob.core.windows.net/shared-social-twitter/raffjack.jpeg">](http://jack.industries/ "Rafferty Jackson [raffjack]")[@cjordan_wolfram](http://twitter.com/cjordan_wolfram) (son of Stephen Wolfram) showing the Mathematica code base of "The Arrival" alien language.… [[twitter.com]](https://twitter.com/i/web/status/807796670943481856)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

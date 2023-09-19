@@ -66,4 +66,4 @@ Today the studio development schedule looks like this:
 * convert Day Path Blog and SonghaySystem.com to HTTPs by default 🔐
 * use the learnings of previous work to upgrade and re-release the kinté space 🚀
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

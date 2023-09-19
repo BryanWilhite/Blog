@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The Man Who Invented VR Goggles 50 Years Too Soon - IEEE Spectrum [[ow.ly]](https://spectrum.ieee.org/tech-history/heroic-failures/the-man-who-invented-vr-goggles-50-years-too-soon)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

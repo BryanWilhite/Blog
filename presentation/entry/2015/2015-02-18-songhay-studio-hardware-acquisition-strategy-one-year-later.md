@@ -48,4 +48,4 @@ So the message I’m hearing now is <span style="text-decoration:line-through;">
 
 I returned the [XFX Double D R9 290X 1000MHz 4GB DDR5 DP HDMI 2XDVI Graphics Card](http://www.amazon.com/XFX-Double-1000MHz-Graphics-R9290XEDFD/dp/B00HHIPN5A%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HHIPN5A). I guess that my motherboard simply cannot handle it or (very unlikely) my power supply cannot handle it. I’ve remembered that I’m an Amazon Prime dude so I can order another experimental card (from a year ago) [Sapphire Radeon R9 270X 2GB GDDR5 DVI-I/DVI-D/HDMI/DP Dual-X with Boost and OC Version PCI-Express Graphics Card 11217-01-20G](http://www.amazon.com/Sapphire-Version-PCI-Express-Graphics-11217-01-20G/dp/B00B3WTWXU%3FSubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B3WTWXU) and get it by the end of the week.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

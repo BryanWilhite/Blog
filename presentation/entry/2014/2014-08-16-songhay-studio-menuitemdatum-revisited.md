@@ -33,4 +33,4 @@ Let’s sketch out something new:
 
 The foundational change is replacing *datum* with *model*—which is incredibly obvious. This move coheres with the names used for the <acronym title="Model">MVVM</acronym> acronym. This effort should pack all of what I find beautiful about object-oriented and interface-based programming in one logical place! …can I get a bit more functional now?
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

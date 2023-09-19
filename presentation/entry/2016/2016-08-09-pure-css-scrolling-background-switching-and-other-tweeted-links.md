@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Acer Liquid M330 - Unlocked [[microsoftstore.com]](http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.335427600) via [@MicrosoftStore](http://twitter.com/MicrosoftStore)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

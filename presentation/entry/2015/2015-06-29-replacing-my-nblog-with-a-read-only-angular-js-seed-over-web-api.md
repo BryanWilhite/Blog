@@ -37,4 +37,4 @@ Working with NBlog has taught me that JSON is a first-class Web resource: it rep
 
 So how will I “publish” to my new `Songhay.Blog`—and how will the index be updated? Well, my Blog may fall silent (again) for a while but I’ll be sure to, ahem, Blog about this in future.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

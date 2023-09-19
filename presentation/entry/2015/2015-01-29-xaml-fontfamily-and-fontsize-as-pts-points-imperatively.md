@@ -38,4 +38,4 @@ The overload for the `FontFamily` constructor is taking a “Pack URI” that is
 
 The `FontSizeConverter` is new to me—which is kind of sad because it’s been around since .NET 3.0 (c. 2006).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -67,4 +67,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span data-ng-bind-html="i.Text" class="ng-binding">this fork worked for me => Convert-SQL-Server-to-SQLite [https://github.com/elerch/Convert-SQL-Server-to-SQLite](https://github.com/elerch/Convert-SQL-Server-to-SQLite) by [@elerch](http://twitter.com/elerch)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

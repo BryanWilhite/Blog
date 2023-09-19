@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) Australian teen stole 90 gigabytes of private data from Apple servers [[theverge.com]](https://www.theverge.com/2018/8/16/17701706/apple-hack-system-australia-teen) via [@Verge](http://twitter.com/@Verge)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

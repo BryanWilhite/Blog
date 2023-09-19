@@ -54,4 +54,4 @@ It must be said that the subject of “[micro-services](https://en.wikipedia.org
 
 And, for healthy interview prep, it is always useful to read, “[Fundamentals of Garbage Collection](https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals),” at least once every six months. (Garbage collection algorithms depend on [the heap data structure](https://en.wikipedia.org/wiki/Heap_(data_structure)) which is a specialized tree structure, leading back to Graph Theory via [Dijkstra’s algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).)
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

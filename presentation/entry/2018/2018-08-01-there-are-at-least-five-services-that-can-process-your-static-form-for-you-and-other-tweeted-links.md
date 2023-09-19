@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Satya Nadella’s smart decisions see MSFT overtake Google’s market cap - [[mspoweruser.com]](https://mspoweruser.com/satya-nadellas-smart-decisions-see-msft-overtake-googles-market-cap/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

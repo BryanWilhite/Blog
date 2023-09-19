@@ -115,4 +115,4 @@
 
 [<img alt="Massimo [Rainmaker1973]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Rainmaker1973.jpg">](https://www.facebook.com/unsupportedbrowser "Massimo [Rainmaker1973]") The Galton board: 3000 steel balls fall through 12 levels of branching paths and end up matching a bell curve distr… [[twitter.com]](https://twitter.com/i/web/status/969116624937799680)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

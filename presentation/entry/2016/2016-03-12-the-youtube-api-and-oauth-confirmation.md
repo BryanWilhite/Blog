@@ -140,4 +140,4 @@ The first time I run this, I notice that I am prompted by a Web browser, asking 
 
 After runs, a JSON file, `GoogleSubscriptions.json`, is generated. This gives me the hand-curated Channel IDs I need to run a Web Job on Azure. More on this later…
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

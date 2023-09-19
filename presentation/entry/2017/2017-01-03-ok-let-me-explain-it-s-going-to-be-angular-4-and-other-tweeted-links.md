@@ -95,4 +95,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Why China Can't Lure Tech Talent - Slashdot [[ow.ly]](https://science.slashdot.org/story/16/12/13/1635251/why-china-cant-lure-tech-talent?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

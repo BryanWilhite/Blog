@@ -103,4 +103,4 @@
 
 [<img alt="Wolfram [WolframResearch]" src="https://songhay.blob.core.windows.net/shared-social-twitter/WolframResearch.png">](http://www.wolfram.com/ "Wolfram [WolframResearch]") Congrats to [#WolframInnovator](http://twitter.com/search?q=%23WolframInnovator) Dr. Massimo Fazio for his work using [#WolfLang](http://twitter.com/search?q=%23WolfLang) algorithms for [#OCT](http://twitter.com/search?q=%23OCT) measurement.… [[twitter.com]](https://twitter.com/i/web/status/932992262182719488)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

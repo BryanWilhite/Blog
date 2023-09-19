@@ -103,4 +103,4 @@
 
 [<img alt="Circuit Static [circuitstatic]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/circuitstatic.jpg">](http://www.circuitstatic.com/) He's making a database He's sorting it twice SELECT * from contacts WHERE behavior = 'nice' SQL Clause is coming to town
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

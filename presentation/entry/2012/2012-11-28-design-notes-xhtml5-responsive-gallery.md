@@ -73,4 +73,4 @@ When an image is shown in a gallery, whatever is showing the image has to know w
 * “[How to Center Anything With CSS](http://designshack.net/articles/css/how-to-center-anything-with-css/)”
 * “[Crossfading Images](http://css3.bradshawenterprises.com/cfimg/)” —CSS 3 stuff… might want to add in later…
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

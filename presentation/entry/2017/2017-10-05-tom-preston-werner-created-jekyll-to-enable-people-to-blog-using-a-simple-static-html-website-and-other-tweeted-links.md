@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Wall Street Journal's Google Traffic Drops 44% After Pulling Out of First Click Free [[news.slashdot.org]](https://news.slashdot.org/story/17/06/05/2315228/wall-street-journals-google-traffic-drops-44-after-pulling-out-of-first-click-free?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

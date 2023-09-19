@@ -97,4 +97,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Why Is It So Tough For African Startups To Raise Investment Abroad? [[iafrikan.com]](http://www.iafrikan.com/2016/09/08/why-is-it-so-tough-for-african-startups-to-raise-investment-abroad-2/)[@iayori](http://twitter.com/iayori)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

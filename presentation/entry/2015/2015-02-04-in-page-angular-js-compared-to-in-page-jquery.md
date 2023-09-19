@@ -119,4 +119,4 @@ Hard-core Angular (1.x) people may not tolerate my failure to use [directives](h
 
 It looks like they are killing everything in Angular 1.x *except* directives (watch the video to get past the drama)! What might be a cool Stack Overflow question is seeing how my jQuery block translates into Angular 2.0.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

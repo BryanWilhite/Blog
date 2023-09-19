@@ -89,4 +89,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") “the MyDoom virus. This virus alone cost roughly $38 billion in damages” [@tmrdevelops](http://twitter.com/tmrdevelops)[[designer-daily.com]](http://www.designer-daily.com/a-look-at-stunning-web-safety-facts-57422)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

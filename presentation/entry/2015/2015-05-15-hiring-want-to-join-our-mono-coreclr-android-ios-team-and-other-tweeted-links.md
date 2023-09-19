@@ -105,4 +105,4 @@
 
 [<img alt="Visually [Visually]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Visually.png">](http://visual.ly/ "Visually [Visually]") 16 Tools Every Social Media Manager Should Use [[blog.visual.ly]](http://blog.visual.ly/15-tools-every-social-media-manager-should-use/?utm_source=social&utm_medium=twitter&utm_campaign=meet)[[twitter.com]](https://twitter.com/Visually/status/596385314526093313/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

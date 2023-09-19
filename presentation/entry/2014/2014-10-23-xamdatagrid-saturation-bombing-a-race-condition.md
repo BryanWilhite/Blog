@@ -48,4 +48,4 @@ So I call this embarrassment ‘saturation bombing a race condition’ as (`Bomb
 
 For my sanity, I must introduce the concept of “user idle time” which suggests that this idea of waiting for inactivity is not new (see “[Detect time of last user interaction with the OS](http://stackoverflow.com/questions/1037595/c-sharp-detect-time-of-last-user-interaction-with-the-os)”). It should follow that idle time with respect to the user can be reborn as idle time with respect to an Observable Collection.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

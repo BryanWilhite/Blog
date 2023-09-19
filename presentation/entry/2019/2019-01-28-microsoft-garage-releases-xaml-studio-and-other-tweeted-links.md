@@ -81,4 +81,4 @@
 
 [<img alt="Pat Walls [thepatwalls]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/thepatwalls.jpg">](http://patwalls.co/) Had a few people asking me about this, so wrote a blog post... How I Automated All Of My Social Media I talk about why I automated it, some advantages and disadvantages of automated systems, and my iterative approach. Code examples included! 🤖🤖🤖 [[patwalls.co]](https://patwalls.co/how-i-automated-all-of-my-social-media)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

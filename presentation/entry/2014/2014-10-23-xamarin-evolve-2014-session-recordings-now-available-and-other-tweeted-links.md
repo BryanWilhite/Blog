@@ -51,4 +51,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>9 Reasons You May Never Retire [http://shar.es/1mQsMQ](http://shar.es/1mQsMQ) via [@sharethis](http://twitter.com/sharethis)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -34,4 +34,4 @@ See the Pen [Embedding Code Pen and GitHub Content in an Angular Template](http:
 
 K. Scott Allen covers the Angular theory behind this issue quite well in, “[A Journey With Trusted HTML in AngularJS](http://odetocode.com/blogs/scott/archive/2014/09/10/a-journey-with-trusted-html-in-angularjs.aspx).” I am using `angular-embed-codepen` [by Jurgen Van de Moere](https://github.com/jvandemo/angular-embed-codepen) and `angular-gist` [by Scott Corgan](https://github.com/scottcorgan/angular-gist). Both of these projects are bower packages and I must point out that there are other GitHub projects similar to `angular-gist` but the ones I’ve seen take a dependency on jQuery.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

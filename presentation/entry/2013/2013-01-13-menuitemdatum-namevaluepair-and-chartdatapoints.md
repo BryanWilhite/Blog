@@ -51,4 +51,4 @@ I continually have forgotten since the release of <acronym title="Windows Commun
 
 My Band-Aid is to convert a set of `NameValuePair` into `Dictionary<string, string>` with an extension method. This is one way to address the problem of RIA Services lack of support for serializing `Dictionary<T>`. Once we have a Dictionary it can be bound to directly—in <acronym title="Extensible Application Markup Language">XAML</acronym>.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

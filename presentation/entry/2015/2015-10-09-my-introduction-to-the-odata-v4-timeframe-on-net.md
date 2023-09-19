@@ -101,4 +101,4 @@ The `ProductController` extends from `ODataController`. One of the not-so-subtle
 * “[ASP.Net: Web API 2 + Help Pages + OData](http://jerther.blogspot.ca/2014/11/aspnet-web-api-2-help-pages-odata_28.html)”
 * “[Parsing OData Paths, $select and $expand using the ODataUriParser](http://blogs.msdn.com/b/alexj/archive/2013/05/10/parsing-odata-paths-select-and-expand-using-the-odatauriparser.aspx)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

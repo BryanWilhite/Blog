@@ -119,4 +119,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") 1532 Falcon Heavy Geek Out [[dotnetrocks.com]](https://www.dotnetrocks.com/?show=1532) [[@richcampbell](http://twitter.com/richcampbell) schools me on toxic perchlorate dust that would h… [[twitter.com]](https://twitter.com/i/web/status/979561543477092352)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

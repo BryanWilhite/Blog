@@ -101,4 +101,4 @@
 
 [<img alt="the kinte space [KinteSpace]" src="https://songhay.blob.core.windows.net/shared-social-twitter/KinteSpace.png">](http://kintespace.com/ "the kinte space [KinteSpace]") What no indie developer wants to hear about the App Store [[feedproxy.google.com]](http://feedproxy.google.com/~r/TheIphoneBlog/~3/HQ6eG85TPFY/story01.htm)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

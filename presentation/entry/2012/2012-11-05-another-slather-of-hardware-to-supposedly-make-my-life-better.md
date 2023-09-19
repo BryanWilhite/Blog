@@ -78,4 +78,4 @@ Even though this Silverstone case is huge it will lay low—horizontally—on my
 
 There will always be work. I’m looking for the best space for mine. I’m building it with one idea at a time.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

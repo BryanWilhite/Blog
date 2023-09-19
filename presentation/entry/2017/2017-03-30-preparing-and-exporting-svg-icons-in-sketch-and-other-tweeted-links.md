@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Attacks On WordPress Sites Intensify As Hackers Deface Over 1.5 Million Pages - Slashdot [[it.slashdot.org]](https://it.slashdot.org/story/17/02/10/0110245/attacks-on-wordpress-sites-intensify-as-hackers-deface-over-15-million-pages?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

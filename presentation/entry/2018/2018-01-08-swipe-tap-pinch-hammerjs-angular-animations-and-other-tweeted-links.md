@@ -99,4 +99,4 @@
 
 [<img alt="Phil Hawksworth [philhawksworth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/philhawksworth.jpg">](http://hawksworx.com/ "Phil Hawksworth [philhawksworth]") Brilliantly written and chillingly convincing. A pretty persuasive argument for site owners to sort out their CSPs… [[twitter.com]](https://twitter.com/i/web/status/949653576372178944)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

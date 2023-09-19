@@ -95,4 +95,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Wall Street’s big banks are waging an all-out technological arms race [[bloomberg.com]](https://www.bloomberg.com/news/features/2018-04-05/wall-street-s-big-banks-are-waging-an-all-out-technological-arms) via [@markets](http://twitter.com/markets)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

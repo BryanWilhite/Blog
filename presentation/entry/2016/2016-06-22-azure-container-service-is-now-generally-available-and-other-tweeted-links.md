@@ -79,4 +79,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Top 10 Financial Mistakes Every Software Developer Should Avoid [[acodersjourney.com]](http://www.acodersjourney.com/2016/04/top-10-financial-mistakes-every-software-developer-should-avoid/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -47,4 +47,4 @@ Most “normal” .NET developers, starting out with .NET 1.x or 2.x, live almos
 
 I was very pleased to find out that the [Entity Framework](http://msdn.microsoft.com/en-us/library/system.data.entityclient.entitycommand(v=vs.110).aspx) is based on `System.Data.Common`. Songhay Data Access is my tiny alternative to the Entity Framework, when I need to get as close to the <acronym title="Database Management System">DBMS</acronym> as .NET will allow.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

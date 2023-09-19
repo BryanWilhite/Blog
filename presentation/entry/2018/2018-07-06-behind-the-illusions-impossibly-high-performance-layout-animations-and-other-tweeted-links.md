@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]")[@shanselman](http://twitter.com/shanselman) What few to none of the demographic on this this thread will experience are kids from your own 'hood no… [https://twitter.com/i/web/status/976820798638907393](https://twitter.com/i/web/status/976820798638907393)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

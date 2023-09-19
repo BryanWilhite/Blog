@@ -93,4 +93,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") I am very, very confident had [@satyanadella](http://twitter.com/satyanadella) led MSFT ten years ago my finances would be far the more better [[cnbc.com]](https://www.cnbc.com/2017/12/13/satya-nadella-wishes-microsoft-got-into-public-cloud-earlier.html)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

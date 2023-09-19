@@ -209,4 +209,4 @@ BAT-6165, NP6165 Smart Li-ION Battery Pack (6 Cell, 62.16Wh) [$95.00]
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

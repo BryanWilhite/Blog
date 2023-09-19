@@ -117,4 +117,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) whoa, [@Apple](http://twitter.com/@Apple) refuses to submit to [@youtube](http://twitter.com/@youtube) with their own site for developer videos—check out “Introducing Dark Mode” from [#WWDC2018](http://twitter.com/search?q='%23WWDC2018) => [@megafunkmega](http://twitter.com/@megafunkmega) <= [@reneritchie](http://twitter.com/@reneritchie)[[twitter.com]](https://twitter.com/BryanWilhite/status/1009478436534906880/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

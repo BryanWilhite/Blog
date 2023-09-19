@@ -31,4 +31,4 @@ The command `dar2_azure_download` uses this Data Activity Runner (DAR) command: 
 
 For the historical record, the version of DAR mentioned in this article is not yet released to CodePlex.com.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

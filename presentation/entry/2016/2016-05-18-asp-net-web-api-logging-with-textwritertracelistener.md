@@ -53,4 +53,4 @@ config.EnableSystemDiagnosticsTracing();
 
 Also the information in “[Compiling Conditionally with Trace and Debug](https://msdn.microsoft.com/en-us/library/aa983575(v=vs.71).aspx)” may apply.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

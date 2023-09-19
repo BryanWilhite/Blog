@@ -31,4 +31,4 @@ I *would* like to find out what ChocolateyGUI is doing on the command line when 
 
 I notice that that this WPF application is a bit rough around the edges (I am considering [contributing to the GitHub project](https://github.com/chocolatey/ChocolateyGUI) myself). But I would like to see a log of what is going on when the GUI calls out to the “Chocolatey Service.” It would be a valiant effort to teach dummies like me how to go directly to the command line.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

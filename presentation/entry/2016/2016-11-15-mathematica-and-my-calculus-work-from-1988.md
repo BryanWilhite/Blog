@@ -46,4 +46,4 @@ I see now from experience and ideological preference that teaching “kids” ho
 
 The solution to a mathematical problem is a procedure written in two languages: the human readable language of the students and the math language compatible with the problem. The “learning to code” part of the solution are the tests that verify that a step in the procedure is correct.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

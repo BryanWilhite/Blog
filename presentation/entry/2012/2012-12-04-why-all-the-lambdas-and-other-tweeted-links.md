@@ -45,4 +45,4 @@
 
 [<img alt="Scott Barnes c[×┬õ]כ [MossyBlog]" src="https://songhay.blob.core.windows.net/shared-social-twitter/MossyBlog.png">](http://www.riagenic.com/ "Scott Barnes c[×┬õ]כ [MossyBlog]") <span>My work life is never boring. So many UI/UX tasks.. so little time.. *rolls up sleeves*.. time to break an industry.</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

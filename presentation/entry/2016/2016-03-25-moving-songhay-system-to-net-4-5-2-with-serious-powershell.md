@@ -47,4 +47,4 @@ Why do these spit out `No packages installed.`?
 
 Searching the entire solution for `targetFramework="net45"` shows me where packages were not updated to `net452` in the **Manage NuGet Packages for Solution…** GUI.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

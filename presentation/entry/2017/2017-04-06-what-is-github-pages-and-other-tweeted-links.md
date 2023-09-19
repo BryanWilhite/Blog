@@ -97,4 +97,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") “Profit is the ultimate flexibility because it buys you the ultimate luxury: time.” [[m.signalvnoise.com]](https://m.signalvnoise.com/why-we-choose-profit-e511efc4dcb9#.wq5h9xa0y)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -39,4 +39,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>NOAA and how not to do a web service | Jamie Dixon's Home [http://jamessdixon.wordpress.com/2012/12/18/noaa-and-how-not-to-do-a-web-service/](http://jamessdixon.wordpress.com/2012/12/18/noaa-and-how-not-to-do-a-web-service/)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

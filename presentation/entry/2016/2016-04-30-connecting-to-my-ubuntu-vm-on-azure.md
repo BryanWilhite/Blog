@@ -44,4 +44,4 @@ The instructions in “[How to Share Files Between Windows and Linux](http://www
 
 “[How To Use SSH to Connect to a Remote Server in Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)” should work *natively* on Windows 10, according to [recent news](http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash), providing an experience similar to using PuTTY.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

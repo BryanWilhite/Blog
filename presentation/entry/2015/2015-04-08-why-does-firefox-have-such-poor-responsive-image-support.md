@@ -34,4 +34,4 @@ See the Pen <a href='https://codepen.io/rasx/pen/Ggbgxw'>img srcset with Picture
 </iframe>
 <!-- cSpell:enable -->
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

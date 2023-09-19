@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") “Banks are scared. They’ve seen the rise of the new world of open APIs, apps and analytics..” [[thefinanser.com]](http://thefinanser.com/2017/02/banks-getting-around-open-banking-psd2.html/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

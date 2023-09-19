@@ -87,4 +87,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Production Notes for Overcooked Vegan Episode 4 [@megafunkmega](http://twitter.com/megafunkmega)[[megafunk.wordpress.com]](https://megafunk.wordpress.com/2015/07/29/production-notes-for-overcooked-vegan-episode-4/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

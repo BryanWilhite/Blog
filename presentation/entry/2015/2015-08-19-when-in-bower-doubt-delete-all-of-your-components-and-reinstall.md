@@ -34,4 +34,4 @@ Resort to using angular#>=1.4.x which resolved to angular#1.4.4
 
 Code incompatibilities may occur.I recently installed a bower package that downgraded my `angular` package from 1.4.x to 1.2.x. I do not know why this is possible by default in bower—so this drastic move is the only way I know how to deal with this issue (today).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

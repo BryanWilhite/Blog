@@ -45,4 +45,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") just tried my AMEX gift card from ASUS [from ASUS VN Series VN289Q 28-Inch [[amazon.com]](http://www.amazon.com/gp/product/B00IQCRLZG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00IQCRLZG&linkCode=as2&tag=thekintespacec00&linkId=GKJNULYF3F4TBHS2)]
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

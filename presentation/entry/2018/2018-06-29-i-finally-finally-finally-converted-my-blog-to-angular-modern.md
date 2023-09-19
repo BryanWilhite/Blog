@@ -57,4 +57,4 @@ Since I am clearly not as bright as Scott Hanselman, I have been laboring under 
 
 Going forward my plan is to continue posting Tweeted Links—like [my latest one](http://songhayblog.azurewebsites.net/blog/entry/the-2018-front-end-performance-checklist-and-other-tweeted-links) as of this writing—and Blog posts detailing how I am finishing this Blog site. Writing about what I am doing motivates me to work—even when no one is reading about what I am writing. I understand this weird thing about myself so it has been quite uncomfortable to endure about three years without a technical blogging platform. I welcome myself back. I hope Bing search bots will index this thing correctly.
 
-@[BryanWilhite](https://twitter.com/bryanwilhite)
+<https://github.com/BryanWilhite/>

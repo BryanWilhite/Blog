@@ -115,4 +115,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/) a problem that can be solved in practice is called a tractable problem, literally "a problem that can be handled" => tractatus andronicus [[twitter.com]](https://twitter.com/BryanWilhite/status/1041930870909628416/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

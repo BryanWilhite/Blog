@@ -80,4 +80,4 @@ Do not confuse a “playlist” with an “ordered test”—it feels like “pl
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

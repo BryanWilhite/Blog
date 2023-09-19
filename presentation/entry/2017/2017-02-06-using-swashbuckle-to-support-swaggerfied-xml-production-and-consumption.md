@@ -108,4 +108,4 @@ c.OperationFilter<SwaggerContentTypeOperationFilter>();
 
 I notice that all of this work has no control over the “Example Value” XML shown in the Swagger UI. I think this is controlled by [the Swagger Definitions Object](http://swagger.io/specification/#definitionsObject). Assuming that a newer version of Swashbuckle will *not* get this working out of the box *for XML*, I will have to come back to this later.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

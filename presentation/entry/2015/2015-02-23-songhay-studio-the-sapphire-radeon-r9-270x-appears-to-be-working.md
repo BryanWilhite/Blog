@@ -33,4 +33,4 @@ Not learning anything with my previous days’ experience with graphics cards, I
 
 Now, in the defense of Cooler Master, I am sure they would recommend the [Cooler Master GeminII M4—CPU Cooler with 4 Direct Contact Heat Pipes (RR-GMM4-16PK-R2)](http://www.amazon.com/Cooler-Master-GeminII-M4-RR-GMM4-16PK-R2/dp/B0080ATR2Y%3Fpsc=1&SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0080ATR2Y). The [AdoptedMike guy shows us](https://www.youtube.com/watch?v=-gXh3DioIb4&feature=youtube_gdata_player) what it looks like—and complains about its size with respect to ITX motherboards. The Cooler Master (5.4 x 4.8 x 2.3 inches) has larger dimensions than the Scythe BIG Shuriken (4.9 x 5.3 x 2.3 inches).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

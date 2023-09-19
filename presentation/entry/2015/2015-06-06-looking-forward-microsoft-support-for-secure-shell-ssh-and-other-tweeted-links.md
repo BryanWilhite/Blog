@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Abiola from Gamsole (Channel 9) [http://channel9.msdn.com/Events/Build/2015/C9-23](http://channel9.msdn.com/Events/Build/2015/C9-23) via [@GamsoleStudio](http://twitter.com/GamsoleStudio)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -119,4 +119,4 @@
 
 [<img alt="Gregory S Bledsoe [geek_king]" src="https://songhay.blob.core.windows.net/shared-social-twitter/geek_king.jpeg">](https://www.linkedin.com/in/gregbledsoe "Gregory S Bledsoe [geek_king]") We are stuck in 100 year old management systems designed for low skilled factory workers and static markets. Why aren't we questioning it?
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

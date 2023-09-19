@@ -89,4 +89,4 @@
 
 [<img alt="Den [DennisCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DennisCode.jpg">](http://den.engineering/ "Den [DennisCode]") "Never memorize something that you can look up" - Albert Einstein, on trying to exit vim
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -99,4 +99,4 @@
 
 [<img alt="Jeffrey Snover [jsnover]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jsnover.jpg">](http://jsnover.com/ "Jeffrey Snover [jsnover]") I hate it when your car service dept says there is going to be a survey and then basically tells you that anything… [[twitter.com]](https://twitter.com/i/web/status/939192836913692672)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

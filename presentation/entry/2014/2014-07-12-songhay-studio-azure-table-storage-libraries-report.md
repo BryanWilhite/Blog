@@ -186,4 +186,4 @@ MSDN documentation on the REST-based way to ATS.
 “Did you know that data stored in Windows Azure Table storage can be accessed through an OData feed? Does that question even make sense to you? If you answered no to either of those questions and you are interested in learning more, then read on. In this post I’ll show you how to use the OData SDK for PHP to retrieve, insert, update, and delete data stored in Windows Azure Table storage.”
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

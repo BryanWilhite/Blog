@@ -100,4 +100,4 @@ We see that `DoRiaOperationSetCookie()` will call the server and set the cookie�
 
 Now, two sentences of history: In 2005 [Scott Hanselman introduces a hack](http://www.hanselman.com/blog/HttpOnlyCookiesOnASPNET11.aspx) to make cookies more secure (in the ASP.NET 1.1 timeframe). In 2008, Jeff Atwood jumps on the bandwagon in “[Protecting Your Cookies: HttpOnly](http://blog.codinghorror.com/protecting-your-cookies-httponly/).”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

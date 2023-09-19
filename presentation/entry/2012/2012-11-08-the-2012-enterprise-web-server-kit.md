@@ -316,4 +316,4 @@ See also: “[Deploying Application built using RIA Services RC](http://blogs.ms
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

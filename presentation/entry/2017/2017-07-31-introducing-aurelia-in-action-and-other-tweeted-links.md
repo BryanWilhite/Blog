@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") How to Bake Pi: An Edible Exploration of the Mathematics of Mathematics [[amazon.com]](https://www.amazon.com/How-Bake-Pi-Exploration-Mathematics/dp/0465097677?SubscriptionId=1SW6D7X6ZXXR92KVX0G2&tag=thekintespacec00&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0465097677)[@DrEugeniaCheng](http://twitter.com/DrEugeniaCheng)[[twitter.com]](https://twitter.com/BryanWilhite/status/888433443964682240/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

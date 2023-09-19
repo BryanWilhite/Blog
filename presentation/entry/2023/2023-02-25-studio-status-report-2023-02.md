@@ -134,4 +134,4 @@ Today, I assume that Presentation layers can be derived from Presentation parts.
 
 >Because securing a GraphQL endpoint, is probably equally difficult as it is to implement a _real_ software development solution, with business logic on the server, and validation and security on the server – _Where it belongs_. Exposing GraphQL endpoints to anybody but yourself, and/or the sys-admin of your app, is probably only slightly more secure than providing a text area in the public parts of your website, with a placeholder saying; _“Provide SQL here …”_.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

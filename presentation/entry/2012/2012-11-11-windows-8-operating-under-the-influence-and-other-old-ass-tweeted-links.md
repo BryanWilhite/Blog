@@ -107,4 +107,4 @@
 
 [<img alt="Pete Brown [Pete_Brown]" src="https://songhay.blob.core.windows.net/shared-social-twitter/Pete_Brown.jpg">](http://10rem.net "Pete Brown [Pete_Brown]") <span>Advice on attracting good developers [http://samuelmullen.com/2012/02/advice-on-attracting-good-developers/](http://samuelmullen.com/2012/02/advice-on-attracting-good-developers/) /via ... don't remember :P</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

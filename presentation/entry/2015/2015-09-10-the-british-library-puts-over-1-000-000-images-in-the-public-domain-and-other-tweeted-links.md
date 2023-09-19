@@ -47,4 +47,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Windows 10 fingerprint reader support is better than what shipped with my Sager NP6165 [@thurrott](http://twitter.com/thurrott)[@SagerNotebook](http://twitter.com/SagerNotebook)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

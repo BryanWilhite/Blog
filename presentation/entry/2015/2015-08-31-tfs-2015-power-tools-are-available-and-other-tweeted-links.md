@@ -61,4 +61,4 @@
 
 [<img alt="Shawn Wildermuth [ShawnWildermuth]" src="https://songhay.blob.core.windows.net/shared-social-twitter/ShawnWildermuth.jpg">](http://wildermuth.com/ "Shawn Wildermuth [ShawnWildermuth]") I think you should hire consultants based on skill sets; but hire employees based on communication and learning skills only [#devmovesfast](http://search.twitter.com/search?q=%23devmovesfast)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

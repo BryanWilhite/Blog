@@ -151,4 +151,4 @@ Visual studio will automatically generate a `system.serviceModel` node in `web.c
 * “[Integrated Windows Authentication](http://blogs.msdn.com/b/ieinternals/archive/2011/07/06/integrated-windows-authentication-kerberos-ntlm-http-400-error-for-16kb-authorization-header.aspx)”
 * “[ASP.NET NTLM Authentication—is it worth it?](http://www.codinghorror.com/blog/2005/04/aspnet-ntlm-authentication---is-it-worth-it.html)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

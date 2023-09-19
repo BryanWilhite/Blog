@@ -33,4 +33,4 @@ Yes, `Songhay` is targeting .NET 2.0. I have another core-dependency project, `S
 
 The fresh, clean `Songhay` Project should be up on CodePlex.com in a few days—likely nestled in my [Silverlight BiggestBox](http://slbiggestbox.codeplex.com/). I have to give [a presentation](http://www.meetup.com/LA-SLUG/events/50686142/) on this ‘box’ this month so having a more solid core can’t hurt.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -165,4 +165,4 @@ Here’s a short list of applications that I had to install (or consider install
 
 **Office 365!** A previous employer “gave” me a copy of Microsoft Office that I’ve been using for quite some time. I did not realize *then* that I was using Office 365. So now I have my “personal edition” of Office 365—and all of my old VSTO stuff just works.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

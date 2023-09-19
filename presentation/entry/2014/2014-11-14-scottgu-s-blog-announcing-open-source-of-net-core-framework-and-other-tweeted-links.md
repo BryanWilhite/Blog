@@ -57,4 +57,4 @@
 
 [<img alt="Jake Boxer [jakeboxer]" src="https://songhay.blob.core.windows.net/shared-social-twitter/jakeboxer.jpeg">](http://jakeboxer.com/ "Jake Boxer [jakeboxer]") <span>this is what the "internet of things" endgame looks like [https://twitter.com/jakeboxer/status/528257133926940674/photo/1](https://twitter.com/jakeboxer/status/528257133926940674/photo/1)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

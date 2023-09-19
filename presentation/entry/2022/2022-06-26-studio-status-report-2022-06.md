@@ -194,4 +194,4 @@ The following actually uses the API as intended (but poorly documented) by the a
 })(jQuery);
 ```
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

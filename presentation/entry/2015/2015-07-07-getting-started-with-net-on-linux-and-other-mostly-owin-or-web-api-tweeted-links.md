@@ -87,4 +87,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Are You Overlooking This Way to Make Amazingly Complex Lighting? [@megafunkmega](http://twitter.com/megafunkmega)[http://www.blendernation.com/2015/06/30/are-you-overlooking-this-way-to-make-amazingly-complex-lighting/](http://www.blendernation.com/2015/06/30/are-you-overlooking-this-way-to-make-amazingly-complex-lighting/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

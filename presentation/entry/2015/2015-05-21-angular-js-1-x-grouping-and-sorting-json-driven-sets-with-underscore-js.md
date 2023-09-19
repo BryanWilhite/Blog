@@ -92,4 +92,4 @@ Or get [the GitHub gist](https://gist.github.com/BryanWilhite/4dfb1564fe88dba166
 
 My ideas about Angular grouping owe their existence to “[Group and Display Data with Underscore and AngularJS](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)” by K. Scott Allen. I wrote a [basic grouping CodePen](http://codepen.io/rasx/pen/BjCkH) to understand what was going on there. Then, I added the ability to change the grouping with a select element in an [‘intermediate’ grouping CodePen](http://codepen.io/rasx/pen/XJJKYX?editors=101).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

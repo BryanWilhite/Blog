@@ -53,4 +53,4 @@
 
 [<img alt="Don Box [donbox]" src="https://songhay.blob.core.windows.net/shared-social-twitter/donbox.jpg">](http://www.xbox.com/ "Don Box [donbox]") Just gave my first non-NDA talk since 2010. Fun to be back. Next up: WinHEC in China! [[polygon.com]](http://www.polygon.com/2015/3/4/8150141/the-long-road-to-a-more-unified-windows-gaming-platform)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

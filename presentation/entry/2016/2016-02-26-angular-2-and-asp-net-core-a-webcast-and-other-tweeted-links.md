@@ -89,4 +89,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Tech Salaries Had Biggest Year-Over-Year Leap In 2015 [[developers.slashdot.org]](http://developers.slashdot.org/story/16/01/26/1518224/tech-salaries-had-biggest-year-over-year-leap-in-2015?utm_source=feedly1.0mainlinkanon&utm_medium=feed)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

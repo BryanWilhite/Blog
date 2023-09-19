@@ -93,4 +93,4 @@
 
 [<img alt="K. Scott Allen [OdeToCode]" src="https://songhay.blob.core.windows.net/shared-social-twitter/OdeToCode.jpeg">](http://odetocode.com/blogs/scott/ "K. Scott Allen [OdeToCode]") <span>Where Is .NET Headed? [http://odetocode.com/blogs/scott/archive/2013/05/15/where-is-net-headed.aspx](http://odetocode.com/blogs/scott/archive/2013/05/15/where-is-net-headed.aspx)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

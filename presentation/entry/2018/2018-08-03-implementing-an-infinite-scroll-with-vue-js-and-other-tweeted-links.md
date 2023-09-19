@@ -107,4 +107,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The Next Cold War Is Here, and It's All About Data [[wired.com]](https://www.wired.com/story/opinion-new-data-cold-war/?mbid=social_twitter_onsiteshare) via [@WIRED](http://twitter.com/WIRED)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

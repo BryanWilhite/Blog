@@ -93,4 +93,4 @@
 
 [<img alt="Matt Day [mattmday]" src="https://songhay.blob.core.windows.net/shared-social-twitter/mattmday.jpeg">](http://www.seattletimes.com/author/matt-day/ "Matt Day [mattmday]") Microsoft employs fewer women, as a portion of its U.S. workforce, than it did in back in 2001. How, after years,… [[twitter.com]](https://twitter.com/i/web/status/984431193058783232)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

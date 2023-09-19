@@ -33,4 +33,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Material Design Deconstructed - Chrome Dev Summit 2014 (Roma Shah) - YouTube [https://www.youtube.com/watch?v=tfSiXRy1vEw&feature=youtube_gdata](https://www.youtube.com/watch?v=tfSiXRy1vEw&feature=youtube_gdata)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

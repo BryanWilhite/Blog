@@ -89,4 +89,4 @@ There are two leading disadvantages to the use of the GC:
 
 Before threads can be scheduled at runtime, the compile time of the Common Language Infrastructure ensures [type safety](https://en.wikipedia.org/wiki/Type_safety), starting with the [Common Type System](https://en.wikipedia.org/wiki/Common_Type_System) (CTS) and leading into well-typed rules of [covariance and contravariance](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

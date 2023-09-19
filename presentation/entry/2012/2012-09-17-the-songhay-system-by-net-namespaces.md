@@ -296,4 +296,4 @@ WPF client for the ‘butterfly collection’ of educational/experimental sample
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

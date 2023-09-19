@@ -111,4 +111,4 @@
 
 [<img alt="Mary Jo Foley [maryjofoley]" src="https://songhay.blob.core.windows.net/shared-social-twitter/maryjofoley.png">](http://blogs.zdnet.com/microsoft "Mary Jo Foley [maryjofoley]")[@BryanWilhite](http://twitter.com/BryanWilhite) if HP shares them, definitely. guess we'll have to see on that
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

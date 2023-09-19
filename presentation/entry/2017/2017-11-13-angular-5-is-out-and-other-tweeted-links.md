@@ -89,4 +89,4 @@
 
 [<img alt="Rich Rogers [RichRogersIoT]" src="https://songhay.blob.core.windows.net/shared-social-twitter/RichRogersIoT.jpg">](https://www.linkedin.com/in/richrogers "Rich Rogers [RichRogersIoT]") What one programmer can do in one month, two programmers can do in two months. - Fred Brooks [[twitter.com]](https://twitter.com/RichRogersIoT/status/928744358941257728/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

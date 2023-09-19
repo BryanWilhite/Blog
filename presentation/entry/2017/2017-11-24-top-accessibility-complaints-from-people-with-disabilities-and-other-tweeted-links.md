@@ -103,4 +103,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Indian ISP won’t let its users use strong encryption [[privateinternetaccess.com]](https://www.privateinternetaccess.com/blog/2017/07/indian-isp-wont-let-users-use-128-bit-256-bit-encryption/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

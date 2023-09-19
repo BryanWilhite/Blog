@@ -70,4 +70,4 @@ When you attribute a method in this class extending `DbDomainService<T>` with, s
 * “[Programming Entity Framework](http://learnentityframework.com/)”
 * “[Setting up a new Silverlight 4 Project with WCF RIA Services](http://geekswithblogs.net/kgrossnicklaus/archive/2011/01/30/setting-up-a-new-silverlight-4-project-with-wcf-ria.aspx)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

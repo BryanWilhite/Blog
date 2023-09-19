@@ -25,4 +25,4 @@ According to [this video review](https://www.youtube.com/watch?v=v7RdEs0rv2A&ind
 
 According to [this video](https://www.youtube.com/watch?v=cq_bc8_LrdM), the GTX 580 draws 224 watts—in 2010, it was considered top of its class “…the single, fastest GPU card on the market.” As of this writing, the GeForce brand is still recognized by [the PC Perspective Leaderboard](http://www.pcper.com/leaderboard).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

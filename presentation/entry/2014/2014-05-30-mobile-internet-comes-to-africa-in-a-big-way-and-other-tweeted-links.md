@@ -55,4 +55,4 @@
 
 [<img alt="Rebecca Enonchong [africatechie]" src="https://songhay.blob.core.windows.net/shared-social-twitter/africatechie.jpg">]( "Rebecca Enonchong [africatechie]") <span>Africa tech hubs – A tale of hope or hype?[http://bit.ly/1ilnjx0](http://bit.ly/1ilnjx0)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

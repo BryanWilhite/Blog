@@ -87,4 +87,4 @@
 
 [<img alt="Scott Hanselman [shanselman]" src="https://songhay.blob.core.windows.net/shared-social-twitter/shanselman.jpg">](http://hanselman.com/ "Scott Hanselman [shanselman]") My boss is supportive and also evil. [[twitter.com]](https://twitter.com/shanselman/status/940310809896353792/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

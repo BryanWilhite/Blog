@@ -83,4 +83,4 @@
 
 [<img alt="Bill Sempf [sempf]" src="https://songhay.blob.core.windows.net/shared-social-twitter/sempf.jpg">](https://www.sempf.net/ "Bill Sempf [sempf]") QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

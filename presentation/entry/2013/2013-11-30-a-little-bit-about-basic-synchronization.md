@@ -197,4 +197,4 @@ A streaming talk from YOW 2011.
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

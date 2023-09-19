@@ -99,4 +99,4 @@ And there you have it. Believe it or not, appending two immutable lists can actu
 
 This strongly suggests to me that Linked List usage is related to satisfying the need for massive, write-only, in-memory sets of data—sounds like some part of that gaming stuff Yan was talking about on *.NET Rocks!*
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

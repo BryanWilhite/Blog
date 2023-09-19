@@ -99,4 +99,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Want to get 6 figures for working code someone before you got 7 figures? [@iayori](http://twitter.com/iayori)[[businessinsider.com]](http://www.businessinsider.com/dark-side-of-a-valley-software-engineer-2016-7)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

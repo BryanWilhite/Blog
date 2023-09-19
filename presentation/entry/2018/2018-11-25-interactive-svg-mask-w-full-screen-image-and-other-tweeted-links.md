@@ -111,4 +111,4 @@
 
 [<img alt="James Herring [itsjamesherring]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/itsjamesherring.jpg">](http://www.taylorherring.com/) The search is over - I've found the best/worst office stockphoto [[twitter.com]](https://twitter.com/itsjamesherring/status/1004306393321672704/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

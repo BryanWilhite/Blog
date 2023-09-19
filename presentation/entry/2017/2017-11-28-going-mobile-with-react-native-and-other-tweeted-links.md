@@ -111,4 +111,4 @@
 
 [<img alt="Billy Hollis [billyhollis]" src="https://songhay.blob.core.windows.net/shared-social-twitter/billyhollis.jpg">](http://billyhollis.me/ "Billy Hollis [billyhollis]") I propose a new reason for retirement: to live w/o tech so that we're not constantly bombarded w/ notifications fro… [[twitter.com]](https://twitter.com/i/web/status/935531883848495106)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

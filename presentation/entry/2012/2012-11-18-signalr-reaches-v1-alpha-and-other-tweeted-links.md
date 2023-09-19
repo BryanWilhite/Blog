@@ -65,4 +65,4 @@
 
 [<img alt="Paul Thurrott [thurrott]" src="https://songhay.blob.core.windows.net/shared-social-twitter/thurrott.jpeg">](http://www.winsupersite.com "Paul Thurrott [thurrott]") <span>What I Use: November 2012 [http://bit.ly/ZErh9X](http://bit.ly/ZErh9X)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

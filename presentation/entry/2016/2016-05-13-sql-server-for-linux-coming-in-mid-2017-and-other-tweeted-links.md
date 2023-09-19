@@ -91,4 +91,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Uncle Bob Martin: The Agile Manifesto, 15 years later [[techbeacon.com]](http://techbeacon.com/uncle-bob-martin-agile-manifesto-15-years-later)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

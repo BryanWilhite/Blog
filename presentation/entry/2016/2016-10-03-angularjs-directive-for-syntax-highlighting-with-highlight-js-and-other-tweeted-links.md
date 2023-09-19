@@ -91,4 +91,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Two critical bugs and more malicious apps make for a bad week for Android [[arstechnica.com]](http://arstechnica.com/security/2016/09/two-critical-bugs-and-more-malicious-apps-make-for-a-bad-week-for-android/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

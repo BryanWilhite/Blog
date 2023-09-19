@@ -148,4 +148,4 @@ The `filterExpression` property is bound to an `input[type="text"]` element:
 
 The Angular documentation clearly specifies the use of a “[predicate function](https://docs.angularjs.org/api/ng/filter/filter)” for filter expressions.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

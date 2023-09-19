@@ -123,4 +123,4 @@ According to [a stackoverflow.com article](http://stackoverflow.com/questions/24
 * “[Node.js as a build script](http://blog.millermedeiros.com/node-js-as-a-build-script/)”
 * “[Customize which files are ignored by version control](https://msdn.microsoft.com/en-us/library/ms245454.aspx?f=255&MSPPError=-2147217396)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

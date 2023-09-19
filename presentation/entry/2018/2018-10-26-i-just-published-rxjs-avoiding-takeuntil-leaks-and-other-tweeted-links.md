@@ -117,4 +117,4 @@
 
 [<img alt="TicToc by Bloomberg [tictoc]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/tictoc.jpg">](https://twitter.com/i/events/931632515340627968) An unusual galaxy 65 million light years away has astronomers questioning everything they thought they knew about outer space [#tictocnews](http://twitter.com/search?q='%23tictocnews)[[twitter.com]](https://twitter.com/tictoc/status/1000978783288119296/video/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

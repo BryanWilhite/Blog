@@ -101,4 +101,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Toyota Takes Tech From Ford--Nixing Apple and Google [[spectrum.ieee.org]](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/toyota-adopts-ford-tech-shunning-both-apple-and-google)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

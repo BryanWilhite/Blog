@@ -113,4 +113,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Chris Boardman ‘dismayed’ after driver accused of killing cyclist is cleared [[cyclingweekly.com]](http://www.cyclingweekly.com/news/latest-news/chris-boardman-dismayed-driver-accused-killing-cyclist-cleared-324230)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

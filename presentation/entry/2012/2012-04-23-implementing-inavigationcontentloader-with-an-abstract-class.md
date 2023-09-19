@@ -56,4 +56,4 @@ It was tempting to try a simpler approach to solving this problem but these issu
 * Reloading the same URI with `HtmlPage.Window.Navigate()` is ignored by the current instance of `Frame.ContentLoader` (which would be my `BiggestBoxNavigationContentLoader`).
 * Silverlight does not call the `Page.OnNavigatedTo()` method when `Page` is setting `Frame.Content` programmatically. I threw together the `IComposableView` interface, with its `DoNavigateFrom()` and `DoNavigateTo()` methods in direct response to this issue by design.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

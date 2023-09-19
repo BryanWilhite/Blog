@@ -77,4 +77,4 @@ I needed to look into this subject matter to get my jsFiddle samples to work aga
 
 </td></tr></table>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

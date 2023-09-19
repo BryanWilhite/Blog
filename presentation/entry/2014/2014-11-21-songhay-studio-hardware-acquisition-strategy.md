@@ -43,4 +43,4 @@ My spacious Silverstone case can accommodate internal drives. This would do well
 
 My “[Songhay Studio: Ergotron Neo-Flex Mobile MediaCenter](http://songhayblog.azurewebsites.net/Entry/Show/songhay-studio-ergotron-neo-flex-mobile-mediacenter)” post points to the next and final *major* addition to my studio hardware. Any other major hardware acquisitions will be concerned with audio and video production. The steady-state condition with regard to studio hardware would be reinforcing the redundancy, ensuring that production lines are safe from large interruptions due to hardware failure.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

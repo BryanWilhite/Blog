@@ -42,4 +42,4 @@ What’s long-term educational about this unpleasantness is using this experienc
 * “[Button Styles and Templates](http://msdn.microsoft.com/en-us/library/cc278069(v=vs.95).aspx)”
 * “[Flat Button Styles in Silverlight](http://www.c-sharpcorner.com/Blogs/6660/flat-button-styles-in-silverlight.aspx)”
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

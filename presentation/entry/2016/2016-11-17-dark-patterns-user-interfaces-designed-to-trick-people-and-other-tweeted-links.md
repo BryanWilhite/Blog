@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Ask a Female Engineer: Employees with Kids and Relationships at Work [[ow.ly]](http://www.themacro.com/articles/2016/10/ask-a-female-engineer-4/?platform=hootsuite) => [@iAyori](http://twitter.com/iAyori)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

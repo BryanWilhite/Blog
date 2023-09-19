@@ -51,4 +51,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Reliable database tests with Respawn | Jimmy Bogard's Blog [[lostechies.com]](https://lostechies.com/jimmybogard/2015/02/19/reliable-database-tests-with-respawn/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

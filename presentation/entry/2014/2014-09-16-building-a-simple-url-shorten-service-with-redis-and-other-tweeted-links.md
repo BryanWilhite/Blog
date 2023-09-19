@@ -65,4 +65,4 @@
 
 [<img alt="Tech Facts [DailyTechFacts]" src="https://songhay.blob.core.windows.net/shared-social-twitter/DailyTechFacts.jpeg">]( "Tech Facts [DailyTechFacts]") <span>When Google introduced its “Did you mean . . .?” feature, site traffic doubled</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

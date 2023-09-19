@@ -105,4 +105,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Free eBook: Keeping Software Soft [http://dontcodetired.com/blog/post/Free-eBook-Keeping-Software-Soft.aspx](http://dontcodetired.com/blog/post/Free-eBook-Keeping-Software-Soft.aspx) via [@robertsjason](http://twitter.com/robertsjason)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

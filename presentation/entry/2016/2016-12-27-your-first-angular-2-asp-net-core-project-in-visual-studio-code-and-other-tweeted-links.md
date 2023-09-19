@@ -95,4 +95,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Unbelievable bike handling on display at the Indoor Cycling World Championships (video) - Cycling Weekly [[ow.ly]](https://www.cyclingweekly.com/news/latest-news/unbelievable-bike-handling-on-display-at-the-indoor-cycling-world-championships-video-303304)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

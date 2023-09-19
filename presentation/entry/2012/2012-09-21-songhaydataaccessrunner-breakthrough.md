@@ -87,4 +87,4 @@ if(configItem.DarConfigurationItemNameValuePairs != null)
 
 So DAR starts by finding and reading the configuration item name value pairs, looking for conventional pairs named `"DependencyLoadFile"`. All of these declared dependencies are loaded and then DAR ‘waits’ for the `AppDomain.CurrentDomain.AssemblyResolve` event to fire.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

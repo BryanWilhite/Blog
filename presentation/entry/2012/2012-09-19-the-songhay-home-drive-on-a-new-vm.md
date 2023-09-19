@@ -53,4 +53,4 @@ ICACLS \myRootShareFolder ^
 * “[.net 4.0: ASP.NET MVC on IIS 7.5—Stack Overflow](http://stackoverflow.com/questions/2374957/asp-net-mvc-on-iis-7-5)” —this is the 32-bit command: `%windir%\Microsoft.NET\Framework\v4.0.30319\aspnet_regiis.exe -ir`.
 * “[500.19 Internal Server Error : The Official Microsoft IIS Site](http://forums.iis.net/t/1179352.aspx)” —I don’t this fix was needed in view of the [statckoverflow.com article](http://stackoverflow.com/questions/2374957/asp-net-mvc-on-iis-7-5) (the command: `%windir%\system32\inetsrv\appcmd unlock config -section:system.webServer/modules`).
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

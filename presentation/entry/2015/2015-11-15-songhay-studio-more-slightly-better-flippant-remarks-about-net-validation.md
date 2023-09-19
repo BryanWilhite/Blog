@@ -29,4 +29,4 @@ The `ToValidationResults()` extension methods (that yield `IEnumerable<Validatio
 
 I placed this new class in my Core library instead of my Data Access library because this is devoted to Model (or View Model) validation *in memory*, having nothing to do with the *access* of data across a boundary.
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

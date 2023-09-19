@@ -43,4 +43,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") The Obscure Neuroscience Problem That’s Plaguing VR [[wired.com]](http://www.wired.com/2015/08/obscure-neuroscience-problem-thats-plaguing-vr/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

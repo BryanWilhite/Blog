@@ -37,4 +37,4 @@ Some recommended videos:
 * “[Debug visually with Code Map debugger integration](https://channel9.msdn.com/Series/Visual-Studio-2012-Premium-and-Ultimate-Overview/Visual-Studio-Ultimate-2012Debug-visually-with-Code-Map-debugger-integration)” (2013)
 * “[Visual Studio ALM Rangers Architecture Tooling Guidance—Overview of the Guidance](https://channel9.msdn.com/Blogs/Visual-Studio-ALM-Rangers/ABEExtensionOverview?term=Visual%20Studio%20Architecture%20Tooling%20Guidance&lang-en=true)” (2011)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

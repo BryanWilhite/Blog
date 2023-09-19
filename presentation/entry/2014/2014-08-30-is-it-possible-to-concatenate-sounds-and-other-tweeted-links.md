@@ -65,4 +65,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>AngularUI for AngularJS [http://angular-ui.github.io/](http://angular-ui.github.io/) [#angularjs](http://search.twitter.com/search?q=%23angularjs)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

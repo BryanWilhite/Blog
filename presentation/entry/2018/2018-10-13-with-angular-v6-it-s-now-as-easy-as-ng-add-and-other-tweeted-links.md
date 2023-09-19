@@ -117,4 +117,4 @@ here is my ad for [@Hired_HQ](http://twitter.com/@Hired_HQ) 🤮😔 [not [@Hire
 
 ‘My £1,000 Macbook Air was stolen at airport security and no one cares’ [[theguardian.com]](https://www.theguardian.com/money/2018/may/04/my-1000-macbook-air-was-stolen-at-airport-security-and-no-one-cares?CMP=share_btn_tw)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

@@ -78,4 +78,4 @@ So here are some points I need to make to remember this first contact with Micro
 * I contacted Microsoft directly so I was not warned about the interview style through professional recruiters (who are often wrong anyway). I *do* feel that the interviewer should have warned me that interview will *require* a computer with a live connection to the Internet *before* the interview date.
 * My Windows Phone was unable to share Internet and handle a phone call at the same time; my notebook could not connect to the Longo public Wi-Fi. I had to do the CollabEdit.com session through my phone! Very frustrating!
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

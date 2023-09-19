@@ -109,4 +109,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") These Bikes Can Help Power a Home for 24 Hours, and It Only Takes One Hour of Pedaling [[futurism.com]](http://futurism.com/links/energy-drink-inventor-pushes-bike-powered-households/)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

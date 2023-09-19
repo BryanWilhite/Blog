@@ -111,4 +111,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") Clipisode: “Host your own daily talk show, featuring your friends and fans” [[clipisode.co]](https://clipisode.co/beta) => [@libertymadison](http://twitter.com/libertymadison), [@CHEFAHKI](http://twitter.com/CHEFAHKI)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

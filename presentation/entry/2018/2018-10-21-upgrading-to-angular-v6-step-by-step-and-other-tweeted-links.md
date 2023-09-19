@@ -113,4 +113,4 @@
 
 [<img alt="41 Strange [41Strange]" src="https://songhay.blob.core.windows.net:443/shared-social-twitter/41Strange.jpeg">](http://41strange.com/) A 'Knocker-up' was hired to ensure that people would wake up on time for their jobs. Mary Smith earned sixpence a week shooting dried peas at sleeping workers' windows in East London in the 1930s [[twitter.com]](https://twitter.com/41Strange/status/995090733697716225/photo/1)
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>

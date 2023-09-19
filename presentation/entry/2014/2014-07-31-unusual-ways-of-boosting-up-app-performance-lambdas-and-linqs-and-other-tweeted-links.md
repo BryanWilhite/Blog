@@ -67,4 +67,4 @@
 
 [<img alt="Bryan D. Wilhite [BryanWilhite]" src="https://songhay.blob.core.windows.net/shared-social-twitter/BryanWilhite.jpeg">](http://songhayblog.azurewebsites.net/ "Bryan D. Wilhite [BryanWilhite]") <span>Trying Redis Caching as a Service on Windows Azure - Scott Hanselman [http://www.hanselman.com/blog/TryingRedisCachingAsAServiceOnWindowsAzure.aspx](http://www.hanselman.com/blog/TryingRedisCachingAsAServiceOnWindowsAzure.aspx) [@shanselman](http://twitter.com/shanselman)</span>
 
-@[BryanWilhite](https://twitter.com/BryanWilhite)
+<https://github.com/BryanWilhite/>
