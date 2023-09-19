@@ -46,7 +46,7 @@ This feature reduces the need for “web socket” connections by using the main
 
 <div style="text-align:center">
 
-![streaming rendering](../presentation/image/day-path-2023-09-18-18-52-51.png)
+![streaming rendering](../../image/day-path-2023-09-18-18-52-51.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=1039) \]
 
 </div>
@@ -59,7 +59,7 @@ The `@rendermode` attribute also reduces the need for “web socket” connectio
 
 <div style="text-align:center">
 
-![the `@rendermode` attribute](../presentation/image/day-path-2023-09-18-18-54-40.png)
+![the `@rendermode` attribute](../../image/day-path-2023-09-18-18-54-40.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=1590) \]
 
 </div>
@@ -70,7 +70,7 @@ This new template ~~should eliminate the need for the older server-only or clien
 
 <div style="text-align:center">
 
-![the “Blazor Web App” template](../presentation/image/day-path-2023-09-18-18-55-51.png)
+![the “Blazor Web App” template](../../image/day-path-2023-09-18-18-55-51.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=2001) \]
 
 </div>
@@ -81,7 +81,7 @@ Clearly Microsoft wants to make progressively iterating to Blazor easier:
 
 <div style="text-align:center">
 
-![`RazorComponentResult` slide](../presentation/image/day-path-2023-09-18-18-57-01.png)
+![`RazorComponentResult` slide](../../image/day-path-2023-09-18-18-57-01.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=2553) \]
 
 </div>
@@ -97,7 +97,7 @@ A future version of Blazor components may “generate static <acronym title="Hyp
 
 <div style="text-align:center">
 
-![generate static HTML slide](../presentation/image/day-path-2023-09-18-18-59-12.png)
+![generate static HTML slide](../../image/day-path-2023-09-18-18-59-12.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=2810) \]
 
 </div>
@@ -108,7 +108,7 @@ Blazor 8 promises to send a “[a normal binary WebAssembly module](https://gith
 
 <div style="text-align:center">
 
-![Webcil slide](../presentation/image/day-path-2023-09-18-19-01-51.png)
+![Webcil slide](../../image/day-path-2023-09-18-19-01-51.png)
 \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=3083) \]
 
 </div>
@@ -119,7 +119,7 @@ Dan demos Blazor sections \[📹 [watch](https://youtu.be/QD2-DwuOfKM?t=3436) \]
 
 <div style="text-align:center">
 
-![additional enhancements slide](../presentation/image/day-path-2023-09-18-19-03-15.png)
+![additional enhancements slide](../../image/day-path-2023-09-18-19-03-15.png)
 
 </div>
 

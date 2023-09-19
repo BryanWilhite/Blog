@@ -1,5 +1,12 @@
 [
   {
+    "extract": "This Visual Studio Live! 2023 video calls out the following highlights: - streaming rendering\napply the @rendermode attribute to Blazor components\nthe “Blazor Web App” template\nRazorComponentResult for ASP.NET MVC❓\nwill a future version of Blazor replace …",
+    "clientId": "2023-09-18-blazor-8-with-dan-roth",
+    "inceptDate": "09/19/2023 01:46:24",
+    "modificationDate": "09/19/2023 01:46:24",
+    "title": "Blazor 8 with Dan Roth"
+  },
+  {
     "extract": "month 08 of 2023 was about virtually finishing the Songhay.Player.ProgressiveAudio project I do not need to talk to myself about “the definition of done.” Yes, Songhay.Player.ProgressiveAudio release 6.0.0” [GitHub] is still incomplete but a major blocker…",
     "clientId": "2023-08-31-studio-status-report-2023-08",
     "inceptDate": "08/31/2023 16:29:54",
