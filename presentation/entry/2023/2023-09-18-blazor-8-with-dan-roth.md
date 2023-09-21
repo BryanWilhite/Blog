@@ -102,6 +102,8 @@ A future version of Blazor components may “generate static <acronym title="Hyp
 
 </div>
 
+See <https://github.com/danroth27/RazorHtmlRendering> and “[Render Razor components outside of ASP.NET Core](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-preview-3/#render-razor-components-outside-of-asp-net-core).”
+
 ## Blazor 8 will stop sending `*.dll` files to the browser
 
 Blazor 8 promises to send a “[a normal binary WebAssembly module](https://github.com/dotnet/runtime/issues/80807)” to the browser by default:
