@@ -1,5 +1,12 @@
 [
   {
+    "extract": "The intent here is to build upon the 2020 version of this subject and move forward toward new definitions and techniques that will work well in my Studio. That 2020 exploration gives us: - the Search Index Entry\nthe Publications Index Entry We will see fr…",
+    "clientId": "2023-09-20-songhay-publications-and-the-concept-of-the-index-2021",
+    "inceptDate": "09/21/2023 02:34:38",
+    "modificationDate": "09/21/2023 02:34:38",
+    "title": "Songhay Publications and the Concept of the Index (2021)"
+  },
+  {
     "extract": "This Visual Studio Live! 2023 video calls out the following highlights: - streaming rendering\napply the @rendermode attribute to Blazor components\nthe “Blazor Web App” template\nRazorComponentResult for ASP.NET MVC❓\nwill a future version of Blazor replace …",
     "clientId": "2023-09-18-blazor-8-with-dan-roth",
     "inceptDate": "09/19/2023 01:46:24",

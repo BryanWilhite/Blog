@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "Songhay Publications and the Concept of the Index (2021)",
-  "documentShortName": "2021-06-28-songhay-publications-and-the-concept-of-the-index-2021",
+  "documentShortName": "2023-09-20-songhay-publications-and-the-concept-of-the-index-2021",
   "fileName": "index.html",
-  "path": "./entry/2021-06-28-songhay-publications-and-the-concept-of-the-index-2021",
-  "date": "2021-06-28T18:38:11.326Z",
-  "modificationDate": "2021-06-28T18:38:11.326Z",
+  "path": "./entry/2023-09-20-songhay-publications-and-the-concept-of-the-index-2021",
+  "date": "2023-09-21T02:34:38.029Z",
+  "modificationDate": "2023-09-21T02:34:38.029Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2021-06-28-songhay-publications-and-the-concept-of-the-index-2021",
+  "clientId": "2023-09-20-songhay-publications-and-the-concept-of-the-index-2021",
   "tag": "{\n  \"extract\": \"The intent here is to build upon the 2020 version of this subject and move forward toward new definitions and techniques that will work well in my Studio. That 2020 exploration gives us: - the Search Index Entry\\nthe Publications Index Entry We will see fr…\"\n}"
 }
 ---
