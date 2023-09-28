@@ -25,7 +25,7 @@ In the [summer of 2022](http://songhayblog.azurewebsites.net/entry/2022-06-26-st
 
 Obsidian Graph View for month 09 suggests how much effort went into the `Songhay.Player.ProgressiveAudio` release:
 
-![Obsidian Graph View](../presentation/image/day-path-2023-09-27-10-11-40.png)
+![Obsidian Graph View](../../image/day-path-2023-09-27-10-11-40.png)
 
 The ‘big day’ of the month (shown above) is the 19<sup>th</sup> when the first draft of “[Songhay Publications and the Concept of the Index (2021)](http://songhayblog.azurewebsites.net/entry/2023-09-20-songhay-publications-and-the-concept-of-the-index-2021/)” was written. The publication of this Blog post is also a huge achievement that was held up in draft mode for over _two_ years! The completion of “[Songhay Publications and the Concept of the Index (2021)](http://songhayblog.azurewebsites.net/entry/2023-09-20-songhay-publications-and-the-concept-of-the-index-2021/)” leads to two major movements in the Studio:
 
