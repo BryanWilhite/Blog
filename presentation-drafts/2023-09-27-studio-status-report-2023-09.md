@@ -5,15 +5,15 @@
   "documentShortName": "2023-09-27-studio-status-report-2023-09",
   "fileName": "index.html",
   "path": "./entry/2023-09-27-studio-status-report-2023-09",
-  "date": "2023-09-27T16:57:54.830Z",
-  "modificationDate": "2023-09-27T16:57:54.830Z",
+  "date": "2023-09-27T16:57:54.83Z",
+  "modificationDate": "2023-09-27T16:57:54.83Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2023-09-27-studio-status-report-2023-09",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 09 of 2023 was about actually finishing the Songhay.Player.ProgressiveAudio project (and dropping LiteDB) In the summer of 2022, I started tracking the Songhay.Player.ProgressiveAudio release 6.0.0” project. After over a year, I can finally report t…\"\n}"
 }
 ---
 
