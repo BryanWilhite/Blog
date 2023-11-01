@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shell", "shell", "{FB36A5BD-3D1B-44E5-86C8-F318F49D6367}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songhay.Publications.Tests", "shell\Songhay.Publications.Tests\Songhay.Publications.Tests.csproj", "{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE7E8F1D-CE75-40F7-A760-D0BF3D5E6E58} = {FB36A5BD-3D1B-44E5-86C8-F318F49D6367}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9512646-D44F-443D-8A94-A21E608A9B41}
+	EndGlobalSection
+EndGlobal
