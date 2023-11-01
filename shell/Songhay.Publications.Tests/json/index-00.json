@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 10 of 2023 was about finding foundational bugs 🐛 in Songhay.Player.ProgressiveAudio (and finally using Redis Cache) No funny banter this month 😐 Issues #13 and #14 are currently holding up the release of the b-roll audio player. These challenges h…",
+    "clientId": "2023-10-31-studio-status-report-2023-10",
+    "inceptDate": "11/01/2023 01:55:02",
+    "modificationDate": "11/01/2023 01:55:02",
+    "title": "studio status report: 2023-10"
+  },
+  {
     "extract": "month 09 of 2023 was about actually finishing the Songhay.Player.ProgressiveAudio project (and dropping LiteDB) In the summer of 2022, I started tracking the Songhay.Player.ProgressiveAudio release 6.0.0” project. After over a year, I can finally report t…",
     "clientId": "2023-09-27-studio-status-report-2023-09",
     "inceptDate": "09/27/2023 16:57:54",

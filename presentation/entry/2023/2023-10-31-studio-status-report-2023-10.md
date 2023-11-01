@@ -23,7 +23,7 @@
 
 No funny banter this month 😐 Issues [#13](https://github.com/BryanWilhite/Songhay.Player.ProgressiveAudio/issues/13) and [#14](https://github.com/BryanWilhite/Songhay.Player.ProgressiveAudio/issues/14) are currently holding up the release of the b-roll audio player. These challenges have emerged in a month that looks like this:
 
-![Obsidian Graph View](../presentation/image/day-path-2023-10-31-19-06-05.png)
+![Obsidian Graph View](../../image/day-path-2023-10-31-19-06-05.png)
 
 The major progress of this month was day-job related: I architected an app feature requiring [Azure Cache for Redis](https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-overview). This work bled into weekends 😵 but was well worth the desired accomplishment! Selected notes below should touch upon this grueling journey:
 
