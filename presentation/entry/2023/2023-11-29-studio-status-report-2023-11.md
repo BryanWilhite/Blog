@@ -37,7 +37,7 @@ To service the day job (and my personal study), I am pleased to see the return o
 
 In addition to the notes above are the usual Obsidian notes. The Obsidian visualization for month 11 is:
 
-![Obsidian visualization for month 11](../presentation/image/day-path-2023-11-29-19-31-54.png)
+![Obsidian visualization for month 11](../../image/day-path-2023-11-29-19-31-54.png)
 
 Selected notes:
 
