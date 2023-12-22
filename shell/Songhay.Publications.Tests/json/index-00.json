@@ -1,5 +1,12 @@
 [
   {
+    "extract": "Azure Web Jobs [📖 docs ] remains the ‘last resort’ when running code in the Microsoft cloud 🌩 When Azure Functions [📖 docs ] cannot run your ‘executable’ (likely because it is a tightly-coupled, vertical stack of cross-boundary asynchronous calls that …",
+    "clientId": "2023-12-22-azure-webjobs-in-2023",
+    "inceptDate": "12/22/2023 17:59:14",
+    "modificationDate": "12/22/2023 17:59:14",
+    "title": "Azure WebJobs in 2023"
+  },
+  {
     "extract": "month 11 of 2023 was about releasing Songhay.Player.ProgressiveAudio and returning to SQL Server Songhay.Player.ProgressiveAudio is released and running on kintespace.com. This release was only ‘half’ of what is needed to completely replace http://kintesp…",
     "clientId": "2023-11-29-studio-status-report-2023-11",
     "inceptDate": "11/30/2023 02:43:13",

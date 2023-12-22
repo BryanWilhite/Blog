@@ -139,7 +139,7 @@ This script would be referenced by the **Agent Job** task in the release pipelin
 
 <div style="text-align:center">
 
-![the Agent Job task in the release pipeline](../presentation/image/day-path-2023-12-22-10-06-51.png)
+![the Agent Job task in the release pipeline](../../image/day-path-2023-12-22-10-06-51.png)
 
 </div>
 
@@ -225,7 +225,7 @@ The Azure Web Jobs <acronym title="Software Development Kit">SDK</acronym> GitHu
 
 <div style="text-align:center">
 
-![settings.job reference](../presentation/image/day-path-2023-12-22-10-09-01.png)
+![settings.job reference](../../image/day-path-2023-12-22-10-09-01.png)
 
 </div>
 
@@ -247,7 +247,7 @@ Now, the _second_ most important Azure Web Jobs setting is the timeout setting i
 
 <div style="text-align:center">
 
-![database connection strings](../presentation/image/day-path-2023-12-22-10-10-50.png)
+![database connection strings](../../image/day-path-2023-12-22-10-10-50.png)
 
 </div>
 \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection.connectionstring?view=dotnet-plat-ext-8.0#remarks) \]
@@ -260,9 +260,9 @@ The <acronym title="User Experience">UX</acronym> in the Azure Portal is _not_ m
 
 <div style="text-align:center">
 
-![Azure Portal > System Assigned MI](../presentation/image/day-path-2023-12-22-10-12-26.png)
+![Azure Portal > System Assigned MI](../../image/day-path-2023-12-22-10-12-26.png)
 
-![Azure Portal > User Assigned MI](../presentation/image/day-path-2023-12-22-10-13-16.png)
+![Azure Portal > User Assigned MI](../../image/day-path-2023-12-22-10-13-16.png)
 
 </div>
 
@@ -280,7 +280,7 @@ Note that, for Microsoft SQL Server]], the `Authentication` value depends (sadly
 
 <div style="text-align:center">
 
-![Setting Microsoft Entra authentication](../presentation/image/day-path-2023-12-22-10-14-31.png)
+![Setting Microsoft Entra authentication](../../image/day-path-2023-12-22-10-14-31.png)
 
 </div>
 \[📖 [docs](https://learn.microsoft.com/en-us/sql/connect/ado-net/sql/azure-active-directory-authentication?view=sql-server-ver16#setting-microsoft-entra-authentication) \]
