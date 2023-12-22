@@ -250,6 +250,7 @@ Now, the _second_ most important Azure Web Jobs setting is the timeout setting i
 ![database connection strings](../../image/day-path-2023-12-22-10-10-50.png)
 
 </div>
+
 \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection.connectionstring?view=dotnet-plat-ext-8.0#remarks) \]
 
 Because Azure Functions is based on Azure Web Jobs]], this setting, `WEBJOBS_IDLE_TIMEOUT`, has the same use and importance in Azure Functions]].
@@ -283,6 +284,7 @@ Note that, for Microsoft SQL Server]], the `Authentication` value depends (sadly
 ![Setting Microsoft Entra authentication](../../image/day-path-2023-12-22-10-14-31.png)
 
 </div>
+
 \[📖 [docs](https://learn.microsoft.com/en-us/sql/connect/ado-net/sql/azure-active-directory-authentication?view=sql-server-ver16#setting-microsoft-entra-authentication) \]
 
 For Entity Framework users, the version of `Microsoft.Data.SqlClient` in use is determined by the version of Entity Framework in use 😐
