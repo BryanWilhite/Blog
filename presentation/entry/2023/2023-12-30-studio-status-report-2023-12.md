@@ -30,7 +30,7 @@ And `Songhay.Modules` release 6.4.0 📦🚀 [[GitHub](https://github.com/users/
 
 The Obsidian graph of this month is much smaller than previous months:
 
-![Obsidian graph of this month](../presentation/image/day-path-2023-12-30-12-06-59.png)
+![Obsidian graph of this month](../../image/day-path-2023-12-30-12-06-59.png)
 
 The smaller size should be due to me dialing down major day-job discoveries. This month only has one major discovery: a renewal of interest in Azure WebJobs (which I defiantly write as _Azure Web Jobs_). I have dedicated an entire Blog post, “[Azure WebJobs in 2023](http://songhayblog.azurewebsites.net/entry/2023-12-22-azure-webjobs-in-2023),” to this renewal.
 
