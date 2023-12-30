@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 12 of 2023 was about releasing Songhay.Modules 6.40 and refreshing knowledge of Azure WebJobs As mentioned last month, the other ‘half’ needed to completely replace <http://kintespace.com/player.html> includes: - Songhay.Modules.Bolero release 6.4.0 […",
+    "clientId": "2023-12-30-studio-status-report-2023-12",
+    "inceptDate": "12/30/2023 19:27:11",
+    "modificationDate": "12/30/2023 19:27:11",
+    "title": "studio status report: 2023-12"
+  },
+  {
     "extract": "Azure Web Jobs [📖 docs ] remains the ‘last resort’ when running code in the Microsoft cloud 🌩 When Azure Functions [📖 docs ] cannot run your ‘executable’ (likely because it is a tightly-coupled, vertical stack of cross-boundary asynchronous calls that …",
     "clientId": "2023-12-22-azure-webjobs-in-2023",
     "inceptDate": "12/22/2023 17:59:14",

@@ -5,15 +5,15 @@
   "documentShortName": "2023-12-30-studio-status-report-2023-12",
   "fileName": "index.html",
   "path": "./entry/2023-12-30-studio-status-report-2023-12",
-  "date": "2023-12-30T19:27:11.060Z",
-  "modificationDate": "2023-12-30T19:27:11.060Z",
+  "date": "2023-12-30T19:27:11.06Z",
+  "modificationDate": "2023-12-30T19:27:11.06Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2023-12-30-studio-status-report-2023-12",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 12 of 2023 was about releasing Songhay.Modules 6.40 and refreshing knowledge of Azure WebJobs As mentioned last month, the other ‘half’ needed to completely replace <http://kintespace.com/player.html> includes: - Songhay.Modules.Bolero release 6.4.0 […\"\n}"
 }
 ---
 
