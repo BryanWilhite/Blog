@@ -1,5 +1,12 @@
 [
   {
+    "extract": "Here, in my Studio, a “technical Blog” is simply a series of posts about a set of interests. Traditionally this set of interests is focused and coherent—but oftentimes too broad. I recall sending an email to Carl Franklin last century (before the inventio…",
+    "clientId": "2024-01-07-my-studio-feature-set-for-2024",
+    "inceptDate": "01/08/2024 03:16:47",
+    "modificationDate": "01/08/2024 03:16:47",
+    "title": "my Studio feature set for 2024"
+  },
+  {
     "extract": "month 12 of 2023 was about releasing Songhay.Modules 6.40 and refreshing knowledge of Azure WebJobs As mentioned last month, the other ‘half’ needed to completely replace <http://kintespace.com/player.html> includes: - Songhay.Modules.Bolero release 6.4.0 […",
     "clientId": "2023-12-30-studio-status-report-2023-12",
     "inceptDate": "12/30/2023 19:27:11",

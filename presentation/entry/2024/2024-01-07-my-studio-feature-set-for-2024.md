@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "my Studio feature set for 2024",
-  "documentShortName": "2024-01-03-my-studio-feature-set-for-2024",
+  "documentShortName": "2024-01-07-my-studio-feature-set-for-2024",
   "fileName": "index.html",
-  "path": "./entry/2024-01-03-my-studio-feature-set-for-2024",
-  "date": "2024-01-04T03:47:44.907Z",
-  "modificationDate": "2024-01-04T03:47:44.907Z",
+  "path": "./entry/2024-01-07-my-studio-feature-set-for-2024",
+  "date": "2024-01-08T03:16:47.337Z",
+  "modificationDate": "2024-01-08T03:16:47.337Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2024-01-03-my-studio-feature-set-for-2024",
+  "clientId": "2024-01-07-my-studio-feature-set-for-2024",
   "tag": "{\n  \"extract\": \"Here, in my Studio, a “technical Blog” is simply a series of posts about a set of interests. Traditionally this set of interests is focused and coherent—but oftentimes too broad. I recall sending an email to Carl Franklin last century (before the inventio…\"\n}"
 }
 ---
