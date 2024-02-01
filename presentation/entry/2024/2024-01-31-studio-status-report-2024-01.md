@@ -32,7 +32,7 @@ Completion of these projects should lead directly into the “proposed project i
 
 My Obsidian graph for month 01 reveals just how much Microsoft dominates my “second brain”:
 
-![Obsidian graph for month 01](../presentation/image/day-path-2024-01-31-19-36-59.png)
+![Obsidian graph for month 01](../../image/day-path-2024-01-31-19-36-59.png)
 
 Selected Obsidian notes for month 01:
 
