@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2024-02-29-studio-status-report-2024-02",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 02 of 2024 was about releasing Songhay.Player.YouTube release 6.3.0 📦🚀 It is almost totally awesome that the Songhay.Player.YouTube release 6.3.0 📦🚀 project was completed in month 02. But, as the developer story goes, there is still more shit to…\"\n}"
 }
 ---
 
@@ -25,7 +25,7 @@ It is almost totally awesome that the `Songhay.Player.YouTube` release 6.3.0 �
 
 I likely forgot because there was so much going on for me in month 02 as the Obsidian graph shows:
 
-![the Obsidian graph for month 02](../presentation/image/day-path-2024-02-29-18-51-57.png)
+![the Obsidian graph for month 02](../../image/day-path-2024-02-29-18-51-57.png)
 
 Inside of the tangle above are some selected notes:
 
@@ -302,6 +302,7 @@ The current, unfinished public projects on GitHub:
 - replacing the Angular app in `http://kintespace.com/player.html` with a Bolero app 🚜🔥 depends on:
 
   - ~~starting the `Songhay.Player.YouTube` release 6.3.0 📦🚀 [project](https://github.com/users/BryanWilhite/projects/25)~~
+  - starting the `Songhay.Player.YouTube` release 6.3.1 📦🚀 [project](https://github.com/users/BryanWilhite/projects/29)
 - start the “`Songhay.Publications.Models` 6.0.0” 📦🚀 [project](https://github.com/users/BryanWilhite/projects/23/views/1)
 - completing the `Songhay.Publications` 6.1.0 📦🚀 [project](https://github.com/users/BryanWilhite/projects/24)
 
