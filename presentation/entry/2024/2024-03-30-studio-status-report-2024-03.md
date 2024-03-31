@@ -25,7 +25,7 @@ As of this writing, there is only one task left on the `Songhay.Player.YouTube` 
 
 My Obsidian “second brain” is really helping this Studio to function and move forward:
 
-![Obsidian second brain](../presentation/image/day-path-2024-03-30-16-50-51.png)
+![Obsidian second brain](../../image/day-path-2024-03-30-16-50-51.png)
 
 Selected notes from month 03:
 
