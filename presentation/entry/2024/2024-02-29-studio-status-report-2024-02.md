@@ -21,7 +21,7 @@
 
 ## month 02 of 2024 was about releasing `Songhay.Player.YouTube` release 6.3.0 📦🚀
 
-It is almost totally awesome that the `Songhay.Player.YouTube` release 6.3.0 📦🚀 [project](https://github.com/users/BryanWilhite/projects/25) was completed in month 02. But, as the developer story goes, there is still more shit to do: I need to add the Presentation player that is currently used on kintespace.com to present curated stuff like my “[blacktronic collection](http://kintespace.com/player.html#/video/youtube/presentation/blacktronic0).” Yet another project for `Songhay.Player.YouTube` will be needed as I simplt forgot to include this work in the last project 😐
+It is almost totally awesome that the `Songhay.Player.YouTube` release 6.3.0 📦🚀 [project](https://github.com/users/BryanWilhite/projects/25) was completed in month 02. But, as the developer story goes, there is still more shit to do: I need to add the Presentation player that is currently used on kintespace.com to present curated stuff like my “[blacktronic collection](http://kintespace.com/player.html#/video/youtube/presentation/blacktronic0).” Yet another project for `Songhay.Player.YouTube` will be needed as I simply forgot to include this work in the last project 😐
 
 I likely forgot because there was so much going on for me in month 02 as the Obsidian graph shows:
 
