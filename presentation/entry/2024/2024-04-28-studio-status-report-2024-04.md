@@ -27,7 +27,7 @@ But first, here is what month 04 looked like:
 
 <div style="text-align:center">
 
-![month 04 Obsidian graph](../presentation/image/day-path-2024-04-28-18-50-22.png)
+![month 04 Obsidian graph](../../image/day-path-2024-04-28-18-50-22.png)
 
 </div>
 
@@ -39,7 +39,7 @@ This situation was made out of haste:
 
 <div style="text-align:center">
 
-![my `Option.ofResult` anti-pattern](../presentation/image/day-path-2024-04-28-18-58-04.png)
+![my `Option.ofResult` anti-pattern](../../image/day-path-2024-04-28-18-58-04.png)
 
 </div>
 
@@ -75,7 +75,7 @@ The `ShouldThrowCsvParseException` test does _not_ throw an exception (but it sh
 
 <div style="text-align:center">
 
-![JetBrains Rider screenshot](../presentation/image/day-path-2024-04-28-19-01-18.png)
+![JetBrains Rider screenshot](../../image/day-path-2024-04-28-19-01-18.png)
 
 </div>
 
@@ -118,7 +118,7 @@ This whitespace issue has been quite pervasive. In “[Dealing with extra white 
 
 <div style="text-align:center">
 
-![JetBrains Rider screenshot](../presentation/image/day-path-2024-04-28-19-05-46.png)
+![JetBrains Rider screenshot](../../image/day-path-2024-04-28-19-05-46.png)
 
 </div>
 
@@ -172,7 +172,7 @@ In Songhay Player - YouTube (F♯), I have lost about two weeks with this allege
 
 <div style="text-align:center">
 
-![alleged bug screenshot](../presentation/image/day-path-2024-04-28-19-14-43.png)
+![alleged bug screenshot](../../image/day-path-2024-04-28-19-14-43.png)
 
 </div>
 
@@ -223,7 +223,7 @@ The tab experience in this Studio is _the foundation_ of the Songhay Studio Floo
 
 <div style="text-align:center">
 
-![Studio Floor screenshot](../presentation/image/day-path-2024-04-28-19-19-48.png)
+![Studio Floor screenshot](../../image/day-path-2024-04-28-19-19-48.png)
 
 </div>
 
@@ -231,7 +231,7 @@ However, _for months_ I have failed to notice that tabbing over to **README** an
 
 <div style="text-align:center">
 
-![Studio Floor screenshot of hot garbage](../presentation/image/day-path-2024-04-28-19-20-42.png)
+![Studio Floor screenshot of hot garbage](../../image/day-path-2024-04-28-19-20-42.png)
 
 </div>
 
@@ -352,7 +352,7 @@ This `ElmishComponentHtmlRefPolicy` type make this clarity possible:
 
 <div style="text-align:center">
 
-![the `ElmishComponentHtmlRefPolicy` type](../presentation/image/day-path-2024-04-28-19-28-51.png)
+![the `ElmishComponentHtmlRefPolicy` type](../../image/day-path-2024-04-28-19-28-51.png)
 
 </div>
 

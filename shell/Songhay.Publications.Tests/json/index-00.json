@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 03 of 2024 was about finally completing Songhay.Player.YouTube release 6.3.1 📦🚀 Songhay.Player.YouTube 6.3.1 was released but it was immediately followed by release 6.3.2 because of a bug 🐛 related to the tabbing experience revealed in the Studio…",
+    "clientId": "2024-04-28-studio-status-report-2024-04",
+    "inceptDate": "04/28/2024 19:48:38",
+    "modificationDate": "04/28/2024 19:48:38",
+    "title": "studio status report: 2024-04"
+  },
+  {
     "extract": "month 03 of 2024 was about Songhay.Player.YouTube release 6.3.1 📦🚀 As of this writing, there is only one task left on the Songhay.Player.YouTube project for release 6.3.1. This places the Studio very, very close to replacing the Angular app in…",
     "clientId": "2024-03-30-studio-status-report-2024-03",
     "inceptDate": "03/30/2024 23:28:12",
