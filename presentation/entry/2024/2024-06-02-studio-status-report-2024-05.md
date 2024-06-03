@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2024-06-02-studio-status-report-2024-05",
-  "tag": "{\n  \"extract\": \"\"\n}"
+  "tag": "{\n  \"extract\": \"month 05 of 2024 was about not releasing the new YouTube b-roll player on kintespace.com This month-05 report is late because of day-job drama around meeting deadlines. The day-job is back in the foreground as it plays a significant role in an upcoming St…\"\n}"
 }
 ---
 
@@ -35,7 +35,7 @@ My serious work with the .NET Generic Host helped me to finally see what is so f
 
 <div style="text-align:center">
 
-![Obsidian Graph View](../presentation/image/day-path-2024-06-02-20-03-41.png)
+![Obsidian Graph View](../../image/day-path-2024-06-02-20-03-41.png)
 
 </div>
 
@@ -114,7 +114,7 @@ if ($null -eq $azContext) {
 
 `Get-AzStorageBlob` supports wildcards while `az storage blob download-batch` has to be called for this case instead of just `az storage blob download`:
 
-![comparing two *.ps1 files](../presentation/image/day-path-2024-06-02-20-12-34.png)
+![comparing two *.ps1 files](../../image/day-path-2024-06-02-20-12-34.png)
 
 However, both `az storage blob download*` commands expect to write directly to disk while `Get-AzStorageBlob` needs `Get-AzStorageBlobContent` piped in for this.
 

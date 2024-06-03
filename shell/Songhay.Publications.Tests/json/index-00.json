@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 05 of 2024 was about not releasing the new YouTube b-roll player on kintespace.com This month-05 report is late because of day-job drama around meeting deadlines. The day-job is back in the foreground as it plays a significant role in an upcoming St…",
+    "clientId": "2024-06-02-studio-status-report-2024-05",
+    "inceptDate": "06/03/2024 01:59:58",
+    "modificationDate": "06/03/2024 01:59:58",
+    "title": "studio status report: 2024-05"
+  },
+  {
     "extract": "month 03 of 2024 was about finally completing Songhay.Player.YouTube release 6.3.1 📦🚀 Songhay.Player.YouTube 6.3.1 was released but it was immediately followed by release 6.3.2 because of a bug 🐛 related to the tabbing experience revealed in the Studio…",
     "clientId": "2024-04-28-studio-status-report-2024-04",
     "inceptDate": "04/28/2024 19:48:38",
