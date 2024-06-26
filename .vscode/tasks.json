@@ -144,8 +144,9 @@
                 "command": "dotnet",
                 "args": [
                     "~/appRoot/songhay/publications/Songhay.Publications.Shell.dll",
+                    "--activity-name",
                     "SearchIndexActivity",
-                    "--base-path",
+                    "--base-directory",
                     "${workspaceFolder}/shell",
                     "--settings-file",
                     "${fileBasename}"
@@ -154,8 +155,9 @@
             "windows": {
                 "command": "Songhay.Publications.Shell",
                 "args": [
+                    "--activity-name",
                     "SearchIndexActivity",
-                    "--base-path",
+                    "--base-directory",
                     "${workspaceFolder}\\shell",
                     "--settings-file",
                     "${fileBasename}"
@@ -173,8 +175,9 @@
                 "command": "dotnet",
                 "args": [
                     "~/appRoot/songhay/publications/Songhay.Publications.Shell.dll",
+                    "--activity-name",
                     "MarkdownEntryActivity",
-                    "--base-path",
+                    "--base-directory",
                     "${workspaceFolder}/shell",
                     "--settings-file",
                     "${fileBasename}"
@@ -183,8 +186,9 @@
             "windows": {
                 "command": "Songhay.Publications.Shell",
                 "args": [
+                    "--activity-name",
                     "MarkdownEntryActivity",
-                    "--base-path",
+                    "--base-directory",
                     "${workspaceFolder}\\shell",
                     "--settings-file",
                     "${fileBasename}"
