@@ -2,17 +2,17 @@
 {
   "documentId": 0,
   "title": "studio status report: 2024-06",
-  "documentShortName": "2024-06-25-studio-status-report-2024-06",
+  "documentShortName": "2024-06-26-studio-status-report-2024-06",
   "fileName": "index.html",
-  "path": "./entry/2024-06-25-studio-status-report-2024-06",
-  "date": "2024-06-25T22:28:25.723Z",
-  "modificationDate": "2024-06-25T22:28:25.723Z",
+  "path": "./entry/2024-06-26-studio-status-report-2024-06",
+  "date": "2024-06-26T22:40:28.070Z",
+  "modificationDate": "2024-06-26T22:40:28.070Z",
   "templateId": 0,
   "segmentId": 0,
   "isRoot": false,
   "isActive": true,
   "sortOrdinal": 0,
-  "clientId": "2024-06-25-studio-status-report-2024-06",
+  "clientId": "2024-06-26-studio-status-report-2024-06",
   "tag": "{\n  \u0022extract\u0022: \u0022month 05 of 2024 was about releasing the new YouTube b-roll player on kintespace.com and restarting work on Songhay Publications The Obsidian graph for this month is even more tangled because I have added Studio topics to the mix:  Obsidian graph for this\\u2026\u0022\n}"
 }
 ---
@@ -25,7 +25,7 @@ The Obsidian graph for this month is even more tangled because I have added Stud
 
 <div style="text-align:center">
 
-![Obsidian graph for this month](../presentation/image/day-path-2024-06-26-21-58-33.png)
+![Obsidian graph for this month](../../image/day-path-2024-06-26-21-58-33.png)
 
 </div>
 
@@ -33,7 +33,7 @@ The `Songhay Publications - KinteSpace` topic has literally been turned on 💡,
 
 <div style="text-align:center">
 
-![Obsidian graph for this month with `Songhay Publications - KinteSpace` topic](../presentation/image/day-path-2024-06-26-21-59-50.png)
+![Obsidian graph for this month with `Songhay Publications - KinteSpace` topic](../../image/day-path-2024-06-26-21-59-50.png)
 
 </div>
 
