@@ -19,7 +19,7 @@
 
 # studio status report: 2024-06
 
-## month 05 of 2024 was about releasing the new YouTube b-roll player on kintespace.com and restarting work on Songhay Publications
+## month 06 of 2024 was about releasing the new YouTube b-roll player on kintespace.com and restarting work on Songhay Publications
 
 The Obsidian graph for this month is even more tangled because I have added Studio topics to the mix:
 
