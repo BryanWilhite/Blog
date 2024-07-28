@@ -23,7 +23,7 @@
 
 The Obsidian graph for this month looks very much like ‘too many’ interesting advances:
 
-![Obsidian graph for this month](../presentation/image/day-path-2024-07-28-13-35-46.png)
+![Obsidian graph for this month](../../image/day-path-2024-07-28-13-35-46.png)
 
 I have opened the `Songhay.Publications.DataAccess` namespace which introduces modern, “code-first” Entity Framework _accretive_ migrations to my Studio. There is a `Publications.db` SQLite file that will track the Songhay Publications Index for kintespace.com. This is data that will back the Songhay Index Bolero app (`Songhay.Modules.Bolero.Index`❓) that is proposed below (see “sketching out development projects”). Notes below will go into detail on this (and a full Blog post is proposed).
 
@@ -39,7 +39,7 @@ Now that a substantial amount of ignorance around [[Entity Framework]] has (fina
 
 It all boils down to this relative path, `"../../../../db/Publications.db"`:
 
-![PublicationsDbContextFactory](../presentation/image/day-path-2024-07-28-14-21-33.png)
+![PublicationsDbContextFactory](../../image/day-path-2024-07-28-14-21-33.png)
 
 Today, the suggestion is that this relative path to `Publications.db` should be replaced with an absolute path and stored in a conventional environment variable, say, `SONGHAY_PUBLICATIONS_DB_PATH`.
 
@@ -68,7 +68,7 @@ Partner Software Engineer at Microsoft, Steven Toub, proposed this [in 2022](htt
 
 The Publications `/11ty` directory represents the experiment to combine an [[Obsidian]] vault and an [[eleventy]] generator:
 
-![Publications `/11ty` directory](../presentation/image/day-path-2024-07-28-14-25-01.png)
+![Publications `/11ty` directory](../../image/day-path-2024-07-28-14-25-01.png)
 
 - [[eleventy]] will write static <acronym title="HyperText Markup Language">HTML</acronym> to the `/app-staging` directory
 - the [[eleventy]] `/_data` directory will use static <acronym title="JavaScript Object Notation">JSON</acronym>, generated from a [[SQLite]] database in the `/db` directory (for now)
@@ -79,7 +79,7 @@ Now, the `/shell` folder might have ‘limited use’ because of setting up a te
 
 Only that `rasx57.md` ‘draft’ shows up in [[Obsidian]]:
 
-![`rasx57.md` ‘draft’ in Obsidian](../presentation/image/day-path-2024-07-28-14-25-59.png)
+![`rasx57.md` ‘draft’ in Obsidian](../../image/day-path-2024-07-28-14-25-59.png)
 
 - [[Obsidian]] might force me to convert <acronym title="JavaScript Object Notation">JSON</acronym> front matter to <acronym title="YAML Ain’t Markup Language">YAML</acronym>
 - the front matter for [[Markdown]] files under `/poetry` could get complicated
@@ -92,7 +92,7 @@ Welcome to the publishing business!
 
 Today, I ‘officially’ recognize that something like [[YamlDotNet]] is needed (even though it does not yet support [[dotnet|.NET 8.0]]—but does support `netstandard 2.x`):
 
-![YamlDotNet on GitHub](../presentation/image/day-path-2024-07-28-14-27-45.png)
+![YamlDotNet on GitHub](../../image/day-path-2024-07-28-14-27-45.png)
 <https://github.com/aaubry/YamlDotNet>
 
 This ‘official’ recognition is important because the editing experience planned for [[Obsidian]] will require saving document front matter as <acronym title="YAML Ain’t Markup Language">YAML</acronym> instead of <acronym title="JavaScript Object Notation">JSON</acronym>.
@@ -231,20 +231,20 @@ The [Shell commands plugin for Obsidian](https://github.com/Taitava/obsidian-she
 
 In our conventional `*ProgramComponent`, we have two things to express to establish this `IServiceProvider`-`ServiceProviderUtility` pattern:
 
-![`IServiceProvider`-`ServiceProviderUtility` pattern](../presentation/image/day-path-2024-07-28-14-39-08.png)
+![`IServiceProvider`-`ServiceProviderUtility` pattern](../../image/day-path-2024-07-28-14-39-08.png)
 
 1. inject `IServiceProvider`
 2. `initialize` the exposure of `IServiceProvider` with `ServiceProviderUtility.setBlazorServiceProvider`
 
 The `initialize` function:
 
-![`initialize` function](../presentation/image/day-path-2024-07-28-14-40-02.png)
+![`initialize` function](../../image/day-path-2024-07-28-14-40-02.png)
 
 Line 15 (above) calls `setBlazorServiceProvider`.
 
 Once `IServiceProvider` is initialized, F♯ modules can reference provided services like this:
 
-![ProgramComponentUtility](../presentation/image/day-path-2024-07-28-14-40-42.png)
+![ProgramComponentUtility](../../image/day-path-2024-07-28-14-40-42.png)
 
 >[!important]
 >This approach eliminates the the artificial barrier between <acronym title="Functional Programming">FP</acronym> and <acronym title="Object Oriented Programming">OOP</acronym> when we think of the availability of [[Blazor]] services.
@@ -253,7 +253,7 @@ Once `IServiceProvider` is initialized, F♯ modules can reference provided serv
 
 [[dotnet|.NET]] 2.x being called from `DotNetCoreCLI@2` _could_ have compiled my ‘modern’ [[dotnet|.NET 6.0]] code. The problem was not solved by rewriting my <acronym title="YAML Ain’t Markup Language">YAML</acronym> scripts (which is still useful in general). The problem was that, again, I forgot about this shit:
 
-![CssScopes.fs](../presentation/image/day-path-2024-07-28-14-44-39.png)
+![CssScopes.fs](../../image/day-path-2024-07-28-14-44-39.png)
 
 This code needs to be auto-generated so it can ensure a unique string like `"b-ymt7kfc0gq"` is generated so the [[Blazor]] <acronym title="Cascading Style Sheets">CSS</acronym> scope will be uniquely identified.
 
