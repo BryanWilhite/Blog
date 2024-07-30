@@ -253,7 +253,7 @@ Now, the _second_ most important Azure Web Jobs setting is the timeout setting i
 
 \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection.connectionstring?view=dotnet-plat-ext-8.0#remarks) \]
 
-Because Azure Functions is based on Azure Web Jobs]], this setting, `WEBJOBS_IDLE_TIMEOUT`, has the same use and importance in Azure Functions]].
+Because Azure Functions is based on Azure Web Jobs, this setting, `WEBJOBS_IDLE_TIMEOUT`, has the same use and importance in Azure Functions.
 
 ## yes, _one_ app service can have system-assigned _and_ user-assigned <acronym title="Managed Identity">MI</acronym>s _simultaneously_
 
@@ -267,7 +267,7 @@ The <acronym title="User Experience">UX</acronym> in the Azure Portal is _not_ m
 
 </div>
 
-The portal allows us to enable a system-assigned <acronym title="Managed Identity">MI</acronym> _and_ allows us to add multiple user-assign <acronym title="Managed Identity">MI</acronym>s—because _one_ app service can have _multiple_ ASP.NET applications and _multiple_ Azure Web Jobs connecting to multiple ‘external’ resources (like a database). It makes sense to have a shared, user-assigned <acronym title="Managed Identity">MI</acronym> for a database and a system-assigned <acronym title="Managed Identity">MI</acronym> might be used for authentication purposes.
+The portal allows us to enable a system-assigned <acronym title="Managed Identity">MI</acronym> _and_ allows us to add multiple user-assigned <acronym title="Managed Identity">MI</acronym>s—because _one_ app service can have _multiple_ ASP.NET applications and _multiple_ Azure Web Jobs connecting to multiple ‘external’ resources (like a database). It makes sense to have a shared, user-assigned <acronym title="Managed Identity">MI</acronym> for a database and a system-assigned <acronym title="Managed Identity">MI</acronym> might be used for authentication purposes.
 
 The database connection string can refer to the user-assigned <acronym title="Managed Identity">MI</acronym> like this:
 
@@ -277,7 +277,7 @@ Server=...;Database=...;Authentication=Active Directory Managed Identity;User Id
 
 …where `00000000-0000-0000-000000000000` is the **Object (principal) ID** of the <acronym title="Managed Identity">MI</acronym>.
 
-Note that, for Microsoft SQL Server]], the `Authentication` value depends (sadly) on the version of `Microsoft.Data.SqlClient` in use. For details, see “[Setting Microsoft Entra authentication](https://learn.microsoft.com/en-us/sql/connect/ado-net/sql/azure-active-directory-authentication?view=sql-server-ver16#setting-microsoft-entra-authentication)”:
+Note that, for Microsoft SQL Server, the `Authentication` value depends (sadly) on the version of `Microsoft.Data.SqlClient` in use. For details, see “[Setting Microsoft Entra authentication](https://learn.microsoft.com/en-us/sql/connect/ado-net/sql/azure-active-directory-authentication?view=sql-server-ver16#setting-microsoft-entra-authentication)”:
 
 <div style="text-align:center">
 
