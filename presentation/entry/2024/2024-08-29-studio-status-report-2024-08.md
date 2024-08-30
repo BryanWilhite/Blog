@@ -27,7 +27,7 @@ The Obsidian graph of my Studio notes shows the biggest light-colored circles of
 
 <div style="text-align:center">
 
-![Obsidian graph of my Studio notes](../presentation/image/day-path-2024-08-29-19-50-22.png)
+![Obsidian graph of my Studio notes](../../image/day-path-2024-08-29-19-50-22.png)
 
 </div>
 
@@ -116,7 +116,7 @@ We have (for text-based Publications):
 
 <div style="text-align:center">
 
-![Obsidian front matter](../presentation/image/day-path-2024-08-29-20-05-59.png)
+![Obsidian front matter](../../image/day-path-2024-08-29-20-05-59.png)
 
 </div>
 
@@ -126,7 +126,7 @@ When we view <http://kintespace.com/kp_aharone21.html> we see document `13013`, 
 
 <div style="text-align:center">
 
-![document `13013`](../presentation/image/day-path-2024-08-29-20-09-42.png)
+![document `13013`](../../image/day-path-2024-08-29-20-09-42.png)
 
 </div>
 
@@ -137,7 +137,7 @@ The original `Fragment` for `9992` is preserved in the [[Songhay Azure Storage M
 
 <div style="text-align:center">
 
-![original `Fragment` for `9992`](../presentation/image/day-path-2024-08-29-20-10-56.png)
+![original `Fragment` for `9992`](../../image/day-path-2024-08-29-20-10-56.png)
 
 </div>
 
