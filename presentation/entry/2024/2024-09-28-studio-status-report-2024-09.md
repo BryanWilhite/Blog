@@ -30,7 +30,7 @@ NuGet [package](https://www.nuget.org/packages/Songhay.DataAccess) `Songhay.Data
 
 <div style="text-align:center">
 
-![Obsidian graph of my Studio notes](../presentation/image/day-path-2024-09-28-15-16-11.png)
+![Obsidian graph of my Studio notes](../../image/day-path-2024-09-28-15-16-11.png)
 
 </div>
 
@@ -55,7 +55,7 @@ This video does a great job explaining how to use custom classes that implement 
 
 <div style="text-align:center">
 
-![StackOverflow answer](../presentation/image/day-path-2024-09-28-15-55-13.png)
+![StackOverflow answer](../../image/day-path-2024-09-28-15-55-13.png)
 
 </div>
 
@@ -80,7 +80,7 @@ Looks like [[2024-08-12#Songhay Publications - KinteSpace kintespace.com `p_aja_
 
 <div style="text-align:center">
 
-![VSCode and GitHub lens](../presentation/image/day-path-2024-09-28-16-00-18.png)
+![VSCode and GitHub lens](../../image/day-path-2024-09-28-16-00-18.png)
 
 </div>
 
@@ -131,7 +131,7 @@ The [[Jupyter|Jupyter Notebook]] world provides exactly what I am looking for, a
 
 <div style="text-align:center">
 
-![GIF UI in Jupyter notebook](../presentation/image/day-path-2024-09-28-16-06-02.png)
+![GIF UI in Jupyter notebook](../../image/day-path-2024-09-28-16-06-02.png)
 
 </div>
 
@@ -202,7 +202,7 @@ The uncomfortable design of `.GetReader` makes the disposal of `IDbCommand` on l
 
 <div style="text-align:center">
 
-![`GetReader` method](../presentation/image/day-path-2024-09-28-16-11-27.png)
+![`GetReader` method](../../image/day-path-2024-09-28-16-11-27.png)
 
 </div>
 
