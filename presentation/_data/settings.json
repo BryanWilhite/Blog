@@ -16,14 +16,14 @@
     "feed": {
         "filename": "feed.xml",
         "path": "/entry/feed.xml",
-        "uri": "http://songhayblog.azurewebsites.net/entry/feed.xml",
-        "id": "http://songhayblog.azurewebsites.net/"
+        "uri": "https://songhayblog.azurewebsites.net/entry/feed.xml",
+        "id": "https://songhayblog.azurewebsites.net/"
     },
     "siteName": "Day Path",
     "sitePagination": {
         "size": 100
     },
-    "uri": "http://songhayblog.azurewebsites.net/",
+    "uri": "https://songhayblog.azurewebsites.net/",
     "uriCompany": "http://songhaysystem.com/",
     "uriLogo": "https://songhaystorage.blob.core.windows.net/studio-public/songhay_icon.png"
 }
