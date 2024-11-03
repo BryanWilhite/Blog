@@ -25,7 +25,7 @@ It is factually incorrect for me to say that Google ‘forced’ me to switch on
 
 <div style="text-align:center">
 
-![the Obsidian graph view of the month](../presentation/image/day-path-2024-11-01-21-31-37.png)
+![the Obsidian graph view of the month](../../image/day-path-2024-11-01-21-31-37.png)
 
 </div>
 
@@ -42,7 +42,7 @@ This looks like technical activism at its best:
 
 <div style="text-align:center">
 
-![certbot.eff.org](../presentation/image/day-path-2024-11-01-23-09-17.png)
+![certbot.eff.org](../../image/day-path-2024-11-01-23-09-17.png)
 <https://certbot.eff.org/>
 
 </div>
@@ -170,7 +170,7 @@ The [[Songhay Player - YouTube (F♯)]] is failing on staging:
 
 <div style="text-align:center">
 
-![Firefox dev tools](../presentation/image/day-path-2024-11-01-23-22-00.png)
+![Firefox dev tools](../../image/day-path-2024-11-01-23-22-00.png)
 
 </div>
 
@@ -189,7 +189,7 @@ I am surprised to find that it is difficult to find a published study on `Querya
 
 <div style="text-align:center">
 
-![LINQ query](../presentation/image/day-path-2024-11-01-23-28-25.png)
+![LINQ query](../../image/day-path-2024-11-01-23-28-25.png)
 
 </div>
 

@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 10 of 2024 was about switching the Studio over to HTTPS \uD83D\uDD12\u2728 and getting day-job lessons about calculating diffs \uD83D\uDC07\uD83D\uDD73\uFE0F It is factually incorrect for me to say that Google \u2018forced\u2019 me to switch one of my Studio publications, kintespace.com, over to HT\u2026",
+    "clientId": "2024-11-01-studio-status-report-2024-10",
+    "inceptDate": "2024-11-01T21:11:44.117Z",
+    "modificationDate": "2024-11-01T21:11:44.117Z",
+    "title": "studio status report: 2024-10"
+  },
+  {
     "extract": "month 09 of 2024 was about the first Songhay.DataAccess release in over three years and completing the migration to markdown for Songhay.Publications.KinteSpace NuGet package Songhay.DataAccess was updated to the .NET 6.0 time-frame this Studio is living \u2026",
     "clientId": "2024-09-28-studio-status-report-2024-09",
     "inceptDate": "2024-09-28T14:49:37.749Z",
