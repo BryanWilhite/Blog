@@ -25,7 +25,7 @@ The Obsidian graph for month 11 does not show any sign of the Typescript and Ler
 
 <div style="text-align:center">
 
-![Obsidian graph for month 11](../presentation/image/day-path-2024-11-29-22-49-50.png)
+![Obsidian graph for month 11](../../image/day-path-2024-11-29-22-49-50.png)
 
 </div>
 
@@ -33,7 +33,7 @@ Lerna notes are spread out among three days:
 
 <div style="text-align:center">
 
-![Obsidian graph for month 11, highlighting Lerna](../presentation/image/day-path-2024-11-29-22-52-48.png)
+![Obsidian graph for month 11, highlighting Lerna](../../image/day-path-2024-11-29-22-52-48.png)
 
 </div>
 
@@ -41,7 +41,7 @@ Typescript notes cover five _other_ days:
 
 <div style="text-align:center">
 
-![Obsidian graph for month 11, highlighting Typescript](../presentation/image/day-path-2024-11-29-22-55-53.png)
+![Obsidian graph for month 11, highlighting Typescript](../../image/day-path-2024-11-29-22-55-53.png)
 
 </div>
 
@@ -145,13 +145,13 @@ Continuing on from [[2024-11-02#Songhay Web Components `npm` drama|eight days ag
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-11-04.png)
+![Typescript code](../../image/day-path-2024-11-29-23-11-04.png)
 
 </div>
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-11-46.png)
+![Typescript code](../../image/day-path-2024-11-29-23-11-46.png)
 
 </div>
 
@@ -163,13 +163,13 @@ This appears to be working at design time:
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-12-40.png)
+![Typescript code](../../image/day-path-2024-11-29-23-12-40.png)
 
 </div>
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-13-13.png)
+![Typescript code](../../image/day-path-2024-11-29-23-13-13.png)
 
 </div>
 
@@ -179,7 +179,7 @@ I do not understand why the past version of me wrote a [[Typescript]] file with 
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-14-38.png)
+![Typescript code](../../image/day-path-2024-11-29-23-14-38.png)
 
 </div>
 
@@ -195,7 +195,7 @@ Before I understood what was going on, I drove myself to “[JavaScript unit tes
 
 <div style="text-align:center">
 
-![tsconfig.json](../presentation/image/day-path-2024-11-29-23-18-38.png)
+![tsconfig.json](../../image/day-path-2024-11-29-23-18-38.png)
 
 </div>
 
@@ -217,7 +217,7 @@ This error continues to show in spite of the following `tsconfig.json` settings:
 
 <div style="text-align:center">
 
-![tsconfig.json settings](../presentation/image/day-path-2024-11-29-23-20-02.png)
+![tsconfig.json settings](../../image/day-path-2024-11-29-23-20-02.png)
 
 </div>
 
@@ -229,7 +229,7 @@ Moving from the “bundler” world into the [[Node.js]] world, error messages s
 
 <div style="text-align:center">
 
-![Typescript code](../presentation/image/day-path-2024-11-29-23-21-09.png)
+![Typescript code](../../image/day-path-2024-11-29-23-21-09.png)
 
 </div>
 
@@ -336,7 +336,7 @@ In short, `config` \[📖 [docs](https://docs.npmjs.com/cli/v10/configuring-npm/
 
 <div style="text-align:center">
 
-![package.json](../presentation/image/day-path-2024-11-29-23-28-54.png)
+![package.json](../../image/day-path-2024-11-29-23-28-54.png)
 
 </div>
 
@@ -383,7 +383,7 @@ We see the `type` attribute \[📖 [docs](https://developer.mozilla.org/en-US/do
 
 <div style="text-align:center">
 
-![HTML markup](../presentation/image/day-path-2024-11-29-23-35-16.png)
+![HTML markup](../../image/day-path-2024-11-29-23-35-16.png)
 
 </div>
 
