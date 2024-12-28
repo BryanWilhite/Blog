@@ -23,11 +23,11 @@
 
 The Obsidian notes for this month should reflect slogging through the unpleasant process of upgrading Lit for Songhay Web Components [[GitHub](https://github.com/BryanWilhite/songhay-web-components)]. This upgrade would go into the JavaScript bundle that would back the new homepage for kintespace.com. The Obsidian Graph View for the month shows how Lit [[GitHub](https://github.com/lit/lit)] work pops up to the left of the massive Azure node:
 
-![Obsidian Graph View for the month](../presentation/image/day-path-2024-12-28-12-49-20.png)
+![Obsidian Graph View for the month](../../image/day-path-2024-12-28-12-49-20.png)
 
-![Obsidian Graph View for the month with Lit highlighted](../presentation/image/day-path-2024-12-28-12-49-53.png)
+![Obsidian Graph View for the month with Lit highlighted](../../image/day-path-2024-12-28-12-49-53.png)
 
-![Obsidian Graph View for the month with Songhay Web Components highlighted](../presentation/image/day-path-2024-12-28-12-51-14.png)
+![Obsidian Graph View for the month with Songhay Web Components highlighted](../../image/day-path-2024-12-28-12-51-14.png)
 
 The graph is _not_ showing any direct relationship between Lit and Songhay Web Components which means there is still a lot for me to learn about data visualization as a way of life. It must also be said that the Obsidian is seeing Lit for the first time this month which is an indicator of poor time management and greed. I think I am promising myself to streamline my interests/investments—which should be shown in the Obsidian graph over time.
 
@@ -49,7 +49,7 @@ When [[Anaconda|conda]] is hanging, trying to “solve the environment,” one o
 
 <div style="text-align:center">
 
-![graph](../presentation/image/day-path-2024-12-28-13-16-24.png)
+![graph](../../image/day-path-2024-12-28-13-16-24.png)
 
 </div>
 
@@ -341,7 +341,7 @@ Yeesh:
 
 <div style="text-align:center">
 
-![mocha test results](../presentation/image/day-path-2024-12-28-13-36-29.png)
+![mocha test results](../../image/day-path-2024-12-28-13-36-29.png)
 
 </div>
 

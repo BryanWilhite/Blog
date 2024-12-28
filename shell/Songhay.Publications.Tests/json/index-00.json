@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 12 of 2024 was about upgrading the F\u266F package stacks to .NET 8.0, upgrading Songhay Web Components to Lit 3.x and getting sick while on #day-job vacation The Obsidian notes for this month should reflect slogging through the unpleasant process of upg\u2026",
+    "clientId": "2024-12-28-studio-status-report-2024-12",
+    "inceptDate": "2024-12-28T12:21:08.476Z",
+    "modificationDate": "2024-12-28T12:21:08.476Z",
+    "title": "studio status report: 2024-12"
+  },
+  {
     "extract": "month 11 of 2024 was about updating Typescript fundamentals with Lerna The Obsidian graph for month 11 does not show any sign of the Typescript and Lerna work of the month: Obsidian graph for month 11 Lerna notes are spread out among three days \u2026",
     "clientId": "2024-11-29-studio-status-report-2024-11",
     "inceptDate": "2024-11-29T22:40:29.508Z",
