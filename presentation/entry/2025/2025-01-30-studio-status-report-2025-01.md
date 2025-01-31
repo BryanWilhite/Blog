@@ -27,7 +27,7 @@ The Obsidian graph for this month is supposed to be more structured than previou
 
 <div style="text-align:center">
 
-![Obsidian graph for this month](../presentation/image/day-path-2025-01-30-19-19-06.png)
+![Obsidian graph for this month](../../image/day-path-2025-01-30-19-19-06.png)
 
 </div>
 
@@ -42,7 +42,7 @@ The day-of-the-month nodes shown in the graph above orbit around these interests
 
 <div style="text-align:center">
 
-![Obsidian graph for this month, Songhay Publications](../presentation/image/day-path-2025-01-30-19-41-48.png)
+![Obsidian graph for this month, Songhay Publications](../../image/day-path-2025-01-30-19-41-48.png)
 
 </div>
 
@@ -54,7 +54,7 @@ When [[Obsidian]] topics refer to other topics, a hierarchy is generated and can
 
 <div style="text-align:center">
 
-![Obsidian graph with dandelions](../presentation/image/day-path-2025-01-30-19-46-40.png)
+![Obsidian graph with dandelions](../../image/day-path-2025-01-30-19-46-40.png)
 
 </div>
 
@@ -62,7 +62,7 @@ The [[dotnet]] and [[Azure]] topics look like dandelion seeds:
 
 <div style="text-align:center">
 
-![dandelion seeds](../presentation/image/day-path-2025-01-30-19-47-44.png)
+![dandelion seeds](../../image/day-path-2025-01-30-19-47-44.png)
 
 <https://garvillo.com/what-is-the-flower-that-you-blow/>
 
@@ -124,7 +124,7 @@ This video starts by emphasizing that MyST has conventional data formats for eas
 
 <div style="text-align:center">
 
-![CSS frosted glass](../presentation/image/day-path-2025-01-30-19-53-06.png)
+![CSS frosted glass](../../image/day-path-2025-01-30-19-53-06.png)
 
 </div>
 
@@ -155,7 +155,7 @@ This video starts by emphasizing that MyST has conventional data formats for eas
 
 <div style="text-align:center">
 
-![Passive House after fire](../presentation/image/day-path-2025-01-30-19-56-49.png)
+![Passive House after fire](../../image/day-path-2025-01-30-19-56-49.png)
 
 </div>
 
@@ -203,7 +203,7 @@ My [[Songhay Core (C♯)]] unit tests now show off the awesomeness of “keyed s
 
 <div style="text-align:center">
 
-![unit test classes](../presentation/image/day-path-2025-01-30-20-06-53.png)
+![unit test classes](../../image/day-path-2025-01-30-20-06-53.png)
 
 </div>
 
@@ -211,7 +211,7 @@ My [[Songhay Core (C♯)]] unit tests now show off the awesomeness of “keyed s
 
 <div style="text-align:center">
 
-![unit test](../presentation/image/day-path-2025-01-30-20-08-11.png)
+![unit test](../../image/day-path-2025-01-30-20-08-11.png)
 
 </div>
 
@@ -296,7 +296,7 @@ After having none of my expectations met as [I fell around the Statiq docs](http
 
 <div style="text-align:center">
 
-![GitHub screenshot](../presentation/image/day-path-2025-01-30-20-14-51.png)
+![GitHub screenshot](../../image/day-path-2025-01-30-20-14-51.png)
 
 </div>
 
