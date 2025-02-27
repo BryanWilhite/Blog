@@ -23,7 +23,11 @@
 
 I continue to fiddle and struggle with my Obsidian graph view of the month:
 
+<div style="text-align:center">
+
 ![Obsidian graph for this month](../../image/day-path-2025-02-26-20-25-28.png)
+
+</div>
 
 I notice that most of nodes labeled with dates hover around the Songhay Publications topics of this Studio which indicates what should be obvious but is actually novel: this Studio works on Publications. It has taken easily over a decade to achieve the obvious. The release of `Songhay.Publications` release 8.0.0📦 [[GitHub](https://github.com/users/BryanWilhite/projects/32)] (which includes the completion of [issue #54](https://github.com/BryanWilhite/Songhay.Publications/issues/54), struck off below in “sketching out development projects”) represents the last major barrier between me and the obvious.
 
@@ -52,7 +56,11 @@ By moving `PublicationsDbContext` out of the kintespace.com repo, the `dotnet ef
 
 ### the results of the upgrade to [[dotnet|.NET 8.0]]
 
+<div style="text-align:center">
+
 ![Songhay Publications - KinteSpace repo](../../image/day-path-2025-02-26-21-07-27.png)
+
+</div>
 
 It is now clear to me that ‘everything’ I have been working on _consistently_ in this Studio for _at least_ the last 15 years comes together in the [[Songhay Publications - KinteSpace|kintespace.com]] repo, namely all of the ‘cores’:
 
@@ -94,6 +102,8 @@ Is this the kind of investigation that led to [[Google Workbox]] (noted [[2024-1
 >—“[A Gentle Introduction to CRDTs](https://vlcn.io/blog/intro-to-crdts)”
 >
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=FG5Varj1Ows">
         <img alt="CRDTs - Stop Worrying About Write Conflicts | Systems Design 0 to 1 with Ex-Google SWE" src="https://img.youtube.com/vi/FG5Varj1Ows/maxresdefault.jpg" width="480" />
@@ -108,6 +118,8 @@ Is this the kind of investigation that led to [[Google Workbox]] (noted [[2024-1
     <p><small>Martin Kleppmann — CRDTs: The hard parts</small></p>
 </figure>
 
+</div>
+
 ## [[dotnet|.NET]] `System.Threading.Channels`
 
 >The [System.Threading.Channels](https://learn.microsoft.com/en-us/dotnet/api/system.threading.channels) namespace provides a set of synchronization data structures for passing data between producers and consumers asynchronously. The library targets .NET Standard and works on all .NET implementations.
@@ -121,6 +133,8 @@ Is this the kind of investigation that led to [[Google Workbox]] (noted [[2024-1
 
 [[Nick Chapsas]] insists that we should have been using Channels instead of [[MediatR]] and the like:
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=lHC38t1w9Nc">
         <img alt="The Most Underrated .NET Feature You Must Use" src="https://img.youtube.com/vi/lHC38t1w9Nc/maxresdefault.jpg" width="480" />
@@ -128,9 +142,13 @@ Is this the kind of investigation that led to [[Google Workbox]] (noted [[2024-1
     <p><small>The Most Underrated .NET Feature You Must Use</small></p>
 </figure>
 
+</div>
+
 Also, see “[An Introduction to System.Threading.Channels](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)” #to-do
 
 ## [[dotnet|.NET]]: “4 C# features that you (probably) shouldn't be using”
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=yzg5-T67FCc">
@@ -138,6 +156,8 @@ Also, see “[An Introduction to System.Threading.Channels](https://devblogs.mic
     </a>
     <p><small>4 C# features that you (probably) shouldn't be using</small></p>
 </figure>
+
+</div>
 
 1. `goto` and labels (probably there for translating Bill’s BASIC code) ✅
 2. lambda-based getter \[📹 [watch](https://youtu.be/yzg5-T67FCc?t=284) \]  (effectively hides methods that are invoked with every access to the getter)
@@ -192,12 +212,16 @@ This is pretty much >90% of kintespace.com content.
 
 [[Nick Chapsas]] reports from the .NET 6 era:
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=sIXKpyhxHR8">
         <img alt="7 awesome improvements for LINQ in .NET 6" src="https://img.youtube.com/vi/sIXKpyhxHR8/maxresdefault.jpg" width="480" />
     </a>
     <p><small>7 awesome improvements for LINQ in .NET 6</small></p>
 </figure>
+
+</div>
 
 1. `Enumerable.Chunk<TSource>` \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.chunk?view=net-9.0) \]
 2. `Enumerable.TryGetNonEnumeratedCount<TSource>` \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.trygetnonenumeratedcount?view=net-9.0) \] \[📹 [watch](https://youtu.be/sIXKpyhxHR8?t=200) \]
@@ -208,12 +232,16 @@ This is pretty much >90% of kintespace.com content.
 
 ## [[NuGet]]: “20 Nuget packages that every .NET developer should be familiar with”
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=qapJwFY9y2Y">
         <img alt="20 Nuget packages that every .NET developer should be familiar with" src="https://img.youtube.com/vi/qapJwFY9y2Y/maxresdefault.jpg" width="480" />
     </a>
     <p><small>20 Nuget packages that every .NET developer should be familiar with</small></p>
 </figure>
+
+</div>
 
 1. [[xUnit.net]]
 2. NUnit
@@ -240,7 +268,11 @@ This is pretty much >90% of kintespace.com content.
 
 “[Alice Coltrane, Monument Eternal](https://hammer.ucla.edu/exhibitions/2025/alice-coltrane-monument-eternal)”:
 
+<div style="text-align:center">
+
 ![Gozié Ojini sculpture](../../image/day-path-2025-02-26-21-21-58.png)
+
+</div>
 
 …also see “[Alice Coltrane’s ashram — and her ‘Black radical imagination’ — lives on at the Hammer Museum](https://www.latimes.com/entertainment-arts/story/2025-02-14/alice-coltrane-hammer-museum-ashram-monument-eternal)” 📰
 
@@ -302,12 +334,16 @@ public void IntroductoryTest(int expectedNumber, MyClass sut)
 >—“[Ńdébé: A Modern Writing System for Ìgbò](https://www.africandigitalart.com/ndebe-a-modern-writing-system-for-igbo/)”
 >
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=vsV9gI_U184">
         <img alt="Basic Ndebe Script Tutorial" src="https://img.youtube.com/vi/vsV9gI_U184/hqdefault.jpg" width="480" />
     </a>
     <p><small>Basic Ndebe Script Tutorial</small></p>
 </figure>
+
+</div>
 
 ## [[Songhay System Studio]]: “Nigerians are building affordable alternatives to AWS and Google Cloud”
 
