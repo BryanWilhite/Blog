@@ -23,7 +23,7 @@
 
 I continue to fiddle and struggle with my Obsidian graph view of the month:
 
-![Obsidian graph for this month](../presentation/image/day-path-2025-02-26-20-25-28.png)
+![Obsidian graph for this month](../../image/day-path-2025-02-26-20-25-28.png)
 
 I notice that most of nodes labeled with dates hover around the Songhay Publications topics of this Studio which indicates what should be obvious but is actually novel: this Studio works on Publications. It has taken easily over a decade to achieve the obvious. The release of `Songhay.Publications` release 8.0.0📦 [[GitHub](https://github.com/users/BryanWilhite/projects/32)] (which includes the completion of [issue #54](https://github.com/BryanWilhite/Songhay.Publications/issues/54), struck off below in “sketching out development projects”) represents the last major barrier between me and the obvious.
 
@@ -52,7 +52,7 @@ By moving `PublicationsDbContext` out of the kintespace.com repo, the `dotnet ef
 
 ### the results of the upgrade to [[dotnet|.NET 8.0]]
 
-![Songhay Publications - KinteSpace repo](../presentation/image/day-path-2025-02-26-21-07-27.png)
+![Songhay Publications - KinteSpace repo](../../image/day-path-2025-02-26-21-07-27.png)
 
 It is now clear to me that ‘everything’ I have been working on _consistently_ in this Studio for _at least_ the last 15 years comes together in the [[Songhay Publications - KinteSpace|kintespace.com]] repo, namely all of the ‘cores’:
 
@@ -240,7 +240,7 @@ This is pretty much >90% of kintespace.com content.
 
 “[Alice Coltrane, Monument Eternal](https://hammer.ucla.edu/exhibitions/2025/alice-coltrane-monument-eternal)”:
 
-![Gozié Ojini sculpture](../presentation/image/day-path-2025-02-26-21-21-58.png)
+![Gozié Ojini sculpture](../../image/day-path-2025-02-26-21-21-58.png)
 
 …also see “[Alice Coltrane’s ashram — and her ‘Black radical imagination’ — lives on at the Hammer Museum](https://www.latimes.com/entertainment-arts/story/2025-02-14/alice-coltrane-hammer-museum-ashram-monument-eternal)” 📰
 
