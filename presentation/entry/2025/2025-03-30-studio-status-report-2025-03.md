@@ -25,7 +25,7 @@ Selected notes for this month should show signs of major #day-job breakthroughs 
 
 <div style="text-align:center">
 
-![partial Obsidian graph view](../presentation/image/day-path-2025-03-30-19-24-54.png)
+![partial Obsidian graph view](../../image/day-path-2025-03-30-19-24-54.png)
 
 </div>
 
