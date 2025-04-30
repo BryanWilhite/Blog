@@ -25,7 +25,7 @@ Currently, the Studio canvas shows two warnings directly related to player servi
 
 <div style="text-align:center">
 
-![Obsidian Studio canvas detail](../presentation/image/day-path-2025-04-29-18-59-12.png)
+![Obsidian Studio canvas detail](../../image/day-path-2025-04-29-18-59-12.png)
 
 </div>
 
@@ -38,7 +38,7 @@ The Studio graph shows a whopping ten days were spent on Songhay Player (C♯) a
 
 <div style="text-align:center">
 
-![Songhay Player (C♯) in Obsidian graph](../presentation/image/day-path-2025-04-29-19-09-08.png)
+![Songhay Player (C♯) in Obsidian graph](../../image/day-path-2025-04-29-19-09-08.png)
 
 </div>
 
@@ -67,7 +67,7 @@ The addition of `"/rasxlog/entry/"` as a ‘content resource’ will drastically
 
 <div style="text-align:center">
 
-![SetTotalFileHits screenshot](../presentation/image/day-path-2025-04-29-19-21-41.png)
+![SetTotalFileHits screenshot](../../image/day-path-2025-04-29-19-21-41.png)
 
 </div>
 
@@ -75,7 +75,7 @@ The visualization shows the increase, drastically:
 
 <div style="text-align:center">
 
-![kinté hits screenshot](../presentation/image/day-path-2025-04-29-19-23-09.png)
+![kinté hits screenshot](../../image/day-path-2025-04-29-19-23-09.png)
 
 </div>
 
@@ -169,7 +169,7 @@ Previously, I thought that `IConfiguration` alone should never _intentionally_ b
 
 The [[2025-03-29#cards as responsive, two-column grids|cards as responsive, two-column grids]] experiment is progressing quite well:
 
-![CodePen screenshot](../presentation/image/day-path-2025-04-29-19-27-23.png)
+![CodePen screenshot](../../image/day-path-2025-04-29-19-27-23.png)
 <https://codepen.io/rasx/pen/raNbNwx>
 
 Certainly, I did not plan to run into the use of the `@container` at-rule \[📖 [docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@container) \] instead of media queries. In the 2022 article, “[Next Gen CSS: @container](https://css-tricks.com/next-gen-css-container/),” `@container` was considered a Chrome experiment:
@@ -198,7 +198,7 @@ I think the short answer is _yes_.
 
 <div style="text-align:center">
 
-![diff screenshot](../presentation/image/day-path-2025-04-29-19-33-22.png)
+![diff screenshot](../../image/day-path-2025-04-29-19-33-22.png)
 
 </div>
 
