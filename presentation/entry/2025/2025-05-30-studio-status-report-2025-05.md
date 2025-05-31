@@ -25,7 +25,7 @@ My discovery this month was so important to me that I actually broke the fourth 
 
 <div style="text-align:center">
 
-![personal journal entry](../presentation/image/day-path-2025-05-30-21-31-04.png)
+![personal journal entry](../../image/day-path-2025-05-30-21-31-04.png)
 
 </div>
 
@@ -35,7 +35,7 @@ These new abstractions are temporarily lodging in my b-roll server project `Song
 
 <div style="text-align:center">
 
-![Obsidian graph view](../presentation/image/day-path-2025-05-30-21-38-42.png)
+![Obsidian graph view](../../image/day-path-2025-05-30-21-38-42.png)
 
 </div>
 
@@ -89,15 +89,15 @@ I had no idea! I had to be shown this:
 
 I would be awesome to find that all I have to do is swap my “[core packages](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences#execution-model-comparison-table)”:
 
-![core packages](../presentation/image/day-path-2025-05-30-22-28-56.png)
+![core packages](../../image/day-path-2025-05-30-22-28-56.png)
 
 **Update:** the bulk of the changes were indeed [[NuGet]] packages with some very weird exceptions:
 
 <div style="text-align:center">
 
-![step 3](../presentation/image/day-path-2025-05-30-22-29-52.png)
+![step 3](../../image/day-path-2025-05-30-22-29-52.png)
 
-![step 5](../presentation/image/day-path-2025-05-30-22-30-32.png)
+![step 5](../../image/day-path-2025-05-30-22-30-32.png)
 
 </div>
 
@@ -127,7 +127,7 @@ I was thrown into this news when I accepted a re-factoring hint from [[JetBrains
 
 <div style="text-align:center">
 
-![`GeneratedRegex` on line 134](../presentation/image/day-path-2025-05-30-22-34-04.png)
+![`GeneratedRegex` on line 134](../../image/day-path-2025-05-30-22-34-04.png)
 
 </div>
 
@@ -155,7 +155,7 @@ A value of type 'System.String' cannot be converted to a 'System.DateTime'.
 
 <div style="text-align:center">
 
-![JetBrains hint](../presentation/image/day-path-2025-05-30-22-36-06.png)
+![JetBrains hint](../../image/day-path-2025-05-30-22-36-06.png)
 
 </div>
 
@@ -171,7 +171,7 @@ Okay, here is one more clue:
 
 <div style="text-align:center">
 
-![clue](../presentation/image/day-path-2025-05-30-22-37-21.png)
+![clue](../../image/day-path-2025-05-30-22-37-21.png)
 
 </div>
 
@@ -243,7 +243,7 @@ Today, there remains two #to-do items:
 
 <div style="text-align:center">
 
-![Rider TODO items view](../presentation/image/day-path-2025-05-30-22-42-21.png)
+![Rider TODO items view](../../image/day-path-2025-05-30-22-42-21.png)
 
 </div>
 
