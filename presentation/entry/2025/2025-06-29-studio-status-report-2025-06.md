@@ -35,7 +35,7 @@ According to the Obsidian Graph View, only five days were spent on the b-roll pl
 
 <div style="text-align:center">
 
-![Obsidian Graph View (detail)](../presentation/image/day-path-2025-06-29-18-49-55.png)
+![Obsidian Graph View (detail)](../../image/day-path-2025-06-29-18-49-55.png)
 
 </div>
 
@@ -124,7 +124,7 @@ The `IsEquivalentTo` method \[🔗 [link](https://github.com/json-everything/jso
 
 <div style="text-align:center">
 
-![the HierarchyId data type](../presentation/image/day-path-2025-06-29-19-09-33.png)
+![the HierarchyId data type](../../image/day-path-2025-06-29-19-09-33.png)
 
 </div>
 
@@ -145,7 +145,7 @@ The following seems so obvious now that it all comes together:
 
 <div style="text-align:center">
 
-![Azure Functions class](../presentation/image/day-path-2025-06-29-19-15-46.png)
+![Azure Functions class](../../image/day-path-2025-06-29-19-15-46.png)
 
 </div>
 
@@ -204,7 +204,7 @@ One interesting point made in this video is that older machine-learning based up
 
 <div style="text-align:center">
 
-![homepage](../presentation/image/day-path-2025-06-29-19-24-34.png)
+![homepage](../../image/day-path-2025-06-29-19-24-34.png)
 
 </div>
 <https://chrome.dev/carousel/>
