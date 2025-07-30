@@ -21,7 +21,7 @@
 
 ## month 07 of 2025 was about readying the Studio WebAssembly assets for the new b-roll player API
 
-Month 07 of 2025 was about readying the Studio [[WebAssembly]] assets for the new b-roll player <acronym title="Application Programming Interface">API</acronym> released [last month](https://songhayblog.azurewebsites.net/entry/2025-06-29-studio-status-report-2025-06/). In so doing, the following [[NuGet]] packages were updated:
+Month 07 of 2025 was about readying the Studio WebAssembly assets for the new b-roll player <acronym title="Application Programming Interface">API</acronym> released [last month](https://songhayblog.azurewebsites.net/entry/2025-06-29-studio-status-report-2025-06/). In so doing, the following NuGet packages were updated:
 
 - `Songhay.Modules` [8.0.1](https://www.nuget.org/packages/Songhay.Modules/8.0.1) 📦🚀
 - `Songhay.Modules.Bolero` [8.0.3](https://www.nuget.org/packages/Songhay.Modules.Bolero/8.0.3) 📦🚀
@@ -29,21 +29,33 @@ Month 07 of 2025 was about readying the Studio [[WebAssembly]] assets for the ne
 
 The Obsidian graph view sees seven days spent on `Songhay.Modules.Bolero`:
 
-![Obsidian graph view](../presentation/image/day-path-2025-07-29-17-56-53.png)
+<div style="text-align:center">
+
+![Obsidian graph view](../../image/day-path-2025-07-29-17-56-53.png)
+
+</div>
 
 …only two days were taken for `Songhay.Modules.Publications`:
 
-![Obsidian graph view](../presentation/image/day-path-2025-07-29-17-57-55.png)
+<div style="text-align:center">
 
-…and the graph view sees nothing for `Songhay.Modules`; however, [[GitHub]] itself ([#15](https://github.com/BryanWilhite/Songhay.Modules/issues/15)) shows one day devoted. We have a total of nine days of Studio-work moments which is a four day increase over [last month](https://songhayblog.azurewebsites.net/entry/2025-06-29-studio-status-report-2025-06/). Selected notes below should provide some color for the work done this month:
+![Obsidian graph view](../../image/day-path-2025-07-29-17-57-55.png)
 
-## [[dotnet|.NET]] (F♯): `List.choose` vs. `List.find`
+</div>
+
+…and the graph view sees nothing for `Songhay.Modules`; however, GitHub itself ([#15](https://github.com/BryanWilhite/Songhay.Modules/issues/15)) shows one day devoted. We have a total of nine days of Studio-work moments which is a four day increase over [last month](https://songhayblog.azurewebsites.net/entry/2025-06-29-studio-status-report-2025-06/). Selected notes below should provide some color for the work done this month:
+
+## .NET (F♯): `List.choose` vs. `List.find`
 
 The [docs](https://fsharp.github.io/fsharp-core-docs/reference/fsharp-collections-listmodule.html#find) show quite clearly that `List.find` throws an exception while `List.choose` returns an empty list when the item in the list is not found.
 
 I have written a unit test for myself so that I do not forget a few things:
 
-![chooseState test](../presentation/image/day-path-2025-07-29-18-03-25.png)
+<div style="text-align:center">
+
+![chooseState test](../../image/day-path-2025-07-29-18-03-25.png)
+
+</div>
 
 - Lines 18 and 25: auto-generated `.Is*` properties (new in F♯ 9) \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/discriminated-unions#is-properties-on-cases) \] might help to make the syntax understandable for beginners
 - Lines 32 and 39: a reminder of the `function` shorthand (see “[F#: function keyword](https://www.markhneedham.com/blog/2010/02/07/f-function-keyword/)”)
@@ -51,9 +63,11 @@ I have written a unit test for myself so that I do not forget a few things:
 
 When I am feeling spiffy and fastidious, I should move lines 15 through 41 to a Jupyter Notebook #to-do
 
-## [[dotnet|.NET]] <acronym title="Artificial Intelligence">AI</acronym>: the Intent Integrity Chain 😐⛓
+## .NET <acronym title="Artificial Intelligence">AI</acronym>: the Intent Integrity Chain 😐⛓
 
-Using <acronym title="Artificial Intelligence">AI</acronym> with <acronym title="Test-Driven Development">TDD</acronym> (to make something better than [[SpecFlow]] and [[Cucumber]]) promises to make machine-generated code far more reliable within the guide rails of a formal specification:
+Using <acronym title="Artificial Intelligence">AI</acronym> with <acronym title="Test-Driven Development">TDD</acronym> (to make something better than SpecFlow and Cucumber) promises to make machine-generated code far more reliable within the guide rails of a formal specification:
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=hUXGR0a9NLs">
@@ -62,15 +76,25 @@ Using <acronym title="Artificial Intelligence">AI</acronym> with <acronym title=
     <p><small>Junie Livestream 6: How to Survive AI with the Intent Integrity Chain by Baruch Sadogursky</small></p>
 </figure>
 
-## [[Songhay Modules Publications (F♯)]]: the `PresentationDocument` identifies all possible client-side facing document formats used in this Studio 😐🧠💡
+</div>
+
+## Songhay Modules Publications (F♯): the `PresentationDocument` identifies all possible client-side facing document formats used in this Studio 😐🧠💡
 
 It looks like this now:
 
-![`PresentationDocument` type](../presentation/image/day-path-2025-07-29-18-07-25.png)
+<div style="text-align:center">
 
-From the Studio-centric perspective, the only format ‘missing’ above is [[LaTeX]] and SGML 😐 This `PresentationDocument` needs to be used in the `PresentationPart` type:
+![`PresentationDocument` type](../../image/day-path-2025-07-29-18-07-25.png)
 
-![the `PresentationPart` type](../presentation/image/day-path-2025-07-29-18-54-57.png)
+</div>
+
+From the Studio-centric perspective, the only format ‘missing’ above is LaTeX and SGML 😐 This `PresentationDocument` needs to be used in the `PresentationPart` type:
+
+<div style="text-align:center">
+
+![the `PresentationPart` type](../../image/day-path-2025-07-29-18-54-57.png)
+
+</div>
 
 Staring at `PresentationPart` might lead to a question like:
 
@@ -146,7 +170,7 @@ There appears to be one issue in the `FsToolkit.ErrorHandling` repo that recogni
 
 …where the phrase “was rejected” suggests (to me) that the `FsToolkit.ErrorHandling` folks were not the cause of this breaking change.
 
-## [[ASP.NET]] feature in [[dotnet|.NET 9.0]]: `MapStaticAssets` replaces `UseStaticFiles` ✨ #to-do
+## ASP.NET feature in .NET 9.0: `MapStaticAssets` replaces `UseStaticFiles` ✨ #to-do
 
 >Map Static Assets can replace [UseStaticFiles](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileextensions.usestaticfiles) in most situations. However, Map Static Assets is optimized for serving the assets from known locations in the app at build and publish time. If the app serves assets from other locations, such as disk or embedded resources, [UseStaticFiles](https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.builder.staticfileextensions.usestaticfiles) should be used.
 >
@@ -157,6 +181,8 @@ There appears to be one issue in the `FsToolkit.ErrorHandling` repo that recogni
 
 This feature \[📹 [watch](https://youtu.be/2xXc1hNwp0o?t=1405) \] is highlighted in the following video:
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=2xXc1hNwp0o">
         <img alt="What's New for ASP.NET Core & Blazor in .NET 9" src="https://img.youtube.com/vi/2xXc1hNwp0o/maxresdefault.jpg" width="480" />
@@ -164,11 +190,13 @@ This feature \[📹 [watch](https://youtu.be/2xXc1hNwp0o?t=1405) \] is highlight
     <p><small>What's New for ASP.NET Core & Blazor in .NET 9</small></p>
 </figure>
 
-## [[Songhay Modules Publications (F♯)]]: addressing #12
+</div>
+
+## Songhay Modules Publications (F♯): addressing #12
 
 For [#12](https://github.com/BryanWilhite/Songhay.Modules.Publications/issues/12), I recommend no work be done for this because:
 
-The `Songhay.Modules.Publications` package is intended for client-side, [[WebAssembly]] usage. It should not duplicate the types in `Songhay.Publications` which relatively recently saw the addition of the following:
+The `Songhay.Modules.Publications` package is intended for client-side, WebAssembly usage. It should not duplicate the types in `Songhay.Publications` which relatively recently saw the addition of the following:
 
 - `ImageCandidate` \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/main/Songhay.Publications/Models/ImageCandidate.cs) \]
 - `ImageSize` \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Publications/blob/main/Songhay.Publications/Models/ImageSize.cs) \]
@@ -176,9 +204,11 @@ The `Songhay.Modules.Publications` package is intended for client-side, [[WebAss
 
 I currently assume that these ‘server-side’ types will be reduced to one of the `PresentationDocument` cases before appearing on the client-side (most likely <acronym title="JavaScript Object Notation">JSON</acronym>, <acronym title="HyperText Markup Language">HTML</acronym> or XHTML). There should be no _immediate_ need to process any type like the types listed above on the Client, specifically the _Web_ Client.
 
-## [[Python]]: Toga is a Python native, OS native GUI toolkit.
+## Python: Toga is a Python native, OS native GUI toolkit.
 
 [Russell Keith-Magee](https://github.com/freakboy3742), the leading contributor to [Toga](https://github.com/beeware/toga), presents:
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=-HlWDVuZbYU">
@@ -187,7 +217,11 @@ I currently assume that these ‘server-side’ types will be reduced to one of 
     <p><small>How to build a cross-platform graphical user interface with Python - Russell Keith-Magee</small></p>
 </figure>
 
-## [[Songhay Publications|Publications]]: Maximiliano Firtman promotes “vanilla” JavaScript
+</div>
+
+## Publications: Maximiliano Firtman promotes “vanilla” JavaScript
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=GEbDlvrdSQk">
@@ -196,14 +230,16 @@ I currently assume that these ‘server-side’ types will be reduced to one of 
     <p><small>Vanilla Web: You Don't Need that Library - Maximiliano Firtman - NDC Oslo 2025</small></p>
 </figure>
 
-## [[Songhay Publications|Publications]]: SDUI is an acronym from [[Netflix]]
+</div>
+
+## Publications: SDUI is an acronym from Netflix
 
 >With the goal of building a flexible, configuration-driven system, we looked to **server-driven UI** (SDUI) as an appealing solution. SDUI is a design approach where the server dictates the structure and content of the UI, allowing for dynamic updates and customization without requiring changes to the client application. Client applications like web, mobile, and TV devices, act as rendering engines for SDUI data. After our teams weighed and vetted all the details, the dust settled and we landed on an approach similar to Command Query Responsibility Segregation ([CQRS](https://www.geeksforgeeks.org/cqrs-command-query-responsibility-segregation/)).
 >
 >—“[Netflix Tudum Architecture: from CQRS with Kafka to CQRS with RAW Hollow](https://netflixtechblog.com/netflix-tudum-architecture-from-cqrs-with-kafka-to-cqrs-with-raw-hollow-86d141b72e52)”
 >
 
-## [[Rivian]]: “Yes, Rivian uses Android Automotive OS to build its software experience” 😐💸
+## Rivian: “Yes, Rivian uses Android Automotive OS to build its software experience” 😐💸
 
 I am not happy about this:
 
@@ -214,7 +250,7 @@ I am not happy about this:
 >—“[Yes, Rivian uses Android Automotive OS to build its software experience](https://9to5google.com/2024/05/17/rivians-software-is-based-on-android-automotive-google-says/)”
 >
 
-## [[Songhay Modules Bolero (F♯)]]: I am going to use `Regex` to parse my <acronym title="Universal Resource Identifier">URI</acronym> templates 😐
+## Songhay Modules Bolero (F♯): I am going to use `Regex` to parse my <acronym title="Universal Resource Identifier">URI</acronym> templates 😐
 
 I am looking at what think is the ‘procured’ source code \[🔗 [GitHub](https://github.com/kurrent-io/KurrentDB/blob/cdd53f9c4b1a35503f21117439005c9e621c7983/src/KurrentDB.NETCore.Compatibility/System.UriTemplate/UriTemplate.cs#L20) \] for `UriTemplate` \[📖 [docs](https://learn.microsoft.com/en-us/dotnet/api/system.uritemplate?view=netframework-4.8.1) \] which was not migrated from the full .NET Framework and I am seeing a bunch of `while` loops and a `ConcurrentDictionary<string, string>`.
 
@@ -231,11 +267,15 @@ A “pure” F♯ approach might be related to the parsing libraries [listed on 
 
 At this time, I can see this:
 
-![Regexer detail](../presentation/image/day-path-2025-07-29-19-22-09.png)
+<div style="text-align:center">
+
+![Regexer detail](../../image/day-path-2025-07-29-19-22-09.png)
+
+</div>
 
 …which means this expression is the equivalent of all of the looping above: `/(\{[^}]+\})/g` —I am sure there is a technical reason behind avoiding `Regex`. I look for ward to finding out about this later ⌛
 
-## [[Songhay Publications|Publications]]: “Tailwind is the Worst of All Worlds”
+## Publications: “Tailwind is the Worst of All Worlds”
 
 >For reasons we'll get into later, Tailwind decided to burst on to the scene and become the default styling solution for all modern web development despite taking each and every one of these problems, exacerbating them, and applying them to places that didn't have them before. Lets see how Tailwind replicates CSS's main paradigms. Remember, inline styles let you control single element styles simply and fairly explicitly: `style="background: red; color: blue;"`. Classes let you control multi-element styles simply, with the slight annoyance that it's easy to misspell your class name and spend way too long debugging before realizing it: `class="todo-item"`.
 >
@@ -244,7 +284,7 @@ At this time, I can see this:
 >—“[Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)”
 >
 
-## [[Azure]]: <acronym title="Kusto Query Language">KQL</acronym> queries _can_ be run from [[dotnet|.NET]] workloads 😐🤓 #day-job #to-do
+## Azure: <acronym title="Kusto Query Language">KQL</acronym> queries _can_ be run from .NET workloads 😐🤓 #day-job #to-do
 
 `Microsoft.Azure.Kusto.Data` \[🔗 [NuGet](https://www.nuget.org/packages/Microsoft.Azure.Kusto.Data) \] has been out there since 2019. The following docs serve as an intro:
 
