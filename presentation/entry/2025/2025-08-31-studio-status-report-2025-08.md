@@ -13,7 +13,7 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2025-08-31-studio-status-report-2025-08",
-  "tag": "{\n  \u0022extract\u0022: \u0022\u0022\n}"
+  "tag": "{\n  \u0022extract\u0022: \u0022month 08 of 2025 was about readying more Studio WebAssembly assets for the new b-roll player API Just like last month, month 08 of 2025 was about readying the Studio [[WebAssembly]] assets for the new b-roll player API released last month. In so doing, th\\u2026\u0022\n}"
 }
 ---
 
@@ -29,19 +29,35 @@ Just like [last month](https://songhayblog.azurewebsites.net/entry/2025-07-29-st
 
 The list above is saying that, over the last two months, I walked up the F♯ stack 🔨🥞 in this Studio:
 
-![Mermaid graph of F♯ stack](../presentation/image/day-path-2025-08-31-15-42-53.png)
+<div style="text-align:center">
+
+![Mermaid graph of F♯ stack](../../image/day-path-2025-08-31-15-42-53.png)
+
+</div>
 
 The [[Obsidian]] graph view suggests six days spent on `Songhay.Modules.Bolero`:
 
-![Obsidian graph for `Songhay.Modules.Bolero`](../presentation/image/day-path-2025-08-31-15-44-17.png)
+<div style="text-align:center">
+
+![Obsidian graph for `Songhay.Modules.Bolero`](../../image/day-path-2025-08-31-15-44-17.png)
+
+</div>
 
 …coupled with five additional days for `Songhay.Player.ProgressiveAudio`:
 
-![Obsidian graph for `Songhay.Player.ProgressiveAudio`](../presentation/image/day-path-2025-08-31-15-45-28.png)
+<div style="text-align:center">
+
+![Obsidian graph for `Songhay.Player.ProgressiveAudio`](../../image/day-path-2025-08-31-15-45-28.png)
+
+</div>
 
 …and we see some days overlap for `Songhay.Player.YouTube`:
 
-![Obsidian graph for `Songhay.Player.YouTube`](../presentation/image/day-path-2025-08-31-15-46-21.png)
+<div style="text-align:center">
+
+![Obsidian graph for `Songhay.Player.YouTube`](../../image/day-path-2025-08-31-15-46-21.png)
+
+</div>
 
 It looks about half of month 08 was spent on this stack walk 🔨🥞 😐
 
@@ -49,7 +65,11 @@ Selected notes below should provide some color for the work done this month:
 
 ## kintespace.com: are all these new hits just <acronym title="Artificial Intelligence">AI</acronym> ‘scrapers’? 😐
 
-![detail of kintespace.com analytics visualizations](../presentation/image/day-path-2025-08-31-15-49-21.png)
+<div style="text-align:center">
+
+![detail of kintespace.com analytics visualizations](../../image/day-path-2025-08-31-15-49-21.png)
+
+</div>
 
 <https://kintespace.com/khits.html>
 
@@ -105,7 +125,11 @@ I need to explore the differences between `JSON_QUERY` and `JSON_CONTAINS` #to-d
 
 The route on line 24 and the route on line 70 both have five segments:
 
-![Azure Functions class in JetBrains Rider](../presentation/image/day-path-2025-08-31-15-57-44.png)
+<div style="text-align:center">
+
+![Azure Functions class in JetBrains Rider](../../image/day-path-2025-08-31-15-57-44.png)
+
+</div>
 
 However, the route on line 70 has three placeholders while the one on line 24 has only one. Because both of these routes have five segments, the route with fewer placeholders should come first because [[ASP.NET]] should select that route first as expected when the first four segments of the request are `video/youtube/playlist/index/`; otherwise, when the route on line 70 comes before the one on line 24, the last two segments of our request will be treated as the placeholders `{presentationKey}/{subFolder}/`. I am confident that this document-order convention is mentioned in official documentation #to-do
 
@@ -188,7 +212,11 @@ The expression above eliminates the curiosity in seeing whether _augmenting_ `Op
 
 Do not forget about the importance of the `junction`:
 
-![Mermaid Architecture Diagram](../presentation/image/day-path-2025-08-31-16-09-09.png)
+<div style="text-align:center">
+
+![Mermaid Architecture Diagram](../../image/day-path-2025-08-31-16-09-09.png)
+
+</div>
 
 - the `title` in the Architecture Diagram is not like that of the [Flowchart](https://mermaid.js.org/syntax/flowchart.html); it does not support surrounding “special” characters in quotes—even a hyphen in a title causes a parsing error (years-old, related issues like [#6056](https://github.com/mermaid-js/mermaid/issues/6056) remain open 😐)
 - icon support from <https://icon-sets.iconify.design/logos/> is quite nice; however I fail to understand how to change to a different set \[📖 [docs](https://mermaid.js.org/config/icons.html) \] in [[Visual Studio Code]] with [the Mermaid Chart extension](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart).
@@ -197,7 +225,11 @@ Do not forget about the importance of the `junction`:
 
 This use of [[FsToolkit.ErrorHandling]] is very novel ✨
 
-![binding Elmish batch commands with FsToolkit.ErrorHandling in JetBrains Rider](../presentation/image/day-path-2025-08-31-16-10-34.png)
+<div style="text-align:center">
+
+![binding Elmish batch commands with FsToolkit.ErrorHandling in JetBrains Rider](../../image/day-path-2025-08-31-16-10-34.png)
+
+</div>
 
 `Option.zip` returns `Some` tuple when both options to be zipped are not `None`. Once that check is out of the way, `Option.either` does its magic 🪄 The works perfectly with the `Cmd.batch` pattern from [[Elmish]].
 

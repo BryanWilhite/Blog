@@ -1,5 +1,12 @@
 [
   {
+    "extract": "month 08 of 2025 was about readying more Studio WebAssembly assets for the new b-roll player API Just like last month, month 08 of 2025 was about readying the Studio [[WebAssembly]] assets for the new b-roll player API released last month. In so doing, th\u2026",
+    "clientId": "2025-08-31-studio-status-report-2025-08",
+    "inceptDate": "2025-08-31T15:38:35.641Z",
+    "modificationDate": "2025-08-31T15:38:35.641Z",
+    "title": "studio status report: 2025-08"
+  },
+  {
     "extract": "month 07 of 2025 was about readying the Studio WebAssembly assets for the new b-roll player API Month 07 of 2025 was about readying the Studio WebAssembly assets for the new b-roll player API released last month. In so doing, the following NuGet p\u2026",
     "clientId": "2025-07-29-studio-status-report-2025-07",
     "inceptDate": "2025-07-29T17:53:03.777Z",
