@@ -21,7 +21,7 @@
 
 Month 09 of 2025 was about actually working inside of this sketch:
 
-![kintespace.com Publications stack](../presentation/image/day-path-2025-09-30-19-55-11.png)
+![kintespace.com Publications stack](../../image/day-path-2025-09-30-19-55-11.png)
 
 This is a very rough rendering of the brand new Publications stack for kintespace.com. The layers of this stack starts with:
 
@@ -37,7 +37,7 @@ The Obsidian graph for this month shows about 19 days of work but this number mi
 
 <div style="text-align:center">
 
-![Obsidian graph for this month](../presentation/image/day-path-2025-09-30-19-57-15.png)
+![Obsidian graph for this month](../../image/day-path-2025-09-30-19-57-15.png)
 
 </div>
 
@@ -99,7 +99,7 @@ After a lengthy correction of Mockoon configuration (including the improving of 
 
 <div style="text-align:center">
 
-![the CSS issue](../presentation/image/day-path-2025-09-30-20-05-43.png)
+![the CSS issue](../../image/day-path-2025-09-30-20-05-43.png)
 
 </div>
 
@@ -110,7 +110,7 @@ Additionally, `video.thumbs.thumbs-container > div` needs to have its height set
 
 <div style="text-align:center">
 
-![the CSS issue](../presentation/image/day-path-2025-09-30-20-06-57.png)
+![the CSS issue](../../image/day-path-2025-09-30-20-06-57.png)
 
 </div>
 
