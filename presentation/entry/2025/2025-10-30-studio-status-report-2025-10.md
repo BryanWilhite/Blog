@@ -23,7 +23,7 @@ I instinctively procrastinated but eventually I had to face it: month 10 of 2025
 
 <div style="text-align:center">
 
-![Obsidian graph for this month](../presentation/image/day-path-2025-10-30-20-42-02.png)
+![Obsidian graph for this month](../../image/day-path-2025-10-30-20-42-02.png)
 
 </div>
 
@@ -159,7 +159,7 @@ All other scripts are built on top of these two:
 
 <div style="text-align:center">
 
-![npm scripts](../presentation/image/day-path-2025-10-30-20-53-46.png)
+![npm scripts](../../image/day-path-2025-10-30-20-53-46.png)
 
 </div>
 
@@ -184,7 +184,7 @@ This video finally shows me why Rufus is so critical for Windows 11 installation
 
 <div style="text-align:center">
 
-![0xc0000428 BSOD](../presentation/image/day-path-2025-10-30-21-02-41.png)
+![0xc0000428 BSOD](../../image/day-path-2025-10-30-21-02-41.png)
 
 </div>
 
@@ -194,7 +194,7 @@ In a lost weekend, I have seen this error message countless times:
 
 The ASRock motherboard manual shows the ‘hidden’ slot:
 
-![ASRock motherboard manual (detail)](../presentation/image/day-path-2025-10-30-21-05-25.png)
+![ASRock motherboard manual (detail)](../../image/day-path-2025-10-30-21-05-25.png)
 
 This video talk about the “top slot,” expansion-card SSD slots and thermal pads:
 
@@ -215,7 +215,7 @@ Windows 10 refuses to upgrade:
 
 <div style="text-align:center">
 
-![Windows 10 setup dialog](../presentation/image/day-path-2025-10-30-21-08-09.png)
+![Windows 10 setup dialog](../../image/day-path-2025-10-30-21-08-09.png)
 
 </div>
 
