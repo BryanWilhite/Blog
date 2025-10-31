@@ -67,7 +67,7 @@ Congrats to my daughter for finding this one:
 >—<https://annas-archive.org/faq>
 >
 
-## Dapper: the parameter system does not (or no longer) works with `LIKE` 😐 #day-job 
+## Dapper: the parameter system does not (or no longer) works with `LIKE` 😐 #day-job
 
 Given an anonymous-object set of parameters:
 
