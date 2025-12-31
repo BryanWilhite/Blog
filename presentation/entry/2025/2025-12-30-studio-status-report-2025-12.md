@@ -21,7 +21,7 @@
 
 Month 12 of 2025 was about getting the re-release of kintespace.com almost out the ‘door’—well over 90% is done! I am seeing 16 days of work on kintespace.com in the Obsidian graph:
 
-![the Obsidian graph of the month](../presentation/image/day-path-2025-12-30-21-23-15.png)
+![the Obsidian graph of the month](../../image/day-path-2025-12-30-21-23-15.png)
 
 I will try to select notes below that capture the highlights of the month, including:
 
@@ -74,7 +74,7 @@ What we see below is a ‘front matter model’ that is _fully integrated_ with 
 
 <div style="text-align:center">
 
-![Obsidian front matter in this Studio](../presentation/image/day-path-2025-12-30-21-48-32.png)
+![Obsidian front matter in this Studio](../../image/day-path-2025-12-30-21-48-32.png)
 
 </div>
 
@@ -144,7 +144,7 @@ The `11ty/.eleventyignore` file shows what ‘partition’ of the publication is
 
 <div style="text-align:center">
 
-![the eleventy ignore file](../presentation/image/day-path-2025-12-30-21-56-15.png)
+![the eleventy ignore file](../../image/day-path-2025-12-30-21-56-15.png)
 
 </div>
 
@@ -287,7 +287,7 @@ Because of the interests in cinema around this Studio, we will take the 16:9 ‘
 
 The `11ty/.eleventy.js` file now reveals the second convention between Publications Data and eleventy:
 
-![eleventy import statements](../presentation/image/day-path-2025-12-30-22-03-28.png)
+![eleventy import statements](../../image/day-path-2025-12-30-22-03-28.png)
 
 Each of these `staticJson*` imports represents each `Segment` of the Publication. These `staticJson*` imports can be used to locate the latest `Document` by `Segment` to inform the rendering of `index.html`.
 
