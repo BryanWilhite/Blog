@@ -33,7 +33,7 @@ Let’s see how this vicious surprise attack of new things to learn soaked up da
 
 <div style="text-align:center">
 
-![Obsidian graph detail, Entity Framework](../presentation/image/day-path-2026-01-31-12-14-05.png)
+![Obsidian graph detail, Entity Framework](../../image/day-path-2026-01-31-12-14-05.png)
 
 </div>
 
@@ -41,7 +41,7 @@ Let’s see how this vicious surprise attack of new things to learn soaked up da
 
 <div style="text-align:center">
 
-![Obsidian graph detail, Application Insights](../presentation/image/day-path-2026-01-31-12-15-10.png)
+![Obsidian graph detail, Application Insights](../../image/day-path-2026-01-31-12-15-10.png)
 
 </div>
 
@@ -49,7 +49,7 @@ Let’s see how this vicious surprise attack of new things to learn soaked up da
 
 <div style="text-align:center">
 
-![Obsidian graph detail, Anaconda](../presentation/image/day-path-2026-01-31-12-16-01.png)
+![Obsidian graph detail, Anaconda](../../image/day-path-2026-01-31-12-16-01.png)
 
 </div>
 
