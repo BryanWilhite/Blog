@@ -25,7 +25,7 @@ The other major kintespace.com blocker was the need for new responsive-image con
 
 <div style="text-align:center">
 
-![Obsidian Graph view of the month](../presentation/image/day-path-2026-02-27-22-15-02.png)
+![Obsidian Graph view of the month](../../image/day-path-2026-02-27-22-15-02.png)
 
 </div>
 
@@ -33,7 +33,7 @@ The Obsidian Graph view shows _six days_ touching upon [[Azure Durable Functions
 
 <div style="text-align:center">
 
-![Obsidian Graph view of the month](../presentation/image/day-path-2026-02-27-22-16-35.png)
+![Obsidian Graph view of the month](../../image/day-path-2026-02-27-22-16-35.png)
 
 </div>
 
