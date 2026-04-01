@@ -29,17 +29,29 @@ Month 03 of 2026 continued _not_ getting the re-release of kintespace.com almost
 
 This ‘obsession’ ate up about 12 days for month 03:
 
-![Obsidian Graph](../presentation/image/day-path-2026-03-31-20-04-28.png)
+<div style="text-align:center">
+
+![Obsidian Graph](../presentation/../day-path-2026-03-31-20-04-28.png)
+
+</div>
 
 Only three days were used for Publications:
 
-![Obsidian Graph](../presentation/image/day-path-2026-03-31-20-05-11.png)
+<div style="text-align:center">
+
+![Obsidian Graph](../presentation/../day-path-2026-03-31-20-05-11.png)
+
+</div>
 
 Selected notes of month 03 follow:
 
 ## [[Songhay Publications Internet Products|Internet Products]]: the index cards layout has problems
 
-![the index cards layout](../presentation/image/day-path-2026-03-31-20-12-16.png)
+<div style="text-align:center">
+
+![the index cards layout](../presentation/../day-path-2026-03-31-20-12-16.png)
+
+</div>
 
 - the cards are too tall above the [[Bulma]] widescreen breakpoint
 - there is a ‘flash’ of white space on the bottom of the card image
@@ -48,9 +60,13 @@ Selected notes of month 03 follow:
 
 The two-cell <acronym title="Cascading Style Sheets">CSS</acronym> grid layout appears to be a success:
 
-![the responsive ‘hero’ image layout](../presentation/image/day-path-2026-03-31-20-14-06.png)
+<div style="text-align:center">
 
-![SCSS file detail](../presentation/image/day-path-2026-03-31-20-14-37.png)
+![the responsive ‘hero’ image layout](../presentation/../day-path-2026-03-31-20-14-06.png)
+
+![SCSS file detail](../presentation/../day-path-2026-03-31-20-14-37.png)
+
+</div>
 
 1. the `grid-area` selection applied to both cells of this two-cell grid here is the ‘secret sauce’ that makes `img` effectively a background image (also, selecting a `width` of 100% assure that the grid will not “flash” white space on the x-sides)
 2. the `max-height` selection of `100vh` prevents the visuals ‘stacked’ on top of `img` from falling out of the view port
@@ -85,6 +101,8 @@ This is a definitive kick in the face for data scientists:
 
 ## [[Steve Sanderson]] answers the need to specify the hell out of <acronym title="Artificial Intelligence">AI</acronym> 😐
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=L1w6wBxhpgE">
         <img alt="Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026" src="https://img.youtube.com/vi/L1w6wBxhpgE/maxresdefault.jpg" width="480" />
@@ -92,13 +110,19 @@ This is a definitive kick in the face for data scientists:
     <p><small>Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026</small></p>
 </figure>
 
+</div>
+
 Instead of doing something resembling something I saw in a [[JetBrains]] lecture (the “[[2025-07-02#dotnet .NET <acronym title="Artificial Intelligence">AI</acronym> the Intent Integrity Chain 😐⛓|intent integrity chain]]”), Sanderson introduces what the “community” is actually doing: [Agent Skills](https://github.com/heilcheng/awesome-agent-skills#what-are-agent-skills):
 
 >Think of **Agent Skills** as "how-to guides" for AI assistants. Instead of the AI needing to know everything upfront, skills let it learn new abilities on the fly, like giving someone a recipe card instead of making them memorize an entire cookbook.
 
 The bit about Ralph Wiggum reveals that <acronym title="Artificial Intelligence">AI</acronym> agents can deliberately _not_ complete a task—so they have to be told to finish, sometimes repeatedly:
 
-![Ralph Wiggum web site](../presentation/image/day-path-2026-03-31-20-22-14.png)
+<div style="text-align:center">
+
+![Ralph Wiggum web site](../presentation/../day-path-2026-03-31-20-22-14.png)
+
+</div>
 <https://ralph-wiggum.ai/>
 
 ## [[AuthHero]]: “SPA Authentication: A Complete Guide (2026)”
@@ -170,12 +194,16 @@ const myValue = $('option:selected', myThing).text();
 
 The title of this video is misleading:
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=ehwaPIZwMuE">
         <img alt="Advanced RxJS with Ben Lesh | Build IT Better S01E16" src="https://img.youtube.com/vi/ehwaPIZwMuE/maxresdefault.jpg" width="480" />
     </a>
     <p><small>Advanced RxJS with Ben Lesh | Build IT Better S01E16</small></p>
 </figure>
+
+</div>
 
 One of the big takeaways from this talk is the large number of [[JavaScript]] libraries that “accidentally” reinvents the Observable.
 
