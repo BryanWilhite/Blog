@@ -31,7 +31,7 @@ This ‘obsession’ ate up about 12 days for month 03:
 
 <div style="text-align:center">
 
-![Obsidian Graph](../presentation/../day-path-2026-03-31-20-04-28.png)
+![Obsidian Graph](../../image/day-path-2026-03-31-20-04-28.png)
 
 </div>
 
@@ -39,7 +39,7 @@ Only three days were used for Publications:
 
 <div style="text-align:center">
 
-![Obsidian Graph](../presentation/../day-path-2026-03-31-20-05-11.png)
+![Obsidian Graph](../../image/day-path-2026-03-31-20-05-11.png)
 
 </div>
 
@@ -49,7 +49,7 @@ Selected notes of month 03 follow:
 
 <div style="text-align:center">
 
-![the index cards layout](../presentation/../day-path-2026-03-31-20-12-16.png)
+![the index cards layout](../../image/day-path-2026-03-31-20-12-16.png)
 
 </div>
 
@@ -62,9 +62,9 @@ The two-cell <acronym title="Cascading Style Sheets">CSS</acronym> grid layout a
 
 <div style="text-align:center">
 
-![the responsive ‘hero’ image layout](../presentation/../day-path-2026-03-31-20-14-06.png)
+![the responsive ‘hero’ image layout](../../image/day-path-2026-03-31-20-14-06.png)
 
-![SCSS file detail](../presentation/../day-path-2026-03-31-20-14-37.png)
+![SCSS file detail](../../image/day-path-2026-03-31-20-14-37.png)
 
 </div>
 
@@ -120,7 +120,7 @@ The bit about Ralph Wiggum reveals that <acronym title="Artificial Intelligence"
 
 <div style="text-align:center">
 
-![Ralph Wiggum web site](../presentation/../day-path-2026-03-31-20-22-14.png)
+![Ralph Wiggum web site](../../image/day-path-2026-03-31-20-22-14.png)
 
 </div>
 <https://ralph-wiggum.ai/>
