@@ -21,17 +21,25 @@
 
 I have not yet released kintespace.com. I am still working on the Index (home 🏠📄):
 
-![kintespace.com Index page](../presentation/image/day-path-2026-05-30-22-52-13.png)
+<div style="text-align:center">
+
+![kintespace.com Index page](../../image/day-path-2026-05-30-22-52-13.png)
+
+</div>
 
 What is left to do (generally—without rabbit holes 🐇🕳) are a few bits:
 
 - use a flowing flex layout of ‘visitor thumbs’ in the space visitors section 🍱✨
 - render YouTube ‘top ten’ videos in the space visitors section 🍱✨
-- generate an [[Open Graph protocol]] image for the Index page 🖼⚙✨
+- generate an Open Graph protocol image for the Index page 🖼⚙✨
 
 Month 05 of this year has over _twenty_ days of working toward the release of kintespace.com:
 
-![Obsidian Graph](../presentation/image/day-path-2026-05-30-22-52-54.png)
+<div style="text-align:center">
+
+![Obsidian Graph](../../image/day-path-2026-05-30-22-52-54.png)
+
+</div>
 
 The biggest rabbit hole 😐🐰🕳 of the month was around my desire to use Jupyter Notebooks (hooking into ImageMagick via Python) to generate the images for Index (shown above). This approach will allow me to preserve the repetitive procedures needed to generate multiple images of the same size and visual style.
 
@@ -39,7 +47,11 @@ Selected notes below should reveal the miserable details:
 
 ## Internet Products: `console.log(getIndexData())` returns the expected global data in `11ty/.eleventy.js` ✋👓✅
 
-![npm run build output](../presentation/image/day-path-2026-05-30-22-55-46.png)
+<div style="text-align:center">
+
+![npm run build output](../../image/day-path-2026-05-30-22-55-46.png)
+
+</div>
 
 ```json
 {
@@ -158,7 +170,7 @@ Selected notes below should reveal the miserable details:
 }
 ```
 
-## [[Ubuntu]]: “Ubuntu infrastructure has been down for more than a day”
+## Ubuntu: “Ubuntu infrastructure has been down for more than a day”
 
 >According to a [moderator](https://askubuntu.com/questions/1566282/ubuntu-infrastructure-not-responding-returning-503-or-other-errors/1566298#1566298) on AskUbuntu.com, URLs that remained unavailable include:
 >
@@ -187,9 +199,11 @@ Selected notes below should reveal the miserable details:
 
 Wow, can I actually get on with my Publications life? 👇
 
-![iteration of the kintespace.com Index page](../presentation/image/day-path-2026-05-30-22-58-47.png)
+![iteration of the kintespace.com Index page](../../image/day-path-2026-05-30-22-58-47.png)
 
-## [[Amazon]]: “Amazon is Disabling Old Kindles... Buy One of These Instead”
+## Amazon: “Amazon is Disabling Old Kindles... Buy One of These Instead”
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=WbFGK-tjiEY">
@@ -198,12 +212,14 @@ Wow, can I actually get on with my Publications life? 👇
     <p><small>Amazon is Disabling Old Kindles... Buy One of These Instead</small></p>
 </figure>
 
+</div>
+
 Recommended alternatives:
 
 - <https://www.kobo.com/>
 - <https://www.boox.com/>
 
-## [[Songhay Publications (C♯)]]: `JsonObjectExtensions.WithExtract` needs to be marked `Obsolete`…
+## Songhay Publications (C♯): `JsonObjectExtensions.WithExtract` needs to be marked `Obsolete`…
 
 …because `JsonObjectExtensions.WithConventionalFrontMatterForDocumentForPublicationProperties` will replace it. The following members depend on `WithExtract`:
 
@@ -216,11 +232,15 @@ Added issue: <https://github.com/BryanWilhite/Songhay.Publications/issues/65>
 
 I upped extract length to 255 characters:
 
-![VSCodium diff](../presentation/image/day-path-2026-05-30-23-02-57.png)
+<div style="text-align:center">
+
+![VSCodium diff](../../image/day-path-2026-05-30-23-02-57.png)
+
+</div>
 
 ## Internet Products: a publication pipeline based on a primal definition of a Document
 
-In this Studio a text-based document is made up of _lines_—and in the context of [[Markdown]] text there are two kinds of lines:
+In this Studio a text-based document is made up of _lines_—and in the context of Markdown text there are two kinds of lines:
 
 1. front matter lines
 2. content lines
@@ -235,15 +255,23 @@ From this very primal understanding, we can start walking into complexity (nuanc
 >[!important]
 >Most famous/traditional word processors do not recognize the existence of front matter as this concept get buried under Document properties and tags—and this Document metadata has traditionally not been available for automation outside of a ‘hostile’ proprietary document format (even when that format is <acronym title="Extensible Markup Language">XML</acronym>) that is designed to support word-processing software—_not_ data interchange.
 
-## [[Songhay Data Access (C♯)]]: `GenericRepository<T, TKey>` does not support nullable keys 😐
+## Songhay Data Access (C♯): `GenericRepository<T, TKey>` does not support nullable keys 😐
 
 `GenericRepository<T, TKey>` does not support nullable keys because it is currently constrained to `struct`—and, according to today’s research, constraining to `struct` only supports non-nullable `struct` types.
 
-![Bing AI output](../presentation/image/day-path-2026-05-30-23-05-15.png)
+<div style="text-align:center">
+
+![Bing AI output](../../image/day-path-2026-05-30-23-05-15.png)
+
+</div>
 
 This means we have to do stuff like the stuff on line 214:
 
-![JetBrains Rider screenshot](../presentation/image/day-path-2026-05-30-23-05-49.png)
+<div style="text-align:center">
+
+![JetBrains Rider screenshot](../../image/day-path-2026-05-30-23-05-49.png)
+
+</div>
 
 This is a hack:
 
@@ -281,13 +309,17 @@ else
 - “[Mastering Go Web Servers: From Zero to Hero](https://dev.to/leapcell/mastering-go-web-servers-from-zero-to-hero-58i3)”
 - “[Writing Web Applications](https://go.dev/doc/articles/wiki/)”
 - <https://github.com/caddyserver/caddy>
-- [[2024-11-06#Songhay Publications Publications “Moving my website from Netlify to Caddy”]]
+- 2024-11-06#Songhay Publications Publications “Moving my website from Netlify to Caddy”
 
-## [[Entity Framework]] and [[SQLite]]: auto-incrementing is not happening 😐
+## Entity Framework and SQLite: auto-incrementing is not happening 😐
 
-My first attempt to `INSERT` data in [[Songhay Publications - KinteSpace|the kinté space]] repo:
+My first attempt to `INSERT` data in Songhay Publications - KinteSpace|the kinté space repo:
 
-![DB Browser for SQLite screenshot](../presentation/image/day-path-2026-05-30-23-09-48.png)
+<div style="text-align:center">
+
+![DB Browser for SQLite screenshot](../../image/day-path-2026-05-30-23-09-48.png)
+
+</div>
 
 This time, the answer is clear:
 
@@ -311,28 +343,40 @@ protected override void OnModelCreating(ModelBuilder modelBuilder)
 
 New issue added: <https://github.com/BryanWilhite/Songhay.Publications/issues/71>
 
-## [[Lunr]] code has not been touched in six years 😐
+## Lunr code has not been touched in six years 😐
 
-Does this mean that [[Lunr]] (lunr.js) is “perfect” or… let me run `npm-check`…
+Does this mean that Lunr (lunr.js) is “perfect” or… let me run `npm-check`…
 
-There is no update for the [[Lunr]] package.
+There is no update for the Lunr package.
 
-Apparently there are no release dependencies for [[Lunr]]:
+Apparently there are no release dependencies for Lunr:
 
-![package.json screenshot](../presentation/image/day-path-2026-05-30-23-12-40.png)
+<div style="text-align:center">
+
+![package.json screenshot](../../image/day-path-2026-05-30-23-12-40.png)
+
+</div>
 <https://github.com/olivernn/lunr.js/blob/master/package.json>
 
-## [[DB Browser for SQLite]]: surely, this is my new daily driver 😐🗃
+## DB Browser for SQLite: surely, this is my new daily driver 😐🗃
 
 I have vastly underestimated this desktop utility:
 
-![DB Browser for SQLite screenshot](../presentation/image/day-path-2026-05-30-23-16-04.png)
+<div style="text-align:center">
 
-I think it was installed as a [[Debian]] package:
+![DB Browser for SQLite screenshot](../../image/day-path-2026-05-30-23-16-04.png)
 
-![Ubuntu Software screenshot](../presentation/image/day-path-2026-05-30-23-16-49.png)
+</div>
 
-## [[JavaScript]]: Composites are proposed by [[Google]] to determine object equality 😐
+I think it was installed as a Debian package:
+
+<div style="text-align:center">
+
+![Ubuntu Software screenshot](../../image/day-path-2026-05-30-23-16-49.png)
+
+</div>
+
+## JavaScript: Composites are proposed by Google to determine object equality 😐
 
 >[Nice 9-minute video](https://www.youtube.com/watch?v=hFenspfGLTk) from Matt Pocock (from about a year ago) introducing composites. The problem of not being able to compare objects definitely feels worth solving. Or, more accurately, fixing the issue where when compare two objects that look exactly the same, it’s still `false`. And that using them as keys doesn’t work. Sounds like Records & Tuples were close, but the performance downsides were too strong. [Composites](https://github.com/tc39/proposal-composites) are more likely to happen.
 >
@@ -345,20 +389,28 @@ const pos2 = Composite({ x: 1, y: 4 });
 Composite.equal(pos1, pos2); // true
 ```
 
-## [[Azure]]: my forecast keeps going up 😐😠💸
+## Azure: my forecast keeps going up 😐😠💸
 
 Here is the month 04 breakdown:
 
-![Azure cost pie chart](../presentation/image/day-path-2026-05-30-23-22-10.png)
+<div style="text-align:center">
+
+![Azure cost pie chart](../../image/day-path-2026-05-30-23-22-10.png)
+
+</div>
 
 Here is the mid-month 05 breakdown:
 
-![Azure cost pie chart](../presentation/image/day-path-2026-05-30-23-22-44.png)
+<div style="text-align:center">
+
+![Azure cost pie chart](../../image/day-path-2026-05-30-23-22-44.png)
+
+</div>
 
 - my storage costs have quadrupled (at least) 😲
 - my AzDO costs have almost doubled 😠
 
-## [[JupyterLite]]: “JupyterLite is a reboot of several attempts at making a full static Jupyter distribution that runs in the browser, without having to start the Python Jupyter Server on the host machine.” #to-do 😐🍱
+## JupyterLite: “JupyterLite is a reboot of several attempts at making a full static Jupyter distribution that runs in the browser, without having to start the Python Jupyter Server on the host machine.” #to-do 😐🍱
 
 >JupyterLite is part of the [Project Jupyter](https://jupyter.org/) [Frontends subproject](https://jupyterlab-team-compass.readthedocs.io).
 >
@@ -369,19 +421,27 @@ Here is the mid-month 05 breakdown:
 >—<https://jupyterlite.readthedocs.io/en/stable/>
 >
 
-## [[Python]]: I choose the `class` form of `Enum` 😐
+## Python: I choose the `class` form of `Enum` 😐
 
-Support for enumerations \[📖 [docs](https://docs.python.org/3/library/enum.html) \] was added to [[Python]] as of version 3.4. I am using this with [[Wand]]:
+Support for enumerations \[📖 [docs](https://docs.python.org/3/library/enum.html) \] was added to Python as of version 3.4. I am using this with Wand:
 
-![Python enumeration](../presentation/image/day-path-2026-05-30-23-30-04.png)
+<div style="text-align:center">
+
+![Python enumeration](../../image/day-path-2026-05-30-23-30-04.png)
+
+</div>
 
 I am using this enumeration with an `if`-`elif` structure and the `class` form is more friendly with the code-completion features of a decent <acronym title="Integrated Development Environment">IDE</acronym>:
 
-![Jupyter Notebook Python cell](../presentation/image/day-path-2026-05-30-23-30-37.png)
+<div style="text-align:center">
 
-I was not able to use the newer `match` structure \[📖 [docs](https://docs.python.org/3/whatsnew/3.10.html#pep-634-structural-pattern-matching) \] (available since version 3.10) in the [[Jupyter|Jupyter Notebook]] even though the kernel was 3.13x.
+![Jupyter Notebook Python cell](../../image/day-path-2026-05-30-23-30-37.png)
 
-## [[Jupyter]]: “Use Python Variable in Bash Effortlessly”
+</div>
+
+I was not able to use the newer `match` structure \[📖 [docs](https://docs.python.org/3/whatsnew/3.10.html#pep-634-structural-pattern-matching) \] (available since version 3.10) in the Jupyter|Jupyter Notebook even though the kernel was 3.13x.
+
+## Jupyter: “Use Python Variable in Bash Effortlessly”
 
 I am having difficulty finding official documentation for this:
 
@@ -407,7 +467,7 @@ my_var = "Hello, World!"
 
 ## sketching out development projects
 
-![Mermaid visualization of the eleventy Publication pipeline](../presentation/image/day-path-2026-05-30-22-50-18.png)
+![Mermaid visualization of the eleventy Publication pipeline](../../image/day-path-2026-05-30-22-50-18.png)
 
 - retire the old `kinte-space` repo for kintespace.com 🚜🧊
 - establish `DataAccess` logic for Obsidian markdown metadata 🔨✨
