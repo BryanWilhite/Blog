@@ -28,14 +28,14 @@ Now, without spending at least an hour looking through _years_ of notes, I will 
 
 ## my Web-based Publications must include a Flash-like media player
 
-I am laboring (alone and pathetically) under the assumption that I can have a “player” based on a single technology that can host interactive experiences, stream audio and stream video. I have decided (even after years of making wrong decisions about this) that this technology is based on [[WebAssembly]]. Just for giggles, here were my previous disastrous commitments:
+I am laboring (alone and pathetically) under the assumption that I can have a “player” based on a single technology that can host interactive experiences, stream audio and stream video. I have decided (even after years of making wrong decisions about this) that this technology is based on WebAssembly. Just for giggles, here were my previous disastrous commitments:
 
 - [Windows Help files](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help) on a credit-card sized CD-ROM (yes, I am serious about this)
 - [Macromedia Director](https://en.wikipedia.org/wiki/Adobe_Director) on a credit-card sized  CD-ROM
 - Adobe Flash
 - Microsoft Silverlight
 
-Now, in spite of overwhelming evidence that large entertainment companies have already succeeded in placing “creators” like me in an artisinal weirdo micro ghetto getting tinier by the minute, my new [[WebAssembly]] initiative is driven by the following (public) projects:
+Now, in spite of overwhelming evidence that large entertainment companies have already succeeded in placing “creators” like me in an artisinal weirdo micro ghetto getting tinier by the minute, my new WebAssembly initiative is driven by the following (public) projects:
 
 - `Songhay.Player.ProgressiveAudio` \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Player.ProgressiveAudio) \]
 - `Songhay.Player.YouTube` \[🔗 [GitHub](https://github.com/BryanWilhite/Songhay.Player.YouTube) \]
@@ -44,10 +44,10 @@ These projects are a fraction of what’s planned. Respectively, we can see that
 
 <div style="text-align:center">
 
-![GitHub Contributors: Songhay.Player.ProgressiveAudio](../presentation/image/day-path-2026-06-28-14-33-47.png)
+![GitHub Contributors: Songhay.Player.ProgressiveAudio](../../image/day-path-2026-06-28-14-33-47.png)
 <https://github.com/BryanWilhite/Songhay.Player.ProgressiveAudio/graphs/contributors?all=1>
 
-![GitHub Contributors: Songhay.Player.YouTube](../presentation/image/day-path-2026-06-28-14-35-35.png)
+![GitHub Contributors: Songhay.Player.YouTube](../../image/day-path-2026-06-28-14-35-35.png)
 <https://github.com/BryanWilhite/Songhay.Player.YouTube/graphs/contributors?all=1>
 
 </div>
@@ -87,7 +87,7 @@ I started the `Songhay.Publications` [project on GitHub](https://github.com/Brya
 
 <div style="text-align:center">
 
-![GitHub Commits: Songhay.Publications](../presentation/image/day-path-2026-06-28-14-37-12.png)
+![GitHub Commits: Songhay.Publications](../../image/day-path-2026-06-28-14-37-12.png)
 
 </div>
 
@@ -95,11 +95,11 @@ We can look at [my entire miserable life](https://github.com/BryanWilhite/Songha
 
 <div style="text-align:center">
 
-![GitHub Contributors: Songhay.Publications](../presentation/image/day-path-2026-06-28-14-39-27.png)
+![GitHub Contributors: Songhay.Publications](../../image/day-path-2026-06-28-14-39-27.png)
 
 </div>
 
-First there was the [[eleventy]] honeymoon period where I set up the Blogging system that I am using today (see <https://github.com/BryanWilhite/Blog>). However, this system paid little attention to my precious Index concept(s). My honeymoon period with [[Obsidian]] and my day-job inspired update of my <acronym title="Entity Framework">EF</acronym> skills (with a renewed respect for [[SQLite]]) drove me to revisit `Songhay.Publications`, inaugurating a second ‘era’ of development 🐇🕳
+First there was the eleventy honeymoon period where I set up the Blogging system that I am using today (see <https://github.com/BryanWilhite/Blog>). However, this system paid little attention to my precious Index concept(s). My honeymoon period with Obsidian and my day-job inspired update of my <acronym title="Entity Framework">EF</acronym> skills (with a renewed respect for SQLite) drove me to revisit `Songhay.Publications`, inaugurating a second ‘era’ of development 🐇🕳
 
 ## my selected notes of the month
 
@@ -107,30 +107,30 @@ Almost the entire month was dedicated to Internet Products (kintespace.com):
 
 <div style="text-align:center">
 
-![Obsidian graph](../presentation/image/day-path-2026-06-28-14-40-54.png)
+![Obsidian graph](../../image/day-path-2026-06-28-14-40-54.png)
 
 </div>
 
 This means there should be fewer notes to show publicly this month:
 
-## [[FluentValidation]] is preferred over [[MiniValidation]] by [[Damian Edwards]]…
+## FluentValidation is preferred over MiniValidation by Damian Edwards…
 
-…because [[MiniValidation]] (<https://github.com/DamianEdwards/MiniValidation>) depends on hard-coded attribute adornment via `System.ComponentModel.DataAnnotations`:
+…because MiniValidation (<https://github.com/DamianEdwards/MiniValidation>) depends on hard-coded attribute adornment via `System.ComponentModel.DataAnnotations`:
 
 <div style="text-align:center">
 
-![libhunt.com](../presentation/image/day-path-2026-06-28-14-47-23.png)
+![libhunt.com](../../image/day-path-2026-06-28-14-47-23.png)
 <https://www.libhunt.com/compare-MiniValidation-vs-FluentValidation>
 
 </div>
 
-## [[xUnit.net]]: my first time testing with reflection 😐🧠🧹
+## xUnit.net: my first time testing with reflection 😐🧠🧹
 
-The `ToIDocument_Test`, currently in the [[Songhay Publications - KinteSpace|the kinté space]] repo (but will be moved to [[Songhay Publications (C♯)]]), has _expected_ `JsonObject` property values against _actual_ plain-old .NET object values:
+The `ToIDocument_Test`, currently in the the kinté space repo (but will be moved to Songhay Publications (C♯)), has _expected_ `JsonObject` property values against _actual_ plain-old .NET object values:
 
 <div style="text-align:center">
 
-![JetBrains Rider screenshot](../presentation/image/day-path-2026-06-28-14-48-37.png)
+![JetBrains Rider screenshot](../../image/day-path-2026-06-28-14-48-37.png)
 
 </div>
 
@@ -146,20 +146,20 @@ PropertyInfo? propertyInfo = document
     .GetProperty(propertyName);
 ```
 
-## [[Songhay Publications Internet Products|Internet Products]]: should `IDocument` date-time properties always be `DateTimeKind.Utc` ? 😐🗺
+## Internet Products: should `IDocument` date-time properties always be `DateTimeKind.Utc` ? 😐🗺
 
 The short answer is _yes_. Just get on an international flight with your publishing pipeline and think about it 🛫 This [person](https://forum.obsidian.md/t/properties-support-retain-save-iso-8601-time-zone-information/67142/2) has:
 
 <div style="text-align:center">
 
-![forum.obsidian.md screenshot](../presentation/image/day-path-2026-06-28-14-51-33.png)
+![forum.obsidian.md screenshot](../../image/day-path-2026-06-28-14-51-33.png)
 
 </div>
 
 …and, by the way, two important facts:
 
-1. [[SQLite]] does _not_ support date or time types and stores `DateTime` as a string
-2. [[Obsidian]] “[just doesn’t seem to know how to correctly process timezone offsets correctly](https://forum.obsidian.md/t/obsidian-still-appears-to-not-fully-support-iso-8601-datetime-standard/114211/7)” and the “[date picker follows your operating system's default date and time format](https://obsidian.md/help/properties#Date)”
+1. SQLite does _not_ support date or time types and stores `DateTime` as a string
+2. Obsidian “[just doesn’t seem to know how to correctly process timezone offsets correctly](https://forum.obsidian.md/t/obsidian-still-appears-to-not-fully-support-iso-8601-datetime-standard/114211/7)” and the “[date picker follows your operating system's default date and time format](https://obsidian.md/help/properties#Date)”
 
 This _yes_ answer means stuff like this:
 
@@ -181,7 +181,7 @@ Assert.True(DateTime.TryParse(expected,
     DateTimeStyles.AdjustToUniversal, out DateTime actual));
 ```
 
-## [[FFmpeg]]: ffmpeg webCLI ([[WebAssembly]]) #to-do
+## FFmpeg: ffmpeg webCLI (WebAssembly) #to-do
 
 >A browser-based video editor powered by [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm). **No uploads, no servers -- all processing happens locally** in your browser using WebAssembly.
 >
@@ -190,13 +190,13 @@ Assert.True(DateTime.TryParse(expected,
 >—<https://github.com/tejaswigowda/ffmpeg-webCLI>
 >
 
-## [[WinUI]]: `Microsoft.UI.Reactor`
+## WinUI: `Microsoft.UI.Reactor`
 
-This appears to be [[Microsoft]]’s gigantic answer to [[2026-06-02#did you ever want to do what you do in Bolero but use C♯? 😐|what that other guy was doing]]:
+This appears to be Microsoft’s gigantic answer to what that other guy was doing:
 
 <div style="text-align:center">
 
-![WinUI banner](../presentation/image/day-path-2026-06-28-14-55-05.png)
+![WinUI banner](../../image/day-path-2026-06-28-14-55-05.png)
 
 </div>
 
@@ -212,7 +212,7 @@ This appears to be [[Microsoft]]’s gigantic answer to [[2026-06-02#did you eve
 >—<https://github.com/microsoft/microsoft-ui-reactor/tree/main>
 >
 
-## [[Songhay Publications Internet Products|Internet Products]]: I see where custom messages are needed for [[FluentValidation]] 😐✨
+## Internet Products: I see where custom messages are needed for FluentValidation 😐✨
 
 A custom message \[📖 [docs](https://docs.fluentvalidation.net/en/latest/configuring.html?highlight=withmessage) \] must be specified when FluentValidation begins with:
 
@@ -224,11 +224,11 @@ The specified condition was not met
 
 <div style="text-align:center">
 
-![console screenshot](../presentation/image/day-path-2026-06-28-14-57-19.png)
+![console screenshot](../../image/day-path-2026-06-28-14-57-19.png)
 
 </div>
 
-## [[Finance]]: “This time it’s coming for tech first.”
+## Finance: “This time it’s coming for tech first.”
 
 >It’s hard not to enjoy the bitter irony, here. The tech industry once revelled in disruption. Whether it was Uber wiping out the taxi industry, Amazon destroying traditional bookstores, or Spotify wiping out artist revenues, time and time again we’ve seen the Silicon Valley enrich themselves by disrupting an established market and then transforming into rent seekers.
 >
@@ -241,7 +241,7 @@ The specified condition was not met
 >—“[Cannibalism](https://b-ark.ca/2026/06/07/cannibalism.html)”
 >
 
-## [[Songhay Publications Internet Products|Internet Products]]: the thumb `img` elements should load lazily 😐 📞🐌🖼
+## Internet Products: the thumb `img` elements should load lazily 😐 📞🐌🖼
 
 >Lazy loading avoids the network and storage bandwidth required to handle the image until it's reasonably certain that it will be needed. This improves the performance in most typical use cases.
 >
@@ -252,31 +252,31 @@ The specified condition was not met
 >—<https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#lazy>
 >
 
-## [[Songhay Publications Internet Products|Internet Products]]: the splash image credits message experience is in place 👏😐
+## Internet Products: the splash image credits message experience is in place 👏😐
 
 <div style="text-align:center">
 
-![Index splash with Popover button](../presentation/image/day-path-2026-06-28-15-03-39.png)
+![Index splash with Popover button](../../image/day-path-2026-06-28-15-44-51.png)
 
-![Index splash with Popover displayed](../presentation/image/day-path-2026-06-28-15-04-19.png)
+![Index splash with Popover displayed](../../image/day-path-2026-06-28-15-04-19.png)
 
 </div>
 
-## [[Bing]] <acronym title="Artificial Intelligence">AI</acronym>: What Is the Best Local LLM for Coding in 2026?
+## Bing <acronym title="Artificial Intelligence">AI</acronym>: What Is the Best Local LLM for Coding in 2026?
 
 >Qwen3-Coder-Next is currently the top local LLM for coding in 2026, offering best-in-class performance on real-world software engineering tasks.
 
 <div style="text-align:center">
 
-![Copilot search result screenshot](../presentation/image/day-path-2026-06-28-15-09-38.png)
+![Copilot search result screenshot](../../image/day-path-2026-06-28-15-09-38.png)
 
 </div>
 
-## [[Songhay Publications Analytics|kintespace.com analytics]]: monthly hits section is complete 👏😐✅
+## kintespace.com analytics: monthly hits section is complete 👏😐✅
 
 <div style="text-align:center">
 
-![screenshot of hits page](../presentation/image/day-path-2026-06-28-15-11-14.png)
+![screenshot of hits page](../../image/day-path-2026-06-28-15-11-14.png)
 
 </div>
 
