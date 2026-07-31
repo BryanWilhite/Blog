@@ -23,7 +23,7 @@ Month 07 of 2026 was about releasing kintespace.com, really digging into details
 
 <div style="text-align:center">
 
-![Obsidian Graph view](../presentation/image/day-path-2026-07-30-22-41-31.png)
+![Obsidian Graph view](../../image/day-path-2026-07-30-22-41-31.png)
 
 </div>
 
@@ -54,7 +54,7 @@ When we are first introduced to Sep, we immediately can see that it is designed 
 
 <div style="text-align:center">
 
-![code screenshot](../presentation/image/day-path-2026-07-30-22-44-26.png)
+![code screenshot](../../image/day-path-2026-07-30-22-44-26.png)
 
 </div>
 
@@ -115,7 +115,7 @@ When “[.NET 8 and .NET 9 will reach End of Support on November 10, 2026](https
 
 <div style="text-align:center">
 
-![Claude’s API status page](../presentation/image/day-path-2026-07-30-22-52-24.png)
+![Claude’s API status page](../../image/day-path-2026-07-30-22-52-24.png)
 
 </div>
 
@@ -142,7 +142,7 @@ I have finished addressing, supposedly, all of the bits and bobs [[2026-07-07#mo
 
 <div style="text-align:center">
 
-![b-roll player screen with annotations](../presentation/image/day-path-2026-07-30-22-55-02.png)
+![b-roll player screen with annotations](../../image/day-path-2026-07-30-22-55-02.png)
 
 </div>
 
@@ -154,7 +154,7 @@ The `z-order` of the “sticky” dropdown needs to be sorted:
 
 <div style="text-align:center">
 
-![b-roll player screen with annotations](../presentation/image/day-path-2026-07-30-22-56-03.png)
+![b-roll player screen with annotations](../../image/day-path-2026-07-30-22-56-03.png)
 
 </div>
 
@@ -164,7 +164,7 @@ I have waited _years_ to see this experience:
 
 <div style="text-align:center">
 
-![b-roll player screen with annotations](../presentation/image/day-path-2026-07-30-22-57-05.png)
+![b-roll player screen with annotations](../../image/day-path-2026-07-30-22-57-05.png)
 
 </div>
 
@@ -196,7 +196,7 @@ The honorable folks of [[Snowpack]] leave this quite openly on their home page:
 >See also: [esbuild](https://esbuild.github.io/), [parcel](https://parceljs.org/)
 >
 
-![snowpack home page](../presentation/image/day-path-2026-07-30-22-59-49.png)
+![snowpack home page](../../image/day-path-2026-07-30-22-59-49.png)
 <https://www.snowpack.dev/>
 
 This is mentioned quite openly in:
@@ -265,9 +265,9 @@ Because this Studio invested in [[WebAssembly]] (and my day jobs have been [[Mic
 
 <div style="text-align:center">
 
-![Azure DevOps screenshot](../presentation/image/day-path-2026-07-30-23-15-29.png)
+![Azure DevOps screenshot](../../image/day-path-2026-07-30-23-15-29.png)
 
-![Azure DevOps screenshot](../presentation/image/day-path-2026-07-30-23-16-00.png)
+![Azure DevOps screenshot](../../image/day-path-2026-07-30-23-16-00.png)
 
 </div>
 
@@ -284,7 +284,7 @@ I am being charged almost $2 a day for this:
 
 <div style="text-align:center">
 
-![Azure DevOps screenshot](../presentation/image/day-path-2026-07-30-23-16-45.png)
+![Azure DevOps screenshot](../../image/day-path-2026-07-30-23-16-45.png)
 
 </div>
 
