@@ -13,13 +13,15 @@
   "isActive": true,
   "sortOrdinal": 0,
   "clientId": "2026-08-30-studio-status-report-2026-08",
-  "tag": "{\n  \u0022extract\u0022: \u0022\u0022\n}"
+  "tag": "{\n  \u0022extract\u0022: \u0022Month 08 of 2026 was about really understanding what Aspire is because my disagreement with Azure billing has led me off the path beaten to death by the co-author of Zero Day: A Novel. As modern developers, we are not supposed to be going around with the \\u2026\u0022\n}"
 }
 ---
 
 # studio status report: 2026-08
 
 Month 08 of 2026 was about really understanding what [Aspire](https://www.youtube.com/watch?v=FPwAGfslTJM&pp=ygUTZGF2aWQgZm93bGVyIGFzcGlyZQ%3D%3D) is because my disagreement with Azure billing has led me off the path beaten to death by the co-author of [_Zero Day: A Novel_](https://search.worldcat.org/title/861615141). As modern developers, we are _not_ supposed to be going around with the expectation of installing our apps in the cloud _without_ containerization. My Azure billing issues have encouraged me to be that old guy 👴 trying hang out with the cool kids 😎 I am adding Aspire-first, back-end development skills to my mix 👏
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=FPwAGfslTJM">
@@ -28,13 +30,23 @@ Month 08 of 2026 was about really understanding what [Aspire](https://www.youtub
     <p><small>Why Everyone Will be Using .NET Aspire /w David Fowler</small></p>
 </figure>
 
+</div>
+
 My disagreement with Azure billing appears to be over based what I am seeing in the Azure Portal from, like, last week:
 
-![Azure Portal billing forecast](../presentation/image/day-path-2026-08-30-19-47-12.png)
+<div style="text-align:center">
+
+![Azure Portal billing forecast](../../image/day-path-2026-08-30-19-47-12.png)
+
+</div>
 
 …to today:
 
-![Azure Portal billing forecast](../presentation/image/day-path-2026-08-30-19-48-09.png)
+<div style="text-align:center">
+
+![Azure Portal billing forecast](../../image/day-path-2026-08-30-19-48-09.png)
+
+</div>
 
 Here is my short list of anti-Azure-billing allegations that would be a waste of your time to reduce to the absurd:
 
@@ -63,7 +75,7 @@ This is too much work—especially during a heatwave—but when Microsoft starts
 
 Selected notes of the month:
 
-### [[Feedsmith]] is a simple way to visualize <acronym title="Really Simple Syndication">RSS</acronym> data, including <acronym title="Outline Processor Markup Language">OPML</acronym>
+### Feedsmith is a simple way to visualize <acronym title="Really Simple Syndication">RSS</acronym> data, including <acronym title="Outline Processor Markup Language">OPML</acronym>
 
 >Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML files.
 >
@@ -74,7 +86,9 @@ Selected notes of the month:
 
 See “[Parsing Examples](https://v3.feedsmith.dev/parsing/examples)” 📖
 
-## [[Songhay System Studio]]: “My TOP Patterns for Event Driven Architecture”
+## Songhay System Studio: “My TOP Patterns for Event Driven Architecture”
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=P5hq6iWn_p8">
@@ -83,15 +97,19 @@ See “[Parsing Examples](https://v3.feedsmith.dev/parsing/examples)” 📖
     <p><small>My TOP Patterns for Event Driven Architecture</small></p>
 </figure>
 
+</div>
+
 1. the outbox pattern (when a publisher cannot publish)
 2. the inbox pattern (when a subscriber/consumer cannot subscribe)
 3. at-least-once delivery (to prevent duplicate messages… depends on the inbox pattern❔)
 4. event choreography/orchestration
 5. handling transient failures (e.g. using an “exponential back-off” and then terminating with a dead-letter queue or topic)
 
-## [[dotnet|.NET]] C♯: [[Facet]] is better than [[AutoMapper]] …
+## .NET C♯: Facet is better than AutoMapper …
 
-…but it is slower in part because of its code-generation features as shown in this [[Nick Chapsas]] video:
+…but it is slower in part because of its code-generation features as shown in this Nick Chapsas video:
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=kiGG4fUe4RI">
@@ -100,12 +118,14 @@ See “[Parsing Examples](https://v3.feedsmith.dev/parsing/examples)” 📖
     <p><small>Stop Mapping in .NET Use Facets Instead</small></p>
 </figure>
 
+</div>
+
 >**Facet** is a C# source generator that eliminates DTO boilerplate. Declare what you want, and Facet generates the type, constructor, LINQ projection, and reverse mapping, all at compile time with zero runtime overhead.
 >
 >—<https://github.com/Tim-Maes/Facet>
 >
 
-## a very tough <acronym title="Sassy CSS">SCSS</acronym> question for [[Google]] <acronym title="Artificial Intelligence">AI</acronym>
+## a very tough <acronym title="Sassy CSS">SCSS</acronym> question for Google <acronym title="Artificial Intelligence">AI</acronym>
 
 …`how do we set a CSS custom property with a scss variable value?`
 
@@ -131,7 +151,7 @@ $brand-color: #ff5733;
 >Sass treats CSS custom properties literally to ensure maximum compatibility with native CSS features. If you write `--main-color: $brand-color;` without the `#{}` wrapper, Sass will compile it literally as `--main-color: $brand-color;`, which browsers cannot understand. Interpolation forces Sass to evaluate the variable and inject its actual value before compiling to CSS. [1](https://dev.to/frehner/making-css-vars-with-scss-vars-19dc), [2](https://sass-lang.com/documentation/breaking-changes/css-vars/), [3](https://www.ltvco.com/engineering/sass-variables-css-custom-properties/), [4](https://stackoverflow.com/questions/60469723/sass-mixin-pass-argument-as-css-variable)
 >
 
-## [[Astro]]: according to [[Google]] <acronym title="Artificial Intelligence">AI</acronym>, [[DOMPurify]] is needed 😐📦📦📦📦
+## Astro: according to Google <acronym title="Artificial Intelligence">AI</acronym>, DOMPurify is needed 😐📦📦📦📦
 
 …`can astro display santized chunks of HTML?`
 
@@ -153,7 +173,7 @@ $brand-color: #ff5733;
 > 
 > - Render the clean output safely inside your component template. [1](https://www.reddit.com/r/astrojs/comments/1dywtcu/best_approach_for_parsing_and_rendering_cms/)
 
-## asking [[Google]] <acronym title="Artificial Intelligence">AI</acronym> about my <acronym title="Cascading Style Sheets">CSS</acronym> background-image problems 😐💄
+## asking Google <acronym title="Artificial Intelligence">AI</acronym> about my <acronym title="Cascading Style Sheets">CSS</acronym> background-image problems 😐💄
 
 …`what does the syntax look like for background-image being set by CSS variable?`
 
@@ -187,7 +207,7 @@ $brand-color: #ff5733;
 }
 ```
 
-## [[Songhay Modules (F♯)]]: I know that `FsUnit.xUnit` is causing [[xUnit.net]] problems 😐😠📦🔥
+## Songhay Modules (F♯): I know that `FsUnit.xUnit` is causing xUnit.net problems 😐😠📦🔥
 
 I generate a brand new test project and define a `type` for a test that is having `ITestOutputHelper` injected and it works fine. Then I install `FsUnit.xUnit` (<https://github.com/fsprojects/FsUnit>) and the error message is this:
 
@@ -211,7 +231,7 @@ actual.IsError |> Assert.True
 
 There has not been a release for over a year.
 
-## [[dotnet|.NET]] F♯: I have stumbled upon the “record of functions” pattern with an answer from [[Google]] <acronym title="Artificial Intelligence">AI</acronym> 😐🤔
+## .NET F♯: I have stumbled upon the “record of functions” pattern with an answer from Google <acronym title="Artificial Intelligence">AI</acronym> 😐🤔
 
 …`in f# can a type composed of functions serve as an interface?`
 
@@ -256,9 +276,9 @@ let greetUser greeter name =
 - “[Interfaces](https://fsharpforfunandprofit.com/posts/interfaces/)”
 - “[Explicit Interface Implementation (C# Programming Guide)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/explicit-interface-implementation?redirectedfrom=MSDN)”
 
-## [[Blazor]]: this Studio needs to use “virtualization” #to-do 😐✨
+## Blazor: this Studio needs to use “virtualization” #to-do 😐✨
 
-[[dotnet|.NET 11]] adds support for non-fixed (❔) or “variable height” collections:
+.NET 11 adds support for non-fixed (❔) or “variable height” collections:
 
 <div style="text-align:center">
 
@@ -271,9 +291,9 @@ let greetUser greeter name =
 
 </div>
 
-## [[VSCodium]]: wow, [[David Fowler]] surely had his hand in this…
+## VSCodium: wow, David Fowler surely had his hand in this…
 
-![VSCodium showing Aspire extensions](../presentation/image/day-path-2026-08-30-20-50-22.png)
+![VSCodium showing Aspire extensions](../../image/day-path-2026-08-30-20-50-22.png)
 
 ## open pull requests on GitHub 🐙🐈
 
