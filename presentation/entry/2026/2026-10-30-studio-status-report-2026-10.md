@@ -32,7 +32,7 @@ This month required the following Studio releases:
 
 Selected notes of this month detail:
 
-## [[SQLite]]: “Conflict Free Replicated Data types (CRDTs)” 😐❓
+## SQLite: “Conflict Free Replicated Data types (CRDTs)” 😐❓
 
 Looks like a novel way to avoid or delay concurrency issues:
 
@@ -47,7 +47,7 @@ Looks like a novel way to avoid or delay concurrency issues:
 >—“[Conflict Free Replicated Data types (CRDTs)](https://vlcn.io/blog/intro-to-crdts)”
 >
 
-## [[Songhay Publications|Publications]]: “The `<time>` element should actually do something”
+## Publications: “The `<time>` element should actually do something”
 
 >If you’re a pedant about HTML though (like me), then you might use the [`<time>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/time) element:
 
@@ -63,7 +63,9 @@ Post published
 >—“[The `<time>` element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)”
 >
 
-## [[Azure Kubernetes Service]]: “APIM Hotrod S2E04 - Azure Kubernetes Service with Richard Hooper”
+## Azure Kubernetes Service: “APIM Hotrod S2E04 - Azure Kubernetes Service with Richard Hooper”
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=YMPDPhkhdFs">
@@ -72,9 +74,15 @@ Post published
     <p><small>APIM Hotrod S2E04 - Azure Kubernetes Service with Richard Hooper</small></p>
 </figure>
 
+</div>
+
 The [AKS Architecture Map](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook-Second-Edition/blob/main/Chapter04/maps/AKS%20Architecture.pdf) is featured:
 
-![AKS Architecture Map](../presentation/image/day-path-2026-10-30-22-13-52.png)
+<div style="text-align:center">
+
+![AKS Architecture Map](../../image/day-path-2026-10-30-22-13-52.png)
+
+</div>
 
 Tools mentioned:
 
@@ -110,7 +118,7 @@ Tools mentioned:
 >—“[AKS Automatic](https://blog.aks.azure.com/2024/05/22/aks-automatic)”
 >
 
-## [[Azure Kubernetes Service|AKS]]: “AKS on bare metal now on Ubuntu”
+## AKS: “AKS on bare metal now on Ubuntu”
 
 >Today, we are announcing the public preview of AKS on bare metal Ubuntu. Customers can now deploy AKS directly on their Ubuntu infrastructure, without installing or operating a hypervisor between Kubernetes and the underlying hardware.
 >
@@ -119,13 +127,17 @@ Tools mentioned:
 >—“[AKS on bare metal now on Ubuntu](https://blog.aks.azure.com/2026/09/25/aks-baremetal-ubuntu)”
 >
 
-## [[Songhay Data Access (C♯)]]: why is `CommonDbms` a sealed class?
+## Songhay Data Access (C♯): why is `CommonDbms` a sealed class?
 
 `CommonDbms` contains members like `GetSql` and `SetSql` that are just waiting to be inherited by a domain-specific subclass but the `sealed` specifier prevents this:
 
-![class CommonDbms](../presentation/image/day-path-2026-10-30-22-23-32.png)
+<div style="text-align:center">
 
-I am not seeing [[Joplin]] notes for this; I am not seeing `CommonDbms` mentioned in the issues. So, today, I propose the following:
+![class CommonDbms](../../image/day-path-2026-10-30-22-23-32.png)
+
+</div>
+
+I am not seeing Joplin notes for this; I am not seeing `CommonDbms` mentioned in the issues. So, today, I propose the following:
 
 - [x] define `SqlStatementCollection: Dictionary<string, string>` 🚜✨
 - [x] migrate `GetSql` and `SetSql` to `SqlStatementCollection` 🔨
@@ -133,37 +145,39 @@ I am not seeing [[Joplin]] notes for this; I am not seeing `CommonDbms` mentione
 
 **New issue:** <https://github.com/BryanWilhite/Songhay.DataAccess/issues/16>
 
-## [[Let’s Encrypt]]: “Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027”
+## Let’s Encrypt: “Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027”
 
 >Let’s Encrypt is continuing a push toward tighter security by reducing free SSL/TLS certificate lifetimes from 90 days to 64 days, starting February 10, 2027. For administrators already implementing modern [ACME](https://en.wikipedia.org/wiki/Automatic_Certificate_Management_Environment) clients that support [ARI](https://letsencrypt.org/2024/04/25/guide-to-integrating-ari-into-existing-acme-clients) (ACME Renewal Information), the change should be seamless. For those still relying on hardcoded renewal schedules or manual processes, February will be the deadline to update before certificates start expiring unexpectedly.
 >
 >—“[Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027](https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/)”
 >
 
-## <acronym title="Role-Based Access Control">RBAC</acronym> _is_ [[Linux]] 😐😲
+## <acronym title="Role-Based Access Control">RBAC</acronym> _is_ Linux 😐😲
 
 >- **RBAC**, abbreviated from **Role-Based Access Control** was released in December 22, 2000; as part of **SELinux** project which is an abbreviation of _Security-Enhanced Linux_ that is a security architecture for Linux® systems that allows administrators to have more control over who can access the system. ==It was originally developed by the United States National Security Agency (NSA) as a series of patches to the Linux kernel using Linux Security Modules (LSM).== In Kubernetes RBAC is a term that is used to determine the control model of organization operators and applications. Of course there is other control models such as ABAC and PBAC which are not delegated into Kubernetes ecosystem.
 >
 >—“[Kubernetes is just Linux](https://cms.staas.io/blog/kubernetes-is-just-linux/)”
 >
 
-## [[Microsoft]]: “Microsoft eXecution Container (MXC)”
+## Microsoft: “Microsoft eXecution Container (MXC)”
 
 >MXC is a **sandboxed code execution system** for running untrusted code (model output, plugins, and tools) on Windows, Linux, and macOS. It provides multiple containment backends, from OS-native process sandboxes to full VMs, behind a unified containment model and typed SDKs.
 >
 >—<https://github.com/microsoft/mxc>
 >
 
-## [[Firefox]]: “Fingerprints are the new cookies”
+## Firefox: “Fingerprints are the new cookies”
 
 >See, we’ve made a lot of civilizational progress in making browsing safe. [Long gone are the days when getting a virus just by visiting a website was a daily concern](https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface). The thing is, the definition of safety varies depending on who you ask. The broad consensus ends at isolation: a website’s code can’t see the data stored by other websites, and it can’t see your files or other applications without permission. **Chrome** and **Edge** stop here. Then you have **Safari** (especially on iOS/macOS 26+) and **Firefox** extending that definition to privacy, ==but they still don’t fully protect you from fingerprinting==. **Brave** and **Tor** are the leading privacy-first browsers, with up and coming **Mullvad Browser** (Mullvad being, in my opinion, one of the best VPN providers out there).
 >
 >—“[Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)”
 >
 
-## [[dotnet|.NET]]: “How I Tamed Claude - Emmz Rendle - NDC Copenhagen 2026”
+## .NET: “How I Tamed Claude - Emmz Rendle - NDC Copenhagen 2026”
 
 The speaker is spending $200/month on Claude “max”:
+
+<div style="text-align:center">
 
 <figure>
     <a href="https://www.youtube.com/watch?v=GoQzVjk8rzc">
@@ -172,7 +186,9 @@ The speaker is spending $200/month on Claude “max”:
     <p><small>How I Tamed Claude - Emmz Rendle - NDC Copenhagen 2026</small></p>
 </figure>
 
-![five tests for a mindful agent workflow](../presentation/image/day-path-2026-10-30-22-30-41.png)
+![five tests for a mindful agent workflow](../../image/day-path-2026-10-30-22-30-41.png)
+
+</div>
 
 1. spec before code
 2. separation of powers (no actor writes and approves its own work)
@@ -186,7 +202,7 @@ The speaker is spending $200/month on Claude “max”:
 > 
 > In essence, OpenSpec helps you [build the right thing and build it right](https://en.wikipedia.org/wiki/Software_verification_and_validation#Definitions).
 
-## [[dotnet|.NET]]: Common Vulnerabilities and Exposures (<acronym title="Common Vulnerabilities and Exposures">CVE</acronym>)
+## .NET: Common Vulnerabilities and Exposures (<acronym title="Common Vulnerabilities and Exposures">CVE</acronym>)
 
 <acronym title="Common Vulnerabilities and Exposures">CVE</acronym> is an industry-wide acronym:
 
@@ -195,6 +211,8 @@ The speaker is spending $200/month on Claude “max”:
 >—<https://www.cve.org/About/Overview>
 >
 
+<div style="text-align:center">
+
 <figure>
     <a href="https://www.youtube.com/watch?v=W4T2n_2m7WA">
         <img alt="CVE Lightning Talk" src="https://img.youtube.com/vi/W4T2n_2m7WA/maxresdefault.jpg" width="480" />
@@ -202,26 +220,32 @@ The speaker is spending $200/month on Claude “max”:
     <p><small>CVE Lightning Talk</small></p>
 </figure>
 
-## [[dapr]]: the official docs and the official examples run workflows as console applications…
+</div>
 
-…which implies that there is no great concern or great story to tell about workflows operate across multiple containers. This explains, in part, why [[Google]] <acronym title="Artificial Intelligence">AI</acronym> answered [[2026-10-16#…`for a dapr app in .net, does it make architectural sense to have one container have an API that is only concerned about workflows, calling at least one other container targeted by the workflows?`|my previous question]] without _any_ references at all.
+## dapr: the official docs and the official examples run workflows as console applications…
+
+…which implies that there is no great concern or great story to tell about workflows operate across multiple containers. This explains, in part, why Google <acronym title="Artificial Intelligence">AI</acronym> answered my previous question without _any_ references at all.
 
 What is quite disturbing is that, as of today, the official docs actually [show](https://docs.dapr.io/developing-applications/building-blocks/workflow/howto-author-workflow/#write-the-application) a code block for ASP.NET:
 
-![dapr docs](../presentation/image/day-path-2026-10-30-22-34-53.png)
+<div style="text-align:center">
+
+![dapr docs](../../image/day-path-2026-10-30-22-34-53.png)
+
+</div>
 
 But none of the [dapr workflow code samples](https://github.com/dapr/dotnet-sdk/tree/master/examples/Workflow) use ASP.NET 😐 Moreover, [the official workflow walk-through](https://docs.dapr.io/getting-started/quickstarts/workflow-quickstart/) is based on “a simple console application” 🤦 (also, see “[Using the Dapr Workflow API with C#](https://github.com/dapr/quickstarts/blob/master/tutorials/workflow/csharp/README.md)”)
 
-## [[Ubuntu]] will support [[Microsoft Entra ID]] going forward 😲
+## Ubuntu will support Microsoft Entra ID going forward 😲
 
 >Microsoft single sign-on (SSO) for Linux is powered by the Microsoft Identity Broker, a software component that integrates Linux devices with Microsoft Entra ID. This solution enables users to authenticate once with their Microsoft Entra ID credentials and access multiple applications and resources without repeated authentication prompts. The feature simplifies the sign-in process for users and reduces password management overhead for administrators.
 >
 >—”[What is Microsoft single sign-on for Linux?](https://learn.microsoft.com/en-us/entra/identity/devices/sso-linux?tabs=password-auth%2Cdebian-install%2Cdebian-update%2Cdebian-uninstall%2Cdebian-sc-example)”
 >
 
-## getting to know [[Claude]] #day-job
+## getting to know Claude #day-job
 
-- I _think_ [[Claude]] can contextualize from a central “workspace” repo and then run for each “code” repo with its individual `Claude.md` file. (**Update:** I am working with a mono-repo and Claude is being used to setup child repos for dozens and dozens of solutions)
+- I _think_ Claude can contextualize from a central “workspace” repo and then run for each “code” repo with its individual `Claude.md` file. (**Update:** I am working with a mono-repo and Claude is being used to setup child repos for dozens and dozens of solutions)
 - When encountering a repo cloned for the first time with an existing `Claude.md` file, running `claude init` is _not_ recommended; instead, consider running `/doctor prompt-audit` or just `/doctor` to get a status report of the quality of the `Claude.md` file and the understood context.
 - When changing terminals on the same desktop or restarting the desktop, use `claude -c` or `claude --continue` to keep the current context.
 - When installing local plugins while a session is open, run `/reload-plugins` to refresh.
@@ -229,7 +253,7 @@ But none of the [dapr workflow code samples](https://github.com/dapr/dotnet-sdk/
 >[!important]
 >Claude can be asked about the repo in context as an on-boarding experience for a new developer. This is huge! This eclipses my desire to use automated testing to ‘self document’ a repo 😐
 
-## [[dapr|dapr Workflow]] integration testing means using [[Testcontainers for .NET]] 😐🔬
+## dapr Workflow integration testing means using Testcontainers for .NET 😐🔬
 
 Integration testing requires `Dapr.Testcontainers` which depends on [Testcontainers for .NET](https://dotnet.testcontainers.org/) (see “[Integration testing with Dapr.Testcontainers](https://docs.dapr.io/developing-applications/sdks/dotnet/dotnet-guidance/dotnet-guidance-testcontainers/)”); otherwise, research will lead you into somewhat useless [mocking scenarios](https://github.com/dapr/dotnet-sdk/blob/master/examples/Workflow/WorkflowUnitTest/OrderProcessingTests.cs).
 

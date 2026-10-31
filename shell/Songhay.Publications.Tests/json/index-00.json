@@ -1,5 +1,12 @@
 [
   {
+    "extract": "Month 10 of 2026: - converting (too slowly) the Songhay Player back-end to S3 storage\nbeing introduced to Claude in a new day job This month required the following Studio releases: - Songhay.DataAccess 10.1.0\nSonghay.Publications 10.1.0\nSonghay.Publicatio\u2026",
+    "clientId": "2026-10-30-studio-status-report-2026-10",
+    "inceptDate": "2026-10-30T22:05:36.505Z",
+    "modificationDate": "2026-10-30T22:05:36.505Z",
+    "title": "studio status report: 2026-10"
+  },
+  {
     "extract": "Month 09 of 2026 was about: - re-releasing SonghaySystem.com\nadding S3 storage support to this Studio\n\u201Ccontainerizing\u201D the smallest Studio workflow\ngetting to know dapr The incredible (for me) achievements above required the following NuGet package releas\u2026",
     "clientId": "2026-09-29-studio-status-report-2026-09",
     "inceptDate": "2026-09-29T20:37:36.518Z",
